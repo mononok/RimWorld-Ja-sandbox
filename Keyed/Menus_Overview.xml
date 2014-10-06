@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<SkillMax>MAX</SkillMax>
+
+<!-- Work tab -->
+<WorkTab>仕事</WorkTab>
+<ManualPriorities>詳細な設定</ManualPriorities>
+<HigherPriority>優先度 高</HigherPriority>
+<LowerPriority>優先度 低</LowerPriority>
+<RelevantSkills>該当スキル：{0} \n 平均関連スキル： {1} / {2}</RelevantSkills>
+<ClickToJumpTo>クリックで移動：</ClickToJumpTo>
+<CannotDoThisWork>{0} は この仕事が できません</CannotDoThisWork>
+<NoneBrackets>（なし）</NoneBrackets>
+
+<!-- Factions tab -->
+<FactionsTab>部族</FactionsTab>
+<Hostile>敵対</Hostile>
+<HostileTo>{0} と 敵対</HostileTo>
+<CurrentGoodwill>現在の 友好度</CurrentGoodwill>
+
+<!-- Statistics tab -->
+<StatisticsTab>統計</StatisticsTab>
+<ColonyWealthTotal>村の価値</ColonyWealthTotal>
+<ColonyWealthItems>村の価値（アイテム）</ColonyWealthItems>
+<ColonyWealthBuildings>村の価値（建物）</ColonyWealthBuildings>
+<NumBigThreats>大きな脅威</NumBigThreats>
+<NumEnemyRaids>敵の襲撃</NumEnemyRaids>
+<DamageTaken>総ダメージ</DamageTaken>
+<ColonistsKilled>殺された 入植者数</ColonistsKilled>
+<ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
+
+
+
+<!-- History tab -->
+<HistoryTab>村の歴史</HistoryTab>
+<SelectGraph>グラフを選択</SelectGraph>
+<Last30Days>直近の30日</Last30Days>
+<Last100Days>直近の100日</Last100Days>
+<Last300Days>直近の300日</Last300Days>
+<AllDays>すべて</AllDays>
+<Day>日</Day>
+<Value>Value</Value>
+<External>External</External>
+
+
+
+</LanguageData>

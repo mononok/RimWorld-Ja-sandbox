@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--=========== Main menu ==========-->
+<CreateWorld>惑星を創造</CreateWorld>
+<NewColony>新しくはじめる</NewColony>
+<BackToGame>ゲーム再開</BackToGame>
+<Save>セーブ</Save>
+<Load>ロード</Load>
+<Options>オプション</Options>
+<Mods>MOD</Mods>
+<Credits>クレジット</Credits>
+<QuitToMainMenu>タイトルに もどる</QuitToMainMenu>
+<QuitToOS>ゲーム 終了</QuitToOS>
+<FictionPrimer>Fiction primer</FictionPrimer>
+<LudeonBlog>Ludeon blog</LudeonBlog>
+<Forums>Forums</Forums>
+<OfficialWiki>Official wiki</OfficialWiki>
+<TynansTwitter>Tynan's twitter</TynansTwitter>
+<TynansDesignBook>Tynan's design book</TynansDesignBook>
+<HelpTranslate>Help translate RimWorld</HelpTranslate>
+
+<!--=========== Create/review world ================-->
+<ReviewWorld>惑星を確認</ReviewWorld>
+<WorldGenerate>創造する</WorldGenerate>
+<WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
+<Reset>リセット</Reset>
+<WorldSize>大きさ</WorldSize>
+<WorldSeed>起源の種</WorldSeed>
+<RandomizeSeed>ランダムな種</RandomizeSeed>
+
+
+<!--=========== Select world ===================-->
+<SelectWorld>惑星を選択</SelectWorld>
+<WorldChooseButton>選択</WorldChooseButton>
+<NoWorldsFilesFound>保存されたデータがありません、先に惑星を創造してください</NoWorldsFilesFound>
+
+<!--=========== Version info ==========-->
+<BuildNowAvailable>新しい バージョン {0} が でました。 ludeon.com の 情報を 確認してください。</BuildNowAvailable>
+<BuildUpToDate>最新バージョン です。</BuildUpToDate>
+<ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
+<LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
+
+<!--=========== World generator =========-->
+<GenerateWorld>世界を創造</GenerateWorld>
+
+<!--=========== Mods screen ==========-->
+<GetMods>Web上からMODを検索</GetMods>
+<OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
+<ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
+<Author>作者</Author>
+
+
+<!--=========== Storyteller chooser ==========-->
+<ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
+<HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
+<MustChooseChallengeScale>難易度を選択</MustChooseChallengeScale>
+<ChallengeScale>難易度設定</ChallengeScale>
+<ChallengeScaleTip>When the storyteller sends threats after you, they will be {0} as large as in Challenge mode.</ChallengeScaleTip>
+<ChallengeScale_BuilderMode>創造者モード</ChallengeScale_BuilderMode>
+<ChallengeScale_Casual>易しい</ChallengeScale_Casual>
+<ChallengeScale_Rough>危険はある</ChallengeScale_Rough>
+<ChallengeScale_Challenge>挑戦しがいのある</ChallengeScale_Challenge>
+<ChallengeScale_SeriousChallegne>難しい</ChallengeScale_SeriousChallegne>
+<ChallengeScale_ExtremeChallenge>超難問</ChallengeScale_ExtremeChallenge>
+
+
+
+
+
+
+
+
+
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>降下地点を選択</SelectLandingSite>
+  <SelectSite>決定</SelectSite>
+  <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
+  <CannotLandBiome>その地形は {0} なため、降下できません</CannotLandBiome>
+  <WorldRenderMode>モード</WorldRenderMode>
+  <WorldRenderModeFull>全て</WorldRenderModeFull>
+  <WorldRenderModeTemperature>気温</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>高度</WorldRenderModeElevation>
+  <WorldRenderModeFertility>豊穣さ</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>降雨量</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>気候</WorldRenderModeBiomes>
+  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <Biome>気候</Biome>
+  <Terrain>地形</Terrain>
+  <Elevation>高度</Elevation>
+  <Fertility>豊穣</Fertility>
+  <AvgTemp>年平均気温</AvgTemp>
+  <Rainfall>降雨量</Rainfall>
+  <HasCoast0>北海岸</HasCoast0>
+  <HasCoast1>東海岸</HasCoast1>
+  <HasCoast2>南海岸</HasCoast2>
+  <HasCoast3>西海岸</HasCoast3>
+  <FactionBase>本拠地</FactionBase>
+
+
+<!--=========== Character chooser ==========-->
+<CreateCharacters>キャラクターの 作成</CreateCharacters>
+<FirstNameDesc>キャラクターの名前です。 \n\nこれは 特定のメニューで 表示されます。</FirstNameDesc>
+<ShortIdentifierDesc>キャラクターの 略称です。\n\nこれは 常に表示されます。 姓や名、 または 完全に別の ニックネームでも かまいません。</ShortIdentifierDesc>
+<LastNameDesc>キャラクターの 姓です。\n\n\これは 特定のメニューで 表示されます。</LastNameDesc>
+<Randomize>ランダム</Randomize>
+<AgeIndicator>年齢 {0}</AgeIndicator>
+<Backstory>生い立ち</Backstory>
+<IncapableOf>苦手・欠点</IncapableOf>
+<Traits>才能・性格</Traits>
+<TraitsDoNothing>特技・性格は、 まだ開発中で、 ほとんど何も ありません。 今のところは 楽しい ストーリービットです。 将来の バージョンで 機能を 搭載します。</TraitsDoNothing>
+<PermanentMoodEffect>ひとがら</PermanentMoodEffect>
+<Skills>スキル</Skills>
+<NoneLower>なし</NoneLower>
+<Adulthood>青年期</Adulthood>
+<Childhood>幼年期</Childhood>
+<Male>男</Male>
+<Female>女</Female>
+<Pain>やな奴</Pain>
+
+
+<!--=========== Misc ==========-->
+<Start>スタート</Start>
+<Advanced>高度な設定</Advanced>
+<Next>次</Next>
+<Back>戻る</Back>
+
+<Gameplay>ゲームの設定</Gameplay>
+
+<ConfirmQuit>本当に終了しますか？ セーブしていない データは うしなわれます。</ConfirmQuit>
+
+<EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
+
+<GeneratingWorld>惑星を 生成しています...</GeneratingWorld>
+<GeneratingMap>地図を 作成しています...</GeneratingMap>
+
+</LanguageData>

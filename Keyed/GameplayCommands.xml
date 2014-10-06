@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<CommandForbiddenDesc>禁止 - 入植者は これと かかわれません。</CommandForbiddenDesc>
+<CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
+
+  <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替える</CommandTryReconnectDesc>
+
+
+<CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
+<CommandGatherSpotToggleDescActive>集合 - 入植者が、 集まります。</CommandGatherSpotToggleDescActive>
+<CommandGatherSpotToggleDescInactive>通常 - 入植者は 集まりません。</CommandGatherSpotToggleDescInactive>
+
+
+  <!-- Drafting -->
+<CommandDraftLabel>徴兵</CommandDraftLabel>
+<CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
+<CommandToggleDraftDesc>入植者を 徴兵します。\n\n徴兵中の 入植者は 戦闘と 与えた 指示のみ 実行します。\n\n別の 仕事を はじめたり、 食事や 睡眠を あたえる時は 徴兵終了 してください。</CommandToggleDraftDesc>
+<IsIncapped>{0} を 無力化 しました。</IsIncapped>
+
+
+<CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
+<CommandCancelConstructionDesc>作成を 取り消します。</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>起きて布団から出る</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>入植者が所有するベッドにする</CommandBedSetOwnerDesc>
+  <BedAssign>割当</BedAssign>
+<CommandBedSetForPrisonersLabel>囚人用 ベッドに 設定</CommandBedSetForPrisonersLabel>
+<CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
+<CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
+<CommandBedSetForColonistsLabel>入植者用 ベッドに 設定</CommandBedSetForColonistsLabel>
+<CommandBedSetForColonistsDesc>Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>医療用 ベッドに 設定</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>医療用 ベッドを 解除</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
+<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
+<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
+<AreYouSure>本当に よろしいですか？</AreYouSure>
+
+
+
+<CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
+<CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
+
+<CommandRenameZoneDesc>このゾーンの 名前を 変更します。</CommandRenameZoneDesc>
+<CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
+
+<CommandHideZoneDesc>ゾーンの 非表示 / 再表示。</CommandHideZoneDesc>
+<CommandHideZoneLabel>非表示</CommandHideZoneLabel>
+<CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
+
+<CommandDeleteZoneDesc>ゾーンを 削除します。</CommandDeleteZoneDesc>
+<CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+
+
+<!-- Artillery -->
+<CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
+<CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します、</CommandSetForceAttackTargetDesc>
+<CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
+<CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
+<CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
+<MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
+<MessageTargetBelowMinimumRange>最小探知範囲より 近すぎます。</MessageTargetBelowMinimumRange>
+
+
+<!-- Ship computer core -->
+<CommandShipLaunch>船を発進する</CommandShipLaunch>
+<CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
+<CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
+<CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
+
+
+<!-- Pod -->
+<CommandPodEject>冬眠カプセルから出す</CommandPodEject>
+<CommandPodEjectDesc>冬眠者を 起こして カプセルから 出します。</CommandPodEjectDesc>
+<CommandPodEjectFailEmpty>中には 誰も いませんでした。</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorLock>施錠</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>鍵を持っていないと 開ける事は できなくなる</CommandToggleDoorLockDesc>
+
+</LanguageData>

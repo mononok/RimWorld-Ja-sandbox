@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--========= General ============-->
+    <Goto.reportString>移動中</Goto.reportString>
+
+    <Wait.reportString>待機</Wait.reportString>
+
+    <AttackStatic.reportString>TargetA を攻撃中</AttackStatic.reportString>
+
+    <AttackMelee.reportString>TargetA と格闘中</AttackMelee.reportString>
+
+    <UseVerbOnThing.reportString>verb を使用中</UseVerbOnThing.reportString>
+
+    <Equip.reportString>TargetA を装備中</Equip.reportString>
+
+    <!--============= Misc ============-->
+    <Wear.reportString>TargetA を着衣中</Wear.reportString>
+
+    <Strip.reportString>TargetA を脱衣中</Strip.reportString>
+
+    <Hunt.reportString>TargetA を狩猟中</Hunt.reportString>
+
+    <ManThing.reportString>機械 を操作中</ManThing.reportString>
+
+    <EnterCryptosleepPod.reportString>疑似冬眠ポッド で冬眠中</EnterCryptosleepPod.reportString>
+
+    <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
+
+    <!--============ Fire ============-->
+    <Ignite.reportString>TargetA に着火中</Ignite.reportString>
+
+    <BeatFire.reportString>消火中</BeatFire.reportString>
+
+    <ExtinguishSelf.reportString>自分自身消火中</ExtinguishSelf.reportString>
+
+    <!--============ Need satisfaction ============-->
+    <EatFood.reportString>TargetA を食事中</EatFood.reportString>
+
+    <Sleep.reportString>睡眠中</Sleep.reportString>
+
+    <!--============= Item hauling ===============-->
+    <HaulToCell.reportString>TargetA を地面まで搬送中</HaulToCell.reportString>
+
+    <HaulToContainer.reportString>TargetA を搬送中</HaulToContainer.reportString>
+
+    <!--============= Pawn hauling ===============-->
+    <Rescue.reportString>TargetA を救助中</Rescue.reportString>
+
+    <Capture.reportString>TargetA を捕獲中</Capture.reportString>
+
+    <Arrest.reportString>TargetA を逮捕中</Arrest.reportString>
+
+    <EscortPrisonerToBed.reportString>TargetA を護送中</EscortPrisonerToBed.reportString>
+
+    <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
+
+    <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
+
+
+
+
+    <DeliverFood.reportString>TargetA から TargetB に給仕中</DeliverFood.reportString>
+
+    <FeedPatient.reportString>TargetA から TargetB に給仕中</FeedPatient.reportString>
+
+    <HealPatient.reportString>TargetA を治療中</HealPatient.reportString>
+
+    <PlaceNoCostFrame.reportString>TargetA を建設中</PlaceNoCostFrame.reportString>
+
+    <DoBill.reportString>Doing bill at TargetA</DoBill.reportString>
+
+    <Clean.reportString>TargetA を掃除中</Clean.reportString>
+
+    <Research.reportString>研究中</Research.reportString>
+
+    <UseCommsConsole.reportString>通信中</UseCommsConsole.reportString>
+
+    <Mine.reportString>TargetA を掘削中</Mine.reportString>
+
+    <Repair.reportString>TargetA を修理中</Repair.reportString>
+
+    <FinishFrame.reportString>TargetA を仕上げ中</FinishFrame.reportString>
+
+    <Sow.reportString>TargetA の種子植え中</Sow.reportString>
+
+    <Harvest.reportString>TargetA の収穫中</Harvest.reportString>
+
+    <CutPlant.reportString>TargetA の収穫中</CutPlant.reportString>
+
+    <Deconstruct.reportString>TargetA の解体中</Deconstruct.reportString>
+
+    <PrisonerFriendlyChat.reportString>TargetA とおしゃべり中</PrisonerFriendlyChat.reportString>
+
+    <PrisonerBeatingMild.reportString>TargetA をこづき中</PrisonerBeatingMild.reportString>
+
+    <PrisonerBeatingVicious.reportString>TargetA を暴行、殴打中</PrisonerBeatingVicious.reportString>
+
+    <PrisonerExecution.reportString>TargetA を処刑中</PrisonerExecution.reportString>
+
+</LanguageData>

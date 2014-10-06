@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<FactionGreetingHostile>{0} 代表は、 モニターに罵倒し 通信を切断しました。</FactionGreetingHostile>
+<FactionGreetingWary>{0} 代表は、 用心深く {1} を迎え、ビジネスに 応えました。</FactionGreetingWary>
+<FactionGreetingWarm>{0} 代表は、 こころよく {1} を迎え、 村の 暮らしについて たずねました。</FactionGreetingWarm>
+
+<Disconnect>切断</Disconnect>
+
+<OfferGift>贈り物</OfferGift>
+<NeedSilverLaunchable>実行に {0} シルバー  必要</NeedSilverLaunchable>
+<NotEnoughSilver>シルバーが 足りない。</NotEnoughSilver>
+<SilverForGoodwill>{0} シルバー で 友好度 {1}</SilverForGoodwill>
+<SilverGiftSent>ありがとう {0} 代表。\n\n（友好度が {1} に改善）。</SilverGiftSent>
+
+
+<RequestMilitaryAid>いますぐ 軍事援助を 要求 （友好度 {0}）</RequestMilitaryAid>
+<MilitaryAidConfirmMutualEnemy>{0} は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
+<CallConfirm>はい、 とにかく 来てください。</CallConfirm>
+<CallCancel>いや、 気に しないでくれ。</CallCancel>
+<MilitaryAidSent>{0} 代表は、 あなたを 助けるために 戦士を 送ると 約束しました。</MilitaryAidSent>
+
+
+</LanguageData>

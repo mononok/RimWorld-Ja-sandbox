@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+<CallOnRadio>{0} 呼び出し</CallOnRadio>
+<CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
+<CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
+<CannotUseNoPath>使用できません （パスがない）</CannotUseNoPath>
+<CannotUseReserved>使用できません (reserved)</CannotUseReserved>
+<CannotUseFull>使用できません (満載l)</CannotUseFull>
+
+<FireAt>{0} を 射撃</FireAt>
+
+<OutOfRange>範囲外</OutOfRange>
+<CannotHitTarget>対象に 命中しません</CannotHitTarget>
+<CannotFight>{0} は戦えません</CannotFight>
+
+<OrderManThing>Man {0}</OrderManThing>
+
+<MeleeAttack>{0} に 格闘</MeleeAttack>
+<MeleeAttackToDeath>{0} を 格闘で 殺害</MeleeAttackToDeath>
+<NoPath>パスがありません</NoPath>
+
+<ForbiddenLower>無視</ForbiddenLower>
+<SociallyImproperLower>社交的でない</SociallyImproperLower>
+  <PrisonerRoomLower>牢獄が ない</PrisonerRoomLower>
+<BurningLower>炎上</BurningLower>
+<NoEmptyPlaceLower>備蓄する 空き場所が ない</NoEmptyPlaceLower>
+<AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
+<MissingMaterials>資材が ない</MissingMaterials>
+
+
+<CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>
+<GoHere>ここに移動</GoHere>
+
+<Arrest>{0} を 誘拐</Arrest>
+<CannotArrest>誘拐 できません</CannotArrest>
+
+<Capture>{0} を 捕獲</Capture>
+<CannotCapture>捕獲 できません</CannotCapture>
+
+<Rescue>{0} を 救助</Rescue>
+<CannotRescue>救助 できません</CannotRescue>
+
+<NoPrisonerBed>石壁・メタル壁で 囲った 囚人用 ベッドが ありません。</NoPrisonerBed>
+<NoNonPrisonerBed>利用可能な 入植者用 ベッドが ありません</NoNonPrisonerBed>
+<Reserved>他の誰かが 使用しています。</Reserved>
+<ReservedBy>{0} が 使用中です。</ReservedBy>
+<IsReservedBy>{0} は {1} が 使用しています。</IsReservedBy>
+
+  <NoManipulationSkill>操作不能</NoManipulationSkill>
+
+<Equip>{0} を 装備</Equip>
+  <EquipWarningBrawler>(殴り合いは 不幸になります)</EquipWarningBrawler>
+<CannotEquip>{0} を 装備できません</CannotEquip>
+
+<Wear>{0} を 着る</Wear>
+<CannotWear>{0} を 着用 できません</CannotWear>
+
+<Strip>{0} を 脱ぐ</Strip>
+<CannotStrip>{0} を 脱げません</CannotStrip>
+
+<Deposit>{0} を {1} に 渡す</Deposit>
+<CannotDeposit>{1} に {0} を 渡せません</CannotDeposit>
+
+<Drop>{0} を 手放す</Drop>
+
+  <UseMedicalBed>完治するまで休む</UseMedicalBed>
+  <NotInjured>完治した</NotInjured>
+  <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
+
+<!-- Specific thing interactions -->
+<EnterCryptosleepPod>冬眠カプセルに はいる</EnterCryptosleepPod>
+
+
+
+<!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+<CannotGenericWork>{1} を {0} できません</CannotGenericWork>
+
+<!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+<CannotGenericAlreadyAm> {1} は すでに {0} です</CannotGenericAlreadyAm>
+
+<CannotPrioritizeIsNotA>優先 できません （{0} は {1} が できません）</CannotPrioritizeIsNotA>
+
+<CannotPrioritizeResearch>優先 できません （研究は、優先順位を つけられません）</CannotPrioritizeResearch>
+
+<CannotPrioritizeForbidden>優先 できません （{0} は 禁止されています）</CannotPrioritizeForbidden>
+
+<!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+<PrioritizeGeneric>{1} を いますぐ {0} する</PrioritizeGeneric>
+
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AteRawFood.label>生肉を食べた</AteRawFood.label>
+	<AteRawFood.description>私は誰も調理ができないので生肉を食べた、せめて合成栄養食品でもあればいいのに</AteRawFood.description>
+	
+	<AteNutrientPasteMeal.label>合成栄養食品を食べた</AteNutrientPasteMeal.label>
+	<AteNutrientPasteMeal.description>合成栄養食品を食べた、生きる為には必要だとわかっているが、誰も、こんなドロッとした物をグッと飲み込みたいとは思わない</AteNutrientPasteMeal.description>
+	
+	<AteFineMeal.label>おいしい食事を食べた</AteFineMeal.label>
+	<AteFineMeal.description>本当においしい食事を食べた。おいしかった！</AteFineMeal.description>
+	
+	<AteLavishMeal.label>素晴らしい料理を食べた</AteLavishMeal.label>
+	<AteLavishMeal.description>驚くような素晴らしい食事を食べた。身も心も満たされる</AteLavishMeal.description>
+	
+	<!-- =========== Cannibalism =============== -->
+	<AteHumanoidMeatDirect.label>人肉を生で食べた</AteHumanoidMeatDirect.label>
+	<AteHumanoidMeatDirect.description>人間の、肉を、生で、動物のように食べた。これは悪夢だ</AteHumanoidMeatDirect.description>
+	
+	<AteHumanoidMeatAsIngredient.label>人肉を食べた</AteHumanoidMeatAsIngredient.label>
+	<AteHumanoidMeatAsIngredient.description>人間の肉を料理した食事を食べた。これは酷い</AteHumanoidMeatAsIngredient.description>
+	
+	<AteHumanoidMeatDirectCannibal.label>人の生肉で食事を済ました</AteHumanoidMeatDirectCannibal.label>
+	<AteHumanoidMeatDirectCannibal.description>人間の、肉を、生で、動物のように食べた。少し水っぽいかな？</AteHumanoidMeatDirectCannibal.description>
+	
+	<AteHumanoidMeatAsIngredientCannibal.label>人肉で食事を済ました</AteHumanoidMeatAsIngredientCannibal.label>
+	<AteHumanoidMeatAsIngredientCannibal.description>人間の肉を料理した食事を食べた。楽しい時間を過ごせた。ソラマメとキャンティワインがあればもっと楽しいのに</AteHumanoidMeatAsIngredientCannibal.description>
+
+	<ButcheredHumanoidCorpse.label>人肉解体</ButcheredHumanoidCorpse.label>
+	<ButcheredHumanoidCorpse.description>人間を動物のように解体した</ButcheredHumanoidCorpse.description>
+	
+	<AteWithoutTable.label>地面で食事をした</AteWithoutTable.label>
+	<AteWithoutTable.description>じべたの上で食事を摂った、だれかテーブルを探してきてくれ</AteWithoutTable.description>
+	
+	<!-- Combat -->
+	<ObservedLayingCorpse.label>死体を見た</ObservedLayingCorpse.label>
+	<ObservedLayingCorpse.description>私は地面の上に転がっている死体を見た</ObservedLayingCorpse.description>
+	
+	<ObservedLayingRottingCorpse.label>腐乱死体を見た</ObservedLayingRottingCorpse.label>
+	<ObservedLayingRottingCorpse.description>私は地面の上に転がっている腐乱死体を見た、ムナクソ悪くなる</ObservedLayingRottingCorpse.description>
+	
+	<WitnessedDeathAlly.label>死んでゆく仲間を見た</WitnessedDeathAlly.label>
+	<WitnessedDeathAlly.description>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間には死んでいた</WitnessedDeathAlly.description>
+	
+	<WitnessedDeathStranger.label>人が死ぬところを見た</WitnessedDeathStranger.label>
+	<WitnessedDeathStranger.description>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた</WitnessedDeathStranger.description>
+	
+	<WitnessedDeathStrangerBloodlust.label>誰か死んだ</WitnessedDeathStrangerBloodlust.label>
+	<WitnessedDeathStrangerBloodlust.description>誰かが死んだ！とても強烈な印象だ</WitnessedDeathStrangerBloodlust.description>
+	
+	<KilledHumanoidBloodlust.label>殺人者</KilledHumanoidBloodlust.label>
+	<KilledHumanoidBloodlust.description>人を殺した</KilledHumanoidBloodlust.description>
+	
+	<BattleWounded.label>撃たれた!</BattleWounded.label>
+	<BattleWounded.description>これは俺の血だ！、撃たれた、撃たれた</BattleWounded.description>
+	
+	<!-->
+	<ObservedGibbetCageEmpty.label>看?空?刑?</ObservedGibbetCageEmpty.label>
+	<ObservedGibbetCageEmpty.description>?些?刑?看起来如此残酷。</ObservedGibbetCageEmpty.description>
+
+	<ObservedGibbetCageFullStranger.label>看?装有陌生人的?刑?</ObservedGibbetCageFullStranger.label>
+	<ObservedGibbetCageFullStranger.description>我看?一个陌生人的尸体在?刑?里，?真是一个残酷的地方。</ObservedGibbetCageFullStranger.description>
+
+	<ObservedGibbetCageFullColonist.label>看?装有殖民者的?刑?</ObservedGibbetCageFullColonist.label>
+	<ObservedGibbetCageFullColonist.description>我看?一个自己人的尸体?在?刑?里，我以前?和他???。??直太可怕了。</ObservedGibbetCageFullColonist.description>
+	<-->
+	
+	<NewColonyOptimism.label>新天地</NewColonyOptimism.label>
+	<NewColonyOptimism.description>我々は今降り立った。苦しい状況だが、新しいコロニーを創立することに興奮している</NewColonyOptimism.description>
+	
+	<NewColonyHope.label>期待と不安</NewColonyHope.label>
+	<NewColonyHope.description>私はこの状況になれたが、まだあたらしい状況に興奮している。これが上手く行くことを望む</NewColonyHope.description>
+
+	<SleptOutside.label>野宿</SleptOutside.label>
+	<SleptOutside.description>無防備なまま、外で寝なければならなかった</SleptOutside.description>
+	
+	<SleptOnGround.label>ベッドが恋しい</SleptOnGround.label>
+    <SleptOnGround.description>動物のようにじべたに寝なければならなかった</SleptOnGround.description>
+	
+	<KnowPrisonerBeaten.label>囚人を虐待</KnowPrisonerBeaten.label>
+	<KnowPrisonerBeaten.description>誰かが囚人を虐待している</KnowPrisonerBeaten.description>
+	
+	<KnowPrisonerSold.label>人身売買</KnowPrisonerSold.label>
+	<KnowPrisonerSold.description>このコロニーでは囚人を奴隷のように売買している、よくないと思う</KnowPrisonerSold.description>
+	
+	<KnowPrisonerExecuted.label>処刑</KnowPrisonerExecuted.label>
+	<KnowPrisonerExecuted.description>囚人を処刑した、このコロニーは日に日に凶悪になっていくようだ</KnowPrisonerExecuted.description>
+	
+	<JustImprisoned.label>収監された</JustImprisoned.label>
+	<JustImprisoned.description>私は囚人として牢獄に投げ込まれた、落ち着いて対処しなければ</JustImprisoned.description>
+	
+	<PrisonerFriendlyChat.label>監視官と話をした</PrisonerFriendlyChat.label>
+	<PrisonerFriendlyChat.description>監視官とこのコロニーについて話す機会があった、良い場所のように思えた……</PrisonerFriendlyChat.description>
+	
+	<PrisonerBeatenMild.label>こづかれた</PrisonerBeatenMild.label>
+	<PrisonerBeatenMild.description>監視官にこづかれた、どこも怪我はしていないが、くそ、いてて……</PrisonerBeatenMild.description>
+	
+	<PrisonerBeatenVicious.label>監視官から暴行を受けた</PrisonerBeatenVicious.label>
+	<PrisonerBeatenVicious.description>監視官にこっぴどく殴られた、このままじゃ死んでしまう……</PrisonerBeatenVicious.description>
+	
+	<SocialTalk.label>楽しい会話</SocialTalk.label>
+	<SocialTalk.description>みんなと楽しい会話をした</SocialTalk.description>
+
+	<AbrasiveTalk.label>不快な会話</AbrasiveTalk.label>
+	<AbrasiveTalk.description>不快な会話をした</AbrasiveTalk.description>
+
+	<GreenThumbHappy.label>豊かな園芸の才能</GreenThumbHappy.label>
+	<GreenThumbHappy.description>この世界にはもっと緑が必要だ！</GreenThumbHappy.description>
+</LanguageData>

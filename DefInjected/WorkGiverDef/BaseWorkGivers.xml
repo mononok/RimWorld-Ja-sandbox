@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+    <DoctorFeed.verb>給仕</DoctorFeed.verb>
+    <DoctorFeed.gerund>給仕</DoctorFeed.gerund>
+		
+	<DoctorEmergencyHeal.verb>緊急処置をする</DoctorEmergencyHeal.verb>
+    <DoctorEmergencyHeal.gerund>緊急処置</DoctorEmergencyHeal.gerund>
+
+	<DoctorHeal.verb>治療する</DoctorHeal.verb>
+    <DoctorHeal.gerund>治療</DoctorHeal.gerund>
+
+	<GrowerSow.verb>種をまき</GrowerSow.verb>
+    <GrowerSow.gerund>種まき</GrowerSow.gerund>
+
+	<GrowerHarvest.verb>収穫する</GrowerHarvest.verb>
+    <GrowerHarvest.gerund>収穫</GrowerHarvest.gerund>
+
+	<Mine.verb>掘る</Mine.verb>
+    <Mine.gerund>掘削</Mine.gerund>
+
+	<Research.verb>研究</Research.verb>
+    <Research.gerund>研究</Research.gerund>
+
+	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
+    <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
+		
+	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
+    <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
+
+	<PlantsCut.verb>剪断</PlantsCut.verb>
+    <PlantsCut.gerund>剪断</PlantsCut.gerund>
+
+	<CleanFilth.verb>掃く</CleanFilth.verb>
+    <CleanFilth.gerund>掃除</CleanFilth.gerund>
+
+	<Repair.verb>修理</Repair.verb>
+    <Repair.gerund>修理</Repair.gerund>
+
+	<FightFires.verb>消化</FightFires.verb>
+    <FightFires.gerund>消化</FightFires.gerund>
+
+	<Warden.verb>監視</Warden.verb>
+    <Warden.gerund>監視</Warden.gerund>
+
+	<Deconstruct.verb>解体</Deconstruct.verb>
+    <Deconstruct.gerund>解体</Deconstruct.gerund>
+
+	<ConstructFinishFrames.verb>建造</ConstructFinishFrames.verb>
+    <ConstructFinishFrames.gerund>建造</ConstructFinishFrames.gerund>
+
+	<ConstructDeliverResourcesToFrames.verb>従事</ConstructDeliverResourcesToFrames.verb>
+    <ConstructDeliverResourcesToFrames.gerund>従事</ConstructDeliverResourcesToFrames.gerund>
+
+	<ConstructDeliverResourcesToBlueprints.verb>従事</ConstructDeliverResourcesToBlueprints.verb>
+    <ConstructDeliverResourcesToBlueprints.gerund>従事</ConstructDeliverResourcesToBlueprints.gerund>
+
+	<HunterHunt.verb>狩る</HunterHunt.verb>
+    <HunterHunt.gerund>狩猟</HunterHunt.gerund>
+		
+	<BecomePatient.verb>ビーコン</BecomePatient.verb>
+    <BecomePatient.gerund>ビーコン</BecomePatient.gerund>
+		
+	<!-- ============= Cooking ============= -->
+	<DoBillsCook.verb>調理</DoBillsCook.verb>
+    <DoBillsCook.gerund>調理</DoBillsCook.gerund>
+
+	<DoBillsButcherFlesh.verb>捌く</DoBillsButcherFlesh.verb>
+    <DoBillsButcherFlesh.gerund>解体</DoBillsButcherFlesh.gerund>
+
+	<CookFillHopper.verb>充填</CookFillHopper.verb>
+    <CookFillHopper.gerund>充填</CookFillHopper.gerund>
+		
+	<!-- ============= Crafting ============= -->
+	<DoBillsCremate.verb>火葬</DoBillsCremate.verb>
+    <DoBillsCremate.gerund>火葬</DoBillsCremate.gerund>
+		
+	<DoBillsMakeClothes.verb>縫う</DoBillsMakeClothes.verb>
+    <DoBillsMakeClothes.gerund>縫製</DoBillsMakeClothes.gerund>
+
+	<DoBillsStonecut.verb>石切</DoBillsStonecut.verb>
+    <DoBillsStonecut.gerund>石切</DoBillsStonecut.gerund>
+
+	<DoBillsSlagRefining.verb>精錬</DoBillsSlagRefining.verb>
+    <DoBillsSlagRefining.gerund>精錬</DoBillsSlagRefining.gerund>
+
+	<DoBillsButcherMechanoid.verb>分解</DoBillsButcherMechanoid.verb>
+    <DoBillsButcherMechanoid.gerund>分解</DoBillsButcherMechanoid.gerund>
+
+    <DoBillsMakeWoodPlanks_Electric.verb>加工</DoBillsMakeWoodPlanks_Electric.verb>
+    <DoBillsMakeWoodPlanks_Electric.gerund>加工</DoBillsMakeWoodPlanks_Electric.gerund>
+
+    <DoBillsMakeWoodPlanks_Hand.verb>加工</DoBillsMakeWoodPlanks_Hand.verb>
+    <DoBillsMakeWoodPlanks_Hand.gerund>加工</DoBillsMakeWoodPlanks_Hand.gerund>
+
+    <!-- ============= Medical operations ============= -->
+    <TakeToBedToOperate.verb>介護</TakeToBedToOperate.verb>
+    <TakeToBedToOperate.gerund>介護</TakeToBedToOperate.gerund>
+
+	<DoBillsMedicalHumanOperation.verb>処置</DoBillsMedicalHumanOperation.verb>
+    <DoBillsMedicalHumanOperation.gerund>処置</DoBillsMedicalHumanOperation.gerund>
+
+	<DoBillsMedicalMechanoidOperation.verb>修理</DoBillsMedicalMechanoidOperation.verb>
+    <DoBillsMedicalMechanoidOperation.gerund>修理</DoBillsMedicalMechanoidOperation.gerund>
+		
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--============================ Simple mineables ===============================-->
+	<Sandstone.label>砂岩</Sandstone.label>
+	<Sandstone.description>砂粒が圧縮されてできた堆積岩</Sandstone.description>
+	<Limestone.label>石灰岩</Limestone.label>
+	<Limestone.description>古代の貝殻が圧縮されてできた堆積岩</Limestone.description>
+	<Granite.label>花崗岩</Granite.label>
+	<Granite.description>非常に硬い火成岩</Granite.description>
+	<Slate.label>粘板岩</Slate.label>
+	<Slate.description>色が暗い粘板岩、スレート劈開という層からなる</Slate.description>
+	<Marble.label>大理石</Marble.label>
+	<Marble.description>弱い変成岩</Marble.description>
+    <CollapsedRocks.label>落石</CollapsedRocks.label>
+    <CollapsedRocks.description>屋根を支えきれずに崩落した岩</CollapsedRocks.description>
+
+	<!--============================ Resource rocks ===============================-->
+	<MineableMetal.label>鉱床</MineableMetal.label>
+	<MineableMetal.description>ここで金属を採掘できる</MineableMetal.description>
+	<MineableSilver.label>銀鉱床</MineableSilver.label>
+	<MineableSilver.description>ここで銀を採掘できる</MineableSilver.description>
+	<MineableGold.label>金鉱床</MineableGold.label>
+	<MineableGold.description>ここで金を採掘できる</MineableGold.description>
+	<MineablePlasteel.label>Plasteel鉱床</MineablePlasteel.label>
+	<MineablePlasteel.description>古代のぎっしり詰まった瓦礫には、Plasteelが豊富に含まれています</MineablePlasteel.description>
+
+	<SteamGeyser.label>間欠泉</SteamGeyser.label>
+	<SteamGeyser.description>地底から蒸気が噴出しています</SteamGeyser.description>
+ 
+</LanguageData>

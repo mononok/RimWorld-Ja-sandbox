@@ -8,7 +8,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAME は、いつもいなくなったと思えば グループの後ろに脱落している</trans>
+		<trans>NAME は、いつもいなくなったと思えば グループの後ろに脱落しています</trans>
 	</rep>
 
 	<rep>
@@ -17,7 +17,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].description</path>
-		<trans>NAME は、どこにでも行きたがる。HECAP は歩くのが普通の人より早い</trans>
+		<trans>NAME は、どこにでも行きたがる。HECAP は普通の人より早く歩きます</trans>
 	</rep>
 
 	<rep>
@@ -26,7 +26,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAME は 常に切迫感をもって移動するので 他の人はついてこれない</trans>
+		<trans>NAME は 常に切迫感をもって移動するので 他の人はついていけません</trans>
 	</rep>
 
 	<!--> NaturalMood <-->
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[0].description</path>
-		<trans>NAME は、どんな HIS の状況下でも天然の楽天家です。一日中意にかえすことはありません</trans>
+		<trans>NAME は、どんな HIS 状況下でも天然の楽天家です。 一日中意にかえすことはありません</trans>
 	</rep>
 
 	<rep>
@@ -45,7 +45,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[1].description</path>
-		<trans>NAME は人生についての楽観主義者です。HIM 気分を落ち込ませることは難しいです</trans>
+		<trans>NAME は人生についての 楽観主義者です。HIS 気分を落ち込ませることは 難しいです</trans>
 	</rep>
 
 	<rep>
@@ -82,7 +82,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[1].description</path>
-		<trans>NAME は精神的に強くて、ストレスが、ほとんどの人を崩壊させる状況下でもあきらめません</trans>
+		<trans>NAME は精神的に強くて ほとんどのが人ストレスで 精神を崩壊させる 状況下でもあきらめません</trans>
 	</rep>
 
 	<rep>
@@ -91,7 +91,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[2].description</path>
-		<trans>NAME は、ストレスがかかると 投げ出す傾向がある</trans>
+		<trans>NAME は、ストレスがかかると 投げ出す傾向があります</trans>
 	</rep>
 
 	<rep>
@@ -100,7 +100,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[3].description</path>
-		<trans>NAME は常に脆く崩れやすい HECAP は、辛いことがあると 一番最初に精神崩壊してしまう</trans>
+		<trans>NAME は常に脆く崩れやすい HECAP は、辛いことがあると 一番最初に精神崩壊してしまう傾向があります</trans>
 	</rep>
 
 	<!--> Neurotic <-->
@@ -110,7 +110,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAME はきちんと整理整頓するのが好きです。HECAP はほとんどの人が成し遂げる事でも、多くの苦労します。HIS 不安な心理状態は、HIM 打ち倒します</trans>
+		<trans>NAME は整理整頓するのが好きです HECAP はほとんどの人が 成し遂げる事でも 多くの苦労します HIS 不安な心理状態は、HIM 崩壊へと導きます</trans>
 	</rep>
 
  	<rep>
@@ -119,7 +119,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[1].description</path>
-		<trans>NAME はどんなことについても 常にビクビクしている HECAP はほとんどの人が成し遂げる事でも 更に多くの苦労します HIS より不安な心理状態は HIM を簡単に打ち倒します</trans>
+		<trans>NAME はどんなことについても 常にビクビクしています。 HECAP はほとんどの人が 成し遂げる事でも 更に多くの苦労します。 HIS より不安な心理状態は HIM 崩壊へと導きます</trans>
 	</rep>
 
 	<!--> Industriousness <-->
@@ -129,7 +129,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[0].description</path>
-		<trans>NAME は、作業場にいて集中し続ける事が得意です。そして平均的な人よりも、より早く作業を行えます</trans>
+		<trans>NAME は作業場にいて 集中し続ける作業が得意です。 そして平均的な人よりも より早く作業を行うことができます</trans>
 	</rep>
 
 	<rep>
@@ -138,7 +138,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[1].description</path>
-		<trans>NAME は、生まれつきの勤労者です。ほとんどの人よりも早く仕事ができます</trans>
+		<trans>NAME は生まれつきの働き者です ほとんどの人よりも早く仕事ができます</trans>
 	</rep>
 
 	<rep>
@@ -147,7 +147,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[2].description</path>
-		<trans>NAME は、ちょっとだけ人より仕事が遅いです</trans>
+		<trans>NAME は 人よりちょっとだけ 仕事が遅いです</trans>
 	</rep>
 
 	<rep>
@@ -156,7 +156,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[3].description</path>
-		<trans>NAME はだらだらしてるのが好きで、物を作るのが嫌いです。HECAP 歩みもゆっくりで、作業場の前で集中している事なんて珍しい事です</trans>
+		<trans>NAME はだらだらしてるのが好きです。物を作るのが嫌いです。 HECAP 歩みもゆっくりで 作業場の前で 集中している事なんて 珍しい事です</trans>
 	</rep>
 
 	<!--> PsychicSensitivity <-->
@@ -166,7 +166,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[0].description</path>
-		<trans>NAME は超能力の持ち主です。HECAP は精神的現象に非常に敏感です</trans>
+		<trans>NAME は超能力の持ち主です。HECAP は精神的感受性が非常に敏感です</trans>
 	</rep>
 
 	<rep>
@@ -175,7 +175,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAME は精神的現象に敏感です</trans>
+		<trans>NAME は精神的感受性が高いです</trans>
 	</rep>
 
 	<rep>
@@ -184,7 +184,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].description</path>
-		<trans>NAME の能力は他の人の能力以下です 精神的現象が HECAP に及ぼすことはありません</trans>
+		<trans>NAME の精神的感受性は人並み以下です 精神的現象が HECAP に及ぼすことはありません</trans>
 	</rep>
 
 	<rep>
@@ -193,7 +193,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
-		<trans>NAME は、精神波が他人とは違うようで、まったく能力がありません。精神的現象が HECAP に及ぼすことは全くありません </trans>
+		<trans>NAME の精神波は 他人とは違うようで まったく影響を受けません 精神的現象が HECAP に及ぼすことは全くありません </trans>
 	</rep>
 
 </LanguageData>

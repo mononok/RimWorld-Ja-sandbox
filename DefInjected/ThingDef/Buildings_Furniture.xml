@@ -4,35 +4,42 @@
 	<!--============================== Beds ==============================-->
 	<SleepingSpot.label>寝床</SleepingSpot.label>
 	<SleepingSpot.description>地面の上で直接寝る寝床、居心地は良くはありません。睡眠効果: 7/10</SleepingSpot.description>
+
 	<Bed.label>ベッド</Bed.label>
 	<Bed.description>休息する為のマットレスとシーツ。睡眠効果: 10/10</Bed.description>
+
 	<RoyalBed.label>大きなベッド</RoyalBed.label>
 	<RoyalBed.description>出産率が上がること間違いなし</RoyalBed.description>
+
 	<HospitalBed.label>医療用ベッド</HospitalBed.label>
-	<HospitalBed.description>病気を直すのに適したベッド、治療効果が高まる</HospitalBed.description>
+	<HospitalBed.description>病気を直すのに適したベッド、治療効果が高まります</HospitalBed.description>
 
 	<!--======================= Basic domestic furniture ==============================-->
 	<Stool.label>スツール</Stool.label>
-	<Stool.description>人が座れる</Stool.description>
+	<Stool.description>人が座れます</Stool.description>
 
 	<!--======================= Tables ==============================-->
 	<TableShort.label>テーブル(短)</TableShort.label>
-	<TableShort.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになる</TableShort.description>
+	<TableShort.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります</TableShort.description>
+
 	<TableLong.label>テーブル(長)</TableLong.label>
-	<TableLong.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになる</TableLong.description>
+	<TableLong.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります</TableLong.description>
 
 	<!-- ======================== Lighting ======================= -->
 	<StandingLamp.label>電気スタンド</StandingLamp.label>
-	<StandingLamp.description>辺りを照らす</StandingLamp.description>
+	<StandingLamp.description>辺りを照らします</StandingLamp.description>
+
 	<StandingLamp_Red.label>電気スタンド(赤色)</StandingLamp_Red.label>
-	<StandingLamp_Red.description>赤く辺りを照らす</StandingLamp_Red.description>
+	<StandingLamp_Red.description>赤く辺りを照らします</StandingLamp_Red.description>
+
 	<StandingLamp_Green.label>電気スタンド(緑)</StandingLamp_Green.label>
-	<StandingLamp_Green.description>緑に辺りを照らす</StandingLamp_Green.description>
+	<StandingLamp_Green.description>緑に辺りを照らします</StandingLamp_Green.description>
+
 	<StandingLamp_Blue.label>電気スタンド(青)</StandingLamp_Blue.label>
-	<StandingLamp_Blue.description>青く辺りを照らす</StandingLamp_Blue.description>
+	<StandingLamp_Blue.description>青く辺りを照らします</StandingLamp_Blue.description>
 
 	<!--============================== Storage ==============================-->
 	<EquipmentRack.label>ロッカー</EquipmentRack.label>
-	<EquipmentRack.description>配達人は装備品をここに保管する</EquipmentRack.description>
+	<EquipmentRack.description>装備品は、 ここに保管します</EquipmentRack.description>
 
 </LanguageData>

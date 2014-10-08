@@ -3,33 +3,31 @@
 		
         <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
         <NutrientPasteDispenser.description>有機物原料から栄養素を取り出した糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
-        <Hopper.label>供給器</Hopper.label>
-        <Hopper.description>ペーストディスペンサと共に使って、自動で製造器に有機原料を供給します</Hopper.description>
+
+        <Hopper.label>付属供給器</Hopper.label>
+        <Hopper.description>ペーストディスペンサと共に使って、自動で有機原料を供給します</Hopper.description>
 		
 		<!-- ========================= Work tables ==========================-->
-		
-		<!--
-		<TableSawmillHand.label>手工?木机</TableSawmillHand.label>
-		<TableSawmillHand.description>一个用来把原木切成木板的?木装置，?力来源于肌肉。</TableSawmillHand.description>
-		<TableSawmillElectric.label>???木机</TableSawmillElectric.label>
-		<TableSawmillElectric.description>一个用来把原木切成木板的???木装置。</TableSawmillElectric.description>
-		-->
-		
-		<TableButcher.label>食肉加工場</TableButcher.label>
+		<TableButcher.label>食肉加工器</TableButcher.label>
 		<TableButcher.description>大きな肉の塊を小分けに加工します</TableButcher.description>
-		<TableMachining.label>機械作業場</TableMachining.label>
+
+		<TableMachining.label>工作機械</TableMachining.label>
 		<TableMachining.description>機械の分解・組立を行います</TableMachining.description>
+
 		<CookStove.label>コンロ</CookStove.label>
 		<CookStove.description>単純なコンロ台、簡易な調理器具</CookStove.description>
+
 		<TableStonecutter.label>石切機</TableStonecutter.label>
-		<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工する</TableStonecutter.description>
+		<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します</TableStonecutter.description>
+
 		<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
-		<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬する、ただし大量の電気を消費する</ElectricSmelter.description>
+		<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬する、ただし大量の電気を消費します</ElectricSmelter.description>
+
 		<Crematorium.label>火葬場</Crematorium.label>
 		<Crematorium.description>死体を荼毘に付す</Crematorium.description>
 		
 		<!-- ========== Hydroponics ==============-->
-		<HydroponicsBasin.label>水耕栽培機</HydroponicsBasin.label>
+		<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
 		<HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます</HydroponicsBasin.description>
 
 </LanguageData>

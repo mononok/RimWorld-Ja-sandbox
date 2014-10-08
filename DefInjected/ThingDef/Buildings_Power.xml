@@ -5,12 +5,12 @@
 	<PowerConduit.description>電気を送電する為のケーブル</PowerConduit.description>
 
 	<SolarGenerator.label>太陽光発電</SolarGenerator.label>
-	<SolarGenerator.description>太陽光で発電する。光がないと発電できない</SolarGenerator.description>
+	<SolarGenerator.description>太陽光で発電する。光がないと発電できません</SolarGenerator.description>
 
 	<GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
-	<GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できない</GeothermalGenerator.description>
+	<GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません</GeothermalGenerator.description>
 
-	<Battery.label>蓄電池</Battery.label>
-	<Battery.description>余った電力を蓄える事が出来る。(警告)過充電や水漏れは爆発の原因となる</Battery.description>
+	<Battery.label>バッテリー</Battery.label>
+	<Battery.description>余った電力を蓄える事が出来る。(警告)過充電や水漏れは爆発の原因となります</Battery.description>
 
 </LanguageData>

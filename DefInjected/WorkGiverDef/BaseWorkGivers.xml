@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
- 
+
     <DoctorFeed.verb>給仕</DoctorFeed.verb>
     <DoctorFeed.gerund>給仕</DoctorFeed.gerund>
-		
+
 	<DoctorEmergencyHeal.verb>緊急処置をする</DoctorEmergencyHeal.verb>
     <DoctorEmergencyHeal.gerund>緊急処置</DoctorEmergencyHeal.gerund>
 
@@ -24,7 +24,7 @@
 
 	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
-		
+
 	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
     <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
 
@@ -57,10 +57,10 @@
 
 	<HunterHunt.verb>狩る</HunterHunt.verb>
     <HunterHunt.gerund>狩猟</HunterHunt.gerund>
-		
+
 	<BecomePatient.verb>ビーコン</BecomePatient.verb>
     <BecomePatient.gerund>ビーコン</BecomePatient.gerund>
-		
+
 	<!-- ============= Cooking ============= -->
 	<DoBillsCook.verb>調理</DoBillsCook.verb>
     <DoBillsCook.gerund>調理</DoBillsCook.gerund>
@@ -70,11 +70,11 @@
 
 	<CookFillHopper.verb>充填</CookFillHopper.verb>
     <CookFillHopper.gerund>充填</CookFillHopper.gerund>
-		
+
 	<!-- ============= Crafting ============= -->
 	<DoBillsCremate.verb>火葬</DoBillsCremate.verb>
     <DoBillsCremate.gerund>火葬</DoBillsCremate.gerund>
-		
+
 	<DoBillsMakeClothes.verb>縫う</DoBillsMakeClothes.verb>
     <DoBillsMakeClothes.gerund>縫製</DoBillsMakeClothes.gerund>
 
@@ -86,13 +86,13 @@
 
 	<DoBillsButcherMechanoid.verb>分解</DoBillsButcherMechanoid.verb>
     <DoBillsButcherMechanoid.gerund>分解</DoBillsButcherMechanoid.gerund>
-
+<!--
     <DoBillsMakeWoodPlanks_Electric.verb>加工</DoBillsMakeWoodPlanks_Electric.verb>
     <DoBillsMakeWoodPlanks_Electric.gerund>加工</DoBillsMakeWoodPlanks_Electric.gerund>
 
     <DoBillsMakeWoodPlanks_Hand.verb>加工</DoBillsMakeWoodPlanks_Hand.verb>
     <DoBillsMakeWoodPlanks_Hand.gerund>加工</DoBillsMakeWoodPlanks_Hand.gerund>
-
+-->
     <!-- ============= Medical operations ============= -->
     <TakeToBedToOperate.verb>介護</TakeToBedToOperate.verb>
     <TakeToBedToOperate.gerund>介護</TakeToBedToOperate.gerund>
@@ -102,5 +102,5 @@
 
 	<DoBillsMedicalMechanoidOperation.verb>修理</DoBillsMedicalMechanoidOperation.verb>
     <DoBillsMedicalMechanoidOperation.gerund>修理</DoBillsMedicalMechanoidOperation.gerund>
-		
+
 </LanguageData>

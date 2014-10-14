@@ -2,62 +2,62 @@
 <LanguageData>
 
         <Research.pawnLabel>研究者</Research.pawnLabel>
-        <Research.gerundLabel>研究すること</Research.gerundLabel>
+        <Research.gerundLabel>研究</Research.gerundLabel>
         <Research.tooltipDesc>研究者 は 研究 を行う</Research.tooltipDesc>
         <Research.verb>研究</Research.verb>
 
         <Cleaning.pawnLabel>掃除人</Cleaning.pawnLabel>
-        <Cleaning.gerundLabel>掃除すること</Cleaning.gerundLabel>
+        <Cleaning.gerundLabel>掃除</Cleaning.gerundLabel>
         <Cleaning.tooltipDesc>掃除係は本拠地を掃除し、よりよく住みやすい環境にする</Cleaning.tooltipDesc>
         <Cleaning.verb>掃く</Cleaning.verb>
 
         <Hauling.pawnLabel>配達人</Hauling.pawnLabel>
-        <Hauling.gerundLabel>運ぶこと</Hauling.gerundLabel>
+        <Hauling.gerundLabel>運搬</Hauling.gerundLabel>
         <Hauling.tooltipDesc>配達人は必要な所へ必要な物を配達する</Hauling.tooltipDesc>
         <Hauling.verb>運ぶ</Hauling.verb>
 
         <Art.pawnLabel>芸術家</Art.pawnLabel>
-        <Art.gerundLabel>芸術すること</Art.gerundLabel>
+        <Art.gerundLabel>芸術</Art.gerundLabel>
         <Art.tooltipDesc>芸術家は絵画のように美しいものを創る</Art.tooltipDesc>
         <Art.verb>芸術</Art.verb>
 
         <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
-        <Crafting.gerundLabel>工芸すること</Crafting.gerundLabel>
+        <Crafting.gerundLabel>工芸</Crafting.gerundLabel>
         <Crafting.tooltipDesc>工芸家は未加工の物から創り出す</Crafting.tooltipDesc>
         <Crafting.verb>工芸</Crafting.verb>
 
         <PlantCutting.pawnLabel>収穫者</PlantCutting.pawnLabel>
-        <PlantCutting.gerundLabel>収穫すること</PlantCutting.gerundLabel>
+        <PlantCutting.gerundLabel>収穫</PlantCutting.gerundLabel>
         <PlantCutting.tooltipDesc>収穫者は、指示された草木を切ったり、それから収穫したりする</PlantCutting.tooltipDesc>
         <PlantCutting.verb>収穫</PlantCutting.verb>
 
         <Mining.pawnLabel>採掘者</Mining.pawnLabel>
-        <Mining.gerundLabel>採掘すること</Mining.gerundLabel>
+        <Mining.gerundLabel>採掘</Mining.gerundLabel>
         <Mining.tooltipDesc>採掘者は、あなたが指示した場所を掘ります。もしそこが鉱床なら、鉱物を産出します</Mining.tooltipDesc>
         <Mining.verb>掘る</Mining.verb>
 
         <Growing.pawnLabel>栽培者</Growing.pawnLabel>
-        <Growing.gerundLabel>栽培すること</Growing.gerundLabel>
+        <Growing.gerundLabel>栽培</Growing.gerundLabel>
         <Growing.tooltipDesc>栽培者は、植物の種を育てて作物をにします</Growing.tooltipDesc>
         <Growing.verb>栽培</Growing.verb>
 
         <Repair.pawnLabel>修理工</Repair.pawnLabel>
-        <Repair.gerundLabel>修理すること</Repair.gerundLabel>
+        <Repair.gerundLabel>修理</Repair.gerundLabel>
         <Repair.tooltipDesc>修理工は、壊れた機械や建物を修理します</Repair.tooltipDesc>
         <Repair.verb>修理</Repair.verb>
 
         <Construction.pawnLabel>大工</Construction.pawnLabel>
-        <Construction.gerundLabel>建築すること</Construction.gerundLabel>
+        <Construction.gerundLabel>建築</Construction.gerundLabel>
         <Construction.tooltipDesc>大工は、指示した場所に建物を建てます</Construction.tooltipDesc>
         <Construction.verb>建築</Construction.verb>
 
         <Hunting.pawnLabel>狩人</Hunting.pawnLabel>
-        <Hunting.gerundLabel>狩猟すること</Hunting.gerundLabel>
+        <Hunting.gerundLabel>狩猟</Hunting.gerundLabel>
         <Hunting.tooltipDesc>狩人は、指示された動物を狩ります</Hunting.tooltipDesc>
         <Hunting.verb>狩猟</Hunting.verb>
 
         <Cooking.pawnLabel>料理人</Cooking.pawnLabel>
-        <Cooking.gerundLabel>料理すること</Cooking.gerundLabel>
+        <Cooking.gerundLabel>料理</Cooking.gerundLabel>
         <Cooking.tooltipDesc>料理人は、ペーストディスペンサーに原料を詰めたり、食事の用意をします</Cooking.tooltipDesc>
         <Cooking.verb>料理</Cooking.verb>
 
@@ -66,10 +66,10 @@
         <Warden.tooltipDesc>看守は、あなたの指示どおりに囚人を勧誘したり、くだけた会話をしたり、しばいたり、処刑するし。また囚人に食事も運んでいく</Warden.tooltipDesc>
         <Warden.verb>見守る</Warden.verb>
 
-        <Patient.pawnLabel>病人</Patient.pawnLabel>
-        <Patient.gerundLabel>病人</Patient.gerundLabel>
-        <Patient.tooltipDesc>病人は、治療が必要なら、医療用ベッドへ行く</Patient.tooltipDesc>
-        <Patient.verb>病人になる</Patient.verb>
+        <Patient.pawnLabel>看病</Patient.pawnLabel>
+        <Patient.gerundLabel>看病</Patient.gerundLabel>
+        <Patient.tooltipDesc>病人は、治療が必要なら医療用ベッドへ連れて行く</Patient.tooltipDesc>
+        <Patient.verb>看病する</Patient.verb>
 
         <Doctor.pawnLabel>医者</Doctor.pawnLabel>
         <Doctor.gerundLabel>医者</Doctor.gerundLabel>
@@ -77,7 +77,7 @@
         <Doctor.verb>治療</Doctor.verb>
 
         <Firefighter.pawnLabel>消防士</Firefighter.pawnLabel>
-        <Firefighter.gerundLabel>火を消すこと</Firefighter.gerundLabel>
+        <Firefighter.gerundLabel>消火</Firefighter.gerundLabel>
         <Firefighter.tooltipDesc>消防士はコロニーの 火災を消火します</Firefighter.tooltipDesc>
         <Firefighter.verb>消火</Firefighter.verb>
 

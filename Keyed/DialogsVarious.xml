@@ -26,7 +26,7 @@
 <!-- Zone naming -->
 <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
 <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
-  
+
   <!-- Pawn naming -->
   <PawnGainsName>ニックネームを {0} 決めました</PawnGainsName>
 
@@ -48,7 +48,7 @@
 <Unresearched>未研究</Unresearched>
 <Finished>完成した</Finished>
 <InProgress>進行中</InProgress>
-<ResearchMenuWithoutBench>研究机を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
+<ResearchMenuWithoutBench>研究卓を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
 
 
 <!-- Advanced game start options -->
@@ -152,8 +152,8 @@
   <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
   <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
   <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
-  
-  
+
+
   <!--Research-->
 <ResearchFinished>研究が完了した： {0}</ResearchFinished>
 <ResearchScreen>研究メニュー</ResearchScreen>

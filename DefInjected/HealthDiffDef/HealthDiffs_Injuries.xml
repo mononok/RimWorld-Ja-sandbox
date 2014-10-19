@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Misc.label>Misc</Misc.label>
+	<Misc.injury.oldLabel>切り傷</Misc.injury.oldLabel>
+	<Misc.injury.destroyedLabel>喪失</Misc.injury.destroyedLabel>
+	<Misc.injury.treatedWellLabel>包帯を巻いた</Misc.injury.treatedWellLabel>
+	<Misc.injury.treatedLabel>雑に包帯を巻いた</Misc.injury.treatedLabel>
+	<Misc.injury.innerTreatedWellLabel>手当てした</Misc.injury.innerTreatedWellLabel>
+	<Misc.injury.innerTreatedLabel>雑に手当てした</Misc.injury.innerTreatedLabel>
+	<Misc.injury.solidTreatedWellLabel>あてがった</Misc.injury.solidTreatedWellLabel>
+	<Misc.injury.solidTreatedLabel>雑にあてがった</Misc.injury.solidTreatedLabel>
+
+	<Burn.label>やけど</Burn.label>
+	<Burn.injury.oldLabel>やけどの痕</Burn.injury.oldLabel>
+	<Burn.injury.destroyedLabel>燃えた</Burn.injury.destroyedLabel>
+	<Burn.injury.destroyedOutLabel>燃え尽きた</Burn.injury.destroyedOutLabel>
+	<Burn.injury.treatedWellLabel>包帯を巻いた</Burn.injury.treatedWellLabel>
+	<Burn.injury.treatedLabel>雑に包帯を巻いた</Burn.injury.treatedLabel>
+	<Burn.injury.innerTreatedWellLabel>縫合した</Burn.injury.innerTreatedWellLabel>
+	<Burn.injury.innerTreatedLabel>雑に縫合した</Burn.injury.innerTreatedLabel>
+	<Burn.injury.solidTreatedWellLabel>あてがった</Burn.injury.solidTreatedWellLabel>
+	<Burn.injury.solidTreatedLabel>雑にあてがった</Burn.injury.solidTreatedLabel>
+
+	<Crush.label>ひしゃげた</Crush.label>
+	<Crush.injury.oldLabel>切り傷</Crush.injury.oldLabel>
+	<Crush.injury.destroyedLabel>ひしゃげた</Crush.injury.destroyedLabel>
+	<Crush.injury.treatedWellLabel>包帯を巻いた</Crush.injury.treatedWellLabel>
+	<Crush.injury.treatedLabel>雑に包帯を巻いた</Crush.injury.treatedLabel>
+	<Crush.injury.innerTreatedWellLabel>縫合した</Crush.injury.innerTreatedWellLabel>
+	<Crush.injury.innerTreatedLabel>雑に 縫合した</Crush.injury.innerTreatedLabel>
+	<Crush.injury.solidTreatedWellLabel>あてがった</Crush.injury.solidTreatedWellLabel>
+	<Crush.injury.solidTreatedLabel>雑に あてがった</Crush.injury.solidTreatedLabel>
+
+	<Crack.label>ひびが入った</Crack.label>
+	<Crack.injury.oldLabel>切り傷</Crack.injury.oldLabel>
+	<Crack.injury.destroyedLabel>粉砕した</Crack.injury.destroyedLabel>
+	<Crack.injury.treatedWellLabel>ギプスをはめた</Crack.injury.treatedWellLabel>
+	<Crack.injury.treatedLabel>雑に ギプスをはめた</Crack.injury.treatedLabel>
+	<Crack.injury.innerTreatedWellLabel>ギプスをはめた</Crack.injury.innerTreatedWellLabel>
+	<Crack.injury.innerTreatedLabel>雑に ギプスをはめた</Crack.injury.innerTreatedLabel>
+	<Crack.injury.solidTreatedWellLabel>あてがった</Crack.injury.solidTreatedWellLabel>
+	<Crack.injury.solidTreatedLabel>雑に あてがった</Crack.injury.solidTreatedLabel>
+
+	<Cut.label>切断</Cut.label>
+	<Cut.injury.oldLabel>切り傷</Cut.injury.oldLabel>
+	<Cut.injury.destroyedLabel>abgeschnitten</Cut.injury.destroyedLabel>
+	<Cut.injury.destroyedOutLabel>rausgeschnitten</Cut.injury.destroyedOutLabel>
+	<Cut.injury.treatedWellLabel>包帯を巻いた</Cut.injury.treatedWellLabel>
+	<Cut.injury.treatedLabel>雑に 包帯を巻いた</Cut.injury.treatedLabel>
+	<Cut.injury.innerTreatedWellLabel>縫合した</Cut.injury.innerTreatedWellLabel>
+	<Cut.injury.innerTreatedLabel>雑に 縫合した</Cut.injury.innerTreatedLabel>
+	<Cut.injury.solidTreatedWellLabel>あてがった</Cut.injury.solidTreatedWellLabel>
+	<Cut.injury.solidTreatedLabel>雑に あてがった</Cut.injury.solidTreatedLabel>
+
+	<SurgicalCut.label>外科的切除</SurgicalCut.label>
+	<SurgicalCut.injury.oldLabel>cut scar</SurgicalCut.injury.oldLabel>
+	<SurgicalCut.injury.destroyedLabel>abgeschnitten</SurgicalCut.injury.destroyedLabel>
+	<SurgicalCut.injury.destroyedOutLabel>rausgeschnitten</SurgicalCut.injury.destroyedOutLabel>
+	<SurgicalCut.injury.treatedWellLabel>包帯を巻いた</SurgicalCut.injury.treatedWellLabel>
+	<SurgicalCut.injury.treatedLabel>雑に 包帯を巻いた</SurgicalCut.injury.treatedLabel>
+	<SurgicalCut.injury.innerTreatedWellLabel>縫合した</SurgicalCut.injury.innerTreatedWellLabel>
+	<SurgicalCut.injury.innerTreatedLabel>雑に 縫合した</SurgicalCut.injury.innerTreatedLabel>
+	<SurgicalCut.injury.solidTreatedWellLabel>あてがった</SurgicalCut.injury.solidTreatedWellLabel>
+	<SurgicalCut.injury.solidTreatedLabel>雑に あてがった</SurgicalCut.injury.solidTreatedLabel>
+
+	<Scratch.label>ひっかき傷</Scratch.label>
+	<Scratch.injury.oldLabel>ひっかき傷</Scratch.injury.oldLabel>
+	<Scratch.injury.destroyedLabel>abgerissen</Scratch.injury.destroyedLabel>
+	<Scratch.injury.destroyedOutLabel>ausgerissen</Scratch.injury.destroyedOutLabel>
+	<Scratch.injury.treatedWellLabel>包帯を巻いた</Scratch.injury.treatedWellLabel>
+	<Scratch.injury.treatedLabel>雑に 包帯を巻いた</Scratch.injury.treatedLabel>
+	<Scratch.injury.innerTreatedWellLabel>縫合した</Scratch.injury.innerTreatedWellLabel>
+	<Scratch.injury.innerTreatedLabel>雑に 縫合した</Scratch.injury.innerTreatedLabel>
+	<Scratch.injury.solidTreatedWellLabel>あてがった</Scratch.injury.solidTreatedWellLabel>
+	<Scratch.injury.solidTreatedLabel>雑に あてがった</Scratch.injury.solidTreatedLabel>
+
+	<Bite.label>噛み傷</Bite.label>
+	<Bite.injury.oldLabel>噛み傷</Bite.injury.oldLabel>
+	<Bite.injury.destroyedLabel>abgebissen</Bite.injury.destroyedLabel>
+	<Bite.injury.destroyedOutLabel>ausgebissen</Bite.injury.destroyedOutLabel>
+	<Bite.injury.treatedWellLabel>包帯を巻いた</Bite.injury.treatedWellLabel>
+	<Bite.injury.treatedLabel>雑に 包帯を巻いた</Bite.injury.treatedLabel>
+	<Bite.injury.innerTreatedWellLabel>縫合した</Bite.injury.innerTreatedWellLabel>
+	<Bite.injury.innerTreatedLabel>雑に 縫合した</Bite.injury.innerTreatedLabel>
+	<Bite.injury.solidTreatedWellLabel>あてがった</Bite.injury.solidTreatedWellLabel>
+	<Bite.injury.solidTreatedLabel>雑に あてがった</Bite.injury.solidTreatedLabel>
+
+	<Stab.label>刺し傷</Stab.label>
+	<Stab.injury.oldLabel>刺し傷</Stab.injury.oldLabel>
+	<Stab.injury.destroyedLabel>abgeschnitten</Stab.injury.destroyedLabel>
+	<Stab.injury.destroyedOutLabel>ausgestochen</Stab.injury.destroyedOutLabel>
+	<Stab.injury.treatedWellLabel>包帯を巻いた</Stab.injury.treatedWellLabel>
+	<Stab.injury.treatedLabel>雑に 包帯を巻いた</Stab.injury.treatedLabel>
+	<Stab.injury.innerTreatedWellLabel>縫合した</Stab.injury.innerTreatedWellLabel>
+	<Stab.injury.innerTreatedLabel>雑に 縫合した</Stab.injury.innerTreatedLabel>
+	<Stab.injury.solidTreatedWellLabel>あてがった</Stab.injury.solidTreatedWellLabel>
+	<Stab.injury.solidTreatedLabel>雑に あてがった</Stab.injury.solidTreatedLabel>
+
+	<Gunshot.label>銃創</Gunshot.label>
+	<Gunshot.injury.oldLabel>銃創</Gunshot.injury.oldLabel>
+	<Gunshot.injury.destroyedLabel>ちぎれた</Gunshot.injury.destroyedLabel>
+	<Gunshot.injury.destroyedOutLabel>ちぎれた</Gunshot.injury.destroyedOutLabel>
+	<Gunshot.injury.treatedWellLabel>包帯を巻いた</Gunshot.injury.treatedWellLabel>
+	<Gunshot.injury.treatedLabel>雑に 包帯を巻いた</Gunshot.injury.treatedLabel>
+	<Gunshot.injury.innerTreatedWellLabel>縫合した</Gunshot.injury.innerTreatedWellLabel>
+	<Gunshot.injury.innerTreatedLabel>雑に 縫合した</Gunshot.injury.innerTreatedLabel>
+	<Gunshot.injury.solidTreatedWellLabel>あてがった</Gunshot.injury.solidTreatedWellLabel>
+	<Gunshot.injury.solidTreatedLabel>雑に あてがった</Gunshot.injury.solidTreatedLabel>
+
+	<Shredded.label>切り刻む</Shredded.label>
+	<Shredded.injury.oldLabel>切り刻む</Shredded.injury.oldLabel>
+	<Shredded.injury.destroyedLabel>ちぎれた</Shredded.injury.destroyedLabel>
+	<Shredded.injury.destroyedOutLabel>ちぎれた</Shredded.injury.destroyedOutLabel>
+	<Shredded.injury.treatedWellLabel>包帯を巻いた</Shredded.injury.treatedWellLabel>
+	<Shredded.injury.treatedLabel>雑に 包帯を巻いた</Shredded.injury.treatedLabel>
+	<Shredded.injury.innerTreatedWellLabel>縫合した</Shredded.injury.innerTreatedWellLabel>
+	<Shredded.injury.innerTreatedLabel>雑に 縫合した</Shredded.injury.innerTreatedLabel>
+	<Shredded.injury.solidTreatedWellLabel>あてがった</Shredded.injury.solidTreatedWellLabel>
+	<Shredded.injury.solidTreatedLabel>雑に あてがった</Shredded.injury.solidTreatedLabel>
+
+	<Bruise.label>打撲傷</Bruise.label>
+	<Bruise.injury.oldLabel>打撲傷</Bruise.injury.oldLabel>
+	<Bruise.injury.destroyedLabel>喪失</Bruise.injury.destroyedLabel>
+	<Bruise.injury.destroyedOutLabel>喪失</Bruise.injury.destroyedOutLabel>
+	<Bruise.injury.treatedWellLabel>包帯を巻いた</Bruise.injury.treatedWellLabel>
+	<Bruise.injury.treatedLabel>雑に 包帯を巻いた</Bruise.injury.treatedLabel>
+	<Bruise.injury.innerTreatedWellLabel>縫合した</Bruise.injury.innerTreatedWellLabel>
+	<Bruise.injury.innerTreatedLabel>雑に 縫合した</Bruise.injury.innerTreatedLabel>
+	<Bruise.injury.solidTreatedWellLabel>あてがった</Bruise.injury.solidTreatedWellLabel>
+	<Bruise.injury.solidTreatedLabel>雑に あてがった</Bruise.injury.solidTreatedLabel>
+
+	<!-- Missing body part -->
+	<MissingBodyPart.label>fehlendes Korperteil</MissingBodyPart.label>
+
+</LanguageData>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Diseases -->
+	<Euthanasia.label>安楽死</Euthanasia.label>
+
+	<ShutDown.label>シャットダウン</ShutDown.label>
+
+	<WoundInfection.label>傷からの感染症</WoundInfection.label>
+	<rep>
+		<path>WoundInfection.disease.severityStages[0].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[1].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[2].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[3].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+
+	<BadBack.label>腰痛</BadBack.label>
+
+	<Cataract.label>白内障</Cataract.label>
+
+	<Anesthetic.label>感覚消失</Anesthetic.label>
+
+	<Concussion.label>脳しんとう</Concussion.label>
+
+	<Flu.label>インフルエンザ</Flu.label>
+	<rep>
+		<path>Flu.disease.severityStages[0].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[1].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[2].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[3].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+
+	<Plague.label>ペスト</Plague.label>
+	<rep>
+		<path>Plague.disease.severityStages[0].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[1].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[2].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[3].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[5].label</path>
+		<trans>重度</trans>
+	</rep>
+
+	<Malaria.label>マラリア</Malaria.label>
+	<rep>
+		<path>Malaria.disease.severityStages[0].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[1].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[2].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[3].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+
+	<SleepingSickness.label>眠り病</SleepingSickness.label>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[0].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[1].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[2].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[3].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[5].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[6].label</path>
+		<trans>重度</trans>
+	</rep>
+
+
+</LanguageData>

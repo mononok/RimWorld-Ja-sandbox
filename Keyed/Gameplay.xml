@@ -18,15 +18,15 @@
 <FilthOnFeet>足もと：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
-  <Adapted>Adapted</Adapted>
-  <Headshot>ヘッドショット</Headshot>
-  <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
-  <UntreatedLower>未処置</UntreatedLower>
-  <DevelopedImmunityLower>免疫が 少なくなっています</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
-  <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
-  <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>ワクチンを 培養中</ImmunityDevelopmentProgress>
+    <Adapted>Adapted</Adapted>
+    <Headshot>ヘッドショット</Headshot>
+    <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
+    <UntreatedLower>未処置</UntreatedLower>
+    <DevelopedImmunityLower>免疫が 少なくなっています</DevelopedImmunityLower>
+    <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
+    <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
+    <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
+    <ImmunityDevelopmentProgress>ワクチンを 培養中</ImmunityDevelopmentProgress>
 
 <!-- Turrets -->
 <GunInstalled>武装</GunInstalled>
@@ -161,7 +161,7 @@
 	<MissingBodyPart>失われた</MissingBodyPart>
 	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
 	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
-  <RemovedBodyPart>取り外された</RemovedBodyPart>
+    <RemovedBodyPart>取り外された</RemovedBodyPart>
 	<Healthy>Healthy</Healthy>
 	<InPain>In pain</InPain>
 	<PainLevel>Pain</PainLevel>
@@ -177,9 +177,9 @@
 	<AffectsLower>affects</AffectsLower>
 	<BleedingRate>Bleeding rate</BleedingRate>
 	<HealthOverview>Overview</HealthOverview>
-	<MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>Medical operations</MedicalOperations>
+	<MedicalOperationsShort>手術 ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>修理 ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>外科的手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
 	<Harvest>Harvest</Harvest>
 

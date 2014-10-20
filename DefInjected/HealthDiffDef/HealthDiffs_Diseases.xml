@@ -21,11 +21,11 @@
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[3].label</path>
-		<trans>重度</trans>
+		<trans>重度+</trans>
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[4].label</path>
-		<trans>重度</trans>
+		<trans>重度++</trans>
 	</rep>
 
 	<BadBack.label>腰痛</BadBack.label>
@@ -51,11 +51,11 @@
 	</rep>
 	<rep>
 		<path>Flu.disease.severityStages[3].label</path>
-		<trans>重度</trans>
+		<trans>重度+</trans>
 	</rep>
 	<rep>
 		<path>Flu.disease.severityStages[4].label</path>
-		<trans>重度</trans>
+		<trans>重度++</trans>
 	</rep>
 
 	<Plague.label>ペスト</Plague.label>
@@ -73,15 +73,15 @@
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[3].label</path>
-		<trans>重度</trans>
+		<trans>重度+</trans>
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[4].label</path>
-		<trans>重度</trans>
+		<trans>重度++</trans>
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[5].label</path>
-		<trans>重度</trans>
+		<trans>重度+++</trans>
 	</rep>
 
 	<Malaria.label>マラリア</Malaria.label>
@@ -99,21 +99,21 @@
 	</rep>
 	<rep>
 		<path>Malaria.disease.severityStages[3].label</path>
-		<trans>重度</trans>
+		<trans>重度+</trans>
 	</rep>
 	<rep>
 		<path>Malaria.disease.severityStages[4].label</path>
-		<trans>重度</trans>
+		<trans>重度++</trans>
 	</rep>
 
 	<SleepingSickness.label>眠り病</SleepingSickness.label>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[0].label</path>
-		<trans>軽度</trans>
+		<trans>軽度--</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[1].label</path>
-		<trans>軽度</trans>
+		<trans>軽度-</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[2].label</path>
@@ -129,11 +129,11 @@
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[5].label</path>
-		<trans>重度</trans>
+		<trans>重度+</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[6].label</path>
-		<trans>重度</trans>
+		<trans>重度++</trans>
 	</rep>
 
 

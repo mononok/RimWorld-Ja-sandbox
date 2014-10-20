@@ -17,41 +17,41 @@
         <InstallNaturalLung.description>生体の肺を移植する</InstallNaturalLung.description>
         <InstallNaturalLung.jobString>生体肺移植中</InstallNaturalLung.jobString>
 
-        <InstallPegLeg.label>義足移植</InstallPegLeg.label>
+        <InstallPegLeg.label>木製義足移植</InstallPegLeg.label>
         <InstallPegLeg.description>義足を装着する</InstallPegLeg.description>
         <InstallPegLeg.jobString>義足移植中</InstallPegLeg.jobString>
 
-        <InstallBionicEye.label>強化眼球移植</InstallBionicEye.label>
+        <InstallBionicEye.label>強化義眼移植</InstallBionicEye.label>
         <InstallBionicEye.description>機械化された眼球を移植する</InstallBionicEye.description>
-        <InstallBionicEye.jobString>強化眼球移植中</InstallBionicEye.jobString>
+        <InstallBionicEye.jobString>強化義眼移植中</InstallBionicEye.jobString>
 
-        <InstallBionicArm.label>機械化義手移植</InstallBionicArm.label>
+        <InstallBionicArm.label>強化義手移植</InstallBionicArm.label>
         <InstallBionicArm.description>機械化された義手を移植する</InstallBionicArm.description>
-        <InstallBionicArm.jobString>機械化義手移植中</InstallBionicArm.jobString>
+        <InstallBionicArm.jobString>強化義手移植中</InstallBionicArm.jobString>
 
-        <InstallBionicLeg.label>機械化義足移植</InstallBionicLeg.label>
+        <InstallBionicLeg.label>強化義足移植</InstallBionicLeg.label>
         <InstallBionicLeg.description>機械化された義足を移植する</InstallBionicLeg.description>
-        <InstallBionicLeg.jobString>機械化義足移植中</InstallBionicLeg.jobString>
+        <InstallBionicLeg.jobString>強化義足移植中</InstallBionicLeg.jobString>
 
-        <InstallSimpleProstheticLeg.label>人工義足移植</InstallSimpleProstheticLeg.label>
-        <InstallSimpleProstheticLeg.description>簡易な義足を移植する</InstallSimpleProstheticLeg.description>
-        <InstallSimpleProstheticLeg.jobString>人工義足移植中</InstallSimpleProstheticLeg.jobString>
+        <InstallSimpleProstheticLeg.label>人工擬似足移植</InstallSimpleProstheticLeg.label>
+        <InstallSimpleProstheticLeg.description>人工の脚を移植する</InstallSimpleProstheticLeg.description>
+        <InstallSimpleProstheticLeg.jobString>人工擬似足移植中</InstallSimpleProstheticLeg.jobString>
 
-        <InstallSimpleProstheticArm.label>人工義手移植</InstallSimpleProstheticArm.label>
-        <InstallSimpleProstheticArm.description>簡易な義手を移植する</InstallSimpleProstheticArm.description>
-        <InstallSimpleProstheticArm.jobString>人工義手移植中</InstallSimpleProstheticArm.jobString>
+        <InstallSimpleProstheticArm.label>人工擬似手移植</InstallSimpleProstheticArm.label>
+        <InstallSimpleProstheticArm.description>人工の腕を移植する</InstallSimpleProstheticArm.description>
+        <InstallSimpleProstheticArm.jobString>人工擬似腕移植中</InstallSimpleProstheticArm.jobString>
 
-        <InstallDenture.label>義歯移植</InstallDenture.label>
+        <InstallDenture.label>入れ歯移植</InstallDenture.label>
         <InstallDenture.description>入れ歯を移植する</InstallDenture.description>
-        <InstallDenture.jobString>義歯移植中</InstallDenture.jobString>
+        <InstallDenture.jobString>入れ歯移植中</InstallDenture.jobString>
 
-        <InstallPowerClaw.label>鉤爪改造</InstallPowerClaw.label>
-        <InstallPowerClaw.description>大きな鉤爪を移植する</InstallPowerClaw.description>
-        <InstallPowerClaw.jobString>鉤爪改造</InstallPowerClaw.jobString>
+        <InstallPowerClaw.label>かぎ爪改造</InstallPowerClaw.label>
+        <InstallPowerClaw.description>大きなかぎ爪を移植する</InstallPowerClaw.description>
+        <InstallPowerClaw.jobString>かぎ爪改造</InstallPowerClaw.jobString>
 
-        <InstallScytherKnifeProtrusion.label>鎌状刀義体化</InstallScytherKnifeProtrusion.label>
-        <InstallScytherKnifeProtrusion.description>身体に機械生命体の鎌状の突起物を移植する</InstallScytherKnifeProtrusion.description>
-        <InstallScytherKnifeProtrusion.jobString>鎌状剃刀義体化中</InstallScytherKnifeProtrusion.jobString>
+        <InstallScytherKnifeProtrusion.label>強化刃義体化</InstallScytherKnifeProtrusion.label>
+        <InstallScytherKnifeProtrusion.description>身体に機械生命体の鎌状の刃突起物を移植する</InstallScytherKnifeProtrusion.description>
+        <InstallScytherKnifeProtrusion.jobString>強化刃義体化中</InstallScytherKnifeProtrusion.jobString>
 
 	<!-- removing body parts -->
 
@@ -65,11 +65,11 @@
 
 	<!-- Euthanization -->
 
-        <Euthanize.label></Euthanize.label>
+        <Euthanize.label>安楽死</Euthanize.label>
         <Euthanize.description></Euthanize.description>
         <Euthanize.jobString></Euthanize.jobString>
 
-        <ShutDownMechanoid.label></ShutDownMechanoid.label>
+        <ShutDownMechanoid.label>シャットダウン</ShutDownMechanoid.label>
         <ShutDownMechanoid.description></ShutDownMechanoid.description>
         <ShutDownMechanoid.jobString></ShutDownMechanoid.jobString>
 

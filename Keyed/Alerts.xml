@@ -99,17 +99,16 @@
 <TableNeedsChairs>テーブルとイス</TableNeedsChairs>
 <TableNeedsChairsDesc>テーブルに 隣接した イスを つくりましょう。 テーブルと イスは セットです。 彼らは テーブルに 座りません。</TableNeedsChairsDesc>
 
-  <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
+    <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
+    <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
 
-  <ColonistsAwaitingMedicalOperation>入植者は、診察を待っています </ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>入植者は診察が始まるのを待っています:\n\n{0}\n必要な医療設備が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
+    <ColonistsAwaitingMedicalOperation>入植者は手術を待っています </ColonistsAwaitingMedicalOperation>
+    <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
 
-  <PawnsWithLifeThreateningDisease>重症</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われいますか</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重症を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
+    <PawnsWithLifeThreateningDisease>重傷</PawnsWithLifeThreateningDisease>
+    <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われます</PawnsWithLifeThreateningDiseaseDesc>
+    <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重傷を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
-
+    <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
 
 </LanguageData>

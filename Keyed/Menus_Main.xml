@@ -93,12 +93,15 @@
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
+  <AvgJanTemp>年平均気温(1月): {0}</AvgJanTemp>
+  <AvgJulTemp>年平均気温(7月): {0}</AvgJulTemp>
   <Rainfall>降雨量</Rainfall>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
   <HasCoast2>南海岸</HasCoast2>
   <HasCoast3>西海岸</HasCoast3>
   <FactionBase>本拠地</FactionBase>
+  <StoneTypesHere>主な岩盤</StoneTypesHere>
 
 
 <!--=========== Character chooser ==========-->

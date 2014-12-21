@@ -24,6 +24,9 @@
 <DesignatorHunt>狩猟</DesignatorHunt>
 <DesignatorHuntDesc>入植者は ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
+ <DesignatorSmoothFloor>地面をならす</DesignatorSmoothFloor>
+ <DesignatorSmoothFloorDesc>荒れた地面を平らにならす</DesignatorSmoothFloorDesc>
+
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
 
@@ -44,6 +47,12 @@
 
 <DesignatorRegionNoRoofRemove>屋根の 取り外しを 撤回</DesignatorRegionNoRoofRemove>
 <DesignatorRegionNoRoofRemoveDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorRegionNoRoofRemoveDesc>
+
+<DesignatorRegionSnowClearAdd>雪捨て場を指定</DesignatorRegionSnowClearAdd>
+<DesignatorRegionSnowClearAddDesc>入植者が雪を捨てる場所を指定します</DesignatorRegionSnowClearAddDesc>
+
+<DesignatorRegionSnowClearRemove>雪捨て場を取り消す</DesignatorRegionSnowClearRemove>
+<DesignatorRegionSnowClearRemoveDesc>雪捨て場の指定を取り消し、入植者はは、もうそこには雪を捨てません</DesignatorRegionSnowClearRemoveDesc>
 
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 

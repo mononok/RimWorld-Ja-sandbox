@@ -196,4 +196,36 @@
 		<trans>NAME の精神波は 他人とは違うようで まったく影響を受けません 精神的現象が HECAP に及ぼすことは全くありません </trans>
 	</rep>
 
+	<rep>
+		<path>TemperaturePreference.degreeDatas[0].label</path>
+		<trans>熱い皮膚</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[0].description</path>
+		<trans>NAME's の身体からはとてつもない熱を発するおかげで、寒さでゾクゾクする気温に悩まされる事はありませんが、高い気温は好きではありません</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[1].label</path>
+		<trans>暖かい皮膚</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[1].description</path>
+		<trans>ほとんどの他の人よりは、寒い気温に適応している</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[2].label</path>
+		<trans>冷たい皮膚</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[2].description</path>
+		<trans>ほとんどの他の人よりは、熱い気温に適応している</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[3].label</path>
+		<trans>氷な皮膚</trans>
+	</rep>
+	<rep>
+		<path>TemperaturePreference.degreeDatas[3].description</path>
+		<trans>NAME's は熱い気温を好み、低い気温は好まない</trans>
+	</rep>
 </LanguageData>

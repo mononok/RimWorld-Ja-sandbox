@@ -1,59 +1,162 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<AteRawFood.label>生肉を食べた</AteRawFood.label>
-	<AteRawFood.description>私は誰も調理ができないので生肉を食べた、せめて合成栄養食品でもあればいいのに</AteRawFood.description>
-	
-	<AteNutrientPasteMeal.label>合成栄養食品を食べた</AteNutrientPasteMeal.label>
-	<AteNutrientPasteMeal.description>合成栄養食品を食べた、生きる為には必要だとわかっているが、誰も、こんなドロッとした物をグッと飲み込みたいとは思わない</AteNutrientPasteMeal.description>
-	
-	<AteFineMeal.label>おいしい食事を食べた</AteFineMeal.label>
-	<AteFineMeal.description>本当においしい食事を食べた。おいしかった！</AteFineMeal.description>
-	
-	<AteLavishMeal.label>素晴らしい料理を食べた</AteLavishMeal.label>
-	<AteLavishMeal.description>驚くような素晴らしい食事を食べた。身も心も満たされる</AteLavishMeal.description>
-	
-	<!-- =========== Cannibalism =============== -->
-	<AteHumanoidMeatDirect.label>人肉を生で食べた</AteHumanoidMeatDirect.label>
-	<AteHumanoidMeatDirect.description>人間の、肉を、生で、動物のように食べた。これは悪夢だ</AteHumanoidMeatDirect.description>
-	
-	<AteHumanoidMeatAsIngredient.label>人肉を食べた</AteHumanoidMeatAsIngredient.label>
-	<AteHumanoidMeatAsIngredient.description>人間の肉を料理した食事を食べた。これは酷い</AteHumanoidMeatAsIngredient.description>
-	
-	<AteHumanoidMeatDirectCannibal.label>人の生肉で食事を済ました</AteHumanoidMeatDirectCannibal.label>
-	<AteHumanoidMeatDirectCannibal.description>人間の、肉を、生で、動物のように食べた。少し水っぽいかな？</AteHumanoidMeatDirectCannibal.description>
-	
-	<AteHumanoidMeatAsIngredientCannibal.label>人肉で食事を済ました</AteHumanoidMeatAsIngredientCannibal.label>
-	<AteHumanoidMeatAsIngredientCannibal.description>人間の肉を料理した食事を食べた。楽しい時間を過ごせた。ソラマメとキャンティワインがあればもっと楽しいのに</AteHumanoidMeatAsIngredientCannibal.description>
 
-	<ButcheredHumanoidCorpse.label>人肉解体</ButcheredHumanoidCorpse.label>
-	<ButcheredHumanoidCorpse.description>人間を動物のように解体した</ButcheredHumanoidCorpse.description>
-	
-	<AteWithoutTable.label>地面で食事をした</AteWithoutTable.label>
-	<AteWithoutTable.description>じべたの上で食事を摂った、だれかテーブルを探してきてくれ</AteWithoutTable.description>
-	
+  <rep>
+    <path>AteRawFood.stages[0].label</path>
+    <trans>生肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteRawFood.stages[0].description</path>
+    <trans>私は誰も調理ができないので生肉を食べた、せめて合成栄養食品でもあればいいのに</trans>
+  </rep>
+
+  <rep>
+    <path>AteNutrientPasteMeal.stages[0].label</path>
+    <trans>合成栄養食品を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteNutrientPasteMeal.stages[0].description</path>
+    <trans>合成栄養食品を食べた、生きる為には必要だとわかっているが、誰も、こんなドロッとした物をグッと飲み込みたいとは思わない</trans>
+  </rep>
+
+  <rep>
+    <path>AteFineMeal.stages[0].label</path>
+    <trans>おいしい食事を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteFineMeal.stages[0].description</path>
+    <trans>本当においしい食事を食べた。おいしかった！</trans>
+  </rep>
+
+  <rep>
+    <path>AteLavishMeal.stages[0].label</path>
+    <trans>素晴らしい料理を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteLavishMeal.stages[0].description</path>
+    <trans>驚くような素晴らしい食事を食べた。身も心も満たされる</trans>
+  </rep>
+
+	<!-- =========== Cannibalism =============== -->
+  <rep>
+    <path>AteHumanoidMeatDirect.stages[0].label</path>
+    <trans>人肉を生で食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanoidMeatDirect.stages[0].description</path>
+    <trans>人間の、肉を、生で、動物のように食べた。これは悪夢だ</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanoidMeatAsIngredient.stages[0].label</path>
+    <trans>人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanoidMeatAsIngredient.stages[0].description</path>
+    <trans>人間の肉を料理した食事を食べた。これは酷い</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanoidMeatDirectCannibal.stages[0].label</path>
+    <trans>人の生肉で食事を済ました</trans>
+  </rep>
+  <rep>
+    <path>AteHumanoidMeatDirectCannibal.stages[0].description</path>
+    <trans>人間の、肉を、生で、動物のように食べた。少し水っぽいかな？</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanoidMeatAsIngredientCannibal.stages[0].label</path>
+    <trans>人肉で食事を済ました</trans>
+  </rep>
+  <rep>
+    <path>AteHumanoidMeatAsIngredientCannibal.stages[0].description</path>
+    <trans>人間の肉を料理した食事を食べた。楽しい時間を過ごせた。ソラマメとキャンティワインがあればもっと楽しいのに</trans>
+  </rep>
+
+  <rep>
+    <path>ButcheredHumanoidCorpse.stages[0].label</path>
+    <trans>人肉解体</trans>
+  </rep>
+  <rep>
+    <path>ButcheredHumanoidCorpse.stages[0].description</path>
+    <trans>人間を動物のように解体した</trans>
+  </rep>
+
+  <rep>
+    <path>AteWithoutTable.stages[0].label</path>
+    <trans>地面で食事をした</trans>
+  </rep>
+  <rep>
+    <path>AteWithoutTable.stages[0].description</path>
+    <trans>じべたの上で食事を摂った、だれかテーブルを探してきてくれ</trans>
+  </rep>
+
 	<!-- Combat -->
-	<ObservedLayingCorpse.label>死体を見た</ObservedLayingCorpse.label>
-	<ObservedLayingCorpse.description>私は地面の上に転がっている死体を見た</ObservedLayingCorpse.description>
-	
-	<ObservedLayingRottingCorpse.label>腐乱死体を見た</ObservedLayingRottingCorpse.label>
-	<ObservedLayingRottingCorpse.description>私は地面の上に転がっている腐乱死体を見た、ムナクソ悪くなる</ObservedLayingRottingCorpse.description>
-	
-	<WitnessedDeathAlly.label>死んでゆく仲間を見た</WitnessedDeathAlly.label>
-	<WitnessedDeathAlly.description>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間には死んでいた</WitnessedDeathAlly.description>
-	
-	<WitnessedDeathStranger.label>人が死ぬところを見た</WitnessedDeathStranger.label>
-	<WitnessedDeathStranger.description>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた</WitnessedDeathStranger.description>
-	
-	<WitnessedDeathStrangerBloodlust.label>誰か死んだ</WitnessedDeathStrangerBloodlust.label>
-	<WitnessedDeathStrangerBloodlust.description>誰かが死んだ！とても強烈な印象だ</WitnessedDeathStrangerBloodlust.description>
-	
-	<KilledHumanoidBloodlust.label>殺人者</KilledHumanoidBloodlust.label>
-	<KilledHumanoidBloodlust.description>人を殺した</KilledHumanoidBloodlust.description>
-	
-	<BattleWounded.label>撃たれた!</BattleWounded.label>
-	<BattleWounded.description>これは俺の血だ！、撃たれた、撃たれた</BattleWounded.description>
-	
+  <rep>
+    <path>ObservedLayingCorpse.stages[0].label</path>
+    <trans>死体を見た</trans>
+  </rep>
+  <rep>
+    <path>ObservedLayingCorpse.stages[0].description</path>
+    <trans>私は地面の上に転がっている死体を見た</trans>
+  </rep>
+
+  <rep>
+    <path>ObservedLayingRottingCorpse.stages[0].label</path>
+    <trans>腐乱死体を見た</trans>
+  </rep>
+  <rep>
+    <path>ObservedLayingRottingCorpse.stages[0].description</path>
+    <trans>私は地面の上に転がっている腐乱死体を見た、ムナクソ悪くなる</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathAlly.stages[0].label</path>
+    <trans>死んでゆく仲間を見た</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathAlly.stages[0].description</path>
+    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間には死んでいた</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathStranger.stages[0].label</path>
+    <trans>人が死ぬところを見た</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathStranger.stages[0].description</path>
+    <trans>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathStrangerBloodlust.stages[0].label</path>
+    <trans>誰か死んだ</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathStrangerBloodlust.stages[0].description</path>
+    <trans>誰かが死んだ！とても強烈な印象だ</trans>
+  </rep>
+
+  <rep>
+    <path>KilledHumanoidBloodlust.stages[0].label</path>
+    <trans>殺人者</trans>
+  </rep>
+  <rep>
+    <path>KilledHumanoidBloodlust.stages[0].description</path>
+    <trans>人を殺した</trans>
+  </rep>
+
+  <rep>
+    <path>BattleWounded.stages[0].label</path>
+    <trans>撃たれた!</trans>
+  </rep>
+  <rep>
+    <path>BattleWounded.stages[0].description</path>
+    <trans>これは俺の血だ！、撃たれた、撃たれた</trans>
+  </rep>
+
 	<!-->
 	<ObservedGibbetCageEmpty.label>看?空?刑?</ObservedGibbetCageEmpty.label>
 	<ObservedGibbetCageEmpty.description>?些?刑?看起来如此残酷。</ObservedGibbetCageEmpty.description>
@@ -64,46 +167,149 @@
 	<ObservedGibbetCageFullColonist.label>看?装有殖民者的?刑?</ObservedGibbetCageFullColonist.label>
 	<ObservedGibbetCageFullColonist.description>我看?一个自己人的尸体?在?刑?里，我以前?和他???。??直太可怕了。</ObservedGibbetCageFullColonist.description>
 	<-->
-	
-	<NewColonyOptimism.label>新天地</NewColonyOptimism.label>
-	<NewColonyOptimism.description>我々は今降り立った。苦しい状況だが、新しいコロニーを創立することに興奮している</NewColonyOptimism.description>
-	
-	<NewColonyHope.label>期待と不安</NewColonyHope.label>
-	<NewColonyHope.description>私はこの状況になれたが、まだあたらしい状況に興奮している。これが上手く行くことを望む</NewColonyHope.description>
 
-	<SleptOutside.label>野宿</SleptOutside.label>
-	<SleptOutside.description>無防備なまま、外で寝なければならなかった</SleptOutside.description>
-	
-	<SleptOnGround.label>ベッドが恋しい</SleptOnGround.label>
-    <SleptOnGround.description>動物のようにじべたに寝なければならなかった</SleptOnGround.description>
-	
-	<KnowPrisonerBeaten.label>囚人を虐待</KnowPrisonerBeaten.label>
-	<KnowPrisonerBeaten.description>誰かが囚人を虐待している</KnowPrisonerBeaten.description>
-	
-	<KnowPrisonerSold.label>人身売買</KnowPrisonerSold.label>
-	<KnowPrisonerSold.description>このコロニーでは囚人を奴隷のように売買している、よくないと思う</KnowPrisonerSold.description>
-	
-	<KnowPrisonerExecuted.label>処刑</KnowPrisonerExecuted.label>
-	<KnowPrisonerExecuted.description>囚人を処刑した、このコロニーは日に日に凶悪になっていくようだ</KnowPrisonerExecuted.description>
-	
-	<JustImprisoned.label>収監された</JustImprisoned.label>
-	<JustImprisoned.description>私は囚人として牢獄に投げ込まれた、落ち着いて対処しなければ</JustImprisoned.description>
-	
-	<PrisonerFriendlyChat.label>監視官と話をした</PrisonerFriendlyChat.label>
-	<PrisonerFriendlyChat.description>監視官とこのコロニーについて話す機会があった、良い場所のように思えた……</PrisonerFriendlyChat.description>
-	
-	<PrisonerBeatenMild.label>こづかれた</PrisonerBeatenMild.label>
-	<PrisonerBeatenMild.description>監視官にこづかれた、どこも怪我はしていないが、くそ、いてて……</PrisonerBeatenMild.description>
-	
-	<PrisonerBeatenVicious.label>監視官から暴行を受けた</PrisonerBeatenVicious.label>
-	<PrisonerBeatenVicious.description>監視官にこっぴどく殴られた、このままじゃ死んでしまう……</PrisonerBeatenVicious.description>
-	
-	<SocialTalk.label>楽しい会話</SocialTalk.label>
-	<SocialTalk.description>みんなと楽しい会話をした</SocialTalk.description>
+  <rep>
+    <path>NewColonyOptimism.stages[0].label</path>
+    <trans>新天地</trans>
+  </rep>
+  <rep>
+    <path>NewColonyOptimism.stages[0].description</path>
+    <trans>我々は今降り立った。苦しい状況だが、新しいコロニーを創立することに興奮している</trans>
+  </rep>
 
-	<AbrasiveTalk.label>不快な会話</AbrasiveTalk.label>
-	<AbrasiveTalk.description>不快な会話をした</AbrasiveTalk.description>
+  <rep>
+    <path>NewColonyHope.stages[0].label</path>
+    <trans>期待と不安</trans>
+  </rep>
+  <rep>
+    <path>NewColonyHope.stages[0].description</path>
+    <trans>私はこの状況になれたが、まだあたらしい状況に興奮している。これが上手く行くことを望む</trans>
+  </rep>
 
-	<GreenThumbHappy.label>豊かな園芸の才能</GreenThumbHappy.label>
-	<GreenThumbHappy.description>この世界にはもっと緑が必要だ！</GreenThumbHappy.description>
+  <rep>
+    <path>SleptOutside.stages[0].label</path>
+    <trans>野宿</trans>
+  </rep>
+  <rep>
+    <path>SleptOutside.stages[0].description</path>
+    <trans>無防備なまま、外で寝なければならなかった</trans>
+  </rep>
+
+  <rep>
+    <path>SleptOnGround.stages[0].label</path>
+    <trans>ベッドが恋しい</trans>
+  </rep>
+  <rep>
+    <path>SleptOnGround.stages[0].description</path>
+    <trans>動物のようにじべたに寝なければならなかった</trans>
+  </rep>
+
+  <rep>
+    <path>SleptInCold.stages[0].label</path>
+    <trans>In der Kalte geschlafen</trans>
+  </rep>
+  <rep>
+    <path>SleptInCold.stages[0].description</path>
+    <trans>Ich musste in der Kalte schlafen. Wir brauchen unbedingt ein paar Heizgerate.</trans>
+  </rep>
+
+  <rep>
+    <path>SleptInHeat.stages[0].label</path>
+    <trans>In der Hitze geschlafen</trans>
+  </rep>
+  <rep>
+    <path>SleptInHeat.stages[0].description</path>
+    <trans>Ich musste in unertraglicher Hitze schlafen. Konnen wir nicht eine Klimaanlage bekommen?</trans>
+  </rep>
+
+  <rep>
+    <path>KnowPrisonerSold.stages[0].label</path>
+    <trans>人身売買</trans>
+  </rep>
+  <rep>
+    <path>KnowPrisonerSold.stages[0].description</path>
+    <trans>このコロニーでは囚人を奴隷のように売買している、よくないと思う</trans>
+  </rep>
+
+  <rep>
+    <path>KnowPrisonerExecuted.stages[0].label</path>
+    <trans>処刑</trans>
+  </rep>
+  <rep>
+    <path>KnowPrisonerExecuted.stages[0].description</path>
+    <trans>囚人を処刑した、このコロニーは日に日に凶悪になっていくようだ</trans>
+  </rep>
+
+  <rep>
+    <path>KnowPrisonerOrganHarvested.stages[0].label</path>
+    <trans>Einem Gefangenen wurden Organe entnommen</trans>
+  </rep>
+  <rep>
+    <path>KnowPrisonerOrganHarvested.stages[0].description</path>
+    <trans>Sie haben einem Gefangenen einfach Organe entnommen. Es ist furchterlich, wenn sie einen in Einzelteile zerlegen, wenn derjenige gar keine Wahl hat.</trans>
+  </rep>
+
+  <rep>
+    <path>MePrisonerOrganHarvested.stages[0].label</path>
+    <trans>Organe entnommen</trans>
+  </rep>
+  <rep>
+    <path>MePrisonerOrganHarvested.stages[0].description</path>
+    <trans>Sie haben mir einfach Organe entnommen. Sie zerlegen mich in meine Einzelteile, als ware ich eine alte Dampfmaschine!</trans>
+  </rep>
+
+  <rep>
+    <path>WasImprisoned.stages[0].label</path>
+    <trans>Wurde eingesperrt</trans>
+  </rep>
+  <rep>
+    <path>WasImprisoned.stages[0].description</path>
+    <trans>Die Kolonie hat mich eine Weile eingesperrt, als war' ich ein wildes Tier.</trans>
+  </rep>
+
+  <rep>
+    <path>PrisonerFriendlyChat.stages[0].label</path>
+    <trans>Vom Aufseher uberzeugt</trans>
+  </rep>
+  <rep>
+    <path>PrisonerFriendlyChat.stages[0].description</path>
+    <trans>Ich habe mit dem Aufseher uber die Kolonie gesprochen. Es hort sich nach einem guten Ort an...</trans>
+  </rep>
+
+  <rep>
+    <path>SocialTalk.stages[0].label</path>
+    <trans>楽しい会話</trans>
+  </rep>
+  <rep>
+    <path>SocialTalk.stages[0].description</path>
+    <trans>みんなと楽しい会話をした</trans>
+  </rep>
+
+  <rep>
+    <path>AbrasiveTalk.stages[0].label</path>
+    <trans>不快な会話</trans>
+  </rep>
+  <rep>
+    <path>AbrasiveTalk.stages[0].description</path>
+    <trans>不快な会話をした</trans>
+  </rep>
+
+  <rep>
+    <path>GreenThumbHappy.stages[0].label</path>
+    <trans>豊かな園芸の才能</trans>
+  </rep>
+  <rep>
+    <path>GreenThumbHappy.stages[0].description</path>
+    <trans>この世界にはもっと緑が必要だ！</trans>
+  </rep>
+
+  <rep>
+    <path>Catharsis.stages[0].label</path>
+    <trans>Katharsis</trans>
+  </rep>
+  <rep>
+    <path>Catharsis.stages[0].description</path>
+    <trans>Was gerade passiert ist... Das war ich nicht. Ich weis dass ich das besser kann.</trans>
+  </rep>
+
 </LanguageData>

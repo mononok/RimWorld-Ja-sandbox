@@ -1,33 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-		
-        <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
-        <NutrientPasteDispenser.description>有機物原料から栄養素を取り出した糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
 
-        <Hopper.label>付属供給器</Hopper.label>
-        <Hopper.description>ペーストディスペンサと共に使って、自動で有機原料を供給します</Hopper.description>
-		
-		<!-- ========================= Work tables ==========================-->
-		<TableButcher.label>食肉加工器</TableButcher.label>
-		<TableButcher.description>大きな肉の塊を小分けに加工します</TableButcher.description>
+    <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>有機物原料から栄養素を取り出した糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
 
-		<TableMachining.label>工作機械</TableMachining.label>
-		<TableMachining.description>機械の分解・組立を行います</TableMachining.description>
+    <Hopper.label>付属供給器</Hopper.label>
+    <Hopper.description>ペーストディスペンサと共に使って、自動で有機原料を供給します</Hopper.description>
 
-		<CookStove.label>コンロ</CookStove.label>
-		<CookStove.description>単純なコンロ台、簡易な調理器具</CookStove.description>
+	<!-- ========================= Work tables ==========================-->
 
-		<TableStonecutter.label>石切機</TableStonecutter.label>
-		<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します</TableStonecutter.description>
+	<TableButcher.label>食肉加工器</TableButcher.label>
+	<TableButcher.description>大きな肉の塊を小分けに加工します</TableButcher.description>
 
-		<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
-		<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬する、ただし大量の電気を消費します</ElectricSmelter.description>
+	<TableTailor.label>裁縫台</TableTailor.label>
+	<TableTailor.description>この作業台を使って、衣類を直したり、作り出します </TableTailor.description>
 
-		<Crematorium.label>火葬場</Crematorium.label>
-		<Crematorium.description>死体を荼毘に付す</Crematorium.description>
-		
-		<!-- ========== Hydroponics ==============-->
-		<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
-		<HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます</HydroponicsBasin.description>
+	<TableSmithing.label>工作台</TableSmithing.label>
+	<TableSmithing.description>この工作台を使って、武器や工具を作り出します </TableSmithing.description>
+
+	<TableSculpting.label>彫刻台</TableSculpting.label>
+	<TableSculpting.description>この彫刻台を使って、芸術を生み出します</TableSculpting.description>
+
+	<TableMachining.label>精密工作機械</TableMachining.label>
+	<TableMachining.description>機械の分解・組立を行います</TableMachining.description>
+
+	<CookStove.label>コンロ</CookStove.label>
+	<CookStove.description>単純なコンロ台、簡易な調理器具</CookStove.description>
+
+	<TableStonecutter.label>石切機</TableStonecutter.label>
+	<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します</TableStonecutter.description>
+
+	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
+	<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬する、ただし大量の電気を消費します</ElectricSmelter.description>
+
+	<Crematorium.label>火葬場</Crematorium.label>
+	<Crematorium.description>死体を荼毘に付す</Crematorium.description>
+
+	<ResearchBench.label>研究設備</ResearchBench.label>
+	<ResearchBench.description>新たな発見を見つける作業は、ここで研究を行います</ResearchBench.description>
+
+	<!-- ========== Hydroponics ==============-->
+
+	<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
+	<HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます</HydroponicsBasin.description>
 
 </LanguageData>

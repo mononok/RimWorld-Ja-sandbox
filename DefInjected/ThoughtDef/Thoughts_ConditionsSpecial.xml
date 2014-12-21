@@ -1,19 +1,113 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Imprisoned.label>監禁された</Imprisoned.label>
-	<Imprisoned.description>閉じ込めるなんて最低だ！</Imprisoned.description>
+	<rep>
+		<path>Imprisoned.stages[0].label</path>
+		<trans>監禁された</trans>
+	</rep>
+	<rep>
+		<path>Imprisoned.stages[0].description</path>
+		<trans>閉じ込めるなんて最低だ！</trans>
+	</rep>
 
-	<SharedBedroom.label>個室が欲しい</SharedBedroom.label>
-	<SharedBedroom.description>相部屋はイライラさせられる、プライバシーを守ってほしい</SharedBedroom.description>
+	<rep>
+		<path>SharedBedroom.stages[0].label</path>
+		<trans>個室が欲しい</trans>
+	</rep>
+	<rep>
+		<path>SharedBedroom.stages[0].description</path>
+		<trans>相部屋はイライラさせられる、プライバシーを守ってほしい</trans>
+	</rep>
 
-	<ColonistLeftUnburied.label>死者には安らぎを</ColonistLeftUnburied.label>
-	<ColonistLeftUnburied.description>元同僚だった入植者が 死んだままにされている 誰もこんな事は望まない 適切な埋葬をするべきです</ColonistLeftUnburied.description>
+	<rep>
+		<path>ColonistLeftUnburied.stages[0].label</path>
+		<trans>死者には安らぎを</trans>
+	</rep>
+	<rep>
+		<path>ColonistLeftUnburied.stages[0].description</path>
+		<trans>元同僚だった入植者が 死んだままにされている 誰もこんな事は望まない 適切な埋葬をするべきです</trans>
+	</rep>
 
-	<HappyNude.label>あるがままの姿</HappyNude.label>
-	<HappyNude.description>私は、裸体のままでいるほうが好き！、自由で誰にも束縛されない</HappyNude.description>
+	<rep>
+		<path>HappyNude.stages[0].label</path>
+		<trans>あるがままの姿</trans>
+	</rep>
+	<rep>
+		<path>HappyNude.stages[0].description</path>
+		<trans>私は、裸体のままでいるほうが好き！、自由で誰にも束縛されない</trans>
+	</rep>
 
-	<Naked.label>恥辱</Naked.label>
-	<Naked.description>一枚の布もない姿は屈辱的だ</Naked.description>
+
+	<rep>
+		<path>Naked.stages[0].label</path>
+		<trans>恥辱</trans>
+	</rep>
+	<rep>
+		<path>Naked.stages[0].description</path>
+		<trans>一枚の布もない姿は屈辱的だ</trans>
+	</rep>
+
+
+	<rep>
+		<path>MasochistPain.stages[0].label</path>
+		<trans>わずかな痛み</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[0].description</path>
+		<trans>Ow... Heh heh heh... I could get used to this!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[1].label</path>
+		<trans>中程度の痛み</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[1].description</path>
+		<trans>Ughhh... It hurts, but I love it! Keep it coming!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[2].label</path>
+		<trans>激痛</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[2].description</path>
+		<trans>Ouch... I think something's broken... But what an exquisite feeling!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[3].label</path>
+		<trans>ショック状態</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[3].description</path>
+		<trans>Ahhh... Am I in heaven?</trans>
+	</rep>
+
+
+
+	<rep>
+		<path>ProsthophileHappy.stages[0].label</path>
+		<trans>強化された肉体</trans>
+	</rep>
+	<rep>
+		<path>ProsthophileHappy.stages[0].description</path>
+		<trans>私は近未来科学の落とし子、どんな事でもうまくできる</trans>
+	</rep>
+
+	<rep>
+		<path>ProsthophobeUnhappy.stages[0].label</path>
+		<trans>失われた自然な肉体</trans>
+	</rep>
+	<rep>
+		<path>ProsthophobeUnhappy.stages[0].description</path>
+		<trans>否応なしに、身体を改造されてしまった。もし私に選択させてくれたのなら…</trans>
+	</rep>
+
+	<rep>
+		<path>BrawlerUnhappy.stages[0].label</path>
+		<trans>卑怯な武器</trans>
+	</rep>
+	<rep>
+		<path>BrawlerUnhappy.stages[0].description</path>
+		<trans>格闘家に射撃をさせようなどと卑怯な手法を強要された。接近戦こそが力なのに</trans>
+	</rep>
 
 </LanguageData>

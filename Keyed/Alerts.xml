@@ -3,9 +3,6 @@
 
 <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
-
-
-
 <AlertNeedStockpile>備蓄ゾーン</AlertNeedStockpile>
 <AlertNeedStockpileDesc>入植者は 資材を 格納する場所が わからずに 困っています。 備蓄ゾーンを 指定してください。\n\n左下の アーキテクト メニューから 「ゾーン」を 選択し 備蓄ゾーンを さがしましょう。</AlertNeedStockpileDesc>
 
@@ -37,6 +34,7 @@
 <NeedGrowingZone>田畑をつくる</NeedGrowingZone>
 <NeedGrowingZoneDesc>田畑をつくってみましょう。\n\nアーキテクト メニューで 「肥沃な土壌」を 農業ゾーンに 指定します。</NeedGrowingZoneDesc>
 
+
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\nタレットを いくつか 作りましょう。</NeedDefensesDesc>
 
@@ -54,6 +52,9 @@
 
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>武装する</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>入植者内のハンターは武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為にも、射程の長い武器を勧めます</HunterLacksWeaponDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペースト ディスペンサー など 調理の 食材を 確保して ください。 また、 この者たちへの 仕事を 中止 してください。</StarvationDesc>

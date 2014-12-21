@@ -1,24 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-		
+
 		<!-- Beam -->
         <Ship_Beam.label>船体骨格</Ship_Beam.label>
         <Ship_Beam.description>A structural beam around which a ship can be constructed.</Ship_Beam.description>
-		
-		<!-- Cryptosleep pod -->
-		<Ship_CryptosleepPod.label>疑似冬眠カプセル</Ship_CryptosleepPod.label>
-        <Ship_CryptosleepPod.description>惑星間の航行に使う擬似冬眠カプセル</Ship_CryptosleepPod.description>
-		
+
 		<!-- Computer core -->
 		<Ship_ComputerCore.label>コンピュータコア</Ship_ComputerCore.label>
         <Ship_ComputerCore.description>航路計画用の既存の人工知能(AI)を強化したコンピュータコア</Ship_ComputerCore.description>
-		
+
 		<!-- Reactor -->
 		<Ship_Reactor.label>反物質炉</Ship_Reactor.label>
         <Ship_Reactor.description>船の動力となる、反物質炉</Ship_Reactor.description>
-		
+
 		<!-- Engine -->
 		<Ship_Engine.label>反物質エンジン</Ship_Engine.label>
         <Ship_Engine.description>船の推進力となる、反物質エンジン</Ship_Engine.description>
-				
+
 </LanguageData>

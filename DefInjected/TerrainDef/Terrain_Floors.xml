@@ -12,9 +12,6 @@
     <PavedTile.label>コンクリートタイル</PavedTile.label>
     <PavedTile.description>実用本位のコンクリートタイル、見た目が良いとは言えないが、動きやすい</PavedTile.description>
 
-	<StoneTile.label>石造床</StoneTile.label>
-    <StoneTile.description>石でできた床は、お城のようです</StoneTile.description>
-
 	<!-- ================= Carpets ================= -->
     <CarpetRed.label>赤の絨毯</CarpetRed.label>
     <CarpetRed.description>美しいバラ色の豪華なカーペットです</CarpetRed.description>
@@ -28,10 +25,5 @@
 	<!-- ================= Foundation solids ================= -->
     <Concrete.label>コンクリート打ちっ放し</Concrete.label>
     <Concrete.description>早く造成されたコンクリート床なので醜く、地面を少し掘り下げる必要があります</Concrete.description>
-
-    <SmoothStone.label>整地した床</SmoothStone.label>
-    <SmoothStone.description>地面を整地しただけの床、早く歩けるうえに見た目もまあまあです</SmoothStone.description>
-
-	<RoughHewnRock.label>荒削りの岩</RoughHewnRock.label>
 
 </LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- ITab titles -->
+	<TabBills>加工</TabBills>
+	<TabGrowing>栽培</TabGrowing>
+	<TabCharacter>人物</TabCharacter>
+	<TabNeeds>欲求</TabNeeds>
+	<TabPrisoner>囚人</TabPrisoner>
+	<TabGear>装備</TabGear>
+	<TabThoughts>心境</TabThoughts>
+	<TabStorage>保管</TabStorage>
+	<TabHealth>健康</TabHealth>
+	<TabRace>種族</TabRace>
+	<TabBasics>Basics</TabBasics>
+	<TabStats>状態</TabStats>
+
+
+	<!-- Bills tab  -->
+	<AddBill>新しい 加工</AddBill>
+	<RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
+	<BillConfig>設定</BillConfig>
+	<SuspendedCaps>中止</SuspendedCaps>
+	<PlantVerb>植物</PlantVerb>
+
+
+	<!-- Prisoner tab -->
+	<RecruitmentDifficulty>勧誘の難度</RecruitmentDifficulty>
+	<PrisonerGetsFood>食べ物を 与えます</PrisonerGetsFood>
+	<DoctorsCare>医者に 診せます</DoctorsCare>
+	<PrisonerGetsMedicine>薬を 与えます</PrisonerGetsMedicine>
+	<ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
+	<PrisonerNoInteraction>無視</PrisonerNoInteraction>
+	<PrisonerFriendlyChat>友好的な会話</PrisonerFriendlyChat>
+	<PrisonerRelease>解放</PrisonerRelease>
+	<PrisonerExecution>処刑</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+<MoveSpeed>移動速度</MoveSpeed>
+	<Efficiency>効率</Efficiency>
+	<MissingBodyPart>失われた</MissingBodyPart>
+	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
+	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
+  <RemovedBodyPart>取り外された</RemovedBodyPart>
+	<Healthy>Healthy</Healthy>
+	<InPain>In pain</InPain>
+	<PainLevel>Pain</PainLevel>
+	<Dead>Dead</Dead>
+	<Unconscious>Unconscious</Unconscious>
+	<PainShock>In shock</PainShock>
+	<Injured>Injured</Injured>
+	<NoInjuries>(目立った怪我無し)</NoInjuries>
+	<WholeBody>全身</WholeBody>
+	<DataProcessing>Data processing</DataProcessing>
+	<Communication>Communication</Communication>
+	<AffectsLower>affects</AffectsLower>
+	<BleedingRate>Bleeding rate</BleedingRate>
+	<HealthOverview>Overview</HealthOverview>
+	<MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>Medical operations</MedicalOperations>
+	<Amputate>切断手術</Amputate>
+	<Harvest>Harvest</Harvest>
+
+	<!-- Medical - Body and activities condition -->
+	<None>なし</None>
+	<VeryPoor>非常に悪い</VeryPoor>
+	<Poor>悪い</Poor>
+	<Weakened>弱っている</Weakened>
+	<GoodCondition>良好</GoodCondition>
+	<Enhanced>高揚</Enhanced>
+	<SeriouslyImpaired>深刻な欠損</SeriouslyImpaired>
+	<Impaired>傷ついた</Impaired>
+	<SlightlyImpaired>かすり傷</SlightlyImpaired>
+	<NoPain>無傷</NoPain>
+	<LittlePain>軽傷</LittlePain>
+	<MediumPain>中程度の怪我</MediumPain>
+	<SeverePain>重傷</SeverePain>
+	<ExtremePain>瀕死</ExtremePain>
+
+</LanguageData>

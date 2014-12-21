@@ -1,9 +1,9 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:7.01a
-Original: alpha7
-Description: 起動時にエラーメッセージが出ないは確認ずみ
-ToDo: 単語、言い回しの統一感をはか
+Ver:8.03
+Original: alpha8e
+Description: ファイルのフォーマット変更に対応
+ToDo: 冬眠カプセルの変更、メインメニューの日本語化ができねえ？
 
 
 

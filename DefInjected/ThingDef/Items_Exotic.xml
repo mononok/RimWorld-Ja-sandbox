@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-<!--
+
+	<!--=============== AI persona core ====================-->
+
 	<AIPersonaCore.label>AI人格コア</AIPersonaCore.label>
-	<AIPersonaCore.descriptor>(要翻訳) </AIPersonaCore.descriptor>
+	<AIPersonaCore.description>高度な人工知能を納めた、非常に進んだコンピュータコア。本体より分離されて休止状態にありますが、しかるべき所へインストールされれば驚くべき力を発揮します</AIPersonaCore.description>
+
+	<!--=============== Neurotrainer ====================-->
 
 	<Neurotrainer.label>ニューロトレイナー </Neurotrainer.label>
-	<Neurotrainer.descriptor>(要翻訳)</Neurotrainer.descriptor>
--->
+	<Neurotrainer.description>使い捨てのナノテク学習デバイスで、視覚を通してナノマシーンを直接、大脳へ送り込みます。簡単にその分野のスキルを得られます</Neurotrainer.description>
+
 </LanguageData>

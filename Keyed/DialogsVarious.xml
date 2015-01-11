@@ -52,6 +52,7 @@
 
 
 <!-- Advanced game start options -->
+<MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
 <MapSizePerformanceWarning>警告：ハイスペックな コンピュータで なければ、 大きなマップでは パフォーマンスが 低下します。\n\nもし、 あなたの コンピューターの 性能が 低ければ 小マップを 選択して ください。\n\nルデオニコラスは 未調整のため 動作は 一切 保証しません。</MapSizePerformanceWarning>
 <MapSize>マップサイズ</MapSize>
 <MapSizeDesc>{0} X {0} （{1}の正方形）</MapSizeDesc>
@@ -59,6 +60,8 @@
 <MapSizeMedium>中</MapSizeMedium>
 <MapSizeLarge>大</MapSizeLarge>
 <MapSizeExtreme>ルデオニコラス</MapSizeExtreme>
+<MapStartMonth>開始  月:</MapStartMonth>
+<MapStartMonthDefault>自動</MapStartMonthDefault>
 
 
 
@@ -71,10 +74,13 @@
 <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
 <TargetCount>あなたが持っていることを確認するまで：{0}</TargetCount>
 <Infinite>無限に</Infinite>
+
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
 <PermittedIngredients>レシピ</PermittedIngredients>
+  <WorkAmount>必要量</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>必要とする {0} {1}</BillRequires>
+  <BillRequiresMayVary>(Counts may vary for item with nonstandard volumes, like gold.)</BillRequiresMayVary>
   <UsableIngredients>有効成分</UsableIngredients>
 <DoXTimes>X 回実行</DoXTimes>
 <DoUntilYouHaveX>X に達するまで実行</DoUntilYouHaveX>

@@ -9,33 +9,34 @@
   <GraphicsQualityNormal>  通常</GraphicsQualityNormal>
   <GraphicsQualityGreat>  高画像</GraphicsQualityGreat>
 
-  
+
   <!-- Gameplay -->
   <EdgeScreenScroll>画面端カーソルで移動</EdgeScreenScroll>
   <CustomCursor>ゲーム用カーソル</CustomCursor>
+  <KeyboardConfig>キーボード設定</KeyboardConfig>
   <ChooseLanguage>言語</ChooseLanguage>
   <AdaptiveTutor>チュートリアル</AdaptiveTutor>
   <ResetAdaptiveTutor>チュートリアルをリセット</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>チュートリアルがリセットされ、最初から はじまります。</AdaptiveTutorIsReset>
   <RunInBackground>バックグラウンド実行</RunInBackground>
   <DevelopmentMode>開発者モード</DevelopmentMode>
-  <LogDeepProfileData>詳細なプロファイルを記録</LogDeepProfileData>
+  <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <NamesYouWantToSee>キャラ背景や ゲーム中に 登場させたい 名前：</NamesYouWantToSee>
   <ChangeStoryteller>脚本家 選択</ChangeStoryteller>
-  
+
   <!-- Resolution -->
   <Resolution>解像度</Resolution>
   <Fullscreen>フルスクリーン</Fullscreen>
   <CurrentRes>現在 {0}</CurrentRes>
   <ChooseResolution>解像度 選択</ChooseResolution>
 
-  
+
   <!-- Privacy-->
   <Privacy>プライバシー</Privacy>
   <UserName>ユーザー名</UserName>
   <ChooseHistoryUploadPref>ゲームデータ名</ChooseHistoryUploadPref>
   <CurrentHistoryUploadPref>現在 {0}</CurrentHistoryUploadPref>
   <AboutHistoryUpload>バランス向上のため ゲームプレイの データで 開発支援できます。 同意があれば プレイデータを {0} 日 おきに アップロードします。 (ゲーム終了など ほかの いくつかの 状況も アップロードします) 分析のため アップロードする データは、 ゲームの 統計データ・ 歴史データです。 個人情報は ユーザー名以外 発信しません。 それはつまり、 完全に 匿名であることを 意味します。</AboutHistoryUpload>
-  
+
 </LanguageData>

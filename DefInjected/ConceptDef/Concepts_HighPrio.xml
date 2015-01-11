@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!--
+  <rep>
+    <path>WorldCameraMovement.helpTexts[0]</path>
+    <trans>Test translation.</trans>
+  </rep>
+	<rep>
+		<path> .helpTexts[0]</path>
+		<trans> </trans>
+	</rep>
+-->
+	<rep>
+		<path>CameraDolly.helpTexts[0]</path>
+		<trans>キーボードの"WASD"、又は、真ん中マウスボタンを押したままのドラッグでカメラを動かせます</trans>
+	</rep>
+
+	<rep>
+		<path>Rescuing.helpTexts[0]</path>
+		<trans>怪我した入植者を救命するには、元気な入植者を右クリックした後に、救命する人をクリックします </trans>
+	</rep>
+
+	<rep>
+		<path>Capturing.helpTexts[0]</path>
+		<trans>行動不能になった敵は捕虜にせよ！\n 捕虜にするには入植者を右クリックした後に、捕虜にする人をクリックします\n\n囚人用に設定されたベッドも必要です</trans>
+	</rep>
+
+	<rep>
+		<path>Drafting.helpTexts[0]</path>
+		<trans>入植者に戦場で直接指示を与えたい時は、入植者を選択した後に DRAFT ボタンを押します。彼らはあなたの指示に従って、自分の持っている武器を使って戦闘します。\n\n戦闘終了後には、DRAFT を解除し忘れないで下さい。彼らは忠実に飢え死にするまで従いますから </trans>
+	</rep>
+
+	<rep>
+		<path>Forbidding.helpTexts[0]</path>
+		<trans>入植者は、FORBIDDEN とマークされたオブジェクトに関わりません。\n\n最初に軟着陸した周辺にある食料や資源を選び、"F"キーを押して、FORBIDDENを解除します </trans>
+	</rep>
+
+	<rep>
+		<path>BillsTab.helpTexts[0]</path>
+		<trans>入植者を机上の作業に就かせるには、机を選択して加工タブを開きます。そして、食料や物を加工させます </trans>
+	</rep>
+
+	<rep>
+		<path>GrowingFood.helpTexts[0]</path>
+		<trans>作物を作るには、アーキテクトメニューから、農業ゾーンを選び、豊かな土地を農地として選択します </trans>
+	</rep>
+
+	<rep>
+		<path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
+		<trans>軌道上の貿易商人と取引するには、ORBITAL TRADE BEACON の建造が必要不可欠です </trans>
+	</rep>
+
+	<rep>
+		<path>ReadingAlerts.helpTexts[0]</path>
+		<trans>何をしたら良いのか分からなくなったら？、画面右側の注意文を読んでみましょう </trans>
+	</rep>
+
+	<rep>
+		<path>CameraZoom.helpTexts[0]</path>
+		<trans>カメラをズームイン・アウトさせるには、MOUSEWHEELか、"T" "G"キーを押します </trans>
+	</rep>
+
+	<rep>
+		<path>PrisonerTab.helpTexts[0]</path>
+		<trans>囚人の囚人タブを開くと、彼を、どのように扱うかを決める事ができます。しかし看守の役割を持った入植者が必要となります </trans>
+	</rep>
+
+	<rep>
+		<path>TimeControls.helpTexts[0]</path>
+		<trans>時間管理は画面右下のアイコンをクリックします </trans>
+	</rep>
+
+	<rep>
+		<path>OpeningComms.helpTexts[0]</path>
+		<trans>通信させるには、入植者をクリックした後に、通信機を右クリックします </trans>
+	</rep>
+
+	<rep>
+		<path>StorageTabCategories.helpTexts[0]</path>
+		<trans>備蓄ゾーンの保管タブから、カテゴリー別に保管するかしないかを選択できます。カテゴリーを開くには左端にある三角形をクリックします </trans>
+	</rep>
+
+	<rep>
+		<path>Mining.helpTexts[0]</path>
+		<trans>アーキテクトメニューの命令タブから、採掘作業を割り当てます。\n\n鉄、金、Plasteel他、有用な金属を産出します </trans>
+	</rep>
+
+	<rep>
+		<path>WorkOverview.helpTexts[0]</path>
+		<trans>入植者概要メニューから、入植者の作業状態を確認できます。\n\n彼らは、彼らが見つけた作業の中で、優先順位の高いものから順に行います。入植者は設定されていない作業はしません\n\n誰一人として割り当ててなければ、その作業から得る物はありません </trans>
+	</rep>
+
+	<rep>
+		<path>EquippingWeapons.helpTexts[0]</path>
+		<trans>入植者に武装させるには、入植者を選択した後に武器を右クリックします。\n\n武器はスタート地点のそばに落ちています </trans>
+	</rep>
+
+	<rep>
+		<path>SetGrowingZonePlant.helpTexts[0]</path>
+		<trans>農業ゾーンでは、林業もできます。農業ゾーンの栽培タブから、樹木を選択してください </trans>
+	</rep>
+
+</LanguageData>

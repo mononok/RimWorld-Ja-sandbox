@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>SpacePause.helpTexts[0]</path>
+		<trans>スペースキーで、ゲームの一時停止・解除を行えます。\n\n一時停止中でもゲームの操作は行えます。\n\n指示するのが忙しくなったらスペースキーを押すことをお忘れ無く！</trans>
+	</rep>
+
+	<rep>
+		<path>StorageTab.helpTexts[0]</path>
+		<trans>備蓄ゾーンの保管タブから、どのアイテムを保管するかしないかを選択できます </trans>
+	</rep>
+
+	<rep>
+		<path>StoragePriority.helpTexts[0]</path>
+		<trans>備蓄ゾーン毎に優先度を指定できます。入植者はより優先度の高い備蓄ゾーンに蓄えます</trans>
+	</rep>
+
+	<rep>
+		<path>MedicalOperations.helpTexts[0]</path>
+		<trans>外科手術を指示するには、入植者の健康タブからOPERATIONS補助タブを選択します </trans>
+	</rep>
+
+	<rep>
+		<path>HomeRegion.helpTexts[0]</path>
+		<trans>村のゾーンとは、入植者が清掃や消火活動を行う範囲の事です\n\nアーキテクトメニューのゾーンから、村のゾーンを指定します</trans>
+	</rep>
+
+	<rep>
+		<path>RightClickClearLetter.helpTexts[0]</path>
+		<trans>あなたに届いた、ニュースレターを右クリックすると素早く消すことができます</trans>
+	</rep>
+
+	<rep>
+		<path>Wiki.helpTexts[0]</path>
+		<trans>You can look up information in the WIKI.\n\nUse the link the bottom right of the screen.</trans>
+	</rep>
+</LanguageData>

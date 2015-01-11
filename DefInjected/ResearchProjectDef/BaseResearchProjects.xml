@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<GeothermalPower.label>地熱発電</GeothermalPower.label>
+	<GeothermalPower.description>地熱発電器を作れるようになります</GeothermalPower.description>
+
 	<Hydroponics.label>水耕栽培</Hydroponics.label>
 	<Hydroponics.description>水耕栽培テーブルは、 屋内で植物を早く成長させることができます。 その水耕栽培テーブルを作れるようになります</Hydroponics.description>
 
@@ -37,4 +40,6 @@
 	<HospitalBed.label>手術台</HospitalBed.label>
 	<HospitalBed.description>手術台を作成できるようになります。医療行為の成功率が上がります</HospitalBed.description>
 
+	<Cryptosleep.label>疑似冬眠器 </Cryptosleep.label>
+	<Cryptosleep.description>仮死状態になって長い期間を疑似冬眠で過ごせる機械を作ります</Cryptosleep.description>
 </LanguageData>

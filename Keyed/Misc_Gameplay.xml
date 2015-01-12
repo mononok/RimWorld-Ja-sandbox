@@ -68,7 +68,6 @@
 <CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
 <NoCoverLower>カバーが ない</NoCoverLower>
 
-
   <!-- Generated recipes -->
   <RecipeMake>Make {0}</RecipeMake>
   <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
@@ -119,8 +118,7 @@
 
 	<!-- Power readout -->
 	<PowerNotConnected>電気が つながっていない</PowerNotConnected>
-	<PowerConnectedRate>供給できる電気： {0} W</PowerConnectedRate>
-	<PowerConnectedStored>たくわえた電気： {0} Wd</PowerConnectedStored>
+    <PowerConnectedRateStored>電源 rate/stored: {0} W / {1} Wd</PowerConnectedRateStored>
 	<PowerNeeded>消費する電気</PowerNeeded>
 	<PowerOutput>発電量</PowerOutput>
 	<PowerBatteryStored>バッテリー内の電気</PowerBatteryStored>
@@ -153,6 +151,7 @@
 	<StoragePriorityImportant>優先</StoragePriorityImportant>
 	<StoragePriorityCritical>最優先</StoragePriorityCritical>
 
+
   <!-- Rotting -->
   <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
@@ -166,14 +165,17 @@
 	<PercentGrowth>{0}％ 成長</PercentGrowth>
 	<Growing>成長中</Growing>
 	<NotGrowingNow>成長していない （{0} 必要がある）。</NotGrowingNow>
+    <NotGrowingNowResting>成長していない(活動停止中).</NotGrowingNowResting>
 	<FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
+    <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
+    <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (成長をやめた)</OutOfIdealTemperatureRangeNotGrowing>
 	<ReadyToHarvest>収穫 できます。</ReadyToHarvest>
 	<Mature>完熟しました。</Mature>
 	<SeedLabel>{0} の種</SeedLabel>
     <OutdoorGrowingPeriod>成長期間: {0}</OutdoorGrowingPeriod>
     <NoGrowingPeriod>なし</NoGrowingPeriod>
-    <GrowYearRound>Year-round</GrowYearRound>
-    <CannotGrowTooCold>Cannot grow - too cold.</CannotGrowTooCold>
+    <GrowYearRound>一年中</GrowYearRound>
+    <CannotGrowTooCold>生育不可 - 低温</CannotGrowTooCold>
 
 	<!-- Zones -->
 	<Zone>ゾーン</Zone>
@@ -208,6 +210,7 @@
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
 	<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
 	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接 配置して ください。</MustPlaceOnSteamGeyser>
+    <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
 
 	<!-- Wind Turbine -->
 	<WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
@@ -250,5 +253,6 @@
 	<GameOverShipLaunched>宇宙船が発進しました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
+
 
 </LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MapDollyUp.label>カメラを上に</MapDollyUp.label>
+	<MapDollyDown.label>カメラを下に</MapDollyDown.label>
+	<MapDollyLeft.label>カメラを左に</MapDollyLeft.label>
+	<MapDollyRight.label>カメラを右に</MapDollyRight.label>
+	<MapZoomIn.label>ズームイン</MapZoomIn.label>
+	<MapZoomOut.label>ズームアウト</MapZoomOut.label>
+
+	<!-- Map play -->
+	<ArchitectMode.label>アーキテクトメニューを表示</ArchitectMode.label>
+	<ToggleScreenshotMode.label>スクリーンショットモード</ToggleScreenshotMode.label>
+	<TakeScreenshot.label>スクリーンショットを撮る</TakeScreenshot.label>
+	<SelectNextInCell.label>次のセルを選択</SelectNextInCell.label>
+	<TogglePause.label>一時停止</TogglePause.label>
+	<TimeSpeedNormal.label>ゲーム速度：普通</TimeSpeedNormal.label>
+	<TimeSpeedFast.label>ゲーム速度：x2</TimeSpeedFast.label>
+	<TimeSpeedSuperfast.label>ゲーム速度：x3</TimeSpeedSuperfast.label>
+	<TimeSpeedUltrafast.label>ゲーム速度：x4(開発中)</TimeSpeedUltrafast.label>
+	<PreviousColonist.label>前の入植者を選択</PreviousColonist.label>
+	<NextColonist.label>次の入植者を選択</NextColonist.label>
+
+	<!-- Misc (re-used) -->
+	<Misc1.label>その他１</Misc1.label>
+	<Misc2.label>その他２</Misc2.label>
+	<Misc3.label>その他３</Misc3.label>
+	<Misc4.label>その他４</Misc4.label>
+	<Misc5.label>その他５</Misc5.label>
+	<Misc6.label>その他６</Misc6.label>
+	<Misc7.label>その他７</Misc7.label>
+	<Misc8.label>その他８</Misc8.label>
+	<Misc9.label>その他９</Misc9.label>
+	<Misc10.label>その他１０</Misc10.label>
+	<Misc11.label>その他１１</Misc11.label>
+	<Misc12.label>その他１２</Misc12.label>
+
+	<!-- Selection special -->
+	<CommandTogglePower.label>電源スイッチ</CommandTogglePower.label>
+	<CommandItemForbid.label>禁止スイッチ</CommandItemForbid.label>
+	<CommandColonistDraft.label>draft</CommandColonistDraft.label>
+
+	<!-- Architect: Common -->
+	<DesignatorCancel.label>中止</DesignatorCancel.label>
+	<DesignatorDeconstruct.label>破壊</DesignatorDeconstruct.label>
+	<DesignatorRotateLeft.label>反時計回りに回転</DesignatorRotateLeft.label>
+	<DesignatorRotateRight.label>時計回りに回転</DesignatorRotateRight.label>
+
+	<!-- Debug -->
+	<ToggleLog.label>ログ</ToggleLog.label>
+	<DebugTickOnce.label>tick once (debug)</DebugTickOnce.label>
+
+</LanguageData>

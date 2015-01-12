@@ -40,6 +40,11 @@
 
 <LetterSolarFlare>太陽フレアが はじまりました。\n\n強力な 電磁波が すべての 電気機器を シャットダウン します。\n\nこれは 数日間 つづきます。</LetterSolarFlare>
 
+<LetterHeatWave>異常な熱波が 始まりました。この熱波には気をつけてください</LetterHeatWave>
+<HeatWaveOver>熱波は収まりました</HeatWaveOver>
+<LetterColdSnap>異常な寒波が始まりました。低体温症や、作物の生育不良に気をつけてください</LetterColdSnap>
+<ColdSnapOver>寒波は収まりました</ColdSnapOver>
+
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で、 {1} を なりわいと しています。</TraderArrival>
 
 <SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています</SingleTravelerPassing>
@@ -69,5 +74,13 @@
 
 <!-- Distant psychic drone -->
 <LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の 気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
+
+
+<!-- Beavers -->
+<BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません</BeaversArrived>
+
+
+
+
 
 </LanguageData>

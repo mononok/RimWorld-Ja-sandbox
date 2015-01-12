@@ -19,6 +19,10 @@
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
 
+
+
+  <!-- Content generation-->
+
 <MeatLabel>{0} の肉</MeatLabel>
 <MeatDesc>{0} の生肉。</MeatDesc>
 
@@ -29,6 +33,12 @@
 <CorpseDesc>{0} の死体。</CorpseDesc>
 <DeadLabel>{0} (死亡)</DeadLabel>
 
+<RoughStoneTerrainLabel>荒れた {0}</RoughStoneTerrainLabel>
+<RoughStoneTerrainDesc>荒れた、自然のままな {0} </RoughStoneTerrainDesc>
+<RoughHewnStoneTerrainLabel>荒れた {0}</RoughHewnStoneTerrainLabel>
+<RoughHewnStoneTerrainDesc>ざっくりとカットされた {0} な床</RoughHewnStoneTerrainDesc>
+<SmoothStoneTerrainLabel>磨かれた {0}</SmoothStoneTerrainLabel>
+<SmoothStoneTerrainDesc>磨かれた {0} な床</SmoothStoneTerrainDesc>
 
 <BlueprintLabelExtra>（設計図）</BlueprintLabelExtra>
 <FrameLabelExtra>（作成中）</FrameLabelExtra>

@@ -13,6 +13,7 @@
 	<Bomb.deathMessage>{0} は爆発に巻き込まれて死んだ</Bomb.deathMessage>
 	<Flame.deathMessage>{0} は焼け死んだ</Flame.deathMessage>
 	<SurgicalCut.deathMessage>{0} は手術中に息絶えた</SurgicalCut.deathMessage>
+	<Frostbite.deathMessage>{0} は凍傷になって死んだ</Frostbite.deathMessage>
 
     <!-- Stun -->
 	<Stun.deathMessage>{0} は体が麻痺して死んだ</Stun.deathMessage>
@@ -22,5 +23,6 @@
 	<Bleeding.deathMessage>{0} は出血多量で死んだ</Bleeding.deathMessage>
 	<Suffocation.deathMessage>{0} は窒息死した</Suffocation.deathMessage>
 	<Starvation.deathMessage>{0} は飢死した</Starvation.deathMessage>
+	<Hypothermia.deathMessage>{0} は低体温症で死んだ</Hypothermia.deathMessage>
 
 </LanguageData>

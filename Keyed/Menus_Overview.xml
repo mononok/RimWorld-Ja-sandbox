@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<SkillMax>MAX</SkillMax>
+
+<!-- Tab titles -->
+<WorkTab>仕事</WorkTab>
+<FactionsTab>部族</FactionsTab>
+<StatisticsTab>統計</StatisticsTab>
+<HistoryTab>村の歴史</HistoryTab>
+<WorldTab>世界地図</WorldTab>
 
 <!-- Work tab -->
-<WorkTab>仕事</WorkTab>
 <ManualPriorities>詳細な設定</ManualPriorities>
 <HigherPriority>優先度 高</HigherPriority>
 <LowerPriority>優先度 低</LowerPriority>
@@ -13,27 +18,26 @@
 <CannotDoThisWork>{0} は この仕事が できません</CannotDoThisWork>
 <NoneBrackets>（なし）</NoneBrackets>
 
+
 <!-- Factions tab -->
-<FactionsTab>部族</FactionsTab>
 <Hostile>敵対</Hostile>
 <HostileTo>{0} と 敵対</HostileTo>
 <CurrentGoodwill>現在の 友好度</CurrentGoodwill>
 
+
 <!-- Statistics tab -->
-<StatisticsTab>統計</StatisticsTab>
+<Storyteller>AI脚本家</Storyteller>
 <ColonyWealthTotal>村の価値</ColonyWealthTotal>
 <ColonyWealthItems>村の価値（アイテム）</ColonyWealthItems>
 <ColonyWealthBuildings>村の価値（建物）</ColonyWealthBuildings>
-<NumBigThreats>大きな脅威</NumBigThreats>
+<NumThreatBigs>大きな脅威</NumThreatBigs>
 <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
 <DamageTaken>総ダメージ</DamageTaken>
 <ColonistsKilled>殺された 入植者数</ColonistsKilled>
 <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 
 
-
 <!-- History tab -->
-<HistoryTab>村の歴史</HistoryTab>
 <SelectGraph>グラフを選択</SelectGraph>
 <Last30Days>直近の30日</Last30Days>
 <Last100Days>直近の100日</Last100Days>
@@ -42,9 +46,6 @@
 <Day>日</Day>
 <Value>Value</Value>
 <External>External</External>
-
-<!-- World tab -->
-<WorldTab>世界地図</WorldTab>
 
 
 </LanguageData>

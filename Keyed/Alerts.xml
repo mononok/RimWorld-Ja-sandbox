@@ -3,6 +3,9 @@
 
 <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
+
+
+
 <AlertNeedStockpile>備蓄ゾーン</AlertNeedStockpile>
 <AlertNeedStockpileDesc>入植者は 資材を 格納する場所が わからずに 困っています。 備蓄ゾーンを 指定してください。\n\n左下の アーキテクト メニューから 「ゾーン」を 選択し 備蓄ゾーンを さがしましょう。</AlertNeedStockpileDesc>
 
@@ -14,9 +17,6 @@
 
 <NeedSawmill>木の板を作る</NeedSawmill>
 <NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
-
-<EquipStartingEquipment>武器を拾う</EquipStartingEquipment>
-<EquipStartingEquipmentDesc>入植者が 着陸した 場所の そばに 武器があります。 拾っておきましょう。\n\n入植者を 選択してから 装備したい 武器に 右クリックし、 装備を 指示します。</EquipStartingEquipmentDesc>
 
 <MentalBreakSoon>心が疲れている</MentalBreakSoon>
 <MentalBreakSoonDesc>つぎの入植者は 精神崩壊ポイントに 近づいています：\n\n{0}\n入植者たちの 環境を 改善して 心理状態を よくしましょう。</MentalBreakSoonDesc>
@@ -33,7 +33,6 @@
 
 <NeedGrowingZone>田畑をつくる</NeedGrowingZone>
 <NeedGrowingZoneDesc>田畑をつくってみましょう。\n\nアーキテクト メニューで 「肥沃な土壌」を 農業ゾーンに 指定します。</NeedGrowingZoneDesc>
-
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\nタレットを いくつか 作りましょう。</NeedDefensesDesc>
@@ -82,6 +81,9 @@
 <NoTradingCapacity>商船と取引</NoTradingCapacity>
 <NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過しようとする 商船と アイテムの 取り引きが できるように なります。</NoTradingCapacityDesc>
 
+<BrawlerHasRangedWeapon>格闘家が近接武器以外を装備しています</BrawlerHasRangedWeapon>
+<BrawlerHasRangedWeaponDesc>入植者の中の格闘家には、近接武器を装備させた方が得策です。</BrawlerHasRangedWeaponDesc>
+
 <NeedResearchProject>研究計画</NeedResearchProject>
 <NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
@@ -102,6 +104,9 @@
 
   <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>低体温症</AlertHypothermia>
+  <AlertHypothermiaDesc>入植者は低体温症に罹っています\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設定しましょう。</AlertHypothermiaDesc>
 
   <ColonistsAwaitingMedicalOperation>入植者は、手術を待っています </ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>

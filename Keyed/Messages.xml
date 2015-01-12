@@ -16,7 +16,7 @@
 <MessageFightersFleeing>{0} は {1} から 逃げています。</MessageFightersFleeing>
 <MessageFriendlyFightersLeaving>優しい {0} は {1} から 離れました。</MessageFriendlyFightersLeaving>
 
-
+<MessageSeasonBegun>{0} の 季節が始まった</MessageSeasonBegun>
 
 <MessageShipHasLeftCommsRange>{0} は 通信範囲から 離れました。</MessageShipHasLeftCommsRange>
 
@@ -42,10 +42,15 @@
 
 <MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
 
-<MessageMustDesignateHarvestableFood>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestableFood>
+<MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestable>
 <MessageMustDesignateHarvestableWood>木材として 十分に成長した 木を 指定してください。</MessageMustDesignateHarvestableWood>
 <MessageMustDesignatePlants>植物を 指定してください。</MessageMustDesignatePlants>
 <MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
+<MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
+<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
+<MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
+<MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
+
 
 <MessageNoMedicalBeds>医療用ベッドが無い</MessageNoMedicalBeds>
 

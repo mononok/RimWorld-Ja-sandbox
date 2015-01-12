@@ -3,6 +3,8 @@
 
 <JumpToLocation>その場所を 見る</JumpToLocation>
 
+  <FirstSummerWarning>夏が始まりました！しかし、冬もやってきます。\n\n作物は寒い冬の間は育ちません。何ヶ月もの間、食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます</FirstSummerWarning>
+
 <RelationsBrokenDown>{0} 部族が 絶縁しました。 彼らは、 あなたに 敵対しています。</RelationsBrokenDown>
 <RelationsWarmed>{0} 部族との 関係が 回復しました。 彼らは あなたに 敵対していません。</RelationsWarmed>
 
@@ -22,13 +24,18 @@
 <MentalBreakDaze>{0}は 絶望し、 村から出ていきます。</MentalBreakDaze>
 <MentalBreakLeave>{0}は 心が折れ、 うわのそらです。</MentalBreakLeave>
 
+<MentalBreakRecoveryRampage>{0}は、暴れることを止めました。</MentalBreakRecoveryRampage>
+<MentalBreakRecoveryDaze>{0}は、絶望の淵から帰ってきました。</MentalBreakRecoveryDaze>
+<MentalBreakRecoveryLeave>{0}は、もう一度やり直す決心を固めました。</MentalBreakRecoveryLeave>
+
 <RecruitSuccess>{0} は {1} を 村に 迎えました。 （成功率 {2} ）</RecruitSuccess>
 <RecruitFail>{0} は {1} の 説得に 失敗しました。 （成功率 {2} ）</RecruitFail>
 
   <Birthday>今日は {1} {0} の {2} 才の誕生日.</Birthday>
   <BirthdayWithInjuries>今日は {1} {0} の {2} 才の誕生日\n\n ですが不幸にも 年齢からくる持病( {3} ) を悪くさせてしまいました</BirthdayWithInjuries>
-  
+
   <NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです</NewDisease>
   <NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです</NewPartDisease>
+
 
 </LanguageData>

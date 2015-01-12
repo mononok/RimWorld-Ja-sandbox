@@ -19,7 +19,7 @@
 	<WoodLog.description>木から作られ、建築、兵器、松葉杖などに使われます</WoodLog.description>
 
 	<Uranium.label>ウラン</Uranium.label>
-	<Uranium.description>放射性物質</Uranium.description>
+	<Uranium.description>放射性核燃料</Uranium.description>
 
 	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
 	<Cloth.label>衣服</Cloth.label>
@@ -45,7 +45,10 @@
 	<RawAgave.label>リュウゼツラン</RawAgave.label>
 	<RawAgave.description>竜舌蘭の果実です</RawAgave.description>
 
-	<!--=============== Manufactured ====================-->
+    <!--=============== Medicine ====================-->
+	<HerbalMedicine.label>薬草</HerbalMedicine.label>
+	<HerbalMedicine.description>xerigiumから抽出したエキス、医薬品よりは効能が劣る</HerbalMedicine.description>
+
 	<Medicine.label>医薬品</Medicine.label>
 	<Medicine.description>医療スタッフが手当をするのに使います</Medicine.description>
 

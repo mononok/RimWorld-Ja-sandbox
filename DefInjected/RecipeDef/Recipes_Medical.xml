@@ -55,13 +55,13 @@
 
 	<!-- removing body parts -->
 
-        <RemoveBodyPart.label></RemoveBodyPart.label>
-        <RemoveBodyPart.description></RemoveBodyPart.description>
-        <RemoveBodyPart.jobString></RemoveBodyPart.jobString>
+        <RemoveBodyPart.label>器官を外す</RemoveBodyPart.label>
+        <RemoveBodyPart.description>器官を外します</RemoveBodyPart.description>
+        <RemoveBodyPart.jobString>器官を外しています</RemoveBodyPart.jobString>
 
-        <RemoveMechanoidBodyPart.label></RemoveMechanoidBodyPart.label>
-        <RemoveMechanoidBodyPart.description></RemoveMechanoidBodyPart.description>
-        <RemoveMechanoidBodyPart.jobString></RemoveMechanoidBodyPart.jobString>
+        <RemoveMechanoidBodyPart.label>部品を外す</RemoveMechanoidBodyPart.label>
+        <RemoveMechanoidBodyPart.description>部品を外します</RemoveMechanoidBodyPart.description>
+        <RemoveMechanoidBodyPart.jobString>部品を外している</RemoveMechanoidBodyPart.jobString>
 
 	<!-- Euthanization -->
 

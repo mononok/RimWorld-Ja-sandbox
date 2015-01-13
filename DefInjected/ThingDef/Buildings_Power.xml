@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
- 
+
 	<PowerConduit.label>電力線</PowerConduit.label>
-	<PowerConduit.description>電気を送電する為のケーブル</PowerConduit.description>
+	<PowerConduit.description>電気を送電する為のケーブルです</PowerConduit.description>
 
 	<SolarGenerator.label>太陽光発電</SolarGenerator.label>
-	<SolarGenerator.description>太陽光で発電する。光がないと発電できません</SolarGenerator.description>
+	<SolarGenerator.description>太陽光で発電します</SolarGenerator.description>
 
 	<GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
 	<GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません</GeothermalGenerator.description>
 
 	<Battery.label>バッテリー</Battery.label>
-	<Battery.description>余った電力を蓄える事が出来る。(警告)過充電や水漏れは爆発の原因となります</Battery.description>
+	<Battery.description>余った電力を蓄える事が出来ます。(警告)過充電や水漏れは爆発の原因となります</Battery.description>
 
 </LanguageData>

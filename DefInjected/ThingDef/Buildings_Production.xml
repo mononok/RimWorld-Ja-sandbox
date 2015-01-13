@@ -2,10 +2,10 @@
 <LanguageData>
 
     <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>有機物原料から栄養素を取り出した糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
+    <NutrientPasteDispenser.description>有機物原料から栄養素を取り出し、糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
 
     <Hopper.label>付属供給器</Hopper.label>
-    <Hopper.description>ペーストディスペンサと共に使って、自動で有機原料を供給します</Hopper.description>
+    <Hopper.description>ペーストディスペンサと共に使い、自動で有機原料を供給します</Hopper.description>
 
 	<!-- ========================= Work tables ==========================-->
 
@@ -13,10 +13,10 @@
 	<TableButcher.description>大きな肉の塊を小分けに加工します</TableButcher.description>
 
 	<TableTailor.label>裁縫台</TableTailor.label>
-	<TableTailor.description>この作業台を使って、衣類を直したり、作り出します </TableTailor.description>
+	<TableTailor.description>この作業台を使って、衣類を直したり、作ります </TableTailor.description>
 
 	<TableSmithing.label>工作台</TableSmithing.label>
-	<TableSmithing.description>この工作台を使って、武器や工具を作り出します </TableSmithing.description>
+	<TableSmithing.description>この工作台を使って、武器や工具を作ります </TableSmithing.description>
 
 	<TableSculpting.label>彫刻台</TableSculpting.label>
 	<TableSculpting.description>この彫刻台を使って、芸術を生み出します</TableSculpting.description>
@@ -25,16 +25,16 @@
 	<TableMachining.description>機械の分解・組立を行います</TableMachining.description>
 
 	<CookStove.label>コンロ</CookStove.label>
-	<CookStove.description>単純なコンロ台、簡易な調理器具</CookStove.description>
+	<CookStove.description>単純なコンロ台、簡易な調理器具で、料理を作ります</CookStove.description>
 
-	<TableStonecutter.label>石切機</TableStonecutter.label>
+	<TableStonecutter.label>ストーンカッター</TableStonecutter.label>
 	<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します</TableStonecutter.description>
 
 	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
-	<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬する、ただし大量の電気を消費します</ElectricSmelter.description>
+	<ElectricSmelter.description>くず鉄や純度の低い鉱石を精錬します。ただ大量の電気を消費します</ElectricSmelter.description>
 
 	<Crematorium.label>火葬炉</Crematorium.label>
-	<Crematorium.description>死体を荼毘に付す</Crematorium.description>
+	<Crematorium.description>死体と遺物を焼却します</Crematorium.description>
 
 	<ResearchBench.label>研究設備</ResearchBench.label>
 	<ResearchBench.description>新たな発見を見つける作業は、ここで研究を行います</ResearchBench.description>

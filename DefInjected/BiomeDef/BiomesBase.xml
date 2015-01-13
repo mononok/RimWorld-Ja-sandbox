@@ -3,27 +3,27 @@
 
     <!-- ======== Unlandable biomes ==========-->
     <Ocean.label>海洋</Ocean.label>
-    <Ocean.description>大海原、魚にとっては絶好の環境も、あなたにとってはただの海</Ocean.description>
+    <Ocean.description>大海原、魚にとっては絶好の環境も、あなたにとってはただの海以外のなにものでもありません</Ocean.description>
 
     <IceSheet.label>凍土</IceSheet.label>
-    <IceSheet.description>地面は厚さ数キロの氷に覆われている。地面にはたどりつけないので植物もありません。ここだけで見られる動物は、どこかへ移動していくか、失われます。</IceSheet.description>
+    <IceSheet.description>地表は厚さ数キロの氷に覆われているので植物は育ちません。この地方だけに見られる動物は、他の地方へ移動していくか、失われてしまいます。</IceSheet.description>
 
     <!-- ======== Landable biomes ==========-->
     <AridShrubland.label>サバンナ</AridShrubland.label>
     <AridShrubland.description>乾燥地帯ですが、砂漠になるほどは乾燥していません。草や茂みのある平原は、灌木林に変わります。植物は耐寒性で、動物の適度な密度があります</AridShrubland.description>
 
     <TemperateForest.label>温帯森林</TemperateForest.label>
-    <TemperateForest.description>豊かな自然は、肥沃な土地と落葉樹の森をはぐくみました。多くの特別な動物達が木々の周りを動き回っています。</TemperateForest.description>
+    <TemperateForest.description>豊かな自然は、肥沃な土地と落葉樹の森をはぐくみました。多くの特別な動物達が木々の周りを走り回っています。</TemperateForest.description>
 
     <Desert.label>砂漠</Desert.label>
-    <Desert.description>乾燥した高温地帯は、少しの生き物しかはぐくめません</Desert.description>
+    <Desert.description>乾燥した高温地帯は、限られた生き物しかはぐくめません</Desert.description>
 
     <!-- ======== Landable biomes (not implemented) ==========-->
     <TropicalRainforest.label>熱帯雨林</TropicalRainforest.label>
-    <TropicalRainforest.description>密集した湿ったジャングル。濃い繁茂と攻撃的な野生生物は、建設と生き残りを難しくします</TropicalRainforest.description>
+    <TropicalRainforest.description>木々が密集し湿ったジャングルと、攻撃的な野生生物は、建設と生き残りを困難なものにします</TropicalRainforest.description>
 
     <Tundra.label>ツンドラ</Tundra.label>
-    <Tundra.description>極寒の平原は、ほとんどの木や植物をはぐくまない。群れをなして移動する草食獣と、その捕食者と共に、少しの小動物がいます</Tundra.description>
+    <Tundra.description>極寒の平原は、ほとんど、木や植物をはぐくみません。群れをなして移動する草食獣と、それを捕食する肉食獣、そしてその間に、わずかの小動物がいます</Tundra.description>
     <BorealForest.label>針葉樹林</BorealForest.label>
     <BorealForest.description>辛辣な冬にもかかわらず、北の森は、小さくて大きな動物の多様な人口を支えます</BorealForest.description>
 

@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-		
+
         <Sandbags.label>土嚢</Sandbags.label>
         <Sandbags.description>銃撃から身を隠せます</Sandbags.description>
-		
+
 		<!--=============== Improvised turret ===============-->
  		<TurretGun.label>タレット</TurretGun.label>
-        <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろいタレット</TurretGun.description>
-		
+        <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
+
 		<!--=============== Mortar turret ===============-->
 		<Turret_MortarIncendiary.label>迫撃砲(焼夷弾)</Turret_MortarIncendiary.label>
         <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できる、ダメージを受けると爆発します</Turret_MortarIncendiary.description>
-		
+
 		<Turret_MortarBomb.label>迫撃砲(溜弾)</Turret_MortarBomb.label>
         <Turret_MortarBomb.description>手動でのみ溜弾を投射できる、ダメージを受けると爆発します</Turret_MortarBomb.description>
-		
+
 		<Turret_MortarEMP.label>迫撃砲(EMP)</Turret_MortarEMP.label>
         <Turret_MortarEMP.description>手動でのみEMP弾を投射できる、ダメージを受けると爆発します</Turret_MortarEMP.description>
-		
+
 </LanguageData>

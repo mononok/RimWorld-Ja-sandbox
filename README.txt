@@ -1,13 +1,10 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:8.03
-Original: alpha8e
-Description: ファイルのフォーマット変更に対応
-ToDo: 冬眠カプセルの変更、メインメニューの日本語化ができねえ？
-Notify: 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/Japaneseのフォルダーの
-DefInjectedフォルダ、Keyedフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
-
-
+Ver:9.00
+Original: alpha9d + Imp1
+Description: Warningの除去、上書きされても良いようにファイルの削除をやめて中身が空のファイルにした
+ToDo:
+Notify:
 
 ============
 Japanese localization for RimWorld

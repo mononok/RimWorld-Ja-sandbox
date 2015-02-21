@@ -4,9 +4,6 @@
     <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
     <MeleeHitChance.description>白兵戦時の 基本命中率を表します</MeleeHitChance.description>
 
-    <MeleeHitChanceFactor.label>命中率修正値(白兵戦) </MeleeHitChanceFactor.label>
-    <MeleeHitChanceFactor.description>負数は命中率が下がります、正数は上がります</MeleeHitChanceFactor.description>
-
     <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
     <ShootingAccuracy.description>射撃時の 距離別基本命中率を表します</ShootingAccuracy.description>
 

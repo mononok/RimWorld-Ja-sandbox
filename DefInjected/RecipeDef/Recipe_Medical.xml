@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+        <InstallNaturalHeart.label>生体心臓移植</InstallNaturalHeart.label>
+        <InstallNaturalHeart.description>生体の心臓を移植する</InstallNaturalHeart.description>
+        <InstallNaturalHeart.jobString>生体心臓移植中</InstallNaturalHeart.jobString>
+
+        <InstallNaturalLiver.label>生体肝移植</InstallNaturalLiver.label>
+        <InstallNaturalLiver.description>生体の肝臓を移植する</InstallNaturalLiver.description>
+        <InstallNaturalLiver.jobString>生体肝移植中</InstallNaturalLiver.jobString>
+
+        <InstallNaturalKidney.label>生体腎移植</InstallNaturalKidney.label>
+        <InstallNaturalKidney.description>生体の腎臓を移植する</InstallNaturalKidney.description>
+        <InstallNaturalKidney.jobString>生体腎移植中</InstallNaturalKidney.jobString>
+
+        <InstallNaturalLung.label>生体肺移植</InstallNaturalLung.label>
+        <InstallNaturalLung.description>生体の肺を移植する</InstallNaturalLung.description>
+        <InstallNaturalLung.jobString>生体肺移植中</InstallNaturalLung.jobString>
+
+        <InstallPegLeg.label>義足移植</InstallPegLeg.label>
+        <InstallPegLeg.description>義足を装着する</InstallPegLeg.description>
+        <InstallPegLeg.jobString>義足移植中</InstallPegLeg.jobString>
+
+        <InstallBionicEye.label>強化眼球移植</InstallBionicEye.label>
+        <InstallBionicEye.description>機械化された眼球を移植する</InstallBionicEye.description>
+        <InstallBionicEye.jobString>強化眼球移植中</InstallBionicEye.jobString>
+
+        <InstallBionicArm.label>機械化義手移植</InstallBionicArm.label>
+        <InstallBionicArm.description>機械化された義手を移植する</InstallBionicArm.description>
+        <InstallBionicArm.jobString>機械化義手移植中</InstallBionicArm.jobString>
+
+        <InstallBionicLeg.label>機械化義足移植</InstallBionicLeg.label>
+        <InstallBionicLeg.description>機械化された義足を移植する</InstallBionicLeg.description>
+        <InstallBionicLeg.jobString>機械化義足移植中</InstallBionicLeg.jobString>
+
+        <InstallSimpleProstheticLeg.label>人工義足移植</InstallSimpleProstheticLeg.label>
+        <InstallSimpleProstheticLeg.description>簡易な義足を移植する</InstallSimpleProstheticLeg.description>
+        <InstallSimpleProstheticLeg.jobString>人工義足移植中</InstallSimpleProstheticLeg.jobString>
+
+        <InstallSimpleProstheticArm.label>人工義手移植</InstallSimpleProstheticArm.label>
+        <InstallSimpleProstheticArm.description>簡易な義手を移植する</InstallSimpleProstheticArm.description>
+        <InstallSimpleProstheticArm.jobString>人工義手移植中</InstallSimpleProstheticArm.jobString>
+
+        <InstallDenture.label>義歯移植</InstallDenture.label>
+        <InstallDenture.description>入れ歯を移植する</InstallDenture.description>
+        <InstallDenture.jobString>義歯移植中</InstallDenture.jobString>
+
+        <InstallPowerClaw.label>鉤爪改造</InstallPowerClaw.label>
+        <InstallPowerClaw.description>大きな鉤爪を移植する</InstallPowerClaw.description>
+        <InstallPowerClaw.jobString>鉤爪改造</InstallPowerClaw.jobString>
+
+        <InstallScytherKnifeProtrusion.label>鎌状刀義体化</InstallScytherKnifeProtrusion.label>
+        <InstallScytherKnifeProtrusion.description>身体に機械生命体の鎌状の突起物を移植する</InstallScytherKnifeProtrusion.description>
+        <InstallScytherKnifeProtrusion.jobString>鎌状剃刀義体化中</InstallScytherKnifeProtrusion.jobString>
+
+	<!-- removing body parts -->
+
+        <RemoveBodyPart.label></RemoveBodyPart.label>
+        <RemoveBodyPart.description></RemoveBodyPart.description>
+        <RemoveBodyPart.jobString></RemoveBodyPart.jobString>
+
+        <RemoveMechanoidBodyPart.label></RemoveMechanoidBodyPart.label>
+        <RemoveMechanoidBodyPart.description></RemoveMechanoidBodyPart.description>
+        <RemoveMechanoidBodyPart.jobString></RemoveMechanoidBodyPart.jobString>
+
+	<!-- Euthanization -->
+
+        <Euthanize.label></Euthanize.label>
+        <Euthanize.description></Euthanize.description>
+        <Euthanize.jobString></Euthanize.jobString>
+
+        <ShutDownMechanoid.label></ShutDownMechanoid.label>
+        <ShutDownMechanoid.description></ShutDownMechanoid.description>
+        <ShutDownMechanoid.jobString></ShutDownMechanoid.jobString>
+
+</LanguageData>

@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <MoveSpeed.label>移動速度</MoveSpeed.label>
+    <MoveSpeed.description>移動セル数/秒</MoveSpeed.description>
+
+    <MentalBreakThreshold.label>精神的弱さ</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>精神的弱さを表し この値を下回れば精神崩壊する危険性があります</MentalBreakThreshold.description>
+
+    <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
+    <PsychicSensitivity.description>精神波の影響を受けやすい倍率を表します</PsychicSensitivity.description>
+
+    <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します</GlobalLearningFactor.description>
+
 	<EatingSpeed.label>食事の早さ</EatingSpeed.label>
 	<EatingSpeed.description>スピード倍率</EatingSpeed.description>
 
@@ -9,5 +21,8 @@
 
 	<ComfyTemperatureMax.label>快適と感じる最高気温 </ComfyTemperatureMax.label>
 	<ComfyTemperatureMax.description>この気温を上回ると、熱中症、そして死に至ります </ComfyTemperatureMax.description>
+
+	<ImmunityGainSpeed.label>免疫能力</ImmunityGainSpeed.label>
+	<ImmunityGainSpeed.description>病気に対して免疫を得るにかかる時間。もしこの時間が遅ければ、この人物は病原菌に対して免疫を得る前に侵されて死ぬでしょう</ImmunityGainSpeed.description>
 
 </LanguageData>

@@ -14,7 +14,6 @@
 <DeadTime>死後 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
 <DyingLower>瀕死</DyingLower>
-<PawnEffectiveness>体調</PawnEffectiveness>
 <FilthOnFeet>足もと：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
@@ -36,18 +35,29 @@
   <DropThing>はずす</DropThing>
   <RenameColonist>Rename colonist</RenameColonist>
   <UnknownLower>unknown</UnknownLower>
+  <On>On</On>
+  <Off>Off</Off>
+  <PowerSwitch_Power>電源SW</PowerSwitch_Power>
+
+  <!-- Control -->
+  <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} は 野蛮なことはできません</IsIncapableOfViolence>
+  <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
 
   <!-- Snow -->
-  <SnowNone>No snow</SnowNone>
-  <SnowDusting>Snow (dusting)</SnowDusting>
-  <SnowThin>Snow (thin)</SnowThin>
-  <SnowMedium>Snow (medium)</SnowMedium>
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowNone>雪がない</SnowNone>
+  <SnowDusting>粉雪</SnowDusting>
+  <SnowThin>さらさらな雪</SnowThin>
+  <SnowMedium>雪</SnowMedium>
+  <SnowThick>べた雪</SnowThick>
+
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
   <MinimumRange>最小範囲</MinimumRange>
   <CanFireIn>射撃開始距離</CanFireIn>
+  <ShellLoaded>装填済み</ShellLoaded>
+  <ShellNotLoaded>未装填</ShellNotLoaded>
 
 
   <!-- Job reports -->
@@ -64,9 +74,9 @@
 <TargetProne>的にしやすい</TargetProne>
 <TargetSize>標的サイズ</TargetSize>
 <Weather>天候</Weather>
-<ShootingCover>カバー</ShootingCover>
+<ShootingCover>身を隠すカバー</ShootingCover>
 <CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
-<NoCoverLower>カバーが ない</NoCoverLower>
+<NoCoverLower>身を隠すカバーが ない</NoCoverLower>
 
   <!-- Generated recipes -->
   <RecipeMake>Make {0}</RecipeMake>
@@ -88,7 +98,8 @@
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
 <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
 <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
-<MentalBreakThreshold>精神崩壊 ポイント</MentalBreakThreshold>
+  <MentalBreakThresholdHard>精神崩壊 ポイント</MentalBreakThresholdHard>
+  <MentalBreakThresholdSoft>精神衰弱 ポイント</MentalBreakThresholdSoft>
 
 
 <!-- Pawn info readout -->
@@ -103,10 +114,6 @@
 <Incapacitated>倒れている</Incapacitated>
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
-<SanityDazedWander>精神崩壊： うわのそらで 放浪</SanityDazedWander>
-<SanityGiveUpExit>精神崩壊： 心が折れ 離れていく</SanityGiveUpExit>
-<SanityPanicFlee>精神崩壊： パニックになり 逃走</SanityPanicFlee>
-<SanityPsychotic>精神崩壊： ヒステリーで 暴徒化</SanityPsychotic>
 
 	<!-- Inspector general stuff -->
 	<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
@@ -132,6 +139,7 @@
 
   <!-- Temperature readout -->
   <Indoors>室内温度</Indoors>
+  <IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
   <Outdoors>外気温</Outdoors>
 
 	<!--Rotting-->
@@ -175,6 +183,7 @@
     <OutdoorGrowingPeriod>成長期間: {0}</OutdoorGrowingPeriod>
     <NoGrowingPeriod>なし</NoGrowingPeriod>
     <GrowYearRound>一年中</GrowYearRound>
+  <GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
     <CannotGrowTooCold>生育不可 - 低温</CannotGrowTooCold>
 
 	<!-- Zones -->
@@ -190,6 +199,7 @@
 
 	<!-- Buttons -->
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>住環境の可視 切り替え.\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
 	<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
 	<CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
 
@@ -247,6 +257,15 @@
 	<Quality>Quality</Quality>
 	<QualityDescription>An item's quality is how well-made it is.</QualityDescription>
 	<QualityIs>Quality: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <Mood_Broken>崩壊</Mood_Broken>
+  <Mood_AboutToBreak>崩壊に等しい</Mood_AboutToBreak>
+  <Mood_OnEdge>限界</Mood_OnEdge>
+  <Mood_Stressed>ストレスがかかる</Mood_Stressed>
+  <Mood_Neutral>平凡</Mood_Neutral>
+	<Mood_Content>満足</Mood_Content>
+  <Mood_Happy>幸せ</Mood_Happy>
 
 	<!-- Game over -->
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>

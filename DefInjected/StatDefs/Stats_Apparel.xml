@@ -12,4 +12,18 @@
 
 	<ArmorRating_Electric.label>アーマー(電)</ArmorRating_Electric.label>
 	<ArmorRating_Electric.description>電磁波から身を守ります</ArmorRating_Electric.description>
+
+	<Insulation_Cold.label>防寒温度</Insulation_Cold.label>
+	<Insulation_Cold.description>寒さをしのげる最低温度</Insulation_Cold.description>
+
+	<Insulation_Heat.label>防暖温度</Insulation_Heat.label>
+	<Insulation_Heat.description>暑さをしのげる最高温度</Insulation_Heat.description>
+
+	<PersonalShieldEnergyMax.label>エネルギー吸収最大量</PersonalShieldEnergyMax.label>
+	<PersonalShieldEnergyMax.description>撃たれたエネルギーを吸収して無効にできる最大量</PersonalShieldEnergyMax.description>
+
+	<PersonalShieldRechargeRate.label>再準備期間</PersonalShieldRechargeRate.label>
+	<PersonalShieldRechargeRate.description>再使用できる迄の冷却時間</PersonalShieldRechargeRate.description>
+
+
 </LanguageData>

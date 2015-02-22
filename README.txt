@@ -1,10 +1,10 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:9.00
-Original: alpha9d + Imp1
-Description: Warningの除去、上書きされても良いようにファイルの削除をやめて中身が空のファイルにした
+Ver:9.01
+Original: alpha9d + Imp2
+Description: 酒、その他追加
 ToDo:
-Notify:
+Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 
 ============
 Japanese localization for RimWorld

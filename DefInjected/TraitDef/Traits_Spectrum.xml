@@ -29,6 +29,35 @@
 		<trans>NAME は 常に切迫感をもって移動するので 他の人はついていけません</trans>
 	</rep>
 
+	<!--> DrugDesire <-->
+	<rep>
+		<path>DrugDesire.degreeDatas[0].label</path>
+		<trans>アルコール中毒者</trans>
+	</rep>
+	<rep>
+		<path>DrugDesire.degreeDatas[0].description</path>
+		<trans>NAME は 酒の虜です、HECAP は ありったけを摂取しつくし、もっと欲しがりそうです</trans>
+	</rep>
+
+	<rep>
+		<path>DrugDesire.degreeDatas[1].label</path>
+		<trans>のんべえ</trans>
+	</rep>
+	<rep>
+		<path>DrugDesire.degreeDatas[1].description</path>
+		<trans>NAME は 無類の酒好きです。HECAL は ありったけを摂取しつくし、もっと欲しがりそうです</trans>
+	</rep>
+
+	<rep>
+		<path>DrugDesire.degreeDatas[2].label</path>
+		<trans>酒嫌い</trans>
+	</rep>
+	<rep>
+		<path>DrugDesire.degreeDatas[2].description</path>
+		<trans>NAME は 酒のみが大嫌いで、アルコールや薬物はやりません</trans>
+	</rep>
+
+
 	<!--> NaturalMood <-->
 	<rep>
 		<path>NaturalMood.degreeDatas[0].label</path>
@@ -115,7 +144,7 @@
 
  	<rep>
 		<path>Neurotic.degreeDatas[1].label</path>
-		<trans>ノイローゼ</trans>
+		<trans>ノイローゼもち</trans>
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[1].description</path>
@@ -125,7 +154,7 @@
 	<!--> Industriousness <-->
 	<rep>
 		<path>Industriousness.degreeDatas[0].label</path>
-		<trans>職人</trans>
+		<trans>職人気質</trans>
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[0].description</path>
@@ -175,12 +204,12 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAME は精神的感受性が高いです</trans>
+		<trans>NAME は まれにみる 精神的に感受性が高い人物です</trans>
 	</rep>
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].label</path>
-		<trans>非能力者</trans>
+		<trans>凡人</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].description</path>
@@ -189,13 +218,14 @@
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].label</path>
-		<trans>Psychically deaf</trans>
+		<trans>非能力者</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
 		<trans>NAME の精神波は 他人とは違うようで まったく影響を受けません 精神的現象が HECAP に及ぼすことは全くありません </trans>
 	</rep>
 
+	<!--> TemperaturePreference <-->
 	<rep>
 		<path>TemperaturePreference.degreeDatas[0].label</path>
 		<trans>熱い皮膚</trans>

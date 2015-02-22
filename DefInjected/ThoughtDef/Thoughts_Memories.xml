@@ -3,6 +3,15 @@
 
 
   <rep>
+    <path>SleepDisturbed.stages[0].label</path>
+    <trans>良く眠れない</trans>
+  </rep>
+  <rep>
+    <path>SleepDisturbed.stages[0].description</path>
+    <trans>寝ている自分の周りを、他の人が動き回るので、ぐっすり眠ることができなかった</trans>
+  </rep>
+
+  <rep>
     <path>AteRawFood.stages[0].label</path>
     <trans>生肉を食べた</trans>
   </rep>

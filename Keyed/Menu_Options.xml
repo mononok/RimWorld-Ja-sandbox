@@ -12,6 +12,7 @@
 
   <!-- Gameplay -->
   <EdgeScreenScroll>画面端カーソルで移動</EdgeScreenScroll>
+  <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
   <CustomCursor>ゲーム用カーソル</CustomCursor>
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <ChooseLanguage>言語</ChooseLanguage>
@@ -24,6 +25,7 @@
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <NamesYouWantToSee>キャラ背景や ゲーム中に 登場させたい 名前：</NamesYouWantToSee>
   <ChangeStoryteller>脚本家 選択</ChangeStoryteller>
+  <AutosaveInterval>自動保存間隔</AutosaveInterval>
 
   <!-- Resolution -->
   <Resolution>解像度</Resolution>

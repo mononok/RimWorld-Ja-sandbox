@@ -7,7 +7,7 @@
 <CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
 <CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
 <CannotUseNoPath>使用できません （パスがない）</CannotUseNoPath>
-<CannotUseReserved>使用できません (reserved)</CannotUseReserved>
+<CannotUseReserved>使用できません (予約済)</CannotUseReserved>
 <CannotUseFull>使用できません (満載l)</CannotUseFull>
 
 <FireAt>{0} を 射撃</FireAt>
@@ -18,9 +18,9 @@
 
 <OrderManThing>Man {0}</OrderManThing>
 
-<MeleeAttack>{0} に 格闘</MeleeAttack>
+<MeleeAttack>{0} と 格闘</MeleeAttack>
 <MeleeAttackToDeath>{0} を 格闘で 殺害</MeleeAttackToDeath>
-<NoPath>パスがありません</NoPath>
+<NoPath>道順がありません</NoPath>
 
 <ForbiddenLower>無視</ForbiddenLower>
 <SociallyImproperLower>社交的でない</SociallyImproperLower>
@@ -29,6 +29,9 @@
 <NoEmptyPlaceLower>備蓄する 空き場所が ない</NoEmptyPlaceLower>
 <AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
 <MissingMaterials>資材が ない</MissingMaterials>
+
+
+  <ConsumeThing>{0} は 尽きた</ConsumeThing>
 
 
 <CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>
@@ -43,6 +46,10 @@
 <Rescue>{0} を 救助</Rescue>
 <CannotRescue>救助 できません</CannotRescue>
 
+  <CarryToCryptosleepCasket>冬眠カプセル に {0} を運ぶ</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>冬眠カプセル に 運べません</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>cryptosleep casket は無い</NoCryptosleepCasket>
 <NoPrisonerBed>石壁・メタル壁で 囲った 囚人用 ベッドが ありません。</NoPrisonerBed>
 <NoNonPrisonerBed>利用可能な 入植者用 ベッドが ありません</NoNonPrisonerBed>
 <Reserved>他の誰かが 使用しています。</Reserved>
@@ -64,6 +71,8 @@
 <Deposit>{0} を {1} に 渡す</Deposit>
 <CannotDeposit>{1} に {0} を 渡せません</CannotDeposit>
 
+  <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
+
 <Drop>{0} を 手放す</Drop>
 
   <UseMedicalBed>完治するまで休む</UseMedicalBed>
@@ -71,7 +80,8 @@
   <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
 
 <!-- Specific thing interactions -->
-<EnterCryptosleepPod>冬眠カプセルに はいる</EnterCryptosleepPod>
+<EnterCryptosleepPod>冬眠カプセルに 入る</EnterCryptosleepPod>
+  <OpenCryptosleepCasket>冬眠カプセルを 開ける</OpenCryptosleepCasket>
 
 
 
@@ -79,6 +89,8 @@
 <CannotGenericWork>{1} を {0} できません</CannotGenericWork>
 
 <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>それは優先できない (急用: {0})</CannotMissingHealthActivities>
+
 <CannotGenericAlreadyAm> {1} は すでに {0} です</CannotGenericAlreadyAm>
 
 <CannotPrioritizeIsNotA>優先 できません （{0} は {1} が できません）</CannotPrioritizeIsNotA>
@@ -86,6 +98,7 @@
 <CannotPrioritizeResearch>優先 できません （研究は、優先順位を つけられません）</CannotPrioritizeResearch>
 
 <CannotPrioritizeForbidden>優先 できません （{0} は 禁止されています）</CannotPrioritizeForbidden>
+
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
 <PrioritizeGeneric>{1} を いますぐ {0} する</PrioritizeGeneric>

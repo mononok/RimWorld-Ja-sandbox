@@ -2,6 +2,23 @@
 <LanguageData>
 
 	<rep>
+		<path>LowExpectations.stages[0].label</path>
+		<trans>生存への薄い望み</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[0].description</path>
+		<trans>この土地はやや貧しく、何もないままなら、生活が良くなるとは期待できない</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[1].label</path>
+		<trans>絶望的な住環境</trans>
+	</rep>
+	<rep>
+		<path>LowExpectations.stages[1].description</path>
+		<trans>この土地は酷く貧しく、生き残るには心を鬼にするしかないだろう</trans>
+	</rep>
+
+	<rep>
 		<path>Hungry.stages[0].label</path>
 		<trans>お腹が空いた</trans>
 	</rep>

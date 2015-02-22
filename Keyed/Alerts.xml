@@ -5,24 +5,14 @@
 
 
 
-
-<AlertNeedStockpile>備蓄ゾーン</AlertNeedStockpile>
-<AlertNeedStockpileDesc>入植者は 資材を 格納する場所が わからずに 困っています。 備蓄ゾーンを 指定してください。\n\n左下の アーキテクト メニューから 「ゾーン」を 選択し 備蓄ゾーンを さがしましょう。</AlertNeedStockpileDesc>
-
-<AlertUnforbidStartingResources>資材を使う</AlertUnforbidStartingResources>
-<AlertUnforbidStartingResourcesDesc>ゲーム開始時、 資材は 「無視」と なっています。\n\n入植者が 資材を 使うには それを選択し 画面下の スクリーンで 「使用」に 設定して ください。</AlertUnforbidStartingResourcesDesc>
-
-<AlertEquipStartingWeapons>武器を装備する</AlertEquipStartingWeapons>
-<AlertEquipStartingWeaponsDesc>入植者たちは 武器も 持ちこんで います。 装備 しましょう！\n\n入植者を 選択し 武器に 右クリックして 装備を 指示します。</AlertEquipStartingWeaponsDesc>
-
 <NeedSawmill>木の板を作る</NeedSawmill>
 <NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
 
-<MentalBreakSoon>心が疲れている</MentalBreakSoon>
-<MentalBreakSoonDesc>つぎの入植者は 精神崩壊ポイントに 近づいています：\n\n{0}\n入植者たちの 環境を 改善して 心理状態を よくしましょう。</MentalBreakSoonDesc>
+  <PoorMood>Poor mood</PoorMood>
+  <PoorMoodDesc>These colonists are in a poor mood and may have a soft mental break at any time:\n\n{0}\nCheck these colonists' Thoughts tab to see what's bothering them.</PoorMoodDesc>
 
-<MentalBreakImminent>心のケアが必要</MentalBreakImminent>
-<MentalBreakImminentDesc>つぎの入植者は ストレスの限界で いつ 精神崩壊 しても おかしくありません：\n\n{0}</MentalBreakImminentDesc>
+  <TerribleMood>Terrible mood</TerribleMood>
+  <TerribleMoodDesc>These colonists are critically stressed and may have a hard - and potentially violent - mental break at any moment:\n\n{0}\nCheck these colonists' Thoughts tab to see what's bothering them</TerribleMoodDesc>
 
 <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
 <ColonistsNeedRescue>救助が必要</ColonistsNeedRescue>
@@ -30,9 +20,6 @@
 
 <BuildARoom>部屋をつくる</BuildARoom>
 <BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。 計画を 指定しておけば、 入植者は 自分で考えて 仕事をします。</BuildARoomDesc>
-
-<NeedGrowingZone>田畑をつくる</NeedGrowingZone>
-<NeedGrowingZoneDesc>田畑をつくってみましょう。\n\nアーキテクト メニューで 「肥沃な土壌」を 農業ゾーンに 指定します。</NeedGrowingZoneDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\nタレットを いくつか 作りましょう。</NeedDefensesDesc>
@@ -84,6 +71,9 @@
 <BrawlerHasRangedWeapon>格闘家が近接武器以外を装備しています</BrawlerHasRangedWeapon>
 <BrawlerHasRangedWeaponDesc>入植者の中の格闘家には、近接武器を装備させた方が得策です。</BrawlerHasRangedWeaponDesc>
 
+  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of your colonists has a personal shield and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+
 <NeedResearchProject>研究計画</NeedResearchProject>
 <NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
@@ -99,23 +89,20 @@
 <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
 <HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
 
-<TableNeedsChairs>テーブルとイス</TableNeedsChairs>
-<TableNeedsChairsDesc>テーブルに 隣接した イスを つくりましょう。 テーブルと イスは セットです。 彼らは テーブルに 座りません。</TableNeedsChairsDesc>
-
   <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>低体温症</AlertHypothermia>
   <AlertHypothermiaDesc>入植者は低体温症に罹っています\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設定しましょう。</AlertHypothermiaDesc>
 
-  <ColonistsAwaitingMedicalOperation>入植者は、手術を待っています </ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperation>{0} は、手術を待っています </ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
+
+  <FireInHomeRegion>火災発生!</FireInHomeRegion>
+  <FireInHomeRegionDesc>敷地内にて火災発生</FireInHomeRegionDesc>
 
   <PawnsWithLifeThreateningDisease>重傷</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われます</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重傷を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
-
-  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
-
 
 </LanguageData>

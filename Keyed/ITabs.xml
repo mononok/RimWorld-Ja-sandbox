@@ -6,6 +6,7 @@
 	<TabGrowing>栽培</TabGrowing>
 	<TabCharacter>人物</TabCharacter>
 	<TabPrisoner>囚人</TabPrisoner>
+    <TabGuest>客人</TabGuest>
 	<TabGear>装備</TabGear>
 	<TabThoughts>心境</TabThoughts>
 	<TabStorage>保管</TabStorage>
@@ -13,6 +14,7 @@
 	<TabRace>種族</TabRace>
 	<TabBasics>Basics</TabBasics>
 	<TabStats>状態</TabStats>
+    <TabArt>芸術</TabArt>
 
 
 	<!-- Bills tab  -->
@@ -20,10 +22,11 @@
 	<RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
 	<BillConfig>設定</BillConfig>
 	<SuspendedCaps>中止</SuspendedCaps>
+    <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
 	<PlantVerb>植物</PlantVerb>
 
 
-	<!-- Prisoner tab -->
+  <!-- Guest/prisoner tab -->
 	<RecruitmentDifficulty>勧誘の難度</RecruitmentDifficulty>
 	<PrisonerGetsFood>食べ物を 与えます</PrisonerGetsFood>
 	<DoctorsCare>医者に 診せます</DoctorsCare>

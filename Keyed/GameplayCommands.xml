@@ -5,12 +5,14 @@
 <CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
   <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
+
+  <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入れる</CommandDesignateTogglePowerDesc>
 
   <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替える</CommandTryReconnectDesc>
-
 
 <CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
 <CommandGatherSpotToggleDescActive>集合 - 入植者が、 集まります。</CommandGatherSpotToggleDescActive>
@@ -87,5 +89,20 @@
   <!-- Door -->
   <CommandToggleDoorLock>施錠</CommandToggleDoorLock>
   <CommandToggleDoorLockDesc>鍵を持っていないと 開ける事は できなくなる</CommandToggleDoorLockDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>リセット</CommandResetTemp>
+  <CommandResetTempDesc>設定温度をリセットします</CommandResetTempDesc>
+  <CommandRaiseTempDesc>設定温度を上げる</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>設定温度を下げる</CommandLowerTempDesc>
+
+  <!-- Art -->
+  <CommandInstall>展示</CommandInstall>
+  <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます</CommandInstallDesc>
+
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>集積地</CommandMakeBeaconStockpileLabel>
+
 
 </LanguageData>

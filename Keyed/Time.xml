@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <LetterDay>日</LetterDay>
+  <LetterHour>時</LetterHour>
+  <LetterMinute>分</LetterMinute>
+  <LetterSecond>秒</LetterSecond>
+
 <DaysLower>日</DaysLower>
 <SecondsLower>秒</SecondsLower>
 
@@ -8,5 +13,9 @@
 <SeasonSummer>夏</SeasonSummer>
 <SeasonFall>秋</SeasonFall>
 <SeasonWinter>冬</SeasonWinter>
+
+  <Born>Born: {0} {1} {2}</Born>
+  <AgeChronological>暦の上での年齢: {0} years, {1} months, {2} days</AgeChronological>
+  <AgeBiological>生物学的年齢: {0} years, {1} months, {2} days</AgeBiological>
 
 </LanguageData>

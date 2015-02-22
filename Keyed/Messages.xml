@@ -12,9 +12,10 @@
 <MessageRaidersGivenUpLeaving>{0} は {1} を諦め 離れました。</MessageRaidersGivenUpLeaving>
 <MessageRaidersSatisfiedLeaving>{0} は {1} の損害に 満足し 離れました。</MessageRaidersSatisfiedLeaving>
 
-
 <MessageFightersFleeing>{0} は {1} から 逃げています。</MessageFightersFleeing>
 <MessageFriendlyFightersLeaving>優しい {0} は {1} から 離れました。</MessageFriendlyFightersLeaving>
+
+  <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
 
 <MessageSeasonBegun>{0} の 季節が始まった</MessageSeasonBegun>
 
@@ -27,6 +28,8 @@
 <MessageFullyHealed>{0} の けがは 完治 しました。</MessageFullyHealed>
 
 <MessagePrisonerIsEscaping>囚人 {0} は 逃げ出しています。</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけられない.</MessageOutOfNearbyShellsFor>
 
 <MessageRecruitSuccess>{0} は 囚人 {1} を 村に 迎えました。 （成功率 {2} ）</MessageRecruitSuccess>
 <MessageRecruitFail>{0} は 囚人 {1} の 説得に 失敗しました。 （成功率 {2} ）</MessageRecruitFail>
@@ -58,5 +61,7 @@
 
 <MessageNoLongerDowned>{0} は 自由に歩き回れなくなった</MessageNoLongerDowned>
 
+  <MessageMedicalOperationFailureCatastrophic>{0} は {1} の手術中に 致命的なミスをおかした.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} は {1} の手術中に 些細なミスをした.</MessageMedicalOperationFailureMinor>
 
 </LanguageData>

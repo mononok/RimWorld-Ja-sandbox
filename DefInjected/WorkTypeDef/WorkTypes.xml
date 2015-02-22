@@ -66,6 +66,11 @@
         <Warden.description>看守は、あなたの指示どおりに囚人を勧誘したり、くだけた会話をしたり、しばいたり、処刑するし。また囚人に食事も運んでいく</Warden.description>
         <Warden.verb>見守る</Warden.verb>
 
+        <Control.pawnLabel>機械操作</Control.pawnLabel>
+        <Control.gerundLabel>機械操作</Control.gerundLabel>
+        <Control.description>制御盤を操作する</Control.description>
+        <Control.verb>操作する</Control.verb>
+
         <Patient.pawnLabel>看病</Patient.pawnLabel>
         <Patient.gerundLabel>看病</Patient.gerundLabel>
         <Patient.description>治療が必要な病人を、医療用ベッドへ連れて行きます</Patient.description>

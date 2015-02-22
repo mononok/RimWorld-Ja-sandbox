@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Heatstroke.label>熱中症</Heatstroke.label>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[0].label</path>
+		<trans>初期段階(自覚無し)</trans>
+	</rep>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[1].label</path>
+		<trans>初期段階</trans>
+	</rep>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[2].label</path>
+		<trans>わずかに</trans>
+	</rep>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[3].label</path>
+		<trans>深刻な</trans>
+	</rep>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[4].label</path>
+		<trans>極度の</trans>
+	</rep>
+	<rep>
+		<path>Heatstroke.stagedProps.severityStages[5].label</path>
+		<trans>致命的</trans>
+	</rep>
+
+	<Hypothermia.label>低体温症</Hypothermia.label>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[0].label</path>
+		<trans>初期段階(自覚無し)</trans>
+	</rep>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[1].label</path>
+		<trans>初期段階</trans>
+	</rep>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[2].label</path>
+		<trans>わずかに</trans>
+	</rep>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[3].label</path>
+		<trans>深刻な</trans>
+	</rep>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[4].label</path>
+		<trans>極度の</trans>
+	</rep>
+	<rep>
+		<path>Hypothermia.stagedProps.severityStages[5].label</path>
+		<trans>致命的</trans>
+	</rep>
+
+
+</LanguageData>

@@ -15,27 +15,23 @@
 
 <ShortCircuitRain>{0} は 雨で短絡し、 発火しました。</ShortCircuitRain>
 <AreaRevealed>新しいゾーンが 明らかになりました。</AreaRevealed>
+ <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
 
 <RoofCollapsed>屋根の 支えが 遠すぎたため、 自重で 崩壊しました。</RoofCollapsed>
 <TheseThingsCrushed>崩落の 被害：</TheseThingsCrushed>
 <NothingCrushed>被害は ありませんでした。</NothingCrushed>
 
-<MentalBreakRampage>{0}は 精神崩壊し、 暴れ出しました。</MentalBreakRampage>
-<MentalBreakDaze>{0}は 絶望し、 村から出ていきます。</MentalBreakDaze>
-<MentalBreakLeave>{0}は 心が折れ、 うわのそらです。</MentalBreakLeave>
-
-<MentalBreakRecoveryRampage>{0}は、暴れることを止めました。</MentalBreakRecoveryRampage>
-<MentalBreakRecoveryDaze>{0}は、絶望の淵から帰ってきました。</MentalBreakRecoveryDaze>
-<MentalBreakRecoveryLeave>{0}は、もう一度やり直す決心を固めました。</MentalBreakRecoveryLeave>
-
 <RecruitSuccess>{0} は {1} を 村に 迎えました。 （成功率 {2} ）</RecruitSuccess>
 <RecruitFail>{0} は {1} の 説得に 失敗しました。 （成功率 {2} ）</RecruitFail>
 
-  <Birthday>今日は {1} {0} の {2} 才の誕生日.</Birthday>
-  <BirthdayWithInjuries>今日は {1} {0} の {2} 才の誕生日\n\n ですが不幸にも 年齢からくる持病( {3} ) を悪くさせてしまいました</BirthdayWithInjuries>
+<BirthdayChronological>今日は {1} {0} の {2} 才の暦の上での誕生日.\n\n\n冷凍睡眠中は歳をとらないので、暦の上での誕生日とは区別します</BirthdayChronological>
+<BirthdayBiologicalAgeInjuries>今日は {1} {0} の {2} 才の生物学的な誕生日\n\n ですが不幸にも 年齢からくる持病( {3} ) を悪くさせてしまいました</BirthdayBiologicalAgeInjuries>
 
-  <NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです</NewDisease>
-  <NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです</NewPartDisease>
+<NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです</NewDisease>
+<NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです</NewPartDisease>
 
+<AncientShrineWarning>As {0} draws near the ancient structure, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+
+  <StruckMineable>We have struck {0}!</StruckMineable>
 
 </LanguageData>

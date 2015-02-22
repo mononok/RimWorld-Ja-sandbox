@@ -18,8 +18,9 @@
 <!-- diet type -->
 <NeverEats>餌を取らない</NeverEats>
 <Omnivorous>雑食性</Omnivorous>
-<Herbivorous>雑食性</Herbivorous>
+<Herbivorous>草食性</Herbivorous>
 <Carnivorous>肉食性</Carnivorous>
+  <Dendrovorous>樹食性</Dendrovorous>
 
 <!-- history upload pref -->
 <Unspecified>未定</Unspecified>
@@ -33,18 +34,38 @@
   <PriceTypeExpensive>高価</PriceTypeExpensive>
   <PriceTypeExorbitant>法外</PriceTypeExorbitant>
 
-  <!-- stat category -->
-  <StatCategory_General>General</StatCategory_General>
-  <StatCategory_GeneralNonPawn>General</StatCategory_GeneralNonPawn>
-  <StatCategory_Armor>Armor</StatCategory_Armor>
-  <StatCategory_PawnPrimary>Primary</StatCategory_PawnPrimary>
-  <StatCategory_PawnWork>Work</StatCategory_PawnWork>
-  <StatCategory_PawnCombat>Combat</StatCategory_PawnCombat>
-  <StatCategory_PawnSocial>Social</StatCategory_PawnSocial>
-  <StatCategory_PawnMisc>Misc</StatCategory_PawnMisc>
-  <StatCategory_Building>Building</StatCategory_Building>
-  
-  <EquippedStatOffsets>Offsets when equipped</EquippedStatOffsets>
-  <StuffOfEquipmentStatModifiers>Modifiers when equipment made of this</StuffOfEquipmentStatModifiers>
-  
+  <!-- Quality category -->
+  <QualityCategory_Awful>awful</QualityCategory_Awful>
+  <QualityCategory_Shoddy>shoddy</QualityCategory_Shoddy>
+  <QualityCategory_Poor>poor</QualityCategory_Poor>
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Good>good</QualityCategory_Good>
+  <QualityCategory_Superior>superior</QualityCategory_Superior>
+  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
+
+  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>shod</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+
+
+  <!-- Hunger -->
+  <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>飢餓</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
+  <HungerLevel_Fed>食べた</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
+  <HungerLevel_Tired>疲れた</HungerLevel_Tired>
+  <HungerLevel_Rested>休んだ</HungerLevel_Rested>
+
 </LanguageData>

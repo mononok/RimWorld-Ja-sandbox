@@ -4,11 +4,20 @@
     <MaxHealth.label>体力</MaxHealth.label>
     <MaxHealth.description>体力を表します</MaxHealth.description>
 
+    <MarketValue.label>金額</MarketValue.label>
+    <MarketValue.description>市場価格を表します。 実際の値段は 売買するお互いの関係性や 交渉スキルでさらに変動します</MarketValue.description>
+
+	<SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
+	<SellPriceFactor.description>売り値にかけられる倍率を表します</SellPriceFactor.description>
+
     <Flammability.label>燃えやすさ</Flammability.label>
     <Flammability.description>どのくらい 火がつきやすく どのくらい激しく燃えるかを表します</Flammability.description>
 
-    <MarketValue.label>金額</MarketValue.label>
-    <MarketValue.description>市場価格を表します。 実際の値段は 売買するお互いの関係性や 交渉スキルでさらに変動します</MarketValue.description>
+	<WorkToMake.label>製作費</WorkToMake.label>
+	<WorkToMake.description>作成するのに必要な、物資やツールの総量を表します</WorkToMake.description>
+
+	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
+	<DeteriorationRate.description>屋外に放置されて雨風が当たっているときの、劣化しやすさを表しています</DeteriorationRate.description>
 
     <Beauty.label>美しさ</Beauty.label>
     <Beauty.description>どのくらい それを見た周りの心情を 豊かにするかを表します</Beauty.description>

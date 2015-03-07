@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Forbidding.label>無視 </Forbidding.label>
+	<rep>
+		<path>Forbidding.helpTexts[0]</path>
+		<trans>入植者は、FORBIDDEN とマークされたオブジェクトに関わりません。\n\n最初に軟着陸した周辺にある食料や資源を選び、"F"キーを押して、FORBIDDENを解除します </trans>
+	</rep>
+
+	<Stockpiles.label>備蓄ゾーン</Stockpiles.label>
+	<rep>
+		<path>Stockpiles.helpTexts[0]</path>
+		<trans>入植者には、どこかにアイテムを保管する場所が必要です。指示した 備蓄ゾーン にアイテムを保管します\n\n備蓄ゾーンは、アーキテクトメニューのゾーンを選んだ、左下にあります</trans>
+	</rep>
+
+	<GrowingFood.label>農業ゾーン</GrowingFood.label>
+	<rep>
+		<path>GrowingFood.helpTexts[0]</path>
+		<trans>作物を作るには、アーキテクトメニューから、農業ゾーンを選び、豊かな土地を農地として選択します </trans>
+	</rep>
+
+	<!-- Timed concepts -->
+
+	<EquippingWeapons.label>武装する</EquippingWeapons.label>
+	<rep>
+		<path>EquippingWeapons.helpTexts[0]</path>
+		<trans>入植者に武装させるには、入植者を選択した後に武器を右クリックします。\n\n武器はスタート地点のそばに落ちています </trans>
+	</rep>
+
+	<CameraZoom.label>ズーム</CameraZoom.label>
+	<rep>
+		<path>CameraZoom.helpTexts[0]</path>
+		<trans>カメラをズームイン・アウトさせるには、MOUSEWHEELか、"T" "G"キーを押します </trans>
+	</rep>
+
+	<WorkOverview.label>全体を見渡す</WorkOverview.label>
+	<rep>
+		<path>WorkOverview.helpTexts[0]</path>
+		<trans>入植者概要メニューから、入植者の作業状態を確認できます。\n\n彼らは、彼らが見つけた作業の中で、優先順位の高いものから順に行います。入植者は設定されていない作業はしません\n\n誰一人として割り当ててなければ、その作業から得る物はありません </trans>
+	</rep>
+
+	<TimeControls.label>時間管理</TimeControls.label>
+	<rep>
+		<path>TimeControls.helpTexts[0]</path>
+		<trans>時間管理は画面右下のアイコンをクリックします </trans>
+	</rep>
+
+	<InfoCard.label>情報画面</InfoCard.label>
+	<rep>
+		<path>InfoCard.helpTexts[0]</path>
+		<trans>情報画面は、アイテム、人、構造物の統計情報を表示します。\n\n人やアイテムを選択した後、左下の(i)ボタンを押して表示させます</trans>
+	</rep>
+
+	<SpacePause.label>一時停止</SpacePause.label>
+	<rep>
+		<path>SpacePause.helpTexts[0]</path>
+		<trans>スペースキーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事で慌てる前に "スペースキー" を押すことを忘れないでください</trans>
+	</rep>
+
+	<StorageTab.label>保管の設定</StorageTab.label>
+	<rep>
+		<path>StorageTab.helpTexts[0]</path>
+		<trans>備蓄ゾーンや保管庫は、格納する物を設定できます。それらを選択した後に、保管タブを押すと設定画面が開きます</trans>
+	</rep>
+
+	<MedicalOperations.label>移植</MedicalOperations.label>
+	<rep>
+		<path>MedicalOperations.helpTexts[0]</path>
+		<trans>臓器移植や、義体化を行うには、入植者の健康タブを開いて、[Operations]から[新しい加工]ボタンを押します</trans>
+	</rep>
+
+	<HomeRegion.label>村のゾーン</HomeRegion.label>
+	<rep>
+		<path>HomeRegion.helpTexts[0]</path>
+		<trans>村のゾーンとは、入植者が清掃や消火活動を行う範囲の事です\n\nアーキテクトメニューのゾーンから、村のゾーンを指定します</trans>
+	</rep>
+
+	<RightClickClearLetter.label>メールの既読</RightClickClearLetter.label>
+	<rep>
+		<path>RightClickClearLetter.helpTexts[0]</path>
+		<trans>あなたに届いた、ニュースレターを右クリックすると素早く消すことができます</trans>
+	</rep>
+	<!-- Opportunity needer concepts -->
+
+	<BuildOrbitalTradeBeacon.label>貿易ビーコン</BuildOrbitalTradeBeacon.label>
+	<rep>
+		<path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
+		<trans>軌道上の貿易商人と取引するには、ORBITAL TRADE BEACON の建造が必要不可欠です </trans>
+	</rep>
+
+	<SetGrowingZonePlant.label>農業ゾーン</SetGrowingZonePlant.label>
+	<rep>
+		<path>SetGrowingZonePlant.helpTexts[0]</path>
+		<trans>農業ゾーンでは、林業もできます。農業ゾーンの栽培タブから、樹木を選択してください </trans>
+	</rep>
+
+	<PrisonerTab.label>囚人</PrisonerTab.label>
+	<rep>
+		<path>PrisonerTab.helpTexts[0]</path>
+		<trans>囚人の囚人タブを開くと、彼を、どのように扱うかを決める事ができます。しかし看守の役割を持った入植者が必要となります </trans>
+	</rep>
+
+	<StoragePriority.label>優先順位</StoragePriority.label>
+	<rep>
+		<path>StoragePriority.helpTexts[0]</path>
+		<trans>備蓄ゾーン毎に優先度を指定できます。入植者はより優先度の高い備蓄ゾーンに蓄えます</trans>
+	</rep>
+
+</LanguageData>

@@ -24,6 +24,10 @@
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
 
     <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
+
+	<Vomit.reportString>嘔吐中</Vomit.reportString>
+
+	<TogglePower.reportString>SW切り替え中</TogglePower.reportString>
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>
 
@@ -32,6 +36,8 @@
     <ExtinguishSelf.reportString>自分自身消火中</ExtinguishSelf.reportString>
 
     <!--============ Need satisfaction ============-->
+	<Ingest.reportString>TargetA を摂っている</Ingest.reportString>
+
     <LayDown.reportString>睡眠中</LayDown.reportString>
 
     <!--============= Item hauling ===============-->
@@ -59,6 +65,8 @@
 
     <FeedPatient.reportString>TargetA から TargetB に給仕中</FeedPatient.reportString>
 
+	<TreatPatient.reportString>TargetA を治療中</TreatPatient.reportString>
+
     <PlaceNoCostFrame.reportString>TargetA を建設中</PlaceNoCostFrame.reportString>
 
     <DoBill.reportString>Doing bill at TargetA</DoBill.reportString>
@@ -75,7 +83,7 @@
 
     <FinishFrame.reportString>TargetA を仕上げ中</FinishFrame.reportString>
 
-    <Sow.reportString>TargetA の種子植え中</Sow.reportString>
+    <Sow.reportString>TargetA の種まき中</Sow.reportString>
 
     <Harvest.reportString>TargetA を収穫中</Harvest.reportString>
 

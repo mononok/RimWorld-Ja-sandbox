@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>Inebriated.stages[0].label</path>
+		<trans>ざわざわする</trans>
+	</rep>
+	<rep>
+		<path>Inebriated.stages[0].description</path>
+		<trans>効果が現れない</trans>
+	</rep>
+
+	<rep>
+		<path>Inebriated.stages[1].label</path>
+		<trans>酔った(ほんわか)</trans>
+	</rep>
+	<rep>
+		<path>Inebriated.stages[1].description</path>
+		<trans>飲んだあとで少しはリラックスした気分になる。良い</trans>
+	</rep>
+
+	<rep>
+		<path>Inebriated.stages[2].label</path>
+		<trans>酔った(千鳥足)</trans>
+	</rep>
+	<rep>
+		<path>Inebriated.stages[2].description</path>
+		<trans>少しだけフラフラするが、とても楽しい</trans>
+	</rep>
+
+	<rep>
+		<path>Inebriated.stages[3].label</path>
+		<trans>酔った(酩酊)</trans>
+	</rep>
+	<rep>
+		<path>Inebriated.stages[3].description</path>
+		<trans>俺には怖い物なんかないぞ！</trans>
+	</rep>
+
+	<rep>
+		<path>Inebriated.stages[4].label</path>
+		<trans>酔った(泥酔)</trans>
+	</rep>
+	<rep>
+		<path>Inebriated.stages[4].description</path>
+		<trans>うおぉー</trans>
+	</rep>
+
+
+	<rep>
+		<path>Hungover.stages[0].label</path>
+		<trans>二日酔い(軽く)</trans>
+	</rep>
+	<rep>
+		<path>Hungover.stages[0].description</path>
+		<trans>頭痛はほとんど無くなった</trans>
+	</rep>
+
+	<rep>
+		<path>Hungover.stages[1].label</path>
+		<trans>二日酔い(強く)</trans>
+	</rep>
+	<rep>
+		<path>Hungover.stages[1].description</path>
+		<trans>酒で頭がひどくやられてる</trans>
+	</rep>
+
+	<rep>
+		<path>Hungover.stages[2].label</path>
+		<trans>二日酔い(酷い)</trans>
+	</rep>
+	<rep>
+		<path>Hungover.stages[2].description</path>
+		<trans>それはまるでガチョウが集団で頭をつついているようだ</trans>
+	</rep>
+
+
+</LanguageData>

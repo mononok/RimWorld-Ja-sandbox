@@ -2,19 +2,13 @@
 <LanguageData>
 
 	<!--============================ Simple mineables ===============================-->
-	<Sandstone.description>砂粒が圧縮されてできた堆積岩</Sandstone.description>
-
-	<Limestone.description>古代の貝殻が圧縮されてできた堆積岩</Limestone.description>
-
-	<Granite.description>非常に硬い火成岩</Granite.description>
-
-	<Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
-
-	<Marble.description>弱い変成岩</Marble.description>
-
+    <CollapsedRocks.label>崩落した岩</CollapsedRocks.label>
     <CollapsedRocks.description>屋根を支えきれずに崩落した岩</CollapsedRocks.description>
 
 	<!--============================ Resource rocks ===============================-->
+	<MineableSteel.label>鉄材</MineableSteel.label>
+	<MineableSteel.description>遺跡のかけら、鉄を豊富に含んでいる</MineableSteel.description>
+
 	<MineableSilver.label>シルバー鉱床</MineableSilver.label>
 	<MineableSilver.description>ここでシルバーを採掘できます</MineableSilver.description>
 

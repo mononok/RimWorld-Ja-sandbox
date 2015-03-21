@@ -35,9 +35,17 @@
 	<Hyperweave.description>ナノ繊維を編み込んだハイテク衣服、非常に強く、引き裂く事はできません</Hyperweave.description>
 
 	<!--=============== Raw foods ====================-->
+	<RawHops.label>ホップ</RawHops.label>
+	<RawHops.description>生のホップの実です、食べても栄養も美味しくもないですが、ビールを作るのにかかせません</RawHops.description>
 
 	<RawPotatoes.label>ジャガイモ</RawPotatoes.label>
 	<RawPotatoes.description>生のジャガイモです</RawPotatoes.description>
+
+	<RawCorn.label>トウモロコシ</RawCorn.label>
+	<RawCorn.description>生のトウモロコシです、そのままでも美味しい</RawCorn.description>
+
+	<RawRice.label>米</RawRice.label>
+	<RawRice.description>生の米です</RawRice.description>
 
 	<RawBerries.label>ベリー</RawBerries.label>
 	<RawBerries.description>生のままでも、とてもおいしいよ</RawBerries.description>
@@ -51,5 +59,11 @@
 
 	<Medicine.label>医薬品</Medicine.label>
 	<Medicine.description>医療スタッフが手当をするのに使います</Medicine.description>
+
+	<GlitterworldMedicine.label>ナノマシーン</GlitterworldMedicine.label>
+	<GlitterworldMedicine.description>ナノテクを駆使した未来の薬品</GlitterworldMedicine.description>
+
+	<ArtilleryShell.label>溜弾</ArtilleryShell.label>
+	<ArtilleryShell.description>溜弾砲の弾丸</ArtilleryShell.description>
 
 </LanguageData>

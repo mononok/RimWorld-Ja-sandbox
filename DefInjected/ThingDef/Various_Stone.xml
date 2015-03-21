@@ -7,25 +7,35 @@
 	<!-- =========== Misc chunks =========== -->
 
 	<!-- =========== Stone solids, chunks, and blocks =========== -->
-
 	<Sandstone.label>砂岩</Sandstone.label>
+	<Sandstone.description>砂粒が圧縮されてできた堆積岩</Sandstone.description>
 	<ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
-	<BlocksSandstone.label>砂岩でできたブロック</BlocksSandstone.label>
+	<BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
+	<BlocksSandstone.description>砂岩でできたブロック、砂岩は比較的にやわらかで割れやすい</BlocksSandstone.description>
+
 
 	<Granite.label>花崗岩</Granite.label>
+	<Granite.description>非常に硬い火成岩</Granite.description>
 	<ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
-	<BlocksGranite.label>花崗岩でできたブロック</BlocksGranite.label>
+	<BlocksGranite.label>花崗岩のブロック</BlocksGranite.label>
+	<BlocksGranite.description>花崗岩でできたブロック、花崗岩はとても硬い</BlocksGranite.description>
 
 	<Limestone.label>石灰岩</Limestone.label>
+	<Limestone.description>古代の貝殻が圧縮されてできた堆積岩</Limestone.description>
 	<ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
-	<BlocksLimestone.label>石灰岩でできたブロック</BlocksLimestone.label>
+	<BlocksLimestone.label>石灰岩のブロック</BlocksLimestone.label>
+	<BlocksLimestone.description>石灰岩でできたブロック</BlocksLimestone.description>
 
 	<Slate.label>粘板岩</Slate.label>
+	<Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
 	<ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
-	<BlocksSlate.label>粘板岩でできたブロック</BlocksSlate.label>
+	<BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
+	<BlocksSlate.description>粘板岩でできたブロック</BlocksSlate.description>
 
-	<Marble.label>大理石の塊</Marble.label>
+	<Marble.label>大理石</Marble.label>
+	<Marble.description>弱い変成岩</Marble.description>
 	<ChunkMarble.label>大理石の塊</ChunkMarble.label>
-	<BlocksMarble.label>大理石でできたブロック</BlocksMarble.label>
+	<BlocksMarble.label>大理石のブロック</BlocksMarble.label>
+	<BlocksMarble.description>大理石でできたブロック、大理石はやわく綺麗な岩で彫刻の題材として知られている</BlocksMarble.description>
 
 </LanguageData>

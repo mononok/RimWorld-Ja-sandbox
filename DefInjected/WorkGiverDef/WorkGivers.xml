@@ -26,19 +26,27 @@
 
   <!-- ============= Cleaning ============= -->
 
-	<CleanClearSnow.verb>CleanClearSnow</CleanClearSnow.verb>
-	<CleanClearSnow.gerund>CleanClearSnow</CleanClearSnow.gerund>
+	<CleanClearSnow.verb>かく</CleanClearSnow.verb>
+	<CleanClearSnow.gerund>除雪</CleanClearSnow.gerund>
 
 	<CleanFilth.verb>掃く</CleanFilth.verb>
     <CleanFilth.gerund>掃除</CleanFilth.gerund>
 
+  <!-- =========== Control ============-->
+
+	<TogglePower.verb>切り替える</TogglePower.verb>
+	<TogglePower.gerund>操作</TogglePower.gerund>
+
   <!-- ============= Hauling ============= -->
 
-	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
-    <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
+	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
+    <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>
 
 	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
     <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
+
+	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
+    <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
 
   <!-- ============= Growing ============= -->
 
@@ -58,17 +66,23 @@
 
   <!-- ============= Doctor ============= -->
 
+	<DoctorTreatEmergency.verb>処置する</DoctorTreatEmergency.verb>
+	<DoctorTreatEmergency.gerund>処置</DoctorTreatEmergency.gerund>
+
+	<DoctorTreat.verb>処置する</DoctorTreat.verb>
+	<DoctorTreat.gerund>処置</DoctorTreat.gerund>
+
     <DoctorFeed.verb>給仕</DoctorFeed.verb>
     <DoctorFeed.gerund>給仕</DoctorFeed.gerund>
-
-    <TakeToBedToOperate.verb>介護</TakeToBedToOperate.verb>
-    <TakeToBedToOperate.gerund>介護</TakeToBedToOperate.gerund>
 
 	<DoBillsMedicalHumanOperation.verb>手術</DoBillsMedicalHumanOperation.verb>
     <DoBillsMedicalHumanOperation.gerund>手術</DoBillsMedicalHumanOperation.gerund>
 
 	<DoBillsMedicalAnimalOperation.verb>処置</DoBillsMedicalAnimalOperation.verb>
 	<DoBillsMedicalAnimalOperation.gerund>処置</DoBillsMedicalAnimalOperation.gerund>
+
+    <TakeToBedToOperate.verb>介護</TakeToBedToOperate.verb>
+    <TakeToBedToOperate.gerund>介護</TakeToBedToOperate.gerund>
 
   <!-- ============= Construction ============= -->
 
@@ -104,10 +118,6 @@
 
 	<DoBillsSculpt.verb>彫刻</DoBillsSculpt.verb>
 	<DoBillsSculpt.gerund>彫刻</DoBillsSculpt.gerund>
-
-	<!-- ============= Crafting ============= -->
-	<DoBillsCremate.verb>火葬</DoBillsCremate.verb>
-    <DoBillsCremate.gerund>火葬</DoBillsCremate.gerund>
 
   <!-- ============= Crafting - weapons ============= -->
 

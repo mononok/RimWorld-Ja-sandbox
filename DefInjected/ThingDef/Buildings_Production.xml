@@ -1,19 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
     <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>有機物原料から栄養素を取り出し、糊状合成栄養食品を作ります</NutrientPasteDispenser.description>
+    <NutrientPasteDispenser.description>有機物原料から栄養素を取り出し、糊状合成栄養食品を作ります。別途 付属タンクが必要</NutrientPasteDispenser.description>
 
-    <Hopper.label>付属供給器</Hopper.label>
-    <Hopper.description>ペーストディスペンサと共に使い、自動で有機原料を供給します</Hopper.description>
+    <Hopper.label>付属タンク</Hopper.label>
+    <Hopper.description>ペーストディスペンサに接続して、食物の吸入及び合成食品を供給します</Hopper.description>
 
 	<!-- ========================= Work tables ==========================-->
 
-	<TableButcher.label>食肉加工器</TableButcher.label>
+	<TableButcher.label>食肉加工台</TableButcher.label>
 	<TableButcher.description>大きな肉の塊を小分けに加工します</TableButcher.description>
 
 	<TableTailor.label>裁縫台</TableTailor.label>
 	<TableTailor.description>この作業台を使って、衣類を直したり、作ります </TableTailor.description>
+
+ 　　　 <Brewery.label>醸造台</Brewery.label>
+ 　　　 <Brewery.description>ビールの制作に必要なすべての機器がそろった台です</Brewery.description>
 
 	<TableSmithing.label>工作台</TableSmithing.label>
 	<TableSmithing.description>この工作台を使って、武器や工具を作ります </TableSmithing.description>

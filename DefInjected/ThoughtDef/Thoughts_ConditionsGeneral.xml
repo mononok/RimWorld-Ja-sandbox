@@ -17,6 +17,23 @@
 		<path>LowExpectations.stages[1].description</path>
 		<trans>この土地は酷く貧しく、生き残るには心を鬼にするしかないだろう</trans>
 	</rep>
+	
+	<rep>
+     		<path>HighExpectations.stages[0].label</path>
+		<trans>過剰な期待</trans>
+	</rep>
+	<rep>
+		<path>HighExpectations.stages[0].description</path>
+		<trans>ここは快適ば場所だが　もっとここで私は大事に扱われるべきじゃないか</trans>
+	</rep>
+	<rep>
+		<path>HighExpectations.stages[1].label</path>
+		<trans>自堕落な生活</trans>
+	</rep>
+	<rep>
+		<path>HighExpectations.stages[1].description</path>
+		<trans>ここはとても豊かな場所だ なにも拒む理由なんてないよ</trans>
+	</rep>
 
 	<rep>
 		<path>Hungry.stages[0].label</path>

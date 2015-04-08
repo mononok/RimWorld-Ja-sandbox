@@ -1,41 +1,95 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- ============================ Animals ========================== -->
-	<Muffalo.label>Muffalo</Muffalo.label>
+	<Muffalo.label>ムーファロー</Muffalo.label>
 	<Muffalo.description>この大型の草食動物は、水牛を祖先にもち、新しい環境に適合しました。彼らの邪魔をしない限り平和的です</Muffalo.description>
+  <Muffalo_Leather.label>ムーファローの皮</Muffalo_Leather.label>
+  <Muffalo_Leather.stuffProps.stuffAdjective>ムーファロー革製の</Muffalo_Leather.stuffProps.stuffAdjective>
+  <Muffalo_Meat.label>ムーファローの肉</Muffalo_Meat.label>
 
 	<Deer.label>シカ</Deer.label>
 	<Deer.description>中型の草食動物、一般的に彼らの邪魔をしない限り平和的です</Deer.description>
+  <Deer_Leather.label>シカの皮</Deer_Leather.label>
+  <Deer_Leather.stuffProps.stuffAdjective>シカ革製の</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Meat.label>シカ肉</Deer_Meat.label>
 
 	<Squirrel.label>リス</Squirrel.label>
 	<Squirrel.description>人の行くところは、どこにでも姿を表します。 多くの丈夫で用途の広い齧歯類のうちのひとつです</Squirrel.description>
+  <Squirrel_Leather.label>リスの皮</Squirrel_Leather.label>
+  <Squirrel_Leather.stuffProps.stuffAdjective>リス革製の</Squirrel_Leather.stuffProps.stuffAdjective>
+  <Squirrel_Meat.label>リスの肉</Squirrel_Meat.label>
 
-	<WildBoar.label>イノシシ</WildBoar.label>
+  <Elk.label>ヘラジカ</Elk.label>
+  <Elk.description>大型のシカの仲間。寒冷地にとても適応している</Elk.description>
+  <Elk_Leather.label>ヘラジカの皮</Elk_Leather.label>
+  <Elk_Leather.stuffProps.stuffAdjective>ヘラジカ革製の</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Meat.label>ヘラジカの肉</Elk_Meat.label>
+
+  <Alphabeaver.label>Alphaビーバー</Alphabeaver.label>
+  <Alphabeaver.description>この大型ビーバーは機械並の効率で木材収集する為に遺伝改良されました この生物は木全体を食べるため木をとらないと弱っていきます</Alphabeaver.description>
+  <Alphabeaver_Leather.label>Alphaビーバーの皮</Alphabeaver_Leather.label>
+  <Alphabeaver_Leather.stuffProps.stuffAdjective>Alphaビーバー革製の</Alphabeaver_Leather.stuffProps.stuffAdjective>
+  <Alphabeaver_Meat.label>Alphaビーバーの肉</Alphabeaver_Meat.label>
+
+  <WildBoar.label>イノシシ</WildBoar.label>
 	<WildBoar.description>いくつかの文化によって不潔であると考えられていました、この家族的な毛むくじゃらなブタの祖先は、 その肉の独特の風味が珍重されます</WildBoar.description>
-
+  <WildBoar_Leather.label>イノシシの皮</WildBoar_Leather.label>
+  <WildBoar_Leather.stuffProps.stuffAdjective>イノシシ革製の</WildBoar_Leather.stuffProps.stuffAdjective>
+  <WildBoar_Meat.label>イノシシの肉</WildBoar_Meat.label>
+  
 	<Rhinoceros.label>サイ</Rhinoceros.label>
 	<Rhinoceros.description>この大きな陸上動物は、典型的な平和主義者ですが、その角で侵入者を追い払うことに躊躇はしません</Rhinoceros.description>
+  <Rhinoceros_Leather.label>サイの皮</Rhinoceros_Leather.label>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>サイ革製の</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <Rhinoceros_Meat.label>サイの肉</Rhinoceros_Meat.label>
 
 	<Dromedary.label>ヒトコブラクダ</Dromedary.label>
 	<Dromedary.description>乾燥した環境に適応し、 馬の近縁にあたります。 この生き物は水無しでも一週間は生きられます</Dromedary.description>
+  <Dromedary_Leather.label>ラクダの皮</Dromedary_Leather.label>
+  <Dromedary_Leather.stuffProps.stuffAdjective>ラクダ革製の</Dromedary_Leather.stuffProps.stuffAdjective>
+  <Dromedary_Meat.label>ラクダの肉</Dromedary_Meat.label>
 
-	<Boomrat.label>Boomrat</Boomrat.label>
+	<Boomrat.label>爆発ネズミ</Boomrat.label>
 	<Boomrat.description>慎重な遺伝子操作による武器化であったとしても、又は一風変わった防御機構だとしても、この齧歯類のような生き物は、死ぬ間際に強烈は爆発を起こします</Boomrat.description>
-
+  <Boomrat_Leather.label>爆発ネズミの皮</Boomrat_Leather.label>
+  <Boomrat_Leather.stuffProps.stuffAdjective>爆発ネズミ革製の</Boomrat_Leather.stuffProps.stuffAdjective>
+  <Boomrat_Meat.label>爆発ネズミの肉</Boomrat_Meat.label>
+  
 	<Iguana.label>イグアナ</Iguana.label>
 	<Iguana.description>この大きなトカゲは普段植物を食べています。しかし一旦起こらせると、強い尾っぽと、鋭利な爪は、非常に危険なものとなります</Iguana.description>
+  <Iguana_Leather.label>イグアナの皮</Iguana_Leather.label>
+  <Iguana_Leather.stuffProps.stuffAdjective>イグアナ革製の</Iguana_Leather.stuffProps.stuffAdjective>
+  <Iguana_Meat.label>イグアナの肉</Iguana_Meat.label>
 
-	<Megascarab.label>Megascrab</Megascarab.label>
+	<Megascarab.label>巨大カニ</Megascarab.label>
 	<Megascarab.description>非常に危険です</Megascarab.description>
+  <Megascarab_Meat.label>巨大カニの肉</Megascarab_Meat.label>
 
-	<Tortoise.label>カメ</Tortoise.label>
+  <Hare.label>野ウサギ</Hare.label>
+  <Hare.description>この小さな単独行動をする草食動物は危機を感じると速やかに飛び跳ねて逃げ去ります</Hare.description>
+  <Hare_Leather.label>ウサギの皮</Hare_Leather.label>
+  <Hare_Leather.stuffProps.stuffAdjective>ウサギ革製の</Hare_Leather.stuffProps.stuffAdjective>
+  <Hare_Meat.label>ウサギ肉</Hare_Meat.label>
+
+
+  <Tortoise.label>カメ</Tortoise.label>
 	<Tortoise.description>この硬い甲羅で覆われた爬虫類は、歩く速度がとても遅い反面、びっくりするぐらい 素早く噛むことで知られています</Tortoise.description>
+  <Tortoise_Leather.label>カメの皮</Tortoise_Leather.label>
+  <Tortoise_Leather.stuffProps.stuffAdjective>カメ革製の</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Meat.label>カメの肉</Tortoise_Meat.label>
 
 	<Cobra.label>コブラ</Cobra.label>
 	<Cobra.description>大蛇、怒らせると非常に攻撃的になるので、近寄らない方が良いです</Cobra.description>
+  <Cobra_Leather.label>ヘビの皮</Cobra_Leather.label>
+  <Cobra_Leather.stuffProps.stuffAdjective>ヘビ革製の</Cobra_Leather.stuffProps.stuffAdjective>
+  <Cobra_Meat.label>ヘビの肉</Cobra_Meat.label>
 
 	<Monkey.label>サル</Monkey.label>
 	<Monkey.description>この猿は、縮れたしっぽで枝をつかむことができるので、両手を他のことに使えます</Monkey.description>
+  <Monkey_Leather.label>サルの皮</Monkey_Leather.label>
+  <Monkey_Leather.stuffProps.stuffAdjective>サル革製の</Monkey_Leather.stuffProps.stuffAdjective>
+  <Monkey_Meat.label>サルの肉</Monkey_Meat.label>
+
 
 </LanguageData>

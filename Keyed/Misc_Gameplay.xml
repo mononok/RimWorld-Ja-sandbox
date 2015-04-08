@@ -45,11 +45,11 @@
   <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
 
   <!-- Snow -->
-  <SnowNone>雪がない</SnowNone>
-  <SnowDusting>粉雪</SnowDusting>
-  <SnowThin>さらさらな雪</SnowThin>
-  <SnowMedium>雪</SnowMedium>
-  <SnowThick>べた雪</SnowThick>
+  <SnowNone>雪なし</SnowNone>
+  <SnowDusting>雪 (まばら)</SnowDusting>
+  <SnowThin>雪 (浅い)</SnowThin>
+  <SnowMedium>雪 (深め)</SnowMedium>
+  <SnowThick>雪 (とても深い)</SnowThick>
 
 
   <!-- Turrets -->
@@ -161,10 +161,11 @@
 
 
   <!-- Rotting -->
-  <CurrentlyFrozen>冷凍</CurrentlyFrozen>
-  <CurrentlyRefrigerated>冷蔵 (保存期間 {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>放置 (保存期間 {0})</NotRefrigerated>
+  <CurrentlyFrozen>凍結中 (腐敗しない)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>冷却中 (腐敗まで {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>常温 (腐敗まで {0})</NotRefrigerated>
   <OverADecade>保存期間を過ぎた</OverADecade>
+
 
 	<!-- Meal -->
 	<Ingredients>原料</Ingredients>
@@ -218,19 +219,19 @@
 	<!-- Building placement restricters -->
 	<MustPlaceUnroofed>屋根の下に 配置 できません。</MustPlaceUnroofed>
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
-	<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
+	<MustPlaceNextToHopperAccepter>付属タンクを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
 	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接 配置して ください。</MustPlaceOnSteamGeyser>
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
 
 	<!-- Wind Turbine -->
-	<WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
-	<WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+	<WindTurbine_WindPathIsBlockedBy>ブロックされている</WindTurbine_WindPathIsBlockedBy>
+	<WindTurbine_WindPathIsBlockedByRoof>屋根によってブロックされている</WindTurbine_WindPathIsBlockedByRoof>
 
 	<!-- Cryptosleep casket -->
-	<CasketContains>Contains</CasketContains>
-	<CasketUnknownContents>Unknown</CasketUnknownContents>
-	<CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
-
+	<CasketContains>収容</CasketContains>
+	<CasketUnknownContents>不明</CasketUnknownContents>
+	<CasketWarning>注意！ \n\nNAME は最後の入植者です もし HIM を冬眠装置にいれるとプレイし続け付けられなくなります よろしいですか？</CasketWarning>
+	
 	<!-- Ship launch report -->
 	<ShipReportCannotLaunch>発進 できません。</ShipReportCannotLaunch>
 	<ShipReportCanLaunch>発進 できます。</ShipReportCanLaunch>
@@ -238,25 +239,25 @@
 	<ShipReportNoFullPods>冷凍カプセルに 空きが あります</ShipReportNoFullPods>
 
 	<!-- Neurotrainer -->
-	<UseNeurotrainer>{0} を学ぶ為に neurotrainer を使用する</UseNeurotrainer>
-	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
+	<UseNeurotrainer>{0} を学ぶ為に ニューロトレイナー を使用する</UseNeurotrainer>
+	<NeurotrainerUsed>{0} は {1} のニューロトレイナーを使って  {2} から{3}　に上がりました.</NeurotrainerUsed>
 
 	<!-- Minification -->
-	<Installed>Installed</Installed>
-	<NotInstalled>Not installed</NotInstalled>
+	<Installed>設置済み</Installed>
+	<NotInstalled>未設置</NotInstalled>
 
 	<!-- Art -->
-	<Title>Title</Title>
-	<Untitled>Untitled</Untitled>
+	<Title>タイトル</Title>
+	<Untitled>無題</Untitled>
 
 	<!-- Unfinished thing -->
 	<UnfinishedItem>Unfinished {0}</UnfinishedItem>
 	<UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
 
 	<!-- Quality -->
-	<Quality>Quality</Quality>
-	<QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-	<QualityIs>Quality: {0}</QualityIs>
+	<Quality>品質</Quality>
+	<QualityDescription>アイテムの質はどのように作られたかで決まります</QualityDescription>
+	<QualityIs>品質: {0}</QualityIs>
 
   <!-- Mood descriptions -->
   <Mood_Broken>崩壊</Mood_Broken>

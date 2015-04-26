@@ -29,16 +29,6 @@
 	</rep>
 
 	<rep>
-		<path>HappyNude.stages[0].label</path>
-		<trans>あるがままの姿</trans>
-	</rep>
-	<rep>
-		<path>HappyNude.stages[0].description</path>
-		<trans>私は、裸体のままでいるほうが好き！、自由で誰にも束縛されない</trans>
-	</rep>
-
-
-	<rep>
 		<path>Naked.stages[0].label</path>
 		<trans>恥辱</trans>
 	</rep>
@@ -49,65 +39,36 @@
 
 
 	<rep>
-		<path>MasochistPain.stages[0].label</path>
+		<path>Pain.stages[0].label</path>
 		<trans>わずかな痛み</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[0].description</path>
-		<trans>Ow... Heh heh heh... I could get used to this!</trans>
+		<path>Pain.stages[0].description</path>
+		<trans>ん？痛いかな</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[1].label</path>
+		<path>Pain.stages[1].label</path>
 		<trans>中程度の痛み</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[1].description</path>
-		<trans>Ughhh... It hurts, but I love it! Keep it coming!</trans>
+		<path>Pain.stages[1].description</path>
+		<trans>ううう、痛みが止むのはいつだろう</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[2].label</path>
+		<path>Pain.stages[2].label</path>
 		<trans>激痛</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[2].description</path>
-		<trans>Ouch... I think something's broken... But what an exquisite feeling!</trans>
+		<path>Pain.stages[2].description</path>
+		<trans>痛みを止めてくれ、痛みを止めてくれ、痛みを止めてくれ、</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[3].label</path>
+		<path>Pain.stages[3].label</path>
 		<trans>ショック状態</trans>
 	</rep>
 	<rep>
-		<path>MasochistPain.stages[3].description</path>
-		<trans>Ahhh... Am I in heaven?</trans>
-	</rep>
-
-
-
-	<rep>
-		<path>ProsthophileHappy.stages[0].label</path>
-		<trans>強化された肉体</trans>
-	</rep>
-	<rep>
-		<path>ProsthophileHappy.stages[0].description</path>
-		<trans>私は近未来科学の落とし子、どんな事でもうまくできる</trans>
-	</rep>
-
-	<rep>
-		<path>ProsthophobeUnhappy.stages[0].label</path>
-		<trans>失われた自然な肉体</trans>
-	</rep>
-	<rep>
-		<path>ProsthophobeUnhappy.stages[0].description</path>
-		<trans>否応なしに、身体を改造されてしまった。もし私に選択させてくれたのなら…</trans>
-	</rep>
-
-	<rep>
-		<path>BrawlerUnhappy.stages[0].label</path>
-		<trans>卑怯な武器</trans>
-	</rep>
-	<rep>
-		<path>BrawlerUnhappy.stages[0].description</path>
-		<trans>格闘家に射撃をさせようなどと卑怯な手法を強要された。接近戦こそが力なのに</trans>
+		<path>Pain.stages[3].description</path>
+		<trans>どうか、私を殺して!!!</trans>
 	</rep>
 
 </LanguageData>

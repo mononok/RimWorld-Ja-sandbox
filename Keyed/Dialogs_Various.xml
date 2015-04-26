@@ -72,6 +72,7 @@
 <SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
 <RepeatCount>{0} 回作る</RepeatCount>
 <Forever>常時</Forever>
+	<Details>概略</Details>
 <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
   <CurrentlyHave>持ち合わせている</CurrentlyHave>
   <CountingProducts>計測</CountingProducts>
@@ -112,6 +113,7 @@
 <Attributes>属性</Attributes>
 <LifeSpan>寿命</LifeSpan>
 <Nutrition>栄養</Nutrition>
+  <Joy>娯楽</Joy>
 <FoodQuality>食材タイプ</FoodQuality>
 <WalkSpeedProperty>移動速度</WalkSpeedProperty>
 <MeatAmount>食材にしたとき</MeatAmount>
@@ -138,6 +140,7 @@
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
   <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
@@ -153,5 +156,13 @@
 <HistoryUploadNo>ゲームデータを アップロード しません</HistoryUploadNo>
 <HistoryUploadYesOnce>今回は アップロードします</HistoryUploadYesOnce>
 <HistoryUploadNoOnce>今回は アップロードしません。 後で たずねてください。</HistoryUploadNoOnce>
+
+  <!-- Outfit management -->
+  <Outfit>Outfit</Outfit>
+  <SelectOutfit>Select outfit...</SelectOutfit>
+  <NewOutfit>New outfit</NewOutfit>
+  <DeleteOutfit>Delete outfit...</DeleteOutfit>
+  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
+  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
 
 </LanguageData>

@@ -26,7 +26,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAME は 常に切迫感をもって移動するので 他の人はついていけません</trans>
+		<trans>NAME は 常に緊張感をもって移動するので 他の人はついていけません</trans>
 	</rep>
 
 	<!--> DrugDesire <-->
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAME は 酒の虜です、HECAP は ありったけを摂取しつくし、もっと欲しがりそうです</trans>
+		<trans>NAME は 酒の虜です、HECAP は ありったけの酒を呑みつくし、もっと不摂生をするでしょう</trans>
 	</rep>
 
 	<rep>
@@ -45,7 +45,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[1].description</path>
-		<trans>NAME は 無類の酒好きです。HECAL は ありったけを摂取しつくし、もっと欲しがりそうです</trans>
+		<trans>NAME は 無類の酒好きです、HECAP は ありったけの酒を呑みつくし、もっと不摂生をするでしょう</trans>
 	</rep>
 
 	<rep>
@@ -102,12 +102,12 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[0].description</path>
-		<trans>NAME の意志は鉄の壁のよう。HECAP keeps going through thick and thin. 他の者がもう倒れてしまっていても</trans>
+		<trans>NAME の意志は鉄の壁のよう。他の者がずっと前に倒れてしまっていても、HECAP は、どんなことがあってもやりとげる</trans>
 	</rep>
 
 	<rep>
 		<path>Nerves.degreeDatas[1].label</path>
-		<trans>しっかり者</trans>
+		<trans>信念の人</trans>
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[1].description</path>
@@ -116,7 +116,7 @@
 
 	<rep>
 		<path>Nerves.degreeDatas[2].label</path>
-		<trans>神経質</trans>
+		<trans>臆病</trans>
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[2].description</path>
@@ -129,17 +129,17 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[3].description</path>
-		<trans>NAME は常に脆く崩れやすい。 HECAP は、辛いことがあると 一番最初に精神崩壊してしまう傾向があります</trans>
+		<trans>NAME は常に脆く崩れやすい。 HECAP は、辛いことがあると 一番に精神崩壊する傾向があります</trans>
 	</rep>
 
 	<!--> Neurotic <-->
 	<rep>
 		<path>Neurotic.degreeDatas[0].label</path>
-		<trans>ノイローゼ気味</trans>
+		<trans>神経症</trans>
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAME は整理整頓するのが好きです。 HECAP はほとんどの人が 成し遂げる事でも 多くの苦労します HIS 不安な心理状態は、HIM 崩壊へと導きます</trans>
+		<trans>NAME は物事に取り組むのが好きです。 HECAP は物事を成し遂げるのに 他の人より 多くの苦労します。 HIS 不安な心理状態は、HIM 崩壊へと導きます</trans>
 	</rep>
 
  	<rep>
@@ -185,7 +185,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[3].description</path>
-		<trans>NAME はだらだらしてるのが好きです。物を作るのが嫌いです。 HECAP 歩みもゆっくりで 作業場の前で 集中している事なんて 珍しい事です</trans>
+		<trans>NAME はだらだらしてるのが好きです。物を作るのが嫌いです。 HIS 歩みもゆっくりで 作業場の前で 集中している事なんて 珍しい事です</trans>
 	</rep>
 
 	<!--> PsychicSensitivity <-->
@@ -195,7 +195,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[0].description</path>
-		<trans>NAME は超能力の持ち主です。HECAP は精神的感受性が非常に敏感です</trans>
+		<trans>NAME の心は精神波に共鳴する音叉のようです。HECAP は精神的現象に非常に敏感です</trans>
 	</rep>
 
 	<rep>
@@ -204,39 +204,39 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAME は まれにみる 精神的に感受性が高い人物です</trans>
+		<trans>NAME の心は、精神的現象に敏感です</trans>
 	</rep>
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].label</path>
-		<trans>凡人</trans>
+		<trans>精神的鈍感</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].description</path>
-		<trans>NAME の精神的感受性は人並み以下です 精神的現象が HECAP に及ぼすことはありません</trans>
+		<trans>NAME の心の精神的感受性は人並み以下です、精神的現象が HECAP に影響を及ぼすことはありません</trans>
 	</rep>
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].label</path>
-		<trans>非能力者</trans>
+		<trans>無能力者</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
-		<trans>NAME の精神波は 他人とは違うようで まったく影響を受けません 精神的現象が HECAP に及ぼすことは全くありません </trans>
+		<trans>NAME の心は 他人とは違う周波数に作用するようで 精神的現象が HECAP に影響を及ぼすことは全くありません </trans>
 	</rep>
 
 	<!--> TemperaturePreference <-->
 	<rep>
 		<path>TemperaturePreference.degreeDatas[0].label</path>
-		<trans>熱い皮膚</trans>
+		<trans>寒冷地適応</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[0].description</path>
-		<trans>NAME's の身体からはとてつもない熱を発するおかげで、寒さでゾクゾクする気温に悩まされる事はありませんが、高い気温は好きではありません</trans>
+		<trans>NAME's の身体から とてつもない熱を発するおかげで ゾクゾクするような気温に 悩まされる事はありませんが 高い気温は好きではありません</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].label</path>
-		<trans>暖かい皮膚</trans>
+		<trans>耐寒性の身体</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].description</path>
@@ -244,7 +244,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].label</path>
-		<trans>冷たい皮膚</trans>
+		<trans>耐熱性の身体</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].description</path>
@@ -252,7 +252,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].label</path>
-		<trans>氷な皮膚</trans>
+		<trans>温暖地適応</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].description</path>

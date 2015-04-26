@@ -81,7 +81,7 @@
 <NeedDumpDesc>入植者は 岩をどかせたいと 考えていますが、 どこに どけるか 悩んでいます。\n\n備蓄ゾーンを 選択して 岩の許可を 設定します。</NeedDumpDesc>
 
 <NeedGrave>死体の処分</NeedGrave>
-<NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 ゴミ捨て場ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
+<NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 廃棄ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
 
 <ColonistsIdle>入植者 {0} 人に仕事を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
@@ -104,5 +104,8 @@
   <PawnsWithLifeThreateningDisease>重傷</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われます</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重傷を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>ビリヤード台を置くには、もっとスペースが必要です</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>ビリヤード台の一つは、入植者が使うのを妨げる障害物に隣接しています。\n\nビリヤード台の周り、四方にスペースが必要です</BilliardsNeedsSpaceDesc>
 
 </LanguageData>

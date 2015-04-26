@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>MasochistPain.stages[0].label</path>
+		<trans>わずかな痛み</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[0].description</path>
+		<trans>Ow... Heh heh heh... I could get used to this!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[1].label</path>
+		<trans>中程度の痛み</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[1].description</path>
+		<trans>Ughhh... It hurts, but I love it! Keep it coming!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[2].label</path>
+		<trans>激痛</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[2].description</path>
+		<trans>Ouch... I think something's broken... But what an exquisite feeling!</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[3].label</path>
+		<trans>ショック状態</trans>
+	</rep>
+	<rep>
+		<path>MasochistPain.stages[3].description</path>
+		<trans>Ahhh... Am I in heaven?</trans>
+	</rep>
+
+
+	<rep>
+		<path>ProsthophileNoProsthetic.stages[0].label</path>
+		<trans>未強化な肉体</trans>
+	</rep>
+	<rep>
+		<path>ProsthophileNoProsthetic.stages[0].description</path>
+		<trans>生身の身体には限界がある。もっと人工的な身体になりたい</trans>
+	</rep>
+
+	<rep>
+		<path>ProsthophileHappy.stages[0].label</path>
+		<trans>強化された肉体</trans>
+	</rep>
+	<rep>
+		<path>ProsthophileHappy.stages[0].description</path>
+		<trans>私は近未来科学の落とし子、どんな事でもうまくできる</trans>
+	</rep>
+
+
+	<rep>
+		<path>ProsthophobeUnhappy.stages[0].label</path>
+		<trans>失われた自然な肉体</trans>
+	</rep>
+	<rep>
+		<path>ProsthophobeUnhappy.stages[0].description</path>
+		<trans>否応なしに、身体を改造されてしまった。もし私に選択させてくれたのなら…</trans>
+	</rep>
+
+
+	<rep>
+		<path>BrawlerUnhappy.stages[0].label</path>
+		<trans>卑怯な武器</trans>
+	</rep>
+	<rep>
+		<path>BrawlerUnhappy.stages[0].description</path>
+		<trans>格闘家に射撃をさせようなどと卑怯な手法を強要された。接近戦こそが力なのに</trans>
+	</rep>
+
+
+	<rep>
+		<path>ClothedNudist.stages[0].label</path>
+		<trans>着衣を強要された</trans>
+	</rep>
+	<rep>
+		<path>ClothedNudist.stages[0].description</path>
+		<trans>ヌーディストな私に、着衣を強要している。耐えられなくないが、圧迫されて不快です</trans>
+	</rep>
+
+
+	<rep>
+		<path>HappyNude.stages[0].label</path>
+		<trans>あるがままの姿</trans>
+	</rep>
+	<rep>
+		<path>HappyNude.stages[0].description</path>
+		<trans>私は、裸体のままでいるほうが好き！、自由で誰にも束縛されない</trans>
+	</rep>
+
+</LanguageData>

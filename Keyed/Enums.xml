@@ -6,14 +6,6 @@
 <Lit>明るい</Lit>
 <LitBrightly>陽があたる</LitBrightly>
 
-<!-- food quality -->
-<NoneQuality>None</NoneQuality>
-<PlantQuality>植物</PlantQuality>
-<RawQuality>食材</RawQuality>
-<MealAwfulQuality>まずい</MealAwfulQuality>
-<MealSimpleQuality>シンプル</MealSimpleQuality>
-<MealFineQuality>おいしい</MealFineQuality>
-<MealLavishLavish>ごちそう</MealLavishLavish>
 
 <!-- diet type -->
 <NeverEats>餌を取らない</NeverEats>
@@ -38,22 +30,22 @@
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
   <QualityCategory_Shoddy>粗悪品</QualityCategory_Shoddy>
   <QualityCategory_Poor>低品質</QualityCategory_Poor>
-  <QualityCategory_Normal>通常品</QualityCategory_Normal>
-  <QualityCategory_Good>良質</QualityCategory_Good>
-  <QualityCategory_Superior>高品質</QualityCategory_Superior>
-  <QualityCategory_Excellent>最高品</QualityCategory_Excellent>
+  <QualityCategory_Normal>標準品</QualityCategory_Normal>
+  <QualityCategory_Good>良品</QualityCategory_Good>
+  <QualityCategory_Superior>優品</QualityCategory_Superior>
+  <QualityCategory_Excellent>秀品</QualityCategory_Excellent>
   <QualityCategory_Masterwork>名品</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>伝説級</QualityCategory_Legendary>
+  <QualityCategory_Legendary>幻の一品</QualityCategory_Legendary>
 
-  <QualityCategoryShort_Awful>壊れかけ</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>粗悪品</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Poor>低品質</QualityCategoryShort_Poor>
-  <QualityCategoryShort_Normal>通常品</QualityCategoryShort_Normal>
-  <QualityCategoryShort_Good>良質</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>高品質</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>最高品</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>名品</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>伝説級</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Awful>半壊</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>粗悪</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>劣</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>並</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>良</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>優</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>秀</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>名</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>幻</QualityCategoryShort_Legendary>
 
   <!-- Hunger -->
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
@@ -66,5 +58,18 @@
   <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
   <HungerLevel_Tired>疲れた</HungerLevel_Tired>
   <HungerLevel_Rested>休んだ</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>平坦</Hilliness_Flat>
+  <Hilliness_SmallHills>小さな丘陵</Hilliness_SmallHills>
+  <Hilliness_LargeHills>大きな丘陵</Hilliness_LargeHills>
+  <Hilliness_Mountainous>山岳</Hilliness_Mountainous>
+
+  <!-- Time assigments -->
+  <TimeAssignment_Anything>全て</TimeAssignment_Anything>
+  <TimeAssignment_Work>作業</TimeAssignment_Work>
+  <TimeAssignment_Joy>娯楽</TimeAssignment_Joy>
+  <TimeAssignment_Sleep>睡眠</TimeAssignment_Sleep>
+
 
 </LanguageData>

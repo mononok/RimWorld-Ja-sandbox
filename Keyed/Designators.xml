@@ -10,6 +10,9 @@
 <DesignatorDeconstruct>解体</DesignatorDeconstruct>
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
+  <DesignatorUninstall>撤去</DesignatorUninstall>
+  <DesignatorUninstallDesc>移動することができます、販売や別の場所に展示できます</DesignatorUninstallDesc>
+
 <DesignatorHarvest>収穫</DesignatorHarvest>
 <DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
 
@@ -17,7 +20,7 @@
 <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
 
 <DesignatorHaulThings>運搬</DesignatorHaulThings>
-<DesignatorHaulThingsDesc>岩や そのほか アイテムを ゴミ捨て場ゾーンに 運びます。 食材や 死体といった 自動で運ぶ アイテムに 指定する 必要は ありません。</DesignatorHaulThingsDesc>
+<DesignatorHaulThingsDesc>岩や そのほか アイテムを 廃棄ゾーンに 運びます。 食材や 死体といった 自動で運ぶ アイテムに 指定する 必要は ありません。</DesignatorHaulThingsDesc>
 <MustHaulHaulables>(岩などといった) 自動で運ぶもの 以外にのみ 運搬を 指定できます。</MustHaulHaulables>
 
 <DesignatorHunt>狩猟</DesignatorHunt>
@@ -61,13 +64,13 @@
 
 
 <DesignatorZoneDelete>ゾーンを削除する</DesignatorZoneDelete>
-<DesignatorZoneDeleteDesc>備蓄ゾーン、 ゴミ捨て場ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
+<DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>領有を主張</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます</DesignatorClaimDesc>
 
 
-<!-- placement of blueprints -->
+  <!-- Failure messages -->
   <UnchosenStuff>Unchosen material</UnchosenStuff>
 <TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
 <OutOfBounds>範囲外 です。</OutOfBounds>

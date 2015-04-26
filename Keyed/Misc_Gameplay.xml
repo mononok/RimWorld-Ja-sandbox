@@ -21,11 +21,11 @@
   <Headshot>ヘッドショット</Headshot>
   <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
-  <DevelopedImmunityLower>免疫が 少なくなっています</DevelopedImmunityLower>
+  <DevelopedImmunityLower>免疫力が おちています</DevelopedImmunityLower>
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
   <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>ワクチンを 培養中</ImmunityDevelopmentProgress>
+  <ImmunityDevelopmentProgress>免疫抗体を作成中</ImmunityDevelopmentProgress>
   <Race>人種</Race>
   <Description>概要</Description>
   <Equipment>装備</Equipment>
@@ -33,11 +33,14 @@
   <Inventory>アイテム一覧</Inventory>
   <ThingInfo>情報</ThingInfo>
   <DropThing>はずす</DropThing>
-  <RenameColonist>Rename colonist</RenameColonist>
+  <RenameColonist>入植者の命名</RenameColonist>
   <UnknownLower>unknown</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
+  <AreaLower>エリア</AreaLower>
+  <JoyTolerances>Joy tolerances</JoyTolerances>
+  <BrokenLetterLabel>Broken</BrokenLetterLabel>
 
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
@@ -45,12 +48,11 @@
   <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
 
   <!-- Snow -->
-  <SnowNone>雪がない</SnowNone>
+  <SnowNone>積雪ゼロ</SnowNone>
   <SnowDusting>粉雪</SnowDusting>
-  <SnowThin>さらさらな雪</SnowThin>
-  <SnowMedium>雪</SnowMedium>
-  <SnowThick>べた雪</SnowThick>
-
+  <SnowThin>積雪(薄)</SnowThin>
+  <SnowMedium>積雪</SnowMedium>
+  <SnowThick>積雪(厚)</SnowThick>
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
@@ -59,10 +61,9 @@
   <ShellLoaded>装填済み</ShellLoaded>
   <ShellNotLoaded>未装填</ShellNotLoaded>
 
-
   <!-- Job reports -->
-  <ReportHaulingTo>{0} を {1} に 運搬中。</ReportHaulingTo>
-  <ReportHauling>{0}を 運搬中。</ReportHauling>
+  <ReportHaulingTo>{0} を {1} に 運搬中</ReportHaulingTo>
+  <ReportHauling>{0}を 運搬中</ReportHauling>
   <ReportSleeping>就寝中</ReportSleeping>
   <ReportResting>休憩中</ReportResting>
 
@@ -82,25 +83,12 @@
   <RecipeMake>Make {0}</RecipeMake>
   <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
 
-	<!-- Status levels -->
-	<Mood>気分</Mood>
-	<MoodTip>気分は 物理的・ 精神的 欲求を 満たすことで 改善します。\n\nもし 気分が 悪いままだと 精神崩壊 の おそれが あります。</MoodTip>
-	<Food>食事</Food>
-	<FoodTip>食事は その者が なにを食べ どれぐらい 満足したかを あわらします。\n\n食事すると 食事ゲージは リセットされます。 しばらくすると 減り始め、 食事するまで 減り続けます。 食事ゲージが ゼロになると 飢えで ダメージを受けます。</FoodTip>
-	<Rest>休息</Rest>
-	<RestTip>休息は どれだけ 質の高い休息と 睡眠を 得ているかを あらわします。\n\nベッドで 睡眠を とると 最大まで 回復します。 ベッドから 出ると つねに 減り続けます。</RestTip>
-	<Environment>環境</Environment>
-	<EnvironmentTip>環境は 人が 生活で感じる 喜びに ついて あらわします。\n\n美しい 装飾のある 広々とした 客室は 環境値が 高いと いえます。 逆に、 周囲が 醜ければ 環境値は 低いです。</EnvironmentTip>
-	<Openness>開放性</Openness>
-
-
 <!-- Thoughts -->
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
 <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
 <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
   <MentalBreakThresholdHard>精神崩壊 ポイント</MentalBreakThresholdHard>
   <MentalBreakThresholdSoft>精神衰弱 ポイント</MentalBreakThresholdSoft>
-
 
 <!-- Pawn info readout -->
 <Health>健康</Health>
@@ -119,7 +107,6 @@
 	<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
 	<DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
 
-
 	<!-- like 'Blood of John' -->
 	<OfLower>の</OfLower>
 
@@ -131,16 +118,16 @@
 	<PowerBatteryStored>バッテリー内の電気</PowerBatteryStored>
 	<PowerBatteryEfficiency>電気をたくわえる効率</PowerBatteryEfficiency>
 
-  <!-- Temperature control -->
-  <TargetTemperature>設定温度</TargetTemperature>
-  <PowerConsumptionMode>消費電力</PowerConsumptionMode>
-  <PowerConsumptionHigh>高</PowerConsumptionHigh>
-  <PowerConsumptionLow>低</PowerConsumptionLow>
+	<!-- Temperature control -->
+	<TargetTemperature>設定温度</TargetTemperature>
+	<PowerConsumptionMode>消費電力</PowerConsumptionMode>
+	<PowerConsumptionHigh>高</PowerConsumptionHigh>
+	<PowerConsumptionLow>低</PowerConsumptionLow>
 
-  <!-- Temperature readout -->
-  <Indoors>室内温度</Indoors>
-  <IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
-  <Outdoors>外気温</Outdoors>
+	<!-- Temperature readout -->
+	<Indoors>室内温度</Indoors>
+	<IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
+	<Outdoors>外気温</Outdoors>
 
 	<!--Rotting-->
 	<RotStateFresh>新鮮</RotStateFresh>
@@ -159,21 +146,20 @@
 	<StoragePriorityImportant>優先</StoragePriorityImportant>
 	<StoragePriorityCritical>最優先</StoragePriorityCritical>
 
-
   <!-- Rotting -->
   <CurrentlyFrozen>冷凍</CurrentlyFrozen>
-  <CurrentlyRefrigerated>冷蔵 (保存期間 {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>放置 (保存期間 {0})</NotRefrigerated>
-  <OverADecade>保存期間を過ぎた</OverADecade>
+  <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>常温 (消費期限あと {0})</NotRefrigerated>
+  <OverADecade>消費期限切れ</OverADecade>
 
 	<!-- Meal -->
 	<Ingredients>原料</Ingredients>
 
 	<!-- Plants -->
-	<PercentGrowth>{0}％ 成長</PercentGrowth>
+	<PercentGrowth>{0} 成長</PercentGrowth>
 	<Growing>成長中</Growing>
 	<NotGrowingNow>成長していない （{0} 必要がある）。</NotGrowingNow>
-    <NotGrowingNowResting>成長していない(活動停止中).</NotGrowingNowResting>
+    <NotGrowingNowResting>成長していない (活動停止中).</NotGrowingNowResting>
 	<FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
     <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
     <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (成長をやめた)</OutOfIdealTemperatureRangeNotGrowing>
@@ -190,16 +176,21 @@
 	<Zone>ゾーン</Zone>
 	<GrowingZone>農業ゾーン</GrowingZone>
 	<Stockpile>備蓄ゾーン</Stockpile>
-	<DumpingStockpile>ゴミ捨て場</DumpingStockpile>
+	<DumpingStockpile>廃棄ゾーン</DumpingStockpile>
 	<Priority>使用優先度</Priority>
     <ClearAll>Clear all</ClearAll>
+
+  <!-- ThingFilter -->
+	<HitPoints>HP : {0}</HitPoints>
+	<AnyQuality>全ての品質</AnyQuality>
+	<OnlyQuality>{0} のみ</OnlyQuality>
 
 	<!-- Mouseover indicator -->
 	<Undiscovered>未調査</Undiscovered>
 
 	<!-- Buttons -->
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>住環境の可視 切り替え.\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
+	<ShowBeautyToggleButton>住環境の可視 切り替え.\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
 	<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
 	<CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
 
@@ -219,53 +210,55 @@
 	<MustPlaceUnroofed>屋根の下に 配置 できません。</MustPlaceUnroofed>
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
 	<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
-	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接 配置して ください。</MustPlaceOnSteamGeyser>
+	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.(Keyed/Misc_Gameplay.xml)</MustPlaceAdjacentStandable>
 
 	<!-- Wind Turbine -->
-	<WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
-	<WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+	<WindTurbine_WindPathIsBlockedBy>邪魔している物：</WindTurbine_WindPathIsBlockedBy>
+	<WindTurbine_WindPathIsBlockedByRoof>屋根が邪魔しています</WindTurbine_WindPathIsBlockedByRoof>
 
 	<!-- Cryptosleep casket -->
 	<CasketContains>Contains</CasketContains>
 	<CasketUnknownContents>Unknown</CasketUnknownContents>
-	<CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+	<CasketWarning>【警告】 NAMEは最後の入植者です。HIM冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
 
 	<!-- Ship launch report -->
 	<ShipReportCannotLaunch>発進 できません。</ShipReportCannotLaunch>
 	<ShipReportCanLaunch>発進 できます。</ShipReportCanLaunch>
-	<ShipReportMissingPart>宇宙船 コンポーネントが 足りません</ShipReportMissingPart>
-	<ShipReportNoFullPods>冷凍カプセルに 空きが あります</ShipReportNoFullPods>
+	<ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
+	<ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
 
 	<!-- Neurotrainer -->
 	<UseNeurotrainer>{0} を学ぶ為に neurotrainer を使用する</UseNeurotrainer>
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
 	<!-- Minification -->
-	<Installed>Installed</Installed>
-	<NotInstalled>Not installed</NotInstalled>
+	<Installed>インストール済</Installed>
+	<NotInstalled>未インストール</NotInstalled>
 
 	<!-- Art -->
-	<Title>Title</Title>
-	<Untitled>Untitled</Untitled>
+	<Title>タイトル</Title>
+	<Untitled>銘無し</Untitled>
 
 	<!-- Unfinished thing -->
-	<UnfinishedItem>Unfinished {0}</UnfinishedItem>
-	<UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+	<UnfinishedItem>未完の {0}</UnfinishedItem>
+	<UnfinishedItemWithStuff>未完の {0} {1}</UnfinishedItemWithStuff>
 
 	<!-- Quality -->
-	<Quality>Quality</Quality>
-	<QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-	<QualityIs>Quality: {0}</QualityIs>
+	<Quality>品質</Quality>
+	<QualityDescription>アイテムがどの位良く作られたかを示しています</QualityDescription>
+	<QualityIs>品質: {0}</QualityIs>
 
-  <!-- Mood descriptions -->
-  <Mood_Broken>崩壊</Mood_Broken>
-  <Mood_AboutToBreak>崩壊に等しい</Mood_AboutToBreak>
-  <Mood_OnEdge>限界</Mood_OnEdge>
-  <Mood_Stressed>ストレス気味</Mood_Stressed>
-  <Mood_Neutral>平凡</Mood_Neutral>
+	<!-- Mood descriptions -->
+	<Mood_Broken>崩壊</Mood_Broken>
+	<Mood_AboutToBreak>崩壊に等しい</Mood_AboutToBreak>
+	<Mood_OnEdge>限界</Mood_OnEdge>
+	<Mood_Stressed>ストレス気味</Mood_Stressed>
+	<Mood_Neutral>平凡</Mood_Neutral>
 	<Mood_Content>満足</Mood_Content>
-  <Mood_Happy>幸せ</Mood_Happy>
+	<Mood_Happy>幸せ</Mood_Happy>
 
 	<!-- Game over -->
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
@@ -273,5 +266,14 @@
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
+  <!-- Generic lifespan -->
+  <LifespanExpiry>Expires in:</LifespanExpiry>
+
+  <!-- JobDriver reports -->
+  <WatchingSunrise>陽が昇るのを見ている</WatchingSunrise>
+  <CloudWatching>雲が流れるのを眺めている</CloudWatching>
+  <WatchingSunset>陽が沈むのを眺めていいる</WatchingSunset>
+  <Stargazing>星の瞬きを見ている</Stargazing>
+  <WatchingEclipse>月の満ち欠けを見ている</WatchingEclipse>
 
 </LanguageData>

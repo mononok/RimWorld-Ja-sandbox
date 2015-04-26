@@ -2,5 +2,40 @@
 <LanguageData>
 
 	<!-- Psychic drone -->
+	<rep>
+		<path>PsychicDrone.stages[0].label</path>
+		<trans>サイコドローン(低度)</trans>
+	</rep>
+	<rep>
+		<path>PsychicDrone.stages[0].description</path>
+		<trans>それは心の裏側を爪で引っ掻かれるようなものです。声、ささやくような声。私の嫌いないくつかの言葉だけを、ようやく聞き分けられます</trans>
+	</rep>
+
+	<rep>
+		<path>PsychicDrone.stages[1].label</path>
+		<trans>サイコドローン(中度)</trans>
+	</rep>
+	<rep>
+		<path>PsychicDrone.stages[1].description</path>
+		<trans>私は視線の外にいる誰かに話しかけられている気がしています。声は変わってもメッセージが変わらない。私はそいつを傷つけてしまう、そいつをどっかにやってくれ </trans>
+	</rep>
+
+	<rep>
+		<path>PsychicDrone.stages[2].label</path>
+		<trans>サイコドローン(重度)</trans>
+	</rep>
+	<rep>
+		<path>PsychicDrone.stages[2].description</path>
+		<trans>我慢できない程の怒鳴り声がする、集中力を維持するのが難しい。そいつに向かって大声で話しかけている自分自身に気がついた、そして大声で叫んでいる</trans>
+	</rep>
+
+	<rep>
+		<path>PsychicDrone.stages[3].label</path>
+		<trans>サイコドローン(極度)</trans>
+	</rep>
+	<rep>
+		<path>PsychicDrone.stages[3].description</path>
+		<trans>私の心臓はドキドキなり、汗をかいている。私が考えられる事の全ては、痛み、悩み、そして私の周りにいる悪い奴らだ。奴らは、私の悪夢だ…私の悪夢だ…私の悪夢だ…</trans>
+	</rep>
 
 </LanguageData>

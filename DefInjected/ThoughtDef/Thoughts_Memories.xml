@@ -2,6 +2,7 @@
 <LanguageData>
 
 
+
   <rep>
     <path>SleepDisturbed.stages[0].label</path>
     <trans>良く眠れない</trans>
@@ -48,49 +49,50 @@
   </rep>
 
 	<!-- =========== Cannibalism =============== -->
+
   <rep>
-    <path>AteHumanoidMeatDirect.stages[0].label</path>
-    <trans>人肉を生で食べた</trans>
+    <path>AteHumanlikeMeatDirect.stages[0].label</path>
+    <trans>生の人肉を食べた</trans>
   </rep>
   <rep>
-    <path>AteHumanoidMeatDirect.stages[0].description</path>
-    <trans>人間の、肉を、生で、動物のように食べた。これは悪夢だ</trans>
+    <path>AteHumanlikeMeatDirect.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように。これは悪夢だ</trans>
   </rep>
 
   <rep>
-    <path>AteHumanoidMeatAsIngredient.stages[0].label</path>
-    <trans>人肉を食べた</trans>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
+    <trans>調理された人肉を食べた</trans>
   </rep>
   <rep>
-    <path>AteHumanoidMeatAsIngredient.stages[0].description</path>
-    <trans>人間の肉を料理した食事を食べた。これは酷い</trans>
-  </rep>
-
-  <rep>
-    <path>AteHumanoidMeatDirectCannibal.stages[0].label</path>
-    <trans>人の生肉で食事を済ました</trans>
-  </rep>
-  <rep>
-    <path>AteHumanoidMeatDirectCannibal.stages[0].description</path>
-    <trans>人間の、肉を、生で、動物のように食べた。少し水っぽいかな？</trans>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。なんて恐ろしい</trans>
   </rep>
 
   <rep>
-    <path>AteHumanoidMeatAsIngredientCannibal.stages[0].label</path>
-    <trans>人肉で食事を済ました</trans>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
+    <trans>生の人肉を食べた</trans>
   </rep>
   <rep>
-    <path>AteHumanoidMeatAsIngredientCannibal.stages[0].description</path>
-    <trans>人間の肉を料理した食事を食べた。楽しい時間を過ごせた。ソラマメとキャンティワインがあればもっと楽しいのに</trans>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった</trans>
   </rep>
 
   <rep>
-    <path>ButcheredHumanoidCorpse.stages[0].label</path>
-    <trans>人肉解体</trans>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
+    <trans>調理された人肉を食べた</trans>
   </rep>
   <rep>
-    <path>ButcheredHumanoidCorpse.stages[0].description</path>
-    <trans>人間を動物のように解体した</trans>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう</trans>
+  </rep>
+
+  <rep>
+    <path>ButcheredHumanlikeCorpse.stages[0].label</path>
+    <trans>人肉を捌いた</trans>
+  </rep>
+  <rep>
+    <path>ButcheredHumanlikeCorpse.stages[0].description</path>
+    <trans>人肉を動物のように切り捌いた</trans>
   </rep>
 
   <rep>
@@ -149,12 +151,12 @@
   </rep>
 
   <rep>
-    <path>KilledHumanoidBloodlust.stages[0].label</path>
-    <trans>殺人者</trans>
+    <path>KilledHumanlikeBloodlust.stages[0].label</path>
+    <trans>人殺し</trans>
   </rep>
   <rep>
-    <path>KilledHumanoidBloodlust.stages[0].description</path>
-    <trans>人を殺した</trans>
+    <path>KilledHumanlikeBloodlust.stages[0].description</path>
+    <trans>人を殺してしまった。</trans>
   </rep>
 
   <rep>

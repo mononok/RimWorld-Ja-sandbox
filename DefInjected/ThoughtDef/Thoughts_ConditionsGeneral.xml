@@ -3,167 +3,35 @@
 
 	<rep>
 		<path>LowExpectations.stages[0].label</path>
-		<trans>生存への薄い望み</trans>
+		<trans>良くない住環境</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[0].description</path>
-		<trans>この土地はやや貧しく、何もないままなら、生活が良くなるとは期待できない</trans>
+		<trans>この土地はまったく豊かではない、私は思い通りになるなんて全く期待できない</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[1].label</path>
-		<trans>絶望的な住環境</trans>
+		<trans>悪い住環境</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[1].description</path>
-		<trans>この土地は酷く貧しく、生き残るには心を鬼にするしかないだろう</trans>
-	</rep>
-	
-	<rep>
-     		<path>HighExpectations.stages[0].label</path>
-		<trans>過剰な期待</trans>
+		<trans>この土地から、豊富な資源が与えられるとは思えない、心を強く保たなければ…</trans>
 	</rep>
 	<rep>
-		<path>HighExpectations.stages[0].description</path>
-		<trans>ここは快適ば場所だが　もっとここで私は大事に扱われるべきじゃないか</trans>
+		<path>LowExpectations.stages[2].label</path>
+		<trans>非常に悪い住環境</trans>
 	</rep>
 	<rep>
-		<path>HighExpectations.stages[1].label</path>
-		<trans>自堕落な生活</trans>
+		<path>LowExpectations.stages[2].description</path>
+		<trans>この土地は非常に貧しい、ここで豊かに暮らせるとは期待できない。心を強く持たなければ…</trans>
 	</rep>
 	<rep>
-		<path>HighExpectations.stages[1].description</path>
-		<trans>ここはとても豊かな場所だ なにも拒む理由なんてないよ</trans>
-	</rep>
-
-	<rep>
-		<path>Hungry.stages[0].label</path>
-		<trans>お腹が空いた</trans>
+		<path>LowExpectations.stages[3].label</path>
+		<trans>絶望的な住環境</trans>
 	</rep>
 	<rep>
-		<path>Hungry.stages[0].description</path>
-		<trans>もうしばらくの間、何も口にしていない</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[1].label</path>
-		<trans>飢餓</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[1].description</path>
-		<trans>空腹による痛みが胃を締め付ける 今すぐ食べ物が必要だ さもなければ餓死してしまう</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[2].label</path>
-		<trans>餓死寸前</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[2].description</path>
-		<trans>何か食べ物を、なんでもいい口にはいるものを、身体が消耗しきっているのがわかる、痛みが……</trans>
-	</rep>
-
-
-	<rep>
-		<path>Tired.stages[0].label</path>
-		<trans>疲れている</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[0].description</path>
-		<trans>しばらくゆっくり寝ていない</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[1].label</path>
-		<trans>疲労が溜まってきた</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[1].description</path>
-		<trans>とても疲れた、今すぐここで 横になって数分でも眠らせて……</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[2].label</path>
-		<trans>疲れ果てた</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[2].description</path>
-		<trans>私は精根尽き果てた、かろうじて立っている。まぶたが重い、眠りたい……</trans>
-	</rep>
-
-
-	<rep>
-		<path>EnvironmentUgly.stages[0].label</path>
-		<trans>嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[0].description</path>
-		<trans>ここは住むには 酷すぎる</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[1].label</path>
-		<trans>もっと嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[1].description</path>
-		<trans>ここの環境は気に障る</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[2].label</path>
-		<trans>非常に嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[2].description</path>
-		<trans>ここは耐えきれない、 ここから連れ出して！</trans>
-	</rep>
-
-
-	<rep>
-		<path>EnvironmentPretty.stages[0].label</path>
-		<trans>良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[0].description</path>
-		<trans>ここは良い所だ</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[1].label</path>
-		<trans>もっと良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[1].description</path>
-		<trans>ここは本当によい所で美しい</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[2].label</path>
-		<trans>非常に良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[2].description</path>
-		<trans>すばらしく美しい</trans>
-	</rep>
-
-
-	<rep>
-		<path>EnvironmentCramped.stages[0].label</path>
-		<trans>閉塞感</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[0].description</path>
-		<trans>この場所は本当に狭い、息をする空間も無いように感じる</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[1].label</path>
-		<trans>非常な閉塞感</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[1].description</path>
-		<trans>閉所恐怖症を起こしそうだ。身動きできない、狭いケージに入れられたネズミのような気分だ</trans>
-	</rep>
-
-
-	<rep>
-		<path>EnvironmentSpaciousInterior.stages[0].label</path>
-		<trans>広々空間</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentSpaciousInterior.stages[0].description</path>
-		<trans>ここの室内空間は本当にゆったりとできる</trans>
+		<path>LowExpectations.stages[3].description</path>
+		<trans>この土地は、緊急避難のシェルターとしてはかろうじて充分ですが、心を鬼にしてかかったほうが良いです</trans>
 	</rep>
 
 
@@ -195,6 +63,23 @@
 	</rep>
 
 
+	<rep>
+		<path>ApparelDamaged.stages[0].label</path>
+		<trans>すり切れた服</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[0].description</path>
+		<trans>私の格好は、ちょっとひどい。少しは身なりを整えることはできないのだろうか？</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[1].label</path>
+		<trans>ぼろを着ている</trans>
+	</rep>
+	<rep>
+		<path>ApparelDamaged.stages[1].description</path>
+		<trans>私はぼろをまとっている。少しは身なりを整えられることはできないのだろうか？</trans>
+	</rep>
+
 
 	<rep>
 		<path>Sick.stages[0].label</path>
@@ -204,7 +89,6 @@
 		<path>Sick.stages[0].description</path>
 		<trans>気分が悪い、病気のようだ</trans>
 	</rep>
-
 
 
 	<rep>
@@ -231,7 +115,6 @@
 		<path>EnvironmentCold.stages[2].description</path>
 		<trans>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房が必要だ</trans>
 	</rep>
-
 
 
 	<rep>

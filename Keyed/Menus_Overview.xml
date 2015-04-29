@@ -4,6 +4,8 @@
 
 <!-- Tab titles -->
 <WorkTab>仕事</WorkTab>
+<OutfitsTab>服装</OutfitsTab>
+<TimetablesTab>時間割</TimetablesTab>
 <FactionsTab>部族</FactionsTab>
 <StatisticsTab>統計</StatisticsTab>
 <HistoryTab>村の歴史</HistoryTab>
@@ -18,12 +20,22 @@
 <CannotDoThisWork>{0} は この仕事が できません</CannotDoThisWork>
 <NoneBrackets>（なし）</NoneBrackets>
 
+  <!-- Outfits tab -->
+  <CurrentOutfit>服装</CurrentOutfit>
+  <ManageOutfits>服装を編集</ManageOutfits>
+  <ClearForcedApparel>Clear forced</ClearForcedApparel>
+  <ApparelForcedLower>forced</ApparelForcedLower>
+  <ForcedApparel>Forced apparel</ForcedApparel>
+  <OutfitEdit>着替え</OutfitEdit>
+
+  <!-- Timetables tab -->
+  <Copy>コピー</Copy>
+  <Paste>ペースト</Paste>
 
 <!-- Factions tab -->
 <Hostile>敵対</Hostile>
 <HostileTo>{0} と 敵対</HostileTo>
 <CurrentGoodwill>現在の 友好度</CurrentGoodwill>
-
 
 <!-- Statistics tab -->
 <Playtime>プレイ時間</Playtime>
@@ -37,7 +49,6 @@
 <ColonistsKilled>殺された 入植者数</ColonistsKilled>
 <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 
-
 <!-- History tab -->
 <SelectGraph>グラフを選択</SelectGraph>
 <Last30Days>直近の30日</Last30Days>
@@ -47,6 +58,5 @@
 <Day>日</Day>
 <Value>Value</Value>
 <External>External</External>
-
 
 </LanguageData>

@@ -8,7 +8,7 @@
 	<TabPrisoner>囚人</TabPrisoner>
     <TabGuest>客人</TabGuest>
 	<TabGear>装備</TabGear>
-	<TabThoughts>心境</TabThoughts>
+    <TabNeeds>欲求</TabNeeds>
 	<TabStorage>保管</TabStorage>
 	<TabHealth>健康</TabHealth>
 	<TabRace>種族</TabRace>
@@ -34,6 +34,7 @@
 	<ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
 	<PrisonerNoInteraction>無視</PrisonerNoInteraction>
 	<PrisonerFriendlyChat>友好的な会話</PrisonerFriendlyChat>
+    <PrisonerAttemptRecruit>入村を勧誘</PrisonerAttemptRecruit>
 	<PrisonerRelease>解放</PrisonerRelease>
 	<PrisonerExecution>処刑</PrisonerExecution>
 
@@ -44,7 +45,7 @@
 	<MissingBodyPart>失われた</MissingBodyPart>
 	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
 	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
-  <RemovedBodyPart>取り外された</RemovedBodyPart>
+    <RemovedBodyPart>取り外された</RemovedBodyPart>
 	<Healthy>健康</Healthy>
 	<InPain>In pain</InPain>
 	<PainLevel>傷の深さ</PainLevel>
@@ -54,16 +55,16 @@
 	<Injured>怪我</Injured>
 	<NoInjuries>(目立った怪我無し)</NoInjuries>
 	<WholeBody>全身</WholeBody>
-	<DataProcessing>Data processing</DataProcessing>
-	<Communication>Communication</Communication>
+	<DataProcessing>データ処理</DataProcessing>
+	<Communication>コミュニケーション</Communication>
 	<AffectsLower>affects</AffectsLower>
-	<BleedingRate>Bleeding rate</BleedingRate>
-	<HealthOverview>Overview</HealthOverview>
-	<MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>Medical operations</MedicalOperations>
+	<BleedingRate>出血量</BleedingRate>
+	<HealthOverview>概要</HealthOverview>
+	<MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
-	<Harvest>Harvest</Harvest>
+	<Harvest>収穫</Harvest>
 
 
 

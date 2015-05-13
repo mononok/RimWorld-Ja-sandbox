@@ -44,8 +44,8 @@
 
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{0} は 野蛮なことはできません</IsIncapableOfViolence>
-  <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
+  <IsIncapableOfViolence>{0}は野蛮なことはできません</IsIncapableOfViolence>
+  <IsNotDrafted>{0}は徴兵されていない</IsNotDrafted>
 
   <!-- Snow -->
   <SnowNone>積雪ゼロ</SnowNone>
@@ -157,19 +157,19 @@
 
 	<!-- Plants -->
 	<PercentGrowth>{0} 成長</PercentGrowth>
-	<Growing>成長中</Growing>
-	<NotGrowingNow>成長していない （{0} 必要がある）。</NotGrowingNow>
-    <NotGrowingNowResting>成長していない (活動停止中).</NotGrowingNowResting>
-	<FullyGrownIn>成長 {0} で 完熟 します。</FullyGrownIn>
+	<GrowthRate>成長率</GrowthRate>
+	<FullyGrownIn>成長 {0} で 完熟 します</FullyGrownIn>
+	<PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
+	<PlantResting>成長していない (活動停止中)</PlantResting>
     <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
     <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (成長をやめた)</OutOfIdealTemperatureRangeNotGrowing>
-	<ReadyToHarvest>収穫 できます。</ReadyToHarvest>
-	<Mature>完熟しました。</Mature>
+	<ReadyToHarvest>収穫できます</ReadyToHarvest>
+	<Mature>完熟しました</Mature>
 	<SeedLabel>{0} の種</SeedLabel>
     <OutdoorGrowingPeriod>成長期間: {0}</OutdoorGrowingPeriod>
     <NoGrowingPeriod>なし</NoGrowingPeriod>
     <GrowYearRound>一年中</GrowYearRound>
-  <GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
+	<GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
     <CannotGrowTooCold>生育不可 - 低温</CannotGrowTooCold>
 
 	<!-- Zones -->

@@ -15,7 +15,9 @@
 <SeasonWinter>冬</SeasonWinter>
 
   <Born>Born: {0} {1} {2}</Born>
-  <AgeChronological>暦の上での年齢: {0} years, {1} months, {2} days</AgeChronological>
-  <AgeBiological>生物学的年齢: {0} years, {1} months, {2} days</AgeBiological>
+  <AgeChronological>暦の上での年齢: {0} 年, {1} 月, {2} 日</AgeChronological>
+  <AgeBiological>生物学的年齢: {0} 年, {1} 月, {2} 日</AgeBiological>
+
+  <DaysHours>{0} 日, {1} 時</DaysHours>
 
 </LanguageData>

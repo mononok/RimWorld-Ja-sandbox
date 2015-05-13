@@ -86,6 +86,9 @@
 <ColonistsIdle>入植者 {0} 人に仕事を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
 
+<MedicalBedLacksHeadspace>医療用ベッドが使えません</MedicalBedLacksHeadspace>
+<MedicalBedLacksHeadspaceDesc>医療用ベッドは、医者が患者を診察するのに十分なスペースがある場所に配置しなければなりません、使用可能であるためには、ベッドの頭側に医者が立てるスペースが必要です</MedicalBedLacksHeadspaceDesc>
+
 <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
 <HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
 

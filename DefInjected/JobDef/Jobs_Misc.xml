@@ -4,7 +4,17 @@
     <!--========= General ============-->
     <Goto.reportString>移動中</Goto.reportString>
 
+    <GotoSafeTemperature.reportString>適温な場所を探し回っている</GotoSafeTemperature.reportString>
+
+    <GotoWander.reportString>うろついている</GotoWander.reportString>
+    
     <Wait.reportString>ぼんやりしている</Wait.reportString>
+
+    <WaitSafeTemperature.reportString>適温な場所を探している</WaitSafeTemperature.reportString>
+
+    <WaitWander.reportString>うろうろしている</WaitWander.reportString>
+
+    <WaitCombat.reportString>対象を観察している</WaitCombat.reportString>
 
     <AttackStatic.reportString>TargetA を攻撃中</AttackStatic.reportString>
 
@@ -21,11 +31,19 @@
 
     <Hunt.reportString>TargetA を狩猟中</Hunt.reportString>
 
+    <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
+    
+    <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込む</EnterCryptosleepCasket.reportString>
+
+    <OpenCryptosleepCasket.reportString>冬眠カプセルを開ける</OpenCryptosleepCasket.reportString>
+
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
 
     <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
 
 	<Vomit.reportString>嘔吐中</Vomit.reportString>
+	
+	<Flick.reportString>スイッチ入り切り</Flick.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>
@@ -47,13 +65,19 @@
     <!--============= Pawn hauling ===============-->
     <Rescue.reportString>TargetA を救助中</Rescue.reportString>
 
+    <CarryToCryptosleepCasket.reportString>TargetA を冬眠カプセルに搬送中</CarryToCryptosleepCasket.reportString>
+
     <Capture.reportString>TargetA を捕獲中</Capture.reportString>
 
     <Arrest.reportString>TargetA を逮捕中</Arrest.reportString>
 
+    <ReleasePrisoner.reportString>TargetA を釈放中</ReleasePrisoner.reportString>
+
     <EscortPrisonerToBed.reportString>TargetA を護送中</EscortPrisonerToBed.reportString>
 
     <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
+    
+    <TakeToBedToOperate.reportString>TargetA を緊急搬送中</TakeToBedToOperate.reportString>
 
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 

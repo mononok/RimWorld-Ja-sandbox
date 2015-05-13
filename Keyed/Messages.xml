@@ -6,7 +6,7 @@
 
 <MessageRaidersBeginningAssault>{0} は {1} を 襲撃しはじめ ました。</MessageRaidersBeginningAssault>
 <MessageRaidersDetectedEarlyAssault>{0} は {1} の斥候を 発見し、 急きょ 襲撃を はやめました。</MessageRaidersDetectedEarlyAssault>
-<MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+<MessageRaidersKidnapping>{0} は {1} から誰かを誘拐することに決めました</MessageRaidersKidnapping>
 
 <MessageRaidersLeaving>{0} は {1} から 離れました。</MessageRaidersLeaving>
 <MessageRaidersGivenUpLeaving>{0} は {1} を諦め 離れました。</MessageRaidersGivenUpLeaving>
@@ -15,6 +15,8 @@
 <MessageFightersFleeing>{0} は {1} から 逃げています。</MessageFightersFleeing>
 <MessageFriendlyFightersLeaving>優しい {1} 所属の {0} は 離れていきました。</MessageFriendlyFightersLeaving>
 
+  <MessageVisitorsTakingWounded>{0} は {1} のけが人をゲストとして迎えました</MessageVisitorsTakingWounded>
+  
   <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
 
 <MessageSeasonBegun>{0} の 季節が始まった</MessageSeasonBegun>
@@ -31,6 +33,9 @@
 
   <MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけられない.</MessageOutOfNearbyShellsFor>
 
+  <MessageAnimalsGoPsychoHunted>警告: {0}は怪我を負ったときは攻撃されたとみなします</MessageAnimalsGoPsychoHunted>
+
+  <LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
 <MessageRecruitSuccess>{0} は 囚人 {1} を 村に 迎えました。 （成功率 {2} ）</MessageRecruitSuccess>
 <MessageRecruitFail>{0} は 囚人 {1} の 説得に 失敗しました。 （成功率 {2} ）</MessageRecruitFail>
 <MessageRecruitFailBecauseLoyalty>{0} は 囚人 {1} の 説得に 失敗しました。 （囚人の 忠誠心が たりません）</MessageRecruitFailBecauseLoyalty>
@@ -38,10 +43,8 @@
 <MessagePoorlyTreated>{0} は {1} から処置を受けた ( 成功率 {2} )</MessagePoorlyTreated>
 <MessageWellTreated>{0} は {1} から処置を受けた ( 成功率 {2} )</MessageWellTreated>
 
-<MessageTraderCannotAfford>商船は、 この取り引きの アイテムが 足りない。</MessageTraderCannotAfford>
 <MessageColonyCannotAfford>村は、 この取り引きの アイテムが 足りない。</MessageColonyCannotAfford>
 <MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
-<MessageTraderNotEnoughSilver>トレーダーは、十分な量の シルバーを 持っていません。</MessageTraderNotEnoughSilver>
 
 <MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
 
@@ -54,12 +57,15 @@
 <MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
 <MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
 
-
+  <MessageRefusedArrest>{0} は逮捕されるのを拒否した</MessageRefusedArrest>
+  
 <MessageNoMedicalBeds>医療用ベッドが無い</MessageNoMedicalBeds>
 
 <PawnDiedBecauseOf>{1} によって、{0} は命を落とした.</PawnDiedBecauseOf>
 
 <MessageNoLongerDowned>{0} は 自由に歩き回れなくなった</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0}は飢餓によって衰弱した</MessageInvoluntarySleep>
 
   <MessageMedicalOperationFailureCatastrophic>{0} は {1} の手術中に 致命的なミスをおかした.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} は {1} の手術中に 些細なミスをした.</MessageMedicalOperationFailureMinor>

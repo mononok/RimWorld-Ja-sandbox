@@ -1,17 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<AnimalInsanitySingle>野生の {0} が 暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
-<AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました。\n\n入植者は 大丈夫です。 しかし... 多くの {0} は 正気を 失い 暴れだした ようです。</AnimalInsanityMultiple>
+	<LetterLabelAnimalInsanitySingle>暴走</LetterLabelAnimalInsanitySingle>
+	<AnimalInsanitySingle>野生の {0} が 暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
+	<LetterLabelAnimalInsanityMultiple>暴走群!!</LetterLabelAnimalInsanityMultiple>
+	<AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました。\n\n入植者は 大丈夫です。 しかし... 多くの {0} は 正気を 失い 暴れだした ようです。</AnimalInsanityMultiple>
 
-<CropBlight>謎の疫病で 農作物が 根こそぎ 枯れました。</CropBlight>
+	<LetterLabelCropBlight>疫病</LetterLabelCropBlight>
+	<CropBlight>謎の疫病で 農作物が 根こそぎ 枯れました。</CropBlight>
 
-<EclipseIncident>この惑星の 衛星の一つが 太陽に 覆い かぶさろうと しています。 日食の 始まりです。</EclipseIncident>
+	<LetterLabelEclipseIncident>日食</LetterLabelEclipseIncident>
+	<EclipseIncident>この惑星の 衛星の一つが 太陽に 覆い かぶさろうと しています。 日食の 始まりです。</EclipseIncident>
 
-<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
-
+	<LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>
+	<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
 
 <!-- Enemy raids -->
+  <LetterLabelEnemyRaid>レイド</LetterLabelEnemyRaid>
+  <LetterLabelSiege>シージ</LetterLabelSiege>
 <EnemyRaidWalkIn>{1} 部族の {0} グループが 接近して います。</EnemyRaidWalkIn>
 <EnemyRaidEdgeDrop>{1} 部族の {0} グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
 <EnemyRaidCenterDrop>{1} 部族の {0} グループが、 村めがけて 着陸します！</EnemyRaidCenterDrop>
@@ -19,8 +25,8 @@
 <EnemyRaidImmediateAttack>彼らは すぐに 攻撃を はじめます。</EnemyRaidImmediateAttack>
 <EnemyRaidBesiege>どうやら 彼らは 村を包囲する 作戦の ようです。</EnemyRaidBesiege>
 
-
 <!-- Friendly raids -->
+  <LetterLabelFriendlyRaid>友軍</LetterLabelFriendlyRaid>
 <FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
 <FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
 <FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
@@ -28,21 +34,26 @@
 <FriendlyRaidImmediateAttack>彼らは すぐに 敵を 攻撃します。</FriendlyRaidImmediateAttack>
 <FriendlyRaidBesiege>彼らは あなたを 助けるため 包囲戦術を 用いたようです。</FriendlyRaidBesiege>
 
+  <LetterLabelRefugeePodCrash>けが人</LetterLabelRefugeePodCrash>
 <RefugeePodCrash>この近くで 脱出ポットが 地面に 激突したのを 発見しました。\n\nあの衝撃では きっと  ひどく傷ついて いるでしょう。</RefugeePodCrash>
 
+  <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
 <CargoPodCrash>この近くで 貨物ポッドが 墜落しました。\n\nその付近を さがせば 役に立つものが 見つかるでしょう。</CargoPodCrash>
 
 <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
-<AWallsPowerConduit>壁の 埋め込みケーブル</AWallsPowerConduit>
 <ShortCircuit>{0} が 故障し、 ショートしました。\n\n{1} Wd もの 電気が 放出され 爆発しました。</ShortCircuit>
 <ShortCircuitWasLarge>放出された とても多くの電気が 、 かなり大きな 爆発を 引き起こしました。</ShortCircuitWasLarge>
 <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です。</ShortCircuitWasHuge>
 
+  <LetterLabelSolarFlare>フレア</LetterLabelSolarFlare>
 <LetterSolarFlare>太陽フレアが はじまりました。\n\n強力な 電磁波が すべての 電気機器を シャットダウン します。\n\nこれは 数日間 つづきます。</LetterSolarFlare>
 
 <LetterHeatWave>異常な熱波が 始まりました。この熱波には気をつけてください</LetterHeatWave>
+  <LetterLabelHeatWave>熱波</LetterLabelHeatWave>
 <HeatWaveOver>熱波は収まりました</HeatWaveOver>
+
 <LetterColdSnap>異常な寒波が始まりました。低体温症や、作物の生育不良に気をつけてください</LetterColdSnap>
+  <LetterLabelColdSnap>寒波</LetterLabelColdSnap>
 <ColdSnapOver>寒波は収まりました</ColdSnapOver>
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
@@ -50,14 +61,18 @@
 <SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています</SingleTravelerPassing>
 <GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
 
+  <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
 <SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています</SingleVisitorArrives>
+  <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
 <GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。</GroupVisitorsArrive>
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
 
+  <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>{0} という名前の NAME が 到着し 村の 仲間に くわわりました。 HECAP は {1} です。</WandererJoin>
 
 
 <!-- Crashed ship part-->
+  <LetterLabelSpaceshipPartCrash>邪悪</LetterLabelSpaceshipPartCrash>
 <SpaceshipPartCrash>村の近くに 1隻の 古い 大きな宇宙船が 激突しました。\n\n入植者は 言葉に出来ない 衝動に 突き動かされ、 心の中にいる なにかを 感じ取りました。 きっと サイコプロジェクターを 持つ 人格AIが 乗っているに ちがいありません。 おまけに まったく 友好的では ありません。\n\nできるだけ はやく それを 破壊して ください。</SpaceshipPartCrash>
 <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスで ちかくの動物に 狂気を  照射しました。</MessageAnimalInsanityPulse>
 <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスで 入植者 {0} に 狂気を 照射しました。</LetterShipPartDroveColonistInsane>
@@ -67,19 +82,19 @@
 <PsychicDroneLevelMedium>高い</PsychicDroneLevelMedium>
 <PsychicDroneLevelHigh>危険</PsychicDroneLevelHigh>
 <PsychicDroneLevelExtreme>最強</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
 <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました。 このエリアの 人間は、 不安と、 恐怖と、 偏執衝動に さらされます。</LetterPsychicDroneLevelIncreased>
 
 <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>代理人</LetterLabelAgentRevealed>
 <LetterAgentRevealed>{0} は あなたの敵  {1} の代理と 名乗りました。\n\n彼らは 逃げようと しています。</LetterAgentRevealed>
 
 <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
 <LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の 気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
 
 <!-- Beavers -->
+  <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
 <BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません</BeaversArrived>
-
-
-
-
 
 </LanguageData>

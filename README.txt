@@ -1,9 +1,9 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:10.01
+Ver:10.04
 Original: alpha10f
 Description: alpha10f に対応
-ToDo: まだまだ修正は続きます
+ToDo: 細かい修正をいれました
 Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 
 ============

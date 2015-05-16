@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BloodLoss.label>失血</BloodLoss.label>
+	<rep>
+		<path>BloodLoss.stagedProps.severityStages[0].label</path>
+		<trans>ささいな</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stagedProps.severityStages[1].label</path>
+		<trans>少量</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stagedProps.severityStages[2].label</path>
+		<trans>中程度</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stagedProps.severityStages[3].label</path>
+		<trans>多量</trans>
+	</rep>
+	<rep>
+		<path>BloodLoss.stagedProps.severityStages[4].label</path>
+		<trans>致死量</trans>
+	</rep>
+
+	<Anesthetic.label>麻酔</Anesthetic.label>
+
+	<Concussion.label>脳しんとう</Concussion.label>
+
+	<CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>
+
+	<FoodPoisoning.label>食中毒</FoodPoisoning.label>
+
+</LanguageData>

@@ -55,21 +55,7 @@
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
 <HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
 <MustChooseChallengeScale>難易度を選択</MustChooseChallengeScale>
-<ChallengeScale>難易度設定</ChallengeScale>
-<ChallengeScaleTip>この難易度では{0}ずつ襲撃が増大していきます</ChallengeScaleTip>
-<ChallengeScale_BuilderMode>創造者モード</ChallengeScale_BuilderMode>
-<ChallengeScale_Casual>易しい</ChallengeScale_Casual>
-<ChallengeScale_Rough>危険はある</ChallengeScale_Rough>
-<ChallengeScale_Challenge>挑戦しがいのある</ChallengeScale_Challenge>
-<ChallengeScale_SeriousChallegne>難しい</ChallengeScale_SeriousChallegne>
-<ChallengeScale_ExtremeChallenge>超難問</ChallengeScale_ExtremeChallenge>
-
-
-
-
-
-
-
+  <Difficulty>難易度</Difficulty>
 
 
 
@@ -114,7 +100,6 @@
 <Backstory>生い立ち</Backstory>
 <IncapableOf>苦手・欠点</IncapableOf>
 <Traits>才能・性格</Traits>
-<TraitsDoNothing>特技・性格は、 まだ開発中で、 ほとんど何も ありません。 今のところは 楽しい ストーリービットです。 将来の バージョンで 機能を 搭載します。</TraitsDoNothing>
 <PermanentMoodEffect>ひとがら</PermanentMoodEffect>
 <Skills>スキル</Skills>
 <NoneLower>なし</NoneLower>

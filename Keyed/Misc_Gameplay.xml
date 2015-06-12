@@ -33,14 +33,18 @@
   <Inventory>アイテム一覧</Inventory>
   <ThingInfo>情報</ThingInfo>
   <DropThing>はずす</DropThing>
+  <Rename>命名</Rename>
   <RenameColonist>入植者の命名</RenameColonist>
   <UnknownLower>unknown</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
-  <AreaLower>エリア</AreaLower>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
   <BrokenLetterLabel>Broken</BrokenLetterLabel>
+  <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
+  <NoAreaAllowed>無制限</NoAreaAllowed>
+  <NewArea>新しいエリア</NewArea>
+  <InvertArea>反転</InvertArea>
 
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
@@ -66,6 +70,14 @@
   <ReportHauling>{0}を 運搬中</ReportHauling>
   <ReportSleeping>就寝中</ReportSleeping>
   <ReportResting>休憩中</ReportResting>
+  <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
+  <CloudWatching>流れる雲を眺めている</CloudWatching>
+  <WatchingSunset>陽が沈むのを眺めている</WatchingSunset>
+  <Stargazing>星の瞬きを眺めている</Stargazing>
+  <WatchingEclipse>月の満ち欠けを眺めている</WatchingEclipse>
+  <DeliveringFood>{0} に食料を届ける</DeliveringFood>
+  <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <AreaLower>エリア</AreaLower>
 
 	<!-- Shooting report -->
 <WeaponMissRadius>攻撃角度</WeaponMissRadius>
@@ -179,6 +191,7 @@
 	<DumpingStockpile>廃棄ゾーン</DumpingStockpile>
 	<Priority>使用優先度</Priority>
     <ClearAll>Clear all</ClearAll>
+  <AllowAll>Allow all</AllowAll>
 
   <!-- ThingFilter -->
 	<HitPoints>HP : {0}</HitPoints>
@@ -270,10 +283,5 @@
   <LifespanExpiry>Expires in:</LifespanExpiry>
 
   <!-- JobDriver reports -->
-  <WatchingSunrise>陽が昇るのを見ている</WatchingSunrise>
-  <CloudWatching>雲が流れるのを眺めている</CloudWatching>
-  <WatchingSunset>陽が沈むのを眺めていいる</WatchingSunset>
-  <Stargazing>星の瞬きを見ている</Stargazing>
-  <WatchingEclipse>月の満ち欠けを見ている</WatchingEclipse>
 
 </LanguageData>

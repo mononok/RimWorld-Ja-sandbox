@@ -4,6 +4,7 @@
 
 
 <CallOnRadio>{0} 呼び出し</CallOnRadio>
+  <CannotUseReason>使用できません ({0})</CannotUseReason>
 <CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
 <CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
 <CannotUseNoPath>使用できません （パスがない）</CannotUseNoPath>
@@ -29,6 +30,7 @@
 <NoEmptyPlaceLower>備蓄する 空き場所が ない</NoEmptyPlaceLower>
 <AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
 <MissingMaterials>資材が ない</MissingMaterials>
+  <MissingSkill>スキルが低すぎる</MissingSkill>
 
 
   <ConsumeThing>{0} は 尽きた</ConsumeThing>
@@ -37,8 +39,9 @@
 <CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>
 <GoHere>ここに移動</GoHere>
 
-<Arrest>{0} を 誘拐</Arrest>
-<CannotArrest>誘拐 できません</CannotArrest>
+<Arrest>{0} を 逮捕</Arrest>
+  <TryToArrest>{0} の逮捕を試みる</TryToArrest>
+<CannotArrest>逮捕 できません</CannotArrest>
 
 <Capture>{0} を 捕獲</Capture>
 <CannotCapture>捕獲 できません</CannotCapture>
@@ -49,27 +52,28 @@
   <CarryToCryptosleepCasket>冬眠カプセル に {0} を運ぶ</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>冬眠カプセル に 運べません</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>cryptosleep casket は無い</NoCryptosleepCasket>
+  <NoCryptosleepCasket>冬眠カプセルが無い</NoCryptosleepCasket>
 <NoPrisonerBed>石壁・メタル壁で 囲った 囚人用 ベッドが ありません。</NoPrisonerBed>
 <NoNonPrisonerBed>利用可能な 入植者用 ベッドが ありません</NoNonPrisonerBed>
 <Reserved>他の誰かが 使用しています。</Reserved>
 <ReservedBy>{0} が 使用中です。</ReservedBy>
 <IsReservedBy>{0} は {1} が 使用しています。</IsReservedBy>
 
-  <NoManipulationSkill>操作不能</NoManipulationSkill>
+  <Incapable>能力が無い</Incapable>
+  <IncapableOfCapacity>{0} をする能力が無い</IncapableOfCapacity>
 
 <Equip>{0} を 装備</Equip>
-  <EquipWarningBrawler>(殴り合いは 不幸になります)</EquipWarningBrawler>
+  <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
 <CannotEquip>{0} を 装備できません</CannotEquip>
 
-<Wear>{0} を 着る</Wear>
+  <ForceWear>{0} に無理矢理着替えさせる</ForceWear>
 <CannotWear>{0} を 着用 できません</CannotWear>
 
 <Strip>{0} を 脱ぐ</Strip>
 <CannotStrip>{0} を 脱げません</CannotStrip>
 
-<Deposit>{0} を {1} に 渡す</Deposit>
-<CannotDeposit>{1} に {0} を 渡せません</CannotDeposit>
+<Deposit>{0} を {1} に 預ける</Deposit>
+<CannotDeposit>{1} に {0} を 預けられません</CannotDeposit>
 
   <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
@@ -89,7 +93,7 @@
 <CannotGenericWork>{1} を {0} できません</CannotGenericWork>
 
 <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>それは優先できない (急用: {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>優先できません ({0} の能力が無い)</CannotMissingHealthActivities>
 
 <CannotGenericAlreadyAm> {1} は すでに {0} です</CannotGenericAlreadyAm>
 

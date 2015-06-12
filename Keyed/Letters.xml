@@ -41,10 +41,15 @@
 
   <StruckMineable>We have struck {0}!</StruckMineable>
 
-
   <LetterLabelAnimalBerserkFromDamage>手負いの{0}</LetterLabelAnimalBerserkFromDamage>
-  <AnimalBerserkFromDamage>{0}は手負いの獣になった</AnimalBerserkFromDamage>  
-  
+  <AnimalBerserkFromDamage>{0}は手負いの獣になった</AnimalBerserkFromDamage>
+
+  <LetterFriendlyTrapSprungLabel>{0} 罠にひかっかった</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} は不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} has developed {1} as a complication of {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>吉報</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>悪報</LetterLabelRelationsChangeBad>

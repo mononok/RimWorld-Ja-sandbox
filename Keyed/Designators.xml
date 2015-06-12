@@ -38,23 +38,20 @@
 <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
 
-<DesignatorHomeRegionAdd>村のゾーンを 指定</DesignatorHomeRegionAdd>
-<DesignatorHomeRegionAddDesc>入植者は 村のゾーン内の 建物を修理し、 掃除します。 火災がおきた時は 村のゾーンのみ 消火します。</DesignatorHomeRegionAddDesc>
+  <DesignatorAreaHomeExpand>村のゾーンを指定</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>入植者は 村のゾーン内の 建物を修理し、 掃除します。 火災がおきた時は 村のゾーンのみ 消火します。</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>村のゾーンを 取り消す</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
 
-<DesignatorHomeRegionRemove>村のゾーンを 取り消す</DesignatorHomeRegionRemove>
-<DesignatorHomeRegionRemoveDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorHomeRegionRemoveDesc>
+  <DesignatorAreaNoRoofExpand>屋根の 取り外し</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします。</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>屋根の 取り外しを 撤回</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
-<DesignatorRegionNoRoofAdd>屋根の 取り外し</DesignatorRegionNoRoofAdd>
-<DesignatorRegionNoRoofAddDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします。</DesignatorRegionNoRoofAddDesc>
-
-<DesignatorRegionNoRoofRemove>屋根の 取り外しを 撤回</DesignatorRegionNoRoofRemove>
-<DesignatorRegionNoRoofRemoveDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorRegionNoRoofRemoveDesc>
-
-<DesignatorRegionSnowClearAdd>除雪を指定</DesignatorRegionSnowClearAdd>
-<DesignatorRegionSnowClearAddDesc>入植者が雪かきする場所を指定します</DesignatorRegionSnowClearAddDesc>
-
-<DesignatorRegionSnowClearRemove>除雪を取り消す</DesignatorRegionSnowClearRemove>
-<DesignatorRegionSnowClearRemoveDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません</DesignatorRegionSnowClearRemoveDesc>
+  <DesignatorAreaSnowClearExpand>除雪を指定</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>除雪を取り消す</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません</DesignatorAreaSnowClearClearDesc>
 
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 
@@ -62,12 +59,26 @@
 
 <DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 指定します。\nこのツールで、 ゴミ捨て場を 拡大し 捨てるゴミの 量を 増やすことが できます。</DesignatorZoneCreateStorageDumpingDesc>
 
-
 <DesignatorZoneDelete>ゾーンを削除する</DesignatorZoneDelete>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>領有を主張</DesignatorClaim>
   <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>床を剥がして地面を出します</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>剥ぐ</DesignatorStrip>
+  <DesignatorStripDesc>死体やけが人の衣類を剥がします</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます</DesignatorRearmTrapDesc>
+
+  <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>作業ゾーンを 取り消す</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
+  <ManageAreaAlloweds>作業ゾーンの管理</ManageAreaAlloweds>
 
 
   <!-- Failure messages -->
@@ -80,10 +91,12 @@
 <InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
 <WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
 <TerrainIsAlready>この場所は、 すでに {0} です。</TerrainIsAlready>
+  <TerrainBeingSmoothed>既に地面を平すように指示されています</TerrainBeingSmoothed>
 <IdenticalThingExists>すでに 同じものが あります。</IdenticalThingExists>
 <IdenticalBlueprintExists>すでに 同じものを 指定しています。</IdenticalBlueprintExists>
 <TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
 <SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
 
 
 

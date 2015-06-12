@@ -16,7 +16,7 @@
 <MessageFriendlyFightersLeaving>優しい {1} 所属の {0} は 離れていきました。</MessageFriendlyFightersLeaving>
 
   <MessageVisitorsTakingWounded>{0} は {1} のけが人をゲストとして迎えました</MessageVisitorsTakingWounded>
-  
+
   <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
 
 <MessageSeasonBegun>{0} の 季節が始まった</MessageSeasonBegun>
@@ -56,9 +56,12 @@
 <MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
 <MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
 <MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください</MessageMustDesignateStrippable>
 
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した</MessageRefusedArrest>
-  
+
 <MessageNoMedicalBeds>医療用ベッドが無い</MessageNoMedicalBeds>
 
 <PawnDiedBecauseOf>{1} によって、{0} は命を落とした.</PawnDiedBecauseOf>
@@ -69,5 +72,9 @@
 
   <MessageMedicalOperationFailureCatastrophic>{0} は {1} の手術中に 致命的なミスをおかした.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} は {1} の手術中に 些細なミスをした.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>この手術は、{0} を怒らせるだろう</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
 
 </LanguageData>

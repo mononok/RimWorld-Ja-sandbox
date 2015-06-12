@@ -16,6 +16,10 @@
 <SavedAs>{0}という 名前で 保存します。</SavedAs>
 <NeedAName>名前を 入力してください。</NeedAName>
 <LoadingLongEvent>データロード中です…</LoadingLongEvent>
+  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です\n\nセーブデータは全く違うバージョン {1} で作成されました\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です\n\nセーブデータは違うバージョン {1} で作成されました\n\nセーブデータは動作します</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう</SaveIsUnknownFormat>
 
 
 <!-- Colony naming-->
@@ -34,7 +38,8 @@
   <VersionMismatch>バージョンの不一致</VersionMismatch>
   <SaveGameIncompatibleWarningText>バージョンの不一致： マップは以前のバージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\n古いバージョンの ロードは バグや クラッシュの 原因となります。</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので、新規にいちから世界を作る事を強く勧めます。</WorldFileVersionMismatch>
-
+  <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
 
 <!-- Resolution change dialog -->
 <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
@@ -99,6 +104,7 @@
 <Accuracy>命中度</Accuracy>
 <BurstShotCount>一回の弾数</BurstShotCount>
 <WarmupTime>準備時間</WarmupTime>
+  <MeleeWarmupTime>構える時間</MeleeWarmupTime>
 <CooldownTime>排出時間</CooldownTime>
 <BurstShotFireRate>Fire rate</BurstShotFireRate>
 <Range>射程</Range>

@@ -9,32 +9,20 @@
 	<LetterLabelCropBlight>疫病</LetterLabelCropBlight>
 	<CropBlight>謎の疫病で 農作物が 根こそぎ 枯れました。</CropBlight>
 
-	<LetterLabelEclipseIncident>日食</LetterLabelEclipseIncident>
-	<EclipseIncident>この惑星の 衛星の一つが 太陽に 覆い かぶさろうと しています。 日食の 始まりです。</EclipseIncident>
-
 	<LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>
 	<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
 
 <!-- Enemy raids -->
-  <LetterLabelEnemyRaid>レイド</LetterLabelEnemyRaid>
-  <LetterLabelSiege>シージ</LetterLabelSiege>
 <EnemyRaidWalkIn>{1} 部族の {0} グループが 接近して います。</EnemyRaidWalkIn>
 <EnemyRaidEdgeDrop>{1} 部族の {0} グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
 <EnemyRaidCenterDrop>{1} 部族の {0} グループが、 村めがけて 着陸します！</EnemyRaidCenterDrop>
-<EnemyRaidStageThenAttack>彼らは 攻撃の準備し 足並みを そろえようと  しています。\n\n防御をかためるか、 先制攻撃 しましょう。</EnemyRaidStageThenAttack>
-<EnemyRaidImmediateAttack>彼らは すぐに 攻撃を はじめます。</EnemyRaidImmediateAttack>
-<EnemyRaidBesiege>どうやら 彼らは 村を包囲する 作戦の ようです。</EnemyRaidBesiege>
 
 <!-- Friendly raids -->
-  <LetterLabelFriendlyRaid>友軍</LetterLabelFriendlyRaid>
 <FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
 <FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
 <FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
-<FriendlyRaidStageThenAttack>彼らは あなたを助けるため 足並みを そろえようと しています。</FriendlyRaidStageThenAttack>
-<FriendlyRaidImmediateAttack>彼らは すぐに 敵を 攻撃します。</FriendlyRaidImmediateAttack>
-<FriendlyRaidBesiege>彼らは あなたを 助けるため 包囲戦術を 用いたようです。</FriendlyRaidBesiege>
 
-  <LetterLabelRefugeePodCrash>けが人</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
 <RefugeePodCrash>この近くで 脱出ポットが 地面に 激突したのを 発見しました。\n\nあの衝撃では きっと  ひどく傷ついて いるでしょう。</RefugeePodCrash>
 
   <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
@@ -44,17 +32,6 @@
 <ShortCircuit>{0} が 故障し、 ショートしました。\n\n{1} Wd もの 電気が 放出され 爆発しました。</ShortCircuit>
 <ShortCircuitWasLarge>放出された とても多くの電気が 、 かなり大きな 爆発を 引き起こしました。</ShortCircuitWasLarge>
 <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です。</ShortCircuitWasHuge>
-
-  <LetterLabelSolarFlare>フレア</LetterLabelSolarFlare>
-<LetterSolarFlare>太陽フレアが はじまりました。\n\n強力な 電磁波が すべての 電気機器を シャットダウン します。\n\nこれは 数日間 つづきます。</LetterSolarFlare>
-
-<LetterHeatWave>異常な熱波が 始まりました。この熱波には気をつけてください</LetterHeatWave>
-  <LetterLabelHeatWave>熱波</LetterLabelHeatWave>
-<HeatWaveOver>熱波は収まりました</HeatWaveOver>
-
-<LetterColdSnap>異常な寒波が始まりました。低体温症や、作物の生育不良に気をつけてください</LetterColdSnap>
-  <LetterLabelColdSnap>寒波</LetterLabelColdSnap>
-<ColdSnapOver>寒波は収まりました</ColdSnapOver>
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
 
@@ -69,7 +46,6 @@
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>{0} という名前の NAME が 到着し 村の 仲間に くわわりました。 HECAP は {1} です。</WandererJoin>
-
 
 <!-- Crashed ship part-->
   <LetterLabelSpaceshipPartCrash>邪悪</LetterLabelSpaceshipPartCrash>
@@ -91,10 +67,21 @@
 
 <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
-<LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の 気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
+<LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>{0} 入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある幸福エンジンが起こしているのでしょう。 それは この一帯を 強力な サイコドローンで投射していますが、{0}にだけしか効果がないようです。数日のうちに 入植者の気分は 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
 
 <!-- Beavers -->
   <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
 <BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません</BeaversArrived>
+
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+
+
 
 </LanguageData>

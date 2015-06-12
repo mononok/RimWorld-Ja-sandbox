@@ -80,17 +80,18 @@
 <NeedDump>ガレキを捨てる</NeedDump>
 <NeedDumpDesc>入植者は 岩をどかせたいと 考えていますが、 どこに どけるか 悩んでいます。\n\n備蓄ゾーンを 選択して 岩の許可を 設定します。</NeedDumpDesc>
 
-<NeedGrave>死体の処分</NeedGrave>
-<NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 廃棄ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
+  <!-- Removed
+  <NeedGrave>死体の処分</NeedGrave>
+  <NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 廃棄ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
+  -->
 
 <ColonistsIdle>入植者 {0} 人に仕事を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
 
-<MedicalBedLacksHeadspace>医療用ベッドが使えません</MedicalBedLacksHeadspace>
-<MedicalBedLacksHeadspaceDesc>医療用ベッドは、医者が患者を診察するのに十分なスペースがある場所に配置しなければなりません、使用可能であるためには、ベッドの頭側に医者が立てるスペースが必要です</MedicalBedLacksHeadspaceDesc>
-
-<HaltedConstructions>資材が {0} 不足</HaltedConstructions>
-<HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
+  <!-- Removed
+  <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
+  <HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
+  -->
 
   <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>

@@ -48,10 +48,8 @@
 <TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
 <AreYouSure>本当に よろしいですか？</AreYouSure>
 
-
-
-<CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
 <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
+<CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
 
 <CommandRenameZoneDesc>このゾーンの 名前を 変更します。</CommandRenameZoneDesc>
 <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
@@ -63,6 +61,14 @@
 <CommandDeleteZoneDesc>ゾーンを 削除します。</CommandDeleteZoneDesc>
 <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
 
+  <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。設定を別のゾーンにペーストすることが出来るようになります</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>コピーされてあるゾーンの設定を、このゾーンにペーストします</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>伐採の許可</CommandAllowSow>
+  <CommandAllowSowDesc>不許可なら、入植者はこのゾーンの植物を伐採しなくなります。作物の収穫は従来通り行われます</CommandAllowSowDesc>
 
 <!-- Artillery -->
 <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
@@ -87,8 +93,11 @@
 <CommandPodEjectFailEmpty>中には 誰も いませんでした。</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorLock>施錠</CommandToggleDoorLock>
-  <CommandToggleDoorLockDesc>鍵を持っていないと 開ける事は できなくなる</CommandToggleDoorLockDesc>
+  <CommandToggleDoorForbid>立入禁止</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります</CommandToggleDoorHoldOpenDesc>
+
 
   <!-- Temperature control -->
   <CommandResetTemp>リセット</CommandResetTemp>
@@ -107,5 +116,9 @@
   <!-- Sun lamp -->
   <CommandSunLampMakeGrowingZoneDesc>太陽灯が照らす範囲に合うように、農業ゾーンを作成し配置します</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>農業ゾーンを作成し配置する</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>自動再装填</CommandAutoRearm>
+  <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます</CommandAutoRearmDesc>
 
 </LanguageData>

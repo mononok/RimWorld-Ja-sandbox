@@ -1,9 +1,9 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:11.00
+Ver:11.02
 Original: alpha11
-Description: Error,Warningを除去した
-ToDo: 11にて追加された部分を翻訳する
+Description: Keyed/DefInjectedを追加
+ToDo:
 Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 
 ============

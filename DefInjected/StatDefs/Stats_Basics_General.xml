@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<MaxHitPoints.label>最大HP</MaxHitPoints.label>
+	<MaxHitPoints.description>最大HP、破壊するまでに必要なダメージ</MaxHitPoints.description>
+
     <MarketValue.label>金額</MarketValue.label>
     <MarketValue.description>市場価格を表します。 実際の値段は 売買するお互いの関係性や 交渉スキルでさらに変動します</MarketValue.description>
 
@@ -18,5 +21,8 @@
 
     <Beauty.label>美しさ</Beauty.label>
     <Beauty.description>どのくらい それを見た周りの心情を 豊かにするかを表します</Beauty.description>
+
+	<Comfort.label>快適さ</Comfort.label>
+	<Comfort.description>どのくらい 快適な暮らしにするかを表します</Comfort.description>
 
 </LanguageData>

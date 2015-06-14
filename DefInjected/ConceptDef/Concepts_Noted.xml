@@ -42,13 +42,17 @@
 	</rep>
 
 	<rep>
+		<path>Mining.helpTexts[0]</path>
+		<trans>アーキテクトメニューの命令タブから、採掘作業を割り当てます。\n\n鉄、金、Plasteel他、有用な金属を産出します </trans>
+	</rep>
+
+	<rep>
 		<path>OpeningComms.helpTexts[0]</path>
 		<trans>通信させるには、入植者をクリックした後に、通信機を右クリックします </trans>
 	</rep>
 
 	<rep>
-		<path>Mining.helpTexts[0]</path>
-		<trans>アーキテクトメニューの命令タブから、採掘作業を割り当てます。\n\n鉄、金、Plasteel他、有用な金属を産出します </trans>
+		<path>Deterioration.helpTexts[0]</path>
+		<trans>アイテムを野外に放置しておくと劣化します。\n\nアイテムを長期間に渡って保管したいときは、屋根のある場所を選びます</trans>
 	</rep>
-
 </LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Psychic drone -->
+	<rep>
+		<path>FeelingRandom.stages[0].label</path>
+		<trans>気分は最高</trans>
+	</rep>
+	<rep>
+		<path>FeelingRandom.stages[0].description</path>
+		<trans>はっきりした理由もないのに、気分は最高だ</trans>
+	</rep>
+
+	<rep>
+		<path>FeelingRandom.stages[1].label</path>
+		<trans>気分は上々</trans>
+	</rep>
+	<rep>
+		<path>FeelingRandom.stages[1].description</path>
+		<trans>はっきりした理由もないのに、気分は上々だ</trans>
+	</rep>
+
+	<rep>
+		<path>FeelingRandom.stages[2].label</path>
+		<trans>気分は沈みがち</trans>
+	</rep>
+	<rep>
+		<path>FeelingRandom.stages[2].description</path>
+		<trans>はっきりした理由もないのに、気分が沈む</trans>
+	</rep>
+
+	<rep>
+		<path>FeelingRandom.stages[3].label</path>
+		<trans>気分はどん底</trans>
+	</rep>
+	<rep>
+		<path>FeelingRandom.stages[3].description</path>
+		<trans>はっきりした理由もないのに、気分がどん底</trans>
+	</rep>
+
+</LanguageData>

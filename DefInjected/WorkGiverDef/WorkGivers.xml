@@ -39,6 +39,12 @@
 
   <!-- ============= Hauling ============= -->
 
+	<RearmTraps.verb>仕掛ける</RearmTraps.verb>
+	<RearmTraps.gerund>設置</RearmTraps.gerund>
+
+	<Strip.verb>剥がす</Strip.verb>
+	<Strip.gerund>剥ぐ</Strip.gerund>
+
 	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
     <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>
 
@@ -50,11 +56,11 @@
 
   <!-- ============= Growing ============= -->
 
-	<GrowerSow.verb>種をまき</GrowerSow.verb>
-    <GrowerSow.gerund>種まき</GrowerSow.gerund>
-
 	<GrowerHarvest.verb>収穫する</GrowerHarvest.verb>
     <GrowerHarvest.gerund>収穫</GrowerHarvest.gerund>
+
+	<GrowerSow.verb>種をまく</GrowerSow.verb>
+    <GrowerSow.gerund>種まき</GrowerSow.gerund>
 
   <!-- ============= Repair ============= -->
 
@@ -113,32 +119,39 @@
 
   <!-- ============= Crafting - art - sculpture ============= -->
 
-	<FinishUnfinishedSculptures.verb>FinishUnfinishedSculptures</FinishUnfinishedSculptures.verb>
-	<FinishUnfinishedSculptures.gerund>FinishUnfinishedSculptures</FinishUnfinishedSculptures.gerund>
+	<FinishUnfinishedSculptures.verb>彫刻する</FinishUnfinishedSculptures.verb>
+	<FinishUnfinishedSculptures.gerund>彫刻</FinishUnfinishedSculptures.gerund>
 
-	<DoBillsSculpt.verb>彫刻</DoBillsSculpt.verb>
+	<DoBillsSculpt.verb>彫刻する</DoBillsSculpt.verb>
 	<DoBillsSculpt.gerund>彫刻</DoBillsSculpt.gerund>
 
   <!-- ============= Crafting - weapons ============= -->
 
-	<FinishUnfinishedWeapons.verb>FinishUnfinishedWeapons</FinishUnfinishedWeapons.verb>
-	<FinishUnfinishedWeapons.gerund>FinishUnfinishedWeapons</FinishUnfinishedWeapons.gerund>
+	<FinishUnfinishedWeapons.verb>組み立てる</FinishUnfinishedWeapons.verb>
+	<FinishUnfinishedWeapons.gerund>組立</FinishUnfinishedWeapons.gerund>
 
-	<DoBillsMakeWeapons.verb>DoBillsMakeWeapons</DoBillsMakeWeapons.verb>
-	<DoBillsMakeWeapons.gerund>DoBillsMakeWeapons</DoBillsMakeWeapons.gerund>
+	<DoBillsMakeWeapons.verb>組み立てる</DoBillsMakeWeapons.verb>
+	<DoBillsMakeWeapons.gerund>組立</DoBillsMakeWeapons.gerund>
 
   <!-- ============= Crafting - apparel ============= -->
 
-	<FinishUnfinishedApparel.verb>FinishUnfinishedApparel</FinishUnfinishedApparel.verb>
-	<FinishUnfinishedApparel.gerund>FinishUnfinishedApparel</FinishUnfinishedApparel.gerund>
+	<FinishUnfinishedApparel.verb>仕立てる</FinishUnfinishedApparel.verb>
+	<FinishUnfinishedApparel.gerund>仕立て</FinishUnfinishedApparel.gerund>
 
-	<DoBillsMakeApparel.verb>DoBillsMakeApparel</DoBillsMakeApparel.verb>
-	<DoBillsMakeApparel.gerund>DoBillsMakeApparel</DoBillsMakeApparel.gerund>
+	<DoBillsMakeApparel.verb>仕立てるDoBillsMakeApparel</DoBillsMakeApparel.verb>
+	<DoBillsMakeApparel.gerund>仕立て</DoBillsMakeApparel.gerund>
 
   <!-- ============= Crafting - misc ============= -->
 
-	<DoBillsStonecut.verb>石切</DoBillsStonecut.verb>
+	<DoBillsStonecut.verb>石切る</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>石切</DoBillsStonecut.gerund>
+
+	<DoBillsSmelter.verb>精錬する</DoBillsSmelter.verb>
+	<DoBillsSmelter.gerund>精錬</DoBillsSmelter.gerund>
+
+	<DoBillsMachiningTable.verb>作業する</DoBillsMachiningTable.verb>
+	<DoBillsMachiningTable.gerund>作業</DoBillsMachiningTable.gerund>
+
 <!--
 	<DoBillsSlagRefining.verb>精錬</DoBillsSlagRefining.verb>
     <DoBillsSlagRefining.gerund>精錬</DoBillsSlagRefining.gerund>

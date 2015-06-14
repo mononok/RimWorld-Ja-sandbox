@@ -1,21 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-        <Sandbags.label>土嚢</Sandbags.label>
-        <Sandbags.description>銃撃から身を隠せます</Sandbags.description>
+    <Sandbags.label>土嚢</Sandbags.label>
+    <Sandbags.description>銃撃から身を隠せます</Sandbags.description>
 
-		<!--=============== Improvised turret ===============-->
- 		<TurretGun.label>タレット</TurretGun.label>
-        <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
+	<!--=============== Improvised turret ===============-->
+		<TurretGun.label>タレット</TurretGun.label>
+    <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
 
-		<!--=============== Mortar turret ===============-->
-		<Turret_MortarIncendiary.label>迫撃砲(焼夷弾)</Turret_MortarIncendiary.label>
-        <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できる、ダメージを受けると爆発します</Turret_MortarIncendiary.description>
+	<!--=============== Mortar turret ===============-->
+	<Turret_MortarBomb.label>迫撃砲(溜弾)</Turret_MortarBomb.label>
+    <Turret_MortarBomb.description>手動でのみ溜弾を投射できる、ダメージを受けると爆発します</Turret_MortarBomb.description>
 
-		<Turret_MortarBomb.label>迫撃砲(溜弾)</Turret_MortarBomb.label>
-        <Turret_MortarBomb.description>手動でのみ溜弾を投射できる、ダメージを受けると爆発します</Turret_MortarBomb.description>
+	<Turret_MortarIncendiary.label>迫撃砲(焼夷弾)</Turret_MortarIncendiary.label>
+    <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できる、ダメージを受けると爆発します</Turret_MortarIncendiary.description>
 
-		<Turret_MortarEMP.label>迫撃砲(EMP)</Turret_MortarEMP.label>
-        <Turret_MortarEMP.description>手動でのみEMP弾を投射できる、ダメージを受けると爆発します</Turret_MortarEMP.description>
+	<Turret_MortarEMP.label>迫撃砲(EMP)</Turret_MortarEMP.label>
+    <Turret_MortarEMP.description>手動でのみEMP弾を投射できる、ダメージを受けると爆発します</Turret_MortarEMP.description>
+
+	<TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
+	<TrapDeadfall.description>繊細な引き金によって留められた、吊された重し。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってくる</TrapDeadfall.description>
+
+	<TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
+	<TrapIEDBomb.description>自家製の引き金をつけた溜弾。犠牲者となる者が引き金に触れた時、炸裂する。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります</TrapIEDBomb.description>
+
+	<TrapIEDIncendiary.label>IED 焼夷トラップ</TrapIEDIncendiary.label>
+	<TrapIEDIncendiary.description>燃焼性のペーストを混ぜ込んだ、化学反応を起こす引き金をつけた爆発物。犠牲者となる者が引き金に触れた時、火がついて燃えさかった燃料をまき散らす。爆発性の高い素材を使う必要がないうえに、化学反応で着火したほうが単純で信頼性がある</TrapIEDIncendiary.description>
 
 </LanguageData>

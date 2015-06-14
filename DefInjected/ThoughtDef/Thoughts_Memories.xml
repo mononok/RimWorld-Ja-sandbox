@@ -168,16 +168,16 @@
     <trans>これは俺の血だ！、撃たれた、撃たれた</trans>
   </rep>
 
-	<!-->
-	<ObservedGibbetCageEmpty.label>看?空?刑?</ObservedGibbetCageEmpty.label>
-	<ObservedGibbetCageEmpty.description>?些?刑?看起来如此残酷。</ObservedGibbetCageEmpty.description>
+	<!--
+	<ObservedGibbetCageEmpty.label></ObservedGibbetCageEmpty.label>
+	<ObservedGibbetCageEmpty.description></ObservedGibbetCageEmpty.description>
 
-	<ObservedGibbetCageFullStranger.label>看?装有陌生人的?刑?</ObservedGibbetCageFullStranger.label>
-	<ObservedGibbetCageFullStranger.description>我看?一个陌生人的尸体在?刑?里，?真是一个残酷的地方。</ObservedGibbetCageFullStranger.description>
+	<ObservedGibbetCageFullStranger.label></ObservedGibbetCageFullStranger.label>
+	<ObservedGibbetCageFullStranger.description></ObservedGibbetCageFullStranger.description>
 
-	<ObservedGibbetCageFullColonist.label>看?装有殖民者的?刑?</ObservedGibbetCageFullColonist.label>
-	<ObservedGibbetCageFullColonist.description>我看?一个自己人的尸体?在?刑?里，我以前?和他???。??直太可怕了。</ObservedGibbetCageFullColonist.description>
-	<-->
+	<ObservedGibbetCageFullColonist.label></ObservedGibbetCageFullColonist.label>
+	<ObservedGibbetCageFullColonist.description></ObservedGibbetCageFullColonist.description>
+	-->
 
   <rep>
     <path>NewColonyOptimism.stages[0].label</path>
@@ -271,11 +271,11 @@
 
   <rep>
     <path>WasImprisoned.stages[0].label</path>
-    <trans>Wurde eingesperrt</trans>
+    <trans>監禁された</trans>
   </rep>
   <rep>
     <path>WasImprisoned.stages[0].description</path>
-    <trans>Die Kolonie hat mich eine Weile eingesperrt, als war' ich ein wildes Tier.</trans>
+    <trans>このコロニーは少しの間、私を檻の中の獣のように監禁した</trans>
   </rep>
 
   <rep>

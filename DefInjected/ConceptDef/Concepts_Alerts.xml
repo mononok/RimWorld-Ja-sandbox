@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!-- Start-active concepts -->
+
 	<Forbidding.label>無視 </Forbidding.label>
 	<rep>
 		<path>Forbidding.helpTexts[0]</path>
@@ -68,13 +70,13 @@
 		<path>MedicalOperations.helpTexts[0]</path>
 		<trans>臓器移植や、義体化を行うには、入植者の健康タブを開いて、[Operations]から[新しい加工]ボタンを押します</trans>
 	</rep>
-<!--
-	<HomeRegion.label>村のゾーン</HomeRegion.label>
+
+	<HomeArea.label>村のゾーン</HomeArea.label>
 	<rep>
-		<path>HomeRegion.helpTexts[0]</path>
+		<path>HomeArea.helpTexts[0]</path>
 		<trans>村のゾーンとは、入植者が清掃や消火活動を行う範囲の事です\n\nアーキテクトメニューのゾーンから、村のゾーンを指定します</trans>
 	</rep>
--->
+
 	<RightClickClearLetter.label>メールの既読</RightClickClearLetter.label>
 	<rep>
 		<path>RightClickClearLetter.helpTexts[0]</path>
@@ -104,6 +106,12 @@
 	<rep>
 		<path>StoragePriority.helpTexts[0]</path>
 		<trans>備蓄ゾーン毎に優先度を指定できます。入植者はより優先度の高い備蓄ゾーンに蓄えます</trans>
+	</rep>
+
+	<HistoryTab.label>歴史</HistoryTab.label>
+	<rep>
+		<path>HistoryTab.helpTexts[0]</path>
+		<trans>HISTORY タブの OVERVIEW ウインドウから、あなたのコロニーの記録された歴史を見ることが出来ます</trans>
 	</rep>
 
 </LanguageData>

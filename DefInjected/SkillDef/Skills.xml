@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Construction.skillLabel>建築</Construction.skillLabel>
-    <Construction.pawnLabel>建築家</Construction.pawnLabel>
-
-    <Growing.skillLabel>栽培</Growing.skillLabel>
-    <Growing.pawnLabel>栽培家</Growing.pawnLabel>
-
-    <Research.skillLabel>研究</Research.skillLabel>
-    <Research.pawnLabel>研究者</Research.pawnLabel>
-
-    <Mining.skillLabel>採掘</Mining.skillLabel>
-    <Mining.pawnLabel>採掘者</Mining.pawnLabel>
-
     <Shooting.skillLabel>射撃</Shooting.skillLabel>
     <Shooting.pawnLabel>射撃手</Shooting.pawnLabel>
 
@@ -22,16 +10,28 @@
     <Social.skillLabel>社交</Social.skillLabel>
     <Social.pawnLabel>社交家</Social.pawnLabel>
 
+    <Medicine.skillLabel>医学</Medicine.skillLabel>
+    <Medicine.pawnLabel>医者</Medicine.pawnLabel>
+
     <Cooking.skillLabel>料理</Cooking.skillLabel>
     <Cooking.pawnLabel>料理家</Cooking.pawnLabel>
 
-    <Medicine.skillLabel>医学</Medicine.skillLabel>
-    <Medicine.pawnLabel>医者</Medicine.pawnLabel>
+    <Construction.skillLabel>建築</Construction.skillLabel>
+    <Construction.pawnLabel>建築家</Construction.pawnLabel>
+
+    <Growing.skillLabel>栽培</Growing.skillLabel>
+    <Growing.pawnLabel>栽培家</Growing.pawnLabel>
+
+    <Mining.skillLabel>採掘</Mining.skillLabel>
+    <Mining.pawnLabel>採掘者</Mining.pawnLabel>
 
     <Artistic.skillLabel>芸術</Artistic.skillLabel>
     <Artistic.pawnLabel>芸術家</Artistic.pawnLabel>
 
     <Crafting.skillLabel>工芸</Crafting.skillLabel>
     <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
+
+    <Research.skillLabel>研究</Research.skillLabel>
+    <Research.pawnLabel>研究者</Research.pawnLabel>
 
 </LanguageData>

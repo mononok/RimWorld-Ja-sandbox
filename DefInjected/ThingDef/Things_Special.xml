@@ -1,8 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<RectTrigger.label> </RectTrigger.label>
+
 	<Puddle_Fuel.label>燃料</Puddle_Fuel.label>
 	<Puddle_Fuel.description>火気厳禁</Puddle_Fuel.description>
 
+	<DropPodIncoming.label>ドロップポッド(incoming)</DropPodIncoming.label>
+	<DropPod.label>ドロップポッド</DropPod.label>
+
+	<Fire.label>fire</Fire.label>
+
+	<Spark.label>Spark</Spark.label>
+
+  <!-- ======================= Unfinished things ========================= -->
+
+	<UnfinishedSculpture.label>未完成の彫刻</UnfinishedSculpture.label>
+
+	<UnfinishedWeapon.label>未完成の武器</UnfinishedWeapon.label>
+
+	<UnfinishedApparel.label>未完成の衣服</UnfinishedApparel.label>
+
+  <!-- ======================= Minified things ========================= -->
+
+	<MinifiedSculpture.label>彫刻</MinifiedSculpture.label>
+
+	<MinifiedFurniture.label>家具</MinifiedFurniture.label>
 
 </LanguageData>

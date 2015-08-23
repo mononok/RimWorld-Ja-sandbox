@@ -47,10 +47,10 @@
 
 	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
     <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>
-
+<!--
 	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
     <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
-
+-->
 	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
 
@@ -118,26 +118,26 @@
     <CookFillHopper.gerund>充填</CookFillHopper.gerund>
 
   <!-- ============= Crafting - art - sculpture ============= -->
-
+<!--
 	<FinishUnfinishedSculptures.verb>彫刻する</FinishUnfinishedSculptures.verb>
 	<FinishUnfinishedSculptures.gerund>彫刻</FinishUnfinishedSculptures.gerund>
-
+-->
 	<DoBillsSculpt.verb>彫刻する</DoBillsSculpt.verb>
 	<DoBillsSculpt.gerund>彫刻</DoBillsSculpt.gerund>
 
   <!-- ============= Crafting - weapons ============= -->
-
+<!--
 	<FinishUnfinishedWeapons.verb>組み立てる</FinishUnfinishedWeapons.verb>
 	<FinishUnfinishedWeapons.gerund>組立</FinishUnfinishedWeapons.gerund>
-
+-->
 	<DoBillsMakeWeapons.verb>組み立てる</DoBillsMakeWeapons.verb>
 	<DoBillsMakeWeapons.gerund>組立</DoBillsMakeWeapons.gerund>
 
   <!-- ============= Crafting - apparel ============= -->
-
+<!--
 	<FinishUnfinishedApparel.verb>仕立てる</FinishUnfinishedApparel.verb>
 	<FinishUnfinishedApparel.gerund>仕立て</FinishUnfinishedApparel.gerund>
-
+-->
 	<DoBillsMakeApparel.verb>仕立てるDoBillsMakeApparel</DoBillsMakeApparel.verb>
 	<DoBillsMakeApparel.gerund>仕立て</DoBillsMakeApparel.gerund>
 

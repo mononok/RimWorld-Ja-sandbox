@@ -22,7 +22,11 @@
 
   <!-- Special breaks-->
 
-	<PanicFlee.label>パニック</PanicFlee.label>
+  <ConfusedWander.label>途方に暮れて徘徊する</ConfusedWander.label>
+  <ConfusedWander.beginLetter>{0} は 途方に暮れて、辺りを徘徊しています</ConfusedWander.beginLetter>
+  <ConfusedWander.recoveryMessage>もう {0} は途方に暮れてはいません</ConfusedWander.recoveryMessage>
+  <ConfusedWander.inspectLine>精神崩壊：途方に暮れて徘徊</ConfusedWander.inspectLine>
+  <PanicFlee.label>パニック</PanicFlee.label>
 	<PanicFlee.beginLetter>{0}は 絶望し、 村から出ていきます。</PanicFlee.beginLetter>
 	<PanicFlee.recoveryMessage>もう {0} は逃げだそうとはしません</PanicFlee.recoveryMessage>
 	<PanicFlee.inspectLine>精神崩壊：パニックになり 逃走</PanicFlee.inspectLine>
@@ -30,7 +34,7 @@
 	<Manhunter.label>人間狩り</Manhunter.label>
 	<Manhunter.beginLetter>人間狩りを始めました</Manhunter.beginLetter>
 	<Manhunter.recoveryMessage>もう {0} は人間狩りをやめました</Manhunter.recoveryMessage>
-	<Manhunter.inspectLine>精神崩壊：人間狩り</Manhunter.inspectLine>
+	<Manhunter.inspectLine>狂気：人間狩り</Manhunter.inspectLine>
 
 	<GiveUpExit.label>心が折れた</GiveUpExit.label>
 	<GiveUpExit.beginLetter>{0}は 心が折れ、 うわのそらです</GiveUpExit.beginLetter>

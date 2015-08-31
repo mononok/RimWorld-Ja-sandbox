@@ -42,6 +42,11 @@
 	</rep>
 
 	<rep>
+		<path>AnimalTraining.helpTexts[0]</path>
+		<trans>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</trans>
+	</rep>
+
+	<rep>
 		<path>StorageTabCategories.helpTexts[0]</path>
 		<trans>備蓄ゾーンの保管タブから、カテゴリー別に保管するかしないかを選択できます。カテゴリーを開くには左端にある三角形をクリックします </trans>
 	</rep>
@@ -59,5 +64,10 @@
 	<rep>
 		<path>Deterioration.helpTexts[0]</path>
 		<trans>アイテムを野外に放置しておくと劣化します。\n\nアイテムを長期間に渡って保管したいときは、屋根のある場所を選びます</trans>
+	</rep>
+
+	<rep>
+		<path>InspectRoomStats.helpTexts[0]</path>
+		<trans>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</trans>
 	</rep>
 </LanguageData>

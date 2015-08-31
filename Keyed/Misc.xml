@@ -20,7 +20,6 @@
 <CompiledOn>Compiled {0}</CompiledOn>
 
 
-
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
@@ -48,6 +47,10 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <!-- To express ownership. -->
+  <!-- For example Jack's Bedroom -->
+  <SomeonesSomething>{0}'s {1}</SomeonesSomething>
+  
   <VariousLabel>(色々な)</VariousLabel>
 
 <!-- History events -->

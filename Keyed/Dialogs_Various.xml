@@ -7,6 +7,10 @@
 <GoBack>戻る</GoBack>
 <OK>[OK]</OK>
 
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
 <OverwriteButton>上書きする</OverwriteButton>
@@ -20,16 +24,17 @@
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です\n\nセーブデータは違うバージョン {1} で作成されました\n\nセーブデータは動作します</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう</SaveIsUnknownFormat>
-
+  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
 
 <!-- Colony naming-->
 <NameColonyMessage>誰もが こんな岩だらけの土地で 暮らしたくないことぐらい わかっています。 しかし、 とにかく 便宜の都合で この村に 名前を つけなければ いけません。\n\n{0}が提案しました。\nこの名前で よろしいですか？</NameColonyMessage>
 <ColonyGainsName>この村を {0} と 名付けました。</ColonyGainsName>
 <ColonyNameIsInvalid>それは 村の名前に ふさわしく ありません。</ColonyNameIsInvalid>
 
-<!-- Zone naming -->
-<ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
-<ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
+  <!-- Zone naming -->
+  <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
+  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
 
   <!-- Pawn naming -->
   <PawnGainsName>ニックネームを {0} 決めました</PawnGainsName>
@@ -45,9 +50,6 @@
 <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
 <ResolutionKeep>決定</ResolutionKeep>
 <ResolutionRevert>戻す</ResolutionRevert>
-
-<!-- Overview -->
-<OverviewOf>入植者 {0} 概要</OverviewOf>
 
 <!-- Research -->
 <Research>研究</Research>
@@ -88,6 +90,7 @@
   <WorkAmount>必要量</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>必要とする {0} {1}</BillRequires>
+  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
   <BillRequiresMayVary>(Counts may vary for item with nonstandard volumes, like gold.)</BillRequiresMayVary>
   <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/20 as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need 20x as much as usual.</ThisIsSmallVolume>
   <UsableIngredients>有効成分</UsableIngredients>
@@ -122,16 +125,18 @@
   <Joy>娯楽</Joy>
 <FoodQuality>食材タイプ</FoodQuality>
 <WalkSpeedProperty>移動速度</WalkSpeedProperty>
-<MeatAmount>食材にしたとき</MeatAmount>
 <MinFoodQuality>食べられる最低食材</MinFoodQuality>
 <Diet>食性</Diet>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>Covers</Covers>
   <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <MoodChange>Mood change</MoodChange>
+  <Wildness>Wildness</Wildness>
+  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
 
 <!-- Trade -->
-  <DragToTrade>Drag to trade</DragToTrade>
+  <DragToTrade>Drag number\nto trade</DragToTrade>
   <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
   <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
   <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
@@ -147,6 +152,7 @@
   <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
+  <SortBy>Sort by</SortBy>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>

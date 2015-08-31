@@ -17,7 +17,19 @@
   <Born>Born: {0} {1} {2}</Born>
   <AgeChronological>暦の上での年齢: {0} 年, {1} 月, {2} 日</AgeChronological>
   <AgeBiological>生物学的年齢: {0} 年, {1} 月, {2} 日</AgeBiological>
-
   <DaysHours>{0} 日, {1} 時</DaysHours>
 
+  <!-- Date periods -->
+  <Period1Month>1 month</Period1Month>
+  <PeriodMonths>{0} months</PeriodMonths>
+  <Period1Day>1 day</Period1Day>
+  <PeriodDays>{0} days</PeriodDays>
+  <Period1Hour>1 hour</Period1Hour>
+  <PeriodHours>{0} hours</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Started</Started>
+  <Lasted>Lasted</Lasted>
+  
+  
 </LanguageData>

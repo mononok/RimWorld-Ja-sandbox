@@ -26,9 +26,13 @@
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 
 
+    <!-- ==== Animal handlinkg ==== --><Slaughter.reportString>Slaughtering TargetA.</Slaughter.reportString>
+	<Milk.reportString>Milking TargetA.</Milk.reportString>
+	<Shear.reportString>Shearing TargetA.</Shear.reportString>
+	<Tame.reportString>Taming TargetA.</Tame.reportString>
+	<Train.reportString>Training TargetA.</Train.reportString>
 
-
-    <DeliverFood.reportString>TargetA から TargetB に給仕中</DeliverFood.reportString>
+	<DeliverFood.reportString>TargetA から TargetB に給仕中</DeliverFood.reportString>
 
     <FeedPatient.reportString>TargetA から TargetB に給仕中</FeedPatient.reportString>
 
@@ -58,9 +62,12 @@
 
     <Deconstruct.reportString>TargetA を解体中</Deconstruct.reportString>
 
+    <Uninstall.reportString>Uninstalling TargetA.</Uninstall.reportString>
     <PrisonerFriendlyChat.reportString>TargetA とおしゃべり中</PrisonerFriendlyChat.reportString>
+    <PrisonerAttemptRecruit.reportString>Attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
 
     <PrisonerExecution.reportString>TargetA を処刑中</PrisonerExecution.reportString>
+    <BuryCorpse.reportString>Burying TargetA.</BuryCorpse.reportString>
 
 
 </LanguageData>

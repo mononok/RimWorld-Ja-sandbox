@@ -5,6 +5,7 @@
 	<TabBills>加工</TabBills>
 	<TabGrowing>栽培</TabGrowing>
 	<TabCharacter>人物</TabCharacter>
+    <TabTraining>Training</TabTraining>
 	<TabPrisoner>囚人</TabPrisoner>
     <TabGuest>客人</TabGuest>
 	<TabGear>装備</TabGear>
@@ -83,5 +84,15 @@
 	<MediumPain>中程度の怪我</MediumPain>
 	<SeverePain>重傷</SeverePain>
 	<ExtremePain>瀕死</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+
+
 
 </LanguageData>

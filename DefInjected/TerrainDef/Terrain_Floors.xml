@@ -1,16 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    <!-- ================= Misc ================= --><MetalTile.label>metal tile</MetalTile.label>
+	<MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
+	<SilverTile.label>silver tile</SilverTile.label>
+	<SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+	<GoldTile.label>gold tile</GoldTile.label>
+	<GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+	<SterileTile.label>sterile tile</SterileTile.label>
+	<SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
 
-	<!-- ================= Wood floor ================= -->
+	<PavedTile.label>コンクリートタイル</PavedTile.label><PavedTile.description>実用本位のコンクリートタイルは、見た目が良いとは言えませんが、動きやすく作られています</PavedTile.description><Concrete.label>コンクリート打ちっ放し</Concrete.label><Concrete.description>早く造成されたコンクリート床なので、醜く、地面を少し掘り下げる必要があります</Concrete.description>
 	<WoodPlankFloor.label>厚板床</WoodPlankFloor.label>
     <WoodPlankFloor.description>木の厚板床は、暖かで自宅に居る気分になります</WoodPlankFloor.description>
 
-	<!-- ================= Tile ================= -->
-    <MetalTile.label>金属床</MetalTile.label>
-    <MetalTile.description>金属床は、宇宙船のようです</MetalTile.description>
-
-    <PavedTile.label>コンクリートタイル</PavedTile.label>
-    <PavedTile.description>実用本位のコンクリートタイルは、見た目が良いとは言えませんが、動きやすく作られています</PavedTile.description>
+    
+    
 
 	<!-- ================= Carpets ================= -->
     <CarpetRed.label>赤の絨毯</CarpetRed.label>
@@ -21,9 +25,13 @@
 
     <CarpetBlue.label>青の絨毯</CarpetBlue.label>
     <CarpetBlue.description>涼しい青い色のつま先にぴったりな豪華なカーペットです</CarpetBlue.description>
+    <CarpetCream.label>cream carpet</CarpetCream.label>
+    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+    <CarpetDark.label>dark carpet</CarpetDark.label>
+    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
 
-	<!-- ================= Foundation solids ================= -->
-    <Concrete.label>コンクリート打ちっ放し</Concrete.label>
-    <Concrete.description>早く造成されたコンクリート床なので、醜く、地面を少し掘り下げる必要があります</Concrete.description>
+    <!-- ================= Foundation solids ================= -->
+    
+    
 
 </LanguageData>

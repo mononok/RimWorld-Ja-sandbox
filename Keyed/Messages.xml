@@ -33,15 +33,16 @@
 
   <MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけられない.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>警告: {0}は怪我を負ったときは攻撃されたとみなします</MessageAnimalsGoPsychoHunted>
-
+  <MessageAnimalsGoPsychoHunted>警告: {0}は、ときには怪我を負うと攻撃されたとみなします</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Warning: {0}s may attack upon a failed taming attempt ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  
   <LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
 <MessageRecruitSuccess>{0} は 囚人 {1} を 村に 迎えました。 （成功率 {2} ）</MessageRecruitSuccess>
 <MessageRecruitFail>{0} は 囚人 {1} の 説得に 失敗しました。 （成功率 {2} ）</MessageRecruitFail>
 <MessageRecruitFailBecauseLoyalty>{0} は 囚人 {1} の 説得に 失敗しました。 （囚人の 忠誠心が たりません）</MessageRecruitFailBecauseLoyalty>
+  <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named it {3}.</MessageTameAndNameSuccess>
 
-<MessagePoorlyTreated>{0} は {1} から処置を受けた ( 成功率 {2} )</MessagePoorlyTreated>
-<MessageWellTreated>{0} は {1} から処置を受けた ( 成功率 {2} )</MessageWellTreated>
 
 <MessageColonyCannotAfford>村は、 この取り引きの アイテムが 足りない。</MessageColonyCannotAfford>
 <MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
@@ -54,11 +55,14 @@
 <MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
 <MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
 <MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
 <MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
 <MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
   <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます</MessageAlreadyInStorage>
   <MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した</MessageRefusedArrest>
 
@@ -77,4 +81,12 @@
 
   <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
 
+  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  
 </LanguageData>

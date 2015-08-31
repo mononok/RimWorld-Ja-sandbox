@@ -5,7 +5,8 @@
 <!-- Tab titles -->
 <WorkTab>仕事</WorkTab>
 <OutfitsTab>服装</OutfitsTab>
-<TimetablesTab>時間割</TimetablesTab>
+<RestrictionsTab>Restrictions</RestrictionsTab>
+<AnimalsTab>Animals</AnimalsTab>
 <FactionsTab>部族</FactionsTab>
 <StatisticsTab>統計</StatisticsTab>
 <HistoryTab>村の歴史</HistoryTab>
@@ -32,7 +33,10 @@
   <Copy>コピー</Copy>
   <Paste>ペースト</Paste>
   <AllowedArea>作業ゾーン</AllowedArea>
-
+  
+  <!-- Animals tab -->
+  <Master>Master</Master>
+  
 <!-- Factions tab -->
 <Hostile>敵対</Hostile>
 <HostileTo>{0} と 敵対</HostileTo>

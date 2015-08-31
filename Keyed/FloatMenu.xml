@@ -31,9 +31,13 @@
 <AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
 <MissingMaterials>資材が ない</MissingMaterials>
   <MissingSkill>スキルが低すぎる</MissingSkill>
-
+    <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <NoUsableFood>no usable food</NoUsableFood>
+  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
 
   <ConsumeThing>{0} は 尽きた</ConsumeThing>
+  <Teetotaler>teetotaler</Teetotaler>
 
 
 <CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>

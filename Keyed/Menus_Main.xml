@@ -45,11 +45,22 @@
 <GenerateWorld>世界を創造</GenerateWorld>
 
 <!--=========== Mods screen ==========-->
-<GetMods>Web上からMODを検索</GetMods>
-<OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
-<ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
-<Author>作者</Author>
-
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <Author>作者</Author>
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>Downloading {0}</DownloadingMod>
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
@@ -62,6 +73,7 @@
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>降下地点を選択</SelectLandingSite>
+  <SelectRandomSite>Select random site</SelectRandomSite>
   <SelectSite>決定</SelectSite>
   <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
   <CannotLandBiome>その地形は {0} なため、降下できません</CannotLandBiome>

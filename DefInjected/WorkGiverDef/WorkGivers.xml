@@ -24,7 +24,18 @@
 	<PatientGoToBed.verb>PatientGoToBed_verb</PatientGoToBed.verb>
 	<PatientGoToBed.gerund>PatientGoToBed_gerund</PatientGoToBed.gerund>
 
-  <!-- ============= Cleaning ============= -->
+  <!-- ============= Animal handling ============= --><Slaughter.verb>slaughter</Slaughter.verb>
+	<Slaughter.gerund>slaughtering</Slaughter.gerund>
+	<Milk.verb>milk</Milk.verb>
+	<Milk.gerund>milking</Milk.gerund>
+	<Shear.verb>shear</Shear.verb>
+	<Shear.gerund>shearing</Shear.gerund>
+	<Tame.verb>tame</Tame.verb>
+	<Tame.gerund>taming</Tame.gerund>
+	<Train.verb>train</Train.verb>
+	<Train.gerund>training</Train.gerund>
+
+	<!-- ============= Cleaning ============= -->
 
 	<CleanClearSnow.verb>かく</CleanClearSnow.verb>
 	<CleanClearSnow.gerund>除雪</CleanClearSnow.gerund>
@@ -45,14 +56,17 @@
 	<Strip.verb>剥がす</Strip.verb>
 	<Strip.gerund>剥ぐ</Strip.gerund>
 
+	<Open.verb>open</Open.verb>
+	<Open.gerund>opening</Open.gerund>
+
 	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
     <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>
-<!--
-	<HaulCorpses.verb>運ぶ</HaulCorpses.verb>
-    <HaulCorpses.gerund>運搬</HaulCorpses.gerund>
--->
+
 	<HaulGeneral.verb>運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>運搬</HaulGeneral.gerund>
+
+	<BuryCorpses.verb>bury</BuryCorpses.verb>
+    <BuryCorpses.gerund>burying</BuryCorpses.gerund>
 
   <!-- ============= Growing ============= -->
 
@@ -75,6 +89,9 @@
 	<DoctorTreatEmergency.verb>処置する</DoctorTreatEmergency.verb>
 	<DoctorTreatEmergency.gerund>処置</DoctorTreatEmergency.gerund>
 
+    <DoctorRescue.verb>rescue</DoctorRescue.verb>
+    <DoctorRescue.gerund>resuing</DoctorRescue.gerund>
+
 	<DoctorTreat.verb>処置する</DoctorTreat.verb>
 	<DoctorTreat.gerund>処置</DoctorTreat.gerund>
 
@@ -94,6 +111,9 @@
 
 	<Deconstruct.verb>解体</Deconstruct.verb>
     <Deconstruct.gerund>解体</Deconstruct.gerund>
+
+	<Uninstall.verb>uninstall</Uninstall.verb>
+    <Uninstall.gerund>uninstall解体</Uninstall.gerund>
 
 	<ConstructFinishFrames.verb>建造</ConstructFinishFrames.verb>
     <ConstructFinishFrames.gerund>建造</ConstructFinishFrames.gerund>

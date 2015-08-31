@@ -34,13 +34,13 @@
 		<path>CameraZoom.helpTexts[0]</path>
 		<trans>カメラをズームイン・アウトさせるには、MOUSEWHEELか、"T" "G"キーを押します </trans>
 	</rep>
-<!--
-	<WorkOverview.label>全体を見渡す</WorkOverview.label>
+
+	<WorkTab.label>全体を見渡す</WorkTab.label>
 	<rep>
-		<path>WorkOverview.helpTexts[0]</path>
+		<path>WorkTab.helpTexts[0]</path>
 		<trans>入植者概要メニューから、入植者の作業状態を確認できます。\n\n彼らは、彼らが見つけた作業の中で、優先順位の高いものから順に行います。入植者は設定されていない作業はしません\n\n誰一人として割り当ててなければ、その作業から得る物はありません </trans>
 	</rep>
--->
+
 	<TimeControls.label>時間管理</TimeControls.label>
 	<rep>
 		<path>TimeControls.helpTexts[0]</path>

@@ -6,11 +6,14 @@
 
 	<AllowCorpsesStranger.label>不審者の死骸を許可</AllowCorpsesStranger.label>
 	<AllowCorpsesStranger.description>死んだ元不審者や敵を許可する</AllowCorpsesStranger.description>
-<!--
-	<AllowBuried.label>埋葬者を許可 </AllowBuried.label>
-	<AllowBuried.description>既に埋葬済みの死骸も許可する</AllowBuried.description>
--->
+
 	<AllowRotten.label>腐乱死体を許可 </AllowRotten.label>
 	<AllowRotten.description>腐りかけの有機体も許可する</AllowRotten.description>
+
+    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+
+    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
+    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
 
 </LanguageData>

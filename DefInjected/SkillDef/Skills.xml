@@ -1,36 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
     <Shooting.skillLabel>射撃</Shooting.skillLabel>
     <Shooting.pawnLabel>射撃手</Shooting.pawnLabel>
 
+    <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
     <Melee.skillLabel>格闘</Melee.skillLabel>
     <Melee.pawnLabel>格闘家</Melee.pawnLabel>
 
+    <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
     <Social.skillLabel>社交</Social.skillLabel>
     <Social.pawnLabel>社交家</Social.pawnLabel>
 
+    <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
+    <Animals.skillLabel>Animals</Animals.skillLabel>
+    <Animals.pawnLabel>Handler</Animals.pawnLabel>
+
+    <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
     <Medicine.skillLabel>医学</Medicine.skillLabel>
     <Medicine.pawnLabel>医者</Medicine.pawnLabel>
 
+    <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
     <Cooking.skillLabel>料理</Cooking.skillLabel>
     <Cooking.pawnLabel>料理家</Cooking.pawnLabel>
 
+    <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
     <Construction.skillLabel>建築</Construction.skillLabel>
     <Construction.pawnLabel>建築家</Construction.pawnLabel>
 
+    <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
     <Growing.skillLabel>栽培</Growing.skillLabel>
     <Growing.pawnLabel>栽培家</Growing.pawnLabel>
 
+    <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
     <Mining.skillLabel>採掘</Mining.skillLabel>
     <Mining.pawnLabel>採掘者</Mining.pawnLabel>
 
+    <Artistic.description>Crafting art.</Artistic.description>
     <Artistic.skillLabel>芸術</Artistic.skillLabel>
     <Artistic.pawnLabel>芸術家</Artistic.pawnLabel>
 
+    <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
     <Crafting.skillLabel>工芸</Crafting.skillLabel>
     <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
 
+    <Research.description>Investigating evidence, doing experiments, and learning.</Research.description>
     <Research.skillLabel>研究</Research.skillLabel>
     <Research.pawnLabel>研究者</Research.pawnLabel>
 

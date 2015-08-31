@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-        <FilthBlood.label>血のり</FilthBlood.label>
+        
 
-        <FilthSlime.label>ぬめり</FilthSlime.label>
+        
 
-        <FilthVomit.label>ゲロ</FilthVomit.label>
+        
 
 		<FilthDirt.label>泥汚れ</FilthDirt.label>
+		<FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
 
 		<FilthSand.label>砂汚れ</FilthSand.label>
 
@@ -16,5 +17,9 @@
 		<BuildingRubble.label>瓦礫</BuildingRubble.label>
 
 		<SandbagRubble.label>くずれた土嚢</SandbagRubble.label>
+
+  <!--=================== Fluids etc =================--><FilthBlood.label>血のり</FilthBlood.label>
+	<FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+	<FilthSlime.label>ぬめり</FilthSlime.label><FilthVomit.label>ゲロ</FilthVomit.label>
 
 </LanguageData>

@@ -83,13 +83,19 @@
         <Cooking.labelShort>料理</Cooking.labelShort>
         <Cooking.pawnLabel>料理人</Cooking.pawnLabel>
         <Cooking.gerundLabel>料理</Cooking.gerundLabel>
-        <Cooking.description>料理人は、ペーストディスペンサーに原料を詰めたり、食事の用意をします</Cooking.description>
+        <Cooking.description>Cooks prepare meals and butcher meat.</Cooking.description>
         <Cooking.verb>料理</Cooking.verb>
+
+        <Handling.labelShort>Handle</Handling.labelShort>
+        <Handling.pawnLabel>Handler</Handling.pawnLabel>
+        <Handling.gerundLabel>Handling</Handling.gerundLabel>
+        <Handling.description>Animal handlers tame, care for, harvest resources from and slaughter animals.</Handling.description>
+        <Handling.verb>Handle</Handling.verb>
 
         <Warden.labelShort>看守</Warden.labelShort>
         <Warden.pawnLabel>看守</Warden.pawnLabel>
         <Warden.gerundLabel>看守</Warden.gerundLabel>
-        <Warden.description>看守は、あなたの指示どおりに囚人を勧誘したり、くだけた会話をしたり、しばいたり、処刑するし。また囚人に食事も運んでいく</Warden.description>
+        <Warden.description>Wardens manage, feed, chat with, and recruit prisoners.</Warden.description>
         <Warden.verb>見守る</Warden.verb>
 
         <Flicker.labelShort>制御</Flicker.labelShort>

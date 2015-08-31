@@ -34,7 +34,11 @@
 
   <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>入植者が所有するベッドにする</CommandBedSetOwnerDesc>
-  <BedAssign>割当</BedAssign>
+  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
+  <CommandGraveSetToUnassignedLabel>Set to unassigned</CommandGraveSetToUnassignedLabel>
+  <CommandGraveSetToUnassignedDesc>Set this grave to be unassigned to anybody.</CommandGraveSetToUnassignedDesc>
+  <BuildingAssign>Assign</BuildingAssign>
 <CommandBedSetForPrisonersLabel>囚人用 ベッドに 設定</CommandBedSetForPrisonersLabel>
 <CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
 <CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
@@ -121,4 +125,9 @@
   <CommandAutoRearm>自動再装填</CommandAutoRearm>
   <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます</CommandAutoRearmDesc>
 
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  
+  
 </LanguageData>

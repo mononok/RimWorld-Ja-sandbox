@@ -118,4 +118,40 @@
 		<trans>NAME は、ガーディニングへの 情熱を持っています。 HECAP は、HE が植物を見るたびに 心情が豊かになります</trans>
 	</rep>
 
+    <rep>
+        <path>NightOwl.degreeDatas[0].label</path>
+        <trans>night owl</trans>
+    </rep>
+    <rep>
+        <path>NightOwl.degreeDatas[0].description</path>
+        <trans>NAME likes to work at night. HECAP gets a mood bonus if awake at night and mood loss if awake during the day.</trans>
+    </rep>
+
+    <rep>
+        <path>Greedy.degreeDatas[0].label</path>
+        <trans>greedy</trans>
+    </rep>
+    <rep>
+        <path>Greedy.degreeDatas[0].description</path>
+        <trans>NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.</trans>
+    </rep>
+
+    <rep>
+        <path>Jealous.degreeDatas[0].label</path>
+        <trans>jealous</trans>
+    </rep>
+    <rep>
+        <path>Jealous.degreeDatas[0].description</path>
+        <trans>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</trans>
+    </rep>
+
+    <rep>
+        <path>Ascetic.degreeDatas[0].label</path>
+        <trans>ascetic</trans>
+    </rep>
+    <rep>
+        <path>Ascetic.degreeDatas[0].description</path>
+        <trans>NAME prefers to live in asceticism. HECAP gets a mood loss if HE has too impressive bedroom.</trans>
+    </rep>
+
 </LanguageData>

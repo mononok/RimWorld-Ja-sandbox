@@ -36,6 +36,10 @@
 <LowFood>食材が足りない</LowFood>
 <LowFoodDesc>倉庫に {0} 単位の 食材しか ありません。 これは とても危険です。 \n\n食材を 育てるか、 探すか、 または 狩ってください。</LowFoodDesc>
 
+<LowMedicine>Low medicine</LowMedicine>
+<LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+<NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
 

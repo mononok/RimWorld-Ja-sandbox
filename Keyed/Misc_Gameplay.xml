@@ -9,6 +9,7 @@
 <ForColonistUse>入植者が 使用</ForColonistUse>
 <MedicalBed>医療用</MedicalBed>
 <Owner>所有者</Owner>
+  <AssignedColonist>Assigned colonist</AssignedColonist>
 <Nobody>無し</Nobody>
 <Unowned>空き</Unowned>
 <DeadTime>死後 {0}</DeadTime>
@@ -18,7 +19,6 @@
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
   <Adapted>Adapted</Adapted>
-  <Headshot>ヘッドショット</Headshot>
   <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
   <DevelopedImmunityLower>免疫力が おちています</DevelopedImmunityLower>
@@ -41,9 +41,35 @@
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
   <BrokenLetterLabel>Broken</BrokenLetterLabel>
+  <MilkFullness>Milk fullness</MilkFullness>
+  <WoolGrowth>Wool growth</WoolGrowth>
+  <EggProgress>Egg progress</EggProgress>
+  <Fertilized>Fertilized</Fertilized>
+  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+
+  <!--TextMotes-->
+  <Headshot>ヘッドショット</Headshot>
+  <TreatQuality>treat quality {0}</TreatQuality>
+  <PoorResult>poor result</PoorResult>
+  <GoodResult>good result</GoodResult>
+  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+  <HarvestFailed>Harvest\nfailed</HarvestFailed>
+  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+
+
+  <!-- Areas -->
+  <Home>Home</Home>
+  <NoRoof>No roof</NoRoof>
+  <SnowClear>Snow clear</SnowClear>
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
   <NoAreaAllowed>無制限</NoAreaAllowed>
   <NewArea>新しいエリア</NewArea>
+  <NewAreaAnimal>New animal area</NewAreaAnimal>
   <InvertArea>反転</InvertArea>
 
   <!-- Control -->
@@ -103,11 +129,9 @@
   <MentalBreakThresholdSoft>精神衰弱 ポイント</MentalBreakThresholdSoft>
 
 <!-- Pawn info readout -->
-<Health>健康</Health>
-<PawnMainDescWithFactionGendered>{0} {2} 所属の {1}</PawnMainDescWithFactionGendered>
 <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-<PawnMainDescWithFactionGenderless>{1} 所属の {0}</PawnMainDescWithFactionGenderless>
-<PawnMainDescGenderless>{0} 所属</PawnMainDescGenderless>
+  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
 <Faction>部族</Faction>
 <Equipped>装備済み</Equipped>
 <EquippedNothing>素手</EquippedNothing>
@@ -204,8 +228,10 @@
 	<!-- Buttons -->
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
 	<ShowBeautyToggleButton>住環境の可視 切り替え.\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
+    <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
 	<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
 	<CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
+    <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
@@ -247,6 +273,9 @@
 	<UseNeurotrainer>{0} を学ぶ為に neurotrainer を使用する</UseNeurotrainer>
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
+  <!-- Artifact -->
+  <UseArtifact>Activate</UseArtifact>
+  
 	<!-- Minification -->
 	<Installed>インストール済</Installed>
 	<NotInstalled>未インストール</NotInstalled>
@@ -282,6 +311,13 @@
   <!-- Generic lifespan -->
   <LifespanExpiry>Expires in:</LifespanExpiry>
 
-  <!-- JobDriver reports -->
+  <!-- Traps -->
+  <TrapArmed>Armed</TrapArmed>
+  <TrapNotArmed>Not armed</TrapNotArmed>
+  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  
+  <!-- Facilities -->
+  <InactiveFacility>inactive</InactiveFacility>
+  
 
 </LanguageData>

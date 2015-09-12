@@ -10,11 +10,11 @@
 
   <PoorMood>良くない雰囲気</PoorMood>
   <PoorMoodDesc>入植者は良くない雰囲気に飲み込まれていて いつでも精神が崩壊するかもしれません。\n\n{0}\nこの入植者の悩み事を注意深く見守ってください。</PoorMoodDesc>
-
   <TerribleMood>悪い雰囲気</TerribleMood>
   <TerribleMoodDesc>入植者は致命的なストレス下にあり、いつ精神が壊れて暴力的になってもおかしくありません。\n\n{0}\nこの入植者の悩み事を取り除きましょう。</TerribleMoodDesc>
+  <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
-<ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
+  <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
 <ColonistsNeedRescue>救助が必要</ColonistsNeedRescue>
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません：\n\n{0}\n他の 入植者に 救助を 指示し、 ベッドまで はこびましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
@@ -36,9 +36,9 @@
 <LowFood>食材が足りない</LowFood>
 <LowFoodDesc>倉庫に {0} 単位の 食材しか ありません。 これは とても危険です。 \n\n食材を 育てるか、 探すか、 または 狩ってください。</LowFoodDesc>
 
-<LowMedicine>Low medicine</LowMedicine>
-<LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-<NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+<LowMedicine>薬品が足りない</LowMedicine>
+<LowMedicineDesc>倉庫に {0}単位の薬品しかありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
+<NoMedicineDesc>倉庫には、ひとつも薬品がありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</NoMedicineDesc>
 
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
@@ -115,5 +115,8 @@
 
   <BilliardsNeedsSpace>ビリヤード台を置くには、もっとスペースが必要です</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>ビリヤード台の一つは、入植者が使うのを妨げる障害物に隣接しています。\n\nビリヤード台の周り、四方にスペースが必要です</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>ハンターが遠距離武器と、パーソナルシールドを装備しています。</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>あるハンターは、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩猟に出かけないでしょう。</HunterHasShieldAndRangedWeaponDesc>
 
 </LanguageData>

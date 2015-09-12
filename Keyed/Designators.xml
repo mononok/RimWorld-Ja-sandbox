@@ -80,14 +80,14 @@
   <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpen>開ける</DesignatorOpen>
+  <DesignatorOpenDesc>墓を曝いたり、コンテナを開けます</DesignatorOpenDesc>
 
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>屠殺</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>家畜を屠殺する</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>飼いならす</DesignatorTame>
+  <DesignatorTameDesc>野生動物を飼いならす</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
@@ -106,7 +106,6 @@
 <TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
 <SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
   <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
-
 
 
 <!-- placement of zones -->

@@ -9,7 +9,7 @@
 <ForColonistUse>入植者が 使用</ForColonistUse>
 <MedicalBed>医療用</MedicalBed>
 <Owner>所有者</Owner>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <AssignedColonist>担当者</AssignedColonist>
 <Nobody>無し</Nobody>
 <Unowned>空き</Unowned>
 <DeadTime>死後 {0}</DeadTime>
@@ -18,7 +18,7 @@
 <FilthOnFeet>足もと：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
-  <Adapted>Adapted</Adapted>
+  <Adapted>順応した</Adapted>
   <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
   <DevelopedImmunityLower>免疫力が おちています</DevelopedImmunityLower>
@@ -35,16 +35,16 @@
   <DropThing>はずす</DropThing>
   <Rename>命名</Rename>
   <RenameColonist>入植者の命名</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
+  <UnknownLower>身元不明</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
   <BrokenLetterLabel>Broken</BrokenLetterLabel>
-  <MilkFullness>Milk fullness</MilkFullness>
-  <WoolGrowth>Wool growth</WoolGrowth>
-  <EggProgress>Egg progress</EggProgress>
-  <Fertilized>Fertilized</Fertilized>
+  <MilkFullness>搾乳可</MilkFullness>
+  <WoolGrowth>毛刈り可</WoolGrowth>
+  <EggProgress>採卵可</EggProgress>
+  <Fertilized>受精した</Fertilized>
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
 
   <!--TextMotes-->
@@ -312,12 +312,12 @@
   <LifespanExpiry>Expires in:</LifespanExpiry>
 
   <!-- Traps -->
-  <TrapArmed>Armed</TrapArmed>
-  <TrapNotArmed>Not armed</TrapNotArmed>
-  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  <TrapArmed>活性</TrapArmed>
+  <TrapNotArmed>不活性</TrapNotArmed>
+  <TrapRearmingCost>再活性化のコスト: {0}</TrapRearmingCost>
   
   <!-- Facilities -->
-  <InactiveFacility>inactive</InactiveFacility>
+  <InactiveFacility>閉鎖</InactiveFacility>
   
 
 </LanguageData>

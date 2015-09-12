@@ -8,8 +8,8 @@
 <OK>[OK]</OK>
 
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました。</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました。\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています。\n\n全てのMODを一旦無効にしました、再びMODダイアログから有効にすることができます。 </RecoveredFromErrorsText>
 
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
@@ -44,7 +44,7 @@
   <SaveGameIncompatibleWarningText>バージョンの不一致： マップは以前のバージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\n古いバージョンの ロードは バグや クラッシュの 原因となります。</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので、新規にいちから世界を作る事を強く勧めます。</WorldFileVersionMismatch>
   <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>Map was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nMap was saved with (in this order):\n\n{0}\n\nWe are running with:\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>マップは、現在動作している環境より多くのMODが有効になっている別の環境で、保存されたものです。\n\nこのことで問題が起きるか起きないかは、正確にはMODが何をしているかにもよります。\n\n Map was saved with (in this order):\n\n {0}\n\n We are running with:\n\n {1}</ModsMismatchWarningText>
 
 <!-- Resolution change dialog -->
 <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
@@ -84,9 +84,9 @@
   <CurrentlyHave>持ち合わせている</CurrentlyHave>
   <CountingProducts>計測</CountingProducts>
 <Infinite>無限に</Infinite>
+  <MinimumSkillLevel>Min {0} skill</MinimumSkillLevel>
 
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
-<PermittedIngredients>レシピ</PermittedIngredients>
   <WorkAmount>必要量</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>必要とする {0} {1}</BillRequires>
@@ -115,7 +115,7 @@
 <Harvestable>収穫可能</Harvestable>
 <LimitedLifespan>寿命がある</LimitedLifespan>
 <GrowingTime>成長時間</GrowingTime>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
+  <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
 <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
 <LightRequirement>成長に必要な光源</LightRequirement>

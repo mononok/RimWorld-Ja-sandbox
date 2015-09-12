@@ -34,10 +34,10 @@
 
   <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>入植者が所有するベッドにする</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <CommandGraveSetToUnassignedLabel>Set to unassigned</CommandGraveSetToUnassignedLabel>
-  <CommandGraveSetToUnassignedDesc>Set this grave to be unassigned to anybody.</CommandGraveSetToUnassignedDesc>
+  <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>墓石に植民者の名前を彫ります。</CommandGraveAssignColonistDesc>
+  <CommandGraveSetToUnassignedLabel>無記名にする</CommandGraveSetToUnassignedLabel>
+  <CommandGraveSetToUnassignedDesc>墓所を無名にします。</CommandGraveSetToUnassignedDesc>
   <BuildingAssign>Assign</BuildingAssign>
 <CommandBedSetForPrisonersLabel>囚人用 ベッドに 設定</CommandBedSetForPrisonersLabel>
 <CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>

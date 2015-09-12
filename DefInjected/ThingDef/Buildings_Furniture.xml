@@ -14,12 +14,13 @@
 	<HospitalBed.label>病院ベッド</HospitalBed.label>
 	<HospitalBed.description>病気を直すのに適したベッド、治療効果が高まります</HospitalBed.description>
 
-    <!--=========================== Animal beds ===============================--><AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
-	<AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
-	<AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
-	<AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
-	<AnimalBed.label>animal bed</AnimalBed.label>
-	<AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+    <!--=========================== Animal beds ===============================-->
+	<AnimalSleepingSpot.label>動物の寝床</AnimalSleepingSpot.label>
+	<AnimalSleepingSpot.description>動物達が寝る場所を指示します</AnimalSleepingSpot.description>
+	<AnimalSleepingBox.label>動物の小屋</AnimalSleepingBox.label>
+	<AnimalSleepingBox.description>動物達が中に入って寝られる小屋、鶏や猫、小さな犬に合います</AnimalSleepingBox.description>
+	<AnimalBed.label>動物用ベッド</AnimalBed.label>
+	<AnimalBed.description>動物用の柔らかベッドです、どんな動物にも合います</AnimalBed.description>
 
 	<!--======================= Basic domestic furniture ==============================-->
 	<Stool.label>スツール</Stool.label>

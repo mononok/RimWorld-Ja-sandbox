@@ -152,27 +152,27 @@
 
 	<rep>
 		<path>Crowded.stages[0].label</path>
-		<trans>a little bit crowded</trans>
+		<trans>少し混んできた</trans>
 	</rep>
 	<rep>
 		<path>Crowded.stages[0].description</path>
-		<trans>It's a little bit crowded here.</trans>
+		<trans>ここは、すこし混んできた</trans>
 	</rep>
     <rep>
         <path>Crowded.stages[1].label</path>
-        <trans>crowded</trans>
+        <trans>混雑</trans>
     </rep>
     <rep>
         <path>Crowded.stages[1].description</path>
-        <trans>This place is crowded. I would feel much better if there was more free space.</trans>
+        <trans>ここは混雑してきた。もう少し自由な空間があれば良いなあと感じる</trans>
     </rep>
     <rep>
         <path>Crowded.stages[2].label</path>
-        <trans>very crowded</trans>
+        <trans>かなり混雑</trans>
     </rep>
     <rep>
         <path>Crowded.stages[2].description</path>
-        <trans>This place is so crowded I can barely breathe. I need more space.</trans>
+        <trans>ここは、息をするのがやっとできる程、混んできた</trans>
     </rep>
 
 </LanguageData>

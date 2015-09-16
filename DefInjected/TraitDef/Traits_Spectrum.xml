@@ -8,12 +8,12 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAME は、いつもいなくなったと思えば グループの後ろに脱落しています</trans>
+		<trans>NAME は、どこかに行ったかと思えば、いつもグループから脱落しています</trans>
 	</rep>
 
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].label</path>
-		<trans>せかせか歩き</trans>
+		<trans>早足歩き</trans>
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].description</path>
@@ -22,11 +22,11 @@
 
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].label</path>
-		<trans>Jogger</trans>
+		<trans>小走り</trans>
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAME は 常に緊張感をもって移動するので 他の人はついていけません</trans>
+		<trans>NAME は 常に切迫感をもって移動するので、 他の人が遅れずについていけなくなることが、よくあります</trans>
 	</rep>
 
 	<!--> DrugDesire <-->
@@ -65,7 +65,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[0].description</path>
-		<trans>NAME は、どんな HIS 状況下でも天然の楽天家です。 一日中意にかえすことはありません</trans>
+		<trans>NAME は、HIS の立場について ほとんど、いつでも意にかえすことは無い生まれつき陽気な人です</trans>
 	</rep>
 
 	<rep>
@@ -74,7 +74,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[1].description</path>
-		<trans>NAME は人生についての 楽観主義者です。HIS 気分を落ち込ませることは 難しいです</trans>
+		<trans>NAME は人生については、生まれつきの楽観主義者です。HIS 気分を落ち込ませることは難しいです</trans>
 	</rep>
 
 	<rep>
@@ -83,7 +83,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[2].description</path>
-		<trans>NAME は人生を悪い方悪い方と 見てしまいがちです</trans>
+		<trans>NAME は人生を悪い方悪い方へと見てしまいがちです</trans>
 	</rep>
 
 	<rep>
@@ -92,7 +92,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[3].description</path>
-		<trans>NAME は絶え間なく不幸です。 全てがうまくいっている時でさえ、 HECAP は良い気分が続かないという 問題を負っています</trans>
+		<trans>NAME は絶え間なく不幸です。 HECAP は、全てがうまくいってるときでさえ、この良い気分が続くことを心配しています</trans>
 	</rep>
 
 	<!--> Nerves <-->
@@ -102,7 +102,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[0].description</path>
-		<trans>NAME の意志は鉄の壁のよう。他の者がずっと前に倒れてしまっていても、HECAP は、どんなことがあってもやりとげる</trans>
+		<trans>NAME の意志は鉄でできた盾のよう。他の者がずっと前に倒れてしまっていても、HECAP は、どんなことがあってもやりとげます</trans>
 	</rep>
 
 	<rep>
@@ -111,16 +111,16 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[1].description</path>
-		<trans>NAME は精神的に強くて ほとんどの人がストレスで 精神を崩壊させる状況下でも あきらめません</trans>
+		<trans>NAME は、ほとんどの人がストレスで心折られる環境下でも、精神的に強く参りません</trans>
 	</rep>
 
 	<rep>
 		<path>Nerves.degreeDatas[2].label</path>
-		<trans>臆病</trans>
+		<trans>いくじなし</trans>
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[2].description</path>
-		<trans>NAME は、ストレスがかかると 投げ出す傾向があります</trans>
+		<trans>NAME は、プレッシャーがかかると 心折れる傾向があります</trans>
 	</rep>
 
 	<rep>
@@ -135,11 +135,11 @@
 	<!--> Neurotic <-->
 	<rep>
 		<path>Neurotic.degreeDatas[0].label</path>
-		<trans>神経症</trans>
+		<trans>神経質</trans>
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAME は物事に取り組むのが好きです。 HECAP は物事を成し遂げるのに 他の人より 多くの苦労します。 HIS 不安な心理状態は、HIM 崩壊へと導きます</trans>
+		<trans>NAME は事態に備えることが好きです。 HECAP は物事を成し遂げるのに、他の人より多くの苦労しますが、HIS 神経質なところは、彼の良いところを引き出します</trans>
 	</rep>
 
  	<rep>
@@ -148,7 +148,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[1].description</path>
-		<trans>NAME はどんなことについても 常にビクビクしています。 HECAP はほとんどの人が 成し遂げる事でも 更に多くの苦労します。 HIS より不安な心理状態は HIM 崩壊へと導きます</trans>
+		<trans>NAME はやり遂げなければならない、どんなことも常に気になっています。 HECAP は物事を成し遂げるのに、他の人より更に多くの苦労しますが、HIS 神経質なところは、彼の良いところをより簡単に引き出します</trans>
 	</rep>
 
 	<!--> Industriousness <-->
@@ -158,7 +158,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[0].description</path>
-		<trans>NAME は作業場にいて 集中し続ける作業が得意です。 そして平均的な人よりも より早く作業を行うことができます</trans>
+		<trans>NAME は作業場にいて集中し続ける作業が得意です。そして平均的な人よりも、より早く作業を終わらせることができます</trans>
 	</rep>
 
 	<rep>
@@ -172,11 +172,11 @@
 
 	<rep>
 		<path>Industriousness.degreeDatas[2].label</path>
-		<trans>不器用</trans>
+		<trans>だらけ癖</trans>
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[2].description</path>
-		<trans>NAME は 人よりちょっとだけ 仕事が遅いです</trans>
+		<trans>NAME は ちょっとたるんでいます</trans>
 	</rep>
 
 	<rep>
@@ -191,7 +191,7 @@
 	<!--> PsychicSensitivity <-->
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[0].label</path>
-		<trans>超能力者</trans>
+		<trans>精神過敏</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[0].description</path>
@@ -200,11 +200,11 @@
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].label</path>
-		<trans>能力者</trans>
+		<trans>精神感応</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAME の心は、精神的現象に敏感です</trans>
+		<trans>NAME の心は精神的現象に著しく敏感です</trans>
 	</rep>
 
 	<rep>
@@ -218,7 +218,7 @@
 
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].label</path>
-		<trans>無能力者</trans>
+		<trans>精神的無反応</trans>
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
@@ -232,7 +232,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[0].description</path>
-		<trans>NAME's の身体から とてつもない熱を発するおかげで ゾクゾクするような気温に 悩まされる事はありませんが 高い気温は好きではありません</trans>
+		<trans>NAME's の身体から、とてつもない熱を発するおかげで、ゾクゾクするような気温に悩まされる事はありませんが、高い気温は好きではありません</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].label</path>
@@ -240,7 +240,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].description</path>
-		<trans>ほとんどの他の人よりは、寒い気温に適応している</trans>
+		<trans>ほとんどの他の人よりは、寒い気温に適応しています</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].label</path>
@@ -248,7 +248,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].description</path>
-		<trans>ほとんどの他の人よりは、熱い気温に適応している</trans>
+		<trans>ほとんどの他の人よりは、熱い気温に適応しています</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].label</path>
@@ -256,6 +256,6 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].description</path>
-		<trans>NAME's は熱い気温を好み、低い気温は好まない</trans>
+		<trans>NAME's は熱い気温を好み、低い気温は好みません</trans>
 	</rep>
 </LanguageData>

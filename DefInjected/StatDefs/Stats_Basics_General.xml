@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<MaxHitPoints.label>最大HP</MaxHitPoints.label>
-	<MaxHitPoints.description>最大HP、破壊するまでに必要なダメージ</MaxHitPoints.description>
+	<MaxHitPoints.description>最大HP、破壊するまでに必要なダメージ量を表しています</MaxHitPoints.description>
 
     <MarketValue.label>金額</MarketValue.label>
     <MarketValue.description>市場価格を表します。 実際の値段は 売買するお互いの関係性や 交渉スキルでさらに変動します</MarketValue.description>
@@ -17,13 +17,13 @@
 	<WorkToMake.description>作成するのに必要な、物資やツールの総量を表します</WorkToMake.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
-	<DeteriorationRate.description>屋外に放置されて雨風が当たっているときの、劣化しやすさを表しています</DeteriorationRate.description>
+	<DeteriorationRate.description>屋外に放置された時、とくに風雨が当たっているときの、劣化しやすさを表しています</DeteriorationRate.description>
 
     <Beauty.label>美しさ</Beauty.label>
-    <Beauty.description>どのくらい それを見た周りの心情を 豊かにするかを表します</Beauty.description>
+    <Beauty.description>どのくらい それを見た周りの気分を豊かにするかを表します</Beauty.description>
 
-    <Cleanliness.label>cleanliness</Cleanliness.label>
-    <Cleanliness.description>How clean an object is.</Cleanliness.description>
+    <Cleanliness.label>清潔さ</Cleanliness.label>
+    <Cleanliness.description>どのくらい 清潔かを表します</Cleanliness.description>
     <Comfort.label>快適さ</Comfort.label>
 	<Comfort.description>どのくらい 快適な暮らしにするかを表します</Comfort.description>
 

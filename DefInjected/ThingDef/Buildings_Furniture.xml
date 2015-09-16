@@ -3,34 +3,34 @@
 
 	<!--============================== Beds ==============================-->
 	<SleepingSpot.label>寝床</SleepingSpot.label>
-	<SleepingSpot.description>地面の上で直接寝る寝床、居心地は良くはありません。睡眠効果: 7/10</SleepingSpot.description>
+	<SleepingSpot.description>地面の上で直接寝る寝床、居心地は良くはありません</SleepingSpot.description>
 
 	<Bed.label>ベッド</Bed.label>
-	<Bed.description>休息する為のマットレスとシーツ。睡眠効果: 10/10</Bed.description>
+	<Bed.description>休息する為に、フレームの上に心地よいマットレスとシーツをかけたものです</Bed.description>
 
-	<RoyalBed.label>大きなベッド</RoyalBed.label>
-	<RoyalBed.description>出産率が上がること間違いなし</RoyalBed.description>
+	<RoyalBed.label>豪華なベッド</RoyalBed.label>
+	<RoyalBed.description>高貴な生まれの方にピッタリの豪華なベッドです</RoyalBed.description>
 
-	<HospitalBed.label>病院ベッド</HospitalBed.label>
-	<HospitalBed.description>病気を直すのに適したベッド、治療効果が高まります</HospitalBed.description>
+	<HospitalBed.label>病院用ベッド</HospitalBed.label>
+	<HospitalBed.description>怪我人の為に考えられた特製のベッドです。医療行為の成功率が良くなります</HospitalBed.description>
 
     <!--=========================== Animal beds ===============================-->
-	<AnimalSleepingSpot.label>動物の寝床</AnimalSleepingSpot.label>
-	<AnimalSleepingSpot.description>動物達が寝る場所を指示します</AnimalSleepingSpot.description>
-	<AnimalSleepingBox.label>動物の小屋</AnimalSleepingBox.label>
-	<AnimalSleepingBox.description>動物達が中に入って寝られる小屋、鶏や猫、小さな犬に合います</AnimalSleepingBox.description>
-	<AnimalBed.label>動物用ベッド</AnimalBed.label>
-	<AnimalBed.description>動物用の柔らかベッドです、どんな動物にも合います</AnimalBed.description>
+    <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+	<AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+	<AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+	<AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+	<AnimalBed.label>animal bed</AnimalBed.label>
+	<AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
 
 	<!--======================= Basic domestic furniture ==============================-->
 	<Stool.label>スツール</Stool.label>
-	<Stool.description>人が座れます</Stool.description>
+	<Stool.description>座るためだけのシンプルな骨格です</Stool.description>
 
 	<DiningChair.label>ダイニングチェア</DiningChair.label>
-	<DiningChair.description>魅力的で心地よく座れるダイニングチェア</DiningChair.description>
+	<DiningChair.description>心地よく魅力的な、ダイニングテーブルの為の椅子です</DiningChair.description>
 
 	<Armchair.label>アームチェア</Armchair.label>
-	<Armchair.description>やわらかで、ゆったり座れるシートは、多くの安息をもたらすでしょう</Armchair.description>
+	<Armchair.description>大きく、やわらかで、心地よく座れるシートは、多くの安息をもたらすでしょう</Armchair.description>
 
 	<!--======================= Tables ==============================-->
 	<TableShort.label>テーブル(短)</TableShort.label>
@@ -40,7 +40,7 @@
 	<TableLong.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります</TableLong.description>
 
 	<PlantPot.label>植木鉢</PlantPot.label>
-	<PlantPot.description>花や植物を飾ると、人の心が落ち着く効果があります</PlantPot.description>
+	<PlantPot.description>花や植物を飾ると、そばにいる人の気分が、良くなります</PlantPot.description>
 
 	<!-- ======================== Lighting ======================= -->
 	<StandingLamp.label>電気スタンド</StandingLamp.label>
@@ -57,6 +57,6 @@
 
 	<!--============================== Storage ==============================-->
 	<EquipmentRack.label>ロッカー</EquipmentRack.label>
-	<EquipmentRack.description>装備品は、 ここに保管します</EquipmentRack.description>
+	<EquipmentRack.description>たとえ外気に触れていても、この中に保存されたアイテムは劣化しません。</EquipmentRack.description>
 
 </LanguageData>

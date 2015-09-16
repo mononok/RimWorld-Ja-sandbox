@@ -4,7 +4,7 @@
     <!--========= General ============-->
     <Goto.reportString>移動中</Goto.reportString>
 
-    <GotoSafeTemperature.reportString>適温な場所を探し回っている</GotoSafeTemperature.reportString>
+    <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
 
     <GotoWander.reportString>うろついている</GotoWander.reportString>
 
@@ -12,7 +12,7 @@
 
     <WaitDowned.reportString>倒れている</WaitDowned.reportString>
 
-    <WaitSafeTemperature.reportString>適温な場所を探している</WaitSafeTemperature.reportString>
+    <WaitSafeTemperature.reportString>適温な場所でぼんやりしている</WaitSafeTemperature.reportString>
 
     <WaitWander.reportString>うろうろしている</WaitWander.reportString>
 
@@ -29,26 +29,26 @@
 	<TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
 
     <!--============= Misc ============-->
-    <Wear.reportString>TargetA を着衣中</Wear.reportString>
+    <Wear.reportString>TargetA 着ている</Wear.reportString>
 
-    <Strip.reportString>TargetA を脱衣中</Strip.reportString>
+    <Strip.reportString>TargetA を剥がしている</Strip.reportString>
 
     <Hunt.reportString>TargetA を狩猟中</Hunt.reportString>
 
-    <Open.reportString>Opening TargetA</Open.reportString>
+    <Open.reportString>TargetA を開封中</Open.reportString>
     <RearmTrap.reportString>TargetA を再セット中</RearmTrap.reportString>
 
     <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
 
     <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込む</EnterCryptosleepCasket.reportString>
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
-    <UseArtifact.reportString>Activating artifact.</UseArtifact.reportString>
+    <UseArtiface.reportString>アーティファクト を作動中</UseArtiface.reportString>
 
     <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
 
 	<Vomit.reportString>嘔吐中</Vomit.reportString>
 
-	<Flick.reportString>スイッチ入り切り</Flick.reportString>
+	<Flick.reportString>スイッチを操作中</Flick.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>

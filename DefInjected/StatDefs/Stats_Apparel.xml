@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ArmorRating_Blunt.label>アーマー(殴)</ArmorRating_Blunt.label>
-	<ArmorRating_Blunt.description>クラブ、落石、爆発などから身を守ります</ArmorRating_Blunt.description>
+	<ArmorRating_Blunt.label>アーマー(打撲系)</ArmorRating_Blunt.label>
+	<ArmorRating_Blunt.description>棍棒で殴られる、落石、爆発などの、打撲系のダメージから身を守ります</ArmorRating_Blunt.description>
 
-	<ArmorRating_Sharp.label>アーマー(突)</ArmorRating_Sharp.label>
-	<ArmorRating_Sharp.description>弾丸、ナイフ、咬み傷などから身を守ります</ArmorRating_Sharp.description>
+	<ArmorRating_Sharp.label>アーマー(突刺系)</ArmorRating_Sharp.label>
+	<ArmorRating_Sharp.description>弾丸、ナイフ、咬み傷などの、切り裂くダメージから身を守ります</ArmorRating_Sharp.description>
 
-	<ArmorRating_Heat.label>アーマー(熱)</ArmorRating_Heat.label>
-	<ArmorRating_Heat.description>高熱から身を守ります</ArmorRating_Heat.description>
+	<ArmorRating_Heat.label>アーマー(熱系)</ArmorRating_Heat.label>
+	<ArmorRating_Heat.description>高熱などの、温度に関係するダメージから身を守ります</ArmorRating_Heat.description>
 
-	<ArmorRating_Electric.label>アーマー(電)</ArmorRating_Electric.label>
-	<ArmorRating_Electric.description>電磁波から身を守ります</ArmorRating_Electric.description>
+	<ArmorRating_Electric.label>アーマー(電磁系)</ArmorRating_Electric.label>
+	<ArmorRating_Electric.description>EMPなどの、電磁系ダメージから身を守ります</ArmorRating_Electric.description>
 
-	<Insulation_Cold.label>防寒温度</Insulation_Cold.label>
-	<Insulation_Cold.description>寒さをしのげる最低温度</Insulation_Cold.description>
+	<Insulation_Cold.label>断熱(低温)</Insulation_Cold.label>
+	<Insulation_Cold.description>身に付けたとき、快適でいられる最低温度の補正量です</Insulation_Cold.description>
 
-	<Insulation_Heat.label>防暖温度</Insulation_Heat.label>
-	<Insulation_Heat.description>暑さをしのげる最高温度</Insulation_Heat.description>
+	<Insulation_Heat.label>断熱(高温)</Insulation_Heat.label>
+	<Insulation_Heat.description>身に付けたとき、快適でいられる最高温度の補正量です</Insulation_Heat.description>
 
-	<PersonalShieldEnergyMax.label>エネルギー吸収最大量</PersonalShieldEnergyMax.label>
-	<PersonalShieldEnergyMax.description>撃たれたエネルギーを吸収して無効にできる最大量</PersonalShieldEnergyMax.description>
+	<PersonalShieldEnergyMax.label>シールドエネルギー最大量</PersonalShieldEnergyMax.label>
+	<PersonalShieldEnergyMax.description>個人用シールドのチャージ一回分のエネルギー量です。エネルギーが多いほど、より多くのダメージを吸収します</PersonalShieldEnergyMax.description>
 
-	<PersonalShieldRechargeRate.label>再準備期間</PersonalShieldRechargeRate.label>
-	<PersonalShieldRechargeRate.description>再使用できる迄の冷却時間</PersonalShieldRechargeRate.description>
+	<PersonalShieldRechargeRate.label>シールドリチャージ量</PersonalShieldRechargeRate.label>
+	<PersonalShieldRechargeRate.description>個人用シールドが壊れてなければ、単位時間あたりのリチャージ量です</PersonalShieldRechargeRate.description>
 
 
 </LanguageData>

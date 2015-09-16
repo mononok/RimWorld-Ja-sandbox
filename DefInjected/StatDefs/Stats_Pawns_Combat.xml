@@ -2,15 +2,15 @@
 <LanguageData>
 
     <MeleeDPS.label>DPS(白兵戦)</MeleeDPS.label>
-    <MeleeDPS.description>白兵戦時の DPSを表します</MeleeDPS.description>
+    <MeleeDPS.description>白兵戦で与えられる、1秒あたりのダメージ量の平均値</MeleeDPS.description>
 
     <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
-    <ShootingAccuracy.description>射撃時の 距離別基本命中率を表します</ShootingAccuracy.description>
+    <ShootingAccuracy.description>射撃距離の二乗単位での基本命中率</ShootingAccuracy.description>
 
     <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
-    <AimingDelayFactor.description>どのくらい、 照準に時間がかかるかを表します</AimingDelayFactor.description>
+    <AimingDelayFactor.description>どのくらい照準に時間がかかるかを表します</AimingDelayFactor.description>
 
     <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
-    <MeleeHitChance.description>白兵戦時の 基本命中率を表します</MeleeHitChance.description>
+    <MeleeHitChance.description>白兵戦時の基本命中率を表します</MeleeHitChance.description>
 
 </LanguageData>

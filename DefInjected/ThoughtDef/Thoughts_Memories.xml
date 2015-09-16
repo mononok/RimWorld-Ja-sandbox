@@ -5,11 +5,11 @@
 
   <rep>
     <path>SleepDisturbed.stages[0].label</path>
-    <trans>良く眠れない</trans>
+    <trans>よく眠れない</trans>
   </rep>
   <rep>
     <path>SleepDisturbed.stages[0].description</path>
-    <trans>I was disturbed during sleep by people moving around nearby. A private room would solve this.</trans>
+    <trans>人々が私のまわりをウロウロするせいで、私の睡眠が邪魔された。個室が与えられれば解決するでしょう</trans>
   </rep>
 
   <rep>
@@ -41,11 +41,11 @@
 
   <rep>
     <path>AteLavishMeal.stages[0].label</path>
-    <trans>素晴らしい料理を食べた</trans>
+    <trans>贅沢な料理を食べた</trans>
   </rep>
   <rep>
     <path>AteLavishMeal.stages[0].description</path>
-    <trans>驚くような素晴らしい食事を食べた。身も心も満たされる</trans>
+    <trans>驚くような贅沢な食事を食べた。身も心も満たされる</trans>
   </rep>
 
 	<!-- =========== Cannibalism =============== -->
@@ -233,79 +233,81 @@
 
   <rep>
     <path>KnowGuestExecuted.stages[0].label</path>
-    <trans>someone put to death</trans>
+    <trans>誰かが処刑された</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[0].description</path>
-    <trans>A prisoner or guest was put to death.</trans>
+    <trans>犯罪者かゲストが処刑された</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].label</path>
-    <trans>someone was executed</trans>
+    <trans>誰かが処刑された</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].description</path>
-    <trans>A prisoner or guest was killed in cold blood. This colony seems more evil by the day.</trans>
+    <trans>犯罪者かゲストが平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].label</path>
-    <trans>organ harvested and killed.</trans>
+    <trans>臓器を奪って殺した</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].description</path>
-    <trans>A prisoner or guest died because the colony took body parts from him. It's horrible.</trans>
+    <trans>犯罪者かゲストが死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したから。おぞましい</trans>
   </rep>
+
 
   <rep>
     <path>KnowColonistExecuted.stages[0].label</path>
-    <trans>colonist put to death</trans>
+    <trans>入植者が処刑された</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[0].description</path>
-    <trans>A colonist was put to death.</trans>
+    <trans>入植者が処刑された</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].label</path>
-    <trans>colonist was executed</trans>
+    <trans>入植者が処刑された</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].description</path>
-    <trans>A colonist was killed in cold blood. This colony seems more evil by the day.</trans>
+    <trans>入植者が平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].label</path>
-    <trans>colonist's organ harvested, killed</trans>
+    <trans>臓器を奪って殺した</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].description</path>
-    <trans>A colonist died because someone took body parts from him. It's horrible.</trans>
+    <trans>入植者が死んだ、なぜならコロニーの誰かが、彼の身体から臓器を取り出したから。おぞましい</trans>
   </rep>
 
   <rep>
     <path>KnowGuestOrganHarvested.stages[0].label</path>
-    <trans>someone's organ harvested</trans>
+    <trans>誰かの臓器を摘出した</trans>
   </rep>
   <rep>
     <path>KnowGuestOrganHarvested.stages[0].description</path>
-    <trans>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</trans>
+    <trans>入植者が、犯罪者かゲストから臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない</trans>
   </rep>
+
 
   <rep>
     <path>KnowColonistOrganHarvested.stages[0].label</path>
-    <trans>colonist's organ harvested</trans>
+    <trans>誰かの臓器を摘出した</trans>
   </rep>
   <rep>
     <path>KnowColonistOrganHarvested.stages[0].description</path>
-    <trans>Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice.</trans>
+    <trans>誰かが、入植者から臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない</trans>
   </rep>
 
   <rep>
     <path>MyOrganHarvested.stages[0].label</path>
-    <trans>my organ harvested</trans>
+    <trans>私の臓器を摘出した</trans>
   </rep>
   <rep>
     <path>MyOrganHarvested.stages[0].description</path>
-    <trans>The colony harvested body parts from me! They're breaking me down like an old engine!</trans>
+    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!</trans>
   </rep>
 
   <rep>
@@ -364,20 +366,20 @@
 
   <rep>
     <path>Nuzzled.stages[0].label</path>
-    <trans>nuzzled</trans>
+    <trans>鼻でなでる</trans>
   </rep>
   <rep>
     <path>Nuzzled.stages[0].description</path>
-    <trans>A cute animal nuzzled me.</trans>
+    <trans>かわいい動物が私に擦り寄ってきた</trans>
   </rep>
 
   <rep>
     <path>SomeoneBuriedInSarcophagus.stages[0].label</path>
-    <trans>buried in sarcophagus</trans>
+    <trans>石棺に収められた</trans>
   </rep>
   <rep>
     <path>SomeoneBuriedInSarcophagus.stages[0].description</path>
-    <trans>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</trans>
+    <trans>このコロニーで、誰かを装飾された石棺に収めて埋葬した。彼の魂がやすらぎをえますように</trans>
   </rep>
 
 

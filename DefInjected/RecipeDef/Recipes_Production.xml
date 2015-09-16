@@ -5,27 +5,16 @@
     <MakeStoneBlocks.description>岩石を使いやすい大きさに切ります</MakeStoneBlocks.description>
     <MakeStoneBlocks.jobString>加工中</MakeStoneBlocks.jobString>
 
-		<!--
-		<MakeWoodPlanks_Hand.label>制作木板</MakeWoodPlanks_Hand.label>
-        <MakeWoodPlanks_Hand.description>手工把10跟原木切成25?木板，速度很慢。</MakeWoodPlanks_Hand.description>
-        <MakeWoodPlanks_Hand.jobString>正在制作木板。</MakeWoodPlanks_Hand.jobString>
-
-
-		<MakeWoodPlanks_Electric.label>制作木板</MakeWoodPlanks_Electric.label>
-        <MakeWoodPlanks_Electric.description>把10跟原木切成25?木板。</MakeWoodPlanks_Electric.description>
-        <MakeWoodPlanks_Electric.jobString>正在制作木板。</MakeWoodPlanks_Electric.jobString>
-		-->
-
 	<ExtractMetalFromSlag.label>精錬</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>くず鉄を溶かして、使える金属を取り出す</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>高温と電磁石を使い、くず鉄から使える金属を分離します</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>溶解中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>溶解</SmeltWeapon.label>
-	<SmeltWeapon.description>武器を溶かして、使える金属を取り出す</SmeltWeapon.description>
+	<SmeltWeapon.description>高温と電磁石を使い、武器から使える金属を分離します</SmeltWeapon.description>
 	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
 	<MakeArtilleryShell.label>砲弾作成</MakeArtilleryShell.label>
-	<MakeArtilleryShell.description>溜弾を作成する</MakeArtilleryShell.description>
-	<MakeArtilleryShell.jobString>溜弾を作成中</MakeArtilleryShell.jobString>
+	<MakeArtilleryShell.description>砲弾を作成します</MakeArtilleryShell.description>
+	<MakeArtilleryShell.jobString>砲弾を作成中</MakeArtilleryShell.jobString>
 
 </LanguageData>

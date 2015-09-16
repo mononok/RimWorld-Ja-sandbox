@@ -3,21 +3,21 @@
 
   <!-- Major breaks-->
 
-    <Berserk.label>発狂</Berserk.label>
-    <Berserk.beginLetter>{0} は狂いだした!</Berserk.beginLetter>
+    <Berserk.label>凶暴</Berserk.label>
+    <Berserk.beginLetter>{0} は凶暴化した!</Berserk.beginLetter>
     <Berserk.recoveryMessage>{0} は正気を取り戻した</Berserk.recoveryMessage>
-    <Berserk.inspectLine>精神崩壊:発狂</Berserk.inspectLine>
+    <Berserk.inspectLine>精神崩壊:凶暴</Berserk.inspectLine>
 
   <!-- Minor breaks-->
 
 	<DazedWander.label>うわのそら</DazedWander.label>
 	<DazedWander.beginLetter>{0} は 茫然自失で、あたりをウロウロしています</DazedWander.beginLetter>
-	<DazedWander.recoveryMessage>もう {0} は 我を失うことはありません</DazedWander.recoveryMessage>
+	<DazedWander.recoveryMessage>もう {0} は 正気を取り戻しました</DazedWander.recoveryMessage>
 	<DazedWander.inspectLine>精神崩壊：うわのそらで 放浪</DazedWander.inspectLine>
 
 	<BingingAlcohol.label>アル中</BingingAlcohol.label>
-	<BingingAlcohol.beginLetter>{0} は 一日中飲まずには居られません</BingingAlcohol.beginLetter>
-	<BingingAlcohol.recoveryMessage>もう{0} は 酒に頼らずともやっていけます</BingingAlcohol.recoveryMessage>
+	<BingingAlcohol.beginLetter>{0} は 酒に溺れています</BingingAlcohol.beginLetter>
+	<BingingAlcohol.recoveryMessage>もう{0} は 酒を飲むのをやめました</BingingAlcohol.recoveryMessage>
 	<BingingAlcohol.inspectLine>精神崩壊：薬物依存症</BingingAlcohol.inspectLine>
 
   <!-- Special breaks-->

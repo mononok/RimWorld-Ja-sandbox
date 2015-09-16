@@ -12,8 +12,8 @@
 	<PlantsCut.verb>剪断</PlantsCut.verb>
     <PlantsCut.gerund>剪断</PlantsCut.gerund>
 
-	<FightFires.verb>消化</FightFires.verb>
-    <FightFires.gerund>消化</FightFires.gerund>
+	<FightFires.verb>消火</FightFires.verb>
+    <FightFires.gerund>消火</FightFires.gerund>
 
 	<Warden.verb>監視</Warden.verb>
     <Warden.gerund>監視</Warden.gerund>
@@ -24,16 +24,17 @@
 	<PatientGoToBed.verb>PatientGoToBed_verb</PatientGoToBed.verb>
 	<PatientGoToBed.gerund>PatientGoToBed_gerund</PatientGoToBed.gerund>
 
-  <!-- ============= Animal handling ============= --><Slaughter.verb>slaughter</Slaughter.verb>
-	<Slaughter.gerund>slaughtering</Slaughter.gerund>
-	<Milk.verb>milk</Milk.verb>
-	<Milk.gerund>milking</Milk.gerund>
-	<Shear.verb>shear</Shear.verb>
-	<Shear.gerund>shearing</Shear.gerund>
-	<Tame.verb>tame</Tame.verb>
-	<Tame.gerund>taming</Tame.gerund>
-	<Train.verb>train</Train.verb>
-	<Train.gerund>training</Train.gerund>
+  <!-- ============= Animal handling ============= -->
+	<Slaughter.verb>捌く</Slaughter.verb>
+	<Slaughter.gerund>屠殺</Slaughter.gerund>
+	<Milk.verb>しぼる</Milk.verb>
+	<Milk.gerund>搾乳</Milk.gerund>
+	<Shear.verb>刈る</Shear.verb>
+	<Shear.gerund>毛刈り</Shear.gerund>
+	<Tame.verb>手なずける</Tame.verb>
+	<Tame.gerund>手なずける</Tame.gerund>
+	<Train.verb>調教する</Train.verb>
+	<Train.gerund>調教</Train.gerund>
 
 	<!-- ============= Cleaning ============= -->
 
@@ -56,8 +57,8 @@
 	<Strip.verb>剥がす</Strip.verb>
 	<Strip.gerund>剥ぐ</Strip.gerund>
 
-	<Open.verb>open</Open.verb>
-	<Open.gerund>opening</Open.gerund>
+	<Open.verb>暴く</Open.verb>
+	<Open.gerund>発掘</Open.gerund>
 
 	<DoBillsCremate.verb>燃やす</DoBillsCremate.verb>
     <DoBillsCremate.gerund>焼却</DoBillsCremate.gerund>

@@ -48,16 +48,19 @@
         <InstallPowerClaw.label>かぎ爪改造</InstallPowerClaw.label>
         <InstallPowerClaw.description>大きなかぎ爪を移植する</InstallPowerClaw.description>
         <InstallPowerClaw.jobString>かぎ爪改造</InstallPowerClaw.jobString>
-        <InstallScytherBlade.label>install scyther blade</InstallScytherBlade.label>
-        <InstallScytherBlade.description>Installs scyther blade.</InstallScytherBlade.description>
-        <InstallScytherBlade.jobString>Installing scyther blade.</InstallScytherBlade.jobString>
 
-        <!-- implants --><InstallJoywire.label>install joywire</InstallJoywire.label>
-	<InstallJoywire.description>Installs joywire.</InstallJoywire.description>
-	<InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
-	<InstallPainstopper.label>install painstopper</InstallPainstopper.label>
-	<InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
-	<InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+        <InstallScytherBlade.label>カマ状刃移植</InstallScytherBlade.label>
+        <InstallScytherBlade.description>カマ状刃を移植する</InstallScytherBlade.description>
+        <InstallScytherBlade.jobString>カマ状刃を移植中</InstallScytherBlade.jobString>
+
+        <!-- implants -->
+        <InstallJoywire.label>ジョイワイヤー移植</InstallJoywire.label>
+	<InstallJoywire.description>ジョイワイヤーを移植する</InstallJoywire.description>
+	<InstallJoywire.jobString>ジョイワイヤーを移植する</InstallJoywire.jobString>
+
+	<InstallPainstopper.label>ペインストッパーを移植</InstallPainstopper.label>
+	<InstallPainstopper.description>ペインストッパーを移植する</InstallPainstopper.description>
+	<InstallPainstopper.jobString>ペインストッパーを移植する</InstallPainstopper.jobString>
 
 	<!-- removing body parts -->
 
@@ -72,11 +75,11 @@
 	<!-- Euthanization -->
 
         <Euthanize.label>安楽死</Euthanize.label>
-        <Euthanize.description></Euthanize.description>
-        <Euthanize.jobString></Euthanize.jobString>
+        <Euthanize.description>安楽死させる</Euthanize.description>
+        <Euthanize.jobString>安楽死</Euthanize.jobString>
 
         <ShutDownMechanoid.label>シャットダウン</ShutDownMechanoid.label>
-        <ShutDownMechanoid.description></ShutDownMechanoid.description>
-        <ShutDownMechanoid.jobString></ShutDownMechanoid.jobString>
+        <ShutDownMechanoid.description>シャットダウンする</ShutDownMechanoid.description>
+        <ShutDownMechanoid.jobString>シャットダウン</ShutDownMechanoid.jobString>
 
 </LanguageData>

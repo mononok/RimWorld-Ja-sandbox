@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <RecruitPrisonerChance.label>説得力</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>囚人を勧誘する時の 基本的な成功率を表します</RecruitPrisonerChance.description>
+    <RecruitPrisonerChance.label>勧誘成功率</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>囚人を勧誘する時の基本的な成功率を表します</RecruitPrisonerChance.description>
 
-    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
-    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
-    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    <TameAnimalChance.label>飼い馴らし成功率</TameAnimalChance.label>
+    <TameAnimalChance.description>生き物を飼い馴らす時の基本的な成功率を表します</TameAnimalChance.description>
+
+    <TrainAnimalChance.label>調教成功率</TrainAnimalChance.label>
+    <TrainAnimalChance.description>生き物を調教する時の基本的な成功率を表します</TrainAnimalChance.description>
+
     <SocialImpact.label>政治力</SocialImpact.label>
     <SocialImpact.description>社交性を発揮した時に どれだけの影響を与えるかを表します</SocialImpact.description>
 

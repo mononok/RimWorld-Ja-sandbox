@@ -18,7 +18,8 @@
 
     <PlantWorkSpeed.label>栽培速度</PlantWorkSpeed.label>
     <PlantWorkSpeed.description>種子を蒔いたり 収穫したりする時の 速度を表します</PlantWorkSpeed.description>
-    <HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-    <HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
+
+    <HarvestFailChance.label>収穫ミス確率</HarvestFailChance.label>
+    <HarvestFailChance.description>この人物が、収穫する代わりに、予期せず損なってしまう確率を表します</HarvestFailChance.description>
 
 </LanguageData>

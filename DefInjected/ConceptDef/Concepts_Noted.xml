@@ -28,12 +28,12 @@
 
 	<rep>
 		<path>Drafting.helpTexts[0]</path>
-		<trans>入植者に戦場で直接指示を与えたい時は、入植者を選択した後に DRAFT ボタンを押します。彼らはあなたの指示に従って、自分の持っている武器を使って戦闘します。\n\n戦闘終了後には、DRAFT を解除し忘れないで下さい。彼らは忠実に飢え死にするまで従いますから </trans>
+		<trans>入植者達を、戦闘時に直接操作したいとき、入植者を選択した後に"徴兵"ボタンを押します。彼らはあなたの指示に従い、自分の持っている武器を使って戦闘します。\n\n戦闘終了後には、"徴兵"を解除し忘れないで下さい。そのうち彼らは、飢えて不機嫌になるでしょうから</trans>
 	</rep>
 
 	<rep>
 		<path>AnimalsDontAttackDoors.helpTexts[0]</path>
-		<trans>あなたに襲いかかってきた動物達は、一般にはドアを攻撃しません。\n\n壁の内側に入り込めば、彼らから逃げられますが、彼らもあなたを待っています</trans>
+		<trans>人を襲う動物達は、一般にドア、稼働していないタレットを攻撃しません。\n\n壁の裏側や、建物の内側に入り込めば、彼らから逃げられますが、彼らもあなたを待っています</trans>
 	</rep>
 
 	<rep>
@@ -43,7 +43,7 @@
 
 	<rep>
 		<path>AnimalTraining.helpTexts[0]</path>
-		<trans>You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions.</trans>
+		<trans>家畜は、"調教"タブから固有のスキルを調教することができます。\n\n動物は、途切れなく調教することはできません、調教の合間には時間をおく必要があります</trans>
 	</rep>
 
 	<rep>
@@ -63,11 +63,11 @@
 
 	<rep>
 		<path>Deterioration.helpTexts[0]</path>
-		<trans>アイテムを野外に放置しておくと劣化します。\n\nアイテムを長期間に渡って保管したいときは、屋根のある場所を選びます</trans>
+		<trans>アイテムを野外に放置しておくとゆっくりと劣化していきます\n\nアイテムを長期間に渡って保管したいときは、屋根のある場所を選びます</trans>
 	</rep>
 
 	<rep>
 		<path>InspectRoomStats.helpTexts[0]</path>
-		<trans>You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right.</trans>
+		<trans>部屋の、見栄えのよさ、豪華さ、美しさを見るには、右下にある"ROOM STATS INSPECT"ボタンを使用します</trans>
 	</rep>
 </LanguageData>

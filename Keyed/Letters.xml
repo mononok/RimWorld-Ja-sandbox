@@ -14,10 +14,10 @@
 <ColonyGoodwill>村の 友好度</ColonyGoodwill>
 <Neutral>中立</Neutral>
 
-<ShortCircuitRain>{0} は 雨で短絡し、 発火しました。</ShortCircuitRain>
+<ShortCircuitRain>{0} は雨で短絡し、発火しました。</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>発見</LetterLabelAreaRevealed>
-  <AreaRevealed>新しいゾーンが 明らかになりました</AreaRevealed>
+  <AreaRevealed>新しいゾーンが明らかになりました</AreaRevealed>
   <AreaRevealedWithMechanoids>新しいゾーンが明らかになりましたが、古代の敵対するメカノイドがいます</AreaRevealedWithMechanoids>
 
 <RoofCollapsed>屋根の 支えが 遠すぎたため、 自重で 崩壊しました。</RoofCollapsed>
@@ -42,13 +42,13 @@
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
   <AnimalBerserkFromDamage>{0}は手負いの獣になった</AnimalBerserkFromDamage>
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <AnimalManhunterFromTaming>手なづけるのに失敗し、{0} は襲いかかってきた</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>そばにいた、他の {0} もいっせいに怒り狂った</AnimalManhunterOthers>
 
   <LetterFriendlyTrapSprungLabel>{0} 罠にひかっかった</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} は不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} has developed {1} as a complication of {2}.</LetterHealthComplications>
+  <LetterHealthComplications>{0} は、{2} の合併症で、{1} を患った。</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
 
   <!-- Generalized letter labels -->

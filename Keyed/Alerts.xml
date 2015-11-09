@@ -9,9 +9,9 @@
 <NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
 
   <PoorMood>良くない雰囲気</PoorMood>
-  <PoorMoodDesc>入植者は良くない雰囲気に飲み込まれていて いつでも精神が崩壊するかもしれません。\n\n{0}\nこの入植者の悩み事を注意深く見守ってください。</PoorMoodDesc>
+  <PoorMoodDesc>入植者は良くない雰囲気に飲み込まれていて いつなんどき精神衰弱が起きるかもしれません。\n\n{0}</PoorMoodDesc>
   <TerribleMood>悪い雰囲気</TerribleMood>
-  <TerribleMoodDesc>入植者は致命的なストレス下にあり、いつ精神が壊れて暴力的になってもおかしくありません。\n\n{0}\nこの入植者の悩み事を取り除きましょう。</TerribleMoodDesc>
+  <TerribleMoodDesc>入植者は致命的なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
@@ -19,41 +19,41 @@
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません：\n\n{0}\n他の 入植者に 救助を 指示し、 ベッドまで はこびましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <BuildARoom>部屋をつくる</BuildARoom>
-<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。 計画を 指定しておけば、 入植者は 自分で考えて 仕事をします。</BuildARoomDesc>
+<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。 計画を 指定しておけば、 入植者は 自分で考えて 作業をします。</BuildARoomDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\nタレットを いくつか 作りましょう。</NeedDefensesDesc>
 
 <NeedDoctor>誰かに看護させましょう</NeedDoctor>
-<NeedDoctorDesc>ベッドで 患者が 空腹を うったえています。 患者には 看護が 必要ですが、 看護の 仕事をする 入植者が いません。\n\n{0}\n健常な 入植者に 看護の 仕事を 割り振りましょう。</NeedDoctorDesc>
+<NeedDoctorDesc>ベッドで 患者が 痛みを うったえています。 患者には 治療が 必要ですが、 医者の 作業をする 健常な入植者が いません。\n\n{0}\n健常な 入植者に 医者の 作業を 割り振りましょう。もし、治療せずに ほおっておくと 慢性化して治らなくなるでしょう。</NeedDoctorDesc>
 
 <NeedMiner>岩を掘る</NeedMiner>
-<NeedMinerDesc>岩を掘る 指示がありますが、 入植者たちに 岩を掘る 仕事を あたえていません。\n\n入植者に 岩を掘る 仕事を 割り振りましょう。</NeedMinerDesc>
+<NeedMinerDesc>岩を掘る 指示がありますが、 入植者たちに 岩を掘る 作業を あたえていません。\n\n入植者に 岩を掘る 作業を 割り振りましょう。</NeedMinerDesc>
 
-<NeedWarden>囚人に監視を</NeedWarden>
-<NeedWardenDesc>囚人が いるものの、 入植者に 監視員の 仕事を あたえていません。\n\n入植者に 監視員の 仕事を 割り振りましょう。</NeedWardenDesc>
+<NeedWarden>囚人に看守を</NeedWarden>
+<NeedWardenDesc>囚人が いるものの、 入植者に 看守の 作業を あたえていません。\n\n入植者に 看守の 作業を 割り振りましょう。</NeedWardenDesc>
 
 <LowFood>食材が足りない</LowFood>
 <LowFoodDesc>倉庫に {0} 単位の 食材しか ありません。 これは とても危険です。 \n\n食材を 育てるか、 探すか、 または 狩ってください。</LowFoodDesc>
 
 <LowMedicine>薬品が足りない</LowMedicine>
-<LowMedicineDesc>倉庫に {0}単位の薬品しかありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
+<LowMedicineDesc>倉庫に {0} 単位の薬品しかありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
 <NoMedicineDesc>倉庫には、ひとつも薬品がありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</NoMedicineDesc>
 
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>入植者内のハンターは武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為にも、射程の長い武器を勧めます</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為に 射程の長い武器を持たせることを勧めます。</HunterLacksWeaponDesc>
 
 <Starvation>食べる物がない</Starvation>
-<StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペースト ディスペンサー など 調理の 食材を 確保して ください。 また、 この者たちへの 仕事を 中止 してください。</StarvationDesc>
+<StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペーストディスペンサー のような栄養供給源が必要です。 "徴兵"されていないことも 確認してください。</StarvationDesc>
 
 <Exhaustion>入植者に休息を</Exhaustion>
-<ExhaustionDesc>つぎの 入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です。 次の 名前がついた ベッドを 確保してください。 また、 この者たちへの 仕事を 中止 してください。</ExhaustionDesc>
+<ExhaustionDesc>つぎの 入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です。 彼らは 入植者用ベッドを 必要としています。 "徴兵"されていないことも 確認してください。</ExhaustionDesc>
 
-<NeedFoodHopper>食品ホッパー</NeedFoodHopper>
-<NeedFoodHopperDesc>ディスペンサーに 隣接した 食品ホッパーを つくりましょう。\n\nペースト ディスペンサーは 食材ホッパーから 未調理の 食材を 引き出して 動作します。\n\n食材ホッパーが 隣接していない ディスペンサーが あります。 </NeedFoodHopperDesc>
+<NeedFoodHopper>食材ホッパー</NeedFoodHopper>
+<NeedFoodHopperDesc>ペーストディスペンサーに 隣接して 食材ホッパーを つくりましょう。\n\nペースト ディスペンサーは 食材ホッパーから 生の食材を 引き出して 動作します。\n\n食材ホッパーが 隣接していない ペーストディスペンサーが あります。 </NeedFoodHopperDesc>
 
 <BuildingNeedsPower>機器に電気を</BuildingNeedsPower>
 <BuildingsNeedPower>電気が必要です</BuildingsNeedPower>
@@ -72,32 +72,33 @@
 <NoTradingCapacity>商船と取引</NoTradingCapacity>
 <NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過しようとする 商船と アイテムの 取り引きが できるように なります。</NoTradingCapacityDesc>
 
-<BrawlerHasRangedWeapon>格闘家が近接武器以外を装備しています</BrawlerHasRangedWeapon>
-<BrawlerHasRangedWeaponDesc>入植者の中の格闘家には、近接武器を装備させた方が得策です。</BrawlerHasRangedWeaponDesc>
+<BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
+<BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことが彼を非常に不愉快にさせます。</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>パーソナルシールド持ちが遠距離武器で武装しています</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>シールド越しに遠距離武器を 離れた敵には使用できません</ShieldUserHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>ある入植者は パーソナルシールドを装備し、遠距離武器で武装しています。パーソナルシールド越しに 遠距離武器を 発砲することはできません(標的と接している場合は除きます)。</ShieldUserHasRangedWeaponDesc>
 
 <NeedResearchProject>研究計画</NeedResearchProject>
 <NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
 <NeedDump>ガレキを捨てる</NeedDump>
-<NeedDumpDesc>入植者は 岩をどかせたいと 考えていますが、 どこに どけるか 悩んでいます。\n\n備蓄ゾーンを 選択して 岩の許可を 設定します。</NeedDumpDesc>
+<NeedDumpDesc>あなたは {0} を運ぶように指示しましたが、入植者がそれを運んでいく場所がありません。\n\n備蓄ゾーンを 選択して {0} を保管する許可を 設定します。</NeedDumpDesc>
 
   <!-- Removed
   <NeedGrave>死体の処分</NeedGrave>
   <NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 廃棄ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
   -->
 
-<ColonistsIdle>入植者 {0} 人に仕事を</ColonistsIdle>
-<ColonistsIdleDesc>次の入植者は 仕事がなく 散歩しています：\n\n{0}\n休暇を あたえている ので なければ、 何か 仕事を 割り振りましょう。</ColonistsIdleDesc>
+<ColonistsIdle>入植者 {0} に作業を</ColonistsIdle>
+<ColonistsIdleDesc>次の入植者は 作業がなく 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう。</ColonistsIdleDesc>
 
   <!-- Removed
   <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
   <HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
   -->
 
-  <ColonistNeedsTreatment>処置室</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>低体温症</AlertHypothermia>
@@ -107,16 +108,16 @@
   <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
 
   <FireInHomeRegion>火災発生!</FireInHomeRegion>
-  <FireInHomeRegionDesc>敷地内にて火災発生</FireInHomeRegionDesc>
+  <FireInHomeRegionDesc>村内にて火災発生</FireInHomeRegionDesc>
 
-  <PawnsWithLifeThreateningDisease>重傷</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>入植者は重傷を負って死にかけています:\n\n{0}\nできるかぎりの治療が行われます</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>入植者は重傷を負って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>大病を患って死にかけています:\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>大病を患って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>ビリヤード台を置くには、もっとスペースが必要です</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>ビリヤード台の一つは、入植者が使うのを妨げる障害物に隣接しています。\n\nビリヤード台の周り、四方にスペースが必要です</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>あるビリヤード台は障害物に隣接している為に、入植者が使おうとするのを邪魔しています。\n\nビリヤード台の周り、四方にスペースが必要です</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>ハンターが遠距離武器と、パーソナルシールドを装備しています。</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>あるハンターは、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩猟に出かけないでしょう。</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>ハンターとシールド</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩りができません。</HunterHasShieldAndRangedWeaponDesc>
 
 </LanguageData>

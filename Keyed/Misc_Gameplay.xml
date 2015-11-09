@@ -25,7 +25,7 @@
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
   <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>免疫抗体を作成中</ImmunityDevelopmentProgress>
+  <Immunity>免疫抗体を作成中</Immunity>
   <Race>人種</Race>
   <Description>概要</Description>
   <Equipment>装備</Equipment>
@@ -49,33 +49,33 @@
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
-  <TreatQuality>treat quality {0}</TreatQuality>
-  <PoorResult>poor result</PoorResult>
-  <GoodResult>good result</GoodResult>
-  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
-  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
-  <HarvestFailed>Harvest\nfailed</HarvestFailed>
-  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
-  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
-  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
-  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+  <TreatQuality>治療成果 {0}</TreatQuality>
+  <PoorResult>悪い結果</PoorResult>
+  <GoodResult>良い結果</GoodResult>
+  <TextMote_TreatSuccess>治療に成功した!\n成功率 {0}</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>治療に失敗した\n成功率 {0}</TextMote_TreatFailed>
+  <HarvestFailed>収穫に失敗した</HarvestFailed>
+  <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
+  <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
+  <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
+  <TextMote_TrainSuccess>{0} 調教した\n成功率 {1}</TextMote_TrainSuccess>
 
 
   <!-- Areas -->
-  <Home>Home</Home>
-  <NoRoof>No roof</NoRoof>
-  <SnowClear>Snow clear</SnowClear>
+  <Home>村</Home>
+  <NoRoof>屋根無し</NoRoof>
+  <SnowClear>除雪済み</SnowClear>
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
+  <AreaAnimalDefaultLabel>放牧エリア {0}</AreaAnimalDefaultLabel>
   <NoAreaAllowed>無制限</NoAreaAllowed>
   <NewArea>新しいエリア</NewArea>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
+  <NewAreaAnimal>新しい放牧エリア</NewAreaAnimal>
   <InvertArea>反転</InvertArea>
 
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{0}は野蛮なことはできません</IsIncapableOfViolence>
-  <IsNotDrafted>{0}は徴兵されていない</IsNotDrafted>
+  <IsIncapableOfViolence>{0} は野蛮なことはできません</IsIncapableOfViolence>
+  <IsNotDrafted>{0} は徴兵されていない</IsNotDrafted>
 
   <!-- Snow -->
   <SnowNone>積雪ゼロ</SnowNone>
@@ -93,7 +93,7 @@
 
   <!-- Job reports -->
   <ReportHaulingTo>{0} を {1} に 運搬中</ReportHaulingTo>
-  <ReportHauling>{0}を 運搬中</ReportHauling>
+  <ReportHauling>{0} を 運搬中</ReportHauling>
   <ReportSleeping>就寝中</ReportSleeping>
   <ReportResting>休憩中</ReportResting>
   <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
@@ -107,19 +107,19 @@
 
 	<!-- Shooting report -->
 <WeaponMissRadius>攻撃角度</WeaponMissRadius>
-<ShootReportSkill>スキル</ShootReportSkill>
-<ShootReportWeapon>Weapon</ShootReportWeapon>
+	<ShootReportShooterAbility>射手</ShootReportShooterAbility>
+<ShootReportWeapon>武器</ShootReportWeapon>
 <Darkness>暗い</Darkness>
 <TargetProne>的にしやすい</TargetProne>
 <TargetSize>標的サイズ</TargetSize>
 <Weather>天候</Weather>
-<ShootingCover>身を隠すカバー</ShootingCover>
+<ShootingCover>身を隠す障害物</ShootingCover>
 <CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
-<NoCoverLower>身を隠すカバーが ない</NoCoverLower>
+<NoCoverLower>身を隠せない</NoCoverLower>
 
   <!-- Generated recipes -->
-  <RecipeMake>Make {0}</RecipeMake>
-  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  <RecipeMake>{0} を作る</RecipeMake>
+  <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
 
 <!-- Thoughts -->
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
@@ -214,8 +214,8 @@
 	<Stockpile>備蓄ゾーン</Stockpile>
 	<DumpingStockpile>廃棄ゾーン</DumpingStockpile>
 	<Priority>使用優先度</Priority>
-    <ClearAll>Clear all</ClearAll>
-  <AllowAll>Allow all</AllowAll>
+    <ClearAll>全て消去</ClearAll>
+  <AllowAll>全て許可</AllowAll>
 
   <!-- ThingFilter -->
 	<HitPoints>HP : {0}</HitPoints>
@@ -226,12 +226,12 @@
 	<Undiscovered>未調査</Undiscovered>
 
 	<!-- Buttons -->
-	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え。</ZoneVisibilityToggleButton>
-	<ShowBeautyToggleButton>住環境の可視 切り替え.\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
-    <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
+	<ShowBeautyToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
+    <ShowRoomStatsToggleButton>ルームステータスの可視 切り替え\n\nマウスでポイントした場所のルームステータスを表示します</ShowRoomStatsToggleButton>
 	<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
-	<CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
-    <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
+    <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
@@ -240,7 +240,7 @@
 	<FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
 	<!-- Map conditions (eclipse, solar flare, etc )-->
-	<MapConditionsTip>この地域に 影響中の 特殊な状況。</MapConditionsTip>
+	<MapConditionsTip>この地域に 影響中の 特殊な状況</MapConditionsTip>
 
 	<!-- Building placement -->
 	<NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
@@ -251,8 +251,8 @@
 	<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
 	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
-	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です</MustPlaceVentWithFreeSpaces>
-	<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.(Keyed/Misc_Gameplay.xml)</MustPlaceAdjacentStandable>
+	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>全ての面において、人が立てるスペースが必要です。</MustPlaceAdjacentStandable>
 
 	<!-- Wind Turbine -->
 	<WindTurbine_WindPathIsBlockedBy>邪魔している物：</WindTurbine_WindPathIsBlockedBy>
@@ -270,7 +270,7 @@
 	<ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
 
 	<!-- Neurotrainer -->
-	<UseNeurotrainer>{0} を学ぶ為に neurotrainer を使用する</UseNeurotrainer>
+	<UseNeurotrainer>{0} を学ぶ為に ニューロトレイナーを使用する</UseNeurotrainer>
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
   <!-- Artifact -->

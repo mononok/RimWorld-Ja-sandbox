@@ -47,8 +47,8 @@
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>NAME という名前の {0} が 到着し 村の 仲間に くわわりました。</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>人間狩り集団</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>人間を狩る集団 {0} がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
 
 <!-- Crashed ship part-->
 <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスで ちかくの動物に 狂気を  照射しました。</MessageAnimalInsanityPulse>
@@ -94,7 +94,7 @@
   <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>希少な thrumbos</LetterLabelThrumboPasses>
   <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
 
 </LanguageData>

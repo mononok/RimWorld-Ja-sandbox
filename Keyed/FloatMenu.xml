@@ -7,9 +7,9 @@
   <CannotUseReason>使用できません ({0})</CannotUseReason>
 <CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
 <CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
-<CannotUseNoPath>使用できません （パスがない）</CannotUseNoPath>
+<CannotUseNoPath>使用できません （道順がない）</CannotUseNoPath>
 <CannotUseReserved>使用できません (予約済)</CannotUseReserved>
-<CannotUseFull>使用できません (満載l)</CannotUseFull>
+<CannotUseFull>使用できません (満載)</CannotUseFull>
 
 <FireAt>{0} を 射撃</FireAt>
 
@@ -31,7 +31,7 @@
 <AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
 <MissingMaterials>資材が ない</MissingMaterials>
   <MissingSkill>スキルが低すぎる</MissingSkill>
-    <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+    <NoEmptyGraveLower>墓地の空きが無い</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
   <NoUsableFood>no usable food</NoUsableFood>
   <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
@@ -40,7 +40,7 @@
   <Teetotaler>teetotaler</Teetotaler>
 
 
-<CannotGoNoPath>たどり着く ルートが ありません</CannotGoNoPath>
+<CannotGoNoPath>たどり着く 道順が ありません</CannotGoNoPath>
 <GoHere>ここに移動</GoHere>
 
 <Arrest>{0} を 逮捕</Arrest>
@@ -57,8 +57,8 @@
   <CannotCarryToCryptosleepCasket>冬眠カプセル に 運べません</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルが無い</NoCryptosleepCasket>
-<NoPrisonerBed>石壁・メタル壁で 囲った 囚人用 ベッドが ありません。</NoPrisonerBed>
-<NoNonPrisonerBed>利用可能な 入植者用 ベッドが ありません</NoNonPrisonerBed>
+<NoPrisonerBed>周囲と壁で遮断された、囚人用ベッドがありません。</NoPrisonerBed>
+<NoNonPrisonerBed>周囲と壁で遮断された、入植者用ベッドがありません。</NoNonPrisonerBed>
 <Reserved>他の誰かが 使用しています。</Reserved>
 <ReservedBy>{0} が 使用中です。</ReservedBy>
 <IsReservedBy>{0} は {1} が 使用しています。</IsReservedBy>

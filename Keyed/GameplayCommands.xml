@@ -22,7 +22,7 @@
   <!-- Drafting -->
 <CommandDraftLabel>徴兵</CommandDraftLabel>
 <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
-<CommandToggleDraftDesc>入植者を 徴兵します。\n\n徴兵中の 入植者は 戦闘と 与えた 指示のみ 実行します。\n\n別の 仕事を はじめたり、 食事や 睡眠を あたえる時は 徴兵終了 してください。</CommandToggleDraftDesc>
+<CommandToggleDraftDesc>入植者を 徴兵します。\n\n徴兵中の 入植者は 戦闘と 与えた 指示のみ 実行します。\n\n別の 作業を はじめたり、 食事や 睡眠を あたえる時は 徴兵終了 してください。</CommandToggleDraftDesc>
 <IsIncapped>{0} を 無力化 しました。</IsIncapped>
 
 
@@ -39,15 +39,15 @@
   <CommandGraveSetToUnassignedLabel>無記名にする</CommandGraveSetToUnassignedLabel>
   <CommandGraveSetToUnassignedDesc>墓所を無名にします。</CommandGraveSetToUnassignedDesc>
   <BuildingAssign>Assign</BuildingAssign>
-<CommandBedSetForPrisonersLabel>囚人用 ベッドに 設定</CommandBedSetForPrisonersLabel>
-<CommandBedSetForPrisonersDesc>Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
-<CommandBedSetForPrisonersFailOutdoors>Cannot set outdoor beds to be for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-<CommandBedSetForColonistsLabel>入植者用 ベッドに 設定</CommandBedSetForColonistsLabel>
-<CommandBedSetForColonistsDesc>Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>医療用 ベッドに 設定</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>医療用 ベッドを 解除</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
+<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
+<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
+<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを囚人用に割り当てできません。</CommandBedSetForPrisonersFailOutdoors>
+<CommandBedSetForColonistsLabel>入植者用ベッドに設定</CommandBedSetForColonistsLabel>
+<CommandBedSetForColonistsDesc>ベッドのある部屋も含めて、入植者用に割り当てます。</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>医療用ベッドを解除</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>医療用ベッドから解除します。</CommandBedSetAsNonMedicalDesc>
 <TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
 <TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
 <AreYouSure>本当に よろしいですか？</AreYouSure>

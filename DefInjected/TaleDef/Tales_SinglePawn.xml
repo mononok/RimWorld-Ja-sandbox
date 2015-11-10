@@ -4,31 +4,31 @@
     <!-- LandedInPod -->
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[0]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は脱出カプセルで着陸する。[desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 脱出カプセルで着陸しようとしている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は脱出カプセルで地上に降り立つ。[desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 脱出カプセルで地上に降り立たとうとしている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は脱出カプセルごと地表に叩きつけられる。[desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 脱出カプセルごと地表に叩きつけられようとしている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は脱出カプセルの中で目が覚める。[desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 脱出カプセルの中で目を覚まそうとしている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->[terrainfeature]の目前で</trans>
+		<trans>circumstance_phrase->それは[terrainfeature]の目前で</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->途方もない力を受け</trans>
+		<trans>circumstance_phrase->いきなり途方もない力を受けて</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->吹き出したチリや隕石群が当たったせいで</trans>
+		<trans>circumstance_phrase->高速度の 吹き出したチリや隕石群に襲われて</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[7]</path>
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[8]</path>
-		<trans>circumstance_phrase->着陸操作を行ったがしかし</trans>
+		<trans>circumstance_phrase->精密着陸操作を行い 着陸フェーズ中</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[9]</path>
@@ -115,7 +115,7 @@
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[7]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+		<trans>desc_sentence->[pawn_pronoun]は まわりで何が起きているのか 分からないように見える。</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[8]</path>
@@ -162,99 +162,99 @@
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[2]</path>
-		<trans>image->[pawn_nameFull] greedily collecting bottles of liquor [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、貪欲にリキュールの瓶を集めている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[3]</path>
-		<trans>image->[pawn_nameFull] drinking heavily [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、酒を飲みすぎている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->oblivious to [pawn_possessive] surroundings</trans>
+		<trans>circumstance_phrase->辺り構わずに</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->in a brooding stupor</trans>
+		<trans>circumstance_phrase->人事不省に陥ってくよくよしている</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->while questioning [pawn_possessive] own existence</trans>
+		<trans>circumstance_phrase->自身の存在価値を疑われてる上に</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->with tears in [pawn_possessive] eyes</trans>
+		<trans>circumstance_phrase->眼を掻きむしりながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[8]</path>
-		<trans>circumstance_phrase->while chuckling madly</trans>
+		<trans>circumstance_phrase->気が狂ったようにクスクス笑いながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[9]</path>
-		<trans>circumstance_phrase->while sobbing</trans>
+		<trans>circumstance_phrase->すすり泣いた上に</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[10]</path>
-		<trans>circumstance_phrase->while looking pathetic</trans>
+		<trans>circumstance_phrase->救いようが無い上に</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[11]</path>
-		<trans>circumstance_phrase->while glaring angrily at people around [pawn_objective]</trans>
+		<trans>circumstance_phrase->[pawn_objective]に怒りをたぎらせた上</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[12]</path>
-		<trans>circumstance_phrase->while leering at someone nearby</trans>
+		<trans>circumstance_phrase->そばに居る人をいやらしい目つきで見た上</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[13]</path>
-		<trans>circumstance_phrase->while attempting to disrobe</trans>
+		<trans>circumstance_phrase->服を脱ごうとしながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[14]</path>
-		<trans>circumstance_phrase->with a finger in [pawn_possessive] mouth</trans>
+		<trans>circumstance_phrase->[pawn_possessive]口に指をやりながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[15]</path>
-		<trans>circumstance_phrase->while holding back vomit</trans>
+		<trans>circumstance_phrase->吐きそうなのをこらえながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[16]</path>
-		<trans>circumstance_phrase->without a care in the world</trans>
+		<trans>circumstance_phrase->世の中の事なんて気にもせずに</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[17]</path>
-		<trans>circumstance_phrase->with a lustful glint in [pawn_possessive] eye</trans>
+		<trans>circumstance_phrase->色目を使いながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[18]</path>
-		<trans>circumstance_phrase->while reviewing the ghosts of [pawn_possessive] past</trans>
+		<trans>circumstance_phrase->昔に見たゴーストについて自説をときながら</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[19]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+		<trans>desc_sentence->[pawn_pronoun]は まわりで何が起きているか まったく気がつかないようにみえる。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[20]</path>
-		<trans>desc_sentence->[pawn_possessive] face itself seems to be swelling.</trans>
+		<trans>desc_sentence->[pawn_possessive]の顔は、むくんでいる様に見える。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[21]</path>
-		<trans>desc_sentence->[pawn_pronoun] is nearly unconscious, [pawn_possessive] tongue lolling out, drool dripping.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は気を失いかけ、舌がだらりと口からはみ出し、よだれをポタポタと垂らしている。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[22]</path>
-		<trans>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、幸せと悲しみが同居しているように見える。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[23]</path>
-		<trans>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、服の前にシミを付けた。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[24]</path>
-		<trans>desc_sentence->There is a trail of discarded beverage containers behind [pawn_objective].</trans>
+		<trans>desc_sentence->[pawn_objective]の背後には、飲み物の箱が点々と捨てられている。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[25]</path>
-		<trans>desc_sentence->There is a white substance on [pawn_possessive] pants.</trans>
+		<trans>desc_sentence->[pawn_possessive]のパンツに白いシミがついている。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[26]</path>
@@ -269,23 +269,23 @@
     <!-- WasOnFire -->
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[0]</path>
-		<trans>image->[pawn_nameFull] frantically beating out a fire attached to [pawn_possessive] body [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 気も狂わんばかりに [pawn_possessive]身体についた炎を叩き消している。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[1]</path>
-		<trans>image->[pawn_nameFull] enveloped by flame [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 炎に包まれた。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[2]</path>
-		<trans>image-> [circumstance_group]、[pawn_nameFull]はひざまづいて、両手を頭の上に挙げ、自分の身体に降りかかった火の粉を消そうとしている。[desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は膝をついて、両手で頭に降りかかった火の粉を消そうとしている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[3]</path>
-		<trans>image->[pawn_nameFull] rolling on the floor while burning [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 床のうえで燃えながらゴロゴロと転がっている。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->while attempting to disrobe</trans>
+		<trans>circumstance_phrase->服を脱ぎ捨てようとしつつ</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[5]</path>
@@ -301,7 +301,7 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[8]</path>
-		<trans>desc_sentence->[pawn_possessive] flesh is visibly charring.</trans>
+		<trans>desc_sentence->[pawn_possessive]肌は みるみる黒焦げになっている。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[9]</path>
@@ -309,7 +309,7 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[10]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems to be barely conscious; [pawn_possessive] eyes are lifeless.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、かろうじて意識があるようだが、その眼には生気がないようだ。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[11]</path>
@@ -317,7 +317,7 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[12]</path>
-		<trans>desc_sentence->The flames are about to envelope his head.</trans>
+		<trans>desc_sentence->まさに頭を炎が包もうとしている。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[13]</path>
@@ -325,58 +325,58 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[14]</path>
-		<trans>desc_sentence->[pawn_pronoun] is laughing maniacally.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は 気が狂ったかのように笑っている。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[15]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems to be losing [pawn_objective]self.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、負けた。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[16]</path>
-		<trans>desc_sentence->A plume of smoke is rising off [pawn_objective].</trans>
+		<trans>desc_sentence->身体から火柱が立ち昇る。</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[17]</path>
-		<trans>desc_sentence->[pawn_pronoun] is rendered artistically in a corpse-like way.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、死骸のようなものを芸術的に描写した。</trans>
 	</rep>
 
 
     <!-- MentalBreakBerserk -->
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[0]</path>
-		<trans>image->[pawn_nameFull] flying into a berserk rage [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 烈火のごとく怒り凶暴になる。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[1]</path>
-		<trans>image->[pawn_nameFull] becoming madly, violently insane [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は気が狂い、狂ったように乱暴になる。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[2]</path>
-		<trans>image->[pawn_nameFull] stumbling forward with a psychotic look on [pawn_possessive] face [circumstance_group]. [desc_sentence_group]</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、病的な顔つきで、よろよろと前に進んでいる。[desc_sentence_group]</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[3]</path>
-		<trans>circumstance_phrase->while attempting to disrobe</trans>
+		<trans>circumstance_phrase->服を脱ぎ捨てようとしつつ</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->seemingly without reason</trans>
+		<trans>circumstance_phrase->見たところ理由も無しに</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->as others cower in fear</trans>
+		<trans>circumstance_phrase->他の者は恐れに身をちじこませなか</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->as a friend flees</trans>
+		<trans>circumstance_phrase->友人も逃げ出すなか</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->because of the stress</trans>
+		<trans>circumstance_phrase->ストレスによって</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[8]</path>
-		<trans>circumstance_phrase->as a last step</trans>
+		<trans>circumstance_phrase->最後の段階として</trans>
 	</rep>
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[9]</path>

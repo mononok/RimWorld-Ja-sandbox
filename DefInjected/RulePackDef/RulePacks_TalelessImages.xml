@@ -3,15 +3,15 @@
 
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[0]</path>
-        <trans>image->[outlander]を取り囲んでいる。 [part2]</trans>
+        <trans>image->[outlander]を [outlander]達が 取り囲んでいる。[part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[1]</path>
-        <trans>image->[outlander]は [quantity_adjphrase]で [game]を楽しんでいる。[part2]</trans>
+        <trans>image->[outlander]は [quantity_adjphrase]の [outlander]達と [game]をしている。[part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[2]</path>
-        <trans>image->[outlander] [subject_desc]  [weapon] をつかんだ。[part2]</trans>
+        <trans>image->[outlander]は [weapon]を掴んで [subject_desc]。[part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[3]</path>
@@ -19,11 +19,11 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[4]</path>
-        <trans>image->[adjective] [outlander] は [apparel] を着た. [part2]</trans>
+        <trans>image->[adjective] [outlander]は [apparel]を 着た. [part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[5]</path>
-        <trans>image->[apparel] [subject_desc] [part2]</trans>
+        <trans>image->からっぽの[apparel] [subject_desc] [part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[6]</path>
@@ -35,7 +35,7 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[8]</path>
-        <trans>image->[animal] は [apparel] [subject_desc] を着た。 [part2]</trans>
+        <trans>image->[apparel]を着た [animal]が [subject_desc]。 [part2]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[9]</path>

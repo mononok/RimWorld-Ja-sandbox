@@ -76,7 +76,7 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[18]</path>
-    <trans>artextra_sentence->The subjects are in front of a [terrainfeature].</trans>
+    <trans>artextra_sentence->[terrainfeature]を前にしたものが題材となっている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[19]</path>
@@ -100,15 +100,15 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[24]</path>
-    <trans>artextra_sentence->目を細めて見たとき、[composition]が組み合わさった結果、[animal]の輪郭が明かになる。</trans>
+    <trans>artextra_sentence->目を細めて見ると、[composition]形が組み合わさって [animal]の輪郭が浮かび上がる。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[25]</path>
-    <trans>artextra_sentence->The whole image is depicted by the careful arrangement of hundreds of tiny [animal]s.</trans>
+    <trans>artextra_sentence->このイメージ全体は、すうひゃくの小さな[animal]を 注意深く配置することで描写されている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[26]</path>
-    <trans>artextra_sentence->The smiling head of a [outlander] watches over all.</trans>
+    <trans>artextra_sentence->[outlander]の にこやかな顔が 端から端まで見守っている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[27]</path>
@@ -128,43 +128,43 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[31]</path>
-        <trans>artextra_sentence->The scene takes place inside a [community] built near a [terrainfeature].</trans>
+        <trans>artextra_sentence->[terrainfeature]そばの [community]内部の様子を表現している。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[32]</path>
-        <trans>style_sentence->The image seems to express [concept].</trans>
+        <trans>style_sentence->[concept]を表現しているようにみえる。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[33]</path>
-        <trans>style_sentence->The work is infused with the idea of [concept] and is done in a [artstyle_adj] style.</trans>
+        <trans>style_sentence->この作品は [concept]基づくアイデアを吹き込むために、[artstyle_adj]スタイルを用いている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[34]</path>
-        <trans>style_sentence->The work suggests the concept of [concept].</trans>
+        <trans>style_sentence->この作品は、[concept]を暗示している。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[35]</path>
-        <trans>style_sentence->The work is executed in a [artstyle_adj] style.</trans>
+        <trans>style_sentence->この作品は [artstyle_adj]スタイルを使って創作されている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[36]</path>
-        <trans>style_sentence->The [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background.</trans>
+        <trans>style_sentence->メインテーマの [artstyle_adj]スタイルと 背景描写の [artstyle_adj]スタイルとが調和していない。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[37]</path>
-        <trans>style_sentence->Almost every shape in the image seems to be [composition].</trans>
+        <trans>style_sentence->ほとんど全ての形状が、[composition]形から構成されている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[38]</path>
-        <trans>style_sentence->その作品は、[artstyle_adj]の雰囲気と、[composition]な構造を持ち合わせる。</trans>
+        <trans>style_sentence->その作品は、[artstyle_adj]雰囲気と、[composition]構造を持ち合わせる。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[39]</path>
-        <trans>style_sentence->The overall composition is [composition].</trans>
+        <trans>style_sentence->全体としてみれば [composition]構成で組み立てられている。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[40]</path>
-        <trans>style_sentence->The style is [artstyle_adj] with [artstyle_adj] elements.</trans>
+        <trans>style_sentence->このスタイルには [artstyle_adj]要素に [artstyle_adj]要素も込められている</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[41]</path>
@@ -172,11 +172,11 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[42]</path>
-        <trans>style_sentence->The image somehow expresses both [concept] and [concept].</trans>
+        <trans>style_sentence->どういうわけか [concept]と [concept]の両方を表現している。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[43]</path>
-        <trans>style_sentence->[composition]な構成は、[artstyle_adj]のスタイルとは矛盾する。</trans>
+        <trans>style_sentence->[composition]構成は、[artstyle_adj]スタイルとは矛盾する。</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[44]</path>
@@ -192,7 +192,7 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[47]</path>
-    <trans>composition->アンバランスの</trans>
+    <trans>composition->アンバランスな</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[48]</path>
@@ -200,7 +200,7 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[49]</path>
-    <trans>composition->とてもダイナミック</trans>
+    <trans>composition->とてもダイナミックな</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[50]</path>
@@ -212,7 +212,7 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[52]</path>
-    <trans>artstyle_adj->シンプル</trans>
+    <trans>artstyle_adj->シンプルな</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[53]</path>
@@ -264,19 +264,19 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[65]</path>
-    <trans>artstyle_adj->バロック調</trans>
+    <trans>artstyle_adj->バロック調の</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[66]</path>
-    <trans>artstyle_adj->ダダリスト</trans>
+    <trans>artstyle_adj->ダダリストな</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[67]</path>
-    <trans>artstyle_adj->グリッチアート</trans>
+    <trans>artstyle_adj->グリッチアートな</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[68]</path>
-    <trans>artstyle_adj->ピクセル調</trans>
+    <trans>artstyle_adj->ピクセル調の</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[69]</path>
@@ -304,15 +304,15 @@
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[75]</path>
-    <trans>artstyle_adj->超現実主義</trans>
+    <trans>artstyle_adj->超現実主義な</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[76]</path>
-    <trans>artstyle_adj->ポップアート</trans>
+    <trans>artstyle_adj->ポップアート的な</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[77]</path>
-    <trans>artstyle_adj->ミニマリズム</trans>
+    <trans>artstyle_adj->ミニマリズム的な</trans>
   </rep>
   <rep>
     <path>ArtUtility.rulePack.rulesStrings[78]</path>

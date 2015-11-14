@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- StageThenAttack -->
+	<StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
+	<StageThenAttack.arrivalTextEnemy>彼らはしばらくの間、準備してから攻撃してくるでしょう\n\n身を守る準備をするか、先制攻撃を仕掛けましょう。</StageThenAttack.arrivalTextEnemy>
+	<StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
+	<StageThenAttack.arrivalTextFriendly>彼らは、あなたを助けに行く前に準備をします。</StageThenAttack.arrivalTextFriendly>
+
+	<!-- ImmediateAttack -->
+	<ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
+	<ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!</ImmediateAttack.arrivalTextEnemy>
+	<ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
+	<ImmediateAttack.arrivalTextFriendly>彼らは、あなたを助けに行く前に準備をします。</ImmediateAttack.arrivalTextFriendly>
+
+	<!--ImmediateAttackSappers -->
+	<ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
+	<ImmediateAttackSappers.arrivalTextEnemy>彼らは、あなたの防御を破るためにトンネルを掘ろうとしています。</ImmediateAttackSappers.arrivalTextEnemy>
+
+	<!--Siege -->
+	<Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
+	<Siege.arrivalTextEnemy>彼らは、離れた所に砲撃部隊を配置して包囲しようとしています。</Siege.arrivalTextEnemy>
+	<Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
+	<Siege.arrivalTextFriendly>彼らは、あなたを助ける為に包囲作戦をとるようです。</Siege.arrivalTextFriendly>
+</LanguageData>

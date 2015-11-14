@@ -4,111 +4,111 @@
 
 
 <CallOnRadio>{0} 呼び出し</CallOnRadio>
-  <CannotUseReason>使用できません ({0})</CannotUseReason>
-<CannotUseSolarFlare>使用できません （太陽フレア）</CannotUseSolarFlare>
-<CannotUseNoPower>使用できません （電気がない）</CannotUseNoPower>
-<CannotUseNoPath>使用できません （道順がない）</CannotUseNoPath>
-<CannotUseReserved>使用できません (予約済)</CannotUseReserved>
-<CannotUseFull>使用できません (満載)</CannotUseFull>
+  <CannotUseReason>使用できない ({0})</CannotUseReason>
+<CannotUseSolarFlare>使用できない （太陽フレア）</CannotUseSolarFlare>
+<CannotUseNoPower>使用できない （電気がない）</CannotUseNoPower>
+<CannotUseNoPath>使用できない （道順がない）</CannotUseNoPath>
+<CannotUseReserved>使用できない (予約済)</CannotUseReserved>
+<CannotUseFull>使用できない (満載)</CannotUseFull>
 
 <FireAt>{0} を 射撃</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
-<CannotHitTarget>対象に 命中しません</CannotHitTarget>
-<CannotFight>{0} は戦えません</CannotFight>
+<CannotHitTarget>対象に命中しない</CannotHitTarget>
+<CannotFight>{0}は 戦えない</CannotFight>
 
 <OrderManThing>Man {0}</OrderManThing>
 
-<MeleeAttack>{0} と 格闘</MeleeAttack>
-<MeleeAttackToDeath>{0} を 格闘で 殺害</MeleeAttackToDeath>
-<NoPath>道順がありません</NoPath>
+<MeleeAttack>{0}と 闘かう</MeleeAttack>
+<MeleeAttackToDeath>{0} を格闘で殺害する</MeleeAttackToDeath>
+<NoPath>道順が無い</NoPath>
 
 <ForbiddenLower>無視</ForbiddenLower>
 <SociallyImproperLower>社交的でない</SociallyImproperLower>
   <PrisonerRoomLower>牢獄が ない</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
-<NoEmptyPlaceLower>備蓄する 空き場所が ない</NoEmptyPlaceLower>
-<AlreadyFilledLower>すでに 満杯</AlreadyFilledLower>
-<MissingMaterials>資材が ない</MissingMaterials>
+<NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
+<AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
+<MissingMaterials>資材がない</MissingMaterials>
   <MissingSkill>スキルが低すぎる</MissingSkill>
-    <NoEmptyGraveLower>墓地の空きが無い</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+    <NoEmptyGraveLower>墓地の空きがない</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>動物への指示間隔が短い</AnimalInteractedTooRecently>
+  <NoUsableFood>エサがない</NoUsableFood>
+  <AnimalsSkillTooLow>動物のスキルが低すぎる</AnimalsSkillTooLow>
 
-  <ConsumeThing>{0} は 尽きた</ConsumeThing>
+  <ConsumeThing>{0}を費やす</ConsumeThing>
   <Teetotaler>teetotaler</Teetotaler>
 
 
-<CannotGoNoPath>たどり着く 道順が ありません</CannotGoNoPath>
-<GoHere>ここに移動</GoHere>
+<CannotGoNoPath>たどり着く道順がない</CannotGoNoPath>
+<GoHere>ここに移動する</GoHere>
 
-<Arrest>{0} を 逮捕</Arrest>
+<Arrest>{0}を 逮捕する</Arrest>
   <TryToArrest>{0} の逮捕を試みる</TryToArrest>
-<CannotArrest>逮捕 できません</CannotArrest>
+<CannotArrest>逮捕できない</CannotArrest>
 
-<Capture>{0} を 捕獲</Capture>
-<CannotCapture>捕獲 できません</CannotCapture>
+<Capture>{0}を 捕獲する</Capture>
+<CannotCapture>捕獲できない</CannotCapture>
 
-<Rescue>{0} を 救助</Rescue>
-<CannotRescue>救助 できません</CannotRescue>
+<Rescue>{0}を 救助する</Rescue>
+<CannotRescue>救助できない</CannotRescue>
 
-  <CarryToCryptosleepCasket>冬眠カプセル に {0} を運ぶ</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>冬眠カプセル に 運べません</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>冬眠カプセルに {0}を運ぶ</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>冬眠カプセルが無い</NoCryptosleepCasket>
-<NoPrisonerBed>周囲と壁で遮断された、囚人用ベッドがありません。</NoPrisonerBed>
-<NoNonPrisonerBed>周囲と壁で遮断された、入植者用ベッドがありません。</NoNonPrisonerBed>
-<Reserved>他の誰かが 使用しています。</Reserved>
-<ReservedBy>{0} が 使用中です。</ReservedBy>
-<IsReservedBy>{0} は {1} が 使用しています。</IsReservedBy>
+  <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
+<NoPrisonerBed>周囲と壁で遮断された、囚人用ベッドがない</NoPrisonerBed>
+<NoNonPrisonerBed>周囲と壁で遮断された、入植者用ベッドがない</NoNonPrisonerBed>
+<Reserved>他の誰かが 使用している</Reserved>
+<ReservedBy>{0}が 使用している</ReservedBy>
+<IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
 
   <Incapable>能力が無い</Incapable>
-  <IncapableOfCapacity>{0} をする能力が無い</IncapableOfCapacity>
+  <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
 
-<Equip>{0} を 装備</Equip>
+<Equip>{0}を 装備する</Equip>
   <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
-<CannotEquip>{0} を 装備できません</CannotEquip>
+<CannotEquip>{0}を 装備できない</CannotEquip>
 
-  <ForceWear>{0} に無理矢理着替えさせる</ForceWear>
-<CannotWear>{0} を 着用 できません</CannotWear>
+  <ForceWear>{0}に 無理矢理着替えさせる</ForceWear>
+<CannotWear>{0}を 着用できない</CannotWear>
 
-<Strip>{0} を 脱ぐ</Strip>
-<CannotStrip>{0} を 脱げません</CannotStrip>
+<Strip>{0}を 脱ぐ</Strip>
+<CannotStrip>{0}を 脱げない</CannotStrip>
 
-<Deposit>{0} を {1} に 預ける</Deposit>
-<CannotDeposit>{1} に {0} を 預けられません</CannotDeposit>
+<Deposit>{0}を {1}に 預ける</Deposit>
+<CannotDeposit>{1}に {0}を 預けられない</CannotDeposit>
 
   <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
-<Drop>{0} を 手放す</Drop>
+<Drop>{0}を 手放す</Drop>
 
   <UseMedicalBed>完治するまで休む</UseMedicalBed>
   <NotInjured>完治した</NotInjured>
   <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
 
 <!-- Specific thing interactions -->
-    <EnterCryptosleepPod>冬眠カプセルに 入る</EnterCryptosleepPod>
-    <OpenCryptosleepCasket>冬眠カプセルを 開ける</OpenCryptosleepCasket>
+    <EnterCryptosleepPod>冬眠カプセルに入る</EnterCryptosleepPod>
+    <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
 
 
 
 <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-<CannotGenericWork>{1} を {0} できません</CannotGenericWork>
+<CannotGenericWork>{1}を {0}できない</CannotGenericWork>
 
 <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>優先できません ({0} の能力が無い)</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
-<CannotGenericAlreadyAm> {1} は すでに {0} です</CannotGenericAlreadyAm>
+<CannotGenericAlreadyAm>{1}は すでに {0}です</CannotGenericAlreadyAm>
 
-<CannotPrioritizeIsNotA>優先 できません （{0} は {1} が できません）</CannotPrioritizeIsNotA>
+<CannotPrioritizeIsNotA>優先できない （{0} は {1}にはなれない）</CannotPrioritizeIsNotA>
 
-<CannotPrioritizeResearch>優先 できません （研究は、優先順位を つけられません）</CannotPrioritizeResearch>
+<CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 
-<CannotPrioritizeForbidden>優先 できません （{0} は 禁止されています）</CannotPrioritizeForbidden>
+<CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
 
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-<PrioritizeGeneric>{1} を いますぐ {0} する</PrioritizeGeneric>
+<PrioritizeGeneric>{1}を いますぐ {0}</PrioritizeGeneric>
 
 </LanguageData>

@@ -229,7 +229,7 @@
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
 	<ShowBeautyToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
     <ShowRoomStatsToggleButton>ルームステータスの可視 切り替え\n\nマウスでポイントした場所のルームステータスを表示します</ShowRoomStatsToggleButton>
-	<AutoHomeRegionToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeRegionToggleButton>
+	<AutoHomeAreaToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeAreaToggleButton>
 	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
 
@@ -275,7 +275,7 @@
 
   <!-- Artifact -->
   <UseArtifact>Activate</UseArtifact>
-  
+
 	<!-- Minification -->
 	<Installed>インストール済</Installed>
 	<NotInstalled>未インストール</NotInstalled>
@@ -315,9 +315,9 @@
   <TrapArmed>活性</TrapArmed>
   <TrapNotArmed>不活性</TrapNotArmed>
   <TrapRearmingCost>再活性化のコスト: {0}</TrapRearmingCost>
-  
+
   <!-- Facilities -->
   <InactiveFacility>閉鎖</InactiveFacility>
-  
+
 
 </LanguageData>

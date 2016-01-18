@@ -36,7 +36,7 @@
   <NoUsableFood>エサがない</NoUsableFood>
   <AnimalsSkillTooLow>動物のスキルが低すぎる</AnimalsSkillTooLow>
 
-  <ConsumeThing>{0}を費やす</ConsumeThing>
+  <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>teetotaler</Teetotaler>
 
 
@@ -109,6 +109,6 @@
 
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-<PrioritizeGeneric>{1}を いますぐ {0}</PrioritizeGeneric>
+<PrioritizeGeneric>{1}で いますぐ {0}</PrioritizeGeneric>
 
 </LanguageData>

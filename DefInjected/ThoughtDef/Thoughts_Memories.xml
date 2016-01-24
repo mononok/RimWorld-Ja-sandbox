@@ -9,7 +9,7 @@
   </rep>
   <rep>
     <path>SleepDisturbed.stages[0].description</path>
-    <trans>人々が私のまわりをウロウロするせいで、私の睡眠が邪魔された。個室が与えられれば解決するでしょう</trans>
+    <trans>人々が私のまわりをウロウロするせいで、 私の睡眠が邪魔された。 個室が与えられれば解決するのに。</trans>
   </rep>
 
   <rep>
@@ -18,7 +18,7 @@
   </rep>
   <rep>
     <path>AteRawFood.stages[0].description</path>
-    <trans>誰も調理ができないので、私は生肉を食べるしかなかった、せめて合成栄養食品でもあればいいのに</trans>
+    <trans>誰も調理ができないので、私は生肉を食べるしかなかった。 せめて合成栄養食品でもあればいいのに。</trans>
   </rep>
 
   <rep>
@@ -27,7 +27,7 @@
   </rep>
   <rep>
     <path>AteNutrientPasteMeal.stages[0].description</path>
-    <trans>合成栄養食品を食べた、生きる為には必要だとわかっているが、誰も、こんなドロッとした物をグッと飲み込みたいとは思わない</trans>
+    <trans>合成栄養食品を食べた。生きる為には必要だとわかっているが、誰だって、こんなドロッとした物をグッと飲み込みたいとは思わない。</trans>
   </rep>
 
   <rep>
@@ -36,7 +36,7 @@
   </rep>
   <rep>
     <path>AteFineMeal.stages[0].description</path>
-    <trans>本当においしい食事を食べた。おいしかった！</trans>
+    <trans>本当においしい食事を食べた。おいしかった！。</trans>
   </rep>
 
   <rep>
@@ -45,7 +45,7 @@
   </rep>
   <rep>
     <path>AteLavishMeal.stages[0].description</path>
-    <trans>驚くような贅沢な食事を食べた。身も心も満たされる</trans>
+    <trans>驚くような贅沢な食事を食べた。身も心も満たされた。</trans>
   </rep>
 
 	<!-- =========== Cannibalism =============== -->
@@ -56,7 +56,7 @@
   </rep>
   <rep>
     <path>AteHumanlikeMeatDirect.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように。これは悪夢だ</trans>
+    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
   </rep>
 
   <rep>
@@ -65,7 +65,7 @@
   </rep>
   <rep>
     <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。なんて恐ろしい</trans>
+    <trans>私は調理された人肉を食べた。なんて恐ろしい。</trans>
   </rep>
 
   <rep>
@@ -74,7 +74,7 @@
   </rep>
   <rep>
     <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった</trans>
+    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
   </rep>
 
   <rep>
@@ -83,7 +83,7 @@
   </rep>
   <rep>
     <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう</trans>
+    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
   </rep>
 
   <rep>
@@ -92,7 +92,7 @@
   </rep>
   <rep>
     <path>ButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>人肉を動物のように切り捌いた</trans>
+    <trans>人肉を動物のように切り捌いた。</trans>
   </rep>
 
   <rep>
@@ -101,7 +101,7 @@
   </rep>
   <rep>
     <path>AteWithoutTable.stages[0].description</path>
-    <trans>じべたの上で食事を摂った、だれかテーブルを探してきてくれ</trans>
+    <trans>地面の上で食事を摂った、だれかテーブルを探してきてくれ。</trans>
   </rep>
 
 	<!-- Combat -->
@@ -111,7 +111,7 @@
   </rep>
   <rep>
     <path>ObservedLayingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている死体を見た</trans>
+    <trans>私は地面の上に転がっている死体を見た。</trans>
   </rep>
 
   <rep>
@@ -120,7 +120,7 @@
   </rep>
   <rep>
     <path>ObservedLayingRottingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている腐乱死体を見た、ムナクソ悪くなる</trans>
+    <trans>私は地面の上に転がっている腐乱死体を見た、ムナクソが悪くなった。</trans>
   </rep>
 
   <rep>
@@ -129,7 +129,7 @@
   </rep>
   <rep>
     <path>WitnessedDeathAlly.stages[0].description</path>
-    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間には死んでいた</trans>
+    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間にはもう死んでいた。</trans>
   </rep>
 
   <rep>
@@ -138,7 +138,7 @@
   </rep>
   <rep>
     <path>WitnessedDeathStranger.stages[0].description</path>
-    <trans>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた</trans>
+    <trans>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた。</trans>
   </rep>
 
   <rep>
@@ -147,7 +147,7 @@
   </rep>
   <rep>
     <path>WitnessedDeathStrangerBloodlust.stages[0].description</path>
-    <trans>誰かが死んだ！とても強烈な印象だ</trans>
+    <trans>誰かが死んだ！とても強烈な印象だった。</trans>
   </rep>
 
   <rep>
@@ -165,7 +165,7 @@
   </rep>
   <rep>
     <path>BattleWounded.stages[0].description</path>
-    <trans>これは俺の血だ！、撃たれた、撃たれた</trans>
+    <trans>これは俺の血だ！、撃たれた、撃たれた、撃たれた。</trans>
   </rep>
 
   <rep>
@@ -174,7 +174,7 @@
   </rep>
   <rep>
     <path>NewColonyOptimism.stages[0].description</path>
-    <trans>我々は今降り立った。苦しい状況だが、新しいコロニーを創立することに興奮している</trans>
+    <trans>我々は今降り立った。苦しい状況だが、これから新しいコロニーを創立することに興奮している。</trans>
   </rep>
 
   <rep>
@@ -183,7 +183,7 @@
   </rep>
   <rep>
     <path>NewColonyHope.stages[0].description</path>
-    <trans>私はこの状況になれたが、まだあたらしい状況に興奮している。これが上手く行くことを望む</trans>
+    <trans>私はこの状況に慣れたが、まだ新しい状況に興奮している。これが上手く行くことを望んでいる。</trans>
   </rep>
 
   <rep>
@@ -192,7 +192,7 @@
   </rep>
   <rep>
     <path>SleptOutside.stages[0].description</path>
-    <trans>無防備なまま、外で寝なければならなかった</trans>
+    <trans>無防備なまま、外で寝なければならなかった。</trans>
   </rep>
 
   <rep>
@@ -201,16 +201,16 @@
   </rep>
   <rep>
     <path>SleptOnGround.stages[0].description</path>
-    <trans>動物のようにじべたに寝なければならなかった</trans>
+    <trans>動物のように地面に寝なければならなかった。</trans>
   </rep>
 
   <rep>
     <path>SleptInCold.stages[0].label</path>
-    <trans>凍えながら夜を過ごした</trans>
+    <trans>凍えながら夜を過ごした。</trans>
   </rep>
   <rep>
     <path>SleptInCold.stages[0].description</path>
-    <trans>凍えながら寝なければならなかった、本当に何でもいいから暖房が欲しい</trans>
+    <trans>凍えながら寝なければならなかった、本当に何でもいいから暖房が欲しい。</trans>
   </rep>
 
   <rep>
@@ -219,7 +219,7 @@
   </rep>
   <rep>
     <path>SleptInHeat.stages[0].description</path>
-    <trans>熱帯夜の中で寝なければならなかった、エアコンが必要じゃない？</trans>
+    <trans>熱帯夜の中で寝なければならなかった、エアコンが必要じゃない？。</trans>
   </rep>
 
   <rep>
@@ -228,7 +228,7 @@
   </rep>
   <rep>
     <path>KnowPrisonerSold.stages[0].description</path>
-    <trans>このコロニーでは囚人を奴隷のように売買している、よくないと思う</trans>
+    <trans>このコロニーでは囚人を奴隷のように売買している、よくない事だと思う。</trans>
   </rep>
 
   <rep>
@@ -237,7 +237,7 @@
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[0].description</path>
-    <trans>犯罪者かゲストが処刑された</trans>
+    <trans>犯罪者かゲストの誰かが処刑された。</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].label</path>
@@ -245,7 +245,7 @@
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].description</path>
-    <trans>犯罪者かゲストが平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする</trans>
+    <trans>犯罪者かゲストの誰かが平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].label</path>
@@ -253,7 +253,7 @@
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].description</path>
-    <trans>犯罪者かゲストが死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したから。おぞましい</trans>
+    <trans>犯罪者かゲストの誰かが死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したからだ。おぞましい。</trans>
   </rep>
 
 
@@ -263,7 +263,7 @@
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[0].description</path>
-    <trans>入植者が処刑された</trans>
+    <trans>入植者が処刑された。</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].label</path>
@@ -271,7 +271,7 @@
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].description</path>
-    <trans>入植者が平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする</trans>
+    <trans>入植者が平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].label</path>
@@ -279,7 +279,7 @@
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].description</path>
-    <trans>入植者が死んだ、なぜならコロニーの誰かが、彼の身体から臓器を取り出したから。おぞましい</trans>
+    <trans>入植者が死んだ、なぜならコロニーの誰かが、彼の身体から臓器を取り出したから。おぞましい。</trans>
   </rep>
 
   <rep>
@@ -288,7 +288,7 @@
   </rep>
   <rep>
     <path>KnowGuestOrganHarvested.stages[0].description</path>
-    <trans>入植者が、犯罪者かゲストから臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない</trans>
+    <trans>入植者が、犯罪者かゲストから臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</trans>
   </rep>
 
 
@@ -298,7 +298,7 @@
   </rep>
   <rep>
     <path>KnowColonistOrganHarvested.stages[0].description</path>
-    <trans>誰かが、入植者から臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない</trans>
+    <trans>誰かが、入植者から臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</trans>
   </rep>
 
   <rep>
@@ -307,7 +307,7 @@
   </rep>
   <rep>
     <path>MyOrganHarvested.stages[0].description</path>
-    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!</trans>
+    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!。</trans>
   </rep>
 
   <rep>
@@ -316,7 +316,7 @@
   </rep>
   <rep>
     <path>WasImprisoned.stages[0].description</path>
-    <trans>このコロニーは少しの間、私を檻の中の獣のように監禁した</trans>
+    <trans>このコロニーは少しの間、私を、檻の中の獣のように監禁した。</trans>
   </rep>
 
   <rep>
@@ -334,7 +334,7 @@
   </rep>
   <rep>
     <path>SocialTalk.stages[0].description</path>
-    <trans>みんなと楽しい会話をした</trans>
+    <trans>みんなと楽しい会話をした。</trans>
   </rep>
 
   <rep>
@@ -343,7 +343,7 @@
   </rep>
   <rep>
     <path>AbrasiveTalk.stages[0].description</path>
-    <trans>不快な会話をした</trans>
+    <trans>会話をして気分が不快になった。</trans>
   </rep>
 
   <rep>
@@ -361,7 +361,7 @@
   </rep>
   <rep>
     <path>Catharsis.stages[0].description</path>
-    <trans>何が起きたのだろう…自分が自分じゃない、そうだ、うまくやれそうだ</trans>
+    <trans>何が起きたのだろう…自分が自分じゃない、そうだ、これなら、うまくやれそうだ。</trans>
   </rep>
 
   <rep>
@@ -370,7 +370,7 @@
   </rep>
   <rep>
     <path>Nuzzled.stages[0].description</path>
-    <trans>かわいい動物が私に擦り寄ってきた</trans>
+    <trans>かわいい動物が私に擦り寄ってきた。</trans>
   </rep>
 
   <rep>
@@ -379,7 +379,7 @@
   </rep>
   <rep>
     <path>SomeoneBuriedInSarcophagus.stages[0].description</path>
-    <trans>このコロニーで、誰かを装飾された石棺に収めて埋葬した。彼の魂がやすらぎをえますように</trans>
+    <trans>このコロニーで、誰かを装飾された石棺に収めて埋葬した。彼の魂がやすらぎを得ますように。</trans>
   </rep>
 
 

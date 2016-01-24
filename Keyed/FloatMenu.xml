@@ -70,7 +70,7 @@
   <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
 <CannotEquip>{0}を 装備できない</CannotEquip>
 
-  <ForceWear>{0}に 無理矢理着替えさせる</ForceWear>
+  <ForceWear>{0}に 着替えさせる</ForceWear>
 <CannotWear>{0}を 着用できない</CannotWear>
 
 <Strip>{0}を 脱ぐ</Strip>
@@ -94,12 +94,12 @@
 
 
 <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-<CannotGenericWork>{1}を {0}できない</CannotGenericWork>
+<CannotGenericWork>{1} {0}できない</CannotGenericWork>
 
 <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
-<CannotGenericAlreadyAm>{1}は すでに {0}です</CannotGenericAlreadyAm>
+<CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
 
 <CannotPrioritizeIsNotA>優先できない （{0} は {1}にはなれない）</CannotPrioritizeIsNotA>
 
@@ -109,6 +109,6 @@
 
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-<PrioritizeGeneric>{1}で いますぐ {0}</PrioritizeGeneric>
+<PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
 
 </LanguageData>

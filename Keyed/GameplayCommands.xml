@@ -22,7 +22,7 @@
   <!-- Drafting -->
 <CommandDraftLabel>徴兵</CommandDraftLabel>
 <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
-<CommandToggleDraftDesc>入植者を 徴兵します。\n\n徴兵中の 入植者は 戦闘と 与えた 指示のみ 実行します。\n\n別の 作業を はじめたり、 食事や 睡眠を あたえる時は 徴兵終了 してください。</CommandToggleDraftDesc>
+<CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
 <IsIncapped>{0} を 無力化 しました。</IsIncapped>
 
 
@@ -128,6 +128,6 @@
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
-  
-  
+
+
 </LanguageData>

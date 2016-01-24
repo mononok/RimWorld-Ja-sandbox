@@ -5,36 +5,36 @@
     <MoveSpeed.description>移動セル数/秒</MoveSpeed.description>
 
     <MentalBreakThreshold.label>精神的弱さ</MentalBreakThreshold.label>
-    <MentalBreakThreshold.description>誰かの気分が、この値を下回るということなら、彼らは精神崩壊する危険性をはらんでいます</MentalBreakThreshold.description>
+    <MentalBreakThreshold.description>誰かの気分が、この値を下回っているのなら、彼らは精神崩壊する危険性をはらんでいます。</MentalBreakThreshold.description>
 
     <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
-    <PsychicSensitivity.description>精神波の影響を受けやすい倍率を表します</PsychicSensitivity.description>
+    <PsychicSensitivity.description>精神波の影響を受けやすい倍率を表します。</PsychicSensitivity.description>
 
     <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
-    <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します</GlobalLearningFactor.description>
+    <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します。</GlobalLearningFactor.description>
 
 	<EatingSpeed.label>食事の早さ</EatingSpeed.label>
-	<EatingSpeed.description>食事の早さに掛ける倍率</EatingSpeed.description>
+	<EatingSpeed.description>食事の早さに掛ける倍率を表します。</EatingSpeed.description>
 
 	<ComfyTemperatureMin.label>快適と感じる最低気温</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>この温度を下回るとキャラクターは不満を感じるでしょう。大きく下回ると、低体温、凍傷、そして死に至ります</ComfyTemperatureMin.description>
+	<ComfyTemperatureMin.description>この温度を下回るとキャラクターは不満を感じるでしょう。 大きく下回ると、低体温、凍傷、そして死に至ります。</ComfyTemperatureMin.description>
 
 	<ComfyTemperatureMax.label>快適と感じる最高気温 </ComfyTemperatureMax.label>
-	<ComfyTemperatureMax.description>この温度を上回るとキャラクターは不満を感じるでしょう。大きく上回ると、熱中症、そして死に至ります</ComfyTemperatureMax.description>
+	<ComfyTemperatureMax.description>この温度を上回るとキャラクターは不満を感じるでしょう。 大きく上回ると、熱中症、そして死に至ります。</ComfyTemperatureMax.description>
 
 	<ImmunityGainSpeed.label>免疫をえる速度</ImmunityGainSpeed.label>
-	<ImmunityGainSpeed.description>病気に対しての免疫を得るために掛かる時間です。もしこの時間が遅ければ、この人物は免疫を得る前に病原菌に侵されて死ぬでしょう</ImmunityGainSpeed.description>
+	<ImmunityGainSpeed.description>病気に対しての免疫を得るために掛かる時間です。 もしこの時間が遅ければ、この人物は免疫を得る前に病原菌に侵されて死ぬでしょう。</ImmunityGainSpeed.description>
 
 	<CarryingCapacity.label>輸送能力</CarryingCapacity.label>
-	<CarryingCapacity.description>この生物が、手や口や、その他の手に代わる器官で運べる量です</CarryingCapacity.description>
+	<CarryingCapacity.description>この生物が、手や口や、その他の手に代わる器官で運べる量です。</CarryingCapacity.description>
 
 	<MeatAmount.label>生肉の量</MeatAmount.label>
-	<MeatAmount.description>この生物を屠殺して捌いたときに得られる肉の量です</MeatAmount.description>
+	<MeatAmount.description>この生物を屠殺して捌いたときに得られる肉の量です。</MeatAmount.description>
 
 	<LeatherAmount.label>生皮の量</LeatherAmount.label>
-	<LeatherAmount.description>この生物を屠殺して捌いたときに得られる皮の量です</LeatherAmount.description>
+	<LeatherAmount.description>この生物を屠殺して捌いたときに得られる皮の量です。</LeatherAmount.description>
 
 	<MinimumHandlingSkill.label>生き物スキル必要量</MinimumHandlingSkill.label>
-	<MinimumHandlingSkill.description>この必要量より生き物スキルが低い人は、この生物を飼い馴らしたり、調教したり、命令することができません</MinimumHandlingSkill.description>
+	<MinimumHandlingSkill.description>この必要量より生き物スキルが低い人は、この生物を飼い馴らしたり、調教したり、命令することができません。</MinimumHandlingSkill.description>
 
 </LanguageData>

@@ -24,7 +24,7 @@
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
+  <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1} </ProblemSavingFile>
 
 <!-- Colony naming-->
 <NameColonyMessage>誰もが こんな岩だらけの土地で 暮らしたくないことぐらい わかっています。 しかし、 とにかく 便宜の都合で この村に 名前を つけなければ いけません。\n\n{0}が提案しました。\nこの名前で よろしいですか？</NameColonyMessage>
@@ -37,7 +37,7 @@
   <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>ニックネームを {0} 決めました</PawnGainsName>
+  <PawnGainsName>ニックネームを {0} 決めました。</PawnGainsName>
 
 <!-- Save game incompatible warning -->
   <VersionMismatch>バージョンの不一致</VersionMismatch>
@@ -140,13 +140,13 @@
   <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
   <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
   <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
-  <ColonyCount>コロニーが 貿易できるアイテム数\n\n 屋外に 設定されたビーコンの そばにあるアイテムだけを 売却することができます</ColonyCount>
+  <ColonyCount>コロニーが 貿易できるアイテム数\n\n 貿易ビーコンの そばにあるアイテムだけを 売却することができます</ColonyCount>
   <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
   <AcceptButton>受諾</AcceptButton>
   <ResetButton>リセット</ResetButton>
   <CancelButton>中止</CancelButton>
 <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
-<YourTradeableSilverTip>貿易ビーコン 付近の 屋外に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
+<YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
   <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
@@ -164,9 +164,9 @@
 <!--HistoryUpload-->
 <HistoryUploadMessage>ゲームの さらなる バランス改良のため、 RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか？ 同意すれば  {0}日ごとに データを アップロードします。 (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で、 オプションメニューの プライバシーを 変更することが できます。</HistoryUploadMessage>
 <HistoryUploadMessagePlayerName>データは 匿名で アップロードできますし、 名前をつけることも できます。</HistoryUploadMessagePlayerName>
-<HistoryUploadYes>ゲームデータを アップロードする</HistoryUploadYes>
-<HistoryUploadNo>ゲームデータを アップロード しません</HistoryUploadNo>
-<HistoryUploadYesOnce>今回は アップロードします</HistoryUploadYesOnce>
+<HistoryUploadYes>ゲームデータを アップロードする。</HistoryUploadYes>
+<HistoryUploadNo>ゲームデータを アップロード しません。</HistoryUploadNo>
+<HistoryUploadYesOnce>今回は アップロードします。</HistoryUploadYesOnce>
 <HistoryUploadNoOnce>今回は アップロードしません。 後で たずねてください。</HistoryUploadNoOnce>
 
   <!-- Outfit management -->

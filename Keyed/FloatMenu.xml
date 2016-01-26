@@ -5,13 +5,13 @@
 
 <CallOnRadio>{0} 呼び出し</CallOnRadio>
   <CannotUseReason>使用できない ({0})</CannotUseReason>
-<CannotUseSolarFlare>使用できない （太陽フレア）</CannotUseSolarFlare>
-<CannotUseNoPower>使用できない （電気がない）</CannotUseNoPower>
-<CannotUseNoPath>使用できない （道順がない）</CannotUseNoPath>
+<CannotUseSolarFlare>使用できない (太陽フレア)</CannotUseSolarFlare>
+<CannotUseNoPower>使用できない (電気がない)</CannotUseNoPower>
+<CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
 <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
 <CannotUseFull>使用できない (満載)</CannotUseFull>
 
-<FireAt>{0} を 射撃</FireAt>
+<FireAt>{0} に 発射</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
@@ -34,7 +34,7 @@
     <NoEmptyGraveLower>墓地の空きがない</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>動物への指示間隔が短い</AnimalInteractedTooRecently>
   <NoUsableFood>エサがない</NoUsableFood>
-  <AnimalsSkillTooLow>動物のスキルが低すぎる</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>teetotaler</Teetotaler>

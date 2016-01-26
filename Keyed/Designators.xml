@@ -11,7 +11,7 @@
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>撤去</DesignatorUninstall>
-  <DesignatorUninstallDesc>移設することができます、販売や別の場所に展示できます。</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>移設することができます。撤去した状態で、売買や、別の場所に再展示できます。</DesignatorUninstallDesc>
 
 <DesignatorHarvest>収穫</DesignatorHarvest>
 <DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
@@ -51,7 +51,7 @@
   <DesignatorAreaSnowClearExpand>除雪を指定</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>除雪を取り消す</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します。もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
@@ -100,7 +100,7 @@
 <InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
 <WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
 <TerrainIsAlready>この場所は、 すでに {0} です。</TerrainIsAlready>
-  <TerrainBeingSmoothed>既に地面を平すように指示されています</TerrainBeingSmoothed>
+  <TerrainBeingSmoothed>既に地面を平すように指示されています。</TerrainBeingSmoothed>
 <IdenticalThingExists>すでに 同じものが あります。</IdenticalThingExists>
 <IdenticalBlueprintExists>すでに 同じものを 指定しています。</IdenticalBlueprintExists>
 <TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>

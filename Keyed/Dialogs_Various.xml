@@ -20,10 +20,10 @@
 <SavedAs>{0}という 名前で 保存します。</SavedAs>
 <NeedAName>名前を 入力してください。</NeedAName>
 <LoadingLongEvent>データロード中です…</LoadingLongEvent>
-  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です\n\nセーブデータは全く違うバージョン {1} で作成されました\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です\n\nセーブデータは違うバージョン {1} で作成されました\n\nセーブデータは動作します</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう</SaveIsUnknownFormat>
+  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
   <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}</ProblemSavingFile>
 
 <!-- Colony naming-->
@@ -33,7 +33,7 @@
 
   <!-- Zone naming -->
   <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <NameIsInUse>その名前は既に使われています。</NameIsInUse>
   <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
 
   <!-- Pawn naming -->
@@ -57,7 +57,7 @@
 <Unresearched>未研究</Unresearched>
 <Finished>完成した</Finished>
 <InProgress>進行中</InProgress>
-<ResearchMenuWithoutBench>研究卓を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
+<ResearchMenuWithoutBench>研究設備を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
 
 
 <!-- Advanced game start options -->

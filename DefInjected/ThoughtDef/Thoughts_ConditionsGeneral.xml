@@ -3,23 +3,23 @@
 
 	<rep>
 		<path>LowExpectations.stages[0].label</path>
-		<trans>良くない住環境</trans>
+		<trans>将来への希望</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[0].description</path>
-		<trans>この土地はまったく豊かではない、私は思い通りになるなんて全く期待できない</trans>
+		<trans>この土地はまったく豊かとはいえない。私の思い通りにできるとは期待できない。</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[1].label</path>
-		<trans>悪い住環境</trans>
+		<trans>低い将来への希望</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[1].description</path>
-		<trans>この土地から、豊富な資源が提供されるとは思えない、心を強く保たなければ…</trans>
+		<trans>この土地には、多くの満足をもたらす富があるとは思えない、心を強く保たなければ…</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[2].label</path>
-		<trans>非常に悪い住環境</trans>
+		<trans>非常に低い将来への希望</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[2].description</path>
@@ -27,11 +27,11 @@
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[3].label</path>
-		<trans>絶望的な住環境</trans>
+		<trans>絶望的な将来への希望</trans>
 	</rep>
 	<rep>
 		<path>LowExpectations.stages[3].description</path>
-		<trans>この土地は、緊急避難のシェルターとしてはかろうじて充分だけど、心を鬼にしてかからなくては</trans>
+		<trans>この土地は、緊急避難のシェルターとしてはかろうじて充分だが、生きのびるには、心を鋼にしてとりかからないと..</trans>
 	</rep>
 
 
@@ -41,7 +41,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentDark.stages[0].description</path>
-		<trans>しばらくの間、好きではない暗闇の中にいた</trans>
+		<trans>しばらくの間、好きではない暗闇の中にいた。</trans>
 	</rep>
 
 
@@ -51,7 +51,7 @@
 	</rep>
 	<rep>
 		<path>CabinFever.stages[0].description</path>
-		<trans>もう何日も室内にいる。私は外に出たい</trans>
+		<trans>もう何日も室内にいる。私は外に出たい。</trans>
 	</rep>
 	<rep>
 		<path>CabinFever.stages[1].label</path>
@@ -59,7 +59,7 @@
 	</rep>
 	<rep>
 		<path>CabinFever.stages[1].description</path>
-		<trans>もうかなり長いこと、ネズミの様に捕らえられたままだ。出してくれ！気が狂いそうだ</trans>
+		<trans>もうかなり長いこと、ネズミの様に捕らえられたままだ。外に出してくれ！気が狂いそうだ。</trans>
 	</rep>
 
 
@@ -87,7 +87,7 @@
 	</rep>
 	<rep>
 		<path>Sick.stages[0].description</path>
-		<trans>気分が悪い、病気のようだ</trans>
+		<trans>気分が悪い、病気のようだ。</trans>
 	</rep>
 
 
@@ -97,7 +97,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentCold.stages[0].description</path>
-		<trans>寒くて不快だ</trans>
+		<trans>寒くて不快だ。</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentCold.stages[1].label</path>
@@ -105,7 +105,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentCold.stages[1].description</path>
-		<trans>とても寒いうえに、暖房が無くガタガタ震えている</trans>
+		<trans>とても寒いうえに、暖房が無くガタガタ震えている。</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentCold.stages[2].label</path>
@@ -113,7 +113,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentCold.stages[2].description</path>
-		<trans>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房が必要だ</trans>
+		<trans>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房が必要だ。</trans>
 	</rep>
 
 
@@ -123,7 +123,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[0].description</path>
-		<trans>暑く、汗をかいていて不快だ</trans>
+		<trans>暑く、汗をかいていて不快だ。</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[1].label</path>
@@ -131,7 +131,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[1].description</path>
-		<trans>身体がオーバーヒートしている</trans>
+		<trans>身体がオーバーヒートしている。</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[2].label</path>
@@ -139,7 +139,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[2].description</path>
-		<trans>オーブンの中にいる気分だ、どの位耐えられるかわからない</trans>
+		<trans>オーブンの中にいる気分だ、どの位耐えられるかわからない。</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[3].label</path>
@@ -156,7 +156,7 @@
 	</rep>
 	<rep>
 		<path>Crowded.stages[0].description</path>
-		<trans>ここは、すこし混んできた</trans>
+		<trans>ここは、少し混んできた。</trans>
 	</rep>
     <rep>
         <path>Crowded.stages[1].label</path>
@@ -164,7 +164,7 @@
     </rep>
     <rep>
         <path>Crowded.stages[1].description</path>
-        <trans>ここは混雑してきた。もう少し自由な空間があれば良いなあと感じる</trans>
+        <trans>ここは混雑してきた。もう少し自由な空間があれば良いなあと感じる。</trans>
     </rep>
     <rep>
         <path>Crowded.stages[2].label</path>
@@ -172,7 +172,7 @@
     </rep>
     <rep>
         <path>Crowded.stages[2].description</path>
-        <trans>ここは、息をするのがやっとできる程、混んできた</trans>
+        <trans>ここは、息がやっとできる程、混んできた。</trans>
     </rep>
 
 </LanguageData>

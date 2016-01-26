@@ -35,11 +35,11 @@
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
 
-<SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています</SingleTravelerPassing>
+<SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています。</SingleTravelerPassing>
 <GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています</SingleVisitorArrives>
+<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています。</SingleVisitorArrives>
   <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
 <GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。</GroupVisitorsArrive>
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
@@ -71,11 +71,11 @@
 <LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>{0} 入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある幸福エンジンが起こしているのでしょう。 それは この一帯を 強力な サイコドローンで投射していますが、{0}にだけしか効果がないようです。数日のうちに 入植者の気分は 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>{0} 入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある幸福エンジンが起こしているのでしょう。 それは この一帯に 強力な サイコスードを投射していますが、{0}にだけしか効果がないようです。数日のうちに 入植者の気分は 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
 
 <!-- Beavers -->
   <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
-<BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません</BeaversArrived>
+<BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません。</BeaversArrived>
 
   <!-- Refugee chased -->
   <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>

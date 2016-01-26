@@ -9,21 +9,21 @@
   <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
 
   <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入れる</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入り切りします。</CommandDesignateTogglePowerDesc>
 
   <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替える</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます。</CommandTryReconnectDesc>
 
 <CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
-<CommandGatherSpotToggleDescActive>集合 - 入植者が、 集まります。</CommandGatherSpotToggleDescActive>
-<CommandGatherSpotToggleDescInactive>通常 - 入植者は 集まりません。</CommandGatherSpotToggleDescInactive>
+<CommandGatherSpotToggleDescActive>集合 - 入植者が、集まります。</CommandGatherSpotToggleDescActive>
+<CommandGatherSpotToggleDescInactive>通常 - 入植者は、集まりません。</CommandGatherSpotToggleDescInactive>
 
 
   <!-- Drafting -->
 <CommandDraftLabel>徴兵</CommandDraftLabel>
 <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
 <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
-<IsIncapped>{0} を 無力化 しました。</IsIncapped>
+<IsIncapped>{0}は対応できません。</IsIncapped>
 
 
 <CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
@@ -33,9 +33,9 @@
   <CommandGetOutOfBedDesc>起きて布団から出る</CommandGetOutOfBedDesc>
 
   <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>入植者が所有するベッドにする</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>ベッドの所有者を決めます。</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>墓石に植民者の名前を彫ります。</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
   <CommandGraveSetToUnassignedLabel>無記名にする</CommandGraveSetToUnassignedLabel>
   <CommandGraveSetToUnassignedDesc>墓所を無名にします。</CommandGraveSetToUnassignedDesc>
   <BuildingAssign>Assign</BuildingAssign>
@@ -76,7 +76,7 @@
 
 <!-- Artillery -->
 <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
-<CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します、</CommandSetForceAttackTargetDesc>
+<CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します。</CommandSetForceAttackTargetDesc>
 <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
 <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
 <CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
@@ -85,7 +85,7 @@
 
 
 <!-- Ship computer core -->
-<CommandShipLaunch>船を発進する</CommandShipLaunch>
+<CommandShipLaunch>宇宙船を発進する</CommandShipLaunch>
 <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
 <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
 <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
@@ -105,25 +105,25 @@
 
   <!-- Temperature control -->
   <CommandResetTemp>リセット</CommandResetTemp>
-  <CommandResetTempDesc>設定温度をリセットします</CommandResetTempDesc>
-  <CommandRaiseTempDesc>設定温度を上げる</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>設定温度を下げる</CommandLowerTempDesc>
+  <CommandResetTempDesc>設定温度をリセットします。</CommandResetTempDesc>
+  <CommandRaiseTempDesc>設定温度を上げます。</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>設定温度を下げます。</CommandLowerTempDesc>
 
   <!-- Art -->
   <CommandInstall>展示</CommandInstall>
-  <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます</CommandInstallDesc>
+  <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます。</CommandInstallDesc>
 
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます。</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>集積地</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>太陽灯が照らす範囲に合うように、農業ゾーンを作成し配置します</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>太陽灯が照らす範囲に合うように、農業ゾーンを作成し配置します。</CommandSunLampMakeGrowingZoneDesc>
   <CommandSunLampMakeGrowingZoneLabel>農業ゾーンを作成し配置する</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <CommandAutoRearm>自動再装填</CommandAutoRearm>
-  <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます。</CommandAutoRearmDesc>
 
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>

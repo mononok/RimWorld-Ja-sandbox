@@ -6,19 +6,19 @@
 	<Forbidding.label>禁止</Forbidding.label>
 	<rep>
 		<path>Forbidding.helpTexts[0]</path>
-		<trans>入植者達は、"禁止"とマークされたオブジェクトに関わろうとはしなくなります。\n\n"禁止"オブジェクトには、小さく赤い"x"が付きます。"禁止"オブジェクトを選び、画面下部のメニューから"許可"を選択すると、"禁止"マークは外れます</trans>
+		<trans>入植者達は、"禁止"とマークされたオブジェクトに関わろうとはしなくなります。\n\n"禁止"オブジェクトには、小さく赤い"x"が付きます。"禁止"オブジェクトを選び、画面下部のメニューから"許可"を選択すると、"禁止"マークは外れます。</trans>
 	</rep>
 
 	<Stockpiles.label>備蓄ゾーン</Stockpiles.label>
 	<rep>
 		<path>Stockpiles.helpTexts[0]</path>
-		<trans>入植者達には、アイテムを保管する場所が、どこかに必要です。指示した備蓄ゾーンにアイテムを保管します\n\n備蓄ゾーンは、アーキテクトメニューのゾーンを選んだ、左下にあります</trans>
+		<trans>入植者達には、アイテムを保管する場所が、どこかに必要です。指示した備蓄ゾーンにアイテムを保管します。\n\n備蓄ゾーンは、アーキテクトメニューのゾーンの中にあります。</trans>
 	</rep>
 
 	<GrowingFood.label>農業ゾーン</GrowingFood.label>
 	<rep>
 		<path>GrowingFood.helpTexts[0]</path>
-		<trans>作物を作るには、アーキテクトメニューから農業ゾーンを選びます、農業ゾーンは、豊かな土地をだけを選択することができます</trans>
+		<trans>作物を作るには、アーキテクトメニューから農業ゾーンを選びます。豊かな土地をだけを農業ゾーンにできます。</trans>
 	</rep>
 
 	<!-- Timed concepts -->
@@ -26,91 +26,91 @@
 	<EquippingWeapons.label>武装する</EquippingWeapons.label>
 	<rep>
 		<path>EquippingWeapons.helpTexts[0]</path>
-		<trans>入植者達は武器を持参して到着するので、武装させてください！\n\n入植者達を武装させるには、入植者を選択した後に武器を右クリックして装備を選択します</trans>
+		<trans>入植者達は武器を持参して到着するので、武装させてください！\n\n入植者達を武装させるには、入植者を選択した後に武器を右クリックして装備を選択します。</trans>
 	</rep>
 	<CameraZoom.label>ズーム</CameraZoom.label>
 	<rep>
 		<path>CameraZoom.helpTexts[0]</path>
-		<trans>カメラをズームイン・アウトさせるには、MOUSEWHEELか、"T" "G"キーを押します </trans>
+		<trans>カメラをズームイン・アウトさせるには、MOUSEWHEELか、"T" "G"キーを押します。</trans>
 	</rep>
 
 	<WorkTab.label>全体を見渡す</WorkTab.label>
 	<rep>
 		<path>WorkTab.helpTexts[0]</path>
-		<trans>入植者概要メニューから、入植者の作業状態を確認できます。\n\n彼らは、彼らが見つけた作業の中で優先順位の高いものから順に行います。入植者は設定されていない作業はしません\n\nもしも、誰一人として、その作業に割り当ててないか、より優先度の高い作業が忙しくて手が回らないとき、その作業から得る物はありません。</trans>
+		<trans>入植者概要メニューから、入植者の作業状態を確認できます。\n\n彼らは、彼らが見つけた作業の中で優先順位の高いものから順に行います。入植者は設定されていない作業はしません。\n\nもしも、誰一人として、その作業に割り当ててないか、より優先度の高い作業が忙しくて手が回らないとき、その作業から得る物はありません。</trans>
 	</rep>
 
 	<TimeControls.label>倍速</TimeControls.label>
 	<rep>
 		<path>TimeControls.helpTexts[0]</path>
-		<trans>ゲーム時間を早めたり、遅くしたり、一時停止するには、画面右下のアイコンをクリックします </trans>
+		<trans>ゲーム時間を早めたり、遅くしたり、一時停止するには、画面右下のアイコンをクリックします。</trans>
 	</rep>
 
 	<InfoCard.label>情報画面</InfoCard.label>
 	<rep>
 		<path>InfoCard.helpTexts[0]</path>
-		<trans>情報画面は、アイテム、人、構造物の統計情報を表示します。\n\n人やアイテムを選択した後、左下の(i)ボタンを押して表示させます</trans>
+		<trans>情報画面は、アイテム、人、構造物の統計情報を表示します。\n\n人やアイテムを選択した後、左下の(i)ボタンを押して表示させます。</trans>
 	</rep>
 
 	<SpacePause.label>一時停止</SpacePause.label>
 	<rep>
 		<path>SpacePause.helpTexts[0]</path>
-		<trans>スペースキーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事で慌てる前に "スペースキー" を押すことを忘れないでください</trans>
+		<trans>スペースキーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事で慌てる前に "スペースキー" を押すことを忘れないでください。</trans>
 	</rep>
 
 	<StorageTab.label>保管の設定</StorageTab.label>
 	<rep>
 		<path>StorageTab.helpTexts[0]</path>
-		<trans>備蓄ゾーンや保管庫は、格納する物を設定できます。それらを選択した後に、保管タブを押すと設定画面が開きます</trans>
+		<trans>備蓄ゾーンや保管庫は、格納する物を設定できます。それらを選択した後に、保管タブを押すと設定画面が開きます。</trans>
 	</rep>
 
 	<MedicalOperations.label>移植</MedicalOperations.label>
 	<rep>
 		<path>MedicalOperations.helpTexts[0]</path>
-		<trans>手術や、臓器移植や、義体化を指示するには、入植者の"健康"タブを開いて、[Operations]から[新しい加工]ボタンを押します</trans>
+		<trans>手術や、臓器移植や、義体化を指示するには、入植者の"健康"タブを開いて、[Operations]から[新しい加工]ボタンを押します。</trans>
 	</rep>
 
 	<HomeArea.label>村のゾーン</HomeArea.label>
 	<rep>
 		<path>HomeArea.helpTexts[0]</path>
-		<trans>村のゾーンとは、入植者が清掃や消火活動を行う範囲の事です\n\nアーキテクトメニューのゾーンから、村のゾーンを指定します</trans>
+		<trans>村のゾーンとは、入植者が清掃や消火活動を行う範囲の事です。\n\nアーキテクトメニューのゾーンから、村のゾーンを指定します。</trans>
 	</rep>
 
 	<RightClickClearLetter.label>メールの既読</RightClickClearLetter.label>
 	<rep>
 		<path>RightClickClearLetter.helpTexts[0]</path>
-		<trans>あなたに届いたニュースレターを右クリックすることで素早く既読にすることができます</trans>
+		<trans>あなたに届いたニュースレターを右クリックすることで素早く既読にすることができます。</trans>
 	</rep>
 	<!-- Opportunity needer concepts -->
 
 	<BuildOrbitalTradeBeacon.label>貿易ビーコン</BuildOrbitalTradeBeacon.label>
 	<rep>
 		<path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
-		<trans>軌道上の貿易商人と取引するには、"貿易ビーコン"の建造が必要不可欠で、それを備蓄ゾーンの近くに配置します</trans>
+		<trans>軌道上の貿易商人と取引するには、"貿易ビーコン"の建造が必要不可欠で、それを備蓄ゾーンの近くに配置します。</trans>
 	</rep>
 
 	<SetGrowingZonePlant.label>農業ゾーン</SetGrowingZonePlant.label>
 	<rep>
 		<path>SetGrowingZonePlant.helpTexts[0]</path>
-		<trans>農業ゾーンでは、林業もできます。農業ゾーンの栽培タブから、樹木を選択してください </trans>
+		<trans>農業ゾーンでは、林業もできます。農業ゾーンの栽培タブから、樹木を選択してください。</trans>
 	</rep>
 
 	<PrisonerTab.label>囚人</PrisonerTab.label>
 	<rep>
 		<path>PrisonerTab.helpTexts[0]</path>
-		<trans>囚人の、"囚人"タブを開くと、彼をどのように扱うかを決める事ができます\n\nしかし看守の役割を持った入植者が必要となります </trans>
+		<trans>囚人の、"囚人"タブを開くと、彼をどのように扱うかを決める事ができます。\n\nしかし看守の役割を持った入植者が必要となります。</trans>
 	</rep>
 
 	<StoragePriority.label>備蓄優先順位</StoragePriority.label>
 	<rep>
 		<path>StoragePriority.helpTexts[0]</path>
-		<trans>備蓄ゾーン毎に優先度を指定できます。入植者は、より優先度の高い備蓄ゾーンから、先に荷物を置いていきます</trans>
+		<trans>備蓄ゾーン毎に優先度を指定できます。入植者は、より優先度の高い備蓄ゾーンから先に荷物を置いていきます。</trans>
 	</rep>
 
 	<HistoryTab.label>歴史</HistoryTab.label>
 	<rep>
 		<path>HistoryTab.helpTexts[0]</path>
-		<trans>HISTORY タブの "概略"ウインドウから、あなたのコロニーの記録された歴史を見ることが出来ます</trans>
+		<trans>HISTORY タブの "概略"ウインドウから、あなたのコロニーの、記録された歴史を見ることが出来ます。</trans>
 	</rep>
 
 </LanguageData>

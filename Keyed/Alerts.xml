@@ -15,7 +15,7 @@
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
-<ColonistsNeedRescue>救助が必要</ColonistsNeedRescue>
+<ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません：\n\n{0}\n他の 入植者に 救助を 指示し、 ベッドまで はこびましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <BuildARoom>部屋をつくる</BuildARoom>
@@ -38,7 +38,7 @@
 
 <LowMedicine>薬品が足りない</LowMedicine>
 <LowMedicineDesc>倉庫に {0} 単位の薬品しかありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
-<NoMedicineDesc>倉庫には、ひとつも薬品がありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</NoMedicineDesc>
+<NoMedicineDesc>倉庫に、ひとつも薬品がありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</NoMedicineDesc>
 
 <NeedColonistBeds>ベッドを作る</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
@@ -56,7 +56,7 @@
 <NeedFoodHopperDesc>ペーストディスペンサーに 隣接して 食材ホッパーを つくりましょう。\n\nペースト ディスペンサーは 食材ホッパーから 生の食材を 引き出して 動作します。\n\n食材ホッパーが 隣接していない ペーストディスペンサーが あります。 </NeedFoodHopperDesc>
 
 <BuildingNeedsPower>機器に電気を</BuildingNeedsPower>
-<BuildingsNeedPower>電気が必要です</BuildingsNeedPower>
+<BuildingsNeedPower>機器に電気を</BuildingsNeedPower>
 <BuildingsNeedPowerDesc>次の 電気を消費する 建物・機器は すべての 電気から 完全に 分断 されています：\n\n{0}\n発電機や バッテリーに 接続しましょう。</BuildingsNeedPowerDesc>
 <AndMore>より</AndMore>
 
@@ -73,7 +73,7 @@
 <NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過しようとする 商船と アイテムの 取り引きが できるように なります。</NoTradingCapacityDesc>
 
 <BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
-<BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことが彼を非常に不愉快にさせます。</BrawlerHasRangedWeaponDesc>
+<BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことが彼を非常に不愉快にさせています。</BrawlerHasRangedWeaponDesc>
 
 
   <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
@@ -99,25 +99,25 @@
   -->
 
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません\n\n治療を行わずにいると、病が慢性化し 死に至ります\n\n{0}\n直ちに医療用ベッドに寝かす必要があります \n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません。\n\n治療を行わずにいると、病が慢性化し 死に至ります。\n\n{0}\n直ちに医療用ベッドに寝かす必要があります。\n\n(最初に、ベッドを選択して 医療用寝台に切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>低体温症</AlertHypothermia>
-  <AlertHypothermiaDesc>入植者は低体温症に罹っています\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設定しましょう。</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>入植者は低体温症に罹っています。\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設定しましょう。</AlertHypothermiaDesc>
 
   <ColonistsAwaitingMedicalOperation>手術を待っています</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です</ColonistsAwaitingMedicalOperationDesc>
+  <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な手術台が整っているか確認しましょう、もちろん医者も必要です。</ColonistsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>火災発生!</FireInHomeArea>
-  <FireInHomeAreaDesc>村内にて火災発生</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>コロニー内にて火災が発生しています。</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>大病を患って死にかけています:\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>大病を患って死にかけています:\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>大病を患って死にかけています。\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう。</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>大病を患って死にかけています。\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です。</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>あるビリヤード台は障害物に隣接している為に、入植者が使おうとするのを邪魔しています。\n\nビリヤード台の周り、四方にスペースが必要です</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>あるビリヤード台が障害物に隣接している為、入植者が使おうとするのを邪魔しています。\n\nビリヤード台の周り、四方にスペースが必要です。</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>ハンターとシールド</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩りができません。</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています。\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩りができません。</HunterHasShieldAndRangedWeaponDesc>
 
 </LanguageData>

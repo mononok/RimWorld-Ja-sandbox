@@ -11,7 +11,7 @@
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>撤去</DesignatorUninstall>
-  <DesignatorUninstallDesc>移動することができます、販売や別の場所に展示できます</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>移設することができます、販売や別の場所に展示できます。</DesignatorUninstallDesc>
 
 <DesignatorHarvest>収穫</DesignatorHarvest>
 <DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
@@ -27,7 +27,7 @@
 <DesignatorHuntDesc>入植者は ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
  <DesignatorSmoothFloor>地面をならす</DesignatorSmoothFloor>
- <DesignatorSmoothFloorDesc>荒れた地面を平らにならす</DesignatorSmoothFloorDesc>
+ <DesignatorSmoothFloorDesc>荒れた地面を平らにならします。</DesignatorSmoothFloorDesc>
 
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
@@ -49,12 +49,12 @@
   <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>除雪を指定</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
   <DesignatorAreaSnowClearClear>除雪を取り消す</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します、もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>作業ゾーンを 取り消す</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
   <ManageArea>作業ゾーンの管理</ManageArea>
@@ -69,25 +69,25 @@
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>領有を主張</DesignatorClaim>
-  <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます</DesignatorClaimDesc>
+  <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます。</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>床を剥がして地面を出します</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>剥ぐ</DesignatorStrip>
-  <DesignatorStripDesc>死体やけが人の衣類を剥がします</DesignatorStripDesc>
+  <DesignatorStripDesc>死体やけが人の衣類を剥がします。</DesignatorStripDesc>
 
   <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます。</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>開ける</DesignatorOpen>
-  <DesignatorOpenDesc>墓を曝いたり、コンテナを開けます</DesignatorOpenDesc>
+  <DesignatorOpenDesc>墓を曝いたり、コンテナを開けます。</DesignatorOpenDesc>
 
   <DesignatorSlaughter>屠殺</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>家畜を屠殺する</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>家畜を屠殺します。</DesignatorSlaughterDesc>
 
   <DesignatorTame>飼いならす</DesignatorTame>
-  <DesignatorTameDesc>野生動物を飼いならす</DesignatorTameDesc>
+  <DesignatorTameDesc>野生動物を飼いならします。</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
@@ -95,7 +95,7 @@
 <TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
 <OutOfBounds>範囲外 です。</OutOfBounds>
 <CannotPlaceInUndiscovered>未探索の場所に 配置することは できません。</CannotPlaceInUndiscovered>
-<InteractionSpotBlocked>相互作用スポットは遮断される。</InteractionSpotBlocked>
+<InteractionSpotBlocked>相互作用スポットは遮断されます。</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>相互作用スポットは 領域外です。</InteractionSpotOutOfBounds>
 <InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
 <WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
@@ -109,12 +109,12 @@
 
 
 <!-- placement of zones -->
-<ExpandOrCreateZone>{0} を拡張するか\n新しく {1} を作ります</ExpandOrCreateZone>
-<CreateNewZone>新しく {0} を作ります</CreateNewZone>
+<ExpandOrCreateZone>{0} を拡張するか\n新しく {1} を作ります。</ExpandOrCreateZone>
+<CreateNewZone>新しく {0} を作ります。</CreateNewZone>
 
 
 <!-- desc helpers -->
-<TransmitsPower>電気を 伝達します</TransmitsPower>
+<TransmitsPower>電気を 伝達します。</TransmitsPower>
 
 
 </LanguageData>

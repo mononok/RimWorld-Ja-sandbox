@@ -2,7 +2,7 @@
 <LanguageData>
 
     <Sandbags.label>土嚢</Sandbags.label>
-    <Sandbags.description>銃撃から身を隠せます</Sandbags.description>
+    <Sandbags.description>銃撃から身を隠せます。</Sandbags.description>
 
 	<!--=============== Improvised turret ===============-->
 		<TurretGun.label>タレット</TurretGun.label>
@@ -10,21 +10,21 @@
 
 	<!--=============== Mortar turret ===============-->
 	<Turret_MortarBomb.label>迫撃砲(溜弾)</Turret_MortarBomb.label>
-    <Turret_MortarBomb.description>手動でのみ溜弾を投射できる、ダメージを受けると爆発します</Turret_MortarBomb.description>
+    <Turret_MortarBomb.description>手動でのみ溜弾を投射できます、ダメージを受けると爆発します。</Turret_MortarBomb.description>
 
 	<Turret_MortarIncendiary.label>迫撃砲(焼夷弾)</Turret_MortarIncendiary.label>
-    <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できる、ダメージを受けると爆発します</Turret_MortarIncendiary.description>
+    <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できます、ダメージを受けると爆発します。</Turret_MortarIncendiary.description>
 
 	<Turret_MortarEMP.label>迫撃砲(EMP)</Turret_MortarEMP.label>
-    <Turret_MortarEMP.description>手動でのみEMP弾を投射できる、ダメージを受けると爆発します</Turret_MortarEMP.description>
+    <Turret_MortarEMP.description>手動でのみEMP弾を投射できます、ダメージを受けると爆発します。</Turret_MortarEMP.description>
 
 	<TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
-	<TrapDeadfall.description>繊細な引き金によって留められた、吊された重し。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってくる</TrapDeadfall.description>
+	<TrapDeadfall.description>繊細な引き金によって留められた、吊された重しの罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall.description>
 
 	<TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
-	<TrapIEDBomb.description>自家製の引き金をつけた溜弾。犠牲者となる者が引き金に触れた時、炸裂する。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります</TrapIEDBomb.description>
+	<TrapIEDBomb.description>自家製の引き金をつけた溜弾。犠牲者となる者が引き金に触れた時、炸裂します。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります。</TrapIEDBomb.description>
 
 	<TrapIEDIncendiary.label>IED 焼夷トラップ</TrapIEDIncendiary.label>
-	<TrapIEDIncendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIEDIncendiary.description>
+	<TrapIEDIncendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIEDIncendiary.description>
 
 </LanguageData>

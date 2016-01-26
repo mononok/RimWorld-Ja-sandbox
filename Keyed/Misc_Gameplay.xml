@@ -21,11 +21,11 @@
   <Adapted>順応した</Adapted>
   <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
-  <DevelopedImmunityLower>免疫力が おちています</DevelopedImmunityLower>
+  <DevelopedImmunityLower>免疫をつけている</DevelopedImmunityLower>
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
   <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
-  <Immunity>免疫抗体を作成中</Immunity>
+  <Immunity>免疫</Immunity>
   <Race>人種</Race>
   <Description>概要</Description>
   <Equipment>装備</Equipment>
@@ -49,7 +49,7 @@
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
-  <TreatQuality>治療成果 {0}</TreatQuality>
+  <TreatQuality>治療品質 {0}</TreatQuality>
   <PoorResult>悪い結果</PoorResult>
   <GoodResult>良い結果</GoodResult>
   <TextMote_TreatSuccess>治療に成功した!\n成功率 {0}</TextMote_TreatSuccess>
@@ -58,7 +58,7 @@
   <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
-  <TextMote_TrainSuccess>{0} 調教した\n成功率 {1}</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>{0} 調教に成功した\n成功率 {1}</TextMote_TrainSuccess>
 
 
   <!-- Areas -->
@@ -235,7 +235,7 @@
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
-	<FireOn>{0} が 火災</FireOn>
+	<FireOn>{0} が 燃えている</FireOn>
 	<Burning>炎上中</Burning>
 	<FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
@@ -248,7 +248,7 @@
 	<!-- Building placement restricters -->
 	<MustPlaceUnroofed>屋根の下に 配置 できません。</MustPlaceUnroofed>
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
-	<MustPlaceNextToHopperAccepter>ホッパーを 必要とする 機材の となりに 配置して ください。</MustPlaceNextToHopperAccepter>
+	<MustPlaceNextToHopperAccepter>食材ホッパーを 必要とする 機材の となりに 配置してください。</MustPlaceNextToHopperAccepter>
 	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
 	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
@@ -259,8 +259,8 @@
 	<WindTurbine_WindPathIsBlockedByRoof>屋根が邪魔しています</WindTurbine_WindPathIsBlockedByRoof>
 
 	<!-- Cryptosleep casket -->
-	<CasketContains>Contains</CasketContains>
-	<CasketUnknownContents>Unknown</CasketUnknownContents>
+	<CasketContains>内容物</CasketContains>
+	<CasketUnknownContents>不明</CasketUnknownContents>
 	<CasketWarning>【警告】 NAMEは最後の入植者です。HIM冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
 
 	<!-- Ship launch report -->
@@ -274,7 +274,7 @@
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
   <!-- Artifact -->
-  <UseArtifact>Activate</UseArtifact>
+  <UseArtifact>起動</UseArtifact>
 
 	<!-- Minification -->
 	<Installed>インストール済</Installed>

@@ -4,11 +4,11 @@
 	<!--> SpeedOffset <-->
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].label</path>
-		<trans>のろま</trans>
+		<trans>鈍足</trans>
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAMEは、どこかに行ったかと思えば、いつもグループから脱落しています。</trans>
+		<trans>NAMEは、どこかに行ったかと思えば、いつもグループから遅れています。</trans>
 	</rep>
 
 	<rep>
@@ -17,7 +17,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].description</path>
-		<trans>NAMEは、どこにでも行きたがります。HECAPは普通の人より早く歩きます。</trans>
+		<trans>NAMEは、好きな所へ行きたがります。HECAPはほとんどの人より早く歩きます。</trans>
 	</rep>
 
 	<rep>
@@ -26,7 +26,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAMEは、常に切迫感をもって移動するので、他の人が遅れずに付いて行けなくなることが、よく起こります。</trans>
+		<trans>NAMEは、常に切迫感をもって移動するので、他の人が、遅れずについて行けなくなることが、よく起こります。</trans>
 	</rep>
 
 	<!--> DrugDesire <-->
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAMEは酒の虜です。HECAPはありったけの酒を呑みつくし、より不摂生をするでしょう。</trans>
+		<trans>NAMEは酒の虜です。HECAPはありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
 	</rep>
 
 	<rep>
@@ -45,7 +45,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[1].description</path>
-		<trans>NAMEは無類の酒好きです。HECAPは、ありったけの酒を呑みつくし、より不摂生をするでしょう。</trans>
+		<trans>NAMEは無類の酒好きです。HECAPは、ありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
 	</rep>
 
 	<rep>
@@ -92,7 +92,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[3].description</path>
-		<trans>NAMEは絶え間なく不幸です。HECAPは、全てがうまくいってるときでさえ、この良い気分が続くことを心配しています。</trans>
+		<trans>NAMEは絶え間なく不幸です。HECAPは、全てがうまくいってるときでさえ、この良い気分が続くことの心配しています。</trans>
 	</rep>
 
 	<!--> Nerves <-->
@@ -102,7 +102,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[0].description</path>
-		<trans>NAMEの意志は鉄でできた盾のようです。他の者がずっと前に倒れてしまったとしても、HECAPは、どんなことがあってもやりとげます。</trans>
+		<trans>NAMEの意志は鉄でできた盾のようです。他の者がずっと前に諦めてしまったことでも、HECAPは、どんなことがあってもやりとげます。</trans>
 	</rep>
 
 	<rep>
@@ -232,7 +232,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[0].description</path>
-		<trans>NAME's の身体から、とてつもない熱を発するおかげで、ゾクゾクするような気温に悩まされる事はありませんが、高い気温は好きではありません。</trans>
+		<trans>NAME's の身体から、とてつもない熱を発するおかげで、ゾクゾクするような寒さに悩まされる事はありませんが、高い気温は好きではありません。</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].label</path>
@@ -240,7 +240,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[1].description</path>
-		<trans>ほとんどの他の人よりは、寒い気温に適応しています。</trans>
+		<trans>ほとんどの人よりは、低い気温に適応しています。</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].label</path>
@@ -248,7 +248,7 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[2].description</path>
-		<trans>ほとんどの他の人よりは、熱い気温に適応しています。</trans>
+		<trans>ほとんどの人よりは、高い気温に適応しています。</trans>
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].label</path>
@@ -256,6 +256,6 @@
 	</rep>
 	<rep>
 		<path>TemperaturePreference.degreeDatas[3].description</path>
-		<trans>NAME's は熱い気温を好み、低い気温は好みません。</trans>
+		<trans>NAME's は高い気温を好み、低い気温は好みません。</trans>
 	</rep>
 </LanguageData>

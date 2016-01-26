@@ -3,13 +3,13 @@
 		
   <!--========================= Doors =============================-->
     <Door.label>ドア</Door.label>
-    <Door.description>部屋を隔てる。 手で開け閉めしないといけない分だけ 移動が遅くなります</Door.description>
+    <Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</Door.description>
 
 	<Autodoor.label>自動ドア</Autodoor.label>
-	<Autodoor.description>部屋を隔てる。 自動で開閉するので 通過はスムーズになります</Autodoor.description>
+	<Autodoor.description>部屋を隔てる自動扉です。自動で開閉するので通過はスムーズになります。</Autodoor.description>
 
   <!--========================= Walls =============================-->
 	<Wall.label>壁</Wall.label>
-	<Wall.description>壁、 屋根を支えます</Wall.description>
+	<Wall.description>壁です。屋根を支えます。</Wall.description>
 
 </LanguageData>

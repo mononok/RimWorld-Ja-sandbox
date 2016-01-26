@@ -2,37 +2,41 @@
 <LanguageData>
     <!-- ================= Misc ================= -->
 	<MetalTile.label>鉄製タイル</MetalTile.label>
-	<MetalTile.description>鉄製タイルは宇宙船のようだが、労力と原料を集中的に必要とします</MetalTile.description>
+	<MetalTile.description>鉄製タイルの見た目は宇宙船のようですが、資源と労力を集中的に必要とします。</MetalTile.description>
 
 	<SilverTile.label>銀製タイル</SilverTile.label>
-	<SilverTile.description>高価な上に製作しずらいが、どんなタイプの豪華な部屋でも完璧に合うでしょう</SilverTile.description>
+	<SilverTile.description>高価な上に製作しずらいが、どんなタイプの豪華な部屋にも完璧に似合うでしょう。</SilverTile.description>
 
 	<GoldTile.label>黄金タイル</GoldTile.label>
-	<GoldTile.description>床の素材の中では、もっとも美しく深い感銘を与えます。非常に高価で、製作にはたくさんの労力を必要とします</GoldTile.description>
+	<GoldTile.description>床の素材の中では、もっとも美しく深い感銘を与えます。非常に高価で、製作にはたくさんの資源と労力を必要とします。</GoldTile.description>
 
 	<SterileTile.label>抗菌タイル</SterileTile.label>
-	<SterileTile.description>抗菌タイルは部屋を清潔に保ちます、病院などで患者を感染から防ぐのに有効です。見た目は普通ですが、製作に時間がかかります</SterileTile.description>
+	<SterileTile.description>抗菌タイルは部屋を清潔に保ちます、病院などで患者を感染から防ぐのに有効です。見た目は普通ですが、製作に時間がかかります。</SterileTile.description>
 
-	<PavedTile.label>コンクリートタイル</PavedTile.label><PavedTile.description>実用本位のコンクリートタイルは、見た目が良いとは言えませんが、動きやすく作られています</PavedTile.description><Concrete.label>コンクリート打ちっ放し</Concrete.label><Concrete.description>早く造成されたコンクリート床なので、醜く、地面を少し掘り下げる必要があります</Concrete.description>
+	<PavedTile.label>コンクリートタイル</PavedTile.label>
+	<PavedTile.description>実用本位のコンクリートタイルは、見た目が良いとは言えませんが、人が動きやすいように作られています。</PavedTile.description>
+
+	<Concrete.label>コンクリート打ちっ放し</Concrete.label>
+	<Concrete.description>早く造成されたコンクリート床なので、醜く、地面を少し掘り下げる必要があります。</Concrete.description>
 
 	<WoodPlankFloor.label>厚板床</WoodPlankFloor.label>
-    <WoodPlankFloor.description>木の厚板床は、暖かで自宅に居る気分になります</WoodPlankFloor.description>
+    <WoodPlankFloor.description>木の厚板床は、暖かで自宅に居る気分になります。</WoodPlankFloor.description>
 
 	<!-- ================= Carpets ================= -->
     <CarpetRed.label>赤の絨毯</CarpetRed.label>
-    <CarpetRed.description>美しいバラ色の豪華なカーペットです</CarpetRed.description>
+    <CarpetRed.description>美しいバラ色の豪華なカーペットです。</CarpetRed.description>
 
     <CarpetGreen.label>緑の絨毯</CarpetGreen.label>
-    <CarpetGreen.description>自然な色合いの緑のカーペットです</CarpetGreen.description>
+    <CarpetGreen.description>自然な色合いの緑のカーペットです。</CarpetGreen.description>
 
     <CarpetBlue.label>青の絨毯</CarpetBlue.label>
-    <CarpetBlue.description>涼しい青い色のつま先にぴったりな豪華なカーペットです</CarpetBlue.description>
+    <CarpetBlue.description>涼しい青い色のつま先にぴったりな豪華なカーペットです。</CarpetBlue.description>
 
     <CarpetCream.label>クリーム色の絨毯</CarpetCream.label>
-    <CarpetCream.description>魅力的なクリーム色の絨毯</CarpetCream.description>
+    <CarpetCream.description>魅力的なクリーム色の絨毯です。</CarpetCream.description>
 
     <CarpetDark.label>シックな色の絨毯</CarpetDark.label>
-    <CarpetDark.description>プロフェッショナルな質感の濃い灰色絨毯</CarpetDark.description>
+    <CarpetDark.description>プロフェッショナルな質感の濃い灰色絨毯です。</CarpetDark.description>
 
     <!-- ================= Foundation solids ================= -->
 

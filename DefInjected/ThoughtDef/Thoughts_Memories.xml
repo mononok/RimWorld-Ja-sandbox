@@ -9,7 +9,7 @@
   </rep>
   <rep>
     <path>SleepDisturbed.stages[0].description</path>
-    <trans>人々が私のまわりをウロウロするせいで、 私の睡眠が邪魔された。 個室が与えられれば解決するのに。</trans>
+    <trans>人々が私のまわりをウロウロするせいで、 私の睡眠が邪魔された。 個室が与えられれば解決するのに…</trans>
   </rep>
 
   <rep>
@@ -70,7 +70,7 @@
 
   <rep>
     <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
-    <trans>生の人肉を食べた</trans>
+    <trans>好物の生の人肉を食べた</trans>
   </rep>
   <rep>
     <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
@@ -79,7 +79,7 @@
 
   <rep>
     <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
-    <trans>調理された人肉を食べた</trans>
+    <trans>好物の調理された人肉を食べた</trans>
   </rep>
   <rep>
     <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
@@ -101,7 +101,7 @@
   </rep>
   <rep>
     <path>AteWithoutTable.stages[0].description</path>
-    <trans>地面の上で食事を摂った、だれかテーブルを探してきてくれ。</trans>
+    <trans>地面の上で食事を摂った、誰かテーブルを探してきて欲しい。</trans>
   </rep>
 
 	<!-- Combat -->
@@ -120,7 +120,7 @@
   </rep>
   <rep>
     <path>ObservedLayingRottingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている腐乱死体を見た、ムナクソが悪くなった。</trans>
+    <trans>私は地面の上に転がっている腐乱死体を見た、気分が悪くなった。</trans>
   </rep>
 
   <rep>
@@ -307,7 +307,7 @@
   </rep>
   <rep>
     <path>MyOrganHarvested.stages[0].description</path>
-    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!。</trans>
+    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!</trans>
   </rep>
 
   <rep>
@@ -343,7 +343,7 @@
   </rep>
   <rep>
     <path>AbrasiveTalk.stages[0].description</path>
-    <trans>会話をして気分が不快になった。</trans>
+    <trans>会話をして不快な気分になった。</trans>
   </rep>
 
   <rep>
@@ -366,7 +366,7 @@
 
   <rep>
     <path>Nuzzled.stages[0].label</path>
-    <trans>鼻でなでる</trans>
+    <trans>擦り寄る</trans>
   </rep>
   <rep>
     <path>Nuzzled.stages[0].description</path>
@@ -375,11 +375,11 @@
 
   <rep>
     <path>SomeoneBuriedInSarcophagus.stages[0].label</path>
-    <trans>石棺に収められた</trans>
+    <trans>石棺に収めた</trans>
   </rep>
   <rep>
     <path>SomeoneBuriedInSarcophagus.stages[0].description</path>
-    <trans>このコロニーで、誰かを装飾された石棺に収めて埋葬した。彼の魂がやすらぎを得ますように。</trans>
+    <trans>このコロニーで、誰かを、装飾された石棺に収めて埋葬した。彼の魂がやすらぎを得ますように。</trans>
   </rep>
 
 

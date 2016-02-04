@@ -1,9 +1,9 @@
 RimWorld-Ja-sandbox
 ===========
 Ver:12.00
-Original: alpha12 + Imp4
-Description: 【検証済】追加分の和訳を準備した、誤訳、原文とかけ離れた訳文を修正した、error,warning 除去
-ToDo:
+Original: alpha12d + Imp17
+Description: 【未検証】誤訳、原文とかけ離れた訳文を修正した。
+ToDo: 芸術作品の説明文（自動生成）
 Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 
 ============

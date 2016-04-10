@@ -27,6 +27,11 @@
 	</rep>
 
 	<rep>
+		<path>InteractingWithTraders.helpTexts[0]</path>
+		<trans>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</trans>
+	</rep>
+
+	<rep>
 		<path>Drafting.helpTexts[0]</path>
 		<trans>入植者達を、戦闘時に直接操作したいとき、入植者を選択した後に"徴兵"ボタンを押します。彼らはあなたの指示に従い、自分の持っている武器を使って戦闘します。\n\n戦闘終了後には、"徴兵"を解除し忘れないで下さい。そのうち彼らは、飢えて不機嫌になるでしょうから</trans>
 	</rep>
@@ -39,6 +44,11 @@
 	<rep>
 		<path>BillsTab.helpTexts[0]</path>
 		<trans>入植者を机上の作業に就かせるには、机を選択して加工タブを開きます。そして、食料や物を加工させます </trans>
+	</rep>
+
+	<rep>
+		<path>TVForSickPeople.helpTexts[0]</path>
+		<trans>To entertain sick people in bed, set up a TV they can watch.</trans>
 	</rep>
 
 	<rep>
@@ -57,6 +67,11 @@
 	</rep>
 
 	<rep>
+		<path>HostilityResponse.helpTexts[0]</path>
+		<trans>You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu.</trans>
+	</rep>
+
+	<rep>
 		<path>OpeningComms.helpTexts[0]</path>
 		<trans>通信させるには、入植者をクリックした後に、通信機を右クリックします </trans>
 	</rep>
@@ -70,4 +85,10 @@
 		<path>InspectRoomStats.helpTexts[0]</path>
 		<trans>部屋の、見栄えのよさ、豪華さ、美しさを見るには、右下にある"ROOM STATS INSPECT"ボタンを使用します</trans>
 	</rep>
+
+	<rep>
+		<path>ClickingMessages.helpTexts[0]</path>
+		<trans>You can click on the notifications in the top-left of the screen to instantly center the camera on their subject.</trans>
+	</rep>
+
 </LanguageData>

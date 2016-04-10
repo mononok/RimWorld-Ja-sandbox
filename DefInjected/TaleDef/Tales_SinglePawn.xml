@@ -341,7 +341,7 @@
 	</rep>
 
 
-    <!-- MentalBreakBerserk -->
+    <!-- MentalBreakBerserk
 	<rep>
 		<path>MentalBreakBerserk.rulePack.rulesStrings[0]</path>
 		<trans>image->[circumstance_group]、[pawn_nameFull]は 烈火のごとく怒り凶暴になる。[desc_sentence_group]</trans>
@@ -430,9 +430,9 @@
 		<path>MentalBreakBerserk.rulePack.rulesStrings[21]</path>
 		<trans>desc_sentence->A single tear rolls down [pawn_possessive] face.</trans>
 	</rep>
+	-->
 
-
-    <!-- MentalBreakGaveUp -->
+    <!-- MentalBreakGaveUp
 	<rep>
 		<path>MentalBreakGaveUp.rulePack.rulesStrings[0]</path>
 		<trans>image->[pawn_nameFull] finally giving up under stress [circumstance_group]. [desc_sentence_group]</trans>
@@ -505,5 +505,6 @@
 		<path>MentalBreakGaveUp.rulePack.rulesStrings[17]</path>
 		<trans>desc_sentence->[pawn_possessive] hair is totally mussed up.</trans>
 	</rep>
+	-->
 
 </LanguageData>

@@ -9,12 +9,6 @@
     <Work.label>優先順位</Work.label>
     <Work.description>入植者達に、どのような作業を、どのような優先順位で行うかを指示します。</Work.description>
 
-    <Restrictions.label>制約</Restrictions.label>
-    <Restrictions.description>入植者達の、特定の許可されたエリアで、特定の時間に、特定の行動に制限します。</Restrictions.description>
-
-    <Outfits.label>服装</Outfits.label>
-    <Outfits.description>個々の入植者に、着させる服装を設定します。</Outfits.description>
-
     <Animals.label>家畜</Animals.label>
     <Animals.description>家畜の扱われ方を設定します。</Animals.description>
 
@@ -35,5 +29,11 @@
 
     <Menu.label>メニュー</Menu.label>
     <Menu.description>オプション変更、セーブ、ロード、ゲームの終了</Menu.description>
+
+	<Restrict.label>restrict</Restrict.label>
+	<Restrict.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrict.description>
+
+	<Assign.label>assign</Assign.label>
+	<Assign.description>Configure what each colonist is allowed to wear, and how to react to nearby enemies.</Assign.description>
 
 </LanguageData>

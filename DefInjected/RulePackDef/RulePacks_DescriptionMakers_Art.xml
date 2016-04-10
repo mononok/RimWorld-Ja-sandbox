@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!-- ArtSculpture -->
+    <!-- ArtSculpture
 	<rep>
 		<path>ArtSculpture.rulePack.rulesStrings[0]</path>
 		<trans>description->この [sculpture]は、[image] これらのイメージを [depicts]です。</trans>
@@ -30,9 +30,9 @@
 		<path>ArtSculpture.rulePack.rulesStrings[6]</path>
 		<trans>sculpture->彫刻物</trans>
 	</rep>
+	-->
 
-
-    <!-- ArtWeaponMelee -->
+    <!-- ArtWeaponMelee
 	<rep>
 		<path>ArtWeaponMelee.rulePack.rulesStrings[0]</path>
 		<trans>description->この武器には [image]を [depiction]彫り物が施されている。</trans>
@@ -45,9 +45,9 @@
 		<path>ArtWeaponMelee.rulePack.rulesStrings[2]</path>
 		<trans>description->[image]を [depiction]彫り物がある武器。</trans>
 	</rep>
+	-->
 
-
-	<!-- ArtWeaponGun -->
+	<!-- ArtWeaponGun
 	<rep>
 		<path>ArtWeaponGun.rulePack.rulesStrings[0]</path>
 		<trans>description->この武器には [image]を [depiction]彫り物が施されている。</trans>
@@ -60,9 +60,9 @@
 		<path>ArtWeaponGun.rulePack.rulesStrings[2]</path>
 		<trans>description->[image]を [depiction]彫り物がある武器。</trans>
 	</rep>
+	-->
 
-
-    <!-- ArtFurniture -->
+    <!-- ArtFurniture
 	<rep>
 		<path>ArtFurniture.rulePack.rulesStrings[0]</path>
 		<trans>description->この家具には [image]を [depiction]彫り物が施されている。</trans>
@@ -75,9 +75,9 @@
 		<path>ArtFurniture.rulePack.rulesStrings[2]</path>
 		<trans>description->[image]を [depiction]彫り物がある家具。</trans>
 	</rep>
+	 -->
 
-
-    <!-- ArtSarcophagusPlate -->
+    <!-- ArtSarcophagusPlate
 	<rep>
 		<path>ArtSarcophagusPlate.rulePack.rulesStrings[0]</path>
 		<trans>description->この墓碑には [image]を [depiction]彫り物が施されている。</trans>
@@ -90,5 +90,6 @@
 		<path>ArtSarcophagusPlate.rulePack.rulesStrings[2]</path>
 		<trans>description->[image]を [depiction]彫り物がある墓碑。</trans>
 	</rep>
+	-->
 
 </LanguageData>

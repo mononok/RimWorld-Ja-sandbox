@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!--
 	<rep>
 		<path>NamerWeapon.rulePack.rulesStrings[0]</path>
 		<trans>name->[personname]の [badassconcept]</trans>
@@ -29,8 +30,9 @@
 		<path>NamerWeapon.rulePack.rulesStrings[6]</path>
 		<trans>name->[badassconcept] [badasscolor]</trans>
 	</rep>
+	-->
 
-
+	<!--
 	<rep>
 		<path>NamerSculpture.rulePack.rulesStrings[0]</path>
 		<trans>name->[artname]</trans>
@@ -91,7 +93,9 @@
 		<path>NamerSculpture.rulePack.rulesStrings[14]</path>
 		<trans>name->[artname] No. [digit][digit]</trans>
 	</rep>
+	-->
 
+	<!--
 	<rep>
 		<path>NamerFurniture.rulePack.rulesStrings[0]</path>
 		<trans>name->[personname]の [positiveconcept]</trans>
@@ -108,7 +112,9 @@
 		<path>NamerFurniture.rulePack.rulesStrings[3]</path>
 		<trans>name->[badasscolor] [animal]</trans>
 	</rep>
+	-->
 
+	<!--
 	<rep>
 		<path>NamerSarcophagusPlate.rulePack.rulesStrings[0]</path>
 		<trans>name->[angstyadjective] [badassperson]</trans>
@@ -129,5 +135,6 @@
 		<path>NamerSarcophagusPlate.rulePack.rulesStrings[4]</path>
 		<trans>name->[angstyadjective] [badassconcept]</trans>
 	</rep>
+	-->
 
 </LanguageData>

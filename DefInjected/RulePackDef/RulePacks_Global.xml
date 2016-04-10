@@ -2,7 +2,7 @@
 <LanguageData>
 
 
-    <!-- GlobalCircumstances -->
+    <!-- GlobalCircumstances
 	<rep>
 		<path>GlobalCircumstances.rulePack.rulesStrings[0]</path>
 		<trans>circumstance_group->宇宙歴 [date_phrase] [circumstance_phrase]</trans>
@@ -15,7 +15,7 @@
 		<path>GlobalCircumstances.rulePack.rulesStrings[2]</path>
 		<trans>date_phrase->[date]</trans>
 	</rep>
-
+ 	-->
 
     <!-- GlobalUtility -->
 	<rep>
@@ -90,5 +90,5 @@
 		<path>GlobalUtility.rulePack.rulesStrings[17]</path>
 		<trans>game->ブラックジャック</trans>
 	</rep>
-  
+
 </LanguageData>

@@ -21,7 +21,16 @@
 	<MineablePlasteel.label>プラスチール鉱床</MineablePlasteel.label>
 	<MineablePlasteel.description>古代のぎっしり詰まった瓦礫には、プラスチールが豊富に含まれています。</MineablePlasteel.description>
 
+	<MineableJade.label>MineableJade</MineableJade.label>
+	<MineableJade.description>Rock containing bits of jade.</MineableJade.description>
+
+	<MineableComponents.label>compacted machinery</MineableComponents.label>
+    <MineableComponents.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponents.description>
+
 	<SteamGeyser.label>間欠泉</SteamGeyser.label>
 	<SteamGeyser.description>地底から蒸気が噴出しています。</SteamGeyser.description>
+
+	<Hive.label>hive</Hive.label>
+	<Hive.description>A bug hive. Will spawn additional bugs and hives over time.</Hive.description>
 
 </LanguageData>

@@ -11,7 +11,9 @@
 <Mods>MOD</Mods>
 <Credits>クレジット</Credits>
 <QuitToMainMenu>タイトルに もどる</QuitToMainMenu>
+<SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
 <QuitToOS>ゲーム 終了</QuitToOS>
+<SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
 <FictionPrimer>Fiction primer</FictionPrimer>
 <LudeonBlog>Ludeon blog</LudeonBlog>
 <Forums>Forums</Forums>
@@ -19,6 +21,7 @@
 <TynansTwitter>Tynan's twitter</TynansTwitter>
 <TynansDesignBook>Tynan's design book</TynansDesignBook>
 <HelpTranslate>Help translate RimWorld</HelpTranslate>
+<BuySoundtrack>Buy soundtrack</BuySoundtrack>
 
 <!--=========== Create/review world ================-->
 <ReviewWorld>惑星を確認</ReviewWorld>
@@ -120,6 +123,8 @@
 <Male>男性</Male>
 <Female>女性</Female>
 <Pain>やな奴</Pain>
+<Health>Health</Health>
+<Relations>Relations</Relations>
 
 
 <!--=========== Misc ==========-->
@@ -134,7 +139,7 @@
 
 <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
 
-<GeneratingWorld>惑星を 生成しています...</GeneratingWorld>
-<GeneratingMap>地図を 作成しています...</GeneratingMap>
+<GeneratingWorld>惑星を 生成しています</GeneratingWorld>
+<GeneratingMap>地図を 作成しています</GeneratingMap>
 
 </LanguageData>

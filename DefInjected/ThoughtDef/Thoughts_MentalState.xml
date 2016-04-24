@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>CurrentlyInMentalStateBerserk.stages[0].label</path>
+        <trans>berserk thoughts</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyInMentalStateBerserk.stages[0].description</path>
+        <trans>Must kill!</trans>
+	</rep>
+
+
+	<rep>
+		<path>CurrentlyInMentalStateSad.stages[0].label</path>
+        <trans>broken thoughts</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyInMentalStateSad.stages[0].description</path>
+        <trans>It's all just too much.</trans>
+	</rep>
+
+
+	<rep>
+		<path>CurrentlyInMentalStatePanicFlee.stages[0].label</path>
+        <trans>panic</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyInMentalStatePanicFlee.stages[0].description</path>
+        <trans>I have to get out of here!</trans>
+	</rep>
+
+</LanguageData>

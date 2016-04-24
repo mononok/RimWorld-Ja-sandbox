@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <BadBack.label>bad back</BadBack.label>
+
+    <Frail.label>frail</Frail.label>
+
+    <Cataract.label>cataract</Cataract.label>
+
+    <HearingLoss.label>hearing loss</HearingLoss.label>
+
+    <Dementia.label>dementia</Dementia.label>
+
+    <Alzheimers.label>alzheimer's</Alzheimers.label>
+	<rep>
+		<path>Alzheimers.stages[0].label</path>
+		<trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Alzheimers.stages[1].label</path>
+		<trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Alzheimers.stages[2].label</path>
+        <trans>major</trans>
+	</rep>
+	<rep>
+		<path>Alzheimers.stages[3].label</path>
+        <trans>major</trans>
+	</rep>
+
+    <Asthma.label>asthma</Asthma.label>
+	<rep>
+		<path>Asthma.stages[0].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Asthma.stages[1].label</path>
+        <trans>major</trans>
+	</rep>
+	<rep>
+		<path>Asthma.stages[2].label</path>
+        <trans>major</trans>
+	</rep>
+
+    <HeartArteryBlockage.label>artery blockage</HeartArteryBlockage.label>
+	<rep>
+		<path>HeartArteryBlockage.stages[0].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>HeartArteryBlockage.stages[1].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>HeartArteryBlockage.stages[2].label</path>
+        <trans>major</trans>
+	</rep>
+	<rep>
+		<path>HeartArteryBlockage.stages[3].label</path>
+        <trans>major</trans>
+	</rep>
+	<rep>
+		<path>HeartArteryBlockage.stages[4].label</path>
+        <trans>extreme</trans>
+	</rep>
+	<rep>
+		<path>HeartArteryBlockage.stages[5].label</path>
+        <trans>extreme</trans>
+	</rep>
+
+    <Carcinoma.label>carcinoma</Carcinoma.label>
+	<rep>
+		<path>Carcinoma.stages[0].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Carcinoma.stages[1].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Carcinoma.stages[2].label</path>
+        <trans>minor</trans>
+	</rep>
+	<rep>
+		<path>Carcinoma.stages[3].label</path>
+        <trans>major</trans>
+	</rep>
+	<rep>
+		<path>Carcinoma.stages[4].label</path>
+        <trans>extreme</trans>
+	</rep>
+	<rep>
+		<path>Carcinoma.stages[5].label</path>
+        <trans>extreme</trans>
+	</rep>
+
+</LanguageData>

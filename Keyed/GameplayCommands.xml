@@ -36,14 +36,13 @@
   <CommandBedSetOwnerDesc>ベッドの所有者を決めます。</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
-  <CommandGraveSetToUnassignedLabel>無記名にする</CommandGraveSetToUnassignedLabel>
-  <CommandGraveSetToUnassignedDesc>墓所を無名にします。</CommandGraveSetToUnassignedDesc>
   <BuildingAssign>指定</BuildingAssign>
-<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
-<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
-<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを囚人用に割り当てできません。</CommandBedSetForPrisonersFailOutdoors>
-<CommandBedSetForColonistsLabel>入植者用ベッドに設定</CommandBedSetForColonistsLabel>
-<CommandBedSetForColonistsDesc>ベッドのある部屋も含めて、入植者用に割り当てます。</CommandBedSetForColonistsDesc>
+<BuildingUnassign>Unassign</BuildingUnassign>
+	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
+	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
+	<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを囚人用に割り当てできません。</CommandBedSetForPrisonersFailOutdoors>
+	<CommandBedSetForColonistsLabel>入植者用ベッドに設定</CommandBedSetForColonistsLabel>
+	<CommandBedSetForColonistsDesc>ベッドのある部屋も含めて、入植者用に割り当てます。</CommandBedSetForColonistsDesc>
   <CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
   <CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
   <CommandBedSetAsNonMedicalLabel>医療用ベッドを解除</CommandBedSetAsNonMedicalLabel>
@@ -109,9 +108,11 @@
   <CommandRaiseTempDesc>設定温度を上げます。</CommandRaiseTempDesc>
   <CommandLowerTempDesc>設定温度を下げます。</CommandLowerTempDesc>
 
-  <!-- Art -->
+  <!-- Install/reinstall -->
   <CommandInstall>展示</CommandInstall>
   <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます。</CommandInstallDesc>
+<CommandReinstall>Reinstall at...</CommandReinstall>
+<CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
 
   <!-- Trade beacon -->
   <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます。</CommandMakeBeaconStockpileDesc>
@@ -128,6 +129,10 @@
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+
+  <!-- Squad attack -->
+<CommandSquadAttack>Attack</CommandSquadAttack>
+<CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
 
 
 </LanguageData>

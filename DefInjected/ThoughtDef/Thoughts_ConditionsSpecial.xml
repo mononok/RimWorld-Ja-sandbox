@@ -20,6 +20,15 @@
 	</rep>
 
 	<rep>
+		<path>SharedBed.stages[0].label</path>
+		<trans>sharing bed</trans>
+	</rep>
+	<rep>
+		<path>SharedBed.stages[0].description</path>
+		<trans>I have to share a bed with someone who I don't particularly want to.</trans>
+	</rep>
+
+	<rep>
 		<path>ColonistLeftUnburied.stages[0].label</path>
 		<trans>死者には安らぎを</trans>
 	</rep>

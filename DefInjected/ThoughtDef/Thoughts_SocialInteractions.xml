@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <rep>
+    <path>Chitchat.stages[0].label</path>
+    <trans>chitchat</trans>
+  </rep>
+
+  <rep>
+    <path>DeepTalk.stages[0].label</path>
+    <trans>had deep talk</trans>
+  </rep>
+
+  <rep>
+    <path>Slighted.stages[0].label</path>
+    <trans>slighted</trans>
+  </rep>
+
+  <rep>
+    <path>Insulted.stages[0].label</path>
+    <trans>insulted</trans>
+  </rep>
+
+  <!-- Special -->
+
+  <!-- note that it doesn't affect opinion -->
+  <rep>
+    <path>PrisonerFriendlyChat.stages[0].label</path>
+    <trans>説得された</trans>
+  </rep>
+  <rep>
+    <path>PrisonerFriendlyChat.stages[0].description</path>
+    <trans>このコロニーについて看守と話してみた、良い場所のように見えるのだが…</trans>
+  </rep>
+
+  <!-- Social fights -->
+
+  <rep>
+    <path>HadAngeringFight.stages[0].label</path>
+    <trans>had an angering fight</trans>
+  </rep>
+
+  <rep>
+    <path>HadCatharticFight.stages[0].label</path>
+    <trans>had a cathartic fight</trans>
+  </rep>
+
+  <!-- Misc actions affecting opinion -->
+
+  <rep>
+    <path>HarmedMe.stages[0].label</path>
+    <trans>harmed me</trans>
+  </rep>
+
+  <rep>
+    <path>BotchedMySurgery.stages[0].label</path>
+    <trans>botched my surgery</trans>
+  </rep>
+
+  <rep>
+    <path>KilledMyKin.stages[0].label</path>
+    <trans>killed my kin</trans>
+  </rep>
+
+  <rep>
+    <path>RescuedMe.stages[0].label</path>
+    <trans>rescued me</trans>
+  </rep>
+
+  <rep>
+    <path>RecruitedMe.stages[0].label</path>
+    <trans>recruited me</trans>
+  </rep>
+
+  <rep>
+    <path>CrashedTogether.stages[0].label</path>
+    <trans>crashed together</trans>
+  </rep>
+
+  <rep>
+    <path>SoldMyLovedOne.stages[0].label</path>
+    <trans>loved one sold</trans>
+  </rep>
+  <rep>
+    <path>SoldMyLovedOne.stages[0].labelSocial</path>
+    <trans>sold my loved one</trans>
+  </rep>
+  <rep>
+    <path>SoldMyLovedOne.stages[0].description</path>
+    <trans>Someone I love was sold to a trader like a piece of meat!</trans>
+  </rep>
+
+  <rep>
+    <path>SoldMyBondedAnimal.stages[0].label</path>
+    <trans>bonded animal sold</trans>
+  </rep>
+  <rep>
+    <path>SoldMyBondedAnimal.stages[0].labelSocial</path>
+    <trans>sold my bonded animal</trans>
+  </rep>
+  <rep>
+    <path>SoldMyBondedAnimal.stages[0].description</path>
+    <trans>My special bonded animal was sold to a trader!</trans>
+  </rep>
+
+  <!-- Love -->
+
+  <rep>
+    <path>CheatedOnMe.stages[0].label</path>
+    <trans>cheater</trans>
+  </rep>
+
+  <rep>
+    <path>Rebuffed.stages[0].label</path>
+    <trans>rebuffed</trans>
+  </rep>
+
+  <rep>
+    <path>FailedRomanceAttempt.stages[0].label</path>
+    <trans>filed romanceattempt</trans>
+  </rep>
+
+  <rep>
+    <path>BrokeUpWithMe.stages[0].label</path>
+    <trans>broke up with me</trans>
+  </rep>
+
+  <rep>
+    <path>DivorcedMe.stages[0].label</path>
+    <trans>divorced me</trans>
+  </rep>
+
+  <rep>
+    <path>RejectedMyProposal.stages[0].label</path>
+    <trans>rejected my proposal</trans>
+  </rep>
+
+  <rep>
+    <path>IRejectedTheirProposal.stages[0].label</path>
+    <trans>I rejected their proposal</trans>
+  </rep>
+
+  <rep>
+    <path>HoneymoonPhase.stages[0].label</path>
+    <trans>honeymoon phase</trans>
+  </rep>
+
+</LanguageData>

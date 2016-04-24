@@ -9,4 +9,10 @@
 		<ButcherCorpseMechanoid.description>機能停止した機械生命体を、部品毎に分解します。</ButcherCorpseMechanoid.description>
 		<ButcherCorpseMechanoid.jobString>分解中</ButcherCorpseMechanoid.jobString>
 
+
+	<!-- 20 + 20 ingredients yield 50 kibble -->
+
+	<MakeKibble.label>make kibble</MakeKibble.label>
+	<MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
+
 </LanguageData>

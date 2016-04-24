@@ -15,7 +15,9 @@
 	<TabRace>種族</TabRace>
 	<TabBasics>Basics</TabBasics>
 	<TabStats>状態</TabStats>
-    <TabArt>芸術</TabArt>
+<TabRecords>Records</TabRecords>
+   <TabArt>芸術</TabArt>
+<TabSocial>Social</TabSocial>
 
 
 	<!-- Bills tab  -->
@@ -66,7 +68,10 @@
 	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
 	<Harvest>摘出</Harvest>
-
+<MemoryLower>memory</MemoryLower>
+<SocialInteractionsLower>social interactions</SocialInteractionsLower>
+<HungerRate>Hunger rate</HungerRate>
+<Tiredness>Tiredness</Tiredness>
 
 
 	<!-- Medical - Body and activities condition -->
@@ -92,6 +97,16 @@
   <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+
+   <!-- Social tab -->
+<NoRelationships>(no relationships)</NoRelationships>
+<Kidnapped>Kidnapped</Kidnapped>
+<Slave>Slave</Slave>
+<FactionLeader>Faction leader</FactionLeader>
+<OpinionOf>Opinion of {0}</OpinionOf>
+<SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+<IAmDead>I'm dead</IAmDead>
+<IAmPsychopath>I'm a psychopath</IAmPsychopath>
 
 
 

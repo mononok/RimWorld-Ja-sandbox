@@ -31,10 +31,14 @@
     <!--============= Misc ============-->
     <Wear.reportString>TargetA 着ている</Wear.reportString>
 
+	<RemoveApparel.reportString>TargetA 脱いでいる</RemoveApparel.reportString>
+
     <Strip.reportString>TargetA を剥がしている</Strip.reportString>
 
     <Open.reportString>TargetA を開封中</Open.reportString>
     <RearmTrap.reportString>TargetA を再セット中</RearmTrap.reportString>
+
+	<Refuel.reportString>TargetA 給油中</Refuel.reportString>
 
     <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
 
@@ -42,11 +46,17 @@
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
     <UseArtifact.reportString>アーティファクト を作動中</UseArtifact.reportString>
 
+	<TriggerFirefoamPopper.reportString>Triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+
     <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
 
 	<Vomit.reportString>吐いている</Vomit.reportString>
 
 	<Flick.reportString>操作している</Flick.reportString>
+
+	<TradeWithPawn.reportString>Trading with TargetA.</TradeWithPawn.reportString>
+
+	<FleeAndCower.reportString>Fleeing.</FleeAndCower.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>
@@ -60,5 +70,6 @@
 
     <LayDown.reportString>睡眠中</LayDown.reportString>
 
+    <Lovin.reportString>Lovin'.</Lovin.reportString>
 
 </LanguageData>

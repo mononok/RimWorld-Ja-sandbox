@@ -38,10 +38,13 @@
 <SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています。</SingleTravelerPassing>
 <GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
 
-  <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています。</SingleVisitorArrives>
-  <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
-<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。</GroupVisitorsArrive>
+	<LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
+	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2}.{3} と名乗っています。</SingleVisitorArrives>
+<SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
+	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}</GroupVisitorsArrive>
+<GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
+
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
@@ -96,5 +99,13 @@
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
   <LetterThrumboPasses>スランボの小さな群れが、このエリアに入り込んできました。\n\n基本的には大人しいですが、この希少な生き物と対決するときは非常に危険です。幾人かの貿易商は、これらの貴重な毛皮と角に多額の報酬を払うでしょう。\n\nスランボ達は数日で、ここから出て行くでしょう。</LetterThrumboPasses>
+
+  <!-- Trader caravan -->
+<LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
+<LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+
+  <!-- Building breaks down -->
+<LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
+<LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
 
 </LanguageData>

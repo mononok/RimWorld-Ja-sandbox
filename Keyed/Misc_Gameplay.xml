@@ -9,6 +9,7 @@
 <ForColonistUse>入植者が 使用</ForColonistUse>
 <MedicalBed>医療用</MedicalBed>
 <Owner>所有者</Owner>
+<Owners>所有者</Owners>
   <AssignedColonist>担当者</AssignedColonist>
 <Nobody>無し</Nobody>
 <Unowned>空き</Unowned>
@@ -40,12 +41,19 @@
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
-  <BrokenLetterLabel>Broken</BrokenLetterLabel>
+<MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
   <MilkFullness>搾乳可</MilkFullness>
   <WoolGrowth>毛刈り可</WoolGrowth>
   <EggProgress>採卵可</EggProgress>
   <Fertilized>受精した</Fertilized>
-  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+<ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+<SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+<EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
+<CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+<HiveReproducesIn>Reproduces in</HiveReproducesIn>
+<BrokenDown>Broken down</BrokenDown>
+<BondBrackets>(bond)</BondBrackets>
+<Fuel>Fuel</Fuel>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -59,7 +67,7 @@
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
   <TextMote_TrainSuccess>{0} 調教に成功した\n成功率 {1}</TextMote_TrainSuccess>
-
+<TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
 
   <!-- Areas -->
   <Home>村</Home>
@@ -75,6 +83,7 @@
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} は野蛮なことはできません</IsIncapableOfViolence>
+<IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
   <IsNotDrafted>{0} は徴兵されていない</IsNotDrafted>
 
   <!-- Snow -->
@@ -83,6 +92,7 @@
   <SnowThin>積雪(薄)</SnowThin>
   <SnowMedium>積雪</SnowMedium>
   <SnowThick>積雪(厚)</SnowThick>
+<ReportCowering>Cowering.</ReportCowering>
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
@@ -143,6 +153,10 @@
 	<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
 	<DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
 
+	<!-- Hostility response -->
+<HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+<HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+
 	<!-- like 'Blood of John' -->
 	<OfLower>of</OfLower>
 
@@ -187,6 +201,7 @@
   <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
   <NotRefrigerated>常温 (消費期限あと {0})</NotRefrigerated>
   <OverADecade>消費期限切れ</OverADecade>
+<LessThanADay>less than a day</LessThanADay>
 
 	<!-- Meal -->
 	<Ingredients>原料</Ingredients>
@@ -276,6 +291,9 @@
   <!-- Artifact -->
   <UseArtifact>起動</UseArtifact>
 
+	<!-- Firefoam popper -->
+<TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
+
 	<!-- Minification -->
 	<Installed>インストール済</Installed>
 	<NotInstalled>未インストール</NotInstalled>
@@ -294,7 +312,7 @@
 	<QualityIs>品質: {0}</QualityIs>
 
 	<!-- Mood descriptions -->
-	<Mood_Broken>崩壊</Mood_Broken>
+<Mood_MentalState>mental state</Mood_MentalState>
 	<Mood_AboutToBreak>崩壊に等しい</Mood_AboutToBreak>
 	<Mood_OnEdge>限界</Mood_OnEdge>
 	<Mood_Stressed>ストレス気味</Mood_Stressed>
@@ -319,5 +337,9 @@
   <!-- Facilities -->
   <InactiveFacility>閉鎖</InactiveFacility>
 
+	<!-- Hediffs growth modes -->
+<DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+<DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+<DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
 </LanguageData>

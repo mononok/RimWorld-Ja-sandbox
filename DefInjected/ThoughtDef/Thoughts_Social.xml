@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Family member died thoughts -->
+
+    <rep>
+		<path>MySonDied.stages[0].label</path>
+        <trans>my son died</trans>
+	</rep>
+	<rep>
+		<path>MySonDied.stages[0].description</path>
+		<trans>My son is dead. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyDaughterDied.stages[0].label</path>
+        <trans>my daughter died</trans>
+	</rep>
+	<rep>
+		<path>MyDaughterDied.stages[0].description</path>
+		<trans>My daughter is dead. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyHusbandDied.stages[0].label</path>
+        <trans>my husband died</trans>
+	</rep>
+	<rep>
+		<path>MyHusbandDied.stages[0].description</path>
+		<trans>My husband is dead. I am alone.</trans>
+	</rep>
+
+    <rep>
+		<path>MyWifeDied.stages[0].label</path>
+        <trans>my wife died</trans>
+	</rep>
+	<rep>
+		<path>MyWifeDied.stages[0].description</path>
+		<trans>My wife is dead. I am alone.</trans>
+	</rep>
+
+    <rep>
+		<path>MyFianceDied.stages[0].label</path>
+        <trans>my fiance died</trans>
+	</rep>
+	<rep>
+		<path>MyFianceDied.stages[0].description</path>
+		<trans>My fiance died. Such a man... my future is gone.</trans>
+	</rep>
+
+    <rep>
+		<path>MyFianceeDied.stages[0].label</path>
+        <trans>my fiancee died</trans>
+	</rep>
+	<rep>
+		<path>MyFianceeDied.stages[0].description</path>
+		<trans>My fiancee died. Such a woman... my future is gone.</trans>
+	</rep>
+
+    <rep>
+		<path>MyLoverDied.stages[0].label</path>
+        <trans>my lover died</trans>
+	</rep>
+	<rep>
+		<path>MyLoverDied.stages[0].description</path>
+		<trans>My lover died. I am so alone.</trans>
+	</rep>
+
+    <rep>
+		<path>MyBrotherDied.stages[0].label</path>
+        <trans>my brother died</trans>
+	</rep>
+	<rep>
+		<path>MyBrotherDied.stages[0].description</path>
+		<trans>My brother died. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MySisterDied.stages[0].label</path>
+        <trans>my sister died</trans>
+	</rep>
+	<rep>
+		<path>MySisterDied.stages[0].description</path>
+		<trans>My sister died. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyFatherDied.stages[0].label</path>
+        <trans>my father died</trans>
+	</rep>
+	<rep>
+		<path>MyFatherDied.stages[0].description</path>
+		<trans>My father died. He's gone forever.</trans>
+	</rep>
+
+    <rep>
+		<path>MyMotherDied.stages[0].label</path>
+        <trans>my mother died</trans>
+	</rep>
+	<rep>
+		<path>MyMotherDied.stages[0].description</path>
+		<trans>My mother died. She's gone forever.</trans>
+	</rep>
+
+    <rep>
+		<path>MyNieceDied.stages[0].label</path>
+        <trans>my niece died</trans>
+	</rep>
+	<rep>
+		<path>MyNieceDied.stages[0].description</path>
+		<trans>My niece died. Such a wonderful child.</trans>
+	</rep>
+
+    <rep>
+		<path>MyNephewDied.stages[0].label</path>
+        <trans>my nephew died</trans>
+	</rep>
+	<rep>
+		<path>MyNephewDied.stages[0].description</path>
+		<trans>My nephew died. Such a wonderful child.</trans>
+	</rep>
+
+    <rep>
+		<path>MyAuntDied.stages[0].label</path>
+        <trans>my aunt died</trans>
+	</rep>
+	<rep>
+		<path>MyAuntDied.stages[0].description</path>
+		<trans>My aunt died.</trans>
+	</rep>
+
+    <rep>
+		<path>MyUncleDied.stages[0].label</path>
+        <trans>my uncle died</trans>
+	</rep>
+	<rep>
+		<path>MyUncleDied.stages[0].description</path>
+		<trans>My uncle died.</trans>
+	</rep>
+
+    <rep>
+		<path>MyHalfSiblingDied.stages[0].label</path>
+        <trans>my half-sibling died</trans>
+	</rep>
+	<rep>
+		<path>MyHalfSiblingDied.stages[0].description</path>
+		<trans>My half-sibling died. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyGrandchildDied.stages[0].label</path>
+        <trans>my grandchild died</trans>
+	</rep>
+	<rep>
+		<path>MyGrandchildDied.stages[0].description</path>
+		<trans>My grandchild died. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyGrandparentDied.stages[0].label</path>
+        <trans>my grandparent died</trans>
+	</rep>
+	<rep>
+		<path>MyGrandparentDied.stages[0].description</path>
+		<trans>My grandparent died.</trans>
+	</rep>
+
+    <rep>
+		<path>MyCousinDied.stages[0].label</path>
+        <trans>my cousin died</trans>
+	</rep>
+	<rep>
+		<path>MyCousinDied.stages[0].description</path>
+		<trans>My cousin died. My own flesh and blood...</trans>
+	</rep>
+
+    <rep>
+		<path>MyKinDied.stages[0].label</path>
+        <trans>my kin died</trans>
+	</rep>
+	<rep>
+		<path>MyKinDied.stages[0].description</path>
+		<trans>My kin died.</trans>
+	</rep>
+
+  <!-- Related (not family) pawn died thoughts -->
+
+    <rep>
+		<path>BondedAnimalDied.stages[0].label</path>
+        <trans>bonded animal died</trans>
+	</rep>
+	<rep>
+		<path>BondedAnimalDied.stages[0].description</path>
+		<trans>Such a tender, unique animal. This universe is evil!</trans>
+	</rep>
+
+  <!-- Good/bad opinion -->
+
+    <rep>
+		<path>PawnWithGoodOpinionDied.stages[0].label</path>
+        <trans>my friend died</trans>
+	</rep>
+	<rep>
+		<path>PawnWithGoodOpinionDied.stages[0].description</path>
+		<trans>Such a wonderful person. The universe gets darker every day.</trans>
+	</rep>
+
+    <rep>
+		<path>PawnWithBadOpinionDied.stages[0].label</path>
+        <trans>my rival died</trans>
+	</rep>
+	<rep>
+		<path>PawnWithBadOpinionDied.stages[0].description</path>
+		<trans>Serves them right. Things are looking up.</trans>
+	</rep>
+
+  <!-- Love -->
+
+    <rep>
+		<path>GotMarried.stages[0].label</path>
+        <trans>got married</trans>
+	</rep>
+	<rep>
+		<path>GotMarried.stages[0].description</path>
+		<trans>I got married! Life is full of possibility!</trans>
+	</rep>
+
+    <rep>
+		<path>GotSomeLovin.stages[0].label</path>
+        <trans>got some lovin’</trans>
+	</rep>
+	<rep>
+		<path>GotSomeLovin.stages[0].description</path>
+		<trans>There's nothing like a tumble between the sheets to lift the mood.</trans>
+	</rep>
+
+  <!-- Misc -->
+
+    <rep>
+		<path>AttendedWedding.stages[0].label</path>
+        <trans>attended wedding</trans>
+	</rep>
+	<rep>
+		<path>AttendedWedding.stages[0].description</path>
+		<trans>It was great to see two people come together to build a future like that.</trans>
+	</rep>
+
+    <rep>
+		<path>AttendedParty.stages[0].label</path>
+        <trans>attended party</trans>
+	</rep>
+	<rep>
+		<path>AttendedParty.stages[0].description</path>
+		<trans>I had a good time at that party.</trans>
+	</rep>
+
+</LanguageData>

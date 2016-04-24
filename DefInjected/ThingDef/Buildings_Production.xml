@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CraftingSpot.label>crafting spot</CraftingSpot.label>
+    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+
+    <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>有機原料から栄養補給ペーストを作ります。料理するのに比べて、より少ない原料と時間で済みます。しかし栄養補給ペーストを好んで食べたがる人は一人も居ません。生の食材は原料になりますが、干し草などの植物は原料になりません。</NutrientPasteDispenser.description>
+
+    <Hopper.label>食材ホッパー</Hopper.label>
+    <Hopper.description>ペーストディスペンサと共に使い、自動で有機原料を供給します。</Hopper.description>
+
+	<!-- ========================= Work tables ==========================-->
+
+	<TableButcher.label>食肉加工台</TableButcher.label>
+	<TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</TableButcher.description>
+
+	<ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+	<ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+	<HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+	<HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+
+	<ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+	<ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+	<FueledSmithy.label>fueled smithy</FueledSmithy.label>
+	<FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+
+	<TableSculpting.label>彫刻台</TableSculpting.label>
+	<TableSculpting.description>この彫刻台を使って、芸術作品を生み出します。</TableSculpting.description>
+
+	<TableMachining.label>精密工作機械</TableMachining.label>
+	<TableMachining.description>メカノイドの身体や器官などの精密機械の分解・組立を行います。</TableMachining.description>
+
+	<ElectricStove.label>electric stove</ElectricStove.label>
+	<ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+	<FueledStove.label>fueled stove</FueledStove.label>
+	<FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+
+	<TableStonecutter.label>ストーンカッター</TableStonecutter.label>
+	<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</TableStonecutter.description>
+
+	<Brewery.label>brewery</Brewery.label>
+	<Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+
+	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
+	<ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</ElectricSmelter.description>
+
+	<ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
+	<ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
+
+	<!-- ========== Non-standard work buildings ==============-->
+
+	<SimpleResearchBench.label>simple reserch bench</SimpleResearchBench.label>
+	<SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+
+	<HiTechResearchBench.label>hi-tech reserch bench</HiTechResearchBench.label>
+	<HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+
+	<ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+	<ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+
+	<!-- ========== Hydroponics ==============-->
+
+	<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
+	<HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます。</HydroponicsBasin.description>
+
+</LanguageData>

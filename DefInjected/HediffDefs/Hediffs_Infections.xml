@@ -1,6 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<GutWorms.label>gut worms</GutWorms.label>
+
+	<MuscleParasites.label>muscle parasites</MuscleParasites.label>
+
+	<FibrousMechanites.label>muscle parasites</FibrousMechanites.label>
+	<rep>
+		<path>FibrousMechanites.stages[0].label</path>
+		<trans>mild pain</trans>
+	</rep>
+	<rep>
+		<path>FibrousMechanites.stages[1].label</path>
+		<trans>intense pain</trans>
+	</rep>
+
+	<SensoryMechanites.label>muscle parasites</SensoryMechanites.label>
+	<rep>
+		<path>SensoryMechanites.stages[0].label</path>
+		<trans>mild pain</trans>
+	</rep>
+	<rep>
+		<path>SensoryMechanites.stages[1].label</path>
+		<trans>intense pain</trans>
+	</rep>
+
 	<WoundInfection.label>傷からの感染症</WoundInfection.label>
 	<rep>
 		<path>WoundInfection.stages[0].label</path>
@@ -122,6 +146,11 @@
 		<path>SleepingSickness.stages[6].label</path>
 		<trans>重度++</trans>
 	</rep>
+
+
+
+
+
 
 
 </LanguageData>

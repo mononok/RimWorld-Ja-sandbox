@@ -22,6 +22,15 @@
   </rep>
 
   <rep>
+    <path>AteCorpse.stages[0].label</path>
+    <trans>ate corpse</trans>
+  </rep>
+  <rep>
+    <path>AteCorpse.stages[0].description</path>
+    <trans>I had to eat a corpse like an animal. It was horrible.</trans>
+  </rep>
+
+  <rep>
     <path>AteNutrientPasteMeal.stages[0].label</path>
     <trans>合成栄養食品を食べた</trans>
   </rep>
@@ -48,53 +57,6 @@
     <trans>驚くような贅沢な食事を食べた。身も心も満たされた。</trans>
   </rep>
 
-	<!-- =========== Cannibalism =============== -->
-
-  <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].label</path>
-    <trans>生の人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
-  </rep>
-
-  <rep>
-    <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
-    <trans>調理された人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。なんて恐ろしい。</trans>
-  </rep>
-
-  <rep>
-    <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
-    <trans>好物の生の人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
-  </rep>
-
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
-    <trans>好物の調理された人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
-  </rep>
-
-  <rep>
-    <path>ButcheredHumanlikeCorpse.stages[0].label</path>
-    <trans>人肉を捌いた</trans>
-  </rep>
-  <rep>
-    <path>ButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>人肉を動物のように切り捌いた。</trans>
-  </rep>
-
   <rep>
     <path>AteWithoutTable.stages[0].label</path>
     <trans>地面で食事をした</trans>
@@ -102,70 +64,6 @@
   <rep>
     <path>AteWithoutTable.stages[0].description</path>
     <trans>地面の上で食事を摂った、誰かテーブルを探してきて欲しい。</trans>
-  </rep>
-
-	<!-- Combat -->
-  <rep>
-    <path>ObservedLayingCorpse.stages[0].label</path>
-    <trans>死体を見た</trans>
-  </rep>
-  <rep>
-    <path>ObservedLayingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている死体を見た。</trans>
-  </rep>
-
-  <rep>
-    <path>ObservedLayingRottingCorpse.stages[0].label</path>
-    <trans>腐乱死体を見た</trans>
-  </rep>
-  <rep>
-    <path>ObservedLayingRottingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている腐乱死体を見た、気分が悪くなった。</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathAlly.stages[0].label</path>
-    <trans>死んでゆく仲間を見た</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathAlly.stages[0].description</path>
-    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間にはもう死んでいた。</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathStranger.stages[0].label</path>
-    <trans>人が死ぬところを見た</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathStranger.stages[0].description</path>
-    <trans>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた。</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathStrangerBloodlust.stages[0].label</path>
-    <trans>誰か死んだ</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathStrangerBloodlust.stages[0].description</path>
-    <trans>誰かが死んだ！とても強烈な印象だった。</trans>
-  </rep>
-
-  <rep>
-    <path>KilledHumanlikeBloodlust.stages[0].label</path>
-    <trans>人殺し</trans>
-  </rep>
-  <rep>
-    <path>KilledHumanlikeBloodlust.stages[0].description</path>
-    <trans>人を殺してしまった。</trans>
-  </rep>
-
-  <rep>
-    <path>BattleWounded.stages[0].label</path>
-    <trans>撃たれた!</trans>
-  </rep>
-  <rep>
-    <path>BattleWounded.stages[0].description</path>
-    <trans>これは俺の血だ！、撃たれた、撃たれた、撃たれた。</trans>
   </rep>
 
   <rep>
@@ -320,15 +218,6 @@
   </rep>
 
   <rep>
-    <path>PrisonerFriendlyChat.stages[0].label</path>
-    <trans>説得された</trans>
-  </rep>
-  <rep>
-    <path>PrisonerFriendlyChat.stages[0].description</path>
-    <trans>このコロニーについて看守と話してみた、良い場所のように見えるのだが…</trans>
-  </rep>
-
-  <rep>
     <path>GreenThumbHappy.stages[0].label</path>
     <trans>豊かな園芸の才能</trans>
   </rep>
@@ -355,5 +244,124 @@
     <trans>かわいい動物が私に擦り寄ってきた。</trans>
   </rep>
 
+  <rep>
+    <path>KnowBuriedInSarcophagus.stages[0].label</path>
+    <trans>buried in sarcophagus</trans>
+  </rep>
+  <rep>
+    <path>KnowBuriedInSarcophagus.stages[0].description</path>
+    <trans>This colony buried someone in an ornamented sarcophagus. May his soul rest in peace.</trans>
+  </rep>
+
+	<!-- =========== Cannibalism =============== -->
+
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].label</path>
+    <trans>生の人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
+    <trans>調理された人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。なんて恐ろしい。</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
+    <trans>好物の生の人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
+    <trans>好物の調理された人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
+  </rep>
+
+  <rep>
+    <path>ButcheredHumanlikeCorpse.stages[0].label</path>
+    <trans>人肉を捌いた</trans>
+  </rep>
+  <rep>
+    <path>ButcheredHumanlikeCorpse.stages[0].description</path>
+    <trans>人肉を動物のように切り捌いた。</trans>
+  </rep>
+
+	<!-- Combat -->
+  <rep>
+    <path>ObservedLayingCorpse.stages[0].label</path>
+    <trans>死体を見た</trans>
+  </rep>
+  <rep>
+    <path>ObservedLayingCorpse.stages[0].description</path>
+    <trans>私は地面の上に転がっている死体を見た。</trans>
+  </rep>
+
+  <rep>
+    <path>ObservedLayingRottingCorpse.stages[0].label</path>
+    <trans>腐乱死体を見た</trans>
+  </rep>
+  <rep>
+    <path>ObservedLayingRottingCorpse.stages[0].description</path>
+    <trans>私は地面の上に転がっている腐乱死体を見た、気分が悪くなった。</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathAlly.stages[0].label</path>
+    <trans>死んでゆく仲間を見た</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathAlly.stages[0].description</path>
+    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間にはもう死んでいた。</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathStranger.stages[0].label</path>
+    <trans>人が死ぬところを見た</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathStranger.stages[0].description</path>
+    <trans>誰かが死んだ、さっきまで生きていたのに、次にはもう死んでいた。</trans>
+  </rep>
+
+  <rep>
+    <path>WitnessedDeathStrangerBloodlust.stages[0].label</path>
+    <trans>誰か死んだ</trans>
+  </rep>
+  <rep>
+    <path>WitnessedDeathStrangerBloodlust.stages[0].description</path>
+    <trans>誰かが死んだ！とても強烈な印象だった。</trans>
+  </rep>
+
+  <rep>
+    <path>KilledHumanlikeBloodlust.stages[0].label</path>
+    <trans>人殺し</trans>
+  </rep>
+  <rep>
+    <path>KilledHumanlikeBloodlust.stages[0].description</path>
+    <trans>人を殺してしまった。</trans>
+  </rep>
+
+  <rep>
+    <path>BattleWounded.stages[0].label</path>
+    <trans>撃たれた!</trans>
+  </rep>
+  <rep>
+    <path>BattleWounded.stages[0].description</path>
+    <trans>これは俺の血だ！、撃たれた、撃たれた、撃たれた。</trans>
+  </rep>
 
 </LanguageData>

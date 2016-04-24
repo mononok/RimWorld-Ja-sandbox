@@ -1,22 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-    <!-- GlobalCircumstances
-	<rep>
-		<path>GlobalCircumstances.rulePack.rulesStrings[0]</path>
-		<trans>circumstance_group->宇宙歴 [date_phrase] [circumstance_phrase]</trans>
-	</rep>
-	<rep>
-		<path>GlobalCircumstances.rulePack.rulesStrings[1]</path>
-		<trans>circumstance_phrase-></trans>
-	</rep>
-	<rep>
-		<path>GlobalCircumstances.rulePack.rulesStrings[2]</path>
-		<trans>date_phrase->[date]</trans>
-	</rep>
- 	-->
-
     <!-- GlobalUtility -->
 	<rep>
 		<path>GlobalUtility.rulePack.rulesStrings[0]</path>
@@ -89,6 +73,74 @@
 	<rep>
 		<path>GlobalUtility.rulePack.rulesStrings[17]</path>
 		<trans>game->ブラックジャック</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[18]</path>
+		<trans>vegetable->トマト</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[19]</path>
+		<trans>vegetable->ニンジン</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[20]</path>
+		<trans>vegetable->タマネギ</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[21]</path>
+		<trans>vegetable->turnip</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[22]</path>
+		<trans>vegetable->bok choy</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[23]</path>
+		<trans>vegetable->stalk of celery</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[24]</path>
+		<trans>vegetable->gourd</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[25]</path>
+		<trans>vegetable->pumpkin</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[26]</path>
+		<trans>vegetable->ブロッコリー</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[27]</path>
+		<trans>vegetable->カリフラワー</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[28]</path>
+		<trans>vegetable->bell pepper</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[29]</path>
+		<trans>vegetable->ジャガイモ</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[30]</path>
+		<trans>vegetable->マッシュルーム</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[31]</path>
+		<trans>trans->of</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[32]</path>
+		<trans>trans->for</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[33]</path>
+		<trans>trans->by</trans>
+	</rep>
+	<rep>
+		<path>GlobalUtility.rulePack.rulesStrings[34]</path>
+		<trans>trans->with</trans>
 	</rep>
 
 </LanguageData>

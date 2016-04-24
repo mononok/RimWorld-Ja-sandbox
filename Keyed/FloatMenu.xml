@@ -15,6 +15,8 @@
 
 <OutOfRange>範囲外</OutOfRange>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
 <CannotFight>{0}は 戦えない</CannotFight>
 
 <OrderManThing>Man {0}</OrderManThing>
@@ -35,6 +37,8 @@
   <AnimalInteractedTooRecently>動物への指示間隔が短い</AnimalInteractedTooRecently>
   <NoUsableFood>エサがない</NoUsableFood>
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
+	<NoComponentsToRepair>need components</NoComponentsToRepair>
+	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>teetotaler</Teetotaler>
@@ -59,6 +63,7 @@
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
 <NoPrisonerBed>周囲と壁で遮断された、囚人用ベッドがない</NoPrisonerBed>
 <NoNonPrisonerBed>周囲と壁で遮断された、入植者用ベッドがない</NoNonPrisonerBed>
+  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
 <Reserved>他の誰かが 使用している</Reserved>
 <ReservedBy>{0}が 使用している</ReservedBy>
 <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
@@ -72,6 +77,7 @@
 
   <ForceWear>{0}に 着替えさせる</ForceWear>
 <CannotWear>{0}を 着用できない</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
 
 <Strip>{0}を 脱ぐ</Strip>
 <CannotStrip>{0}を 脱げない</CannotStrip>
@@ -86,6 +92,9 @@
   <UseMedicalBed>完治するまで休む</UseMedicalBed>
   <NotInjured>完治した</NotInjured>
   <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
+
+  <TradeWith>Trade with {0}</TradeWith>
+  <CannotTrade>Cannot trade</CannotTrade>
 
 <!-- Specific thing interactions -->
     <EnterCryptosleepPod>冬眠カプセルに入る</EnterCryptosleepPod>

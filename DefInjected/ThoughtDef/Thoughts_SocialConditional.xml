@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- affecting opinion -->
+
+	<rep>
+		<path>Affair.stages[0].label</path>
+		<trans>affair</trans>
+	</rep>
+
+	<rep>
+    	<path>Incestuous.stages[0].label</path>
+        <trans>incestuous</trans>
+	</rep>
+
+	<rep>
+    	<path>Disfigured.stages[0].label</path>
+        <trans>disfigured</trans>
+	</rep>
+
+	<rep>
+    	<path>HardWorkerVsLazy.stages[0].label</path>
+        <trans>hard worker vs lazy</trans>
+	</rep>
+
+	<rep>
+    	<path>TeetotalerVsChemicalInterest.stages[0].label</path>
+        <trans>teetotaler vs chemical interest</trans>
+	</rep>
+
+	<rep>
+    	<path>ChemicalInterestVsTeetotaler.stages[0].label</path>
+        <trans>chemical interest vs teetotaler</trans>
+	</rep>
+
+	<rep>
+    	<path>Drunk.stages[0].label</path>
+        <trans>drunk</trans>
+	</rep>
+
+	<rep>
+    	<path>Beautiful.stages[0].label</path>
+        <trans>beautiful</trans>
+	</rep>
+
+	<rep>
+    	<path>Ugly.stages[0].label</path>
+        <trans>ugly</trans>
+	</rep>
+
+	<rep>
+    	<path>Man.stages[0].label</path>
+        <trans>man</trans>
+	</rep>
+
+	<rep>
+    	<path>Woman.stages[0].label</path>
+        <trans>woman</trans>
+	</rep>
+
+	<rep>
+    	<path>ButcheredHumanlikeCorpseOpinion.stages[0].label</path>
+        <trans>butchered humanlike corpse</trans>
+	</rep>
+
+	<rep>
+    	<path>AteRawHumanlikeMeat.stages[0].label</path>
+        <trans>ate raw humanlike meat</trans>
+	</rep>
+
+	<rep>
+    	<path>SoldPrisoner.stages[0].label</path>
+        <trans>sold prisoner to slavery</trans>
+	</rep>
+
+	<rep>
+    	<path>ExecutedPrisoner.stages[0].label</path>
+        <trans>executed prisoner</trans>
+	</rep>
+
+	<rep>
+    	<path>KilledColonist.stages[0].label</path>
+        <trans>killed colonist</trans>
+	</rep>
+
+	<rep>
+    	<path>KilledColonyAnimal.stages[0].label</path>
+        <trans>killed colony animal</trans>
+	</rep>
+
+	<rep>
+    	<path>KilledMajorColonyEnemy.stages[0].label</path>
+        <trans>killed major enemy</trans>
+	</rep>
+
+  <!-- affecting mood -->
+
+	<rep>
+    	<path>OpinionOfMyLover.stages[0].label</path>
+        <trans>opinion of my {0} {1}</trans>
+	</rep>
+	<rep>
+    	<path>OpinionOfMyLover.stages[0].description</path>
+        <trans>Being with my lover makes me feel this way.</trans>
+	</rep>
+
+	<rep>
+    	<path>BondedAnimalMaster.stages[0].label</path>
+        <trans>bonded animal's master</trans>
+	</rep>
+	<rep>
+    	<path>BondedAnimalMaster.stages[0].description</path>
+        <trans>Being together with my bonded animal makes me feel better.</trans>
+	</rep>
+
+	<rep>
+    	<path>NotBondedAnimalMaster.stages[0].label</path>
+        <trans>not a bonded animal's master</trans>
+	</rep>
+	<rep>
+    	<path>NotBondedAnimalMaster.stages[0].description</path>
+        <trans>I should be together with my bonded animal.</trans>
+	</rep>
+
+	<rep>
+    	<path>WantToSleepWithSpouseOrLover.stages[0].label</path>
+        <trans>want to sleep with {0}</trans>
+	</rep>
+	<rep>
+    	<path>WantToSleepWithSpouseOrLover.stages[0].description</path>
+        <trans>I don't like sleeping apart from my partner.</trans>
+	</rep>
+
+</LanguageData>

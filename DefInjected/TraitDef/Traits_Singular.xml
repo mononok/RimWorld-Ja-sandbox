@@ -16,7 +16,7 @@
 	</rep>
 	<rep>
 		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>NAMEは、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。</trans>
+		<trans>NAMEは、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 HECAP is twice as likely to start a social fight.</trans>
 	</rep>
 
 	<rep>
@@ -135,5 +135,32 @@
         <path>Ascetic.degreeDatas[0].description</path>
         <trans>NAMEは、禁欲生活をより好みます。HECAPは、寝室が豪華すぎると気分が悪くなります。</trans>
     </rep>
+
+	<rep>
+		<path>Gay.degreeDatas[0].label</path>
+		<trans>ゲイ</trans>
+	</rep>
+	<rep>
+		<path>Gay.degreeDatas[0].description</path>
+		<trans>NAME is romantically attracted to people of HIS own gender.</trans>
+	</rep>
+
+	<rep>
+		<path>DislikesMen.degreeDatas[0].label</path>
+		<trans>dislikes men</trans>
+	</rep>
+	<rep>
+		<path>DislikesMen.degreeDatas[0].description</path>
+		<trans>NAME really dislikes and distrusts men.</trans>
+	</rep>
+
+	<rep>
+		<path>DislikesWomen.degreeDatas[0].label</path>
+		<trans>dislikes women</trans>
+	</rep>
+	<rep>
+		<path>DislikesWomen.degreeDatas[0].description</path>
+		<trans>NAME really dislikes and distrusts women.</trans>
+	</rep>
 
 </LanguageData>

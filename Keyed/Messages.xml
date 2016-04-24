@@ -23,7 +23,7 @@
 
 <MessageShipHasLeftCommsRange>{0}は、通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。</MessageNeedBeaconToTradeWithShip>
+<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
 
 <MessageBillComplete>{0}は完成しました。</MessageBillComplete>
 
@@ -67,6 +67,7 @@
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
 
 <MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
+<MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
 
 <PawnDiedBecauseOf>{1} によって、{0} は命を落とした。</PawnDiedBecauseOf>
 
@@ -88,5 +89,37 @@
   <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+
+  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+
+  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+
+  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+
+  <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
+  <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+
+  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+
+  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+
+  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named {1} {2}.</MessageNewBondRelationNewName>
+
+  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+
+  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+
+  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+
+  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
+  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
 
 </LanguageData>

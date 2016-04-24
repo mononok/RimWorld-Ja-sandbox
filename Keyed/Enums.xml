@@ -6,14 +6,6 @@
 <Lit>明るい</Lit>
 <LitBrightly>陽があたる</LitBrightly>
 
-
-<!-- diet type -->
-<NeverEats>餌を取らない</NeverEats>
-<Omnivorous>雑食性</Omnivorous>
-<Herbivorous>草食性</Herbivorous>
-<Carnivorous>肉食性</Carnivorous>
-  <Dendrovorous>樹食性</Dendrovorous>
-
 <!-- history upload pref -->
 <Unspecified>未定</Unspecified>
 <Always>許可</Always>
@@ -25,6 +17,19 @@
   <PriceTypeNormal>通常</PriceTypeNormal>
   <PriceTypeExpensive>高価</PriceTypeExpensive>
   <PriceTypeExorbitant>法外</PriceTypeExorbitant>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>liquor</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>kibble</FoodTypeFlags_AnimalKibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
@@ -46,6 +51,7 @@
   <QualityCategoryShort_Excellent>秀</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>名</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>幻</QualityCategoryShort_Legendary>
+
 
   <!-- Hunger -->
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
@@ -88,7 +94,15 @@
   <MedicalCareCategory_NormalOrWorse>看護する(医薬品まで投与)</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>最善の治療をする</MedicalCareCategory_Best>
 
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
 
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
 
 
 </LanguageData>

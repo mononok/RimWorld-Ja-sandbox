@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- spouse / lover -->
+
+    <Spouse.label>husband</Spouse.label>
+    <Spouse.labelFemale>wife</Spouse.labelFemale>
+
+    <Fiance.label>fiance</Fiance.label>
+    <Fiance.labelFemale>fiancee</Fiance.labelFemale>
+
+    <Lover.label>lover</Lover.label>
+
+  <!-- step family -->
+
+    <Stepparent.label>stepfather</Stepparent.label>
+    <Stepparent.labelFemale>stepmother</Stepparent.labelFemale>
+
+    <Stepchild.label>stepson</Stepchild.label>
+    <Stepchild.labelFemale>stepdaughter</Stepchild.labelFemale>
+
+  <!-- in-law -->
+
+    <ParentInLaw.label>father-in-law</ParentInLaw.label>
+    <ParentInLaw.labelFemale>mother-in-law</ParentInLaw.labelFemale>
+
+    <ChildInLaw.label>son-in-law</ChildInLaw.label>
+    <ChildInLaw.labelFemale>daughter-in-law</ChildInLaw.labelFemale>
+
+  <!-- ex-lover / ex-spouse -->
+
+    <ExSpouse.label>ex-husband</ExSpouse.label>
+    <ExSpouse.labelFemale>ex-wife</ExSpouse.labelFemale>
+
+    <ExLover.label>ex-lover</ExLover.label>
+
+</LanguageData>

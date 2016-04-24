@@ -11,6 +11,27 @@
   <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました。</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました。\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています。\n\n全てのMODを一旦無効にしました、再びMODダイアログから有効にすることができます。 </RecoveredFromErrorsText>
 
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+
+  <!-- Long events -->
+  <InitializingInterface>Initializing interface</InitializingInterface>
+  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
+  <LoadingDefs>Loading defs</LoadingDefs>
+  <LoadingAssets>Loading assets</LoadingAssets>
+  <Initializing>Initializing</Initializing>
+  <LoadingWorld>Loading world</LoadingWorld>
+  <LoadingMap>Loading map</LoadingMap>
+  <InitializingMap>Initializing map</InitializingMap>
+  <SpawningAllThings>Spawning all things</SpawningAllThings>
+
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
 <OverwriteButton>上書きする</OverwriteButton>
@@ -20,6 +41,8 @@
 <SavedAs>{0}という 名前で 保存します。</SavedAs>
 <NeedAName>名前を 入力してください。</NeedAName>
 <LoadingLongEvent>データロード中です…</LoadingLongEvent>
+  <SavingLongEvent>Saving</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
@@ -57,8 +80,11 @@
 <Unresearched>未研究</Unresearched>
 <Finished>完成した</Finished>
 <InProgress>進行中</InProgress>
+<Locked>Locked</Locked>
 <ResearchMenuWithoutBench>研究設備を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
-
+  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <RequiredResearchBench>Required research bench</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
 
 <!-- Advanced game start options -->
 <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
@@ -71,7 +97,8 @@
 <MapSizeExtreme>ルデオニコラス</MapSizeExtreme>
 <MapStartMonth>開始  月:</MapStartMonth>
 <MapStartMonthDefault>自動</MapStartMonthDefault>
-
+  <PermadeathMode>Permadeath mode</PermadeathMode>
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
 <!-- Bill config -->
 <Suspended>再開する</Suspended>
@@ -134,6 +161,10 @@
   <MoodChange>Mood change</MoodChange>
   <Wildness>Wildness</Wildness>
   <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <MiscRecordsCategory>Misc</MiscRecordsCategory>
 
 <!-- Trade -->
   <DragToTrade>Drag number\nto trade</DragToTrade>

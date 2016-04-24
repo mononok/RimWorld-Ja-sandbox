@@ -4,7 +4,7 @@
 <JumpToLocation>その場所を 見る</JumpToLocation>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>夏が始まりました！しかし、冬もやってきます。\n\n作物は寒い冬の間は育ちません。何ヶ月もの間、食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます</FirstSummerWarning>
+  <FirstSummerWarning>夏が始まりました！しかし、冬もやってきます。\n\n作物は寒い冬の間は育ちません。何日もの間、食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます</FirstSummerWarning>
 
 <RelationsBrokenDown>{0} 部族が 絶縁しました。 彼らは、 あなたに 敵対しています。</RelationsBrokenDown>
 <RelationsWarmed>{0} 部族との 関係が 回復しました。 彼らは あなたに 敵対していません。</RelationsWarmed>
@@ -33,8 +33,8 @@
 <BirthdayBiologicalAgeInjuries>今日は {1} {0} の {2} 才の生物学的な誕生日\n\n ですが不幸にも 年齢からくる持病( {3} ) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
-<NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです。</NewDisease>
-<NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです。</NewPartDisease>
+<NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです。{2}</NewDisease>
+<NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです。{2}</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>遭遇</LetterLabelAncientShrineWarning>
 <AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せた。なぜだか解らないが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
@@ -42,7 +42,6 @@
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>{0}は手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
-  <AnimalBerserkFromDamage>{0}は手負いの獣になった</AnimalBerserkFromDamage>
   <AnimalManhunterFromTaming>飼い馴らすのに失敗し、{0} は襲いかかってきた</AnimalManhunterFromTaming>
   <AnimalManhunterOthers>そばにいた、他の {0} もいっせいに怒り狂った</AnimalManhunterOthers>
 
@@ -52,12 +51,54 @@
   <LetterHealthComplications>{0} は、{2} の合併症で、{1} を患った。</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
 
+  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+
+  <!-- Family -->
+  <LetterLabelNoticedFamilyMembers>Family</LetterLabelNoticedFamilyMembers>
+  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
+  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
+  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
+  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
+
+  <FamilyLetterAppendedSuffix>(family)</FamilyLetterAppendedSuffix>
+  <FamilyLetterAppendedTextColonist>NAME is a family member of a colonist. HECAP is {0}'s {1}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME is a family member of one of your prisoners. HECAP is {0}'s {1}.</FamilyLetterAppendedTextPrisoner>
+
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
+  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
+
+
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>吉報</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>悪報</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>精神崩壊</LetterLabelMentalBreakdown>
 
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+
+  <!-- Party -->
+  <LetterLabelNewParty>Party</LetterLabelNewParty>
+  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
 
 </LanguageData>

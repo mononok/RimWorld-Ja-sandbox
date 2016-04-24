@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <rep>
+		<path>Sentence_SocialFightStarted.rulePack.rulesStrings[0]</path>
+        <trans>sent->This drove [recipient_nameShortDef] into a rage and [recipient_pronoun] began a fight!</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_RomanceAttemptAccepted.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_RomanceAttemptRejected.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] rejected the advance.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_MarriageProposalAccepted.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] agreed and the two are now engaged.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_MarriageProposalRejected.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] rejected the proposal.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings[0]</path>
+        <trans>sent->It was too much for the relationship to continue, and the two have now broken up.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_RecruitAttemptAccepted.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.</trans>
+	</rep>
+
+    <rep>
+		<path>Sentence_RecruitAttemptRejected.rulePack.rulesStrings[0]</path>
+        <trans>sent->[recipient_nameShortDef] rejected the offer.</trans>
+	</rep>
+
+</LanguageData>

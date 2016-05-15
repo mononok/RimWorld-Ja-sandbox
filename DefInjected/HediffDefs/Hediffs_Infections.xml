@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<GutWorms.label>gut worms</GutWorms.label>
+	<GutWorms.label>回虫</GutWorms.label>
 
-	<MuscleParasites.label>muscle parasites</MuscleParasites.label>
+	<MuscleParasites.label>筋肉寄生虫</MuscleParasites.label>
 
-	<FibrousMechanites.label>muscle parasites</FibrousMechanites.label>
+	<FibrousMechanites.label>FibrousMechanites</FibrousMechanites.label>
 	<rep>
 		<path>FibrousMechanites.stages[0].label</path>
-		<trans>mild pain</trans>
+		<trans>痛み</trans>
 	</rep>
 	<rep>
 		<path>FibrousMechanites.stages[1].label</path>
-		<trans>intense pain</trans>
+		<trans>激しい痛み</trans>
 	</rep>
 
-	<SensoryMechanites.label>muscle parasites</SensoryMechanites.label>
+	<SensoryMechanites.label>SensoryMechanites</SensoryMechanites.label>
 	<rep>
 		<path>SensoryMechanites.stages[0].label</path>
-		<trans>mild pain</trans>
+		<trans>痛み</trans>
 	</rep>
 	<rep>
 		<path>SensoryMechanites.stages[1].label</path>
-		<trans>intense pain</trans>
+		<trans>激しい痛み</trans>
 	</rep>
 
 	<WoundInfection.label>傷からの感染症</WoundInfection.label>

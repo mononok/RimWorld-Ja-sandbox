@@ -3,52 +3,52 @@
 
   <!-- Combat -->
 
-    <Kills.label>kills</Kills.label>
-    <Kills.description>The number of creatures I have killed.</Kills.description>
+    <Kills.label>殺害数</Kills.label>
+    <Kills.description>殺したクリーチャーの数</Kills.description>
 
 
-    <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
-    <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
+    <KillsHumanlikes.label>殺害数 (人)</KillsHumanlikes.label>
+    <KillsHumanlikes.description>殺害したクリーチャー(人)の数</KillsHumanlikes.description>
 
 
-    <KillsAnimals.label>kills (animals)</KillsAnimals.label>
-    <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
+    <KillsAnimals.label>殺害数 (動物)</KillsAnimals.label>
+    <KillsAnimals.description>殺害したクリーチャー(動物)の数</KillsAnimals.description>
 
 
-    <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
-    <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
+    <KillsMechanoids.label>殺害数 (メカノイド)</KillsMechanoids.label>
+    <KillsMechanoids.description>殺害したクリーチャー(メカノイド)の数</KillsMechanoids.description>
 
 
-    <PawnsDowned.label>enemies downed</PawnsDowned.label>
-    <PawnsDowned.description>The number of creatures downed.</PawnsDowned.description>
+    <PawnsDowned.label>行動不能になった敵数</PawnsDowned.label>
+    <PawnsDowned.description>行動不能になったクリーチャーの数</PawnsDowned.description>
 
 
-    <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
-    <PawnsDownedHumanlikes.description>The number of humanlike creatures downed.</PawnsDownedHumanlikes.description>
+    <PawnsDownedHumanlikes.label>行動不能になった敵数 (人)</PawnsDownedHumanlikes.label>
+    <PawnsDownedHumanlikes.description>行動不能になったクリーチャー(人)の数</PawnsDownedHumanlikes.description>
 
 
-    <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
-    <PawnsDownedAnimals.description>The number of animals downed.</PawnsDownedAnimals.description>
+    <PawnsDownedAnimals.label>行動不能になった敵数 (動物)</PawnsDownedAnimals.label>
+    <PawnsDownedAnimals.description>行動不能になったクリーチャーの数(動物)</PawnsDownedAnimals.description>
 
 
-    <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
-    <PawnsDownedMechanoids.description>The number of mechanoids downed.</PawnsDownedMechanoids.description>
+    <PawnsDownedMechanoids.label>行動不能になった敵数 (メカノイド)</PawnsDownedMechanoids.label>
+    <PawnsDownedMechanoids.description>行動不能になったクリーチャー(メカノイド)の数</PawnsDownedMechanoids.description>
 
 
-    <ShotsFired.label>shots fired</ShotsFired.label>
-    <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
+    <ShotsFired.label>発砲回数</ShotsFired.label>
+    <ShotsFired.description>発砲した回数</ShotsFired.description>
 
 
-    <Headshots.label>headshots</Headshots.label>
-    <Headshots.description>The number of headshots I have made.</Headshots.description>
+    <Headshots.label>ヘッドショット回数</Headshots.label>
+    <Headshots.description>ヘッドショットを決めた回数</Headshots.description>
 
 
-    <DamageDealt.label>damage dealt</DamageDealt.label>
-    <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
+    <DamageDealt.label>与えたダメージ</DamageDealt.label>
+    <DamageDealt.description>与えたダメージ量</DamageDealt.description>
 
 
-    <DamageTaken.label>damage taken</DamageTaken.label>
-    <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
+    <DamageTaken.label>受けたダメージ</DamageTaken.label>
+    <DamageTaken.description>受けたダメージ量</DamageTaken.description>
 
 
   <!-- Excitement -->

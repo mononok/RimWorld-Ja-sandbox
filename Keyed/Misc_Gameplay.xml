@@ -41,19 +41,19 @@
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
-<MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
+  <MentalStateLetterLabel>精神状態</MentalStateLetterLabel>
   <MilkFullness>搾乳可</MilkFullness>
   <WoolGrowth>毛刈り可</WoolGrowth>
   <EggProgress>採卵可</EggProgress>
   <Fertilized>受精した</Fertilized>
-<ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
 <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
-<EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
-<CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+	<EggDamagedEmbryo>損傷した胚</EggDamagedEmbryo>
+	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
 <HiveReproducesIn>Reproduces in</HiveReproducesIn>
 <BrokenDown>Broken down</BrokenDown>
 <BondBrackets>(bond)</BondBrackets>
-<Fuel>Fuel</Fuel>
+	<Fuel>燃料</Fuel>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -67,7 +67,7 @@
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
   <TextMote_TrainSuccess>{0} 調教に成功した\n成功率 {1}</TextMote_TrainSuccess>
-<TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>修理\n失敗</TextMote_FixBrokenDownBuildingFail>
 
   <!-- Areas -->
   <Home>村</Home>
@@ -83,7 +83,7 @@
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} は野蛮なことはできません</IsIncapableOfViolence>
-<IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
   <IsNotDrafted>{0} は徴兵されていない</IsNotDrafted>
 
   <!-- Snow -->
@@ -92,7 +92,7 @@
   <SnowThin>積雪(薄)</SnowThin>
   <SnowMedium>積雪</SnowMedium>
   <SnowThick>積雪(厚)</SnowThick>
-<ReportCowering>Cowering.</ReportCowering>
+  <ReportCowering>ちじこまる</ReportCowering>
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>

@@ -3,8 +3,8 @@
 
   <!--=============================== Tier 1 Misc ===================================-->
 
-<Devilstrand.label>devilstrand</Devilstrand.label>
-<Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
+	<Devilstrand.label>デビルストランド</Devilstrand.label>
+	<Devilstrand.description>植物から取れる繊維を生み出す、育ちの遅いマッシュルームである、デビルストランドの栽培が可能になります。</Devilstrand.description>
 
 	<Hydroponics.label>水耕栽培</Hydroponics.label>
 	<Hydroponics.description>地形や外の天候に左右されずに、屋内で植物を素早く成長させる、水耕栽培テーブルを作れるようになります。</Hydroponics.description>
@@ -18,14 +18,14 @@
 	<ElectricSmelting.label>溶鉱炉</ElectricSmelting.label>
 	<ElectricSmelting.description>熱と強力な電磁石を使って、くず鉄から使える金属を分離する溶鉱炉を作れるようになります。</ElectricSmelting.description>
 
-<ElectricCremation.label>electric cremation</ElectricCremation.label>
-<ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+	<ElectricCremation.label>火葬</ElectricCremation.label>
+	<ElectricCremation.description>死体を火葬できる火葬場を作れるようになります。</ElectricCremation.description>
 
 	<CarpetMaking.label>織機</CarpetMaking.label>
 	<CarpetMaking.description>住環境を改善する絨毯を作れるようになります。</CarpetMaking.description>
 
-<Smithing.label>smithing</Smithing.label>
-<Smithing.description>Build smithies for crafting metal weapons and tools.</Smithing.description>
+	<Smithing.label>鍛冶</Smithing.label>
+	<Smithing.description>ツールや武器を作れるようになります。</Smithing.description>
 
 	<ColoredLights.label>彩色灯</ColoredLights.label>
 	<ColoredLights.description>装飾目的の色つき電球を作れるようになります。</ColoredLights.description>
@@ -47,11 +47,11 @@
 
   <!--=============================== Tier 1 Electronics ===================================-->
 
-<MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
-<MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+	<MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
+	<MicroelectronicsBasics.description>微細で複雑な電子工学の基礎です。これによって、ハイテクリサーチベンチ、通信機器、そして、ブラウン管テレビや疑似冷凍睡眠機など、他の研究プロジェクトをアンロックします。</MicroelectronicsBasics.description>
 
-<TubeTelevision.label>tube television</TubeTelevision.label>
-<TubeTelevision.description>Allows the production of tube televisions.</TubeTelevision.description>
+	<TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
+	<TubeTelevision.description>ブラウン管テレビを作ることが可能になります。</TubeTelevision.description>
 
 
   <!--=============================== Cut misc ===================================-->

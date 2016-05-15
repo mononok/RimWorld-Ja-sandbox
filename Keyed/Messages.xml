@@ -23,7 +23,7 @@
 
 <MessageShipHasLeftCommsRange>{0}は、通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
+<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nまたビーコンには電源が必要です。</MessageNeedBeaconToTradeWithShip>
 
 <MessageBillComplete>{0}は完成しました。</MessageBillComplete>
 
@@ -67,7 +67,7 @@
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
 
 <MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
-<MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
+<MessageNoAnimalBeds>動物用のベッドがありません。</MessageNoAnimalBeds>
 
 <PawnDiedBecauseOf>{1} によって、{0} は命を落とした。</PawnDiedBecauseOf>
 

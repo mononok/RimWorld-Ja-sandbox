@@ -15,9 +15,9 @@
 	<TabRace>種族</TabRace>
 	<TabBasics>Basics</TabBasics>
 	<TabStats>状態</TabStats>
-<TabRecords>Records</TabRecords>
-   <TabArt>芸術</TabArt>
-<TabSocial>Social</TabSocial>
+	<TabRecords>記録</TabRecords>
+	<TabArt>芸術</TabArt>
+	<TabSocial>社交</TabSocial>
 
 
 	<!-- Bills tab  -->
@@ -99,12 +99,12 @@
   <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
 
    <!-- Social tab -->
-<NoRelationships>(no relationships)</NoRelationships>
+<NoRelationships>(無関係)</NoRelationships>
 <Kidnapped>Kidnapped</Kidnapped>
 <Slave>Slave</Slave>
 <FactionLeader>Faction leader</FactionLeader>
-<OpinionOf>Opinion of {0}</OpinionOf>
-<SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+<OpinionOf>自分が、 {0} に対する評価</OpinionOf>
+<SomeonesOpinionOfMe>自分に対しての {0}の評価</SomeonesOpinionOfMe>
 <IAmDead>I'm dead</IAmDead>
 <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 

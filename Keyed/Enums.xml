@@ -19,13 +19,13 @@
   <PriceTypeExorbitant>法外</PriceTypeExorbitant>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>野菜や果物</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>野菜・果物</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>死体</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>死肉</FoodTypeFlags_Corpse>
   <FoodTypeFlags_Seeds>種子</FoodTypeFlags_Seeds>
   <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>植物FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>樹木</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Plant>草・牧草</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>調理された料理</FoodTypeFlags_Processed>
   <FoodTypeFlags_NutritionalDrug>アルコール飲料</FoodTypeFlags_NutritionalDrug>
@@ -57,13 +57,13 @@
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>飢餓</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
-  <HungerLevel_Fed>食べた</HungerLevel_Fed>
+  <HungerLevel_Fed>食事</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
   <HungerLevel_Tired>疲れた</HungerLevel_Tired>
-  <HungerLevel_Rested>休んだ</HungerLevel_Rested>
+  <HungerLevel_Rested>休息</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <Hilliness_Flat>平坦</Hilliness_Flat>

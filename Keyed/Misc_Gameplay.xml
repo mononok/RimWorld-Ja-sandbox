@@ -35,7 +35,7 @@
   <ThingInfo>情報</ThingInfo>
   <DropThing>はずす</DropThing>
   <Rename>命名</Rename>
-  <RenameColonist>入植者の命名</RenameColonist>
+  <RenameColonist>入植者のニックネーム</RenameColonist>
   <UnknownLower>身元不明</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
@@ -46,14 +46,14 @@
   <WoolGrowth>毛刈り可</WoolGrowth>
   <EggProgress>採卵可</EggProgress>
   <Fertilized>受精した</Fertilized>
-  <ProgressStoppedUntilFertilized>受精するまで作業を中断した</ProgressStoppedUntilFertilized>
-  <SkillTooLow>{0} スキルが、{1} しかありません。{2} は必要です</SkillTooLow>
-  <EggDamagedEmbryo>胚が傷つきました</EggDamagedEmbryo>
-  <CorpsePercentMissing>四股に欠損があります</CorpsePercentMissing>
-  <HiveReproducesIn>巣の再生を開始</HiveReproducesIn>
-  <BrokenDown>Broken down</BrokenDown>
-  <BondBrackets>(bond)</BondBrackets>
-  <Fuel>燃料</Fuel>
+  <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
+<SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+	<EggDamagedEmbryo>損傷した胚</EggDamagedEmbryo>
+	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
+<HiveReproducesIn>Reproduces in</HiveReproducesIn>
+<BrokenDown>Broken down</BrokenDown>
+<BondBrackets>(bond)</BondBrackets>
+	<Fuel>燃料</Fuel>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -83,7 +83,7 @@
   <!-- Control -->
   <CannotOrderNonControlled>操作できない機械です</CannotOrderNonControlled>
   <IsIncapableOfViolence>{0} は野蛮なことはできません</IsIncapableOfViolence>
-<IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
   <IsNotDrafted>{0} は徴兵されていない</IsNotDrafted>
 
   <!-- Snow -->
@@ -92,7 +92,7 @@
   <SnowThin>積雪(薄)</SnowThin>
   <SnowMedium>積雪</SnowMedium>
   <SnowThick>積雪(厚)</SnowThick>
-  <ReportCowering>縮こまる</ReportCowering>
+  <ReportCowering>ちじこまる</ReportCowering>
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
@@ -154,8 +154,8 @@
 	<DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
 
 	<!-- Hostility response -->
-    <HostilityReponseTip>徴兵されていない入植者の近くに敵がいるときの、敵に対する対処方法を変更する。</HostilityReponseTip>
-    <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
+<HostilityReponseTip>徴兵されていない入植者の近くに敵がいるときの、敵に対する対処方法を変更する。</HostilityReponseTip>
+<HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
 
 	<!-- like 'Blood of John' -->
 	<OfLower>of</OfLower>
@@ -201,7 +201,7 @@
   <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
   <NotRefrigerated>常温 (消費期限あと {0})</NotRefrigerated>
   <OverADecade>消費期限切れ</OverADecade>
-  <LessThanADay>本日中</LessThanADay>
+<LessThanADay>本日中</LessThanADay>
 
 	<!-- Meal -->
 	<Ingredients>原料</Ingredients>
@@ -288,12 +288,11 @@
 	<UseNeurotrainer>{0} を学ぶ為に ニューロトレイナーを使用する</UseNeurotrainer>
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
-
   <!-- Artifact -->
   <UseArtifact>起動</UseArtifact>
 
 	<!-- Firefoam popper -->
-    <TriggerFirefoamPopper>泡消化器を作動する</TriggerFirefoamPopper>
+    <TriggerFirefoamPopper>泡消火器を作動させる</TriggerFirefoamPopper>
 
 	<!-- Minification -->
 	<Installed>インストール済</Installed>

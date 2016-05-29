@@ -4,11 +4,35 @@
   <!-- Random social interactions -->
 
     <Chitchat.label>世間話</Chitchat.label>
+	<rep>
+		<path>Chitchat.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] と雑談した。 </trans>
+	</rep>
 
     <DeepTalk.label>込み入った会話</DeepTalk.label>
+	<rep>
+		<path>DeepTalk.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] と話しこんだ。 </trans>
+	</rep>
 
-    <Slight.label>くだらない会話</Slight.label>
+    <Slight.label>冷たくあしらわれた</Slight.label>
+	<rep>
+		<path>Slight.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] を冷たくあしらった。 </trans>
+	</rep>
+	<rep>
+		<path>Slight.logRulesRecipient.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] に冷たくあしらわれた。 </trans>
+	</rep>
 
     <Insult.label>侮辱</Insult.label>
+	<rep>
+		<path>Insult.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] を侮辱した。 </trans>
+	</rep>
+	<rep>
+		<path>Insult.logRulesRecipient.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] に侮辱された。 </trans>
+	</rep>
 
 </LanguageData>

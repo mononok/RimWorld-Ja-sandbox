@@ -41,7 +41,7 @@
 <SavedAs>{0}という 名前で 保存します。</SavedAs>
 <NeedAName>名前を 入力してください。</NeedAName>
 <LoadingLongEvent>データロード中です…</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <SavingLongEvent>セーブ中</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
@@ -95,10 +95,10 @@
 <MapSizeMedium>中</MapSizeMedium>
 <MapSizeLarge>大</MapSizeLarge>
 <MapSizeExtreme>ルデオニコラス</MapSizeExtreme>
-<MapStartMonth>開始  月:</MapStartMonth>
-<MapStartMonthDefault>自動</MapStartMonthDefault>
-  <PermadeathMode>Permadeath mode</PermadeathMode>
-  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <MapStartSeason>開始 季節：</MapStartSeason>
+  <MapStartSeasonDefault>自動</MapStartSeasonDefault>
+  <PermadeathMode>Permadeath モード</PermadeathMode>
+  <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んだ等の失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nRimWorldを、悲劇的や希望に満ちあふれようとなかろうと、全てをドラマチックなものに変えます。</PermadeathModeInfo>
 
 <!-- Bill config -->
 <Suspended>再開する</Suspended>
@@ -159,10 +159,10 @@
   <Covers>Covers</Covers>
   <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
   <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <Wildness>野性</Wildness>
+  <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
+  <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
+  <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Time</TimeRecordsCategory>
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
 

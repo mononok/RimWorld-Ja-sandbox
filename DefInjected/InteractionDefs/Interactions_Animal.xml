@@ -2,9 +2,33 @@
 <LanguageData>
 
     <AnimalChat.label>生き物と会話</AnimalChat.label>
+	<rep>
+		<path>AnimalChat.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] に優しく話しかけた。 </trans>
+	</rep>
+	<rep>
+		<path>AnimalChat.logRulesRecipient.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] に嬉しそうにしている。 </trans>
+	</rep>
 
     <TrainAttempt.label>調教する</TrainAttempt.label>
+	<rep>
+		<path>TrainAttempt.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] をしつけようとして話しかけた。 </trans>
+	</rep>
+	<rep>
+		<path>TrainAttempt.logRulesRecipient.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] の言うことに従った。 </trans>
+	</rep>
 
     <TameAttempt.label>手懐ける</TameAttempt.label>
+	<rep>
+		<path>TameAttempt.logRulesInitiator.rulesStrings[0]</path>
+		<trans>logentry->[other_nameShortIndef] を手なずけようとした。 </trans>
+	</rep>
+	<rep>
+		<path>TameAttempt.logRulesRecipient.rulesStrings[0]</path>
+		<trans>logentry->手なずけようとしてくる、[other_nameShortIndef] を見た。 </trans>
+	</rep>
 
 </LanguageData>

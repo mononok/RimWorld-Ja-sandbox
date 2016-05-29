@@ -19,20 +19,20 @@
     <KillsMechanoids.description>殺害したクリーチャー(メカノイド)の数</KillsMechanoids.description>
 
 
-    <PawnsDowned.label>行動不能になった敵数</PawnsDowned.label>
-    <PawnsDowned.description>行動不能になったクリーチャーの数</PawnsDowned.description>
+    <PawnsDowned.label>行動不能にした敵数</PawnsDowned.label>
+    <PawnsDowned.description>行動不能にしたクリーチャーの数</PawnsDowned.description>
 
 
-    <PawnsDownedHumanlikes.label>行動不能になった敵数 (人)</PawnsDownedHumanlikes.label>
-    <PawnsDownedHumanlikes.description>行動不能になったクリーチャー(人)の数</PawnsDownedHumanlikes.description>
+    <PawnsDownedHumanlikes.label>行動不能にした敵数 (人)</PawnsDownedHumanlikes.label>
+    <PawnsDownedHumanlikes.description>行動不能にしたクリーチャー(人)の数</PawnsDownedHumanlikes.description>
 
 
-    <PawnsDownedAnimals.label>行動不能になった敵数 (動物)</PawnsDownedAnimals.label>
-    <PawnsDownedAnimals.description>行動不能になったクリーチャーの数(動物)</PawnsDownedAnimals.description>
+    <PawnsDownedAnimals.label>行動不能にした敵数 (動物)</PawnsDownedAnimals.label>
+    <PawnsDownedAnimals.description>行動不能にしたクリーチャーの数(動物)</PawnsDownedAnimals.description>
 
 
-    <PawnsDownedMechanoids.label>行動不能になった敵数 (メカノイド)</PawnsDownedMechanoids.label>
-    <PawnsDownedMechanoids.description>行動不能になったクリーチャー(メカノイド)の数</PawnsDownedMechanoids.description>
+    <PawnsDownedMechanoids.label>行動不能にした敵数 (メカノイド)</PawnsDownedMechanoids.label>
+    <PawnsDownedMechanoids.description>行動不能にしたクリーチャー(メカノイド)の数</PawnsDownedMechanoids.description>
 
 
     <ShotsFired.label>発砲回数</ShotsFired.label>
@@ -55,135 +55,135 @@
 
 
 
-    <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
-    <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
+    <TimesInMentalState.label>心を病んだ回数</TimesInMentalState.label>
+    <TimesInMentalState.description>心を病んで錯乱した回数</TimesInMentalState.description>
 
 
-    <TimesOnFire.label>times on fire</TimesOnFire.label>
-    <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
+    <TimesOnFire.label>火事になった回数</TimesOnFire.label>
+    <TimesOnFire.description>火事になった回数</TimesOnFire.description>
 
 
-    <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
-    <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
+    <FiresExtinguished.label>消火した回数</FiresExtinguished.label>
+    <FiresExtinguished.description>火事を消火した回数</FiresExtinguished.description>
 
 
   <!-- Work -->
 
 
 
-    <OperationsReceived.label>operations received</OperationsReceived.label>
-    <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+    <OperationsReceived.label>手術を受けた回数</OperationsReceived.label>
+    <OperationsReceived.description>外科手術を受けた回数</OperationsReceived.description>
 
 
-    <OperationsPerformed.label>operations performed</OperationsPerformed.label>
-    <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
+    <OperationsPerformed.label>手術した回数</OperationsPerformed.label>
+    <OperationsPerformed.description>外科手術を行った回数</OperationsPerformed.description>
 
 
-    <TimesTendedTo.label>treatments received</TimesTendedTo.label>
-    <TimesTendedTo.description>How many times I have received medical treatment.</TimesTendedTo.description>
+    <TimesTendedTo.label>治療を受けた回数</TimesTendedTo.label>
+    <TimesTendedTo.description>治療を受けた回数</TimesTendedTo.description>
 
 
-    <TimesTendedOther.label>treatments given</TimesTendedOther.label>
-    <TimesTendedOther.description>How many medical treatments I have given.</TimesTendedOther.description>
+    <TimesTendedOther.label>治療した回数</TimesTendedOther.label>
+    <TimesTendedOther.description>治療した回数</TimesTendedOther.description>
 
 
-    <PeopleCaptured.label>people captured</PeopleCaptured.label>
-    <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
+    <PeopleCaptured.label>捕獲した人数</PeopleCaptured.label>
+    <PeopleCaptured.description>捕獲した人数</PeopleCaptured.description>
 
 
-    <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
-    <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
+    <PrisonersRecruited.label>勧誘した人数</PrisonersRecruited.label>
+    <PrisonersRecruited.description>勧誘に成功した人数</PrisonersRecruited.description>
 
 
-    <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
-    <PrisonersChatted.description>How many times I have chatted with a prisoner.</PrisonersChatted.description>
+    <PrisonersChatted.label>囚人とした雑談回数</PrisonersChatted.label>
+    <PrisonersChatted.description>囚人とした雑談回数</PrisonersChatted.description>
 
 
-    <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
-    <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
+    <AnimalsTamed.label>手なずけた動物数</AnimalsTamed.label>
+    <AnimalsTamed.description>手なずけた動物の数</AnimalsTamed.description>
 
 
-    <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
-    <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
+    <AnimalsSlaughtered.label>屠殺した動物数</AnimalsSlaughtered.label>
+    <AnimalsSlaughtered.description>屠殺した動物の数</AnimalsSlaughtered.description>
 
 
-    <MealsCooked.label>meals cooked</MealsCooked.label>
-    <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
+    <MealsCooked.label>調理した食事数</MealsCooked.label>
+    <MealsCooked.description>調理した食事の数</MealsCooked.description>
 
 
-    <ThingsConstructed.label>things constructed</ThingsConstructed.label>
-    <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
+    <ThingsConstructed.label>建築した構造物数</ThingsConstructed.label>
+    <ThingsConstructed.description>建築した構造物の数</ThingsConstructed.description>
 
 
-    <ThingsInstalled.label>things installed</ThingsInstalled.label>
-    <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
+    <ThingsInstalled.label>配置した物数</ThingsInstalled.label>
+    <ThingsInstalled.description>配置した物の数</ThingsInstalled.description>
 
 
-    <ThingsRepaired.label>things repaired</ThingsRepaired.label>
-    <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
+    <ThingsRepaired.label>修理した物数</ThingsRepaired.label>
+    <ThingsRepaired.description>修理した物の数</ThingsRepaired.description>
 
 
-    <ThingsCrafted.label>things crafted</ThingsCrafted.label>
-    <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
+    <ThingsCrafted.label>加工した物数</ThingsCrafted.label>
+    <ThingsCrafted.description>加工した物の数</ThingsCrafted.description>
 
 
-    <ThingsHauled.label>things hauled</ThingsHauled.label>
-    <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
+    <ThingsHauled.label>運んだ物数</ThingsHauled.label>
+    <ThingsHauled.description>運んだ物の数</ThingsHauled.description>
 
 
-    <PlantsSown.label>plants sown</PlantsSown.label>
-    <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
+    <PlantsSown.label>蒔いた種数</PlantsSown.label>
+    <PlantsSown.description>蒔いた種の数</PlantsSown.description>
 
 
-    <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
-    <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
+    <PlantsHarvested.label>収穫した植物数</PlantsHarvested.label>
+    <PlantsHarvested.description>収穫した植物の数</PlantsHarvested.description>
 
 
-    <CellsMined.label>cells mined</CellsMined.label>
-    <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
+    <CellsMined.label>採掘した鉱石数</CellsMined.label>
+    <CellsMined.description>採掘した鉱石の数</CellsMined.description>
 
 
-    <MessesCleaned.label>messes cleaned</MessesCleaned.label>
-    <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
+    <MessesCleaned.label>掃除した回数</MessesCleaned.label>
+    <MessesCleaned.description>掃除した回数</MessesCleaned.description>
 
 
-    <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
-    <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
+    <ResearchPointsResearched.label>研究したリサーチポイント数</ResearchPointsResearched.label>
+    <ResearchPointsResearched.description>研究したリサーチポイント数</ResearchPointsResearched.description>
 
 
-    <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
-    <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
+    <CorpsesBuried.label>埋葬した回数</CorpsesBuried.label>
+    <CorpsesBuried.description>埋葬した回数</CorpsesBuried.description>
 
 
-    <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
-    <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
+    <NutritionEaten.label>栄養物を食べた回数</NutritionEaten.label>
+    <NutritionEaten.description>栄養物を食べた回数</NutritionEaten.description>
 
 
-    <TrapsRearmed.label>traps rearmed</TrapsRearmed.label>
-    <TrapsRearmed.description>The number of traps I have rearmed.</TrapsRearmed.description>
+    <TrapsRearmed.label>罠を仕掛けた回数</TrapsRearmed.label>
+    <TrapsRearmed.description>罠を仕掛けた回数</TrapsRearmed.description>
 
 
-    <BodiesStripped.label>bodies stripped</BodiesStripped.label>
-    <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
+    <BodiesStripped.label>追い剥ぎした人数</BodiesStripped.label>
+    <BodiesStripped.description>追い剥ぎした人数</BodiesStripped.description>
 
 
-    <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
-    <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
+    <ThingsUninstalled.label>保管した物数</ThingsUninstalled.label>
+    <ThingsUninstalled.description>解体保管した物の数</ThingsUninstalled.description>
 
 
-    <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
-    <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
+    <ThingsDeconstructed.label>解体した構造物数</ThingsDeconstructed.label>
+    <ThingsDeconstructed.description>解体した構造物の数</ThingsDeconstructed.description>
 
 
-    <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
-    <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
+    <ArtifactsActivated.label>有効にしたアーティファクト数</ArtifactsActivated.label>
+    <ArtifactsActivated.description>有効にしたアーティファクト数</ArtifactsActivated.description>
 
 
-    <ContainersOpened.label>containers opened</ContainersOpened.label>
-    <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
+    <ContainersOpened.label>開けたコンテナ数</ContainersOpened.label>
+    <ContainersOpened.description>開けたコンテナ数</ContainersOpened.description>
 
 
-    <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
-    <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
+    <SwitchesFlicked.label>スイッチの操作回数</SwitchesFlicked.label>
+    <SwitchesFlicked.description>スイッチを操作した回数</SwitchesFlicked.description>
 
 </LanguageData>

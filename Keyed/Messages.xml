@@ -23,7 +23,7 @@
 
 <MessageShipHasLeftCommsRange>{0}は、通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nまたビーコンには電源が必要です。</MessageNeedBeaconToTradeWithShip>
+<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
 
 <MessageBillComplete>{0}は完成しました。</MessageBillComplete>
 
@@ -67,7 +67,7 @@
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
 
 <MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
-<MessageNoAnimalBeds>動物用のベッドがありません。</MessageNoAnimalBeds>
+<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
 
 <PawnDiedBecauseOf>{1} によって、{0} は命を落とした。</PawnDiedBecauseOf>
 
@@ -86,40 +86,40 @@
   <MessageMiscarriedPoorHealth>{0} は体調不良により流産した。</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} は出産した。</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{2} が懐いたので、{0} を {1}と名づけた。</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
 
-  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+  <MessageEatenByPredator>{0} は、{1} に食べられた。</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} は、{1} から攻撃を受けた! </MessageAttackedByPredator>
 
-  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+  <MessageHiveReproduced>虫の巣は、自己再生成した。</MessageHiveReproduced>
 
-  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>{0} 貿易者の一行は離れていった。</MessageTraderCaravanLeaving>
 
-  <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
-  <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+  <MessageCantSelectDeadFamilyMember>{0} は亡くなった。</MessageCantSelectDeadFamilyMember>
+  <MessageCantSelectOffMapFamilyMember>{0} は出て行った。</MessageCantSelectOffMapFamilyMember>
 
-  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+  <MessageSocialFight>{0} は、{1}と言い争いを始めた(理由: {2})</MessageSocialFight>
 
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewMarriageCeremony>入植者たちは、{0} と {1} の結婚式を祝うために集った。</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} と {1} の結婚式が始まった!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{0} と {1} の結婚式は、お流れになってしまった。</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} と {1} は家庭を持った。入植者たちは、この出来事を喜んでいる。</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{0} と {1} との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
-  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named {1} {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelation>{0} と {1} は、絆で結ばれた。</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} と {1} は、絆で結ばれた。{0} の姓は、{1}となります。{2}</MessageNewBondRelationNewName>
 
-  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalMentalBreak>{0} は、{1}の死がきっかけで、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{1} と名づけられた {0} は、{2}の死がきっかけで、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} は、{1}の死がきっかけで、精神崩壊を起こした。</MessageBondedAnimalsMentalBreak>
 
   <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
 
-  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>空から宇宙船の残骸が、この近辺に落ちてきます。</MessageShipChunkDrop>
 
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessagePartyCalledOff>パーティは、お流れになった。</MessagePartyCalledOff>
+  <MessagePartyFinished>パーティが終わった</MessagePartyFinished>
 
 </LanguageData>

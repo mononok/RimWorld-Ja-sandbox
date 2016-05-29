@@ -3,31 +3,31 @@
 
 	<rep>
 		<path>CurrentlyInMentalStateBerserk.stages[0].label</path>
-        <trans>berserk thoughts</trans>
+        <trans>狂暴化</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStateBerserk.stages[0].description</path>
-        <trans>Must kill!</trans>
+        <trans>敵を殺さなくては!</trans>
 	</rep>
 
 
 	<rep>
 		<path>CurrentlyInMentalStateSad.stages[0].label</path>
-        <trans>broken thoughts</trans>
+        <trans>心折れる</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStateSad.stages[0].description</path>
-        <trans>It's all just too much.</trans>
+        <trans>もうまったく無理</trans>
 	</rep>
 
 
 	<rep>
 		<path>CurrentlyInMentalStatePanicFlee.stages[0].label</path>
-        <trans>panic</trans>
+        <trans>パニック</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStatePanicFlee.stages[0].description</path>
-        <trans>I have to get out of here!</trans>
+        <trans>いますぐ逃げ出さないと!!</trans>
 	</rep>
 
 </LanguageData>

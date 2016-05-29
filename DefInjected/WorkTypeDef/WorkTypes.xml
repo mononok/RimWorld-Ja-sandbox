@@ -7,11 +7,11 @@
         <Firefighter.description>消防士はコロニーの火災を消火します。</Firefighter.description>
         <Firefighter.verb>消火</Firefighter.verb>
 
-	<PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-	<PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-	<PatientEmergency.gerundLabel>Patienting</PatientEmergency.gerundLabel>
-	<PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
-	<PatientEmergency.verb>Become patient</PatientEmergency.verb>
+	<PatientEmergency.labelShort>急病人</PatientEmergency.labelShort>
+	<PatientEmergency.pawnLabel>急病人</PatientEmergency.pawnLabel>
+	<PatientEmergency.gerundLabel>急病人</PatientEmergency.gerundLabel>
+	<PatientEmergency.description>もし、直ぐにでも命に関わるような重篤な健康状態なら、治療のために医療用ベッドに行きなさい。</PatientEmergency.description>
+	<PatientEmergency.verb>急病人になる</PatientEmergency.verb>
 
         <Doctor.labelShort>医者</Doctor.labelShort>
         <Doctor.pawnLabel>医者</Doctor.pawnLabel>
@@ -19,11 +19,11 @@
         <Doctor.description>医者はベッドで寝ている患者に、食事と治療を施します。彼らは囚人と入植者の双方を治療します。</Doctor.description>
         <Doctor.verb>治療</Doctor.verb>
 
-	<PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
-	<PatientBedRest.pawnLabel>Bed rest</PatientBedRest.pawnLabel>
-	<PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
-	<PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
-	<PatientBedRest.verb>Become patient</PatientBedRest.verb>
+	<PatientBedRest.labelShort>病人</PatientBedRest.labelShort>
+	<PatientBedRest.pawnLabel>病人</PatientBedRest.pawnLabel>
+	<PatientBedRest.gerundLabel>安静</PatientBedRest.gerundLabel>
+	<PatientBedRest.description>重篤な病気でなければ、ベッドで安静にしてなさい。</PatientBedRest.description>
+	<PatientBedRest.verb>病人になる</PatientBedRest.verb>
 
         <Flicker.labelShort>制御</Flicker.labelShort>
         <Flicker.pawnLabel>制御屋</Flicker.pawnLabel>

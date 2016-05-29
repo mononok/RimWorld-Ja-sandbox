@@ -19,17 +19,17 @@
   <PriceTypeExorbitant>法外</PriceTypeExorbitant>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>liquor</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>kibble</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_VegetableOrFruit>野菜や果物</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>死体</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>種子</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>植物FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>樹木</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>調理された料理</FoodTypeFlags_Processed>
+  <FoodTypeFlags_NutritionalDrug>アルコール飲料</FoodTypeFlags_NutritionalDrug>
+  <FoodTypeFlags_AnimalKibble>ペットフード</FoodTypeFlags_AnimalKibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
@@ -95,9 +95,9 @@
   <MedicalCareCategory_Best>最善の治療をする</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>攻撃</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>逃避</HostilityResponseMode_Flee>
 
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>

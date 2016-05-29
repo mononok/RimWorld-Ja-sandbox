@@ -5,99 +5,99 @@
 
 	<rep>
 		<path>Affair.stages[0].label</path>
-		<trans>affair</trans>
+		<trans>不倫</trans>
 	</rep>
 
 	<rep>
     	<path>Incestuous.stages[0].label</path>
-        <trans>incestuous</trans>
+        <trans>近親相姦</trans>
 	</rep>
 
 	<rep>
     	<path>Disfigured.stages[0].label</path>
-        <trans>disfigured</trans>
+        <trans>不良</trans>
 	</rep>
 
 	<rep>
     	<path>HardWorkerVsLazy.stages[0].label</path>
-        <trans>hard worker vs lazy</trans>
+        <trans>勤勉 vs ぐうたら</trans>
 	</rep>
 
 	<rep>
     	<path>TeetotalerVsChemicalInterest.stages[0].label</path>
-        <trans>teetotaler vs chemical interest</trans>
+        <trans>絶対禁酒 vs 薬物依存</trans>
 	</rep>
 
 	<rep>
     	<path>ChemicalInterestVsTeetotaler.stages[0].label</path>
-        <trans>chemical interest vs teetotaler</trans>
+        <trans>薬物依存 vs 絶対禁酒</trans>
 	</rep>
 
 	<rep>
     	<path>Drunk.stages[0].label</path>
-        <trans>drunk</trans>
+        <trans>飲もう</trans>
 	</rep>
 
 	<rep>
     	<path>Beautiful.stages[0].label</path>
-        <trans>beautiful</trans>
+        <trans>美しい</trans>
 	</rep>
 
 	<rep>
     	<path>Ugly.stages[0].label</path>
-        <trans>ugly</trans>
+        <trans>醜い</trans>
 	</rep>
 
 	<rep>
     	<path>Man.stages[0].label</path>
-        <trans>man</trans>
+        <trans>男</trans>
 	</rep>
 
 	<rep>
     	<path>Woman.stages[0].label</path>
-        <trans>woman</trans>
+        <trans>女</trans>
 	</rep>
 
 	<rep>
     	<path>ButcheredHumanlikeCorpseOpinion.stages[0].label</path>
-        <trans>butchered humanlike corpse</trans>
+        <trans>人体を解剖した</trans>
 	</rep>
 
 	<rep>
     	<path>AteRawHumanlikeMeat.stages[0].label</path>
-        <trans>ate raw humanlike meat</trans>
+        <trans>ヒトの生肉を食べた</trans>
 	</rep>
 
 	<rep>
     	<path>SoldPrisoner.stages[0].label</path>
-        <trans>sold prisoner to slavery</trans>
+        <trans>囚人を奴隷商に売った</trans>
 	</rep>
 
 	<rep>
     	<path>ExecutedPrisoner.stages[0].label</path>
-        <trans>executed prisoner</trans>
+        <trans>囚人を処刑した</trans>
 	</rep>
 
 	<rep>
     	<path>KilledColonist.stages[0].label</path>
-        <trans>killed colonist</trans>
+        <trans>入植者を殺した</trans>
 	</rep>
 
 	<rep>
     	<path>KilledColonyAnimal.stages[0].label</path>
-        <trans>killed colony animal</trans>
+        <trans>家畜を殺した</trans>
 	</rep>
 
 	<rep>
     	<path>KilledMajorColonyEnemy.stages[0].label</path>
-        <trans>killed major enemy</trans>
+        <trans>脅威となっていた敵を殺した</trans>
 	</rep>
 
   <!-- affecting mood -->
 
 	<rep>
     	<path>OpinionOfMyLover.stages[0].label</path>
-        <trans>opinion of my {0} {1}</trans>
+        <trans>私の {0} の評価は {1}</trans>
 	</rep>
 	<rep>
     	<path>OpinionOfMyLover.stages[0].description</path>

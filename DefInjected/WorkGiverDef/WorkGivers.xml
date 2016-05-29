@@ -9,81 +9,81 @@
 
 	<!-- ============= PatientEmergency ============= -->
 
-	<PatientGoToBedEmergency.label>go to bed for emergency treatment</PatientGoToBedEmergency.label>
+	<PatientGoToBedEmergency.label>救命処置のためベッドに行く</PatientGoToBedEmergency.label>
 
   <!-- ============= Doctor ============= -->
 
-	<DoctorTreatEmergency.label>give emergency treatment</DoctorTreatEmergency.label>
+	<DoctorTreatEmergency.label>救命処置を施す</DoctorTreatEmergency.label>
 	<DoctorTreatEmergency.verb>を治療</DoctorTreatEmergency.verb>
 	<DoctorTreatEmergency.gerund>を治療する</DoctorTreatEmergency.gerund>
 
-	<DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
+	<DoctorRescue.label>倒れた仲間を救う</DoctorRescue.label>
 	<DoctorRescue.verb>を緊急搬送</DoctorRescue.verb>
 	<DoctorRescue.gerund>を緊急搬送する</DoctorRescue.gerund>
 
-	<DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
+	<DoBillsMedicalHumanOperation.label>手術を行う</DoBillsMedicalHumanOperation.label>
 	<DoBillsMedicalHumanOperation.verb>手術</DoBillsMedicalHumanOperation.verb>
     <DoBillsMedicalHumanOperation.gerund>手術する</DoBillsMedicalHumanOperation.gerund>
 
-	<DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
+	<DoBillsMedicalAnimalOperation.label>手術を行う</DoBillsMedicalAnimalOperation.label>
 	<DoBillsMedicalAnimalOperation.verb>処置</DoBillsMedicalAnimalOperation.verb>
 	<DoBillsMedicalAnimalOperation.gerund>処置する</DoBillsMedicalAnimalOperation.gerund>
 
-	<DoctorTreat.label>give treatment</DoctorTreat.label>
-	<DoctorTreat.verb>をgive treatment</DoctorTreat.verb>
-	<DoctorTreat.gerund>をgive treatmentする</DoctorTreat.gerund>
+	<DoctorTreat.label>処置を施す</DoctorTreat.label>
+	<DoctorTreat.verb>を処置</DoctorTreat.verb>
+	<DoctorTreat.gerund>を処置する</DoctorTreat.gerund>
 
 	<!-- ============= Cleaning ============= -->
 
-	<DoctorFeed.label>feed patients</DoctorFeed.label>
-	<DoctorFeed.verb>をfeed</DoctorFeed.verb>
-	<DoctorFeed.gerund>をfeedする</DoctorFeed.gerund>
+	<DoctorFeed.label>患者に食事を与える</DoctorFeed.label>
+	<DoctorFeed.verb>看護</DoctorFeed.verb>
+	<DoctorFeed.gerund>看護する</DoctorFeed.gerund>
 
-	<TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
+	<TakeToBedToOperate.label>手術をするためにベッドへ連れてゆく</TakeToBedToOperate.label>
 	<TakeToBedToOperate.verb>をtake to operate</TakeToBedToOperate.verb>
     <TakeToBedToOperate.gerund>をtake to operateする</TakeToBedToOperate.gerund>
 
-	<VisitSickPawn.label>visit sick people</VisitSickPawn.label>
-	<VisitSickPawn.verb>visit</VisitSickPawn.verb>
-	<VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
+	<VisitSickPawn.label>お見舞いに訪れる</VisitSickPawn.label>
+	<VisitSickPawn.verb>見舞う</VisitSickPawn.verb>
+	<VisitSickPawn.gerund>見舞いする</VisitSickPawn.gerund>
 
   <!-- =========== PatientBedRest ============-->
 
-	<PatientGoToBed.label>recuperate in bed</PatientGoToBed.label>
-	<PatientGoToBed.verb>get bed rest in</PatientGoToBed.verb>
-	<PatientGoToBed.gerund>getting bed rest in</PatientGoToBed.gerund>
+	<PatientGoToBed.label>ベッドで安静にする</PatientGoToBed.label>
+	<PatientGoToBed.verb>ベッドで休む</PatientGoToBed.verb>
+	<PatientGoToBed.gerund>ベッドで安静にする</PatientGoToBed.gerund>
 
   <!-- =========== Flicker ============-->
 
-    <Flick.label>flick switches</Flick.label>
+    <Flick.label>スイッチを操作する</Flick.label>
 	<Flick.verb>を操作</Flick.verb>
 	<Flick.gerund>を操作する</Flick.gerund>
 
   <!-- ============= Warden ============= -->
 
-	<DoExecution.label>execute prisoners</DoExecution.label>
-	<DoExecution.verb>をdo execution on</DoExecution.verb>
-	<DoExecution.gerund>をdo execution onする</DoExecution.gerund>
+	<DoExecution.label>囚人を処刑する</DoExecution.label>
+	<DoExecution.verb>処刑</DoExecution.verb>
+	<DoExecution.gerund>処刑する</DoExecution.gerund>
 
-	<ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
-	<ReleasePrisoner.verb>をrelease</ReleasePrisoner.verb>
-	<ReleasePrisoner.gerund>をreleaseする</ReleasePrisoner.gerund>
+	<ReleasePrisoner.label>囚人を釈放する</ReleasePrisoner.label>
+	<ReleasePrisoner.verb>釈放</ReleasePrisoner.verb>
+	<ReleasePrisoner.gerund>釈放する</ReleasePrisoner.gerund>
 
-	<TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
-	<TakePrisonerToBed.verb>をtake to bed</TakePrisonerToBed.verb>
-	<TakePrisonerToBed.gerund>をtake to bedする</TakePrisonerToBed.gerund>
+	<TakePrisonerToBed.label>囚人をベッドに連れてゆく</TakePrisonerToBed.label>
+	<TakePrisonerToBed.verb>拘束</TakePrisonerToBed.verb>
+	<TakePrisonerToBed.gerund>拘束する</TakePrisonerToBed.gerund>
 
-	<FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
-	<FeedPrisoner.verb>でfeed</FeedPrisoner.verb>
-    <FeedPrisoner.gerund>でfeedする</FeedPrisoner.gerund>
+	<FeedPrisoner.label>囚人に食物を与える</FeedPrisoner.label>
+	<FeedPrisoner.verb>看護</FeedPrisoner.verb>
+    <FeedPrisoner.gerund>看護する</FeedPrisoner.gerund>
 
-	<DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
-	<DeliverFoodToPrisoner.verb>をdeliver food for</DeliverFoodToPrisoner.verb>
+	<DeliverFoodToPrisoner.label>囚人に食事を運ぶ</DeliverFoodToPrisoner.label>
+	<DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
     <DeliverFoodToPrisoner.gerund>をdeliver food forする</DeliverFoodToPrisoner.gerund>
 
-	<ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
-	<ChatWithPrisoner.verb>をchat with</ChatWithPrisoner.verb>
-    <ChatWithPrisoner.gerund>をchat withする</ChatWithPrisoner.gerund>
+	<ChatWithPrisoner.label>囚人とおしゃべりをする</ChatWithPrisoner.label>
+	<ChatWithPrisoner.verb>雑談</ChatWithPrisoner.verb>
+    <ChatWithPrisoner.gerund>雑談する</ChatWithPrisoner.gerund>
 
   <!-- ============= Handling ============= -->
 
@@ -162,9 +162,9 @@
 
 	<!-- ============= Repair ============= -->
 
-	<FixBrokenDownBuilding.label>fix broken-down things</FixBrokenDownBuilding.label>
-	<FixBrokenDownBuilding.verb>をreplace broken components in</FixBrokenDownBuilding.verb>
-	<FixBrokenDownBuilding.gerund>をreplace broken components inする</FixBrokenDownBuilding.gerund>
+	<FixBrokenDownBuilding.label>復旧</FixBrokenDownBuilding.label>
+	<FixBrokenDownBuilding.verb>を復旧</FixBrokenDownBuilding.verb>
+	<FixBrokenDownBuilding.gerund>を復旧する</FixBrokenDownBuilding.gerund>
 
 	<Repair.label>修理</Repair.label>
 	<Repair.verb>を修理</Repair.verb>

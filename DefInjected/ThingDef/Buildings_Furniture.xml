@@ -3,25 +3,27 @@
 
 	<!--============================== Beds ==============================-->
 	<SleepingSpot.label>寝床</SleepingSpot.label>
-	<SleepingSpot.description>地面の上で直接寝る寝床、居心地は良くはありません。</SleepingSpot.description>
+	<SleepingSpot.description>人が寝る場所を、地面の上に指示します。寝心地は良くはありません。</SleepingSpot.description>
 
 	<Bed.label>ベッド</Bed.label>
-	<Bed.description>休息する為のベッドです。フレームの上に心地よいマットレスとシーツが掛けてあります。</Bed.description>
+	<Bed.description>フレームの上に心地よいマットレスとシーツが掛けてある、休息する為のベッドです。</Bed.description>
 
 	<DoubleBed.label>ダブルベッド</DoubleBed.label>
-	<DoubleBed.description>シンプルな二人で寝るにはちょうど良いダブルベッドです。</DoubleBed.description>
+	<DoubleBed.description>シンプルで、二人で寝るにはちょうど良いダブルベッドです。</DoubleBed.description>
 
 	<RoyalBed.label>豪華なベッド</RoyalBed.label>
-	<RoyalBed.description>高貴な生まれの方にピッタリの豪華なベッドです。</RoyalBed.description>
+	<RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、二人で寝るのにぴったりです。</RoyalBed.description>
 
 	<HospitalBed.label>診察台</HospitalBed.label>
 	<HospitalBed.description>怪我人の為に考えられた特製のベッドです。治療の成功率が良くなります。</HospitalBed.description>
 
     <!--=========================== Animal beds ===============================-->
     <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
-	<AnimalSleepingSpot.description>家畜が寝るときの寝床を指示します。</AnimalSleepingSpot.description>
+	<AnimalSleepingSpot.description>家畜の寝床を指示します。</AnimalSleepingSpot.description>
+
 	<AnimalSleepingBox.label>家畜小屋</AnimalSleepingBox.label>
-	<AnimalSleepingBox.description>ニワトリやネコ、小さなイヌにぴったりな、家畜が寝るための小さな小屋です。</AnimalSleepingBox.description>
+	<AnimalSleepingBox.description>家畜が寝るための小さな小屋です。ニワトリやネコ、小さなイヌなどに、ぴったりです。</AnimalSleepingBox.description>
+
 	<AnimalBed.label>家畜用ベッド</AnimalBed.label>
 	<AnimalBed.description>全ての家畜にぴったりな、家畜が寝るためのベッドです。</AnimalBed.description>
 

@@ -6,7 +6,7 @@
   <StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
   <StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
   <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>材料</StatsReport_Material>
   <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
   <StatsReport_Skills>スキル要素</StatsReport_Skills>
   <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
@@ -15,11 +15,11 @@
   <StatsReport_PostProcessed>修正表による変換数値</StatsReport_PostProcessed>
   <StatsReport_FinalValue>決定値=</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
   <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>雰囲気 {0}による掛け率</StatsReport_MoodMultiplier>
-	<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>In bed</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
   <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>

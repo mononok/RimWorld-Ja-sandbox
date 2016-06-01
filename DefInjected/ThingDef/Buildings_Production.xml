@@ -20,8 +20,9 @@
 	<HandTailoringBench.label>手動ミシン台</HandTailoringBench.label>
 	<HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、40%程しか作成速度はありません。</HandTailoringBench.description>
 
-	<ElectricSmithy.label>電動工作台electric smithy</ElectricSmithy.label>
+	<ElectricSmithy.label>電動工作台</ElectricSmithy.label>
 	<ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</ElectricSmithy.description>
+
 	<FueledSmithy.label>工作台</FueledSmithy.label>
 	<FueledSmithy.description>シンプルな、燃料に薪を使った、メカニカルではない武器やツールを作る工作台です。</FueledSmithy.description>
 
@@ -50,10 +51,10 @@
 
 	<!-- ========== Non-standard work buildings ==============-->
 
-	<SimpleResearchBench.label>シンプル研究卓</SimpleResearchBench.label>
+	<SimpleResearchBench.label>シンプル研究設備</SimpleResearchBench.label>
 	<SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</SimpleResearchBench.description>
 
-	<HiTechResearchBench.label>ハイテク研究卓</HiTechResearchBench.label>
+	<HiTechResearchBench.label>ハイテク研究設備</HiTechResearchBench.label>
 	<HiTechResearchBench.description>ハイテクなツールなどを研究する机です。ハイテクツールを使うことで、より研究速度が速くなりますが、もっと電力が必要となります。</HiTechResearchBench.description>
 
 	<ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>

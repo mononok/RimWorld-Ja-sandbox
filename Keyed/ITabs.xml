@@ -68,10 +68,10 @@
 	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
 	<Harvest>摘出</Harvest>
-<MemoryLower>memory</MemoryLower>
-<SocialInteractionsLower>social interactions</SocialInteractionsLower>
-<HungerRate>Hunger rate</HungerRate>
-<Tiredness>Tiredness</Tiredness>
+	<MemoryLower>記憶</MemoryLower>
+	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
+	<HungerRate>空腹率</HungerRate>
+	<Tiredness>疲れ</Tiredness>
 
 
 	<!-- Medical - Body and activities condition -->
@@ -100,8 +100,8 @@
 
    <!-- Social tab -->
 <NoRelationships>(無関係)</NoRelationships>
-<Kidnapped>Kidnapped</Kidnapped>
-<Slave>Slave</Slave>
+<Kidnapped>誘拐</Kidnapped>
+<Slave>奴隷</Slave>
 <FactionLeader>Faction leader</FactionLeader>
 <OpinionOf>自分が、 {0} に対する評価</OpinionOf>
 <SomeonesOpinionOfMe>自分に対しての {0}の評価</SomeonesOpinionOfMe>

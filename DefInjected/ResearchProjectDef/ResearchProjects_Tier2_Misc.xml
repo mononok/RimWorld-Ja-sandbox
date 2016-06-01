@@ -14,12 +14,12 @@
 	<HospitalBed.description>治療の成功率が良くなるベッドを作成できるようになります。</HospitalBed.description>
 
 	<MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
-	<MultiAnalyzer.description>より高度な研究プロジェクトや、研究卓のそばに置くことで研究速度を高めるための、マルチアナライザーを作成できるようになります。</MultiAnalyzer.description>
+	<MultiAnalyzer.description>より高度な研究プロジェクトや、研究設備のそばに置くことで研究速度を高めるための、マルチアナライザーを作成できるようになります。</MultiAnalyzer.description>
 
   <!--=============================== Tier 2.5 Misc ===================================-->
 
 	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
-	<VitalsMonitor.description>医療ベッドのそばに置くことで、患者の治療品質を上げるための、バイタルモニターを作成できるようになります。</VitalsMonitor.description>
+	<VitalsMonitor.description>医療用ベッドのそばに置くと、患者の治療品質が上がる、バイタルモニターを作成できるようになります。</VitalsMonitor.description>
 
 	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
 	<Cryptosleep.description>仮死状態のまま長い期間を疑似冬眠で過ごせる機械を作ります。</Cryptosleep.description>
@@ -28,10 +28,10 @@
 	<ComponentAssembly.description>シンプルな素材からコンポーネントの作成が可能になる、コンポーネント作成卓を作成できるようになります。</ComponentAssembly.description>
 
 	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
-<PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+    <PoweredArmor.description>ニューロミーム的ロボット工学と先進のプラスチールが織りなすテクノロジーは、パワーアーマーとヘルメットの製造を可能にします。</PoweredArmor.description>
 
-<ChargedShot.label>charged shot</ChargedShot.label>
-<ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+    <ChargedShot.label>チャージライフル</ChargedShot.label>
+    <ChargedShot.description>チャージパルスエネルギーを照射する鍵となる仕組みを理解する。チャージライフルの製造を可能にします。</ChargedShot.description>
 
 	<MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
 	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>

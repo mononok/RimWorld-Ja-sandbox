@@ -33,18 +33,18 @@
 
   <MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>警告: {0}は、ときには怪我を負うと攻撃されたとみなします。</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>警告: {0}は、飼い馴らしに失敗したとき、襲ってくる可能性があります。(成功率 {1} )</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>【警告】{0}は、ときには怪我を負うと攻撃されたとみなします。</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>【警告】{0}は、手なずけるのに失敗したとき、襲ってくる可能性があります。(成功率 {1} )</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
 <MessageRecruitSuccess>{0} は 囚人 {1} を 村に 迎えました。（成功率 {2} ）</MessageRecruitSuccess>
 <MessageRecruitFail>{0} は 囚人 {1} の 説得に 失敗しました。（成功率 {2} ）</MessageRecruitFail>
 <MessageRecruitFailBecauseLoyalty>{0} は 囚人 {1} の 説得に 失敗しました。（囚人の 忠誠心が たりません）</MessageRecruitFailBecauseLoyalty>
   <MessageTameSuccess>{0} は {2}を飼い馴らしました。(成功率 {2} )</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} は {2}を飼い馴らしました。(成功率 {2} ) そして {3}と名づけました。</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} は {2}を手なずけました。(成功率 {2} ) そして {3}と名づけました。</MessageTameAndNameSuccess>
 
 
-<MessageColonyCannotAfford>村は、この取り引きの アイテムが 足りない。</MessageColonyCannotAfford>
+<MessageColonyCannotAfford>コロニーは、この取り引きの アイテムが 足りない。</MessageColonyCannotAfford>
 <MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
 
 <MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
@@ -55,13 +55,13 @@
 <MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
 <MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
 <MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>飼い馴らせる動物を指定してください。</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>手なずける動物を指定してください。</MessageMustDesignateTameable>
 <MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
 <MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
   <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません。</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます。</MessageAlreadyInStorage>
   <MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください。</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>飼い馴らしてある動物を指定してください。</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>手なずけてある動物を指定してください。</MessageMustDesignateSlaughterable>
   <MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください。</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
@@ -95,7 +95,7 @@
 
   <MessageHiveReproduced>虫の巣は、自己再生成した。</MessageHiveReproduced>
 
-  <MessageTraderCaravanLeaving>{0} 貿易者の一行は離れていった。</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>{0} トレーダーの一行は 離れていった。</MessageTraderCaravanLeaving>
 
   <MessageCantSelectDeadFamilyMember>{0} は亡くなった。</MessageCantSelectDeadFamilyMember>
   <MessageCantSelectOffMapFamilyMember>{0} は出て行った。</MessageCantSelectOffMapFamilyMember>

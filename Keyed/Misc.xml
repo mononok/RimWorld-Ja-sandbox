@@ -5,7 +5,7 @@
 
 <GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ、 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました。\n\nごらんのとおり、 あなたたちの 周囲に 船の残骸が ちらばっています。 さあ、 それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
 
-<Colony>あなたの村</Colony>
+<Colony>あなたのコロニー</Colony>
 
 <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます。</ChangeLanguageFromMainMenu>
 
@@ -25,19 +25,19 @@
 <MeatLabel>{0} の肉</MeatLabel>
 <MeatDesc>{0} の新鮮な生肉</MeatDesc>
 
-<LeatherLabel>{0} の皮</LeatherLabel>
-<LeatherDesc>{0} の生皮</LeatherDesc>
+<LeatherLabel>{0} の革</LeatherLabel>
+<LeatherDesc>{0} の皮から作った革</LeatherDesc>
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
 <DeadLabel>{0} (死亡)</DeadLabel>
 
-<RoughStoneTerrainLabel>荒れた {0}</RoughStoneTerrainLabel>
-<RoughStoneTerrainDesc>荒れた、天然の {0} </RoughStoneTerrainDesc>
+<RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
+<RoughStoneTerrainDesc>粗く自然な {0} </RoughStoneTerrainDesc>
 <RoughHewnStoneTerrainLabel>荒けずりの {0}</RoughHewnStoneTerrainLabel>
-<RoughHewnStoneTerrainDesc>ざっくりとカットされた 天然の {0} 床</RoughHewnStoneTerrainDesc>
-<SmoothStoneTerrainLabel>磨かれた {0}</SmoothStoneTerrainLabel>
-<SmoothStoneTerrainDesc>磨かれた 天然の {0} 床</SmoothStoneTerrainDesc>
+<RoughHewnStoneTerrainDesc>ざっくりとカットされた 自然な {0} の床</RoughHewnStoneTerrainDesc>
+<SmoothStoneTerrainLabel>滑らかな {0}</SmoothStoneTerrainLabel>
+<SmoothStoneTerrainDesc>滑らかで自然な {0} の床</SmoothStoneTerrainDesc>
 
 <BlueprintLabelExtra>（設計図）</BlueprintLabelExtra>
 <FrameLabelExtra>（作成中）</FrameLabelExtra>
@@ -47,8 +47,11 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-	<SomeonesRoom>{0}'s {1}</SomeonesRoom>
-	<CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+	
+    <!-- To express ownership. -->
+    <!-- For example Jack's Bedroom -->
+	<SomeonesRoom>{0} の {1}</SomeonesRoom>
+	<CouplesRoom>{0} と {1} の {2}</CouplesRoom>
 
   <VariousLabel>(色々な)</VariousLabel>
 

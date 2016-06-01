@@ -16,11 +16,11 @@
 <DeadTime>死後 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
 <DyingLower>瀕死</DyingLower>
-<FilthOnFeet>足もと：</FilthOnFeet>
+<FilthOnFeet>足跡：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
   <Adapted>順応した</Adapted>
-  <FreshMissingBodyPart>ばらばら</FreshMissingBodyPart>
+  <FreshMissingBodyPart>フレッシュ</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
   <DevelopedImmunityLower>免疫をつけている</DevelopedImmunityLower>
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
@@ -70,7 +70,7 @@
   <TextMote_FixBrokenDownBuildingFail>修理\n失敗</TextMote_FixBrokenDownBuildingFail>
 
   <!-- Areas -->
-  <Home>村</Home>
+  <Home>コロニー</Home>
   <NoRoof>屋根無し</NoRoof>
   <SnowClear>除雪済み</SnowClear>
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
@@ -238,7 +238,7 @@
 	<OnlyQuality>{0} のみ</OnlyQuality>
 
 	<!-- Mouseover indicator -->
-	<Undiscovered>未調査</Undiscovered>
+	<Undiscovered>未知</Undiscovered>
 
 	<!-- Buttons -->
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
@@ -264,7 +264,7 @@
 	<MustPlaceUnroofed>屋根の下に 配置 できません。</MustPlaceUnroofed>
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
 	<MustPlaceNextToHopperAccepter>食材ホッパーを 必要とする 機材の となりに 配置してください。</MustPlaceNextToHopperAccepter>
-	<MustPlaceOnSteamGeyser>蒸気間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
+	<MustPlaceOnSteamGeyser>間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
 	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
 	<MustPlaceAdjacentStandable>全ての面において、人が立てるスペースが必要です。</MustPlaceAdjacentStandable>
@@ -279,8 +279,8 @@
 	<CasketWarning>【警告】 NAMEは最後の入植者です。HIM冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
 
 	<!-- Ship launch report -->
-	<ShipReportCannotLaunch>発進 できません。</ShipReportCannotLaunch>
-	<ShipReportCanLaunch>発進 できます。</ShipReportCanLaunch>
+	<ShipReportCannotLaunch>発射 できません。</ShipReportCannotLaunch>
+	<ShipReportCanLaunch>発射 できます。</ShipReportCanLaunch>
 	<ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
 	<ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
 
@@ -322,7 +322,7 @@
 
 	<!-- Game over -->
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
-	<GameOverShipLaunched>宇宙船が発進しました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
+	<GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 

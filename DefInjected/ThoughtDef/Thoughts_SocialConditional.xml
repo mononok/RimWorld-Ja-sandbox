@@ -97,25 +97,25 @@
 
 	<rep>
     	<path>OpinionOfMyLover.stages[0].label</path>
-        <trans>私の {0} の評価は {1}</trans>
+        <trans>私の {0} {1} の評価</trans>
 	</rep>
 	<rep>
     	<path>OpinionOfMyLover.stages[0].description</path>
-        <trans>Being with my lover makes me feel this way.</trans>
+        <trans>恋人の存在が、私に感じさせてくれるムード</trans>
 	</rep>
 
 	<rep>
     	<path>BondedAnimalMaster.stages[0].label</path>
-        <trans>bonded animal's master</trans>
+        <trans>絆で結ばれた動物の主人</trans>
 	</rep>
 	<rep>
     	<path>BondedAnimalMaster.stages[0].description</path>
-        <trans>Being together with my bonded animal makes me feel better.</trans>
+        <trans>絆で結ばれた動物の存在が私のムードを良くしてくれる。</trans>
 	</rep>
 
 	<rep>
     	<path>NotBondedAnimalMaster.stages[0].label</path>
-        <trans>not a bonded animal's master</trans>
+        <trans>主人(not bonded)</trans>
 	</rep>
 	<rep>
     	<path>NotBondedAnimalMaster.stages[0].description</path>
@@ -124,11 +124,11 @@
 
 	<rep>
     	<path>WantToSleepWithSpouseOrLover.stages[0].label</path>
-        <trans>want to sleep with {0}</trans>
+        <trans>{0} と一緒に眠りたい。</trans>
 	</rep>
 	<rep>
     	<path>WantToSleepWithSpouseOrLover.stages[0].description</path>
-        <trans>I don't like sleeping apart from my partner.</trans>
+        <trans>パートナーと分かれて寝るのは嫌です。</trans>
 	</rep>
 
 </LanguageData>

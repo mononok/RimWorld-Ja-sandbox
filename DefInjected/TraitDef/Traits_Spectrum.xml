@@ -8,7 +8,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAMEは、どこかに行ったかと思えば、いつもグループから遅れています。</trans>
+		<trans>NAMEは、どこかに行ったかと思えば、いつもグループから遅れた所にいます。</trans>
 	</rep>
 
 	<rep>
@@ -47,10 +47,9 @@
 		<path>DrugDesire.degreeDatas[1].description</path>
 		<trans>NAMEは無類の酒好きです。HECAPは、ありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
 	</rep>
-
 	<rep>
 		<path>DrugDesire.degreeDatas[2].label</path>
-		<trans>酒嫌い</trans>
+		<trans>禁酒主義</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].description</path>

@@ -14,7 +14,7 @@
     <Alzheimers.label>アルツハイマー病</Alzheimers.label>
 	<rep>
 		<path>Alzheimers.stages[0].label</path>
-		<trans>軽度-</trans>
+		<trans>軽度</trans>
 	</rep>
 	<rep>
 		<path>Alzheimers.stages[1].label</path>
@@ -26,7 +26,7 @@
 	</rep>
 	<rep>
 		<path>Alzheimers.stages[3].label</path>
-        <trans>重度+</trans>
+        <trans>重度</trans>
 	</rep>
 
     <Asthma.label>ぜんそく</Asthma.label>
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>Asthma.stages[1].label</path>
-        <trans>中度</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>Asthma.stages[2].label</path>
@@ -46,7 +46,7 @@
     <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
 	<rep>
 		<path>HeartArteryBlockage.stages[0].label</path>
-        <trans>軽度-</trans>
+        <trans>軽度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[1].label</path>
@@ -54,11 +54,11 @@
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[2].label</path>
-        <trans>中度</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[3].label</path>
-        <trans>重度+</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[4].label</path>
@@ -66,13 +66,13 @@
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[5].label</path>
-        <trans>極度+</trans>
+        <trans>極度</trans>
 	</rep>
 
     <Carcinoma.label>悪性腫瘍</Carcinoma.label>
 	<rep>
 		<path>Carcinoma.stages[0].label</path>
-        <trans>軽度-</trans>
+        <trans>軽度</trans>
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[1].label</path>
@@ -80,7 +80,7 @@
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[2].label</path>
-        <trans>中度</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[3].label</path>
@@ -92,7 +92,7 @@
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[5].label</path>
-        <trans>極度+</trans>
+        <trans>極度</trans>
 	</rep>
 
 </LanguageData>

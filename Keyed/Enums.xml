@@ -82,10 +82,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>None</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>Advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>不可能</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>簡単</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>中程度</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>高度</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
@@ -100,9 +100,9 @@
   <HostilityResponseMode_Flee>逃避</HostilityResponseMode_Flee>
 
   <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Growing>増大</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>安定</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
 
 
 </LanguageData>

@@ -111,8 +111,8 @@
   <!-- Install/reinstall -->
   <CommandInstall>展示</CommandInstall>
   <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます。</CommandInstallDesc>
-<CommandReinstall>Reinstall at...</CommandReinstall>
-<CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+<CommandReinstall>再展示..</CommandReinstall>
+<CommandReinstallDesc>このアイテムを梱包したのちに、再展示する場所を指定します。</CommandReinstallDesc>
 
   <!-- Trade beacon -->
   <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます。</CommandMakeBeaconStockpileDesc>
@@ -127,12 +127,12 @@
   <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます。</CommandAutoRearmDesc>
 
   <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>これがオンになっている間、主人を持っている動物を、離れた獲物に向かわせることができます。これがオフの間は、動物は主人のそばを離れず守ります。</CommandReleaseAnimalsDesc>
 
   <!-- Squad attack -->
-<CommandSquadAttack>Attack</CommandSquadAttack>
-<CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+<CommandSquadAttack>攻撃目標</CommandSquadAttack>
+<CommandSquadAttackDesc>選択した入植者達に攻撃目標を指示します。</CommandSquadAttackDesc>
 
 
 </LanguageData>

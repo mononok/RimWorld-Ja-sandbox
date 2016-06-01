@@ -82,9 +82,9 @@
 <InProgress>進行中</InProgress>
 <Locked>Locked</Locked>
 <ResearchMenuWithoutBench>研究設備を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <ResearchPrerequisites>必要条件</ResearchPrerequisites>
+  <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
 
 <!-- Advanced game start options -->
 <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
@@ -98,7 +98,7 @@
   <MapStartSeason>開始 季節：</MapStartSeason>
   <MapStartSeasonDefault>自動</MapStartSeasonDefault>
   <PermadeathMode>Permadeath モード</PermadeathMode>
-  <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んだ等の失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nRimWorldを、悲劇的や希望に満ちあふれようとなかろうと、全てをドラマチックなものに変えます。</PermadeathModeInfo>
+  <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んだ等の、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorld全てをドラマチックなものに変えます。</PermadeathModeInfo>
 
 <!-- Bill config -->
 <Suspended>再開する</Suspended>
@@ -117,7 +117,7 @@
   <WorkAmount>必要量</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>必要とする {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
+  <BillRequiresNutrition>{0} 栄養を必要とする</BillRequiresNutrition>
   <BillRequiresMayVary>(Counts may vary for item with nonstandard volumes, like gold.)</BillRequiresMayVary>
   <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/20 as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need 20x as much as usual.</ThisIsSmallVolume>
   <UsableIngredients>有効成分</UsableIngredients>
@@ -157,17 +157,17 @@
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>Covers</Covers>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <BodyPartEfficiency>ボディパーツの能力</BodyPartEfficiency>
   <MoodChange>Mood change</MoodChange>
   <Wildness>野性</Wildness>
   <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
   <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
   <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+  <TimeRecordsCategory>時</TimeRecordsCategory>
+  <MiscRecordsCategory>その他</MiscRecordsCategory>
 
 <!-- Trade -->
-  <DragToTrade>Drag number\nto trade</DragToTrade>
+  <DragToTrade>数字をドラッグ</DragToTrade>
   <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
   <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
   <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
@@ -183,7 +183,7 @@
   <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
   <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.\n\nThis will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
+  <SortBy>並び替え</SortBy>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>

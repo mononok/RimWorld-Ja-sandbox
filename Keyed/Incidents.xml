@@ -13,9 +13,9 @@
 	<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
 
 <!-- Enemy raids -->
-<EnemyRaidWalkIn>{1} 部族の {0} グループが 接近して います。</EnemyRaidWalkIn>
-<EnemyRaidEdgeDrop>{1} 部族の {0} グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
-<EnemyRaidCenterDrop>{1} 部族の {0} グループが、 村めがけて 着陸します！</EnemyRaidCenterDrop>
+<EnemyRaidWalkIn>{0}の {1}グループが 接近して います。</EnemyRaidWalkIn>
+<EnemyRaidEdgeDrop>{0}の {1}グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
+<EnemyRaidCenterDrop>{0}の {1} グループが、 コロニーめがけて 着陸します！</EnemyRaidCenterDrop>
 
 <!-- Friendly raids -->
 <FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
@@ -50,8 +50,8 @@
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>NAME という名前の {0} が 到着し 村の 仲間に くわわりました。</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>人間狩り集団</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>人間を狩る集団 {0} がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>ヒトを狩る{0}集団がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
 
 <!-- Crashed ship part-->
 <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスで ちかくの動物に 狂気を  照射しました。</MessageAnimalInsanityPulse>
@@ -101,7 +101,7 @@
   <LetterThrumboPasses>スランボの小さな群れが、このエリアに入り込んできました。\n\n基本的には大人しいですが、この希少な生き物と対決するときは非常に危険です。幾人かの貿易商は、これらの貴重な毛皮と角に多額の報酬を払うでしょう。\n\nスランボ達は数日で、ここから出て行くでしょう。</LetterThrumboPasses>
 
   <!-- Trader caravan -->
-<LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
+<LetterLabelTraderCaravanArrival>{0}からのキャラバン</LetterLabelTraderCaravanArrival>
 <LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました。\n\n 彼らは、ここを離れるまでの数日間、ここのコロニーをウロウロするつもりです。彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう。 </LetterTraderCaravanArrival>
 
   <!-- Building breaks down -->

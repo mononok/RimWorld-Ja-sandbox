@@ -3,42 +3,42 @@
 
     <rep>
 		<path>Sentence_SocialFightStarted.rulePack.rulesStrings[0]</path>
-        <trans>sent->This drove [recipient_nameShortDef] into a rage and [recipient_pronoun] began a fight!</trans>
+        <trans>sent->[recipient_nameShortDef]は怒りにあふれ、[recipient_pronoun]ケンカを始めた!</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_RomanceAttemptAccepted.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.</trans>
+        <trans>sent->[recipient_nameShortDef]は、付き合うことを同意して、[initiator_nameShortDef]の恋人になった。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_RomanceAttemptRejected.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] rejected the advance.</trans>
+        <trans>sent->[recipient_nameShortDef]は、振った。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_MarriageProposalAccepted.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] agreed and the two are now engaged.</trans>
+        <trans>sent->[recipient_nameShortDef]は、プロポーズを受け入れて、二人は結ばれた。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_MarriageProposalRejected.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] rejected the proposal.</trans>
+        <trans>sent->[recipient_nameShortDef]は、プロポーズを断った。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings[0]</path>
-        <trans>sent->It was too much for the relationship to continue, and the two have now broken up.</trans>
+        <trans>sent->二人の関係は、あまりにも長い間続いてきたが、いま、二人に別れが訪れた。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_RecruitAttemptAccepted.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.</trans>
+        <trans>sent->[recipient_nameShortDef]は、[initiator_nameShortDef]の社会に加わることを受け入れた。</trans>
 	</rep>
 
     <rep>
 		<path>Sentence_RecruitAttemptRejected.rulePack.rulesStrings[0]</path>
-        <trans>sent->[recipient_nameShortDef] rejected the offer.</trans>
+        <trans>sent->[recipient_nameShortDef]は、申し出を断った。</trans>
 	</rep>
 
 </LanguageData>

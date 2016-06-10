@@ -92,19 +92,19 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <TrainableIntelligence>賢さ</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>必要とする賢さ {0}</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
 
    <!-- Social tab -->
 <NoRelationships>(無関係)</NoRelationships>
 <Kidnapped>誘拐</Kidnapped>
 <Slave>奴隷</Slave>
 <FactionLeader>Faction leader</FactionLeader>
-<OpinionOf>自分が、 {0} に対する評価</OpinionOf>
-<SomeonesOpinionOfMe>自分に対しての {0}の評価</SomeonesOpinionOfMe>
+<OpinionOf>{0} への評価</OpinionOf>
+<SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
 <IAmDead>I'm dead</IAmDead>
 <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 

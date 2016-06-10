@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- AAA: verb,gerundは不要 -->
 	<!-- ============= Firefighter ============= -->
 
 	<FightFires.label>消火</FightFires.label>
@@ -22,12 +23,12 @@
 	<DoctorRescue.gerund>を緊急搬送する</DoctorRescue.gerund>
 
 	<DoBillsMedicalHumanOperation.label>手術を行う</DoBillsMedicalHumanOperation.label>
-	<DoBillsMedicalHumanOperation.verb>手術</DoBillsMedicalHumanOperation.verb>
-    <DoBillsMedicalHumanOperation.gerund>手術する</DoBillsMedicalHumanOperation.gerund>
+	<DoBillsMedicalHumanOperation.verb>を手術する</DoBillsMedicalHumanOperation.verb>
+    <DoBillsMedicalHumanOperation.gerund>を手術する</DoBillsMedicalHumanOperation.gerund>
 
 	<DoBillsMedicalAnimalOperation.label>手術を行う</DoBillsMedicalAnimalOperation.label>
-	<DoBillsMedicalAnimalOperation.verb>処置</DoBillsMedicalAnimalOperation.verb>
-	<DoBillsMedicalAnimalOperation.gerund>処置する</DoBillsMedicalAnimalOperation.gerund>
+	<DoBillsMedicalAnimalOperation.verb>を手術する</DoBillsMedicalAnimalOperation.verb>
+	<DoBillsMedicalAnimalOperation.gerund>を手術する</DoBillsMedicalAnimalOperation.gerund>
 
 	<DoctorTreat.label>処置を施す</DoctorTreat.label>
 	<DoctorTreat.verb>を処置</DoctorTreat.verb>
@@ -36,102 +37,102 @@
 	<!-- ============= Cleaning ============= -->
 
 	<DoctorFeed.label>患者に食事を与える</DoctorFeed.label>
-	<DoctorFeed.verb>看護</DoctorFeed.verb>
-	<DoctorFeed.gerund>看護する</DoctorFeed.gerund>
+	<DoctorFeed.verb>に食事を与える</DoctorFeed.verb>
+	<DoctorFeed.gerund>に食事を与える</DoctorFeed.gerund>
 
 	<TakeToBedToOperate.label>手術をするためにベッドへ連れてゆく</TakeToBedToOperate.label>
-	<TakeToBedToOperate.verb>をtake to operate</TakeToBedToOperate.verb>
-    <TakeToBedToOperate.gerund>をtake to operateする</TakeToBedToOperate.gerund>
+	<TakeToBedToOperate.verb>を手術する</TakeToBedToOperate.verb>
+    <TakeToBedToOperate.gerund>を手術する</TakeToBedToOperate.gerund>
 
 	<VisitSickPawn.label>お見舞いに訪れる</VisitSickPawn.label>
-	<VisitSickPawn.verb>見舞う</VisitSickPawn.verb>
-	<VisitSickPawn.gerund>見舞いする</VisitSickPawn.gerund>
+	<VisitSickPawn.verb>を見舞う</VisitSickPawn.verb>
+	<VisitSickPawn.gerund>を見舞いする</VisitSickPawn.gerund>
 
   <!-- =========== PatientBedRest ============-->
 
 	<PatientGoToBed.label>ベッドで安静にする</PatientGoToBed.label>
-	<PatientGoToBed.verb>ベッドで休む</PatientGoToBed.verb>
-	<PatientGoToBed.gerund>ベッドで安静にする</PatientGoToBed.gerund>
+	<PatientGoToBed.verb>をベッドで休ませる</PatientGoToBed.verb>
+	<PatientGoToBed.gerund>をベッドで安静にさせる</PatientGoToBed.gerund>
 
   <!-- =========== Flicker ============-->
 
     <Flick.label>スイッチを操作する</Flick.label>
-	<Flick.verb>を操作</Flick.verb>
+	<Flick.verb>を操作する</Flick.verb>
 	<Flick.gerund>を操作する</Flick.gerund>
 
   <!-- ============= Warden ============= -->
 
 	<DoExecution.label>囚人を処刑する</DoExecution.label>
-	<DoExecution.verb>処刑</DoExecution.verb>
-	<DoExecution.gerund>処刑する</DoExecution.gerund>
+	<DoExecution.verb>を処刑する</DoExecution.verb>
+	<DoExecution.gerund>を処刑する</DoExecution.gerund>
 
 	<ReleasePrisoner.label>囚人を釈放する</ReleasePrisoner.label>
-	<ReleasePrisoner.verb>釈放</ReleasePrisoner.verb>
-	<ReleasePrisoner.gerund>釈放する</ReleasePrisoner.gerund>
+	<ReleasePrisoner.verb>を放す</ReleasePrisoner.verb>
+	<ReleasePrisoner.gerund>を釈放する</ReleasePrisoner.gerund>
 
-	<TakePrisonerToBed.label>囚人をベッドに連れてゆく</TakePrisonerToBed.label>
-	<TakePrisonerToBed.verb>拘束</TakePrisonerToBed.verb>
-	<TakePrisonerToBed.gerund>拘束する</TakePrisonerToBed.gerund>
+	<TakePrisonerToBed.label>囚人を拘束する</TakePrisonerToBed.label>
+	<TakePrisonerToBed.verb>を拘束する</TakePrisonerToBed.verb>
+	<TakePrisonerToBed.gerund>を拘束する</TakePrisonerToBed.gerund>
 
-	<FeedPrisoner.label>囚人に食物を与える</FeedPrisoner.label>
-	<FeedPrisoner.verb>看護</FeedPrisoner.verb>
-    <FeedPrisoner.gerund>看護する</FeedPrisoner.gerund>
+	<FeedPrisoner.label>囚人に食事を与える</FeedPrisoner.label>
+	<FeedPrisoner.verb>に食事を与える</FeedPrisoner.verb>
+    <FeedPrisoner.gerund>に食事を与える</FeedPrisoner.gerund>
 
 	<DeliverFoodToPrisoner.label>囚人に食事を運ぶ</DeliverFoodToPrisoner.label>
-	<DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
-    <DeliverFoodToPrisoner.gerund>をdeliver food forする</DeliverFoodToPrisoner.gerund>
+	<DeliverFoodToPrisoner.verb>に給仕する</DeliverFoodToPrisoner.verb>
+    <DeliverFoodToPrisoner.gerund>に給仕する</DeliverFoodToPrisoner.gerund>
 
-	<ChatWithPrisoner.label>囚人とおしゃべりをする</ChatWithPrisoner.label>
-	<ChatWithPrisoner.verb>雑談</ChatWithPrisoner.verb>
-    <ChatWithPrisoner.gerund>雑談する</ChatWithPrisoner.gerund>
+	<ChatWithPrisoner.label>囚人と雑談する</ChatWithPrisoner.label>
+	<ChatWithPrisoner.verb>と雑談する</ChatWithPrisoner.verb>
+    <ChatWithPrisoner.gerund>と雑談する</ChatWithPrisoner.gerund>
 
   <!-- ============= Handling ============= -->
 
-	<Slaughter.label>屠殺</Slaughter.label>
+	<Slaughter.label>動物を屠殺</Slaughter.label>
 	<Slaughter.verb>を屠殺</Slaughter.verb>
 	<Slaughter.gerund>を屠殺する</Slaughter.gerund>
 
-	<Milk.label>搾乳</Milk.label>
-	<Milk.verb>を搾乳</Milk.verb>
+	<Milk.label>動物の乳を搾る</Milk.label>
+	<Milk.verb>を搾る</Milk.verb>
 	<Milk.gerund>を搾乳する</Milk.gerund>
 
-	<Shear.label>毛刈り</Shear.label>
-	<Shear.verb>を毛刈り</Shear.verb>
+	<Shear.label>動物の毛刈り</Shear.label>
+	<Shear.verb>を刈る</Shear.verb>
 	<Shear.gerund>を毛刈りする</Shear.gerund>
 
-	<Tame.label>手なずけ</Tame.label>
-	<Tame.verb>を手なずけ</Tame.verb>
+	<Tame.label>動物を手なずける</Tame.label>
+	<Tame.verb>を馴らす</Tame.verb>
 	<Tame.gerund>を手なずける</Tame.gerund>
 
-	<Train.label>調教</Train.label>
-	<Train.verb>を調教</Train.verb>
+	<Train.label>動物をしつける</Train.label>
+	<Train.verb>をしつける</Train.verb>
 	<Train.gerund>を調教する</Train.gerund>
 
 	<!-- ============= Cooking ============= -->
-	<DoBillsCook.label>調理</DoBillsCook.label>
-	<DoBillsCook.verb>で調理</DoBillsCook.verb>
+	<DoBillsCook.label>コンロで調理</DoBillsCook.label>
+	<DoBillsCook.verb>で調理する</DoBillsCook.verb>
     <DoBillsCook.gerund>で調理する</DoBillsCook.gerund>
 
-	<DoBillsCookCampfire.label>調理</DoBillsCookCampfire.label>
-	<DoBillsCookCampfire.verb>で調理</DoBillsCookCampfire.verb>
+	<DoBillsCookCampfire.label>焚き火で調理</DoBillsCookCampfire.label>
+	<DoBillsCookCampfire.verb>で調理する</DoBillsCookCampfire.verb>
     <DoBillsCookCampfire.gerund>で調理する</DoBillsCookCampfire.gerund>
 
-	<DoBillsBrew.label>醸造</DoBillsBrew.label>
-	<DoBillsBrew.verb>で醸造</DoBillsBrew.verb>
+	<DoBillsBrew.label>アルコール醸造</DoBillsBrew.label>
+	<DoBillsBrew.verb>で醸造する</DoBillsBrew.verb>
     <DoBillsBrew.gerund>で醸造する</DoBillsBrew.gerund>
 
-	<DoBillsButcherFlesh.label>解体</DoBillsButcherFlesh.label>
-	<DoBillsButcherFlesh.verb>で解体</DoBillsButcherFlesh.verb>
+	<DoBillsButcherFlesh.label>肉をさばく</DoBillsButcherFlesh.label>
+	<DoBillsButcherFlesh.verb>でさばく</DoBillsButcherFlesh.verb>
     <DoBillsButcherFlesh.gerund>で解体する</DoBillsButcherFlesh.gerund>
 
-	<CookFillHopper.label>充填</CookFillHopper.label>
-	<CookFillHopper.verb>を充填</CookFillHopper.verb>
-    <CookFillHopper.gerund>を充填する</CookFillHopper.gerund>
+	<CookFillHopper.label>ホッパーに充填</CookFillHopper.label>
+	<CookFillHopper.verb>に充填する</CookFillHopper.verb>
+    <CookFillHopper.gerund>に充填する</CookFillHopper.gerund>
 
   <!-- ============= Hunting ============= -->
 
 	<HunterHunt.label>狩猟</HunterHunt.label>
-	<HunterHunt.verb>を狩猟</HunterHunt.verb>
+	<HunterHunt.verb>を狩る</HunterHunt.verb>
     <HunterHunt.gerund>狩猟する</HunterHunt.gerund>
 
   <!-- ============= Construction ============= -->
@@ -144,139 +145,143 @@
 	<Uninstall.verb>をアンインストール</Uninstall.verb>
     <Uninstall.gerund>をアンインストールする</Uninstall.gerund>
 
-	<ConstructFinishFrames.label>建造</ConstructFinishFrames.label>
-	<ConstructFinishFrames.verb>を建造</ConstructFinishFrames.verb>
-    <ConstructFinishFrames.gerund>を建造する</ConstructFinishFrames.gerund>
+	<ConstructFinishFrames.label>構築</ConstructFinishFrames.label>
+	<ConstructFinishFrames.verb>を築く</ConstructFinishFrames.verb>
+    <ConstructFinishFrames.gerund>を構築する</ConstructFinishFrames.gerund>
 
-	<ConstructDeliverResourcesToFrames.label>従事</ConstructDeliverResourcesToFrames.label>
-	<ConstructDeliverResourcesToFrames.verb>を従事</ConstructDeliverResourcesToFrames.verb>
+	<ConstructDeliverResourcesToFrames.label>資材をフレームに運ぶ</ConstructDeliverResourcesToFrames.label>
+	<ConstructDeliverResourcesToFrames.verb>に取りかかる</ConstructDeliverResourcesToFrames.verb>
     <ConstructDeliverResourcesToFrames.gerund>を従事する</ConstructDeliverResourcesToFrames.gerund>
 
-	<ConstructDeliverResourcesToBlueprints.label>従事</ConstructDeliverResourcesToBlueprints.label>
-	<ConstructDeliverResourcesToBlueprints.verb>を従事</ConstructDeliverResourcesToBlueprints.verb>
+	<ConstructDeliverResourcesToBlueprints.label>設計する</ConstructDeliverResourcesToBlueprints.label>
+	<ConstructDeliverResourcesToBlueprints.verb>に取りかかる</ConstructDeliverResourcesToBlueprints.verb>
     <ConstructDeliverResourcesToBlueprints.gerund>を従事する</ConstructDeliverResourcesToBlueprints.gerund>
+    
+    <ConstructRemoveFloors.label>床を剥ぐ</ConstructRemoveFloors.label>
+    <ConstructRemoveFloors.verb>を剥ぐ</ConstructRemoveFloors.verb>
+    <ConstructRemoveFloors.gerund>を剥ぐ</ConstructRemoveFloors.gerund>
 
-	<ConstructSmoothFloors.label>床張替</ConstructSmoothFloors.label>
+	<ConstructSmoothFloors.label>床</ConstructSmoothFloors.label>
 	<ConstructSmoothFloors.verb>を床張替</ConstructSmoothFloors.verb>
 	<ConstructSmoothFloors.gerund>を床張替する</ConstructSmoothFloors.gerund>
 
 	<!-- ============= Repair ============= -->
 
 	<FixBrokenDownBuilding.label>復旧</FixBrokenDownBuilding.label>
-	<FixBrokenDownBuilding.verb>を復旧</FixBrokenDownBuilding.verb>
-	<FixBrokenDownBuilding.gerund>を復旧する</FixBrokenDownBuilding.gerund>
+	<FixBrokenDownBuilding.verb>のコンポーネントを交換する</FixBrokenDownBuilding.verb>
+	<FixBrokenDownBuilding.gerund>のコンポーネントを交換する</FixBrokenDownBuilding.gerund>
 
-	<Repair.label>修理</Repair.label>
-	<Repair.verb>を修理</Repair.verb>
+	<Repair.label>壊れた物を修理する</Repair.label>
+	<Repair.verb>を修理する</Repair.verb>
     <Repair.gerund>を修理する</Repair.gerund>
 
-	<DoBillsMedicalMechanoidOperation.label>修理</DoBillsMedicalMechanoidOperation.label>
-	<DoBillsMedicalMechanoidOperation.verb>を修理</DoBillsMedicalMechanoidOperation.verb>
+	<DoBillsMedicalMechanoidOperation.label>メカノイドを修理</DoBillsMedicalMechanoidOperation.label>
+	<DoBillsMedicalMechanoidOperation.verb>を修理する</DoBillsMedicalMechanoidOperation.verb>
     <DoBillsMedicalMechanoidOperation.gerund>を修理する</DoBillsMedicalMechanoidOperation.gerund>
 
   <!-- ============= Growing ============= -->
 
 	<GrowerHarvest.label>収穫</GrowerHarvest.label>
-	<GrowerHarvest.verb>を収穫</GrowerHarvest.verb>
+	<GrowerHarvest.verb>を収穫する</GrowerHarvest.verb>
     <GrowerHarvest.gerund>を収穫する</GrowerHarvest.gerund>
 
 	<GrowerSow.label>播種</GrowerSow.label>
-	<GrowerSow.verb>の播種</GrowerSow.verb>
+	<GrowerSow.verb>の種をまく</GrowerSow.verb>
     <GrowerSow.gerund>の種まきする</GrowerSow.gerund>
 
   <!-- ============= Mining ============= -->
 
-	<Mine.label>掘削</Mine.label>
-	<Mine.verb>を掘削</Mine.verb>
-    <Mine.gerund>を掘削する</Mine.gerund>
+	<Mine.label>採掘</Mine.label>
+	<Mine.verb>を掘る</Mine.verb>
+    <Mine.gerund>を採掘する</Mine.gerund>
 
   <!-- ============= PlantCutting ============= -->
-	<PlantsCut.label>剪断</PlantsCut.label>
-	<PlantsCut.verb>を剪断</PlantsCut.verb>
-    <PlantsCut.gerund>を剪断する</PlantsCut.gerund>
+	<PlantsCut.label>伐採</PlantsCut.label>
+	<PlantsCut.verb>を伐採する</PlantsCut.verb>
+    <PlantsCut.gerund>を伐採する</PlantsCut.gerund>
 
   <!-- ============= Smithing ============= -->
-	<DoBillsMakeWeapons.label>で組立</DoBillsMakeWeapons.label>
-	<DoBillsMakeWeapons.verb>で組立</DoBillsMakeWeapons.verb>
-	<DoBillsMakeWeapons.gerund>で組立る</DoBillsMakeWeapons.gerund>
+	<DoBillsMakeWeapons.label>武器製造</DoBillsMakeWeapons.label>
+	<DoBillsMakeWeapons.verb>で組立る</DoBillsMakeWeapons.verb>
+	<DoBillsMakeWeapons.gerund>で組立する</DoBillsMakeWeapons.gerund>
 
-	<DoBillsMachiningTable.label>作業</DoBillsMachiningTable.label>
-	<DoBillsMachiningTable.verb>で作業</DoBillsMachiningTable.verb>
-	<DoBillsMachiningTable.gerund>で作業する</DoBillsMachiningTable.gerund>
+	<DoBillsMachiningTable.label>機械加工</DoBillsMachiningTable.label>
+	<DoBillsMachiningTable.verb>で機械加工する</DoBillsMachiningTable.verb>
+	<DoBillsMachiningTable.gerund>で機械加工する</DoBillsMachiningTable.gerund>
 
-	<DoBillsComponentAssemblyBench.label>assemble components</DoBillsComponentAssemblyBench.label>
-	<DoBillsComponentAssemblyBench.verb>assemble components</DoBillsComponentAssemblyBench.verb>
-	<DoBillsComponentAssemblyBench.gerund>assemble components</DoBillsComponentAssemblyBench.gerund>
+	<DoBillsComponentAssemblyBench.label>コンポーネント組み立て</DoBillsComponentAssemblyBench.label>
+	<DoBillsComponentAssemblyBench.verb>を組み立てる</DoBillsComponentAssemblyBench.verb>
+	<DoBillsComponentAssemblyBench.gerund>を組み立てする</DoBillsComponentAssemblyBench.gerund>
 
   <!-- ============= Tailoring ============= -->
 	<DoBillsMakeApparel.label>仕立て</DoBillsMakeApparel.label>
-	<DoBillsMakeApparel.verb>で仕立て</DoBillsMakeApparel.verb>
+	<DoBillsMakeApparel.verb>で仕立てる</DoBillsMakeApparel.verb>
 	<DoBillsMakeApparel.gerund>で仕立てる</DoBillsMakeApparel.gerund>
 
   <!-- ============= Art ============= -->
-	<DoBillsSculpt.label>で彫刻</DoBillsSculpt.label>
-	<DoBillsSculpt.verb>で彫刻</DoBillsSculpt.verb>
+	<DoBillsSculpt.label>彫刻</DoBillsSculpt.label>
+	<DoBillsSculpt.verb>で彫る</DoBillsSculpt.verb>
 	<DoBillsSculpt.gerund>で彫刻する</DoBillsSculpt.gerund>
 
   <!-- ============= Crafting ============= -->
-	<DoBillsUseCraftingSpot.label>do bills at crafting spot</DoBillsUseCraftingSpot.label>
-	<DoBillsUseCraftingSpot.verb>do bills at crafting spot</DoBillsUseCraftingSpot.verb>
-	<DoBillsUseCraftingSpot.gerund>do bills at crafting spot</DoBillsUseCraftingSpot.gerund>
+	<DoBillsUseCraftingSpot.label>手工芸加工</DoBillsUseCraftingSpot.label>
+	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
+	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
 
 	<DoBillsStonecut.label>石切</DoBillsStonecut.label>
-	<DoBillsStonecut.verb>で石切</DoBillsStonecut.verb>
+	<DoBillsStonecut.verb>で石切する</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>で石切する</DoBillsStonecut.gerund>
 
-	<DoBillsSmelter.label>で精錬</DoBillsSmelter.label>
-	<DoBillsSmelter.verb>で精錬</DoBillsSmelter.verb>
+	<DoBillsSmelter.label>アイテム溶解</DoBillsSmelter.label>
+	<DoBillsSmelter.verb>で精錬する</DoBillsSmelter.verb>
 	<DoBillsSmelter.gerund>で精錬する</DoBillsSmelter.gerund>
 
   <!-- ============= Hauling ============= -->
 
-	<Refuel.label>Refuel</Refuel.label>
-	<Refuel.verb>Refuel</Refuel.verb>
-	<Refuel.gerund>Refueling</Refuel.gerund>
+	<Refuel.label>燃料補給</Refuel.label>
+	<Refuel.verb>に補給する</Refuel.verb>
+	<Refuel.gerund>に補給する</Refuel.gerund>
 
-	<RearmTraps.label>設置</RearmTraps.label>
-	<RearmTraps.verb>を設置</RearmTraps.verb>
-	<RearmTraps.gerund>を設置する</RearmTraps.gerund>
+	<RearmTraps.label>わなを再設置</RearmTraps.label>
+	<RearmTraps.verb>を再設置する</RearmTraps.verb>
+	<RearmTraps.gerund>を再設置する</RearmTraps.gerund>
 
-	<Strip.label>剥ぐ</Strip.label>
-	<Strip.verb>を剥ぐ</Strip.verb>
-	<Strip.gerund>を剥ぐ</Strip.gerund>
+	<Strip.label>剥く</Strip.label>
+	<Strip.verb>を剥く</Strip.verb>
+	<Strip.gerund>を裸にする</Strip.gerund>
 
 	<Open.label>発掘</Open.label>
-	<Open.verb>を発掘</Open.verb>
+	<Open.verb>を発掘する</Open.verb>
 	<Open.gerund>を発掘する</Open.gerund>
 
 	<DoBillsCremate.label>焼却</DoBillsCremate.label>
-	<DoBillsCremate.verb>で焼却</DoBillsCremate.verb>
+	<DoBillsCremate.verb>で焼却する</DoBillsCremate.verb>
     <DoBillsCremate.gerund>で焼却する</DoBillsCremate.gerund>
 
 	<BuryCorpses.label>埋葬</BuryCorpses.label>
-	<BuryCorpses.verb>を埋葬</BuryCorpses.verb>
+	<BuryCorpses.verb>を埋葬する</BuryCorpses.verb>
     <BuryCorpses.gerund>を埋葬する</BuryCorpses.gerund>
 
 	<HaulCorpses.label>運搬</HaulCorpses.label>
-	<HaulCorpses.verb>を運搬</HaulCorpses.verb>
+	<HaulCorpses.verb>を運ぶ</HaulCorpses.verb>
 	<HaulCorpses.gerund>を運搬する</HaulCorpses.gerund>
 
 	<HaulGeneral.label>運搬</HaulGeneral.label>
-	<HaulGeneral.verb>を運搬</HaulGeneral.verb>
+	<HaulGeneral.verb>を運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>を運搬する</HaulGeneral.gerund>
 
 	<!-- ============= Cleaning ============= -->
 
 	<CleanClearSnow.label>除雪</CleanClearSnow.label>
-	<CleanClearSnow.verb>を除雪</CleanClearSnow.verb>
+	<CleanClearSnow.verb>を除雪する</CleanClearSnow.verb>
 	<CleanClearSnow.gerund>を除雪する</CleanClearSnow.gerund>
 
 	<CleanFilth.label>掃除</CleanFilth.label>
-	<CleanFilth.verb>を掃除</CleanFilth.verb>
+	<CleanFilth.verb>を掃除する</CleanFilth.verb>
     <CleanFilth.gerund>を掃除する</CleanFilth.gerund>
 
 	<Research.label>研究</Research.label>
-	<Research.verb>を研究</Research.verb>
+	<Research.verb>を研究する</Research.verb>
 	<Research.gerund>を研究する</Research.gerund>
 
 </LanguageData>

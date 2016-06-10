@@ -2,7 +2,7 @@
 <LanguageData>
 
 <DesignatorCancel>キャンセル</DesignatorCancel>
-<DesignatorCancelDesc>建物の作成、 採掘、 アイテムの運搬、 食材の収穫など、 指定を 中止します。</DesignatorCancelDesc>
+<DesignatorCancelDesc>指示した、建物の作成、 採掘、 アイテムの運搬、 食材の収穫などを中止します。</DesignatorCancelDesc>
 
 <DesignatorCutPlants>刈り取り</DesignatorCutPlants>
 <DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
@@ -38,26 +38,26 @@
 <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>村のゾーンを指定</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>入植者は 村のゾーン内の 建物を修理し、 掃除します。 火災がおきた時は 村のゾーンのみ 消火します。</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>村のゾーンを 取り消す</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaNoRoofExpand>屋根の 取り外し</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>屋根 取り外し</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします。</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>屋根の 取り外しを 撤回</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClear>屋根 取り外し撤回</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorAreaSnowClearExpand>除雪を指定</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>除雪を取り消す</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>除雪ゾーン 取消</DesignatorAreaSnowClearClear>
   <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します。もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorExpandAreaAllowed>作業ゾーンを指定</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>作業ゾーン</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>作業ゾーンを 取り消す</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>作業ゾーン 取消</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
-  <ManageArea>作業ゾーンの管理</ManageArea>
+  <ManageAreas>作業ゾーンの管理</ManageAreas>
 
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 
@@ -65,7 +65,7 @@
 
 <DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 指定します。\nこのツールで、 ゴミ捨て場を 拡大し 捨てるゴミの 量を 増やすことが できます。</DesignatorZoneCreateStorageDumpingDesc>
 
-<DesignatorZoneDelete>ゾーンを削除する</DesignatorZoneDelete>
+<DesignatorZoneDelete>ゾーン削除</DesignatorZoneDelete>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>領有を主張</DesignatorClaim>
@@ -94,7 +94,7 @@
   <UnchosenStuff>Unchosen material</UnchosenStuff>
 <TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
 <OutOfBounds>範囲外 です。</OutOfBounds>
-<CannotPlaceInUndiscovered>未探索の場所に 配置することは できません。</CannotPlaceInUndiscovered>
+<CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
 <InteractionSpotBlocked>相互作用スポットは遮断されます。</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>相互作用スポットは 領域外です。</InteractionSpotOutOfBounds>
 <InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>

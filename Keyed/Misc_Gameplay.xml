@@ -24,7 +24,7 @@
   <UntreatedLower>未処置</UntreatedLower>
   <DevelopedImmunityLower>免疫をつけている</DevelopedImmunityLower>
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
-  <NextTreatmentAfter>{0} 日後に 再治療が必要です</NextTreatmentAfter>
+  <NextTreatmentIn>{0}時間後に 再治療が必要です</NextTreatmentIn>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
   <Race>人種</Race>
@@ -35,7 +35,7 @@
   <ThingInfo>情報</ThingInfo>
   <DropThing>はずす</DropThing>
   <Rename>命名</Rename>
-  <RenameColonist>入植者のニックネーム</RenameColonist>
+  <RenameColonist>ニックネームの変更</RenameColonist>
   <UnknownLower>身元不明</UnknownLower>
   <On>On</On>
   <Off>Off</Off>

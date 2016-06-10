@@ -5,22 +5,22 @@
 
   <rep>
     <path>Chitchat.stages[0].label</path>
-    <trans>chitchat</trans>
+    <trans>世間話</trans>
   </rep>
 
   <rep>
     <path>DeepTalk.stages[0].label</path>
-    <trans>had deep talk</trans>
+    <trans>込み入った会話</trans>
   </rep>
 
   <rep>
     <path>Slighted.stages[0].label</path>
-    <trans>slighted</trans>
+    <trans>ばかにした</trans>
   </rep>
 
   <rep>
     <path>Insulted.stages[0].label</path>
-    <trans>insulted</trans>
+    <trans>侮辱した</trans>
   </rep>
 
   <!-- Special -->
@@ -39,39 +39,39 @@
 
   <rep>
     <path>HadAngeringFight.stages[0].label</path>
-    <trans>had an angering fight</trans>
+    <trans>カッとなった</trans>
   </rep>
 
   <rep>
     <path>HadCatharticFight.stages[0].label</path>
-    <trans>had a cathartic fight</trans>
+    <trans>鬱憤がたまって喧嘩した。</trans>
   </rep>
 
   <!-- Misc actions affecting opinion -->
 
   <rep>
     <path>HarmedMe.stages[0].label</path>
-    <trans>harmed me</trans>
+    <trans>傷つけられた</trans>
   </rep>
 
   <rep>
     <path>BotchedMySurgery.stages[0].label</path>
-    <trans>botched my surgery</trans>
+    <trans>私の手術でヘマをした。</trans>
   </rep>
 
   <rep>
     <path>KilledMyKin.stages[0].label</path>
-    <trans>killed my kin</trans>
+    <trans>親族が殺された</trans>
   </rep>
 
   <rep>
     <path>RescuedMe.stages[0].label</path>
-    <trans>rescued me</trans>
+    <trans>たすけて</trans>
   </rep>
 
   <rep>
     <path>RecruitedMe.stages[0].label</path>
-    <trans>recruited me</trans>
+    <trans>スカウトして</trans>
   </rep>
 
   <rep>
@@ -81,70 +81,70 @@
 
   <rep>
     <path>SoldMyLovedOne.stages[0].label</path>
-    <trans>loved one sold</trans>
+    <trans>お気に入りを売られた</trans>
   </rep>
   <rep>
     <path>SoldMyLovedOne.stages[0].labelSocial</path>
-    <trans>sold my loved one</trans>
+    <trans>お気に入りを売られた</trans>
   </rep>
   <rep>
     <path>SoldMyLovedOne.stages[0].description</path>
-    <trans>Someone I love was sold to a trader like a piece of meat!</trans>
+    <trans>誰かが、私のお気に入りを、肉でも売るかのように、トレーダーに売ってしまった。</trans>
   </rep>
 
   <rep>
     <path>SoldMyBondedAnimal.stages[0].label</path>
-    <trans>bonded animal sold</trans>
+    <trans>なついている動物が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyBondedAnimal.stages[0].labelSocial</path>
-    <trans>sold my bonded animal</trans>
+    <trans>なついている動物が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyBondedAnimal.stages[0].description</path>
-    <trans>My special bonded animal was sold to a trader!</trans>
+    <trans>私と、特別な絆で結ばれている動物が、トレーダーに売られてしまった。</trans>
   </rep>
 
   <!-- Love -->
 
   <rep>
     <path>CheatedOnMe.stages[0].label</path>
-    <trans>cheater</trans>
+    <trans>浮気</trans>
   </rep>
 
   <rep>
     <path>Rebuffed.stages[0].label</path>
-    <trans>rebuffed</trans>
+    <trans>拒絶した</trans>
   </rep>
 
   <rep>
     <path>FailedRomanceAttempt.stages[0].label</path>
-    <trans>filed romanceattempt</trans>
+    <trans>ふられた</trans>
   </rep>
 
   <rep>
     <path>BrokeUpWithMe.stages[0].label</path>
-    <trans>broke up with me</trans>
+    <trans>わかれた</trans>
   </rep>
 
   <rep>
     <path>DivorcedMe.stages[0].label</path>
-    <trans>divorced me</trans>
+    <trans>離婚した</trans>
   </rep>
 
   <rep>
     <path>RejectedMyProposal.stages[0].label</path>
-    <trans>rejected my proposal</trans>
+    <trans>プロポーズを拒否された</trans>
   </rep>
 
   <rep>
     <path>IRejectedTheirProposal.stages[0].label</path>
-    <trans>I rejected their proposal</trans>
+    <trans>プロポーズを断った</trans>
   </rep>
 
   <rep>
     <path>HoneymoonPhase.stages[0].label</path>
-    <trans>honeymoon phase</trans>
+    <trans>ハネムーン</trans>
   </rep>
 
 </LanguageData>

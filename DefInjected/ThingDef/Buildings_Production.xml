@@ -4,7 +4,7 @@
 	<CraftingSpot.label>作業場</CraftingSpot.label>
     <CraftingSpot.description>ナイフや弓をつくる場所です。</CraftingSpot.description>
 
-    <NutrientPasteDispenser.label>ペーストディスペンサ</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.label>ペースト ディスペンサ</NutrientPasteDispenser.label>
     <NutrientPasteDispenser.description>有機原料から栄養補給ペーストを作ります。料理するのに比べて、より少ない原料と時間で済みます。しかし栄養補給ペーストを好んで食べたがる人は一人も居ません。生の食材は原料になりますが、干し草などの植物は原料になりません。</NutrientPasteDispenser.description>
 
     <Hopper.label>食材ホッパー</Hopper.label>
@@ -17,7 +17,7 @@
 
 	<ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
 	<ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の40%のに作成速度が落ちます。</ElectricTailoringBench.description>
-	<HandTailoringBench.label>手動ミシン台</HandTailoringBench.label>
+	<HandTailoringBench.label>ミシン台</HandTailoringBench.label>
 	<HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、40%程しか作成速度はありません。</HandTailoringBench.description>
 
 	<ElectricSmithy.label>電動工作台</ElectricSmithy.label>
@@ -37,7 +37,7 @@
 	<FueledStove.label>カマド</FueledStove.label>
 	<FueledStove.description>シンプルな、燃料に薪を使った、料理を作るためのコンロです。</FueledStove.description>
 
-	<TableStonecutter.label>ストーンカッター</TableStonecutter.label>
+	<TableStonecutter.label>ストーン カッター</TableStonecutter.label>
 	<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</TableStonecutter.description>
 
 	<Brewery.label>醸造器</Brewery.label>
@@ -51,10 +51,10 @@
 
 	<!-- ========== Non-standard work buildings ==============-->
 
-	<SimpleResearchBench.label>シンプル研究設備</SimpleResearchBench.label>
+	<SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
 	<SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</SimpleResearchBench.description>
 
-	<HiTechResearchBench.label>ハイテク研究設備</HiTechResearchBench.label>
+	<HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
 	<HiTechResearchBench.description>ハイテクなツールなどを研究する机です。ハイテクツールを使うことで、より研究速度が速くなりますが、もっと電力が必要となります。</HiTechResearchBench.description>
 
 	<ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>

@@ -31,7 +31,45 @@
 	<CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>
 
 	<FoodPoisoning.label>食中毒</FoodPoisoning.label>
+
 	<ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
+	<rep>
+		<path>ToxicBuildup.stages[0].label</path>
+		<trans>症状なし</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[1].label</path>
+		<trans>初期</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[2].label</path>
+		<trans>軽度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[3].label</path>
+		<trans>中度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[4].label</path>
+		<trans>重度</trans>
+	</rep>
+	<rep>
+		<path>ToxicBuildup.stages[5].label</path>
+		<trans>極度</trans>
+	</rep>
+
 	<Pregnant.label>妊娠</Pregnant.label>
+	<rep>
+		<path>Pregnant.stages[0].label</path>
+		<trans>自覚なし</trans>
+	</rep>
+	<rep>
+		<path>Pregnant.stages[1].label</path>
+		<trans>中期</trans>
+	</rep>
+	<rep>
+		<path>Pregnant.stages[2].label</path>
+		<trans>臨月</trans>
+	</rep>
 
 </LanguageData>

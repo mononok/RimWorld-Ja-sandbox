@@ -2,7 +2,23 @@
 <LanguageData>
 
     <PrisonerFriendlyChat.label>囚人と会話</PrisonerFriendlyChat.label>
+	<rep>
+		<path>PrisonerFriendlyChat.logRulesInitiator.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]に、このコロニーの良いところを悟らせる。</trans>
+	</rep>
+	<rep>
+		<path>PrisonerFriendlyChat.logRulesRecipient.rulesStrings[0]</path>
+        <trans>logentry->このコロニーの良さについて、[other_nameShortIndef]の話に耳を傾けている。</trans>
+	</rep>
 
     <RecruitAttempt.label>勧誘する</RecruitAttempt.label>
+	<rep>
+		<path>RecruitAttempt.logRulesInitiator.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]を勧誘してみる。</trans>
+	</rep>
+	<rep>
+		<path>RecruitAttempt.logRulesRecipient.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]からの、勧誘について話を聞いている。</trans>
+	</rep>
 
 </LanguageData>

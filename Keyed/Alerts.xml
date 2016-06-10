@@ -8,9 +8,9 @@
 <NeedSawmill>木の板を作る</NeedSawmill>
 <NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
 
-  <PoorMood>良くない雰囲気</PoorMood>
-  <PoorMoodDesc>入植者は良くない雰囲気に飲み込まれていて いつなんどき精神衰弱が起きるかもしれません。\n\n{0}</PoorMoodDesc>
-  <TerribleMood>悪い雰囲気</TerribleMood>
+  <PoorMood>良くないムード</PoorMood>
+  <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱が起きるかもしれません。\n\n{0}</PoorMoodDesc>
+  <TerribleMood>悪いムード</TerribleMood>
   <TerribleMoodDesc>入植者は致命的なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
@@ -44,7 +44,7 @@
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為に 射程の長い武器を持たせることを勧めます。</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為に 射程の長い武器を持たせましょう。</HunterLacksWeaponDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペーストディスペンサー のような栄養供給源が必要です。 "徴兵"されていないことも 確認してください。</StarvationDesc>
@@ -106,8 +106,8 @@
   <AlertHypothermia>低体温症</AlertHypothermia>
   <AlertHypothermiaDesc>入植者は低体温症に罹っています。\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設置しましょう。</AlertHypothermiaDesc>
 
-  <ColonistsAwaitingMedicalOperation>手術を待っています</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な診察台が整っているか確認しましょう、もちろん医者も必要です。</ColonistsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n必要な診察台が整っているか確認しましょう、もちろん医者も必要です。</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>火災発生!</FireInHomeArea>
   <FireInHomeAreaDesc>コロニー内にて火災が発生しています。</FireInHomeAreaDesc>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<JumpToLocation>その場所を 見る</JumpToLocation>
+<JumpToLocation>その場所を見る</JumpToLocation>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>夏が来ます！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。何日もの間、食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます</FirstSummerWarning>
@@ -30,7 +30,7 @@
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
 <BirthdayChronological>今日は {1} {0} の {2} 才の暦の上での誕生日.\n\n\n冷凍睡眠中は歳をとらないので、暦の上での誕生日とは区別します。</BirthdayChronological>
-<BirthdayBiologicalAgeInjuries>今日は {1} {0} の {2} 才の生物学的な誕生日\n\n ですが不幸にも 年齢からくる持病( {3} ) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
+<BirthdayBiologicalAgeInjuries>今日は、{0}の生物学的な{1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
 <NewDisease>{0} は病に倒れました( {1} ) 早く病を克服するには、できる限り安静にして 治療を受けることです。{2}</NewDisease>
@@ -38,7 +38,7 @@
 
   <LetterLabelAncientShrineWarning>遭遇</LetterLabelAncientShrineWarning>
 <AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せた。なぜだか解らないが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>{0}に突き当たった!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>{0}は手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
@@ -65,8 +65,8 @@
   <LetterFamilyMembersTraderShipSlaves>起動上の商人が、入植者か囚人とつながりのある家族のひとりを売りに出しています：</LetterFamilyMembersTraderShipSlaves>
 
   <FamilyLetterAppendedSuffix>(家族)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME は入植者 {0} の家族の一員です。{1} </FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME は囚人 {0} の家族の一員です。{1}</FamilyLetterAppendedTextPrisoner>
+  <FamilyLetterAppendedTextColonist>NAME は入植者 {0} の{1}で、家族の一員です。</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>NAME は囚人 {0} の{1}で、家族の一員です。</FamilyLetterAppendedTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
@@ -87,9 +87,9 @@
   <LetterLabelMentalBreakdown>精神崩壊</LetterLabelMentalBreakdown>
 
   <!-- Bonded animals -->
-  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
+  <LetterLabelBondedAnimalDied>絆で結ばれた動物の死</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{1} と絆で結ばれた {0} が死んだ。この事は、{1}のムードに影響します。</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{2}と絆で結ばれていた、{1}という名前の {0}が死んだ。 この事は、{2}のムードに影響します。 </LetterNamedBondedAnimalDied>
   <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
   <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 

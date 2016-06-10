@@ -37,7 +37,7 @@
 
 	<rep>
 		<path>EnvironmentDark.stages[0].label</path>
-		<trans>まっくら闇</trans>
+		<trans>闇の中にいた</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentDark.stages[0].description</path>
@@ -47,7 +47,7 @@
 
 	<rep>
 		<path>CabinFever.stages[0].label</path>
-		<trans>外の空気を吸いたい</trans>
+		<trans>キャビンフィーバー(軽度)</trans>
 	</rep>
 	<rep>
 		<path>CabinFever.stages[0].description</path>
@@ -55,7 +55,7 @@
 	</rep>
 	<rep>
 		<path>CabinFever.stages[1].label</path>
-		<trans>閉所恐怖症</trans>
+		<trans>キャビンフィーバー(重大)</trans>
 	</rep>
 	<rep>
 		<path>CabinFever.stages[1].description</path>
@@ -65,7 +65,7 @@
 
 	<rep>
 		<path>ApparelDamaged.stages[0].label</path>
-		<trans>すり切れた服</trans>
+		<trans>すり切れた服を着ている</trans>
 	</rep>
 	<rep>
 		<path>ApparelDamaged.stages[0].description</path>
@@ -73,7 +73,7 @@
 	</rep>
 	<rep>
 		<path>ApparelDamaged.stages[1].label</path>
-		<trans>ぼろを着ている</trans>
+		<trans>ボロボロの服を着ている</trans>
 	</rep>
 	<rep>
 		<path>ApparelDamaged.stages[1].description</path>
@@ -135,7 +135,7 @@
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[2].label</path>
-		<trans>非常に熱い</trans>
+		<trans>極度に暑い</trans>
 	</rep>
 	<rep>
 		<path>EnvironmentHot.stages[2].description</path>

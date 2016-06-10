@@ -3,20 +3,20 @@
 
 	<rep>
 		<path>MoodOffsetSanguine.stages[0].label</path>
-		<trans>能天気</trans>
+		<trans>陽気な性格</trans>
 	</rep>
 	<rep>
 		<path>MoodOffsetSanguine.stages[0].description</path>
-		<trans>能天気のボーナス</trans>
+		<trans>陽気な性格がもたらすボーナス</trans>
 	</rep>
 
 	<rep>
 		<path>MoodOffsetOptimist.stages[0].label</path>
-		<trans>楽天主義者</trans>
+		<trans>楽天家</trans>
 	</rep>
 	<rep>
 		<path>MoodOffsetOptimist.stages[0].description</path>
-		<trans>楽天主義者のボーナス</trans>
+		<trans>楽天家の特性がもたらすボーナス</trans>
 	</rep>
 
 	<rep>
@@ -25,7 +25,7 @@
 	</rep>
 	<rep>
 		<path>MoodOffsetPessimist.stages[0].description</path>
-		<trans>悲観主義者のボーナス</trans>
+		<trans>悲観主義な特性がもたらすペナルティ</trans>
 	</rep>
 
 
@@ -35,7 +35,7 @@
 	</rep>
 	<rep>
 		<path>MoodOffsetDepressive.stages[0].description</path>
-		<trans>抑うつ病者のボーナス</trans>
+		<trans>抑うつ病者の特性がもたらすペナルティ</trans>
 	</rep>
 
 </LanguageData>

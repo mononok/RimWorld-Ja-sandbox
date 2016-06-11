@@ -2,124 +2,124 @@
 <LanguageData>
 
 
-<MessageSiegersAssaulting>{0} は {1} から 攻城兵器で コロニーへ 攻撃しました。</MessageSiegersAssaulting>
+	<MessageSiegersAssaulting>{0}の{1}は コロニーへ包囲攻撃します。</MessageSiegersAssaulting>
 
-<MessageRaidersBeginningAssault>{0}の{1}は、襲撃開始しました。</MessageRaidersBeginningAssault>
-<MessageRaidersDetectedEarlyAssault>{0}の{1}は、 斥候を発見したので、 急きょ襲撃を はやめました。</MessageRaidersDetectedEarlyAssault>
-<MessageRaidersKidnapping>{0}の{1}は、誰かを誘拐することに決めました。</MessageRaidersKidnapping>
+	<MessageRaidersBeginningAssault>{0}の{1}は 襲撃を開始します。</MessageRaidersBeginningAssault>
+	<MessageRaidersDetectedEarlyAssault>{0}の{1}は あなたの斥候を発見したので、 襲撃を早めます。</MessageRaidersDetectedEarlyAssault>
+	<MessageRaidersKidnapping>{0}の{1}は 誰かを連れ去って離れることに決めました。</MessageRaidersKidnapping>
 
-<MessageRaidersLeaving>{0}の{1}は、離れました。</MessageRaidersLeaving>
-<MessageRaidersGivenUpLeaving>{0}の{1}は、襲撃を諦め 離れました。</MessageRaidersGivenUpLeaving>
-<MessageRaidersSatisfiedLeaving>{0}の{1}は、損害に満足し離れました。</MessageRaidersSatisfiedLeaving>
+	<MessageRaidersLeaving>{0}の{1}は 離れました。</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め 離脱します。</MessageRaidersGivenUpLeaving>
+	<MessageRaidersSatisfiedLeaving>{0}の{1}は 成果に満足し離脱します。</MessageRaidersSatisfiedLeaving>
 
-<MessageFightersFleeing>{0}の{1}は、逃げています。</MessageFightersFleeing>
-<MessageFriendlyFightersLeaving>優しい {0}の{1}は、離れていきました。</MessageFriendlyFightersLeaving>
+	<MessageFightersFleeing>{0}の{1}は 逃げています。</MessageFightersFleeing>
+	<MessageFriendlyFightersLeaving>友軍{0}の{1}は 離脱します。</MessageFriendlyFightersLeaving>
 
-  <MessageVisitorsTakingWounded>{0} は {1} のけが人をゲストとして迎えました。</MessageVisitorsTakingWounded>
+	<MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます。</MessageVisitorsTakingWounded>
 
-  <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+	<MessageWornApparelDeterioratedAway>{1}が身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
 
-<MessageSeasonBegun>{0}の季節が、始まりました。</MessageSeasonBegun>
+	<MessageSeasonBegun>{0}の季節が、始まりました。</MessageSeasonBegun>
 
-<MessageShipHasLeftCommsRange>{0}は、通信範囲から離れました。</MessageShipHasLeftCommsRange>
+	<MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
 
-<MessageBillComplete>作業終了：{0}</MessageBillComplete>
+	<MessageBillComplete>作業終了：{0}</MessageBillComplete>
 
-<MessageFullyHealed>{0}の けがは 完治 しました。</MessageFullyHealed>
+	<MessageFullyHealed>{0}の けがは 完治 しました。</MessageFullyHealed>
 
-<MessagePrisonerIsEscaping>囚人 {0} は 逃げ出しています。</MessagePrisonerIsEscaping>
+	<MessagePrisonerIsEscaping>囚人{0} は逃げ出しています。</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
+	<MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>【警告】{0}は、ときには怪我を負うと攻撃されたとみなします。</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>【警告】{0}は、手なずけるのに失敗したとき、襲ってくる可能性があります。(成功率 {1} )</MessageAnimalManhuntsOnTameFailed>
+	<MessageAnimalsGoPsychoHunted>【警告】{0}は 危害を加えられると攻撃されたとみなします。</MessageAnimalsGoPsychoHunted>
+	<MessageAnimalManhuntsOnTameFailed>【警告】{0}は 手なずけるのに失敗したとき、襲ってくる可能性があります。(成功率 {1})</MessageAnimalManhuntsOnTameFailed>
 
-  <LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
-<MessageRecruitSuccess>{0} は 囚人 {1} を 村に 迎えました。（成功率 {2} ）</MessageRecruitSuccess>
-<MessageRecruitFail>{0} は 囚人 {1} の 説得に 失敗しました。（成功率 {2} ）</MessageRecruitFail>
-<MessageRecruitFailBecauseLoyalty>{0} は 囚人 {1} の 説得に 失敗しました。（囚人の 忠誠心が たりません）</MessageRecruitFailBecauseLoyalty>
-  <MessageTameSuccess>{0} は {1}を手なずけました。(成功率 {2} )</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} は {1}を手なずけました。(成功率 {2} ) そして {3}と名づけました。</MessageTameAndNameSuccess>
+	<LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
+	<MessageRecruitSuccess>{0}は 囚人{1}を 村に迎えました(成功率 {2})。</MessageRecruitSuccess>
+	<MessageRecruitFail>{0}は 囚人{1}の説得に 失敗しました(成功率 {2})。</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0}は 囚人{1}の説得に 失敗しました(囚人のムードが低い {0}）。</MessageRecruitFailBecauseLoyalty>
+	<MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2})。</MessageTameSuccess>
+	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして {3}と名づけました。</MessageTameAndNameSuccess>
 
 
-<MessageColonyCannotAfford>コロニーは、この取り引きに十分な アイテムが 足りない。</MessageColonyCannotAfford>
-<MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
+	<MessageColonyCannotAfford>コロニーは、この取り引きに十分な アイテムが 足りない。</MessageColonyCannotAfford>
+	<MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
 
-<MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
+	<MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
 
-<MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestable>
-<MessageMustDesignateHarvestableWood>木材として 十分に成長した 木を 指定してください。</MessageMustDesignateHarvestableWood>
-<MessageMustDesignatePlants>植物を 指定してください。</MessageMustDesignatePlants>
-<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
-<MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
-<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>手なずける動物を指定してください。</MessageMustDesignateTameable>
-<MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
-<MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
-  <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません。</MessageNothingCanRemoveThickRoofs>
-  <MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます。</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください。</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>手なずけてある動物を指定してください。</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください。</MessageMustDesignateOpenable>
+	<MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestable>
+	<MessageMustDesignateHarvestableWood>木材として 十分に成長した 木を 指定してください。</MessageMustDesignateHarvestableWood>
+	<MessageMustDesignatePlants>植物を 指定してください。</MessageMustDesignatePlants>
+	<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
+	<MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
+	<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
+	<MessageMustDesignateTameable>手なずける 動物を 指定してください。</MessageMustDesignateTameable>
+	<MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
+	<MessageMustDesignateSmoothableFloor>RoughStoneな 床を 指定してください。</MessageMustDesignateSmoothableFloor>
+	<MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません。</MessageNothingCanRemoveThickRoofs>
+	<MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます。</MessageAlreadyInStorage>
+	<MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください。</MessageMustDesignateStrippable>
+	<MessageMustDesignateSlaughterable>手なずけてある動物を指定してください。</MessageMustDesignateSlaughterable>
+	<MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください。</MessageMustDesignateOpenable>
 
-  <MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
+	<MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
 
-<MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
-<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
+	<MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
+	<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
 
-<PawnDiedBecauseOf>{1} によって、{0} は命を落とした。</PawnDiedBecauseOf>
+	<PawnDiedBecauseOf>{1}によって、{0}は命を落とした。</PawnDiedBecauseOf>
 
-<MessageNoLongerDowned>{0} は 自由に歩き回れるようになった。</MessageNoLongerDowned>
+	<MessageNoLongerDowned>{0}は 自由に歩き回れるようになった。</MessageNoLongerDowned>
 
-  <MessageInvoluntarySleep>{0}は極度の疲労によって衰弱した。</MessageInvoluntarySleep>
+	<MessageInvoluntarySleep>{0}は、極度の疲労によって衰弱した。</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureCatastrophic>{0} は {1} の手術中に 致命的なミスをおかした。</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureMinor>{0} は {1} の手術中に 些細なミスをした。</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスをおかした。</MessageMedicalOperationFailureCatastrophic>
+	<MessageMedicalOperationFailureMinor>{0}は {1}の手術中に 些細なミスをした。</MessageMedicalOperationFailureMinor>
 
-  <MessageMedicalOperationWillAngerFaction>この手術は、{0} を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
+	<MessageMedicalOperationWillAngerFaction>この手術は、{0}を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>{0}は元気になって出ていきました。{1}との関係は良くなりました。{2}</MessagePawnExitMapRelationsGain>
+	<MessagePawnExitMapRelationsGain>{0}は 元気になって出ていきました。{1}との関係は良くなりました。{2}</MessagePawnExitMapRelationsGain>
 
-  <MessageMiscarriedStarvation>{0} は飢えにより流産した。</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} は体調不良により流産した。</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>{0} は出産した。</MessageGaveBirth>
+	<MessageMiscarriedStarvation>{0}は 飢えにより流産した。</MessageMiscarriedStarvation>
+	<MessageMiscarriedPoorHealth>{0}は 体調不良により流産した。</MessageMiscarriedPoorHealth>
+	<MessageGaveBirth>{0}は 出産した。</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{1} が懐いたので、{0} は {2}と名づけた。</MessageNuzzledPawnGaveNameTo>
+	<MessageNuzzledPawnGaveNameTo>{1} が懐いたので、{0} は {2}と名づけた。</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
+	<MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
 
-  <MessageEatenByPredator>{0} は、{1} に食べられた。</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} は、{1} から攻撃を受けた! </MessageAttackedByPredator>
+	<MessageEatenByPredator>{0}は {1}に食べられた。</MessageEatenByPredator>
+	<MessageAttackedByPredator>{0}は {1}から攻撃を受けた! </MessageAttackedByPredator>
 
-  <MessageHiveReproduced>虫の巣は、自己再生成した。</MessageHiveReproduced>
+	<MessageHiveReproduced>虫の巣は、自己再生成した。</MessageHiveReproduced>
 
-  <MessageTraderCaravanLeaving>{0} トレーダーの一行は 離れていった。</MessageTraderCaravanLeaving>
+	<MessageTraderCaravanLeaving>{0} トレーダーの一行は 離れていった。</MessageTraderCaravanLeaving>
 
-  <MessageCantSelectDeadFamilyMember>{0} は亡くなった。</MessageCantSelectDeadFamilyMember>
-  <MessageCantSelectOffMapFamilyMember>{0} は出て行った。</MessageCantSelectOffMapFamilyMember>
+	<MessageCantSelectDeadFamilyMember>{0}は 亡くなった。</MessageCantSelectDeadFamilyMember>
+	<MessageCantSelectOffMapFamilyMember>{0}は 出て行った。</MessageCantSelectOffMapFamilyMember>
 
-  <MessageSocialFight>{0} は、{1}とケンカを始めた。(理由: {2})</MessageSocialFight>
+	<MessageSocialFight>{0}は {1}とケンカを始めた。(理由: {2})</MessageSocialFight>
 
-  <MessageNewMarriageCeremony>入植者たちは、{0} と {1} の結婚式を祝うために集った。</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} と {1} の結婚式が始まった!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>{0} と {1} の結婚式は、お流れになってしまった。</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} と {1} は家庭を持った。入植者たちは、この出来事を喜んでいる。</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>{0} と {1} との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
+	<MessageNewMarriageCeremony>入植者たちは、{0}と {1}の結婚式を祝うために集った。</MessageNewMarriageCeremony>
+	<MessageMarriageCeremonyStarts>{0}と {1}の結婚式が始まった!</MessageMarriageCeremonyStarts>
+	<MessageMarriageCeremonyCalledOff>{0}と {1}の結婚式は、お流れになってしまった。</MessageMarriageCeremonyCalledOff>
+	<MessageNewlyMarried>{0}と {1}は家庭を持った。入植者たちは、この出来事を喜んでいる。</MessageNewlyMarried>
+	<MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
-  <MessageNewBondRelation>{0} と {1} は、絆で結ばれた。</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} と {1} は、絆で結ばれた。{1} の姓は、{2}となります。</MessageNewBondRelationNewName>
+	<MessageNewBondRelation>{0}と {1}は絆で結ばれた。</MessageNewBondRelation>
+	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。{1}の姓は、{2}となります。</MessageNewBondRelationNewName>
 
-  <MessageBondedAnimalMentalBreak>{0} は、{1}の死がきっかけで、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{1} と名づけられた {0} は、{2}の死がきっかけで、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} は、{1}の死がきっかけで、精神崩壊を起こした。</MessageBondedAnimalsMentalBreak>
+	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけに、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
+	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけに、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
+	<MessageBondedAnimalsMentalBreak>{0}たちは {1}の死をきっかけに、精神崩壊を起こした。</MessageBondedAnimalsMentalBreak>
 
-  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+	<MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
 
-  <MessageShipChunkDrop>空から宇宙船の残骸が、この近辺に落ちてきます。</MessageShipChunkDrop>
+	<MessageShipChunkDrop>宇宙船の残骸が、空から、この近辺に落ちてきます。</MessageShipChunkDrop>
 
-  <MessagePartyCalledOff>パーティは、お流れになった。</MessagePartyCalledOff>
-  <MessagePartyFinished>パーティが終わった</MessagePartyFinished>
+	<MessagePartyCalledOff>パーティは、中止になった。</MessagePartyCalledOff>
+	<MessagePartyFinished>パーティが終わった</MessagePartyFinished>
 
 </LanguageData>

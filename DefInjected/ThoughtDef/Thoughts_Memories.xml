@@ -297,7 +297,16 @@
   </rep>
   <rep>
     <path>ButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>人肉を動物のように切り捌いた。</trans>
+    <trans>私は人肉を動物のように切り捌いた。</trans>
+  </rep>
+
+  <rep>
+    <path>KnowButcheredHumanlikeCorpse.stages[0].label</path>
+    <trans>人肉を捌いた</trans>
+  </rep>
+  <rep>
+    <path>KnowButcheredHumanlikeCorpse.stages[0].description</path>
+    <trans>私たちは人肉を動物のように切り捌いた。</trans>
   </rep>
 
 	<!-- Combat -->

@@ -21,8 +21,8 @@
   <!-- Date periods -->
 	<Period1Year>1 年</Period1Year>
   <PeriodYears>{0} 年</PeriodYears>
-  <Period1Month>1 月</Period1Month>
-  <PeriodMonths>{0} 月</PeriodMonths>
+  <Period1Month>1 シーズン</Period1Month>
+  <PeriodMonths>{0} シーズン</PeriodMonths>
   <Period1Day>1 日</Period1Day>
   <PeriodDays>{0} 日</PeriodDays>
   <Period1Hour>1 時間</Period1Hour>
@@ -32,6 +32,5 @@
   <Started>開始</Started>
   <Lasted>終了</Lasted>
   <OccurredTimeAgo>{0} 前</OccurredTimeAgo>
-
 
 </LanguageData>

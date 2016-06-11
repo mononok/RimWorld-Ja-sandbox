@@ -42,17 +42,17 @@
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
   <MentalStateLetterLabel>精神状態</MentalStateLetterLabel>
-  <MilkFullness>搾乳可</MilkFullness>
-  <WoolGrowth>毛刈り可</WoolGrowth>
-  <EggProgress>採卵可</EggProgress>
+  <MilkFullness>乳量</MilkFullness>
+  <WoolGrowth>毛長さ</WoolGrowth>
+  <EggProgress>卵成長</EggProgress>
   <Fertilized>受精した</Fertilized>
   <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
 <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
 	<EggDamagedEmbryo>損傷した胚</EggDamagedEmbryo>
 	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
 <HiveReproducesIn>Reproduces in</HiveReproducesIn>
-<BrokenDown>Broken down</BrokenDown>
-<BondBrackets>(bond)</BondBrackets>
+<BrokenDown>故障中</BrokenDown>
+<BondBrackets>(絆)</BondBrackets>
 	<Fuel>燃料</Fuel>
 
   <!--TextMotes-->
@@ -338,8 +338,8 @@
   <InactiveFacility>閉鎖</InactiveFacility>
 
 	<!-- Hediffs growth modes -->
-<DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
-<DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
-<DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+	<DiseaseGrowthModeChanged_Growing>{0}の {1}は 進行している。</DiseaseGrowthModeChanged_Growing>
+	<DiseaseGrowthModeChanged_Stable>{0}の {1}は 安定している。</DiseaseGrowthModeChanged_Stable>
+	<DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している。</DiseaseGrowthModeChanged_Remission>
 
 </LanguageData>

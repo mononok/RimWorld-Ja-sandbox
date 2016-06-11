@@ -38,6 +38,7 @@
 
   <LetterLabelAncientShrineWarning>遭遇</LetterLabelAncientShrineWarning>
 <AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せた。なぜだか解らないが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
+
   <StruckMineable>{0}に突き当たった!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
@@ -48,11 +49,11 @@
   <LetterFriendlyTrapSprungLabel>{0} 罠にひかっかった</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} は不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
   <LetterHealthComplications>{0} は、{2} の合併症で、{1} を患った。</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
 
-  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
   <LetterHediffFromRandomHediffGiver>{0} は、{1} の病におかされた。</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <LetterLeadersDeathLabel>リーダーの死</LetterLeadersDeathLabel>
   <LetterLeadersDeath>{1} のリーダー {0} は死に、代わりに {2} が、その地位についた。</LetterLeadersDeath>
@@ -79,7 +80,6 @@
   <LetterAcceptedProposal>{1} は、{0} からのプロポーズを受け留めました。\n\nあなたが、婚姻の儀式を行う場所(marrige point)を決めさえすれば、季節が流れたある時期に、彼らは、全ての入植者に招待状を出して、そこで結婚式を行うでしょう。</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} は、{0} からのプロポーズを断りました。{0} は失恋の傷を負います。</LetterRejectedProposal>
 
-
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>吉報</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>悪報</LetterLabelRelationsChangeBad>
@@ -90,8 +90,8 @@
   <LetterLabelBondedAnimalDied>絆で結ばれた動物の死</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{1} と絆で結ばれた {0} が死んだ。この事は、{1}のムードに影響します。</LetterBondedAnimalDied>
   <LetterNamedBondedAnimalDied>{2}と絆で結ばれていた、{1}という名前の {0}が死んだ。 この事は、{2}のムードに影響します。 </LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterBondedAnimalDiedMulti>{0}は死んだ。この事は、次の人々のムードに影響します:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0}と名付けられた {1}が死にました。この事は、次の人々のムードに影響します:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>

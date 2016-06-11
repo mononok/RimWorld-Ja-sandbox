@@ -15,14 +15,14 @@
 
 <OutOfRange>範囲外</OutOfRange>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <IsIncapableOfViolenceLower>{0}は 野蛮なことはできません</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
 <CannotFight>{0}は 戦えない</CannotFight>
 
 <OrderManThing>Man {0}</OrderManThing>
 
 <MeleeAttack>{0}と 闘かう</MeleeAttack>
-<MeleeAttackToDeath>{0} を格闘で殺害する</MeleeAttackToDeath>
+<MeleeAttackToDeath>{0}を 格闘で殺害する</MeleeAttackToDeath>
 <NoPath>道順が無い</NoPath>
 
 <ForbiddenLower>無視</ForbiddenLower>
@@ -48,7 +48,7 @@
 <GoHere>ここに移動する</GoHere>
 
 <Arrest>{0}を 逮捕する</Arrest>
-  <TryToArrest>{0} の逮捕を試みる</TryToArrest>
+  <TryToArrest>{0}の逮捕を試みる</TryToArrest>
 <CannotArrest>逮捕できない</CannotArrest>
 
 <Capture>{0}を 捕獲する</Capture>
@@ -93,7 +93,7 @@
   <NotInjured>完治した</NotInjured>
   <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
 
-  <TradeWith>{0} とトレード</TradeWith>
+  <TradeWith>{0}と トレード</TradeWith>
   <CannotTrade>トレードできない</CannotTrade>
 
 <!-- Specific thing interactions -->

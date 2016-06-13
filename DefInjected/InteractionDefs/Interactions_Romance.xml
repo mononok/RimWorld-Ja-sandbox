@@ -2,9 +2,33 @@
 <LanguageData>
 
     <RomanceAttempt.label>誘惑する</RomanceAttempt.label>
+	<rep>
+		<path>RomanceAttempt.logRulesInitiator.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]は、お付き合いしようと口説いている。</trans>
+	</rep>
+	<rep>
+		<path>RomanceAttempt.logRulesRecipient.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]口説かれている。</trans>
+	</rep>
 
     <Breakup.label>別れ</Breakup.label>
+	<rep>
+		<path>Breakup.logRulesInitiator.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]は別れた。</trans>
+	</rep>
+	<rep>
+		<path>Breakup.logRulesRecipient.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]に振られた。</trans>
+	</rep>
 
     <MarriageProposal.label>プロポーズ</MarriageProposal.label>
+	<rep>
+		<path>MarriageProposal.logRulesInitiator.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]は結婚を申し込んだ。</trans>
+	</rep>
+	<rep>
+		<path>MarriageProposal.logRulesRecipient.rulesStrings[0]</path>
+        <trans>logentry->[other_nameShortIndef]にプロポーズされた。</trans>
+	</rep>
 
 </LanguageData>

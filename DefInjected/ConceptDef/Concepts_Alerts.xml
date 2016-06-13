@@ -12,13 +12,13 @@
 	<Stockpiles.label>備蓄ゾーン</Stockpiles.label>
 	<rep>
 		<path>Stockpiles.helpTexts[0]</path>
-		<trans>入植者達には、アイテムを保管する場所が、どこかに必要です。アイテムを保管する備蓄ゾーンを指示します。\n\n備蓄ゾーンは、左下にあるアーキテクトメニューの"ゾーン"セクションの中にあります。</trans>
+		<trans>入植者達には、どこかにアイテムを保管する場所が必要です。アイテムを保管する備蓄ゾーンを指示します。\n\n備蓄ゾーンは、左下にあるアーキテクトメニューの"ゾーン"セクションの中にあります。</trans>
 	</rep>
 
 	<GrowingFood.label>農業ゾーン</GrowingFood.label>
 	<rep>
 		<path>GrowingFood.helpTexts[0]</path>
-		<trans>作物を作るには、アーキテクトメニュー内の農業ゾーンを配置します。\n\n豊かな土壌だけに配置できます。</trans>
+		<trans>作物を作るには、アーキテクトメニュー内の農業ゾーンを配置します。\n\n肥えた土だけに配置できます。</trans>
 	</rep>
 
 	<!-- Timed concepts -->
@@ -55,7 +55,7 @@
 	<SpacePause.label>一時停止</SpacePause.label>
 	<rep>
 		<path>SpacePause.helpTexts[0]</path>
-		<trans>スペースキーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事で慌てる前に "スペースキー" を押すことを忘れないでください。</trans>
+		<trans>スペースキーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事がおきて慌てる前に "スペースキー" を押すことを忘れないでください。</trans>
 	</rep>
 
 	<StorageTab.label>保管の設定</StorageTab.label>

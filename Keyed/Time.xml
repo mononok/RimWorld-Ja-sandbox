@@ -15,14 +15,14 @@
 <SeasonWinter>冬</SeasonWinter>
 
   <Born>生年月日: {0}</Born>
-  <AgeChronological>暦の上での年齢: {0}歳 {1} {2}日</AgeChronological>
-  <AgeBiological>生物学的年齢: {0}歳 {1} {2}日</AgeBiological>
+  <AgeChronological>暦の上での年齢: {0}歳 {1}節 {2}日</AgeChronological>
+  <AgeBiological>生物学的年齢: {0}歳 {1}節 {2}日</AgeBiological>
 
   <!-- Date periods -->
 	<Period1Year>1 年</Period1Year>
   <PeriodYears>{0} 年</PeriodYears>
-  <Period1Month>1 シーズン</Period1Month>
-  <PeriodMonths>{0} シーズン</PeriodMonths>
+  <Period1Season>1 シーズン</Period1Season>
+  <PeriodSeasons>{0} シーズン</PeriodSeasons>
   <Period1Day>1 日</Period1Day>
   <PeriodDays>{0} 日</PeriodDays>
   <Period1Hour>1 時間</Period1Hour>

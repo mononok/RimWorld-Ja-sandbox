@@ -3,15 +3,15 @@
 
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[human_nameShortDef]'s bonding with [animal_nameShortDef]</trans>
+		<trans>tale_noun->[human_nameShortDef]と[animal_nameShortDef]が絆で結ばれる</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull] bonding with [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]と絆を結んだ。</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull] forming a deep bond with [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]と、深い絆を結んだ。</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  3]</path>
@@ -19,85 +19,85 @@
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  4]</path>
-		<trans>circumstance_phrase->while other animals look on</trans>
+		<trans>circumstance_phrase->他の動物たちが見ているなか</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->while looking into [animal_nameShortDef]'s eyes</trans>
+		<trans>circumstance_phrase->[animal_nameShortDef]の眼を覗き込みながら</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->with a sense of satisfaction</trans>
+		<trans>circumstance_phrase->満足感と共に</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  7]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is snuggling up against [human_nameShortDef].</trans>
+		<trans>desc_sentence->[animal_nameShortDef]が[human_nameShortDef]に向かって擦り寄ってくる。</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は恋の美酒に酔いしれて眠そうにみえる。</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[animal_nameShortDef] stands tall and looks noble.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は気高く気をつけする。</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is responding positively.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、積極的に反応する。</trans>
 	</rep>
 
     <!-- BecameLover -->
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[firstPawn_nameShortDef] and [secondPawn_nameShortDef] becoming lovers</trans>
+		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]が恋人になる</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull] whispering sweet nothings into [secondPawn_nameFull]'s ear [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]の耳に甘い言葉を囁いた。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull] leading [secondPawn_nameFull] by the hand into bed [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]の手を取りベッドの中に潜り込んだ。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull] gambolling in bed with [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]とベッドの上で飛び跳ねた。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull] deeply kissing [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]とディープキスをした。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->in an unrealistically large bed</trans>
+		<trans>circumstance_phrase->非現実的な大きなベッドで</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->between the sheets</trans>
+		<trans>circumstance_phrase->アハハ、ウフフの中で</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->with few clothes in sight</trans>
+		<trans>circumstance_phrase->あたり一面に服を脱ぎ散らかした中で</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->while both are drenched in sweat</trans>
+		<trans>circumstance_phrase->二人共に汗にまみれたなかで</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、[secondPawn_nameShortDef]に向かって擦り寄っていく。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、[secondPawn_nameShortDef]の眼を見つめている。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is blowing air at [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、[secondPawn_nameShortDef]とあえいでいる。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、文体的には[secondPawn_nameShortDef]と絆で結ばれる。</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[ 13]</path>
@@ -105,109 +105,109 @@
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、積極的に[secondPawn_nameShortDef]に触れている。</trans>
 	</rep>
 
 
     <!-- Breakup -->
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the breakup of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</trans>
+		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]の別れ</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull] sitting [secondPawn_nameFull] down for an unpleasant talk [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、嫌な話をするために[secondPawn_nameFull]のそばに腰を下ろす。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull] standing at a distance from [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]から距離をおいて立っている。 </trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull] pushing [secondPawn_nameFull] out of bed [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]をベッドから突き飛ばす。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull] rejecting a hug from [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、抱き合う[secondPawn_nameFull]を振りほどく。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->in a moment of great sadness</trans>
+		<trans>circumstance_phrase->たちまち大きな悲しみに暮れて</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->as others look away awkwardly</trans>
+		<trans>circumstance_phrase->変に他に視線を反らして</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->as others look on</trans>
+		<trans>circumstance_phrase->遠くをみながら</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[secondPawn_nameShortDef] is sobbing uncontrollably.</trans>
+		<trans>desc_sentence->[secondPawn_nameShortDef]は、抑えきれずにすすり泣いている。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[secondPawn_nameShortDef] is sneering and crying at the same time.</trans>
+		<trans>desc_sentence->[secondPawn_nameShortDef]は、うすら笑いと一緒に、泣き叫んでいる。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[secondPawn_nameShortDef] is stony-faced with shock.</trans>
+		<trans>desc_sentence->[secondPawn_nameShortDef]は、ショックのあまり無表情になっている。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is stylistically separated from [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、文体的には[secondPawn_nameShortDef]と別れる。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[secondPawn_nameShortDef] has collapsed on the floor in a quivering heap.</trans>
+		<trans>desc_sentence->[secondPawn_nameShortDef]は、わなわなと床に崩れ落ちた。</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[secondPawn_nameShortDef] is gesticulating angrily at [firstPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[secondPawn_nameShortDef]は、身振り手振りで怒りを[firstPawn_nameShortDef]に伝えた。</trans>
 	</rep>
 
 
     <!-- Marriage -->
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the marriage of [firstPawn_nameShortDef] and [secondPawn_nameShortDef]</trans>
+		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]の結婚</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull] marrying [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と結婚する。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull] saying [firstPawn_possessive] marriage vows to [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と結婚することを、[firstPawn_possessive]宣言する。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull] walking down the aisle with [secondPawn_nameFull] [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と一緒にバージンロードを歩いている。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull] holding hands [secondPawn_nameFull] during a marriage ceremony [circumstance_group]</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、結婚式の間中、[secondPawn_nameFull]を離さない。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->in a dignified ceremony</trans>
+		<trans>circumstance_phrase->品位のあるセレモニーの中で</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->while both laugh gaily</trans>
+		<trans>circumstance_phrase->共に陽気に笑いながら</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->while others look on solemnly</trans>
+		<trans>circumstance_phrase->厳粛な雰囲気の中</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is snuggling up against [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、[secondPawn_nameShortDef]に擦り寄ってくる。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is locking eyes with [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、[secondPawn_nameShortDef]に眼を奪われる。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[ 10]</path>
@@ -215,7 +215,7 @@
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is stylistically bonded with [secondPawn_nameShortDef].</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、文体的には[secondPawn_nameShortDef]と絆で結ばれる。</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[ 12]</path>
@@ -223,7 +223,7 @@
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[firstPawn_nameShortDef] is touching [secondPawn_nameShortDef] aggressively.</trans>
+		<trans>desc_sentence->[firstPawn_nameShortDef]は、積極的に[secondPawn_nameShortDef]に触れている。</trans>
 	</rep>
 
 </LanguageData>

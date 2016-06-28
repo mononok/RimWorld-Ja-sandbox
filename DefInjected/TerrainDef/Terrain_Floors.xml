@@ -11,10 +11,10 @@
 	<GoldTile.description>床の素材の中では、もっとも美しく深い感銘を与えます。非常に高価で、製作にはたくさんの資源と労力を必要とします。</GoldTile.description>
 
 	<SterileTile.label>抗菌タイル</SterileTile.label>
-	<SterileTile.description>抗菌タイルは部屋を清潔に保ちます。病院などで患者を感染から防ぐのに有効です。見た目は普通ですが、製作に時間がかかります。</SterileTile.description>
+	<SterileTile.description>抗菌タイルは部屋を清潔に保つのに役立ちます。病院において患者を日和見感染から防ぐのに非常に有効です。見た目は普通ですが、作るのはとてもゆっくりです。</SterileTile.description>
 
 	<PavedTile.label>コンクリ 舗装タイル</PavedTile.label>
-	<PavedTile.description>実用本位のコンクリートタイル。安価で、人が動きやすく、見た目も普通ですが、製作に時間がかかります。</PavedTile.description>
+	<PavedTile.description>実用本位のコンクリートタイル。安価で人が動きやすく、見た目も普通ですが、作るのはゆっくりです。</PavedTile.description>
 
 	<Concrete.label>コンクリート打ちっ放し</Concrete.label>
 	<Concrete.description>早く造成されたコンクリート床。早く歩けて、安価ですが、急いで造成するので、見た目が悪いです。</Concrete.description>
@@ -39,6 +39,27 @@
     <CarpetDark.description>プロフェッショナルな質感の濃い灰色絨毯です。</CarpetDark.description>
 
     <!-- ================= Foundation solids ================= -->
+  <!-- Special: Floors from stones -->
+
+  <Sandstone_Rough.label>荒い砂岩</Sandstone_Rough.label>
+  <Sandstone_RoughHewn.label>？な砂岩</Sandstone_RoughHewn.label>
+  <Sandstone_Smooth.label>滑らかな砂岩</Sandstone_Smooth.label>
+
+  <Granite_Rough.label>荒い花崗岩</Granite_Rough.label>
+  <Granite_RoughHewn.label>？な花崗岩</Granite_RoughHewn.label>
+  <Granite_Smooth.label>滑らかな花崗岩</Granite_Smooth.label>
+
+  <Limestone_Rough.label>荒い石灰岩</Limestone_Rough.label>
+  <Limestone_RoughHewn.label>？な石灰岩</Limestone_RoughHewn.label>
+  <Limestone_Smooth.label>滑らかな石灰岩</Limestone_Smooth.label>
+
+  <Slate_Rough.label>荒い粘板岩</Slate_Rough.label>
+  <Slate_RoughHewn.label>？な粘板岩</Slate_RoughHewn.label>
+  <Slate_Smooth.label>滑らかな粘板岩</Slate_Smooth.label>
+
+  <Marble_Rough.label>荒い大理石</Marble_Rough.label>
+  <Marble_RoughHewn.label>？な大理石</Marble_RoughHewn.label>
+  <Marble_Smooth.label>滑らかな大理石</Marble_Smooth.label>
 
 
 

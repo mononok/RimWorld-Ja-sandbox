@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- WEAPON -->
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  0]</path>
 		<trans>art_name->[badassconcept]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  1]</path>
-		<trans>art_name->The [badassanimal]</trans>
+		<trans>art_name->[badassanimal]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  2]</path>
@@ -15,37 +16,38 @@
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  3]</path>
-		<trans>art_name->[badasscolor] [badassanimal]</trans>
+		<trans>art_name->[badasscolor]の[badassanimal]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  4]</path>
-		<trans>art_name->[badassconcept] [badasscolor]</trans>
+		<trans>art_name->[badassconcept]の[badasscolor]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  5]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [badassconcept]</trans>
+		<trans>art_name->[anyPawn_nameShort]達の[badassconcept]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  6]</path>
-		<trans>art_name->[badassconcept] of [anyPawn_nameShort]</trans>
+		<trans>art_name->[anyPawn_nameShort]の[badassconcept]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  7]</path>
-		<trans>art_name->[badasscolor] [anyPawn_nameShort]</trans>
+		<trans>art_name->[badasscolor]の[anyPawn_nameShort]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  8]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [badassanimal]</trans>
+		<trans>art_name->[anyPawn_nameShort]達の[badassanimal]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Weapon.rulePack.rulesStrings[  9]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [badassperson]</trans>
+		<trans>art_name->[anyPawn_nameShort]達の[badassperson]</trans>
 	</rep>
 
 
+	<!-- SCULPTURE -->
     <rep>
 		<path>ArtName_Sculpture.rulePack.rulesStrings[  0]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [artname]</trans>
+		<trans>art_name->[anyPawn_nameShort]達の[artname]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Sculpture.rulePack.rulesStrings[  1]</path>
@@ -109,9 +111,10 @@
 	</rep>
 
 
+	<!-- FURNITURE -->
     <rep>
 		<path>ArtName_Furniture.rulePack.rulesStrings[  0]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [positiveconcept]</trans>
+		<trans>art_name->[anyPawn_nameShort]の[positiveconcept]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Furniture.rulePack.rulesStrings[  1]</path>
@@ -119,21 +122,22 @@
 	</rep>
     <rep>
 		<path>ArtName_Furniture.rulePack.rulesStrings[  2]</path>
-		<trans>art_name->The [animal]</trans>
+		<trans>art_name->[animal]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Furniture.rulePack.rulesStrings[  3]</path>
-		<trans>art_name->[badasscolor] [animal]</trans>
+		<trans>art_name->[badasscolor]の[animal]</trans>
 	</rep>
     <rep>
 		<path>ArtName_Furniture.rulePack.rulesStrings[  4]</path>
-		<trans>art_name->[anyPawn_nameShort]'s [color]</trans>
+		<trans>art_name->[anyPawn_nameShort]の[color]</trans>
 	</rep>
 
 
+	<!-- SARCOPHAGUS PLATE -->
     <rep>
 		<path>ArtName_SarcophagusPlate.rulePack.rulesStrings[  0]</path>
-		<trans>art_name->[angstyadjective] [anyPawn_nameShort]</trans>
+		<trans>art_name->[angstyadjective][anyPawn_nameShort]</trans>
 	</rep>
     <rep>
 		<path>ArtName_SarcophagusPlate.rulePack.rulesStrings[  1]</path>
@@ -141,15 +145,15 @@
 	</rep>
     <rep>
 		<path>ArtName_SarcophagusPlate.rulePack.rulesStrings[  2]</path>
-		<trans>art_name->[color] [anyPawn_nameShort]</trans>
+		<trans>art_name->[color]の[anyPawn_nameShort]</trans>
 	</rep>
     <rep>
 		<path>ArtName_SarcophagusPlate.rulePack.rulesStrings[  3]</path>
-		<trans>art_name->[angstyadjective] [angstyconcept]</trans>
+		<trans>art_name->[angstyadjective][angstyconcept]</trans>
 	</rep>
     <rep>
 		<path>ArtName_SarcophagusPlate.rulePack.rulesStrings[  4]</path>
-		<trans>art_name->[angstyadjective] [badassconcept]</trans>
+		<trans>art_name->[angstyadjective][badassconcept]</trans>
 	</rep>
 
 </LanguageData>

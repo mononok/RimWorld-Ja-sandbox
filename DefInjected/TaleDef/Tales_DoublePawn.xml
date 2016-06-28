@@ -4,35 +4,35 @@
     <!-- Captured -->
 	<rep>
 		<path>Captured.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->the capturing of [prisoner_nameShortDef]</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]の逮捕</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[1]</path>
-		<trans>image->[capturer_nameFull]は [circumstance_group]の [prisoner_nameFull]を捕まえている。</trans>
+		<trans>image->[capturer_nameFull]は、[circumstance_group]、[prisoner_nameFull]を捕まえている。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[2]</path>
-		<trans>image->[capturer_nameFull]は [circumstance_group]の [prisoner_nameFull]の手を縛っている。</trans>
+		<trans>image->[capturer_nameFull]は、[circumstance_group]、[prisoner_nameFull]の手を縛っている。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[3]</path>
-		<trans>image->[prisoner_objective]を奪っている間、[capturer_nameFull]をぴしゃりと手で打った。</trans>
+		<trans>image->[prisoner_objective]を奪っている間、[capturer_nameFull]をぴしゃりと手で打つ。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->[prisoner_pronoun]はのたうちまわる。</trans>
+		<trans>circumstance_phrase->[prisoner_pronoun]はのたうちまわり</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->[prisoner_pronoun]は身をよじる。</trans>
+		<trans>circumstance_phrase->[prisoner_pronoun]は身をよじり</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->専門的な能力によって</trans>
+		<trans>circumstance_phrase->専門的な能力により</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->素人っぽい雑さ</trans>
+		<trans>circumstance_phrase->素人っぽい雑さで</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[8]</path>
@@ -56,542 +56,542 @@
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[13]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] looks resigned to [prisoner_possessive] fate.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、[prisoner_possessive]巡り合わせにあきらめているよう。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[14]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] is snarling with the fury of defeat.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、打ち負かされた怒りに歯を剥いている。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[15]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is slapping [prisoner_nameShortDef] to subdue [prisoner_objective].</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、[prisoner_objective]を抑えるために、[prisoner_nameShortDef]をピシャリと打つ。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[16]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is twisting [prisoner_nameShortDef]'s ear.</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、[prisoner_nameShortDef]の耳をひねりあげる。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[17]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is holding [prisoner_nameShortDef] in a joint lock.</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、手錠で[prisoner_nameShortDef]を押さえつける。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[18]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is spitting into [prisoner_nameShortDef]'s face.</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、[prisoner_nameShortDef]の顔に唾を吐きかける。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[19]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is laughing as tears well up in [prisoner_nameShortDef]'s eyes.</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、[prisoner_nameShortDef]の眼に涙が湧き出るのを見て笑っている。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[20]</path>
-		<trans>desc_sentence->[capturer_nameShortDef] is kicking [prisoner_nameShortDef] for no obvious reason.</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、何か理由があるわけでもないのに[prisoner_nameShortDef]を蹴飛ばしている。</trans>
 	</rep>
 
 
     <!-- Recruited -->
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[0]</path>
-        <trans>tale_noun->the recruitment of [joiner_nameShortDef]</trans>
+        <trans>tale_noun->[joiner_nameShortDef]を勧誘</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[1]</path>
-		<trans>image->[recruiter_nameFull] recruiting [joiner_nameFull] [circumstance_group]</trans>
+		<trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]を勧誘している。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[2]</path>
-		<trans>image->[recruiter_nameFull] welcoming [joiner_nameFull] as [joiner_pronoun] becomes a colonist [circumstance_group]</trans>
+		<trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]が、[joiner_pronoun]として入植者になることを歓迎している。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[3]</path>
-        <trans>image->[recruiter_nameFull] speaking convincingly to [joiner_nameFull] [circumstance_group]</trans>
+        <trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]が納得のいくように話している。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[4]</path>
-        <trans>circumstance_phrase->with a hearty handshake</trans>
+        <trans>circumstance_phrase->心暖かい握手をしながら</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[5]</path>
-        <trans>circumstance_phrase->with smiles all around</trans>
+        <trans>circumstance_phrase->皆に微笑みながら</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[6]</path>
-        <trans>circumstance_phrase->in front of the whole colony</trans>
+        <trans>circumstance_phrase->コロニー全体を前にして</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[7]</path>
-        <trans>circumstance_phrase->in a prison cell</trans>
+        <trans>circumstance_phrase->牢獄の中で</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[8]</path>
-		<trans>desc_sentence->[joiner_nameShortDef] is nodding in understanding.</trans>
+		<trans>desc_sentence->[joiner_nameShortDef]は、了承してうなずいている。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[9]</path>
-        <trans>desc_sentence->[joiner_nameShortDef] is smiling and making eye contact.</trans>
+        <trans>desc_sentence->[joiner_nameShortDef]は、笑って、アイコンタクトをしている。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[10]</path>
-        <trans>desc_sentence->[joiner_nameShortDef] looks relieved.</trans>
+        <trans>desc_sentence->[joiner_nameShortDef]は、ホッとしているよう。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[11]</path>
-        <trans>desc_sentence->[joiner_nameShortDef] looks hopeful.</trans>
+        <trans>desc_sentence->[joiner_nameShortDef]は、希望に満ちているよう。</trans>
 	</rep>
 
 
     <!-- Hunted -->
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[0]</path>
-        <trans>tale_noun->[hunter_nameShortDef]'s successful hunt</trans>
+        <trans>tale_noun->[hunter_nameShortDef]の狩り</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[1]</path>
-        <trans>image->[prey_nameFull] being hunted by [hunter_nameFull] [circumstance_group]</trans>
+        <trans>image->[prey_nameFull]は、[circumstance_group]、[hunter_nameFull]によって狩られる。 </trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[2]</path>
-        <trans>image->[hunter_nameFull] stalking [prey_nameFull] from afar [circumstance_group]</trans>
+        <trans>image->[hunter_nameFull]は、[circumstance_group]、[prey_nameFull]に遠くからこっそりと忍び寄る。</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[3]</path>
-        <trans>image->[hunter_nameFull] hunting [prey_nameFull] [circumstance_group]</trans>
+        <trans>image->[hunter_nameFull]は、[circumstance_group]、[prey_nameFull]を狩っている。</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[4]</path>
-        <trans>circumstance_phrase->as [prey_nameShortDef] relaxes</trans>
+        <trans>circumstance_phrase->[prey_nameShortDef]が気を緩めて隙に</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[5]</path>
-        <trans>circumstance_phrase->as [prey_nameShortDef] travels</trans>
+        <trans>circumstance_phrase->[prey_nameShortDef]が移動している隙に</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[6]</path>
-        <trans>circumstance_phrase->as [prey_nameShortDef] eats</trans>
+        <trans>circumstance_phrase->[prey_nameShortDef]が餌を食べている隙に</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[7]</path>
-        <trans>desc_sentence->[prey_nameShortDef] seems totally oblivious.</trans>
+        <trans>desc_sentence->[prey_nameShortDef]は、完全に忘れたかのようにみえる。</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[8]</path>
-        <trans>desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.</trans>
+        <trans>desc_sentence->[hunter_nameShortDef]は、[hunter_possessive] 武器をしっかりと握る。</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[9]</path>
-        <trans>desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong.</trans>
+        <trans>desc_sentence->[prey_nameShortDef]は、何か変わったところは無いかと？、あたり一面に気を配っている。</trans>
 	</rep>
 
 
     <!-- DidSurgery -->
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[patient_nameShortDef]'s surgery</trans>
+		<trans>tale_noun->[patient_nameShortDef]の外科手術</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[1]</path>
-		<trans>image->[surgeon_nameFull] putting [patient_nameFull] to sleep with anesthetic [circumstance_group]</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group]、[patient_nameFull]を麻酔で眠らせている。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[2]</path>
-		<trans>image->[surgeon_nameFull] elbow-deep in [patient_nameFull] during surgery [circumstance_group]</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group]、手術中に肘まで深く[patient_nameFull]の中に差し込んでいる。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[3]</path>
-		<trans>image->[surgeon_nameFull] slicing into [patient_nameFull] during surgery [circumstance_group]</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group]、手術中に[patient_nameFull]を切り刻んでいる。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->as [patient_pronoun] trembles with fear</trans>
+		<trans>circumstance_phrase->恐怖に震える[patient_pronoun]の</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->as blood pools at [surgeon_nameShortDef]'s feet</trans>
+		<trans>circumstance_phrase->[surgeon_nameShortDef]の足元に血だまりを作りながら</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->while surrounded by scary-looking surgical tools</trans>
+		<trans>circumstance_phrase->見るも恐ろしい手術道具に囲まれている中で</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->with improvised but effective tools</trans>
+		<trans>circumstance_phrase->即席だが効果的なツールを使って</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[8]</path>
-		<trans>desc_sentence->[surgeon_nameShortDef] is sweating profusely.</trans>
+		<trans>desc_sentence->[surgeon_nameShortDef]は、おびただしい汗をかいている。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[9]</path>
-		<trans>desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.</trans>
+		<trans>desc_sentence->[surgeon_nameShortDef]は、信じられないほど、やるべき事に集中しているようにみえる。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[10]</path>
-		<trans>desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.</trans>
+		<trans>desc_sentence->[surgeon_nameShortDef]は、[surgeon_possessive]顔に血のりをつけている。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[11]</path>
-		<trans>circumstance_phrase->while surrounded by scary-looking surgical tools</trans>
+		<trans>desc_sentence->[patient_nameShortDef]は、首をふり、のたうちまわっている。</trans>
 	</rep>
 
     <!-- ExecutedPrisoner -->
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the execution of [prisoner_nameShortDef]</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]の処刑</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  1]</path>
-		<trans>image->[warden_nameFull] executing [prisoner_nameFull] [circumstance_group]</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]を処刑している。 </trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  2]</path>
-		<trans>image->[warden_nameFull] putting [prisoner_nameFull] to death [circumstance_group]</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]を死の淵においやっている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  3]</path>
-		<trans>image->[warden_nameFull] preparing to execute [prisoner_nameFull] [circumstance_group]</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]の処刑の準備をしている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  4]</path>
-		<trans>image->[warden_nameFull] entering a prison cell, going to execute [prisoner_nameFull] [circumstance_group]</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group]、牢獄に入り[prisoner_nameFull]を処刑するために連れ出している。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->as [prisoner_pronoun] writhes on the ground</trans>
+		<trans>circumstance_phrase->[prisoner_pronoun]は地面の上でのたうちまわっている中</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->as [prisoner_pronoun] twists in pain</trans>
+		<trans>circumstance_phrase->[prisoner_pronoun]は、痛みに身をよじりながら</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->as [prisoner_pronoun] cries out in terror</trans>
+		<trans>circumstance_phrase->[prisoner_pronoun]は恐怖で叫んでいるなか</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->with professional efficiency</trans>
+		<trans>circumstance_phrase->プロフェッショナルな手際の良さで</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  9]</path>
-		<trans>circumstance_phrase->roughly and amateurishly</trans>
+		<trans>circumstance_phrase->雑で、未熟ながらも</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 10]</path>
-		<trans>circumstance_phrase->with obviously excessive force</trans>
+		<trans>circumstance_phrase->明らかに必要以上の力で</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->with obvious pleasure</trans>
+		<trans>circumstance_phrase->見るからに楽しそうに</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 12]</path>
-		<trans>circumstance_phrase->while smiling with dominance</trans>
+		<trans>circumstance_phrase->優越感に笑みを浮かべながら</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 13]</path>
-		<trans>circumstance_phrase->with tears in [warden_possessive] eyes</trans>
+		<trans>circumstance_phrase->[warden_possessive]の眼には涙があふれて</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 14]</path>
-		<trans>circumstance_phrase->with a look of utter indifference</trans>
+		<trans>circumstance_phrase->全くの無関心を装いつつ</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 15]</path>
-		<trans>circumstance_phrase->while inflicting unnecessary pain</trans>
+		<trans>circumstance_phrase->必要のない苦痛を与えている間</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 16]</path>
-		<trans>circumstance_phrase->while thinking of something else</trans>
+		<trans>circumstance_phrase->何か別のことを考えながら</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 17]</path>
-		<trans>circumstance_phrase->for the greater good</trans>
+		<trans>circumstance_phrase->とても良いことのように</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->[warden_nameShortDef] is sweating profusely.</trans>
+		<trans>desc_sentence->[warden_nameShortDef]は、過度に汗をかいている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[warden_nameShortDef] is drooling a little bit.</trans>
+		<trans>desc_sentence->[warden_nameShortDef]は、ほんのわずかヨダレをたらしている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[warden_nameShortDef] has blood smeared on [warden_possessive] face.</trans>
+		<trans>desc_sentence->[warden_nameShortDef]は、[warden_possessive]の顔に血のりをつけている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] is shaking and writhing.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、首をふり、のたうちまわっている。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] seems to have given up entirely.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、完全にあきらめたかのように見える。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 23]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] has closed [prisoner_possessive] eyes, seeming to pray to a higher power.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、[prisoner_possessive]の眼を閉じて、神に祈っているようにみえる。</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 24]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] looks defiant.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、反抗的に見える。</trans>
 	</rep>
 
 
     <!-- KidnappedColonist -->
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the kidnapping of [victim_nameShortDef]</trans>
+		<trans>tale_noun->[victim_nameShortDef]が連れ去られる</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  1]</path>
-		<trans>image->[kidnapper_nameFull] carrying [victim_nameFull] away to [kidnapper_factionName] [circumstance_group]</trans>
+		<trans>image->[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を、[kidnapper_factionName]に連れ去る。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  2]</path>
-		<trans>image->[kidnapper_nameFull] of [kidnapper_factionName] kidnapping [victim_nameFull] [circumstance_group]</trans>
+		<trans>image->[kidnapper_factionName]の[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を誘拐する。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  3]</path>
-		<trans>image->[kidnapper_nameFull] kidnapping [victim_nameFull] [circumstance_group]</trans>
+		<trans>image->[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を誘拐する。 </trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  4]</path>
-		<trans>circumstance_phrase->as [victim_pronoun] twists in pain</trans>
+		<trans>circumstance_phrase->[victim_pronoun]は、痛みに身をよじりながら</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->with professional efficiency</trans>
+		<trans>circumstance_phrase->プロフェッショナルな手際の良さで</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->roughly and amateurishly</trans>
+		<trans>circumstance_phrase->素人っぽい雑さで</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->with obviously excessive force</trans>
+		<trans>circumstance_phrase->明らかに必要以上の力で</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->with obvious pleasure</trans>
+		<trans>circumstance_phrase->喜んで</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  9]</path>
-		<trans>circumstance_phrase->while smiling with dominance</trans>
+		<trans>circumstance_phrase->優越感に浸りながら</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 10]</path>
-		<trans>circumstance_phrase->while covered in blood and filth</trans>
+		<trans>circumstance_phrase->血と泥にまみれながら</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[kidnapper_nameShortDef] seems to have given up entirely.</trans>
+		<trans>desc_sentence->[kidnapper_nameShortDef]は、完全にあきらめたかのように見える。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[victim_nameShortDef] has closed [prisoner_possessive] eyes, seeming to pray to a higher power.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、[prisoner_possessive]の眼を閉じて、神に祈っているようにみえる。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[victim_nameShortDef] looks defiant.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、反抗的に見える。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->[victim_nameShortDef] is screaming with rage and terror.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、怒りと恐怖で叫んでいる。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 15]</path>
-		<trans>desc_sentence->[victim_nameShortDef] looks broken and exhausted.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、精魂尽き果てたかのようにみえる。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[victim_nameShortDef] appears to be badly wounded.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、ひどい怪我を負ったようにみえる。</trans>
 	</rep>
 
 
     <!-- TamedAnimal -->
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[human_nameShortDef]'s taming of [animal_nameShortDef]</trans>
+		<trans>tale_noun->[human_nameShortDef]が飼い慣らす、[animal_nameShortDef]たち</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull] taming [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]を飼い慣らす。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull] offering a morsel of food to [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]にご馳走を与えている。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  3]</path>
-		<trans>image->[human_nameFull] whispering to a skittish [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、驚きやすい[animal_nameFull]に小声で話しかける。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  4]</path>
-		<trans>image->[human_nameFull] calming a wild [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、野性の[animal_nameFull]をなだめている。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->with great care and caution</trans>
+		<trans>circumstance_phrase->最大限の注意と世話を払いつつ</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->with a smile</trans>
+		<trans>circumstance_phrase->笑顔と共に</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->while exhausted but happy</trans>
+		<trans>circumstance_phrase->疲れ果てながらも、幸せで</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is snarling aggressively.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、攻撃的に歯を剥いてくる。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は恋の美酒に酔いしれて眠そうにみえる。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[animal_nameShortDef] appears to be in some sort of hypnotic state.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、暗示の効果が現れてきたように見える。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[animal_nameShortDef] looks scared but interested.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、怖がりつつも興味を示しているように見える。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[animal_nameShortDef] appears fascinated.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]の心を魅了したように見える。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[human_nameShortDef] is projecting a powerful sense of love towards [animal_nameShortDef].</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、[animal_nameShortDef]に、力強い愛情を伝えている。</trans>
 	</rep>
 
     <!-- KilledBy -->
         <!-- note that killer may not be filled in, so this has to be resolvable without any killer_ symbols -->
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[victim_nameShortDef]'s killing by [killer_nameShortDef]</trans>
+		<trans>tale_noun->[killer_nameShortDef]による、[victim_nameShortDef]殺し</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  1]</path>
-		<trans>tale_noun->the killing of [victim_nameShortDef] by [killer_nameShortDef]</trans>
+		<trans>tale_noun->[victim_nameShortDef]が、[killer_nameShortDef]によって殺された</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  2]</path>
-		<trans>tale_noun->the killing of [victim_nameShortDef]</trans>
+		<trans>tale_noun->[victim_nameShortDef]が殺された</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  3]</path>
-		<trans>image->[victim_nameFull] being killed by [killer_nameFull] [circumstance_group]</trans>
+		<trans>image->[victim_nameFull]は、[circumstance_group]、[killer_nameFull]に殺された。 </trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  4]</path>
-		<trans>image->[killer_nameFull] killing [victim_nameFull] [circumstance_group]</trans>
+		<trans>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]を殺す。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  5]</path>
-		<trans>image->[killer_nameFull] ending [victim_nameFull]'s life [circumstance_group]</trans>
+		<trans>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]の人生を終わらせる。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  6]</path>
-		<trans>image->[killer_nameFull] brutally murdering [victim_nameFull] [circumstance_group]</trans>
+		<trans>image->[killer_nameFull]は、[circumstance_group]、残忍に[victim_nameFull]を殺す。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  7]</path>
-		<trans>image->[victim_nameFull] being killed [circumstance_group]</trans>
+		<trans>image->[victim_nameFull]は、[circumstance_group]、殺された。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->seemingly without remorse</trans>
+		<trans>circumstance_phrase->一見したところ無慈悲に</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  9]</path>
-		<trans>circumstance_phrase->with cold efficiency</trans>
+		<trans>circumstance_phrase->冷酷に</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 10]</path>
-		<trans>circumstance_phrase->with passionate rage</trans>
+		<trans>circumstance_phrase->激しい怒りと共に</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->with quick, efficient movements</trans>
+		<trans>circumstance_phrase->素早く、無駄の無い動きで</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 12]</path>
-		<trans>circumstance_phrase->without emotion or expression</trans>
+		<trans>circumstance_phrase->感情を表に出さずに</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 13]</path>
-		<trans>circumstance_phrase->out of bleak necessity</trans>
+		<trans>circumstance_phrase->希望も無しに</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 14]</path>
-		<trans>circumstance_phrase->in a cowardly, halfhearted way</trans>
+		<trans>circumstance_phrase->卑劣で、冷淡な方法で</trans>
 	</rep>
 
     <rep>
@@ -601,108 +601,108 @@
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[quantity_adjphrase] [animal]s looks on.</trans>
+		<trans>desc_sentence->[quantity_adjphrase] [animal]が、傍らでみている。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->A [outlander] watches silently [side_position].</trans>
+		<trans>desc_sentence->[side_position]の A [outlander] watches silently .</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->Blood is pooling around [victim_nameShortDef]'s body.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]の周りに血だまりができている。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[victim_nameShortDef]'s eyes are rendered in a realistically lifeless fashion.</trans>
+		<trans>desc_sentence->[victim_nameShortDef]の眼は、現実的に死んだようにみえる。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</trans>
+		<trans>desc_sentence->[killer_nameShortDef]は、[killer_possessive]歯を剥き出しにしている。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[killer_nameShortDef] seems satisfied.</trans>
+		<trans>desc_sentence->[killer_nameShortDef]は満ち足りたように見える。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</trans>
+		<trans>desc_sentence->[killer_nameShortDef]は、[killer_pronoun]がしたことを悩んでいる。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 23]</path>
-		<trans>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</trans>
+		<trans>desc_sentence->[killer_nameShortDef]は、この状況に満足しているようだ。</trans>
 	</rep>
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 24]</path>
-		<trans>desc_sentence->[killer_nameShortDef] looks triumphant.</trans>
+		<trans>desc_sentence->[killer_nameShortDef]は、得意になっているようだ。</trans>
 	</rep>
 
     <!-- SoldPrisoner -->
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the selling of [prisoner_nameShortDef] to a trader</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]がトレーダーに売られた</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  1]</path>
-		<trans>image->[trader_nameFull] buying [prisoner_nameFull] from [seller_nameFull] [circumstance_group]</trans>
+		<trans>image->[trader_nameFull]は、[circumstance_group]、[prisoner_nameFull]を、[seller_nameFull]から買った。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  2]</path>
-		<trans>image->[seller_nameFull] selling [prisoner_nameFull] to [seller_nameFull] [circumstance_group]</trans>
+		<trans>image->[seller_nameFull]は、[circumstance_group] 、[prisoner_nameFull]を、[seller_nameFull]に売る。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  3]</path>
-		<trans>circumstance_phrase->as the other colonists look on in disapproval</trans>
+		<trans>circumstance_phrase->他の入植者が非難しているなか</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  4]</path>
-		<trans>circumstance_phrase->while [seller_nameShortDef] counts [trader_possessive] money</trans>
+		<trans>circumstance_phrase->[seller_nameShortDef]が、[trader_possessive]金を数えている間</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->while [prisoner_nameShortDef] moans plaintively</trans>
+		<trans>circumstance_phrase->[prisoner_nameShortDef]が悲しげな唸り声をあげているなか</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->to [prisoner_nameShortDef]'s chagrin</trans>
+		<trans>circumstance_phrase->[prisoner_nameShortDef]の無念の声に</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  7]</path>
-		<trans>desc_sentence->[trader_nameShortDef] is smiling devilishly.</trans>
+		<trans>desc_sentence->[trader_nameShortDef]は、悪魔の微笑みを浮かべている。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[seller_nameShortDef] is laughing maniacally.</trans>
+		<trans>desc_sentence->[seller_nameShortDef]は、マニアックに笑っている。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[seller_nameShortDef] reluctantly hands [prisoner_nameShortDef] over to the trader.</trans>
+		<trans>desc_sentence->[seller_nameShortDef]は、しぶしぶ[prisoner_nameShortDef]の手を、トレーダーに渡す。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] stares defiantly at [prisoner_possessive] new master.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、反抗的な目で[prisoner_possessive]新しい主人を見る。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[trader_nameShortDef] drags [prisoner_nameShortDef] away by [prisoner_possessive] chains.</trans>
+		<trans>desc_sentence->[trader_nameShortDef]は、[prisoner_possessive]の鎖で[prisoner_nameShortDef]をしょぴく。</trans>
 	</rep>
 
     <rep>
@@ -712,174 +712,174 @@
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] is crying.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、泣いている。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef] is spitting in [seller_nameShortDef]'s face.</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、[seller_nameShortDef]の顔に唾を吐きかけた。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 15]</path>
-		<trans>desc_sentence->[Prisoner_nameShortDef] is melting into the ground.</trans>
+		<trans>desc_sentence->[Prisoner_nameShortDef]は、地面に倒れ伏した。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[Seller_nameShortDef] is thrusting the chains of [prisoner_nameShortDef] into [trader_nameShortDef]'s hands.</trans>
+		<trans>desc_sentence->[Seller_nameShortDef]は、[prisoner_nameShortDef]をつなぐ鎖を、[trader_nameShortDef]の手に素早く押しやる。</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->An air of hopelessness pervades the situation.</trans>
+		<trans>desc_sentence->絶望の空気があたりに充満する。</trans>
 	</rep>
 
 
     <!-- TrainedAnimal -->
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the training of [animal_nameShortDef]</trans>
+		<trans>tale_noun->[animal_nameShortDef]の調教</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull] [train_syn] [animal_nameFull] in [trainable_label] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]に[trainable_label]を[train_syn]する。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull] teaching [trainable_label] to [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]に[trainable_label]を教える。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  3]</path>
-		<trans>image->[human_nameFull] practicing [trainable_label] with [animal_nameFull] [circumstance_group]</trans>
+		<trans>image->[human_nameFull]、[circumstance_group]、[animal_nameFull]と[trainable_label]を練習する。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  4]</path>
-		<trans>train_syn->training</trans>
+		<trans>train_syn->調教</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  5]</path>
-		<trans>train_syn->drilling</trans>
+		<trans>train_syn->訓練</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  6]</path>
-		<trans>train_syn->coaching</trans>
+		<trans>train_syn->指導</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  7]</path>
-		<trans>train_syn->indoctrinating</trans>
+		<trans>train_syn->教え込みを</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  8]</path>
-		<trans>train_syn->educating</trans>
+		<trans>train_syn->教育</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  9]</path>
-		<trans>circumstance_phrase->as others look on</trans>
+		<trans>circumstance_phrase->彼を観察しながら</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 10]</path>
-		<trans>circumstance_phrase->as wild [animal]s look on in disgust</trans>
+		<trans>circumstance_phrase->野性の[animal]の観察をうんざりしながら</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->as [animal_nameShortDef] thinks of the simpler days when [animal_pronoun] was a feral beast</trans>
+		<trans>circumstance_phrase->[animal_pronoun]が野獣だったころの、[animal_nameShortDef]のシンプルな日々のことを考えながら</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 12]</path>
-		<trans>circumstance_phrase->as [human_nameShortDef] thinks of what's for lunch</trans>
+		<trans>circumstance_phrase->[human_nameShortDef]は、今日のランチのことに気を取られながら</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 13]</path>
-		<trans>circumstance_phrase->as the other colonists do actual work</trans>
+		<trans>circumstance_phrase->他の入植者は、何をしているんだろうと気をとられながら</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->[human_nameShortDef] is showing pleasure.</trans>
+		<trans>desc_sentence->[human_nameShortDef]、喜びを表にだしている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 15]</path>
-		<trans>desc_sentence->[human_nameShortDef] is smiling.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、微笑んでいる。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[human_nameShortDef] looks bored.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、うんざりして飽きている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->[human_nameShortDef] is threateningly brandishing [human_possessive] fist.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、[human_possessive]拳を脅迫的に振り回している。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->[human_nameShortDef] is wrinkling [human_possessive] brow in concentration.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、[human_possessive]眉にシワを寄せて集中している。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[animal_nameShortDef] looks puzzled.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、困惑しているようだ。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[animal_nameShortDef] has a weapon in [animal_possessive] mouth.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、[animal_possessive] 口に武器を咥えている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is emitting effortful grunts.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、唸り声をあげている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->[human_nameShortDef] is shaking [human_possessive] head is frustration.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、欲求不満がたまって[human_possessive] 頭を振っている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 23]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is trembling in fear.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、恐怖に震えている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 24]</path>
-		<trans>desc_sentence->[animal_nameShortDef] appears to be morphing into a [vegetable].</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、 appears to be morphing into a [vegetable].</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 25]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is represented as a pile of power tools.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、有能な財産となっている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 26]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is half [color] and half [color].</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、[color]と[color]の2色からなっている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 27]</path>
-		<trans>desc_sentence->[animal_nameShortDef] is covered in scales.</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は鱗に被われている。</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 28]</path>
-		<trans>desc_sentence->[human_nameShortDef] is depicted with [quantity] arms.</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、[quantity]腕で表現している。</trans>
 	</rep>
 
     <rep>

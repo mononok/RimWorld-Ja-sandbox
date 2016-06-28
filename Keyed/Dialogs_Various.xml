@@ -119,7 +119,7 @@
   <BillRequires>必要とする {0} {1}</BillRequires>
   <BillRequiresNutrition>{0} 栄養を必要とする</BillRequiresNutrition>
   <BillRequiresMayVary>(Counts may vary for item with nonstandard volumes, like gold.)</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/20 as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need 20x as much as usual.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>これは最小の要素です。これが意味するところは、それぞれの'ユニット'は、通常の量の1/20と同じということです。ですから、同じ量を要求された場合は、通常20倍必要となります。</ThisIsSmallVolume>
   <UsableIngredients>有効成分</UsableIngredients>
 <DoXTimes>X 回実行</DoXTimes>
 <DoUntilYouHaveX>X に達するまで実行</DoUntilYouHaveX>

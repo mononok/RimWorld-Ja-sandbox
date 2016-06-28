@@ -4,7 +4,7 @@
     <!-- LandedInPod -->
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]'s landing in a drop pod</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の着陸船で着陸する</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[1]</path>
@@ -91,7 +91,7 @@
     <!-- Vomited -->
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]'s vomiting</trans>
+		<trans>tale_noun->[pawn_nameShortDef]のゲロ</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[1]</path>
@@ -162,7 +162,7 @@
     <!-- Drunk -->
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]'s extreme drunkenness</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の酒好き</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[1]</path>
@@ -254,11 +254,11 @@
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[23]</path>
-		<trans>desc_sentence->[pawn_pronoun]は、幸せと悲しみが同居しているように見える。</trans>
+		<trans>desc_sentence->[pawn_pronoun]には、幸せと悲しみが同居しているように見える。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[24]</path>
-		<trans>desc_sentence->[pawn_pronoun]は、服の前にシミを付けた。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、ズボンの前にシミを付けた。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[25]</path>
@@ -281,7 +281,7 @@
     <!-- WasOnFire -->
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] catching fire</trans>
+		<trans>tale_noun->[pawn_nameShortDef]に火だるま</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[1]</path>
@@ -301,7 +301,7 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->他の人が見ている中</trans>
+		<trans>circumstance_phrase->他の人が傍観しているなか</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[6]</path>
@@ -355,7 +355,7 @@
 	<!-- MentalStateBerserk -->
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] going berserk</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の狂暴化</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[1]</path>
@@ -435,188 +435,188 @@
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[20]</path>
-		<trans>desc_sentence->[pawn_possessive] entire body seems to be trembling with hatred.</trans>
+		<trans>desc_sentence->[pawn_possessive]の全身が、憎悪に震えているようだ。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[21]</path>
-		<trans>desc_sentence->[pawn_possessive] face is set in a look of twisted serenity.</trans>
+		<trans>desc_sentence->[pawn_possessive]の顔が、穏やかさのひん曲がった表情になりつつある。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[22]</path>
-		<trans>desc_sentence->A single tear rolls down [pawn_possessive] face.</trans>
+		<trans>desc_sentence->一粒の涙が[pawn_possessive]の顔からこぼれ落ちる。</trans>
 	</rep>
 
 	<!-- MentalStateGaveUp -->
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] giving up in despair</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の絶望と降参</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[1]</path>
-		<trans>image->[pawn_nameFull] finally giving up under stress [circumstance_group]. </trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、最終的にはストレスに押しつぶされてあきらめる。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[2]</path>
-		<trans>image->[pawn_nameFull] sobbing uncontrollably [circumstance_group]. </trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、抑えきれずにすすり泣いている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[3]</path>
-		<trans>image->[pawn_nameFull] stumbling around with a completely broken expression on [pawn_possessive] face [circumstance_group]. </trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[pawn_possessive]顔をくちゃくちゃにしながら、あたりをよろめいている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->while attempting to disrobe</trans>
+		<trans>circumstance_phrase->服を脱ぎ捨てるふりをしつつwhile attempting to disrobe</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[5]</path>
-		<trans>circumstance_phrase->seemingly without reason</trans>
+		<trans>circumstance_phrase->見たところ大した理由も無しに</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->as others offer sympathy</trans>
+		<trans>circumstance_phrase->他人に同情されながら</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->as a friend cries</trans>
+		<trans>circumstance_phrase->泣き叫びつつ</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[8]</path>
-		<trans>circumstance_phrase->because of the stress</trans>
+		<trans>circumstance_phrase->ストレスによって</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[9]</path>
-		<trans>circumstance_phrase->as a last step</trans>
+		<trans>circumstance_phrase->最終段階として</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[10]</path>
-		<trans>desc_sentence->[pawn_pronoun] has tears streaming down [pawn_possessive] face.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、[pawn_possessive]顔から涙が滝のように流れている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[11]</path>
-		<trans>desc_sentence->[pawn_pronoun] is laughing in the depths of [pawn_possessive] depression.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、[pawn_possessive]抑圧の深刻さから笑っている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[12]</path>
-		<trans>desc_sentence->[pawn_nameShortDefinite] is looking upward, as if to ask for help from above.</trans>
+		<trans>desc_sentence->[pawn_nameShortDefinite]は、あたかも救いの手が差し伸べられたかのように見上げている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[13]</path>
-		<trans>desc_sentence->[pawn_pronoun] is tearing at [pawn_possessive] own clothes.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、[pawn_possessive]着衣に涙をこぼしている。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[14]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、[pawn_objective]の周りにあるものに気がついていないように見える。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[15]</path>
-		<trans>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</trans>
+		<trans>desc_sentence->[pawn_pronoun]には、幸せと悲しみが同居しているように見える。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[16]</path>
-		<trans>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、ズボンの前にシミを付けた。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[17]</path>
-		<trans>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、立場を失ったようだ。</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[18]</path>
-		<trans>desc_sentence->[pawn_possessive] hair is totally mussed up.</trans>
+		<trans>desc_sentence->[pawn_possessive]の髪をすっかりクシャクシャにしてしまう。</trans>
 	</rep>
 
 
     <!-- WalkedNaked -->
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] walking around naked</trans>
+		<trans>tale_noun->[pawn_nameShortDef]が素っ裸で歩き回っている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull] [nude_action] while in a state of nature [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、ありのままの姿で[nude_action]。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull] [nude_action] in the nude [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、ヌードで[nude_action]。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull] [nude_action], naked, [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、 裸で[nude_action]。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  4]</path>
-		<trans>image->[pawn_nameFull] [nude_action] without any clothes on [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、 一糸まとわぬ姿で[nude_action]。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  5]</path>
-		<trans>nude_action->prancing</trans>
+		<trans>nude_action->意気揚々と歩き回っている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  6]</path>
-		<trans>nude_action->frolicking</trans>
+		<trans>nude_action->陽気に騒いでいる</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  7]</path>
-		<trans>nude_action->gambolling</trans>
+		<trans>nude_action->跳ね回っている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  8]</path>
-		<trans>nude_action->walking</trans>
+		<trans>nude_action->歩いている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  9]</path>
-		<trans>nude_action->strutting [pawn_possessive] stuff</trans>
+		<trans>nude_action->[pawn_possessive]のアレを気取って歩いている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 10]</path>
-		<trans>nude_action->sashaying</trans>
+		<trans>nude_action->気取って歩いている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 11]</path>
-		<trans>nude_action->tiptoeing</trans>
+		<trans>nude_action->つま先立ちして歩いている</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 12]</path>
-		<trans>nude_action->promenading</trans>
+		<trans>nude_action->散策している</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 13]</path>
-		<trans>nude_action->surveying the area</trans>
+		<trans>nude_action->辺りを調査している</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 14]</path>
-		<trans>circumstance_phrase->with a sense of purpose</trans>
+		<trans>circumstance_phrase->目的意識をもって</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 15]</path>
-		<trans>circumstance_phrase->with no hint of shame</trans>
+		<trans>circumstance_phrase->恥ずかしげもなく</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 16]</path>
-		<trans>circumstance_phrase->while others look on</trans>
+		<trans>circumstance_phrase->他の人が傍観しているなか</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 17]</path>
-		<trans>circumstance_phrase->for no apparent reason</trans>
+		<trans>circumstance_phrase->明確なわけもなく</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 18]</path>
-		<trans>circumstance_phrase->while confused animals look on</trans>
+		<trans>circumstance_phrase->混乱した動物が見ているなか</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is visibly aroused.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、みるみる性的に興奮している。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is covered in unexplained moisture.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、説明のつかない湿気にしっとりと包まれている。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is breathing heavily for no obvious reason.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、明確な理由もないのに、荒い息遣いをしている。</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is fondling a shrub.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、低木を撫で回している。</trans>
 	</rep>
 
 
@@ -624,169 +624,169 @@
     <!-- AteRawHumanlikeMeat -->
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]'s eating of human meat</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の人喰い</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、同じヒューマノイドの肉を[eat_gerund]。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、人の腕のような肉を[eat_gerund]。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、ヒューマノイドの新鮮な肉を[eat_gerund]。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  4]</path>
-		<trans>eat_gerund->eating</trans>
+		<trans>eat_gerund->食べている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  5]</path>
-		<trans>eat_gerund->ingesting</trans>
+		<trans>eat_gerund->摂っている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  6]</path>
-		<trans>eat_gerund->chewing</trans>
+		<trans>eat_gerund->噛んでいる</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  7]</path>
-		<trans>eat_gerund->chowing down on</trans>
+		<trans>eat_gerund->引きちぎっている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  8]</path>
-		<trans>eat_gerund->consuming</trans>
+		<trans>eat_gerund->食べ尽くしている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  9]</path>
-		<trans>eat_gerund->swallowing</trans>
+		<trans>eat_gerund->丸呑みしている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 10]</path>
-		<trans>eat_gerund->cannibalizing</trans>
+		<trans>eat_gerund->共食いしている</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->with a sense of purpose</trans>
+		<trans>circumstance_phrase->目的意識をもって</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 12]</path>
-		<trans>circumstance_phrase->with no hint of shame</trans>
+		<trans>circumstance_phrase->恥ずかしげもなく</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 13]</path>
-		<trans>circumstance_phrase->with a look of shame</trans>
+		<trans>circumstance_phrase->不名誉なことと思いながら</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 14]</path>
-		<trans>circumstance_phrase->while others look on</trans>
+		<trans>circumstance_phrase->他の人が傍観しているなか</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 15]</path>
-		<trans>circumstance_phrase->with gusto</trans>
+		<trans>circumstance_phrase->おいしさを噛みしめながら</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 16]</path>
-		<trans>circumstance_phrase->frantically, like [pawn_possessive] life depended on it</trans>
+		<trans>circumstance_phrase->間違いなく、[pawn_possessive]人生に夢中になりながら</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->[pawn_nameShortDef]'s face is covered with blood and fluid.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]の顔じゅう、血とよだれにまみれている。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is licking [pawn_possessive] fingers.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、[pawn_possessive]指をしゃぶっている。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] has blood and gore bits all down [pawn_possessive] front.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、[pawn_possessive]身体正面を、血のりまみれにしている。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is in the middle of a large pool of blood.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、大きな血でできたプールの真ん中にいる。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is eyeing someone else nearby with dark interest.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、この闇に興味をもって寄ってきた、他の誰をじっとみている。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->The meat is glistening and appears very succulent.</trans>
+		<trans>desc_sentence->この肉は、汁気がとても多くて、ギラギラ輝いている。</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[ 23]</path>
-		<trans>desc_sentence->The meat is spilling all over [pawn_nameShortDef]'s body.</trans>
+		<trans>desc_sentence->この肉は、[pawn_nameShortDef]の体からすべて溢れ出ている。</trans>
 	</rep>
 
     <!-- CraftedArt -->
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]</trans>
+		<trans>tale_noun->[pawn_nameShortDef]が[thing_labelIndefinite]を作る時間</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]を製作している。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]の[pawn_possessive]作業を完成させている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]の作業をしている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  4]</path>
-		<trans>image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]を作っている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->with total concentration</trans>
+		<trans>circumstance_phrase->集中力の総力をあげて</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->with a look of satisfaction on [pawn_possessive] face</trans>
+		<trans>circumstance_phrase->[pawn_possessive]の顔に満足の笑みをたたえながら</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->at [pawn_possessive] work bench</trans>
+		<trans>circumstance_phrase->[pawn_possessive]の作業台で</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->with great intensity</trans>
+		<trans>circumstance_phrase->大きな緊張をもって</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->There are tools scattered all around.</trans>
+		<trans>desc_sentence->工作ツールがあたり一面に散らばっている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、作業中におきたひっかき傷や怪我を負っている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[pawn_pronoun] is covered in sweat.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、汗だくになっている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->The work area is highly organized, with every tool in its proper place.</trans>
+		<trans>desc_sentence->作業エリアの、すべての工具は所定の位置に置かれ、高度に体系ずけられている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful.</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、もっとパワフルなものを世にだせると、大げさにいっている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance.</trans>
+		<trans>desc_sentence->[thing_labelDefinite]のサイズが重要なことを、大げさに力説している。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 15]</path>
-		<trans>desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic.</trans>
+		<trans>desc_sentence->[thing_labelDefinite]の持っている芸術的な輝きが加わり、まるで天使のようにみえる。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、[pawn_possessive]新しく創造した強調部分が目立たなくなっている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 17]</path>
@@ -794,141 +794,141 @@
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->A crowd cheers from the background.</trans>
+		<trans>desc_sentence->仲間たちが経歴に喝采を送っている。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 19]</path>
-		<trans>quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality</trans>
+		<trans>quality_sentence->[thing_labelDefinite]は、見た目[thing_quality]品質のようだ。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 20]</path>
-		<trans>quality_sentence->[thing_labelDefinite] is of [thing_quality] quality</trans>
+		<trans>quality_sentence->[thing_labelDefinite]は、[thing_quality]品質だ。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 21]</path>
-		<trans>quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality</trans>
+		<trans>quality_sentence->[pawn_nameShortDef]は、[thing_quality]品質の作業をした。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 22]</path>
-		<trans>title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]</trans>
+		<trans>title_sentence->[pawn_nameShortDef]は、[thing_labelDefinite]の底面にタイトルをこうつけた: [thing_title]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 23]</path>
-		<trans>title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]</trans>
+		<trans>title_sentence->[thing_labelDefinite]は、そのタイトルで飾られている: [thing_title]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 24]</path>
-		<trans>title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background</trans>
+		<trans>title_sentence->[thing_labelDefinite]のタイトル, [thing_title]の背景は不明となっている。</trans>
 	</rep>
 
 
 	<!-- StruckMineable -->
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] striking [thing_label]</trans>
+		<trans>tale_noun->[pawn_nameShortDef]が[thing_label]を掘り当てる</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull] striking [thing_label] [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_label]を掘り当てる。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  2]</path>
-		<trans>circumstance_phrase->while mining</trans>
+		<trans>circumstance_phrase->採鉱している間に</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  3]</path>
-		<trans>circumstance_phrase->while digging</trans>
+		<trans>circumstance_phrase->掘っている間に</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  4]</path>
-		<trans>circumstance_phrase->while tunnelling</trans>
+		<trans>circumstance_phrase->トンネルを掘削している間に</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->with a look of surprise</trans>
+		<trans>circumstance_phrase->驚きを持って</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->with a satisfied expression</trans>
+		<trans>circumstance_phrase->満足する成果とともに</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  7]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is wiping [pawn_possessive] brow.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、[pawn_possessive]眉をぬぐる。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is jumping for joy.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、ジャンプしてよろこぶ。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is high-fiving a friend.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、仲間とハイファイブをする。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is screaming with happiness.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、歓喜の雄叫びをあげる。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is laughing uncontrollably.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、笑いを抑えきれない。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、仕事の汗と汚れにまみれている。</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[ 13]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、仕事の汗と汚れにまみれている。</trans>
 	</rep>
 
 
     <!-- FinishedResearchProject -->
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[pawn_nameShortDef] finishing research on [project_label]</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の、[project_label]研究の完成</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull] working on [project_label] research project [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]研究プロジェクトの作業を続けている。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]の秘訣を学習している。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull] researching [project_label] [circumstance_group]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]を研究している。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  4]</path>
-		<trans>circumstance_phrase->with great intensity</trans>
+		<trans>circumstance_phrase->集中力の総力をあげて</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  5]</path>
-		<trans>circumstance_phrase->alone at [pawn_possessive] bench</trans>
+		<trans>circumstance_phrase->こつこつと、[pawn_possessive]作業台で</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  6]</path>
-		<trans>circumstance_phrase->while holding papers in [pawn_possessive] hand</trans>
+		<trans>circumstance_phrase->手に、設計図を握り締めながら</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  7]</path>
-		<trans>circumstance_phrase->with a look of gleeful fascination</trans>
+		<trans>circumstance_phrase->作業に没頭しながら</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  8]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is sweating.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、汗をかいている。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->The work appears to be exceptionally complex.</trans>
+		<trans>desc_sentence->その作業は、群を抜いて複雑に込み入った形となって現れる。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、実験器具やツールがずらりと並んだものに完全に埋もれている。</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder.</trans>
+		<trans>desc_sentence->[pawn_nameShortDef]は、好奇心を持って発見した[pawn_possessive]を主役にする。</trans>
 	</rep>
 
 

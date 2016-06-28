@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<ClockTime>時</ClockTime>
-<ClockDate>日</ClockDate>
-<ClockYear>年</ClockYear>
-<DateReadoutTip>惑星での生存日数: {0}日\nこの惑星の1シーズンは {1}日です。\n今のシーズン: {2}</DateReadoutTip>
+	<ClockTime>時</ClockTime>
+	<ClockDate>日</ClockDate>
+	<ClockYear>年</ClockYear>
+	<DateReadoutTip>惑星での生存日数: {0}日\nこの惑星の1シーズンは {1}日です。\n今のシーズン: {2}</DateReadoutTip>
 
-<FullDate>{2}年 {0} {1}日</FullDate>
-	<DateReadout>{1} {0}, {2}</DateReadout>
-  <SeasonFullDate>{1} {0} </SeasonFullDate>
-  <WholeYear>一年中</WholeYear>
+	<FullDate>{2}年 {1}節 {0}日</FullDate>
+	<DateReadout>{2}年 {1}節 {0}日</DateReadout>
+	<SeasonFullDate>{1}節 {0}日</SeasonFullDate>
+	<WholeYear>一年中</WholeYear>
 
 </LanguageData>

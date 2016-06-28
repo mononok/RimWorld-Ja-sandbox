@@ -1,140 +1,142 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- SPACER -->
     <rep>
         <path>NamerFactionSpacer.rulePack.rulesStrings[0]</path>
         <trans>name->流浪の民</trans>
     </rep>
-  
+
+    <!-- PIRATE -->
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[0]</path>
-        <trans>name->[badassanimal]</trans>
+        <trans>name->[badassanimal]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[1]</path>
-        <trans>name->[badassanimal] Men</trans>
+        <trans>name->[badassanimal]一家</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[2]</path>
-        <trans>name->[badassconcept] の [badassanimal]</trans>
+        <trans>name->[badassconcept]の[badassanimal]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[3]</path>
-        <trans>name->[badassconcept] の [badassperson]</trans>
+        <trans>name->[badassconcept]の[badassperson]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[4]</path>
-        <trans>name->[badassperson]</trans>
+        <trans>name->[badassperson]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[5]</path>
-        <trans>name->[weapon] Men</trans>
+        <trans>name->[weapon]一家</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[6]</path>
-        <trans>name->[weapon]</trans>
+        <trans>name->[weapon]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[7]</path>
-        <trans>name->[weapon] [badassanimal]s</trans>
+        <trans>name->[badassanimal]の[weapon]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[8]</path>
-        <trans>name->[badasscolor] [weapon]</trans>
+        <trans>name->[badasscolor]の[weapon]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[9]</path>
-        <trans>name->[badasscolor] [badassanimal]</trans>
+        <trans>name->[badasscolor]の[badassanimal]一家</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[10]</path>
-        <trans>name->[badasscolor] [badassperson]</trans>
+        <trans>name->[badasscolor]の[badassperson]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[11]</path>
-        <trans>name->[badassperson] [groupname]</trans>
+        <trans>name->[badassperson] [groupname]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[12]</path>
-        <trans>name->[badassadjective] [groupname]</trans>
+        <trans>name->[badassadjective] [groupname]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[13]</path>
-        <trans>name->[badassadjective] [badassanimal]</trans>
+        <trans>name->[badassadjective] [badassanimal]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[14]</path>
-        <trans>name->[badassadjective] [badassperson]</trans>
+        <trans>name->[badassadjective] [badassperson]一家</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[15]</path>
-        <trans>name->[weapon] [groupname]</trans>
+        <trans>name->[weapon] [groupname]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[16]</path>
-        <trans>name->[badassconcept] [groupname]</trans>
+        <trans>name->[badassconcept]の[groupname]賊</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[17]</path>
-        <trans>name->[badassconcept] [groupname]</trans>
+        <trans>name->[badassconcept]の[groupname]団</trans>
     </rep>
     <rep>
         <path>NamerFactionPirate.rulePack.rulesStrings[18]</path>
-        <trans>name->[badassanimal]s [terrainfeature]</trans>
+        <trans>name->[terrainfeature]の[badassanimal]一家</trans>
     </rep>
-    
-    
+
+    <!-- COLONY -->
     <rep>
         <path>NamerColony.rulePack.rulesStrings[0]</path>
         <trans>name->[colonyname]</trans>
     </rep>
-    
-    
+
+    <!-- OUTLANDER -->
     <rep>
         <path>NamerFactionOutlander.rulePack.rulesStrings[0]</path>
-        <trans>rule->[positiveconcept] の [terrainfeature]</trans>
+        <trans>rule->[terrainfeature]に住む[positiveconcept]の民</trans>
     </rep>
     <rep>
         <path>NamerFactionOutlander.rulePack.rulesStrings[1]</path>
-        <trans>rule->[outlander]の [terrainfeature]</trans>
+        <trans>rule->[terrainfeature]の[outlander]</trans>
     </rep>
     <rep>
         <path>NamerFactionOutlander.rulePack.rulesStrings[2]</path>
-        <trans>rule->[outlander]の [community]</trans>
+        <trans>rule->[community]の[outlander]</trans>
     </rep>
     <rep>
         <path>NamerFactionOutlander.rulePack.rulesStrings[3]</path>
-        <trans>rule->[community] at the [terrainfeature]</trans>
+        <trans>rule->[terrainfeature]に住む[community]の民</trans>
     </rep>
-    
-    
+
+    <!-- TRIBAL -->
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[0]</path>
-        <trans>name->[tribalword] [tribalword]</trans>
+        <trans>name->[tribalword] [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[1]</path>
-        <trans>name->[tribalword] [tribalword]</trans>
+        <trans>name->[tribalword] [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[2]</path>
-        <trans>name->[tribalword] [tribalword] [tribalword]</trans>
+        <trans>name->[tribalword] [tribalword] [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[3]</path>
-        <trans>name->[animal] の [tribalword]</trans>
+        <trans>name->[animal] [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[4]</path>
-        <trans>name->[color] [animal] [tribalword]</trans>
+        <trans>name->[color]の[animal] [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[5]</path>
-        <trans>name->[terrainfeature] の the [tribalword]</trans>
+        <trans>name->[terrainfeature]の [tribalword]族</trans>
     </rep>
     <rep>
         <path>NamerFactionTribal.rulePack.rulesStrings[6]</path>
-        <trans>name->The [color] [terrainfeature] 人々</trans>
+        <trans>name->[color]の[terrainfeature]族</trans>
     </rep>
 
 </LanguageData>

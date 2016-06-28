@@ -12,29 +12,34 @@
 	<ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
 	<BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
 	<BlocksSandstone.description>砂岩でできたブロック、砂岩は比較的にやわらかで割れやすい。</BlocksSandstone.description>
+	<BlocksSandstone.stuffProps.stuffAdjective>砂岩</BlocksSandstone.stuffProps.stuffAdjective>
 
 	<Granite.label>花崗岩</Granite.label>
 	<Granite.description>非常に硬い火成岩です。</Granite.description>
 	<ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
 	<BlocksGranite.label>花崗岩のブロック</BlocksGranite.label>
 	<BlocksGranite.description>花崗岩でできたブロック、花崗岩はとても硬い。</BlocksGranite.description>
+	<BlocksGranite.stuffProps.stuffAdjective>花崗岩</BlocksGranite.stuffProps.stuffAdjective>
 
 	<Limestone.label>石灰岩</Limestone.label>
 	<Limestone.description>古代の貝殻が圧縮されてできた堆積岩です。</Limestone.description>
 	<ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
 	<BlocksLimestone.label>石灰岩のブロック</BlocksLimestone.label>
 	<BlocksLimestone.description>石灰岩でできたブロックです。</BlocksLimestone.description>
+	<BlocksLimestone.stuffProps.stuffAdjective>石灰岩</BlocksLimestone.stuffProps.stuffAdjective>
 
 	<Slate.label>粘板岩</Slate.label>
 	<Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
 	<ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
 	<BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
 	<BlocksSlate.description>粘板岩でできたブロックです。</BlocksSlate.description>
+	<BlocksSlate.stuffProps.stuffAdjective>粘板岩</BlocksSlate.stuffProps.stuffAdjective>
 
 	<Marble.label>大理石</Marble.label>
 	<Marble.description>弱い変成岩です。</Marble.description>
 	<ChunkMarble.label>大理石の塊</ChunkMarble.label>
 	<BlocksMarble.label>大理石のブロック</BlocksMarble.label>
 	<BlocksMarble.description>大理石でできたブロック、大理石はやわく綺麗な岩で彫刻の題材として知られています。</BlocksMarble.description>
+    <BlocksMarble.stuffProps.stuffAdjective>大理石</BlocksMarble.stuffProps.stuffAdjective>
 
 </LanguageData>

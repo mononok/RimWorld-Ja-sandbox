@@ -281,7 +281,7 @@
     <!-- WasOnFire -->
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]に火だるま</trans>
+		<trans>tale_noun->[pawn_nameShortDef]が火だるま</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[1]</path>
@@ -790,7 +790,7 @@
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective].</trans>
+		<trans>desc_sentence->[quantity_adjphrase]の見物人が[pawn_objective]を取り囲んでいる。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 18]</path>

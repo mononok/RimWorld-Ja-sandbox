@@ -1,84 +1,121 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+    <!-- TODO: changing filename, RulePacks_Art_ImaesTaleless.xml -->
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[0]</path>
-        <trans>image->[outlander]を [outlander]達が 取り囲んでいる。[part2]</trans>
+        <trans>image->[outlander]が、[outlander]達に 取り囲まれている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[1]</path>
-        <trans>image->[outlander]は [quantity_adjphrase]の [outlander]達と [game]をしている。[part2]</trans>
+        <trans>image->[outlander]は [quantity_adjphrase]の[outlander]達と [game]をしている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[2]</path>
-        <trans>image->[outlander]は [weapon]を掴んで [subject_desc]。[part2]</trans>
+        <trans>image->[outlander]は[weapon]を掴んで、[subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[3]</path>
-        <trans>image->孤独な [outlander]。 [part2]</trans>
+        <trans>image->孤独な [outlander]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[4]</path>
-        <trans>image->[adjective] [outlander]は [apparel]を 着た. [part2]</trans>
+        <trans>image->[adjective] [outlander]は [apparel]を 着る。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[5]</path>
-        <trans>image->からっぽの[apparel] [subject_desc] [part2]</trans>
+        <trans>image->[outlander]は、[vegetable]を食べている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[6]</path>
-        <trans>image->[adjective] [terrainfeature]. [part2]</trans>
+        <trans>image->[quantity_adjphrase]の[outlander]達と[outlander]達は、たがいに[vegetable]を食べている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[7]</path>
-        <trans>image->[animal] は [game] している。 [part2]</trans>
+        <trans>image->空っぽの[apparel]が、[subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[8]</path>
-        <trans>image->[apparel]を着た [animal]が [subject_desc]。 [part2]</trans>
+        <trans>image->a [adjective] [terrainfeature]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[9]</path>
-        <trans>part2->[artextra_sentence] [artextra_sentence]</trans>
+        <trans>image->[animal]達が、[game]をプレイしている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[10]</path>
-        <trans>subject_desc->大気を飛んでいる</trans>
+        <trans>image->[apparel]を着た [animal]が、[subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[11]</path>
-        <trans>subject_desc->空中で漂っている</trans>
+        <trans>image->ある[terrainfeature]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[12]</path>
-        <trans>subject_desc->地上に立っている</trans>
+        <trans>image->[concept]の抽象的な表現</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[13]</path>
-        <trans>subject_desc->左へ動いている</trans>
+        <trans>image->ある[community]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[14]</path>
-        <trans>subject_desc->右へ動いている</trans>
+        <trans>image->ある[weapon]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[15]</path>
-        <trans>subject_desc->テーブルについている</trans>
+        <trans>image->[quantity_adjphrase]の[weapon]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[16]</path>
-        <trans>subject_desc->ガラス越しに見ている</trans>
+        <trans>image->[quantity_adjphrase]の[vegetable]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[17]</path>
-        <trans>subject_desc->シルエットが反射している</trans>
+        <trans>image->二流有名人[personname]が、[subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[18]</path>
-        <trans>subject_desc->[apparel] を着て [animal] に乗っている</trans>
+        <trans>image->[outlander]が身につけている[apparel]のなかの[animal]。</trans>
     </rep>
+
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[19]</path>
+        <trans>subject_desc->大気を飛んでいる</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[20]</path>
+        <trans>subject_desc->空中で漂っている</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[21]</path>
+        <trans>subject_desc->地上に立っている</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[22]</path>
+        <trans>subject_desc->左へ移動している</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[23]</path>
+        <trans>subject_desc->右へ移動している</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[24]</path>
+        <trans>subject_desc->テーブルについている</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[25]</path>
+        <trans>subject_desc->メガネ越しに見ている</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[26]</path>
+        <trans>subject_desc->シルエットに反射している</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[27]</path>
+        <trans>subject_desc->[apparel]を着て [animal]に乗っている</trans>
+    </rep>
+    <rep>
+        <path>TalelessImages.rulePack.rulesStrings[28]</path>
         <trans>subject_desc->[adjective] 見ている</trans>
     </rep>
 </LanguageData>

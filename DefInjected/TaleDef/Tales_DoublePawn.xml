@@ -601,7 +601,7 @@
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[quantity_adjphrase] [animal]が、傍らでみている。</trans>
+		<trans>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</trans>
 	</rep>
 
     <rep>
@@ -647,7 +647,7 @@
     <!-- SoldPrisoner -->
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[prisoner_nameShortDef]がトレーダーに売られた</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]がトレーダーに売られる</trans>
 	</rep>
 
     <rep>
@@ -859,7 +859,7 @@
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 24]</path>
-		<trans>desc_sentence->[animal_nameShortDef]は、 appears to be morphing into a [vegetable].</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、形態が[vegetable]に変わりつつあるように見える。</trans>
 	</rep>
 
     <rep>

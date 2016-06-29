@@ -21,11 +21,11 @@
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  4]</path>
-		<trans>context_sentence->この[depiction]は、星歴:[date] の、「[tale_noun]」の出来事と関連している。</trans>
+		<trans>context_sentence->この[depiction]は、星暦:[date] の、「[tale_noun]」の出来事と関連している。</trans>
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  5]</path>
-		<trans>context_sentence->この[depiction]は、星歴:[date] に起きた、「[tale_noun]」の話を今に伝えている。</trans>
+		<trans>context_sentence->この[depiction]は、星暦:[date] に起きた、「[tale_noun]」の話を今に伝えている。</trans>
 	</rep>
 
 
@@ -43,212 +43,212 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  0]</path>
-		<trans>style_group->[artextra_clause]. [style_clause].</trans>
+		<trans>style_group->[artextra_clause]。[style_clause]。</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  1]</path>
-		<trans>style_group->[style_clause]. [artextra_clause].</trans>
+		<trans>style_group->[style_clause]。[artextra_clause]。</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  2]</path>
-		<trans>style_group->[artextra_clause], and [style_clause].</trans>
+		<trans>style_group->[artextra_clause]、そして、[style_clause]。</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  3]</path>
-		<trans>style_group->[artextra_clause], while [style_clause].</trans>
+		<trans>style_group->[artextra_clause]、その上、[style_clause]。</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  4]</path>
-		<trans>artextra_clause->そのイメージは[quantity_adjphrase] [animal]によって、境をなしている。</trans>
+		<trans>artextra_clause->そのイメージは[quantity_adjphrase]の[animal]によって、境をなしている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  5]</path>
-		<trans>artextra_clause->[side_position]に [community]がある。</trans>
+		<trans>artextra_clause->[side_position]に [community]がある</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  6]</path>
-		<trans>artextra_clause->[side_position]に [terrainfeature]がある。</trans>
+		<trans>artextra_clause->[side_position]に [terrainfeature]がある</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  7]</path>
-		<trans>artextra_clause->[side_position]に [animal]がいる。</trans>
+		<trans>artextra_clause->[side_position]に [animal]がいる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  8]</path>
-		<trans>artextra_clause->そのテーマは、[terrainfeature]の前にある。</trans>
+		<trans>artextra_clause->そのテーマは、[terrainfeature]の前にある</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  9]</path>
-		<trans>artextra_clause->それシーンは、[community]の真ん中で開催された模様のようです。</trans>
+		<trans>artextra_clause->その舞台は、[community]の中心で開催されている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 10]</path>
-		<trans>artextra_clause->そのシーンは[community]の外れで開催された模様のようです。</trans>
+		<trans>artextra_clause->その舞台は[community]の外れで開催されているよう</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 11]</path>
-		<trans>artextra_clause->[outlander]の笑顔が端から端まで見て取れます。</trans>
+		<trans>artextra_clause->[outlander]の笑顔が端から端まで見てとれる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 12]</path>
-		<trans>artextra_clause->そのシーンは、[terrainfeature]のそばに作られた[community]の中の様子です。</trans>
+		<trans>artextra_clause->その舞台は、[terrainfeature]のそばに作られた[community]の中で開催されている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 13]</path>
-		<trans>artextra_clause->イメージ下半分の[terrainfeature]が主役になっています。</trans>
+		<trans>artextra_clause->イメージの下半分は、[terrainfeature]が主役になっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 14]</path>
-		<trans>artextra_clause->そのイメージ全体が、注意深く配置された数百もの小さな[animal]によって描かれている。</trans>
+		<trans>artextra_clause->そのイメージ全体が、注意深く配置された数百もの小さな[animal]によって描かれている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 15]</path>
-		<trans>artextra_clause->[side_position]の [outlander]が [idle_verb_progressive]いる。</trans>
+		<trans>artextra_clause->[side_position]の、[outlander]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 16]</path>
-		<trans>artextra_clause->[side_position]の [animal]が [idle_verb_progressive]いる。</trans>
+		<trans>artextra_clause->[side_position]の、[animal]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 17]</path>
-		<trans>artextra_clause->[side_position]の 死んだ[animal]が [idle_verb_progressive]いる。</trans>
+		<trans>artextra_clause->[side_position]の、死んだ[animal]が、[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 18]</path>
-		<trans>artextra_clause->[side_position]に、[concept]を擬人化して表現したものが、[idle_verb_progressive]いる。</trans>
+		<trans>artextra_clause->[side_position]の、[concept]を擬人化して表現したものが、[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 19]</path>
-		<trans>artextra_clause->[side_position]にいる [animal]が、[concept]をシンボル化したようにみえる。</trans>
+		<trans>artextra_clause->[side_position]の、[animal]が、[concept]をシンボル化したようにみえる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 20]</path>
-		<trans>artextra_clause->[side_position]の [quantity_adjphrase] [outlander]が [idle_verb_progressive]いる。</trans>
+		<trans>artextra_clause->[side_position]の、[quantity_adjphrase]の[outlander]が、[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 21]</path>
-		<trans>artextra_clause->貴方が眼を細めたばあい、[composition]イメージが、[animal]の輪郭を浮き彫りにします。</trans>
+		<trans>artextra_clause->貴方が眼を細めたばあい、[composition]イメージで[animal]の輪郭を浮き彫りにする</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 22]</path>
-		<trans>style_clause->the image seems to express [concept]</trans>
+		<trans>style_clause->そのイメージは[concept]を明確に表現している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 23]</path>
-		<trans>style_clause->the work is infused with the idea of [concept] and is done in a [artstyle_adj] style</trans>
+		<trans>style_clause->その作品には、[concept]のアイデアが吹き込まれ、[artstyle_adj]様式となっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 24]</path>
-		<trans>style_clause->the work suggests the concept of [concept]</trans>
+		<trans>style_clause->その作品は、[concept]のコンセプトを暗示している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 25]</path>
-		<trans>style_clause->the work is executed in a [artstyle_adj] style</trans>
+		<trans>style_clause->その作業は、[artstyle_adj]様式を創作している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 26]</path>
-		<trans>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</trans>
+		<trans>style_clause->シーンの中心にある[artstyle_adj]様式は、背景に表現された[artstyle_adj]様式と調和しない</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 27]</path>
-		<trans>style_clause->その作品は、[composition]構造と、[artstyle_adj]風合いをもっている。</trans>
+		<trans>style_clause->その作品は、[composition]構造と、[artstyle_adj]様式をもっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 28]</path>
-		<trans>style_clause->それは全体的に[composition]構造となっている。</trans>
+		<trans>style_clause->それは全体的に[composition]構造となっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 29]</path>
-		<trans>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</trans>
+		<trans>style_clause->スタイルは、[artstyle_adj]様式の要素を含んだ、[artstyle_adj]様式になる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 30]</path>
-		<trans>style_clause->the image is totally devoid of both [concept] and [concept]</trans>
+		<trans>style_clause->このイメージには、完璧に[concept]と[concept]の両方が抜けている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 31]</path>
-		<trans>style_clause->the image somehow expresses both [concept] and [concept]</trans>
+		<trans>style_clause->どういうわけか、このイメージには、[concept]と[concept]の両方が表現されている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 32]</path>
-		<trans>style_clause->[composition]イメージと、[artstyle_adj]スタイルとが、いまいち食い違っている。</trans>
+		<trans>style_clause->[composition]イメージと、[artstyle_adj]様式とが、いまいち食い違っている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 33]</path>
-		<trans>style_clause->the work is shaded in hues of [color] and [color]</trans>
+		<trans>style_clause->この作品の色相が、[color]から[color]へ次第に変わっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 34]</path>
-		<trans>style_clause->イメージの中の、ほとんどすべてのシェイプが、[composition]形状からできている。</trans>
+		<trans>style_clause->イメージの中の、ほとんどすべてのシェイプが、[composition]形状からできている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 35]</path>
-		<trans>depicts->depicts</trans>
+		<trans>depicts->描写している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 36]</path>
-		<trans>depicts->shows</trans>
+		<trans>depicts->示している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 37]</path>
-		<trans>depicts->portrays</trans>
+		<trans>depicts->人物描写している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 38]</path>
-		<trans>depicts->resembles</trans>
+		<trans>depicts->生き写している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 39]</path>
-		<trans>depicts->illustrates</trans>
+		<trans>depicts->図解している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 40]</path>
-		<trans>depicts->represents</trans>
+		<trans>depicts->表している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 41]</path>
-		<trans>depicts->is shaped like</trans>
+		<trans>depicts->形を似せている</trans>
 	</rep>
 
 	<rep>

@@ -4,17 +4,17 @@
     <PrisonerFriendlyChat.label>囚人と会話</PrisonerFriendlyChat.label>
 	<rep>
 		<path>PrisonerFriendlyChat.logRulesInitiator.rulesStrings[0]</path>
-        <trans>logentry->[other_nameShortIndef]は、このコロニーの良いところを悟らせようとしている。</trans>
+        <trans>logentry->[other_nameShortIndef]に、このコロニーの良いところを悟らせようとしている。</trans>
 	</rep>
 	<rep>
 		<path>PrisonerFriendlyChat.logRulesRecipient.rulesStrings[0]</path>
-        <trans>logentry->このコロニーが、どれだけ素晴らしいかについての、[other_nameShortIndef]の話に耳を傾けている。</trans>
+        <trans>logentry->このコロニーの素晴らしさについての、[other_nameShortIndef]の話に耳を傾けている。</trans>
 	</rep>
 
     <RecruitAttempt.label>勧誘する</RecruitAttempt.label>
 	<rep>
 		<path>RecruitAttempt.logRulesInitiator.rulesStrings[0]</path>
-		<trans>logentry->[other_nameShortIndef] を勧誘した。</trans>
+		<trans>logentry->[other_nameShortIndef] を勧誘しようと試みる。</trans>
 	</rep>
 	<rep>
 		<path>RecruitAttempt.logRulesRecipient.rulesStrings[0]</path>

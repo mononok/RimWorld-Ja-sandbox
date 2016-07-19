@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <rep>
+		<path>GotMarried.stages[0].label</path>
+        <trans>結婚しました</trans>
+	</rep>
+	<rep>
+		<path>GotMarried.stages[0].description</path>
+		<trans>結婚しました。明るい将来に満ちている!!</trans>
+	</rep>
+
+    <rep>
+		<path>AttendedWedding.stages[0].label</path>
+        <trans>結婚式に参列</trans>
+	</rep>
+	<rep>
+		<path>AttendedWedding.stages[0].description</path>
+		<trans>二人がお互いに未来を作っていこうとしている光景を、目にできたことは素晴らしい。</trans>
+	</rep>
+
+    <rep>
+		<path>AttendedParty.stages[0].label</path>
+        <trans>パーティに参加</trans>
+	</rep>
+	<rep>
+		<path>AttendedParty.stages[0].description</path>
+		<trans>パーティで良い時間を過ごした。</trans>
+	</rep>
+
+</LanguageData>

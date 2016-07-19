@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
 	<MessageSiegersAssaulting>{0}の{1}は コロニーへ包囲攻撃します。</MessageSiegersAssaulting>
 
 	<MessageRaidersBeginningAssault>{0}の{1}は 襲撃を開始します。</MessageRaidersBeginningAssault>
 	<MessageRaidersDetectedEarlyAssault>{0}の{1}は あなたの斥候を発見したので、 襲撃を早めます。</MessageRaidersDetectedEarlyAssault>
 	<MessageRaidersKidnapping>{0}の{1}は 誰かを連れ去って離れることに決めました。</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
 
 	<MessageRaidersLeaving>{0}の{1}は 離れました。</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め 離脱します。</MessageRaidersGivenUpLeaving>
@@ -16,6 +16,7 @@
 	<MessageFriendlyFightersLeaving>友軍{0}の{1}は 離脱します。</MessageFriendlyFightersLeaving>
 
 	<MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます。</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
 
 	<MessageWornApparelDeterioratedAway>{1}が身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
 
@@ -38,11 +39,8 @@
 
 	<LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
 	<MessageRecruitSuccess>{0}は 囚人{1}を 村に迎えました(成功率 {2})。</MessageRecruitSuccess>
-	<MessageRecruitFail>{0}は 囚人{1}の説得に 失敗しました(成功率 {2})。</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0}は 囚人{1}の説得に 失敗しました(囚人のムードが低い {0}）。</MessageRecruitFailBecauseLoyalty>
 	<MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2})。</MessageTameSuccess>
-	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして {3}と名づけました。</MessageTameAndNameSuccess>
-
+	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして HIM {3}と名づけました。</MessageTameAndNameSuccess>
 
 	<MessageColonyCannotAfford>コロニーは、この取り引きに十分な アイテムが 足りない。</MessageColonyCannotAfford>
 	<MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
@@ -68,6 +66,7 @@
 
 	<MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
 	<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
 
 	<PawnDiedBecauseOf>{1}によって、{0}は命を落とした。</PawnDiedBecauseOf>
 
@@ -97,8 +96,8 @@
 
 	<MessageTraderCaravanLeaving>{0} トレーダーの一行は 離れていった。</MessageTraderCaravanLeaving>
 
-	<MessageCantSelectDeadFamilyMember>{0}は 亡くなった。</MessageCantSelectDeadFamilyMember>
-	<MessageCantSelectOffMapFamilyMember>{0}は 出て行った。</MessageCantSelectOffMapFamilyMember>
+	<MessageCantSelectDeadPawn>{0} is dead.</MessageCantSelectDeadPawn>
+	<MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
 
 	<MessageSocialFight>{0}は {1}とケンカを始めた。(理由: {2})</MessageSocialFight>
 
@@ -109,7 +108,7 @@
 	<MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
 	<MessageNewBondRelation>{0}と {1}は絆で結ばれた。</MessageNewBondRelation>
-	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。{1}の姓は、{2}となります。</MessageNewBondRelationNewName>
+	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。HIM の姓は、{2}となります。</MessageNewBondRelationNewName>
 
 	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけに、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
 	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけに、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
@@ -122,4 +121,10 @@
 	<MessagePartyCalledOff>パーティは、中止になった。</MessagePartyCalledOff>
 	<MessagePartyFinished>パーティが終わった</MessagePartyFinished>
 
+  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+  
 </LanguageData>

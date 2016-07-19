@@ -150,29 +150,4 @@
 		<trans>体が燃えているようだ。この暑さで死んでしまうだろう。</trans>
 	</rep>
 
-	<rep>
-		<path>Crowded.stages[0].label</path>
-		<trans>少し混んできた</trans>
-	</rep>
-	<rep>
-		<path>Crowded.stages[0].description</path>
-		<trans>ここは、少し混んできた。</trans>
-	</rep>
-    <rep>
-        <path>Crowded.stages[1].label</path>
-        <trans>混雑</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[1].description</path>
-        <trans>ここは混雑してきた。もう少し自由な空間があれば良いなあと感じる。</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[2].label</path>
-        <trans>かなりの人混み</trans>
-    </rep>
-    <rep>
-        <path>Crowded.stages[2].description</path>
-        <trans>ここは、息がやっとできる程、混んできた。</trans>
-    </rep>
-
 </LanguageData>

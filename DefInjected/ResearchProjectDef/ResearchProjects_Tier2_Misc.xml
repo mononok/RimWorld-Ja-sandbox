@@ -1,39 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!--================================ Tier 2: Basic electricity ====================================-->
+    <Batteries.label>batteries</Batteries.label>
+    <Batteries.description>Build batteries for storing electricity.</Batteries.description>
 
-  <!--=============================== Tier 2 Misc ===================================-->
+    <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+    <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
 
-	<Firefoam.label>泡消火器</Firefoam.label>
-	<Firefoam.description>火事を検知して、延焼を食い止めるための、泡消火器を作れるようになります。</Firefoam.description>
+	<SolarPanels.label>solar panels</SolarPanels.label>
+	<SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
 
-	<GeothermalPower.label>地熱発電</GeothermalPower.label>
-	<GeothermalPower.description>間欠泉の上部に、24時間発電する地熱発電装置を建設できるようになります。</GeothermalPower.description>
+	<AirConditioning.label>air conditioning</AirConditioning.label>
+	<AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
 
-	<HospitalBed.label>病院用ベッド</HospitalBed.label>
-	<HospitalBed.description>治療の成功率が良くなる病院用ベッドを作成できるようになります。</HospitalBed.description>
+	<Autodoors.label>autodoors</Autodoors.label>
+	<Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
 
-	<MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
-	<MultiAnalyzer.description>より高度な研究プロジェクトや、研究設備のそばに置くことで研究速度を高めるための、マルチアナライザーを作成できるようになります。</MultiAnalyzer.description>
+	<Hydroponics.label>水耕栽培</Hydroponics.label>
+	<Hydroponics.description>地形や外の天候に左右されずに、屋内で植物を素早く成長させる、水耕栽培テーブルを作れるようになります。</Hydroponics.description>
 
-  <!--=============================== Tier 2.5 Misc ===================================-->
+	<ElectricSmelting.label>溶鉱炉</ElectricSmelting.label>
+	<ElectricSmelting.description>熱と強力な電磁石を使って、くず鉄から使える金属を分離する溶鉱炉を作れるようになります。</ElectricSmelting.description>
 
-	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
-	<VitalsMonitor.description>医療用ベッドのそばに置くと、患者の治療品質が上がる、バイタルモニターを作成できるようになります。</VitalsMonitor.description>
+	<ElectricCremation.label>火葬</ElectricCremation.label>
+	<ElectricCremation.description>死体を火葬できる火葬場を作れるようになります。</ElectricCremation.description>
 
-	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
-	<Cryptosleep.description>仮死状態のまま長い期間を疑似冬眠で過ごせる機械を作ります。</Cryptosleep.description>
+	<ColoredLights.label>彩色灯</ColoredLights.label>
+	<ColoredLights.description>装飾目的の色つき電球を作れるようになります。</ColoredLights.description>
 
-	<ComponentAssembly.label>コンポーネント作成卓</ComponentAssembly.label>
-	<ComponentAssembly.description>シンプルな素材からコンポーネントの作成が可能になる、コンポーネント作成卓を作成できるようになります。</ComponentAssembly.description>
+	<Machining.label>工作機械</Machining.label>
+	<Machining.description>動作停止した機械生命体を分解し、利用可能な金属を回収する工作機械を作れるようになります。</Machining.description>
 
-	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
-    <PoweredArmor.description>ニューロミーム的ロボット工学と先進のプラスチールが織りなすテクノロジーは、パワーアーマーとヘルメットの製造を可能にします。</PoweredArmor.description>
+	<Mortars.label>迫撃砲</Mortars.label>
+	<Mortars.description>壁を飛び越え遠くを砲撃できる、迫撃砲を作れるようになります。</Mortars.description>
 
-    <ChargedShot.label>チャージライフル</ChargedShot.label>
-    <ChargedShot.description>チャージパルスエネルギーを照射する鍵となる仕組みを理解する。チャージライフルの製造を可能にします。</ChargedShot.description>
+	<IEDBomb.label>爆発物 IED</IEDBomb.label>
+	<IEDBomb.description>入植者達が、溜弾から爆発物を作成できるようになります。</IEDBomb.description>
 
-	<MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
-	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>
+	<IEDIncendiary.label>焼夷 IED</IEDIncendiary.label>
+	<IEDIncendiary.description>入植者達が、溜弾から焼夷物を作成できるようになります。</IEDIncendiary.description>
+
+	<MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
+	<MicroelectronicsBasics.description>微細で複雑な電子工学の基礎です。これによって、ハイテクリサーチベンチ、通信機器、そして、ブラウン管テレビや疑似冷凍睡眠機など、他の研究プロジェクトをアンロックします。</MicroelectronicsBasics.description>
+
+	<!--=============================== Tier 2.5 Microelectronics ===================================-->
+	<TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
+	<TubeTelevision.description>ブラウン管テレビを作ることが可能になります。</TubeTelevision.description>
+
+	<GunTurrets.label>gun turrets</GunTurrets.label>
+	<GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
 
 </LanguageData>

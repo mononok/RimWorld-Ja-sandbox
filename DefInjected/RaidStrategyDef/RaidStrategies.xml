@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+	<!-- ImmediateAttack -->
+	<ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
+	<ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!</ImmediateAttack.arrivalTextEnemy>
+	<ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
+	<ImmediateAttack.arrivalTextFriendly>彼らは、すぐに、あなたを助けに来ます。</ImmediateAttack.arrivalTextFriendly>
+	
+	<ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+	<ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
+	<ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+	<ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
 
 	<!-- StageThenAttack -->
 	<StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
@@ -7,11 +17,6 @@
 	<StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
 	<StageThenAttack.arrivalTextFriendly>彼らは、あなたを助けに行く前に、しばらくの間、準備を整えるでしょう。</StageThenAttack.arrivalTextFriendly>
 
-	<!-- ImmediateAttack -->
-	<ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
-	<ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!</ImmediateAttack.arrivalTextEnemy>
-	<ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
-	<ImmediateAttack.arrivalTextFriendly>彼らは、すぐに、あなたを助けに来ます。</ImmediateAttack.arrivalTextFriendly>
 
 	<!--ImmediateAttackSappers -->
 	<ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>

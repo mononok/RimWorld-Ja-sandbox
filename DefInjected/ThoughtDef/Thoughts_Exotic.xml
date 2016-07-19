@@ -1,6 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <rep>
+        <path>Joywire.stages[0].label</path>
+        <trans>ジョイワイヤー</trans>
+    </rep>
+    <rep>
+        <path>Joywire.stages[0].description</path>
+        <trans>すごいよ!</trans>
+    </rep>
+
+    <rep>
+        <path>ArtifactMoodBoost.stages[0].label</path>
+        <trans>奇妙な感覚</trans>
+    </rep>
+    <rep>
+    	<path>ArtifactMoodBoost.stages[0].description</path>
+    	<trans>奇妙な感覚を覚えるが、気分はとても落ち着いている。</trans>
+    </rep>
+
 	<!-- Psychic drone -->
 	<rep>
 		<path>PsychicDrone.stages[0].label</path>

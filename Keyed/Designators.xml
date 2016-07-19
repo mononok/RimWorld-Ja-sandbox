@@ -43,10 +43,14 @@
   <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
   <DesignatorAreaNoRoofExpand>屋根 取り外し</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします。</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>屋根 取り外し撤回</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。 ここでは 屋根は 作成されます。 すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>

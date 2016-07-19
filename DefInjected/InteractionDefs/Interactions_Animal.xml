@@ -31,4 +31,8 @@
 		<trans>logentry->自分を手なずけようとしてくる、[other_nameShortIndef]を見ている。</trans>
 	</rep>
 
+	<Nuzzle.label>Nuzzle</Nuzzle.label>
+	<Nuzzle.logRulesInitiator.rulesStrings.0>logentry->Nuzzled [other_nameShortIndef].</Nuzzle.logRulesInitiator.rulesStrings.0>
+	<Nuzzle.logRulesRecipient.rulesStrings.0>logentry->Was nuzzled by [other_nameShortIndef].</Nuzzle.logRulesRecipient.rulesStrings.0>
+
 </LanguageData>

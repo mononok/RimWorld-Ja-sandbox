@@ -15,6 +15,7 @@
 <Unowned>空き</Unowned>
 <DeadTime>死後 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
+<FertShort>fert.</FertShort>
 <DyingLower>瀕死</DyingLower>
 <FilthOnFeet>足跡：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
@@ -41,7 +42,6 @@
   <Off>Off</Off>
   <PowerSwitch_Power>電源SW</PowerSwitch_Power>
   <JoyTolerances>娯楽への耐性</JoyTolerances>
-  <MentalStateLetterLabel>精神状態</MentalStateLetterLabel>
   <MilkFullness>乳量</MilkFullness>
   <WoolGrowth>毛長さ</WoolGrowth>
   <EggProgress>卵成長</EggProgress>
@@ -54,6 +54,11 @@
 <BrokenDown>故障中</BrokenDown>
 <BondBrackets>(絆)</BondBrackets>
 	<Fuel>燃料</Fuel>
+  <Enemies>enemies</Enemies>
+  <TimePassed>time passed</TimePassed>
+  <CurrentRadius>current radius</CurrentRadius>
+  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+  <Permanent>permanent</Permanent>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -63,14 +68,17 @@
   <TextMote_TreatSuccess>治療に成功した!\n成功率 {0}</TextMote_TreatSuccess>
   <TextMote_TreatFailed>治療に失敗した\n成功率 {0}</TextMote_TreatFailed>
   <HarvestFailed>収穫に失敗した</HarvestFailed>
+  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
   <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
   <TextMote_TrainSuccess>{0} 調教に成功した\n成功率 {1}</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>修理\n失敗</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
 
   <!-- Areas -->
   <Home>コロニー</Home>
+  <BuildRoof>Build roof</BuildRoof>
   <NoRoof>屋根無し</NoRoof>
   <SnowClear>除雪済み</SnowClear>
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
@@ -92,7 +100,6 @@
   <SnowThin>積雪(薄)</SnowThin>
   <SnowMedium>積雪</SnowMedium>
   <SnowThick>積雪(厚)</SnowThick>
-  <ReportCowering>ちじこまる</ReportCowering>
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
@@ -111,21 +118,29 @@
   <WatchingSunset>陽が沈むのを眺めている</WatchingSunset>
   <Stargazing>星の瞬きを眺めている</Stargazing>
   <WatchingEclipse>月の満ち欠けを眺めている</WatchingEclipse>
-  <DeliveringFood>{0} に食料を届ける</DeliveringFood>
   <UsingVerb>{1} に {0}を使う</UsingVerb>
   <AreaLower>エリア</AreaLower>
+  <ReportCowering>ちじこまる</ReportCowering>
+  <ReportStanding>standing.</ReportStanding>
+  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+  
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
 
 	<!-- Shooting report -->
 <WeaponMissRadius>攻撃角度</WeaponMissRadius>
 	<ShootReportShooterAbility>射手</ShootReportShooterAbility>
 <ShootReportWeapon>武器</ShootReportWeapon>
 <Darkness>暗い</Darkness>
-<TargetProne>的にしやすい</TargetProne>
+<TargetProne>標的が伏せている</TargetProne>
 <TargetSize>標的サイズ</TargetSize>
 <Weather>天候</Weather>
 <ShootingCover>身を隠す障害物</ShootingCover>
 <CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
 <NoCoverLower>身を隠せない</NoCoverLower>
+  <Execution>Execution</Execution>
 
   <!-- Generated recipes -->
   <RecipeMake>{0} を作る</RecipeMake>
@@ -135,8 +150,9 @@
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
 <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
 <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdHard>精神崩壊 ポイント</MentalBreakThresholdHard>
-  <MentalBreakThresholdSoft>精神衰弱 ポイント</MentalBreakThresholdSoft>
+  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
 
 <!-- Pawn info readout -->
 <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
@@ -188,14 +204,6 @@
 	<ShotBy>{0} が 射撃</ShotBy>
 	<CannotHit>命中 しません</CannotHit>
 
-	<!-- Storage priority labels -->
-	<StoragePriorityUnstored>保存しない</StoragePriorityUnstored>
-	<StoragePriorityLow>低い</StoragePriorityLow>
-	<StoragePriorityNormal>通常</StoragePriorityNormal>
-	<StoragePriorityPreferred>高い</StoragePriorityPreferred>
-	<StoragePriorityImportant>優先</StoragePriorityImportant>
-	<StoragePriorityCritical>最優先</StoragePriorityCritical>
-
   <!-- Rotting -->
   <CurrentlyFrozen>冷凍</CurrentlyFrozen>
   <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
@@ -245,6 +253,7 @@
 	<ShowBeautyToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
     <ShowRoomStatsToggleButton>ルームステータスの可視 切り替え\n\nマウスでポイントした場所のルームステータスを表示します</ShowRoomStatsToggleButton>
 	<AutoHomeAreaToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeAreaToggleButton>
+    <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
 	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
 
@@ -254,8 +263,10 @@
 	<Burning>炎上中</Burning>
 	<FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
-	<!-- Map conditions (eclipse, solar flare, etc )-->
+	<!-- Map conditions -->
 	<MapConditionsTip>この地域に 影響中の 特殊な状況</MapConditionsTip>
+    <TimeLeft>time left</TimeLeft>
+    <ImpactDate>impact date</ImpactDate>
 
 	<!-- Building placement -->
 	<NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
@@ -275,7 +286,6 @@
 
 	<!-- Cryptosleep casket -->
 	<CasketContains>内容物</CasketContains>
-	<CasketUnknownContents>不明</CasketUnknownContents>
 	<CasketWarning>【警告】 NAMEは最後の入植者です。HIM冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
 
 	<!-- Ship launch report -->
@@ -285,14 +295,7 @@
 	<ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
 
 	<!-- Neurotrainer -->
-	<UseNeurotrainer>{0} を学ぶ為に ニューロトレイナーを使用する</UseNeurotrainer>
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
-
-  <!-- Artifact -->
-  <UseArtifact>起動</UseArtifact>
-
-	<!-- Firefoam popper -->
-    <TriggerFirefoamPopper>泡消火器を作動させる</TriggerFirefoamPopper>
 
 	<!-- Minification -->
 	<Installed>インストール済</Installed>
@@ -323,6 +326,7 @@
 	<!-- Game over -->
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
 	<GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
+    <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
@@ -342,4 +346,27 @@
 	<DiseaseGrowthModeChanged_Stable>{0}の {1}は 安定している。</DiseaseGrowthModeChanged_Stable>
 	<DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している。</DiseaseGrowthModeChanged_Remission>
 
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
+  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
+  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
+  <ActivityIconIdle>Idle</ActivityIconIdle>
+  <ActivityIconBurning>Burning</ActivityIconBurning>
+
+  <!-- Maintainable -->
+  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+  
 </LanguageData>

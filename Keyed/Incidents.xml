@@ -13,14 +13,16 @@
 	<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
 
 <!-- Enemy raids -->
-<EnemyRaidWalkIn>{0}の {1}グループが 接近して います。</EnemyRaidWalkIn>
-<EnemyRaidEdgeDrop>{0}の {1}グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
-<EnemyRaidCenterDrop>{0}の {1} グループが、 コロニーめがけて 着陸します！</EnemyRaidCenterDrop>
+	<EnemyRaidWalkIn>{0}の {1}グループが 接近して います。</EnemyRaidWalkIn>
+	<EnemyRaidEdgeDrop>{0}の {1}グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
+	<EnemyRaidCenterDrop>{0}の {1} グループが、 コロニーめがけて 着陸します！</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
 
 <!-- Friendly raids -->
-<FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
-<FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
-<FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
+	<FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
+	<FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
+	<FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
 <RefugeePodCrash>この近くで 脱出ポットが 地面に 激突したのを 発見しました。\n\nあの衝撃では きっと  ひどく傷ついて いるでしょう。</RefugeePodCrash>
@@ -39,12 +41,13 @@
 <GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
 
 	<LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2}.{3} と名乗っています。</SingleVisitorArrives>
+	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2}.{3}{4} と名乗っています。</SingleVisitorArrives>
 <SingleVisitorArrivesTraderInfo>\n\nHECAP は、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
 	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
-	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}</GroupVisitorsArrive>
+	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
 <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
-
+  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
@@ -108,4 +111,9 @@
 <LetterLabelBuildingBrokenDown>機能停止: {0}</LetterLabelBuildingBrokenDown>
 <LetterBuildingBrokenDown>ひとつの機械({0})の機能が停止しました。修理作業を受け持った入植者が修理するまで、機能は動作しません。</LetterBuildingBrokenDown>
 
+  <!-- Ransom demand -->
+  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+  <RansomDemand_Accept>Accept</RansomDemand_Accept>
+  <RansomDemand_Reject>Reject</RansomDemand_Reject>
+  
 </LanguageData>

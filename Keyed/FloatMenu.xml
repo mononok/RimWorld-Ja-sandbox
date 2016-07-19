@@ -26,6 +26,7 @@
 <NoPath>道順が無い</NoPath>
 
 <ForbiddenLower>無視</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
 <SociallyImproperLower>社交的でない</SociallyImproperLower>
   <PrisonerRoomLower>牢獄が ない</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
@@ -36,6 +37,7 @@
     <NoEmptyGraveLower>墓地の空きがない</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>動物への指示間隔が短い</AnimalInteractedTooRecently>
   <NoUsableFood>エサがない</NoUsableFood>
+  <NoFood>no food</NoFood>
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0} 必要</NoFuelToRefuel>
@@ -71,6 +73,8 @@
   <Incapable>能力が無い</Incapable>
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
 
+  <MinSkill>min skill</MinSkill>
+  
 <Equip>{0}を 装備する</Equip>
   <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
 <CannotEquip>{0}を 装備できない</CannotEquip>
@@ -115,6 +119,8 @@
 <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 
 <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
+
+<CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->

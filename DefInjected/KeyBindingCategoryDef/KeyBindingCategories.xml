@@ -7,7 +7,6 @@
 	<Game.label>ゲーム内操作</Game.label>
 	<Game.description>ゲーム内で最も頻繁に行う操作</Game.description>
 
-	<MainTabs.label>メインタブ</MainTabs.label>
 	<SelectionMisc.label>その他操作</SelectionMisc.label>
 	<SelectionMisc.description>アイテムやオブジェクトの再使用等を行う操作</SelectionMisc.description>
 
@@ -16,6 +15,8 @@
 
 	<Architect.label>アーキテクト</Architect.label>
 	<Architect.description>アーキテクトメニューで使用する操作</Architect.description>
+
+	<MainTabs.label>メインタブ</MainTabs.label>
 
 	<Development.label>開発者モード</Development.label>
 	<Development.description>開発者・Mod制作者用の操作</Development.description>

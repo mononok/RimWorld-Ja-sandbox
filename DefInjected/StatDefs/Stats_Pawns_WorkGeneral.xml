@@ -22,6 +22,9 @@
     <HarvestFailChance.label>収穫ミス確率</HarvestFailChance.label>
     <HarvestFailChance.description>この人物が、収穫できずに、予期せず失なってしまう確率です。</HarvestFailChance.description>
 
+	<ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
+	<ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+
 	<FixBrokenDownBuildingFailChance.label>修理失敗率</FixBrokenDownBuildingFailChance.label>
 	<FixBrokenDownBuildingFailChance.description>壊れた建物の修理に失敗する確率です。</FixBrokenDownBuildingFailChance.description>
 

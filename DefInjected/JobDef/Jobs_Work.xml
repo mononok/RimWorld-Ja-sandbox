@@ -6,26 +6,20 @@
 
     <HaulToContainer.reportString>TargetA を運搬中</HaulToContainer.reportString>
 
-    <!--============= Pawn hauling ===============-->
-    <Rescue.reportString>TargetA を救助中</Rescue.reportString>
-
-    <CarryToCryptosleepCasket.reportString>TargetA を冬眠カプセルに搬送中</CarryToCryptosleepCasket.reportString>
-
-    <Capture.reportString>TargetA を捕獲中</Capture.reportString>
-
-    <Arrest.reportString>TargetA を逮捕中</Arrest.reportString>
-
-    <ReleasePrisoner.reportString>TargetA を釈放中</ReleasePrisoner.reportString>
-
-    <EscortPrisonerToBed.reportString>TargetA を護送中</EscortPrisonerToBed.reportString>
-
-    <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
-
-    <TakeToBedToOperate.reportString>TargetA を診察台に搬送中</TakeToBedToOperate.reportString>
-
+    <!--============= Special hauling ===============-->
+	<Steal.reportString>stealing TargetA.</Steal.reportString>
+	
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 
-    <TendPatient.reportString>TargetA に貢献中</TendPatient.reportString>
+    <!--============= Pawn hauling ===============-->
+    <Rescue.reportString>TargetA を救助中</Rescue.reportString>
+    <CarryToCryptosleepCasket.reportString>TargetA を冬眠カプセルに搬送中</CarryToCryptosleepCasket.reportString>
+    <Capture.reportString>TargetA を捕獲中</Capture.reportString>
+    <Arrest.reportString>TargetA を逮捕中</Arrest.reportString>
+    <ReleasePrisoner.reportString>TargetA を釈放中</ReleasePrisoner.reportString>
+    <EscortPrisonerToBed.reportString>TargetA を護送中</EscortPrisonerToBed.reportString>
+    <TakeWoundedPrisonerToBed.reportString>TargetA を救護中</TakeWoundedPrisonerToBed.reportString>
+    <TakeToBedToOperate.reportString>TargetA を診察台に搬送中</TakeToBedToOperate.reportString>
 
     <!-- ==== Animal handlinkg ==== -->
     <Slaughter.reportString>TargetA を屠殺中</Slaughter.reportString>
@@ -34,51 +28,36 @@
 	<Tame.reportString>TargetA を手なずけ中</Tame.reportString>
 	<Train.reportString>TargetA を調教中</Train.reportString>
 
-	<DeliverFood.reportString>TargetA が TargetB に給仕中</DeliverFood.reportString>
-
-    <FeedPatient.reportString>TargetA が TargetB に給仕中</FeedPatient.reportString>
-
+	<!--============= Construction and repair ===============-->
     <PlaceNoCostFrame.reportString>TargetA を建設中</PlaceNoCostFrame.reportString>
-
-    <DoBill.reportString>Doing bill at TargetA</DoBill.reportString>
-
-    <Clean.reportString>TargetA を掃除中</Clean.reportString>
-
-    <Research.reportString>研究中</Research.reportString>
-
-    <Hunt.reportString>TargetA を狩っている</Hunt.reportString>
-
-    <UseCommsConsole.reportString>通信中</UseCommsConsole.reportString>
-
-    <Mine.reportString>TargetA を掘削中</Mine.reportString>
-
-	<SmoothFloor.reportString>床をならしている</SmoothFloor.reportString>
-
-	<RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
-
-    <Repair.reportString>TargetA を修理中</Repair.reportString>
-
-    <FixBrokenDownBuilding.reportString>TargetA の壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
-
     <FinishFrame.reportString>TargetA を仕上げ中</FinishFrame.reportString>
-
-    <Sow.reportString>TargetA の種まき中</Sow.reportString>
-
-    <Harvest.reportString>TargetA を収穫中</Harvest.reportString>
-
-    <CutPlant.reportString>TargetA を伐採中</CutPlant.reportString>
-
     <Deconstruct.reportString>TargetA を解体中</Deconstruct.reportString>
-
     <Uninstall.reportString>TargetA をアンインストール中</Uninstall.reportString>
+    <Repair.reportString>TargetA を修理中</Repair.reportString>
+    <FixBrokenDownBuilding.reportString>TargetA の壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
+    <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+    <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+	
+	<!--============= Medical ===============-->
+    <FeedPatient.reportString>TargetA が TargetB に給仕中</FeedPatient.reportString>
+    <TendPatient.reportString>TargetA に貢献中</TendPatient.reportString>
 
+	<!--============= Misc ===============-->
+	<DeliverFood.reportString>TargetA が TargetB に給仕中</DeliverFood.reportString>
+    <DoBill.reportString>Doing bill at TargetA</DoBill.reportString>
+    <Clean.reportString>TargetA を掃除中</Clean.reportString>
+    <Research.reportString>研究中</Research.reportString>
+    <Hunt.reportString>TargetA を狩っている</Hunt.reportString>
+    <UseCommsConsole.reportString>通信中</UseCommsConsole.reportString>
+    <Mine.reportString>TargetA を掘削中</Mine.reportString>
+	<SmoothFloor.reportString>床をならしている</SmoothFloor.reportString>
+	<RemoveFloor.reportString>床を剥がしている</RemoveFloor.reportString>
+    <Sow.reportString>TargetA の種まき中</Sow.reportString>
+    <Harvest.reportString>TargetA を収穫中</Harvest.reportString>
+    <CutPlant.reportString>TargetA を伐採中</CutPlant.reportString>
     <PrisonerFriendlyChat.reportString>TargetA と雑談中</PrisonerFriendlyChat.reportString>
-
     <PrisonerAttemptRecruit.reportString>TargetA を勧誘中</PrisonerAttemptRecruit.reportString>
-
     <PrisonerExecution.reportString>TargetA を処刑中</PrisonerExecution.reportString>
-
     <BuryCorpse.reportString>TargetA を埋葬中</BuryCorpse.reportString>
-
 
 </LanguageData>

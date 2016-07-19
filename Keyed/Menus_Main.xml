@@ -5,6 +5,7 @@
 <CreateWorld>惑星を創造</CreateWorld>
 <NewColony>新しくはじめる</NewColony>
 <BackToGame>ゲーム再開</BackToGame>
+<ReviewScenario>Review scenario</ReviewScenario>
 <Save>セーブ</Save>
 <Load>ロード</Load>
 <Options>オプション</Options>
@@ -32,7 +33,6 @@
 <WorldSeed>起源の種</WorldSeed>
 <RandomizeSeed>ランダムな種</RandomizeSeed>
 
-
 <!--=========== Select world ===================-->
 <SelectWorld>惑星を選択</SelectWorld>
 <WorldChooseButton>選択</WorldChooseButton>
@@ -47,7 +47,7 @@
 <!--=========== World generator =========-->
 <GenerateWorld>世界を創造</GenerateWorld>
 
-<!--=========== Mods screen ==========-->
+  <!--=========== Mods screen ==========-->
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
@@ -61,18 +61,37 @@
   <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
   <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <DownloadingMod>Downloading {0}</DownloadingMod>
+  <Downloading>Downloading</Downloading>
+  <Source>Source</Source>
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Choose scenario</ChooseScenario>
+  <ScenariosCustom>Custom</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <Delete>Delete</Delete>
+
+  <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <EditMode>edit mode</EditMode>
+  <Summary>Summary</Summary>
+  <AddPart>Add part</AddPart>
+  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <Incompatible>Incompatible</Incompatible>
+  <TooMany>Too many (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
 <HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
 <MustChooseChallengeScale>難易度を選択</MustChooseChallengeScale>
   <Difficulty>難易度</Difficulty>
-
-
-
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>降下地点を選択</SelectLandingSite>
@@ -94,8 +113,8 @@
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
-  <AvgJanTemp>年平均気温(1月): {0}</AvgJanTemp>
-  <AvgJulTemp>年平均気温(7月): {0}</AvgJulTemp>
+  <AvgJanTemp>年平均気温(冬季): {0}</AvgJanTemp>
+  <AvgJulTemp>年平均気温(夏期): {0}</AvgJulTemp>
   <Rainfall>降雨量</Rainfall>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
@@ -103,7 +122,6 @@
   <HasCoast3>西海岸</HasCoast3>
   <FactionBase>本拠地</FactionBase>
   <StoneTypesHere>主な岩盤</StoneTypesHere>
-
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -125,7 +143,6 @@
 <Pain>やな奴</Pain>
 <Health>健康</Health>
 <Relations>相関関係</Relations>
-
 
 <!--=========== Misc ==========-->
 <Start>スタート</Start>

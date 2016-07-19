@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>AteLavishMeal.stages[0].label</path>
+    <trans>贅沢な料理を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteLavishMeal.stages[0].description</path>
+    <trans>驚くような贅沢な食事を食べた。身も心も満たされた。</trans>
+  </rep>
+
+  <rep>
+    <path>AteFineMeal.stages[0].label</path>
+    <trans>おいしい食事を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteFineMeal.stages[0].description</path>
+    <trans>本当においしい食事を食べた。おいしかった！。</trans>
+  </rep>
+
+  <rep>
+    <path>AteAwfulMeal.stages[0].label</path>
+    <trans>ate awful meal</trans>
+  </rep>
+  <rep>
+    <path>AteAwfulMeal.stages[0].description</path>
+    <trans>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</trans>
+  </rep>
+
+  <rep>
+    <path>AteRawFood.stages[0].label</path>
+    <trans>生肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteRawFood.stages[0].description</path>
+    <trans>私は生肉を食べるしかなかった。もう調理できるようになってもよくないか？、それか、せめて合成栄養食品でも作らないか?</trans>
+  </rep>
+
+  <rep>
+    <path>AteCorpse.stages[0].label</path>
+    <trans>屍肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteCorpse.stages[0].description</path>
+    <trans>私は獣のように屍肉を食べるしかなかった。それは身の毛もよだつ...</trans>
+  </rep>
+
+	<!--=========== Special nature thoughts ============-->
+
+  <rep>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
+    <trans>好物の生の人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
+    <trans>好物の調理された人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
+  </rep>
+
+  <rep>
+    <path>AteInsectMeatAsIngredient.stages[0].label</path>
+    <trans>ate cooked insect meat</trans>
+  </rep>
+  <rep>
+    <path>AteInsectMeatAsIngredient.stages[0].description</path>
+    <trans>I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify.</trans>
+  </rep>
+
+  <rep>
+    <path>AteInsectMeatDirect.stages[0].label</path>
+    <trans>ate insect meat</trans>
+  </rep>
+  <rep>
+    <path>AteInsectMeatDirect.stages[0].description</path>
+    <trans>I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted.</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
+    <trans>調理された人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。なんて恐ろしい。</trans>
+  </rep>
+
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].label</path>
+    <trans>生の人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
+  </rep>
+  
+    <!--================== Rotten state thoughts =================-->
+
+  <rep>
+    <path>AteRottenFood.stages[0].label</path>
+    <trans>ate rotten food</trans>
+  </rep>
+  <rep>
+    <path>AteRottenFood.stages[0].description</path>
+    <trans>I ate some disgusting, purtid food. It was melting in my mouth - but not in a good way.</trans>
+  </rep>
+
+
+</LanguageData>

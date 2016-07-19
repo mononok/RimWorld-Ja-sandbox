@@ -163,4 +163,31 @@
 		<trans>NAME は女嫌いで まったく女性を信用していません。</trans>
 	</rep>
 
+	<rep>
+		<path>AnnoyingVoice.degreeDatas[0].label</path>
+		<trans>annoying voice</trans>
+	</rep>
+	<rep>
+		<path>AnnoyingVoice.degreeDatas[0].description</path>
+		<trans>NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.</trans>
+	</rep>
+	
+	<rep>
+		<path>CreepyBreathing.degreeDatas[0].label</path>
+		<trans>creepy breathing</trans>
+	</rep>
+	<rep>
+		<path>CreepyBreathing.degreeDatas[0].description</path>
+		<trans>NAME breathes heavily all the time, and sweats constantly. People find it creepy.</trans>
+	</rep>
+	
+	<rep>
+		<path>Pyromaniac.degreeDatas[0].label</path>
+		<trans>pyromaniac</trans>
+	</rep>
+	<rep>
+		<path>Pyromaniac.degreeDatas[0].description</path>
+		<trans>NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.</trans>
+	</rep>
+
 </LanguageData>

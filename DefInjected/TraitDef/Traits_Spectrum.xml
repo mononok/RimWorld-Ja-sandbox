@@ -276,22 +276,37 @@
 		<trans>バン！バン！ NAMEは射撃が下手です。しかし、HEは気にしません、なぜなら銃こそが最高だからです。</trans>
 	</rep>
 
-	<!--> Prettiness -->
 	<rep>
-		<path>Prettiness.degreeDatas[0].label</path>
-		<trans>美男美女</trans>
+		<path>Beauty.degreeDatas[0].label</path>
+		<trans>beautiful</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[0].description</path>
-		<trans>NAME の美しさは際立っていて、誰もが HIM を好きになります。</trans>
+		<path>Beauty.degreeDatas[0].description</path>
+		<trans>NAME is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to HIM before HE even opens HIS mouth.</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[1].label</path>
-		<trans>醜男醜女</trans>
+		<path>Beauty.degreeDatas[1].label</path>
+		<trans>pretty</trans>
 	</rep>
 	<rep>
-		<path>Prettiness.degreeDatas[1].description</path>
-		<trans>NAME は、驚くほど醜いので つまはじきにされます。</trans>
+		<path>Beauty.degreeDatas[1].description</path>
+		<trans>NAME has a pretty face, which predisposes people to like HIM.</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[2].label</path>
+		<trans>ugly</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[2].description</path>
+		<trans>NAME is somewhat ugly. This subtly repels others during social interactions.</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[3].label</path>
+		<trans>staggeringly ugly</trans>
+	</rep>
+	<rep>
+		<path>Beauty.degreeDatas[3].description</path>
+		<trans>NAME is staggeringly ugly. HISCAP face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at HIM while conversing.</trans>
 	</rep>
 
 </LanguageData>

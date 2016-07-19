@@ -58,16 +58,19 @@
   <LetterLeadersDeathLabel>リーダーの死</LetterLeadersDeathLabel>
   <LetterLeadersDeath>{1} のリーダー {0} は死に、代わりに {2} が、その地位についた。</LetterLeadersDeath>
 
-  <!-- Family -->
-  <LetterLabelNoticedFamilyMembers>家族のしらせ</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>入植者か囚人とつながりのある家族のひとりが、敵対する {0} グループに到着しました。\n\n彼とは血がつながっていても、彼らとは敵対する関係であることに留意してください。\n\n 家族の一員：</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>入植者か囚人とつながりのある家族のひとりが、友好な {0} グループに到着しました：</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>入植者か囚人とつながりのある家族のひとりが、グループに到着しました：</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>起動上の商人が、入植者か囚人とつながりのある家族のひとりを売りに出しています：</LetterFamilyMembersTraderShipSlaves>
+  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+  <MentalBreakReason>Reason: {0}.</MentalBreakReason>
+  
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
 
-  <FamilyLetterAppendedSuffix>(家族)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME は入植者 {0} の{1}で、家族の一員です。</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME は囚人 {0} の{1}で、家族の一員です。</FamilyLetterAppendedTextPrisoner>
+  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
@@ -75,6 +78,7 @@
   <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
   <LetterNewLovers>{0} と {1} は、お互いを好きになって、恋人になりました。</LetterNewLovers>
   <LetterNoLongerLovers>{0} は {1} との関係を断ちました。</LetterNoLongerLovers>
+  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} は、{0} からのプロポーズを受け留めました。\n\nあなたが、婚姻の儀式を行う場所(marrige point)を決めさえすれば、季節が流れたある時期に、彼らは、全ての入植者に招待状を出して、そこで結婚式を行うでしょう。</LetterAcceptedProposal>

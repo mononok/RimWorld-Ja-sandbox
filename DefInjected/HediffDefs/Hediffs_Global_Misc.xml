@@ -72,4 +72,18 @@
 		<trans>臨月</trans>
 	</rep>
 
+	<HeartAttack.label>心筋梗塞</HeartAttack.label>
+	<rep>
+		<path>HeartAttack.stages[0].label</path>
+		<trans>苦痛</trans>
+	</rep>
+	<rep>
+		<path>HeartAttack.stages[1].label</path>
+		<trans>衰弱</trans>
+	</rep>
+	<rep>
+		<path>HeartAttack.stages[2].label</path>
+		<trans>致命的</trans>
+	</rep>
+
 </LanguageData>

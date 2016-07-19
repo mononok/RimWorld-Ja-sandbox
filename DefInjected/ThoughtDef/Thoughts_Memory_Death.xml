@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>KnowGuestExecuted.stages[0].label</path>
+    <trans>誰かが処刑された</trans>
+  </rep>
+  <rep>
+    <path>KnowGuestExecuted.stages[0].description</path>
+    <trans>犯罪者かゲストの誰かが処刑された。</trans>
+  </rep>
+  <rep>
+    <path>KnowGuestExecuted.stages[1].label</path>
+    <trans>誰かが処刑された</trans>
+  </rep>
+  <rep>
+    <path>KnowGuestExecuted.stages[1].description</path>
+    <trans>犯罪者かゲストの誰かが平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
+  </rep>
+  <rep>
+    <path>KnowGuestExecuted.stages[2].label</path>
+    <trans>臓器を奪って殺した</trans>
+  </rep>
+  <rep>
+    <path>KnowGuestExecuted.stages[2].description</path>
+    <trans>犯罪者かゲストの誰かが死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したからだ。おぞましい。</trans>
+  </rep>
+
+  <rep>
+    <path>KnowColonistExecuted.stages[0].label</path>
+    <trans>入植者が処刑された</trans>
+  </rep>
+  <rep>
+    <path>KnowColonistExecuted.stages[0].description</path>
+    <trans>入植者が処刑された。</trans>
+  </rep>
+  <rep>
+    <path>KnowColonistExecuted.stages[1].label</path>
+    <trans>入植者が処刑された</trans>
+  </rep>
+  <rep>
+    <path>KnowColonistExecuted.stages[1].description</path>
+    <trans>入植者が平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
+  </rep>
+  <rep>
+    <path>KnowColonistExecuted.stages[2].label</path>
+    <trans>臓器を奪って殺した</trans>
+  </rep>
+  <rep>
+    <path>KnowColonistExecuted.stages[2].description</path>
+    <trans>入植者が死んだ、なぜならコロニーの誰かが、彼の身体から臓器を取り出したから。おぞましい。</trans>
+  </rep>
+
+	<rep>
+		<path>KnowPrisonerDiedInnocent.stages[0].label</path>
+		<trans>innocent prisoner died</trans>
+	</rep>
+	<rep>
+		<path>KnowPrisonerDiedInnocent.stages[0].description</path>
+        <trans>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</trans>
+	</rep>
+
+	<rep>
+		<path>KnowColonistDied.stages[0].label</path>
+		<trans>colonist died</trans>
+	</rep>
+	<rep>
+		<path>KnowColonistDied.stages[0].description</path>
+        <trans>One of our people died. We should be able to take care of our people.</trans>
+	</rep>
+
+	<!--===================== bonded animal died =====================-->
+    <rep>
+		<path>BondedAnimalDied.stages[0].label</path>
+        <trans>bonded animal {0} died</trans>
+	</rep>
+	<rep>
+		<path>BondedAnimalDied.stages[0].description</path>
+		<trans>こんな優しい動物は他にはいない。この世は悪いことばかり!!</trans>
+	</rep>
+
+    <!--===================== friend/rival died =====================-->
+    <rep>
+		<path>PawnWithGoodOpinionDied.stages[0].label</path>
+        <trans>私の親友 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>PawnWithGoodOpinionDied.stages[0].description</path>
+		<trans>とてもいい奴だったのに、この世は闇ばかり。</trans>
+	</rep>
+
+    <rep>
+		<path>PawnWithBadOpinionDied.stages[0].label</path>
+        <trans>私のライバル {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>PawnWithBadOpinionDied.stages[0].description</path>
+		<trans>役目を果たして死んだ。</trans>
+	</rep>
+
+    <!--===================== Family member died thoughts =====================-->
+    <rep>
+		<path>MySonDied.stages[0].label</path>
+        <trans>私の息子 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MySonDied.stages[0].description</path>
+		<trans>私の息子が死んだ。自分の血肉をわけた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyDaughterDied.stages[0].label</path>
+        <trans>私の娘 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyDaughterDied.stages[0].description</path>
+		<trans>私の娘が死んだ。自分の血肉をわけた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyHusbandDied.stages[0].label</path>
+        <trans>私の夫 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyHusbandDied.stages[0].description</path>
+		<trans>私の夫が死んだ。そして独りになった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyWifeDied.stages[0].label</path>
+        <trans>私の妻 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyWifeDied.stages[0].description</path>
+		<trans>私の妻が死んだ。そして独りになった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyFianceDied.stages[0].label</path>
+        <trans>私の婚約者 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyFianceDied.stages[0].description</path>
+		<trans>私の婚約者が死んだ。彼との未来は消え去ってしまった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyFianceeDied.stages[0].label</path>
+        <trans>私の婚約者 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyFianceeDied.stages[0].description</path>
+		<trans>私の婚約者が死んだ。彼女との未来は消え去ってしまった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyLoverDied.stages[0].label</path>
+        <trans>私の恋人 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyLoverDied.stages[0].description</path>
+		<trans>恋人が死んで、独りになった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyBrotherDied.stages[0].label</path>
+        <trans>私の兄弟 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyBrotherDied.stages[0].description</path>
+		<trans>私の兄弟が死んだ。自分の血肉をわけた...</trans>
+	</rep>
+
+    <rep>
+		<path>MySisterDied.stages[0].label</path>
+        <trans>私の姉妹 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MySisterDied.stages[0].description</path>
+		<trans>私の姉妹が死んだ。自分の血肉を分けた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyFatherDied.stages[0].label</path>
+        <trans>私の父 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyFatherDied.stages[0].description</path>
+		<trans>私の父が死んだ。彼は永遠の彼方へいった</trans>
+	</rep>
+
+    <rep>
+		<path>MyMotherDied.stages[0].label</path>
+        <trans>私の母 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyMotherDied.stages[0].description</path>
+		<trans>私の母が死んだ。彼女は永遠の彼方へいった</trans>
+	</rep>
+
+    <rep>
+		<path>MyNieceDied.stages[0].label</path>
+        <trans>私の姪 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyNieceDied.stages[0].description</path>
+		<trans>私の姪が死んだ。とても良い子だった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyNephewDied.stages[0].label</path>
+        <trans>私の甥 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyNephewDied.stages[0].description</path>
+		<trans>私の甥が死んだ。とても良い子だった。</trans>
+	</rep>
+
+    <rep>
+		<path>MyAuntDied.stages[0].label</path>
+        <trans>私の叔母 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyAuntDied.stages[0].description</path>
+        <trans>私の叔母が死んだ</trans>
+	</rep>
+
+    <rep>
+		<path>MyUncleDied.stages[0].label</path>
+        <trans>私の叔父 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyUncleDied.stages[0].description</path>
+		<trans>私の叔父が死んだ</trans>
+	</rep>
+
+    <rep>
+		<path>MyHalfSiblingDied.stages[0].label</path>
+        <trans>異兄弟 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyHalfSiblingDied.stages[0].description</path>
+		<trans>異兄弟が死んだ。自分の血肉を分けた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyGrandchildDied.stages[0].label</path>
+        <trans>私の孫 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyGrandchildDied.stages[0].description</path>
+		<trans>私の孫が死んだ。自分の血肉を分けた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyGrandparentDied.stages[0].label</path>
+        <trans>私の祖父母 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyGrandparentDied.stages[0].description</path>
+        <trans>私の祖父母が死んだ</trans>
+	</rep>
+
+    <rep>
+		<path>MyCousinDied.stages[0].label</path>
+        <trans>私のいとこ {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyCousinDied.stages[0].description</path>
+        <trans>私のいとこが死んだ。自分の血肉を分けた...</trans>
+	</rep>
+
+    <rep>
+		<path>MyKinDied.stages[0].label</path>
+        <trans>私の親族 {0} が死んだ</trans>
+	</rep>
+	<rep>
+		<path>MyKinDied.stages[0].description</path>
+        <trans>私の親族が死んだ</trans>
+	</rep>
+
+</LanguageData>

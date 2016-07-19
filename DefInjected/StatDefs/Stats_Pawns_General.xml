@@ -10,6 +10,9 @@
     <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
     <PsychicSensitivity.description>精神波の影響を受けやすい倍率を表します。</PsychicSensitivity.description>
 
+	<ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+	<ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+
     <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
     <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します。</GlobalLearningFactor.description>
 

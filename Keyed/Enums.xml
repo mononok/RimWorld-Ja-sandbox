@@ -18,6 +18,14 @@
   <PriceTypeExpensive>高価</PriceTypeExpensive>
   <PriceTypeExorbitant>法外に高価</PriceTypeExorbitant>
 
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
+  <StoragePriorityLow>low</StoragePriorityLow>
+  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
+  <StoragePriorityImportant>important</StoragePriorityImportant>
+  <StoragePriorityCritical>critical</StoragePriorityCritical>
+
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>野菜・果物</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
@@ -28,8 +36,8 @@
   <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>調理された料理</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>アルコール飲料</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>ペットフード</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_Liquor>アルコール飲料</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>ペットフード</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
@@ -81,6 +89,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>適性無し</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>単純</TrainableIntelligence_Simple>
@@ -104,5 +116,33 @@
   <HediffGrowthMode_Stable>安定</HediffGrowthMode_Stable>
   <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
 
+  <!-- TechLevel -->
+  <TechLevel_Animal>animal</TechLevel_Animal>
+  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
+  <TechLevel_Medieval>medieval</TechLevel_Medieval>
+  <TechLevel_Industrial>industrial</TechLevel_Industrial>
+  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Show animal names</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
 
 </LanguageData>

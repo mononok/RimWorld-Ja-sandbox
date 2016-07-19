@@ -156,7 +156,15 @@
 	<ConstructDeliverResourcesToBlueprints.label>設計する</ConstructDeliverResourcesToBlueprints.label>
 	<ConstructDeliverResourcesToBlueprints.verb>に取りかかる</ConstructDeliverResourcesToBlueprints.verb>
     <ConstructDeliverResourcesToBlueprints.gerund>を従事する</ConstructDeliverResourcesToBlueprints.gerund>
-    
+
+	<BuildRoofs.label>build roofs</BuildRoofs.label>
+	<BuildRoofs.verb>build roof</BuildRoofs.verb>
+	<BuildRoofs.gerund>building roof</BuildRoofs.gerund>
+	
+	<RemoveRoofs.label>remove roofs</RemoveRoofs.label>
+	<RemoveRoofs.verb>remove roof</RemoveRoofs.verb>
+	<RemoveRoofs.gerund>removing roof</RemoveRoofs.gerund>
+	
     <ConstructRemoveFloors.label>床を剥ぐ</ConstructRemoveFloors.label>
     <ConstructRemoveFloors.verb>を剥ぐ</ConstructRemoveFloors.verb>
     <ConstructRemoveFloors.gerund>を剥ぐ</ConstructRemoveFloors.gerund>

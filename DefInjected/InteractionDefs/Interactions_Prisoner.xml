@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <PrisonerFriendlyChat.label>囚人と会話</PrisonerFriendlyChat.label>
-	<rep>
-		<path>PrisonerFriendlyChat.logRulesInitiator.rulesStrings[0]</path>
-        <trans>logentry->[other_nameShortIndef]に、このコロニーの良いところを悟らせようとしている。</trans>
-	</rep>
-	<rep>
-		<path>PrisonerFriendlyChat.logRulesRecipient.rulesStrings[0]</path>
-        <trans>logentry->このコロニーの素晴らしさについての、[other_nameShortIndef]の話に耳を傾けている。</trans>
-	</rep>
 
     <RecruitAttempt.label>勧誘する</RecruitAttempt.label>
 	<rep>

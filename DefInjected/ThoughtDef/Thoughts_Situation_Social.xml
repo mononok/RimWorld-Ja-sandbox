@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- affecting opinion -->
-
 	<rep>
 		<path>Affair.stages[0].label</path>
 		<trans>不倫</trans>
@@ -39,13 +37,31 @@
 	</rep>
 
 	<rep>
-    	<path>Beautiful.stages[0].label</path>
-        <trans>美しい</trans>
+    	<path>Pretty.stages[0].label</path>
+        <trans>pretty</trans>
+	</rep>
+	<rep>
+    	<path>Pretty.stages[1].label</path>
+        <trans>beautiful</trans>
 	</rep>
 
 	<rep>
     	<path>Ugly.stages[0].label</path>
-        <trans>醜い</trans>
+        <trans>ugly</trans>
+	</rep>
+	<rep>
+    	<path>Ugly.stages[1].label</path>
+        <trans>staggeringly ugly</trans>
+	</rep>
+
+	<rep>
+    	<path>AnnoyingVoice.stages[0].label</path>
+        <trans>annoying voice</trans>
+	</rep>
+
+	<rep>
+    	<path>CreepyBreathing.stages[0].label</path>
+        <trans>creepy breathing</trans>
 	</rep>
 
 	<rep>

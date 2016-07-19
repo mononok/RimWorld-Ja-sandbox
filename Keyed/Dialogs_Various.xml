@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-
 <Confirm>了承</Confirm>
 <GoBack>戻る</GoBack>
 <OK>[OK]</OK>
@@ -13,12 +11,15 @@
 
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occured while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
   <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
   <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occured while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occured while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+
+  <!-- Missing Steam -->
+  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nThis Steam version of the game requires Steam and will now quit.</SteamClientMissing>
 
   <!-- Long events -->
   <InitializingInterface>Initializing interface</InitializingInterface>
@@ -34,8 +35,8 @@
 
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
-<OverwriteButton>上書きする</OverwriteButton>
 <LoadGameButton>ロード</LoadGameButton>
+<OverwriteButton>上書きする</OverwriteButton>
 <ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
 <DeleteThisSavegame>この セーブデータを 削除します。</DeleteThisSavegame>
 <SavedAs>{0}という 名前で 保存します。</SavedAs>
@@ -47,12 +48,13 @@
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
-  <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1} </ProblemSavingFile>
+  <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
+  <LoadAnyway>強制ロード</LoadAnyway>
 
 <!-- Colony naming-->
-<NameColonyMessage>誰もが こんな岩だらけの土地で 暮らしたくないことぐらい わかっています。 しかし、 とにかく 便宜の都合で この村に 名前を つけなければ いけません。\n\n{0}が提案しました。\nこの名前で よろしいですか？</NameColonyMessage>
-<ColonyGainsName>この村を {0} と 名付けました。</ColonyGainsName>
-<ColonyNameIsInvalid>それは 村の名前に ふさわしく ありません。</ColonyNameIsInvalid>
+<NameColonyMessage>誰もが こんな岩だらけの土地で 暮らしたくないことぐらい わかっています。 しかし、 とにかく 便宜の都合で この村に 名前を つけなければ いけません。\n\n{0}は、あなたが コミュニティの命名者になるべきと思っています。\nこの名前で よろしいですか？</NameColonyMessage>
+<ColonyGainsName>このコミュニティを {0} と 名付けました。</ColonyGainsName>
+<ColonyNameIsInvalid>その 名前は ふさわしく ありません。</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
   <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
@@ -64,10 +66,11 @@
 
 <!-- Save game incompatible warning -->
   <VersionMismatch>バージョンの不一致</VersionMismatch>
-  <SaveGameIncompatibleWarningText>バージョンの不一致： マップは以前のバージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\n古いバージョンの ロードは バグや クラッシュの 原因となります。</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので、新規にいちから世界を作る事を強く勧めます。</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>マップは、現在動作している環境より多くのMODが有効になっている別の環境で、保存されたものです。\n\nこのことで問題が起きるか起きないかは、正確にはMODが何をしているかにもよります。\n\n Map was saved with (in this order):\n\n {0}\n\n We are running with:\n\n {1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
 
 <!-- Resolution change dialog -->
 <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
@@ -111,7 +114,7 @@
   <CurrentlyHave>持ち合わせている</CurrentlyHave>
   <CountingProducts>計測</CountingProducts>
 <Infinite>無限に</Infinite>
-  <MinimumSkillLevel>最小スキル {0}</MinimumSkillLevel>
+  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
 
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
   <WorkAmount>必要量</WorkAmount>
@@ -144,7 +147,10 @@
 <GrowingTime>成長時間</GrowingTime>
   <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
+  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
 <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
+  <SoilFertilitySensitivityGrowthRate>Soil fertility sensitivity (growth rate)</SoilFertilitySensitivityGrowthRate>
+  <SoilFertilitySensitivityPlantChance>Soil fertility sensitivity (plant chance)</SoilFertilitySensitivityPlantChance>
 <LightRequirement>成長に必要な光源</LightRequirement>
 <Attributes>属性</Attributes>
 <LifeSpan>寿命</LifeSpan>
@@ -157,6 +163,7 @@
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>Covers</Covers>
+  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
   <BodyPartEfficiency>ボディパーツの能力</BodyPartEfficiency>
   <MoodChange>Mood change</MoodChange>
   <Wildness>野性</Wildness>
@@ -167,7 +174,7 @@
   <MiscRecordsCategory>その他</MiscRecordsCategory>
 
 <!-- Trade -->
-  <DragToTrade>数字をドラッグ</DragToTrade>
+  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
   <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
   <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
   <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
@@ -207,5 +214,8 @@
   <DeleteOutfit>服装を削除...</DeleteOutfit>
   <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
   <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
 
 </LanguageData>

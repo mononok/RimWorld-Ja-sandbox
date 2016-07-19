@@ -19,14 +19,26 @@
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
 
+  <!-- General-use words -->
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>chance</chance>
+  <context>context</context>
+  <multiplier>multiplier</multiplier>
+  <damage>damage</damage>
+  <radius>radius</radius>
+  <durationDays>duration (days)</durationDays>
 
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
-<MeatDesc>{0} の新鮮な生肉</MeatDesc>
+  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
 
 <LeatherLabel>{0} の革</LeatherLabel>
-<LeatherDesc>{0} の皮から作った革</LeatherDesc>
+  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
+
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>

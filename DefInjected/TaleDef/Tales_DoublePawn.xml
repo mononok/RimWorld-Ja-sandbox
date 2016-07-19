@@ -417,12 +417,12 @@
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 11]</path>
-		<trans>desc_sentence->[kidnapper_nameShortDef]は、完全にあきらめたかのように見える。</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、完全にあきらめたかのように見える。</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[ 12]</path>
-		<trans>desc_sentence->[victim_nameShortDef]は、[prisoner_possessive]の眼を閉じて、神に祈っているようにみえる。</trans>
+		<trans>desc_sentence->[victim_nameShortDef]は、[victim_possessive]の眼を閉じて、神に祈っているようにみえる。</trans>
 	</rep>
 
     <rep>
@@ -657,7 +657,7 @@
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  2]</path>
-		<trans>image->[seller_nameFull]は、[circumstance_group] 、[prisoner_nameFull]を、[seller_nameFull]に売る。</trans>
+		<trans>image->[seller_nameFull]は、[circumstance_group] 、[prisoner_nameFull]を、[trader_nameFull]に売る。</trans>
 	</rep>
 
     <rep>

@@ -15,7 +15,7 @@
 <Unowned>空き</Unowned>
 <DeadTime>死後 {0}</DeadTime>
 <WalkSpeed>移動速度 {0}</WalkSpeed>
-<FertShort>fert.</FertShort>
+<FertShort>肥沃度</FertShort>
 <DyingLower>瀕死</DyingLower>
 <FilthOnFeet>足跡：</FilthOnFeet>
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
@@ -50,15 +50,15 @@
 <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
 	<EggDamagedEmbryo>損傷した胚</EggDamagedEmbryo>
 	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
-<HiveReproducesIn>Reproduces in</HiveReproducesIn>
-<BrokenDown>故障中</BrokenDown>
-<BondBrackets>(絆)</BondBrackets>
+	<HiveReproducesIn>再生中</HiveReproducesIn>
+	<BrokenDown>故障中</BrokenDown>
+	<BondBrackets>(絆)</BondBrackets>
 	<Fuel>燃料</Fuel>
-  <Enemies>enemies</Enemies>
-  <TimePassed>time passed</TimePassed>
-  <CurrentRadius>current radius</CurrentRadius>
-  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
-  <Permanent>permanent</Permanent>
+	<Enemies>敵</Enemies>
+	<TimePassed>経過時間</TimePassed>
+	<CurrentRadius>現 範囲</CurrentRadius>
+	<RadiusExpandsIn>範囲 拡張中</RadiusExpandsIn>
+	<Permanent>不変</Permanent>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -68,17 +68,17 @@
   <TextMote_TreatSuccess>治療に成功した!\n成功率 {0}</TextMote_TreatSuccess>
   <TextMote_TreatFailed>治療に失敗した\n成功率 {0}</TextMote_TreatFailed>
   <HarvestFailed>収穫に失敗した</HarvestFailed>
-  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
+  <TextMote_RecruitFail>勧誘に失敗した!\n成功率 {0}</TextMote_RecruitFail>
   <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
   <TextMote_TrainSuccess>{0} 調教に成功した\n成功率 {1}</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>修理\n失敗</TextMote_FixBrokenDownBuildingFail>
-  <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>建築\n失敗</TextMote_ConstructionFail>
 
   <!-- Areas -->
   <Home>コロニー</Home>
-  <BuildRoof>Build roof</BuildRoof>
+  <BuildRoof>屋根建築</BuildRoof>
   <NoRoof>屋根無し</NoRoof>
   <SnowClear>除雪済み</SnowClear>
   <AreaDefaultLabel>エリア {0}</AreaDefaultLabel>
@@ -103,8 +103,8 @@
 
   <!-- Turrets -->
   <GunInstalled>武装</GunInstalled>
-  <MinimumRange>最小範囲</MinimumRange>
-  <CanFireIn>射撃開始距離</CanFireIn>
+  <MinimumRange>砲撃可能最小半径</MinimumRange>
+  <CanFireIn>射撃開始まで</CanFireIn>
   <ShellLoaded>装填済み</ShellLoaded>
   <ShellNotLoaded>未装填</ShellNotLoaded>
 
@@ -121,16 +121,16 @@
   <UsingVerb>{1} に {0}を使う</UsingVerb>
   <AreaLower>エリア</AreaLower>
   <ReportCowering>ちじこまる</ReportCowering>
-  <ReportStanding>standing.</ReportStanding>
-  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
-  <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
-  
+  <ReportStanding>立っている</ReportStanding>
+  <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>{0} に点いた、火を消している</ReportExtinguishingFireOn>
+
   <!-- Lord job reports -->
-  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
-  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
 
 	<!-- Shooting report -->
-<WeaponMissRadius>攻撃角度</WeaponMissRadius>
+<WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
 	<ShootReportShooterAbility>射手</ShootReportShooterAbility>
 <ShootReportWeapon>武器</ShootReportWeapon>
 <Darkness>暗い</Darkness>
@@ -140,7 +140,7 @@
 <ShootingCover>身を隠す障害物</ShootingCover>
 <CoverThingBlocksPercentOfShots>{0} は {1} 防ぎます。</CoverThingBlocksPercentOfShots>
 <NoCoverLower>身を隠せない</NoCoverLower>
-  <Execution>Execution</Execution>
+  <Execution>処刑</Execution>
 
   <!-- Generated recipes -->
   <RecipeMake>{0} を作る</RecipeMake>
@@ -150,9 +150,9 @@
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
 <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
 <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
-  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
-  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
+  <MentalBreakThresholdExtreme>精神崩壊：しきい値</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>精神衰弱：しきい値</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>精神変調：しきい値</MentalBreakThresholdMinor>
 
 <!-- Pawn info readout -->
 <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
@@ -170,19 +170,19 @@
 	<DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
 
 	<!-- Hostility response -->
-<HostilityReponseTip>徴兵されていない入植者の近くに敵がいるときの、敵に対する対処方法を変更する。</HostilityReponseTip>
+<HostilityReponseTip>徴兵されていない入植者の近くに敵がいるときの、敵に対する対処方法を変更します。</HostilityReponseTip>
 <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
 
 	<!-- like 'Blood of John' -->
 	<OfLower>of</OfLower>
 
 	<!-- Power readout -->
-	<PowerNotConnected>電気が つながっていない</PowerNotConnected>
-    <PowerConnectedRateStored>発電量 {0} W /蓄電量 {1} Wd</PowerConnectedRateStored>
-	<PowerNeeded>消費する電気</PowerNeeded>
+	<PowerNotConnected>電力断</PowerNotConnected>
+    <PowerConnectedRateStored>余剰電力 {0} W /蓄電量 {1} Wd</PowerConnectedRateStored>
+	<PowerNeeded>消費電力</PowerNeeded>
 	<PowerOutput>発電量</PowerOutput>
-	<PowerBatteryStored>バッテリー内の電気</PowerBatteryStored>
-	<PowerBatteryEfficiency>電気をたくわえる効率</PowerBatteryEfficiency>
+	<PowerBatteryStored>蓄電量</PowerBatteryStored>
+	<PowerBatteryEfficiency>蓄電効率</PowerBatteryEfficiency>
 
 	<!-- Temperature control -->
 	<TargetTemperature>設定温度</TargetTemperature>
@@ -205,7 +205,7 @@
 	<CannotHit>命中 しません</CannotHit>
 
   <!-- Rotting -->
-  <CurrentlyFrozen>冷凍</CurrentlyFrozen>
+  <CurrentlyFrozen>冷凍(永久保存)</CurrentlyFrozen>
   <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
   <NotRefrigerated>常温 (消費期限あと {0})</NotRefrigerated>
   <OverADecade>消費期限切れ</OverADecade>
@@ -221,7 +221,7 @@
 	<PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
 	<PlantResting>成長していない (活動停止中)</PlantResting>
     <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
-    <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (成長をやめた)</OutOfIdealTemperatureRangeNotGrowing>
+    <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
 	<ReadyToHarvest>収穫できます</ReadyToHarvest>
 	<Mature>完熟しました</Mature>
 	<SeedLabel>{0} の種</SeedLabel>
@@ -236,8 +236,8 @@
 	<GrowingZone>農業ゾーン</GrowingZone>
 	<Stockpile>備蓄ゾーン</Stockpile>
 	<DumpingStockpile>廃棄ゾーン</DumpingStockpile>
-	<Priority>使用優先度</Priority>
-    <ClearAll>全て消去</ClearAll>
+	<Priority>優先度</Priority>
+    <ClearAll>全てクリア</ClearAll>
     <AllowAll>全て許可</AllowAll>
 
   <!-- ThingFilter -->
@@ -253,7 +253,7 @@
 	<ShowBeautyToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
     <ShowRoomStatsToggleButton>ルームステータスの可視 切り替え\n\nマウスでポイントした場所のルームステータスを表示します</ShowRoomStatsToggleButton>
 	<AutoHomeAreaToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeAreaToggleButton>
-    <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
+    <ShowColonistBarToggleButton>入植者アイコンバーの切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します</ShowColonistBarToggleButton>
 	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
 
@@ -265,8 +265,8 @@
 
 	<!-- Map conditions -->
 	<MapConditionsTip>この地域に 影響中の 特殊な状況</MapConditionsTip>
-    <TimeLeft>time left</TimeLeft>
-    <ImpactDate>impact date</ImpactDate>
+    <TimeLeft>残り時間</TimeLeft>
+    <ImpactDate>衝突予測日付</ImpactDate>
 
 	<!-- Building placement -->
 	<NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
@@ -311,12 +311,12 @@
 
 	<!-- Quality -->
 	<Quality>品質</Quality>
-	<QualityDescription>アイテムがどの位良く作られたかを示しています</QualityDescription>
+	<QualityDescription>アイテムがどの位良く作られたかを示しています。</QualityDescription>
 	<QualityIs>品質: {0}</QualityIs>
 
 	<!-- Mood descriptions -->
     <Mood_MentalState>精神状態</Mood_MentalState>
-	<Mood_AboutToBreak>崩壊に等しい</Mood_AboutToBreak>
+	<Mood_AboutToBreak>崩壊する寸前</Mood_AboutToBreak>
 	<Mood_OnEdge>限界</Mood_OnEdge>
 	<Mood_Stressed>ストレス気味</Mood_Stressed>
 	<Mood_Neutral>平凡</Mood_Neutral>
@@ -326,7 +326,7 @@
 	<!-- Game over -->
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
 	<GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
-    <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
+    <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、亜光速まで加速した対惑星兵器が、惑星表面に激しく打ち込まれました。水風船をライフル弾が撃ち抜いたごとく、この世界は激しい衝撃と共に液状化し、溶けた惑星の中心核は宇宙空間に吹き出しました。\n\n{0}の一部分は、いま、小さなアステロイドベルトとなっています。溶岩があふれだし、放射能にまみれたの地獄のようになった残りの部分は、絶えず巨大な惑星全体の振動とともに キロメートル級の波紋を起こしています。\n\n あなたは、生き残ることができません。</GameOverPlanetkillerImpact>
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
@@ -347,26 +347,26 @@
 	<DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している。</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
-  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
-  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
-  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
-  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
-  
+  <MarriageSpotUsable>使用可能</MarriageSpotUsable>
+  <MarriageSpotNotUsable>使用不可: {0}</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>邪魔されている</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>{0}のため、非常に危険</MarriageSpotDangerous>
+  <MarriageSpotForbidden>{0}のため、禁止</MarriageSpotForbidden>
+  <MarriageSpotReserved>予約済</MarriageSpotReserved>
+  <MarriageSpotUnreachable>{0}のため、到達できない</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>牢屋の中にある</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>不快な温度</NotEnjoyableOutsideTemperature>
+
   <!-- Colonist bar -->
-  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
-  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
-  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
-  <ActivityIconIdle>Idle</ActivityIconIdle>
-  <ActivityIconBurning>Burning</ActivityIconBurning>
+  <ActivityIconMedicalRest>治療中</ActivityIconMedicalRest>
+  <ActivityIconSleeping>睡眠中</ActivityIconSleeping>
+  <ActivityIconFleeing>逃亡中</ActivityIconFleeing>
+  <ActivityIconAttacking>戦闘中</ActivityIconAttacking>
+  <ActivityIconIdle>暇</ActivityIconIdle>
+  <ActivityIconBurning>火だるま</ActivityIconBurning>
 
   <!-- Maintainable -->
-  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
-  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
-  
+  <DueForMaintenance>メンテナンスの期限</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>メンテナンス不足による性能低下</DeterioratingDueToLackOfMaintenance>
+
 </LanguageData>

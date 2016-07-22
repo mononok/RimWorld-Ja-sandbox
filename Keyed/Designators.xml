@@ -2,32 +2,32 @@
 <LanguageData>
 
 <DesignatorCancel>キャンセル</DesignatorCancel>
-<DesignatorCancelDesc>指示した、建物の作成、 採掘、 アイテムの運搬、 食材の収穫などを中止します。</DesignatorCancelDesc>
+<DesignatorCancelDesc>建物の作成、 採掘、 アイテムの運搬、 食材の収穫、など 全て指示を 中止します。</DesignatorCancelDesc>
 
 <DesignatorCutPlants>刈り取り</DesignatorCutPlants>
-<DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
+<DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。植物は完全に取り除かれ、 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
 
 <DesignatorDeconstruct>解体</DesignatorDeconstruct>
 <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>撤去</DesignatorUninstall>
-  <DesignatorUninstallDesc>移設することができます。撤去した状態で、売買や、別の場所に再展示できます。</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>撤去した物は、移設や、売却、別の場所に再展示できるようになります。</DesignatorUninstallDesc>
 
 <DesignatorHarvest>収穫</DesignatorHarvest>
-<DesignatorHarvestDesc>食材として 収穫できる 植物に 印をつけます。 食材は 可能な限り 収穫します。 収穫できない 植物は 残ります。</DesignatorHarvestDesc>
+<DesignatorHarvestDesc>印をつけた 植物は すべて 食料や、他の食材として 収穫されます。</DesignatorHarvestDesc>
 
 <DesignatorHarvestWood>伐採</DesignatorHarvestWood>
 <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
 
 <DesignatorHaulThings>運搬</DesignatorHaulThings>
-<DesignatorHaulThingsDesc>岩や そのほかのアイテムを 廃棄ゾーンに運びます。 食材や死体といった 自動で運ぶ アイテムに 指定する 必要は ありません。</DesignatorHaulThingsDesc>
-<MustHaulHaulables>(岩などといった) 自動で運ぶもの 以外にのみ 運搬を 指定できます。</MustHaulHaulables>
+<DesignatorHaulThingsDesc>印をつけた 岩の塊や そのほかのアイテムを 廃棄ゾーンに運びます。 食材や死体といったものに印をつける必要はありません、それらは自動的に運ばれます。</DesignatorHaulThingsDesc>
+<MustHaulHaulables>自動で運ぶもの以外の、アイテムだけを指定することができます(岩の塊など) 。</MustHaulHaulables>
 
 <DesignatorHunt>狩猟</DesignatorHunt>
-<DesignatorHuntDesc>入植者は ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
+<DesignatorHuntDesc>ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
  <DesignatorSmoothFloor>地面をならす</DesignatorSmoothFloor>
- <DesignatorSmoothFloorDesc>荒れた地面を平らにならします。</DesignatorSmoothFloorDesc>
+ <DesignatorSmoothFloorDesc>指定した 荒れた地面を 滑らかにします。</DesignatorSmoothFloorDesc>
 
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
@@ -43,14 +43,14 @@
   <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>屋根 拡張取り付け</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する 場所を 指定します。</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>屋根 拡張を撤回</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>屋根を 作成した ゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
   <DesignatorAreaNoRoofExpand>屋根 取り外し</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>屋根 取り外し撤回</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
@@ -61,13 +61,13 @@
   <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>作業ゾーン 取消</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>作業ゾーンの管理</ManageAreas>
+  <ManageAreas>作業ゾーンの管理...</ManageAreas>
 
 <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
 
-<DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 指定します。\nこのツールで、 備蓄場所を 拡大し、 備蓄できる 材料の 量を 増やすことが できます。</DesignatorZoneCreateStorageResourcesDesc>
+<DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 作成します。\nこのツールは、 すでにある備蓄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageResourcesDesc>
 
-<DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 指定します。\nこのツールで、 ゴミ捨て場を 拡大し 捨てるゴミの 量を 増やすことが できます。</DesignatorZoneCreateStorageDumpingDesc>
+<DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 作成します。\nこのツールは、 すでにある廃棄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageDumpingDesc>
 
 <DesignatorZoneDelete>ゾーン削除</DesignatorZoneDelete>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
@@ -79,7 +79,7 @@
   <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>剥ぐ</DesignatorStrip>
-  <DesignatorStripDesc>死体やけが人の衣類を剥がします。</DesignatorStripDesc>
+  <DesignatorStripDesc>死体や、けが人から 衣類を剥がします。</DesignatorStripDesc>
 
   <DesignatorRearmTrap>罠のリセット</DesignatorRearmTrap>
   <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます。</DesignatorRearmTrapDesc>
@@ -90,12 +90,12 @@
   <DesignatorSlaughter>屠殺</DesignatorSlaughter>
   <DesignatorSlaughterDesc>家畜を屠殺します。</DesignatorSlaughterDesc>
 
-  <DesignatorTame>飼いならす</DesignatorTame>
-  <DesignatorTameDesc>野生動物を飼いならします。</DesignatorTameDesc>
+  <DesignatorTame>手なずける</DesignatorTame>
+  <DesignatorTameDesc>野生動物を手なずけます。</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
+  <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
 <TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
 <OutOfBounds>範囲外 です。</OutOfBounds>
 <CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
@@ -118,7 +118,7 @@
 
 
 <!-- desc helpers -->
-<TransmitsPower>電気を 伝達します。</TransmitsPower>
+<TransmitsPower>送電します。</TransmitsPower>
 
 
 </LanguageData>

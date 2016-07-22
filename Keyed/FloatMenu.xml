@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-
-<CallOnRadio>{0} 呼び出し</CallOnRadio>
+<CallOnRadio>{0} 呼び出す</CallOnRadio>
   <CannotUseReason>使用できない ({0})</CannotUseReason>
 <CannotUseSolarFlare>使用できない (太陽フレア)</CannotUseSolarFlare>
 <CannotUseNoPower>使用できない (電気がない)</CannotUseNoPower>
@@ -11,13 +9,13 @@
 <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
 <CannotUseFull>使用できない (満載)</CannotUseFull>
 
-<FireAt>{0} に 発射</FireAt>
+<FireAt>{0} に発射</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0}は 野蛮なことはできません</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{0}は 野蛮なことはできない</IsIncapableOfViolenceLower>
   <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
-<CannotFight>{0}は 戦えない</CannotFight>
+  <CannotOrderNonControlledLower>操作できないユニットには指示できない</CannotOrderNonControlledLower>
 
 <OrderManThing>Man {0}</OrderManThing>
 
@@ -25,10 +23,10 @@
 <MeleeAttackToDeath>{0}を 格闘で殺害する</MeleeAttackToDeath>
 <NoPath>道順が無い</NoPath>
 
-<ForbiddenLower>無視</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-<SociallyImproperLower>社交的でない</SociallyImproperLower>
-  <PrisonerRoomLower>牢獄が ない</PrisonerRoomLower>
+	<ForbiddenLower>禁止</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>許可エリア外</ForbiddenOutsideAllowedAreaLower>
+<SociallyImproperLower>社交的に不適当</SociallyImproperLower>
+  <PrisonerRoomLower>牢獄</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
 <NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
 <AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
@@ -37,29 +35,29 @@
     <NoEmptyGraveLower>墓地の空きがない</NoEmptyGraveLower>
   <AnimalInteractedTooRecently>動物への指示間隔が短い</AnimalInteractedTooRecently>
   <NoUsableFood>エサがない</NoUsableFood>
-  <NoFood>no food</NoFood>
+  <NoFood>エサがない</NoFood>
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
-	<NoFuelToRefuel>{0} 必要</NoFuelToRefuel>
+	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>絶対禁酒</Teetotaler>
 
 
-<CannotGoNoPath>たどり着く道順がない</CannotGoNoPath>
+<CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
 <GoHere>ここに移動する</GoHere>
 
 <Arrest>{0}を 逮捕する</Arrest>
   <TryToArrest>{0}の逮捕を試みる</TryToArrest>
 <CannotArrest>逮捕できない</CannotArrest>
 
-<Capture>{0}を 捕獲する</Capture>
+<Capture>{0}を 捕らえる</Capture>
 <CannotCapture>捕獲できない</CannotCapture>
 
 <Rescue>{0}を 救助する</Rescue>
 <CannotRescue>救助できない</CannotRescue>
 
-  <CarryToCryptosleepCasket>冬眠カプセルに {0}を運ぶ</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>{0}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
@@ -73,7 +71,7 @@
   <Incapable>能力が無い</Incapable>
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>最小スキル</MinSkill>
   
 <Equip>{0}を 装備する</Equip>
   <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
@@ -83,7 +81,7 @@
 <CannotWear>{0}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
-<Strip>{0}を 脱ぐ</Strip>
+<Strip>{0}を 剥ぐ</Strip>
 <CannotStrip>{0}を 脱げない</CannotStrip>
 
 <Deposit>{0}を {1}に 預ける</Deposit>
@@ -107,7 +105,7 @@
 
 
 <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-<CannotGenericWork>{1} {0}できない</CannotGenericWork>
+<CannotGenericWork>{1}を {0}できない</CannotGenericWork>
 
 <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
@@ -120,7 +118,7 @@
 
 <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
 
-<CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+<CannotPrioritizeForbiddenOutsideAllowedArea>優先できない ({0}は 許可エリア外)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->

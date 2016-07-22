@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<LetterLabelAnimalInsanitySingle>暴走</LetterLabelAnimalInsanitySingle>
-	<AnimalInsanitySingle>野生の {0} が 暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
+	<AnimalInsanitySingle>野生の {0} が暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
 	<LetterLabelAnimalInsanityMultiple>暴走群!!</LetterLabelAnimalInsanityMultiple>
 	<AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました。\n\n入植者は 大丈夫です。 しかし... 多くの {0} は 正気を 失い 暴れだした ようです。</AnimalInsanityMultiple>
 
@@ -16,23 +16,23 @@
 	<EnemyRaidWalkIn>{0}の {1}グループが 接近して います。</EnemyRaidWalkIn>
 	<EnemyRaidEdgeDrop>{0}の {1}グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
 	<EnemyRaidCenterDrop>{0}の {1} グループが、 コロニーめがけて 着陸します！</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>{0} - {1} うちの１人は、この派閥のリーダです。</EnemyRaidLeaderPresent>
 
 <!-- Friendly raids -->
 	<FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
 	<FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
 	<FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>{0} - {1} うちの１人は、この派閥のリーダです。</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
-<RefugeePodCrash>この近くで 脱出ポットが 地面に 激突したのを 発見しました。\n\nあの衝撃では きっと  ひどく傷ついて いるでしょう。</RefugeePodCrash>
+  <RefugeePodCrash>脱出ポッドが この近くの地表に 激突するのを見かけました。\n\nあの衝撃では きっと ひどく傷ついて いることでしょう。</RefugeePodCrash>
 
   <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
-<CargoPodCrash>この近くで 貨物ポッドが 墜落しました。\n\nその付近を さがせば 役に立つものが 見つかるでしょう。</CargoPodCrash>
+  <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>
 
 <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
-<ShortCircuit>{0} が 故障し、 ショートしました。\n\n{1} Wd もの 電気が 放出され 爆発しました。</ShortCircuit>
-<ShortCircuitWasLarge>放出された とても多くの電気が 、 かなり大きな 爆発を 引き起こしました。</ShortCircuitWasLarge>
+<ShortCircuit>{0} が 故障し、 ショートしました。\n\n{1} Wd もの電気が放電され 爆発しました。</ShortCircuit>
+<ShortCircuitWasLarge>とても多くの電気が放電された結果 、 かなり大きな 爆発が 起きました。</ShortCircuitWasLarge>
 <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です。</ShortCircuitWasHuge>
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
@@ -43,22 +43,22 @@
 	<LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
 	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2}.{3}{4} と名乗っています。</SingleVisitorArrives>
 <SingleVisitorArrivesTraderInfo>\n\nHECAP は、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+    <SingleVisitorArrivesLeaderInfo>\n\nHECAP は派閥のリーダです。</SingleVisitorArrivesLeaderInfo>
 	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
 	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
 <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダです。</GroupVisitorsArriveLeaderInfo>
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
-<WandererJoin>NAME という名前の {0} が 到着し 村の 仲間に くわわりました。</WandererJoin>
+<WandererJoin>NAME という名前の {0} がやってきて  仲間になりました。</WandererJoin>
 
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>ヒトを狩る{0}集団がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
+  <ManhunterPackArrived>ヒトを狩る {0} 集団がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
 
 <!-- Crashed ship part-->
-<MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスで ちかくの動物に 狂気を  照射しました。</MessageAnimalInsanityPulse>
-<LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスで 入植者 {0} に 狂気を 照射しました。</LetterShipPartDroveColonistInsane>
+<MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました。</MessageAnimalInsanityPulse>
+<LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました。</LetterShipPartDroveColonistInsane>
 <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
 <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
 <PsychicDroneLevelLow>低い</PsychicDroneLevelLow>
@@ -74,24 +74,24 @@
 
 <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
-<LetterIncidentPsychicDrone>頭痛は 爪のように あなたの頭蓋へ 食い込みます！\n\n遠く離れた 場所にある 憎悪エンジンの しわざに ちがいありません。 それは この一帯を 強力な サイコドローンで 制圧しようと 計画中です。 数日のうちに 入植者の気分は ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
+<LetterIncidentPsychicDrone>頭痛が 爪のように {0}の入植者の頭蓋骨に 食い込みます！\n\n少し離れたところにある 憎悪エンジンが 活発に活動しています。 それが この一帯に 強力な サイコドローンを 照射していますが、{0}だけに 影響をおよぼしているようです。 数日のうちに その人々のムードは ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>{0} 入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある幸福エンジンが起こしているのでしょう。 それは この一帯に 強力な サイコスードを投射していますが、{0}にだけしか効果がないようです。数日のうちに 入植者の気分は 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>{0}の入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています。 それは この一帯に 強力な サイコスードを 照射していますが、{0}だけに 影響をおよぼしているようです。数日のうちに その人々のムードは 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
 
 <!-- Beavers -->
   <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
-<BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試さなければなりません。</BeaversArrived>
+<BeaversArrived>今、腹を空かせたアルファビーバーの一団が現れました。\n\n一本残らず木が食い尽くされる前に、駆除する事を試しましょう。</BeaversArrived>
 
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>{0} という名の {1} が貴方を呼び出している。HECAP は {3}という{2}に追われている。\n\nHECAP は、あなたのコロニーにかくまってほしいと懇願した。HE の身体的年齢は {4}才。もし貴方がかばえば、{2}と戦わなくてはならなくなるのは明白です。</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{0} という名の {1} が、あなたを呼び出しています。HECAP は {3}という{2}に追われています。\n\nHECAP は、あなたのコロニーにかくまってほしいと懇願した。HE の身体的年齢は {4}才。もし貴方がかばえば、{2}と戦わなくてはならなくなるのは明白です。</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0}はパニックを起こして叫んでいる声が、あなたが通信装置を切る間際にスピーカから聞こえてきた。</RefugeeChasedRejected>
+  <RefugeeChasedRejected>あなたが通信装置を切る間際、{0}の 絶望してパニックを起こした叫び声が、スピーカから聞こえてきた。</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} ひとなつっこく寄ってきた</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} 飼いなれた</LetterAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{0}は ひとなつっこく寄ってきた</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
   <LetterAnimalSelfTameAndNameNumerical>{0} は人なつっこく寄ってきた. 仮に {1}とした</LetterAnimalSelfTameAndNameNumerical>
   <LetterAnimalSelfTameAndName>{0}は人なつっこく寄ってきた。入植者達は {1}と名付けた</LetterAnimalSelfTameAndName>
 
@@ -112,8 +112,8 @@
 <LetterBuildingBrokenDown>ひとつの機械({0})の機能が停止しました。修理作業を受け持った入植者が修理するまで、機能は動作しません。</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
-  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
-  <RansomDemand_Accept>Accept</RansomDemand_Accept>
-  <RansomDemand_Reject>Reject</RansomDemand_Reject>
+  <RansomDemand>{1}が 通信で あなたに呼びかけています。彼らは、入植者 {0}を 人質にしています。\n\n彼らは、身代金 {2}シルバーと交換に、HIM 解放する用意があると言ってきています。</RansomDemand>
+  <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
+  <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
   
 </LanguageData>

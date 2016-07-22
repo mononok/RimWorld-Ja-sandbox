@@ -4,12 +4,12 @@
 	<MessageSiegersAssaulting>{0}の{1}は コロニーへ包囲攻撃します。</MessageSiegersAssaulting>
 
 	<MessageRaidersBeginningAssault>{0}の{1}は 襲撃を開始します。</MessageRaidersBeginningAssault>
-	<MessageRaidersDetectedEarlyAssault>{0}の{1}は あなたの斥候を発見したので、 襲撃を早めます。</MessageRaidersDetectedEarlyAssault>
+	<MessageRaidersDetectedEarlyAssault>{0}の{1}は あなたの斥候を発見したので、襲撃を早めます。</MessageRaidersDetectedEarlyAssault>
 	<MessageRaidersKidnapping>{0}の{1}は 誰かを連れ去って離れることに決めました。</MessageRaidersKidnapping>
   <MessageRaidersStealing>{0}の{1}は 何かを略奪して離れることに決めました。</MessageRaidersStealing>
 
 	<MessageRaidersLeaving>{0}の{1}は 離れました。</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め 離脱します。</MessageRaidersGivenUpLeaving>
+	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め離脱します。</MessageRaidersGivenUpLeaving>
 	<MessageRaidersSatisfiedLeaving>{0}の{1}は 成果に満足し離脱します。</MessageRaidersSatisfiedLeaving>
 
 	<MessageFightersFleeing>{0}の{1}は 逃げています。</MessageFightersFleeing>
@@ -18,32 +18,32 @@
 	<MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます。</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0}の{1}は閉じ込められ、脱出を試みています。</MessageVisitorsTrappedLeaving>
 
-	<MessageWornApparelDeterioratedAway>{1}が身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
+	<MessageWornApparelDeterioratedAway>{1}が 身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
 
-	<MessageSeasonBegun>{0}の季節が、始まりました。</MessageSeasonBegun>
+	<MessageSeasonBegun>{0}が 始まります。</MessageSeasonBegun>
 
 	<MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-	<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\n貿易ビーコンは電力を必要とします。</MessageNeedBeaconToTradeWithShip>
 
 	<MessageBillComplete>作業終了：{0}</MessageBillComplete>
 
-	<MessageFullyHealed>{0}の けがは 完治 しました。</MessageFullyHealed>
+	<MessageFullyHealed>{0}の怪我は完治しました。</MessageFullyHealed>
 
 	<MessagePrisonerIsEscaping>囚人{0} は逃げ出しています。</MessagePrisonerIsEscaping>
 
-	<MessageOutOfNearbyShellsFor>{0} は {1} に使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
+	<MessageOutOfNearbyShellsFor>{0}は {1}に 使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
 
-	<MessageAnimalsGoPsychoHunted>【警告】{0}は 危害を加えられると攻撃されたとみなします。</MessageAnimalsGoPsychoHunted>
-	<MessageAnimalManhuntsOnTameFailed>【警告】{0}は 手なずけるのに失敗したとき、襲ってくる可能性があります。(成功率 {1})</MessageAnimalManhuntsOnTameFailed>
+	<MessageAnimalsGoPsychoHunted>【警告】{0}は 危害を加えられると、しばしば逆襲することがあります。</MessageAnimalsGoPsychoHunted>
+	<MessageAnimalManhuntsOnTameFailed>【警告】{0}は 手なずけるのに失敗したときに、襲ってくるかもしれません。(成功率 {1})</MessageAnimalManhuntsOnTameFailed>
 
-	<LetterLabelMessageRecruitSuccess>勧誘</LetterLabelMessageRecruitSuccess>
-	<MessageRecruitSuccess>{0}は 囚人{1}を 村に迎えました(成功率 {2})。</MessageRecruitSuccess>
+	<LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
+	<MessageRecruitSuccess>{0}は 囚人{1}を 迎え入れました(成功率 {2})。</MessageRecruitSuccess>
 	<MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2})。</MessageTameSuccess>
 	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして HIM {3}と名づけました。</MessageTameAndNameSuccess>
 
-	<MessageColonyCannotAfford>コロニーは、この取り引きに十分な アイテムが 足りない。</MessageColonyCannotAfford>
-	<MessageColonyNotEnoughSilver>取引するのに 十分な量の シルバーを 準備できていません。</MessageColonyNotEnoughSilver>
+	<MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません。</MessageColonyCannotAfford>
+	<MessageColonyNotEnoughSilver>取引するのに十分な量の、シルバーを準備できていません。</MessageColonyNotEnoughSilver>
 
 	<MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
 
@@ -85,46 +85,46 @@
 	<MessageMiscarriedPoorHealth>{0}は 体調不良により流産した。</MessageMiscarriedPoorHealth>
 	<MessageGaveBirth>{0}は 出産した。</MessageGaveBirth>
 
-	<MessageNuzzledPawnGaveNameTo>{1} が懐いたので、{0} は {2}と名づけた。</MessageNuzzledPawnGaveNameTo>
+	<MessageNuzzledPawnGaveNameTo>{1}が 懐いたので、{0}は '{2}'と名前をつけました。</MessageNuzzledPawnGaveNameTo>
 
 	<MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
 
-	<MessageEatenByPredator>{0}は {1}に食べられた。</MessageEatenByPredator>
-	<MessageAttackedByPredator>{0}は {1}から攻撃を受けた! </MessageAttackedByPredator>
+	<MessageEatenByPredator>{0}は {1}に喰われた。</MessageEatenByPredator>
+	<MessageAttackedByPredator>{0}は {1}に襲われた! </MessageAttackedByPredator>
 
-	<MessageHiveReproduced>虫の巣は、自己再生成した。</MessageHiveReproduced>
+	<MessageHiveReproduced>虫の巣は、自己再生した。</MessageHiveReproduced>
 
 	<MessageTraderCaravanLeaving>{0} トレーダーの一行は 離れていった。</MessageTraderCaravanLeaving>
 
-	<MessageCantSelectDeadPawn>{0} is dead.</MessageCantSelectDeadPawn>
-	<MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
+	<MessageCantSelectDeadPawn>{0} は死んだ。</MessageCantSelectDeadPawn>
+	<MessageCantSelectOffMapPawn>{0} はマップから出た。</MessageCantSelectOffMapPawn>
 
 	<MessageSocialFight>{0}は {1}とケンカを始めた。(理由: {2})</MessageSocialFight>
 
-	<MessageNewMarriageCeremony>入植者たちは、{0}と {1}の結婚式を祝うために集った。</MessageNewMarriageCeremony>
-	<MessageMarriageCeremonyStarts>{0}と {1}の結婚式が始まった!</MessageMarriageCeremonyStarts>
-	<MessageMarriageCeremonyCalledOff>{0}と {1}の結婚式は、お流れになってしまった。</MessageMarriageCeremonyCalledOff>
-	<MessageNewlyMarried>{0}と {1}は家庭を持った。入植者たちは、この出来事を喜んでいる。</MessageNewlyMarried>
+	<MessageNewMarriageCeremony>入植者たちは、{0}と {1}の 結婚式を祝うために集った。</MessageNewMarriageCeremony>
+	<MessageMarriageCeremonyStarts>{0}と {1}の 結婚式が始まった!</MessageMarriageCeremonyStarts>
+	<MessageMarriageCeremonyCalledOff>{0}と {1}の 結婚式は、お流れになってしまった。</MessageMarriageCeremonyCalledOff>
+	<MessageNewlyMarried>{0}と {1}は 家庭を持った。入植者たちは、この出来事を喜んでいます。</MessageNewlyMarried>
 	<MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
 	<MessageNewBondRelation>{0}と {1}は絆で結ばれた。</MessageNewBondRelation>
 	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。HIM の姓は、{2}となります。</MessageNewBondRelationNewName>
 
-	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけに、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
-	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけに、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
-	<MessageBondedAnimalsMentalBreak>{0}たちは {1}の死をきっかけに、精神崩壊を起こした。</MessageBondedAnimalsMentalBreak>
+	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけにして、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
+	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけにして、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
+	<MessageBondedAnimalsMentalBreak>{0}たちは {1}の死をきっかけにして、精神崩壊を起こした。</MessageBondedAnimalsMentalBreak>
 
-	<MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+	<MessageSuccessfullyRemovedHediff>{0}は、{1}の{2}を 取り除くのに成功した。</MessageSuccessfullyRemovedHediff>
 
 	<MessageShipChunkDrop>宇宙船の残骸が、空から、この近辺に落ちてきます。</MessageShipChunkDrop>
 
-	<MessagePartyCalledOff>パーティは、中止になった。</MessagePartyCalledOff>
-	<MessagePartyFinished>パーティが終わった</MessagePartyFinished>
+	<MessagePartyCalledOff>パーティは中止になった。</MessagePartyCalledOff>
+	<MessagePartyFinished>パーティが終わった。</MessagePartyFinished>
 
-  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>以下の理由で取引できません： </MessageCannotSellItemsReason>
 
   <MessageConstructionFailed>{1}は{0}の建造に失敗し、いくつかの資源が無駄になりました。</MessageConstructionFailed>
 
-  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
-  
+  <MessageScreenshotSavedAs>スクリーンショットを保存した: {0}</MessageScreenshotSavedAs>
+
 </LanguageData>

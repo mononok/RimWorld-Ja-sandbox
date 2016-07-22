@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<CommandForbiddenDesc>禁止 - 入植者は これと かかわれません。</CommandForbiddenDesc>
-<CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
+	<CommandForbiddenDesc>禁止 - 入植者は これを無視します。</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
@@ -25,11 +25,11 @@
 <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
 <IsIncapped>{0}は対応できません。</IsIncapped>
 
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
 
 <CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
-<CommandCancelConstructionDesc>作成を 取り消します。</CommandCancelConstructionDesc>
+<CommandCancelConstructionDesc>指示を 取り消します。</CommandCancelConstructionDesc>
 
   <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
   <CommandGetOutOfBedDesc>起きて布団から出ます。</CommandGetOutOfBedDesc>
@@ -39,15 +39,15 @@
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
   <BuildingAssign>指定</BuildingAssign>
-<BuildingUnassign>Unassign</BuildingUnassign>
+  <BuildingUnassign>解除</BuildingUnassign>
 	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
 	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
-	<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを囚人用に割り当てできません。</CommandBedSetForPrisonersFailOutdoors>
+	<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを、囚人用に割り当てることはできません。</CommandBedSetForPrisonersFailOutdoors>
 	<CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
 	<CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
 
-<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
-<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
+	<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
+	<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
 <AreYouSure>本当に よろしいですか？</AreYouSure>
 
 <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
@@ -64,10 +64,10 @@
 <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
 
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。設定を別のゾーンにペーストすることが出来るようになります</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定を、別のゾーンにペーストすることが出来るようになります。</CommandCopyZoneSettingsDesc>
 
   <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>コピーされてあるゾーンの設定を、このゾーンにペーストします</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>既にコピーしてあるゾーン設定を、このゾーンの設定にペーストします。</CommandPasteZoneSettingsDesc>
 
   <CommandAllowSow>伐採の許可</CommandAllowSow>
   <CommandAllowSowDesc>不許可なら、入植者はこのゾーンの植物を伐採しなくなります。作物の収穫は従来通り行われます</CommandAllowSowDesc>
@@ -96,9 +96,9 @@
 
   <!-- Door -->
   <CommandToggleDoorForbid>立入禁止</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません。</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります。</CommandToggleDoorHoldOpenDesc>
 
 
   <!-- Temperature control -->
@@ -134,12 +134,12 @@
 <CommandSquadAttackDesc>選択した入植者達に攻撃目標を指示します。</CommandSquadAttackDesc>
 
   <!-- Hold fire -->
-  <CommandHoldFire>Hold fire</CommandHoldFire>
-  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
+  <CommandHoldFire>発砲禁止</CommandHoldFire>
+  <CommandHoldFireDesc>もう攻撃しなくなります。</CommandHoldFireDesc>
   
   <!-- Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
 
 </LanguageData>

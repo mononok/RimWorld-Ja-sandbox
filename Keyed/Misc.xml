@@ -22,22 +22,22 @@
   <!-- General-use words -->
   <Yes>Yes</Yes>
   <No>No</No>
-  <min>min</min>
-  <max>max</max>
-  <chance>chance</chance>
-  <context>context</context>
-  <multiplier>multiplier</multiplier>
-  <damage>damage</damage>
-  <radius>radius</radius>
-  <durationDays>duration (days)</durationDays>
+  <min>最小</min>
+  <max>最大</max>
+  <chance>確率</chance>
+  <context>コンテキスト</context>
+  <multiplier>倍率</multiplier>
+  <damage>ダメージ</damage>
+  <radius>半径</radius>
+  <durationDays>持続時間 (日)</durationDays>
 
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatDesc>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</MeatDesc>
 
 <LeatherLabel>{0} の革</LeatherLabel>
-  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
+  <LeatherDesc>なめされて、乾燥した切り抜かれた皮。バッグや衣服を作るのに適した伝統的な素材です。</LeatherDesc>
 
 
 <CorpseLabel>{0} の死骸</CorpseLabel>

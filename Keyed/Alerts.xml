@@ -11,7 +11,7 @@
   <PoorMood>良くないムード</PoorMood>
   <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱が起きるかもしれません。\n\n{0}</PoorMoodDesc>
   <TerribleMood>悪いムード</TerribleMood>
-  <TerribleMoodDesc>入植者は致命的なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
+  <TerribleMoodDesc>入植者は重大なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
@@ -19,7 +19,7 @@
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません：\n\n{0}\n他の 入植者に 救助を 指示し、 ベッドまで はこびましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <BuildARoom>部屋をつくる</BuildARoom>
-<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。 計画を 指定しておけば、 入植者は 自分で考えて 作業をします。</BuildARoomDesc>
+<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。一旦、あなたが 何かを作るように 指示すると、入植者は 作業ができる時に その作業をするでしょう。</BuildARoomDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>
@@ -27,44 +27,44 @@
 <NeedDoctor>医者が必要</NeedDoctor>
 <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています。 患者には 治療が 必要ですが、 医者の 作業をする 健常な入植者が いません。\n\n{0}\n健常な 入植者に 医者の 作業を 割り振りましょう。もし、治療せずに ほおっておくと 慢性化して治らなくなるでしょう。</NeedDoctorDesc>
 
-<NeedMiner>岩を掘る</NeedMiner>
-<NeedMinerDesc>岩を掘る 指示がありますが、 入植者たちに 岩を掘る 作業を あたえていません。\n\n入植者に 岩を掘る 作業を 割り振りましょう。</NeedMinerDesc>
+<NeedMiner>坑夫が必要</NeedMiner>
+<NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが、「採掘」の作業を持った 入植者がひとりもいません。\n\n入植者に 「採掘」の作業を 割り当てましょう。</NeedMinerDesc>
 
 <NeedWarden>囚人に看守を</NeedWarden>
-<NeedWardenDesc>囚人が いるものの、 入植者に 看守の 作業を あたえていません。\n\n入植者に 看守の 作業を 割り振りましょう。</NeedWardenDesc>
+<NeedWardenDesc>囚人が いますが、 「看守」の作業を持った 入植者がひとりもいません。\n\n入植者に 「看守」の作業を 割り当てましょう。</NeedWardenDesc>
 
-<LowFood>食材が足りない</LowFood>
-<LowFoodDesc>倉庫に {0} 単位の 食材しか ありません。 これは とても危険です。 \n\n食材を 育てるか、 探すか、 または 狩ってください。</LowFoodDesc>
+<LowFood>食料が少ない</LowFood>
+<LowFoodDesc>倉庫に {0} 単位の 食料しか ありません。 これは 危険なまでに 量が少ないです。 \n\n食料を 育てるか、買うか、探すか、または 狩ってください。</LowFoodDesc>
 
-<LowMedicine>薬品が足りない</LowMedicine>
-<LowMedicineDesc>倉庫に {0} 単位の薬品しかありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
+<LowMedicine>薬品が少ない</LowMedicine>
+<LowMedicineDesc>倉庫に {0} 単位の 薬品しか ありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
 <NoMedicineDesc>倉庫に、ひとつも薬品がありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</NoMedicineDesc>
 
-<NeedColonistBeds>ベッドを作る</NeedColonistBeds>
-<NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 寝場所は すぐに つくれます。</NeedColonistBedsDesc>
+<NeedColonistBeds>ベッドが必要</NeedColonistBeds>
+<NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 「寝床」は すぐに つくれます。</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
   <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為に 射程の長い武器を持たせましょう。</HunterLacksWeaponDesc>
 
 <Starvation>食べる物がない</Starvation>
-<StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。 ペーストディスペンサー のような栄養供給源が必要です。 "徴兵"されていないことも 確認してください。</StarvationDesc>
+<StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。</StarvationDesc>
 
   <StarvationAnimals>餌がない</StarvationAnimals>
-  <StarvationAnimalsDesc>コロニーの家畜が腹を空かせています：\n\n{0}\n何か食べ物を与えてください。</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>コロニーの家畜が腹を空かせています：\n\n{0}\n餌を 用意してください。</StarvationAnimalsDesc>
 
 <Exhaustion>入植者に休息を</Exhaustion>
-<ExhaustionDesc>つぎの 入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です。 彼らは 入植者用ベッドを 必要としています。 "徴兵"されていないことも 確認してください。</ExhaustionDesc>
+<ExhaustionDesc>入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です。 彼らは 入植者用ベッドを 必要としています。 "徴兵"されていないことも 確認してください。</ExhaustionDesc>
 
-<NeedFoodHopper>食材ホッパー</NeedFoodHopper>
-<NeedFoodHopperDesc>ペーストディスペンサーに 隣接して 食材ホッパーを つくりましょう。\n\nペースト ディスペンサーは 食材ホッパーから 生の食材を 引き出して 動作します。\n\n食材ホッパーが 隣接していない ペーストディスペンサーが あります。 </NeedFoodHopperDesc>
+<NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
+<NeedFoodHopperDesc>ペーストディスペンサーがありますが、食材ホッパーがありません。\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません。\n\n食材ホッパーを ペーストディスペンサーの隣に つくりましょう。</NeedFoodHopperDesc>
 
 <BuildingNeedsPower>機器に電気を</BuildingNeedsPower>
 <BuildingsNeedPower>機器に電気を</BuildingsNeedPower>
-<BuildingsNeedPowerDesc>次の 電気を消費する 建物・機器は すべての 電気から 完全に 分断 されています：\n\n{0}\n発電機や バッテリーに 接続しましょう。</BuildingsNeedPowerDesc>
+<BuildingsNeedPowerDesc>次の 電力を消費する 建物・機器は 稼働中の電力網から 完全に 分断されています：\n\n{0}\n発電機や バッテリーに 接続しましょう。</BuildingsNeedPowerDesc>
 <AndMore>より</AndMore>
 
 <NeedMealSource>食材の調理</NeedMealSource>
-<NeedMealSourceDesc>ペースト ディスペンサー または 調理ストーブを 作り 生の食材を 調理しましょうする\n\n入植者は 生の食材を たべません。\n\n（囚人ゾーンの 調理器を、 入植者は 使用 できません）</NeedMealSourceDesc>
+<NeedMealSourceDesc>あなたは、生の食材を ちゃんとした料理にする 手段を持っていません。\n\nペースト ディスペンサー、カマド、焚き火、または 電気コンロを 作りましょう。\n\n（入植者は 囚人ゾーンの 調理器を、使用できません。）</NeedMealSourceDesc>
 
 <NeedHomeRegion>村のゾーン</NeedHomeRegion>
 <NeedHomeRegionDesc>入植者のために 村の ゾーンを きめて、 修理や 消火活動、 掃除をさせて 住み良い村に しましょう。\n\nアーキテクト メニューの ゾーン設定 で 村のゾーンを 指定しましょう。 </NeedHomeRegionDesc>
@@ -73,10 +73,10 @@
 <NeedBatteriesDesc>ソーラーパネルで つくった電気を バッテリーに ためましょう。 夜の間は バッテリーの 電気を つかいます。\n\nバッテリーが なければ 太陽が 沈むたびに 電気を 失って しまいます。</NeedBatteriesDesc>
 
 <NoTradingCapacity>商船と取引</NoTradingCapacity>
-<NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過しようとする 商船と アイテムの 取り引きが できるように なります。</NoTradingCapacityDesc>
+<NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過中の 商船と 取り引きが できるように なります。</NoTradingCapacityDesc>
 
 <BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
-<BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことが彼を非常に不愉快にさせています。</BrawlerHasRangedWeaponDesc>
+<BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことは、彼を非常に不愉快にさせるでしょう。</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
   <ShieldUserHasRangedWeaponDesc>ある入植者は パーソナルシールドを装備し、遠距離武器で武装しています。パーソナルシールド越しに 遠距離武器を 発砲することはできません(標的と接している場合は除きます)。</ShieldUserHasRangedWeaponDesc>
@@ -104,17 +104,17 @@
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません。\n\n治療を行わずにいると、病が慢性化し 死に至ります。\n\n{0}\n直ちに医療用ベッドに寝かす必要があります。\n\n(最初に、ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>低体温症</AlertHypothermia>
-  <AlertHypothermiaDesc>入植者は低体温症に罹っています。\n\n{0}\n季節に見合った暖かな服装をさせ、室内に暖房を設置しましょう。</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>入植者は低体温症に罹っています。\n\n{0}\n季節に見合った暖かな服装をさせ、室内を適切に暖めましょう。</AlertHypothermiaDesc>
 
     <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
-    <PatientsAwaitingMedicalOperationDesc>入植者は外科的手術が始まるのを待っています:\n\n{0}\n治療に必要なツールと、フリーなドクターが居るか確認しましょう。</PatientsAwaitingMedicalOperationDesc>
+    <PatientsAwaitingMedicalOperationDesc>患者が外科的手術が始まるのを待っています:\n\n{0}\n治療に必要なツールと、フリーなドクターが居るか確認しましょう。</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>火災発生!</FireInHomeArea>
   <FireInHomeAreaDesc>コロニー内にて火災が発生しています。</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>大病を患って死にかけています。\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう。</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>大病を患って死にかけています。\n\n{0}\nもし可能なら、生命を救う為に大胆な手術が必要です。</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってるひとがいます。\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう。</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってるひとがいます。\n\n{0}\nもし可能なら、入植者を生かしつづけるためにも、感染部位の切断手術や、移植手術も、検討しましょう。</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
   <BilliardsNeedsSpaceDesc>あるビリヤード台が障害物に隣接している為、入植者が使おうとするのを邪魔しています。\n\nビリヤード台の周り、四方にスペースが必要です。</BilliardsNeedsSpaceDesc>

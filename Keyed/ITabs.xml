@@ -68,7 +68,7 @@
 	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
 	<Harvest>摘出</Harvest>
-    <RemoveOrgan>Remove</RemoveOrgan>
+    <RemoveOrgan>摘出</RemoveOrgan>
 	<MemoryLower>記憶</MemoryLower>
 	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
 	<HungerRate>空腹率</HungerRate>
@@ -95,7 +95,7 @@
   <!-- Training tab-->
   <TrainableIntelligence>賢さ</TrainableIntelligence>
   <CannotTrainNotSmartEnough>必要とする賢さ {0}</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます。</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
 

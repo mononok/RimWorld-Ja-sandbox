@@ -5,12 +5,12 @@
 <ManualPriorities>詳細な設定</ManualPriorities>
 <HigherPriority>優先度 高</HigherPriority>
 <LowerPriority>優先度 低</LowerPriority>
-<RelevantSkills>該当スキル：{0} \n 平均関連スキル： {1} / {2}</RelevantSkills>
+<RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
 <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
 <CannotDoThisWork>{0} は この作業が できません</CannotDoThisWork>
 <NoneBrackets>（なし）</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>この入植者は、健康上の理由から、このタイプのすべての作業を行うことができません。</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>急</EmergencyWorkMarker>
+  <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
 
   <!-- Outfits tab -->
   <CurrentOutfit>服装</CurrentOutfit>
@@ -56,9 +56,9 @@
 <External>External</External>
 
   <!-- Research tab -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
-  
+  <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>
+  <YourTechLevel>あなたのテックレベル</YourTechLevel>
+  <ResearchCostMultiplier>コスト 倍率</ResearchCostMultiplier>
+  <ResearchCostComparison>あなたのテックレベルを考慮した結果、プロジェクトにかかる {0}は {1}になりました。</ResearchCostComparison>
+
 </LanguageData>

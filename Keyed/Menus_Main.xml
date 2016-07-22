@@ -5,9 +5,9 @@
 <CreateWorld>惑星を創造</CreateWorld>
 <NewColony>新しくはじめる</NewColony>
 <BackToGame>ゲーム再開</BackToGame>
-<ReviewScenario>Review scenario</ReviewScenario>
+<ReviewScenario>シナリオ表示</ReviewScenario>
 <Save>セーブ</Save>
-<Load>ロード</Load>
+<LoadGame>ロード</LoadGame>
 <Options>オプション</Options>
 <Mods>MOD</Mods>
 <Credits>クレジット</Credits>
@@ -52,9 +52,9 @@
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
   <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。よろしいですか？</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています。よろしいですか？</ConfirmUnsubscribe>
   <Author>作者</Author>
   <WorkshopPage>Workshop page</WorkshopPage>
   <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
@@ -69,23 +69,24 @@
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
 
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ChooseScenario>シナリオを選択</ChooseScenario>
+  <ScenariosCustom>カスタム</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ScenarioEditor>シナリオ・エディター</ScenarioEditor>
+  <Delete>削除</Delete>
 
   <!--============ Scenario editor ===============-->
-  <Seed>seed</Seed>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>シード</Seed>
+  <Load>ロード</Load>
+  <EditMode>エディット・モード</EditMode>
+  <Summary>概略</Summary>
+  <AddPart>パーツを追加</AddPart>
+  <TextFieldsMustBeFilled>全てのテキストフィールドは、入力されていなければなりません。</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>あなたは、"Steam Workshop"にアップロードしようとしています。よろしいですか？\n\nあなたは、"Steam Workshop terms of service"を承諾しなければなりません。全文はここにあります。\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>あなたは、明らかに、あなた自身が作成したコンテンツだけをアップロードしなければなりません。このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+  <Incompatible>適合しません</Incompatible>
+  <TooMany>多すぎます(最大 {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>あなたが作者なので、ワークショップを更新することができます。</CanBeUpdatedOnWorkshop>
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
@@ -113,15 +114,15 @@
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
-  <AvgJanTemp>年平均気温(冬季): {0}</AvgJanTemp>
-  <AvgJulTemp>年平均気温(夏期): {0}</AvgJulTemp>
+  <AvgWinterTemp>年平均気温(冬季): {0}</AvgWinterTemp>
+  <AvgSummerTemp>年平均気温(夏期): {0}</AvgSummerTemp>
   <Rainfall>降雨量</Rainfall>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
   <HasCoast2>南海岸</HasCoast2>
   <HasCoast3>西海岸</HasCoast3>
   <FactionBase>本拠地</FactionBase>
-  <StoneTypesHere>主な岩盤</StoneTypesHere>
+  <StoneTypesHere>主な地層</StoneTypesHere>
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>

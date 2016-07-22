@@ -5,9 +5,9 @@
 <ProgressToNextLevel>次のレベルまで あと</ProgressToNextLevel>
   <Experience>経験値</Experience>
 <Passion>情熱</Passion>
-<PassionNone>なし （経験値 {0} 倍）</PassionNone>
-<PassionMinor>関心 （経験値 {0} 倍）</PassionMinor>
-<PassionMajor>熱心 （経験値 {0} 倍）</PassionMajor>
+<PassionNone>なし （経験値 x{0}）</PassionNone>
+<PassionMinor>関心 （経験値 x{0}）</PassionMinor>
+<PassionMajor>熱心 （経験値 x{0}）</PassionMajor>
 <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
 <SkillMax>最大</SkillMax>
 
@@ -33,7 +33,7 @@
 <Skill17>人類代表</Skill17>
 <Skill18>宇宙一</Skill18>
 <Skill19>生きる伝説</Skill19>
-<Skill20>神そのもの</Skill20>
+<Skill20>神</Skill20>
 
 
 

@@ -9,23 +9,23 @@
 <RelationsBrokenDown>{0} 部族が 絶縁しました。 彼らは、 あなたに 敵対しています。</RelationsBrokenDown>
 <RelationsWarmed>{0} 部族との 関係が 回復しました。 彼らは あなたに 敵対していません。</RelationsWarmed>
 
-<RelationsBrokenCapture>あなたは {0} を捕獲しました。 {1} 部族は、 あなたに 敵対します。</RelationsBrokenCapture>
+<RelationsBrokenCapture>あなたは {0} を捕らえました。 {1} 部族は、 あなたに 敵対します。</RelationsBrokenCapture>
 
-<ColonyGoodwill>村の 友好度</ColonyGoodwill>
+<ColonyGoodwill>コロニーの 友好度</ColonyGoodwill>
 <Neutral>中立</Neutral>
 
 <ShortCircuitRain>{0} は雨で短絡し、発火しました。</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>発見</LetterLabelAreaRevealed>
   <AreaRevealed>新しいゾーンが明らかになりました。</AreaRevealed>
-  <AreaRevealedWithMechanoids>新しいゾーンが明らかになりましたが、古代の敵対するメカノイドがいます。</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>新しいゾーンが明らかになりましたが、敵対する古代のメカノイドがいます。</AreaRevealedWithMechanoids>
 
-<RoofCollapsed>屋根の 支えが 遠すぎたため、 自重で 崩壊しました。</RoofCollapsed>
+<RoofCollapsed>屋根の 支えが 遠すぎたため、 自重で 崩落しました。</RoofCollapsed>
 <TheseThingsCrushed>崩落の 被害</TheseThingsCrushed>
 <NothingCrushed>被害は ありませんでした。</NothingCrushed>
   <LetterLabelRoofCollapsed>崩落</LetterLabelRoofCollapsed>
 
-<RecruitSuccess>{0} は {1} を 村に 迎えました。 （成功率 {2} ）</RecruitSuccess>
+<RecruitSuccess>{0} は {1} を 村に 迎え入れました。 （成功率 {2} ）</RecruitSuccess>
 <RecruitFail>{0} は {1} の 説得に 失敗しました。 （成功率 {2} ）</RecruitFail>
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
@@ -37,17 +37,17 @@
 <NewPartDisease>{0} は {1} に感染しました 早く病を克服するには、できる限り安静にして 治療を受けることです。{2}</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>遭遇</LetterLabelAncientShrineWarning>
-<AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せた。なぜだか解らないが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
+<AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
 
-  <StruckMineable>{0}に突き当たった!</StruckMineable>
+  <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>{0}は手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>手なずけるのに失敗し、{0} は襲いかかってきた</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>手なずけるのに失敗し、{0}は 襲いかかってきた</AnimalManhunterFromTaming>
   <AnimalManhunterOthers>そばにいた、他の {0} もいっせいに怒り狂った</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} 罠にひかっかった</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} は不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{0}は 罠にひかっかった</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0}は 不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
 
   <LetterHealthComplications>{0} は、{2} の合併症で、{1} を患った。</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
@@ -58,19 +58,20 @@
   <LetterLeadersDeathLabel>リーダーの死</LetterLeadersDeathLabel>
   <LetterLeadersDeath>{1} のリーダー {0} は死に、代わりに {2} が、その地位についた。</LetterLeadersDeath>
 
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>Reason: {0}.</MentalBreakReason>
+  <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
+  <MentalBreakReason>理由: {0}</MentalBreakReason>
   
   <!-- Related pawns -->
-  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
+  <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した敵対する {0} グループにいます。\n\n
+  たとえ彼とは血がつながっていても、彼らとは敵対する関係である以上、依然として襲ってくるつもりがあることに留意してください。\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した友好な {0} グループにいます。</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>あなたのコロニーの 入植者か、囚人と、つながりのある者が、到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>あなたのコロニーの 入植者か、囚人と、つながりのある者が、奴隷商人によって売られています：</LetterRelatedPawnsTradeShip>
 
-  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME は入植者と血縁関係にあります。HECAPは {0}の {1}です。</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME は囚人の一人と血縁関係にあります。HECAPは {0}の {1}です。</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>浮気</LetterLabelAffair>
@@ -78,7 +79,7 @@
   <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
   <LetterNewLovers>{0} と {1} は、お互いを好きになって、恋人になりました。</LetterNewLovers>
   <LetterNoLongerLovers>{0} は {1} との関係を断ちました。</LetterNoLongerLovers>
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
+  <LetterLabelBreakup>振られた</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} は、{0} からのプロポーズを受け留めました。\n\nあなたが、婚姻の儀式を行う場所(marrige point)を決めさえすれば、季節が流れたある時期に、彼らは、全ての入植者に招待状を出して、そこで結婚式を行うでしょう。</LetterAcceptedProposal>

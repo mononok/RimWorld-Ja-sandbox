@@ -13,29 +13,29 @@
 
   <!-- Price types -->
   <PriceTypeVeryCheap>とても安い</PriceTypeVeryCheap>
-  <PriceTypeCheap>安い</PriceTypeCheap>
-  <PriceTypeNormal>通常</PriceTypeNormal>
+  <PriceTypeCheap>廉価</PriceTypeCheap>
+  <PriceTypeNormal>標準価格</PriceTypeNormal>
   <PriceTypeExpensive>高価</PriceTypeExpensive>
   <PriceTypeExorbitant>法外に高価</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>low</StoragePriorityLow>
-  <StoragePriorityNormal>normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
-  <StoragePriorityImportant>important</StoragePriorityImportant>
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityUnstored>不要</StoragePriorityUnstored>
+  <StoragePriorityLow>低</StoragePriorityLow>
+  <StoragePriorityNormal>通常</StoragePriorityNormal>
+  <StoragePriorityPreferred>優先</StoragePriorityPreferred>
+  <StoragePriorityImportant>重要</StoragePriorityImportant>
+  <StoragePriorityCritical>最重要</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>野菜・果物</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>死肉</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>屍肉</FoodTypeFlags_Corpse>
   <FoodTypeFlags_Seeds>種子</FoodTypeFlags_Seeds>
   <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
   <FoodTypeFlags_Plant>草・牧草</FoodTypeFlags_Plant>
   <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>食事</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>調理された料理</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>加工食品</FoodTypeFlags_Processed>
   <FoodTypeFlags_Liquor>アルコール飲料</FoodTypeFlags_Liquor>
   <FoodTypeFlags_Kibble>ペットフード</FoodTypeFlags_Kibble>
 
@@ -65,7 +65,7 @@
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>飢餓</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
-  <HungerLevel_Fed>食事</HungerLevel_Fed>
+  <HungerLevel_Fed>摂食</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
@@ -80,9 +80,9 @@
   <Hilliness_Mountainous>山岳</Hilliness_Mountainous>
 
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <WorkshopInteractStage_CreatingItem>作成中</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>提出中</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>無効</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
@@ -90,14 +90,14 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>ローカルフォルダー</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-  
+
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>適性無し</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>単純</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>中程度</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>高度</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_Simple>単純な命令</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>並程度の知性</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>高度な知性</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
@@ -117,13 +117,13 @@
   <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
-  <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+  <TechLevel_Animal>道具を使えない</TechLevel_Animal>
+  <TechLevel_Neolithic>新石器時代</TechLevel_Neolithic>
+  <TechLevel_Medieval>中世</TechLevel_Medieval>
+  <TechLevel_Industrial>産業革命</TechLevel_Industrial>
+  <TechLevel_Spacer>宇宙世紀</TechLevel_Spacer>
+  <TechLevel_Ultra>最先端の技術力</TechLevel_Ultra>
+  <TechLevel_Transcendent>超越した技術力</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
@@ -133,16 +133,16 @@
   <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
+  <ShowAnimalNames>動物の名前</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
-  
+
   <!-- Temperature -->
-  <Celsius>Celsius</Celsius>
-  <Fahrenheit>Fahrenheit</Fahrenheit>
-  <Kelvin>Kelvin</Kelvin>
-  
+  <Celsius>摂氏</Celsius>
+  <Fahrenheit>華氏</Fahrenheit>
+  <Kelvin>絶対温度</Kelvin>
+
 
 </LanguageData>

@@ -7,8 +7,8 @@
     <HaulToContainer.reportString>TargetA を運搬中</HaulToContainer.reportString>
 
     <!--============= Special hauling ===============-->
-	<Steal.reportString>stealing TargetA.</Steal.reportString>
-	
+	<Steal.reportString>TargetA を略奪中.</Steal.reportString>
+
     <Kidnap.reportString>TargetA を誘拐中</Kidnap.reportString>
 
     <!--============= Pawn hauling ===============-->
@@ -37,7 +37,7 @@
     <FixBrokenDownBuilding.reportString>TargetA の壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
     <BuildRoof.reportString>building roof.</BuildRoof.reportString>
     <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
-	
+
 	<!--============= Medical ===============-->
     <FeedPatient.reportString>TargetA が TargetB に給仕中</FeedPatient.reportString>
     <TendPatient.reportString>TargetA に貢献中</TendPatient.reportString>

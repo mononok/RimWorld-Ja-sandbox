@@ -1,15 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=============== Kibble ====================-->
-
-	<Kibble.label>ペットフード</Kibble.label>
-	<Kibble.description>生の肉と野菜を混ぜ合わせて、ペットフードを作成します。</Kibble.description>
 
   <!--=============== Milk ====================-->
 
 	<Milk.label>ミルク</Milk.label>
 	<Milk.description>動物からとれた乳です。</Milk.description>
+
+	<InsectJelly.label>インセクトゼリー</InsectJelly.label>
+	<InsectJelly.description>大型の虫によって、貯えられ、食料とされるゼリー状物質です。味は滑らかでこってりしており大いに満足できます。決して腐らず、ほとんどの生物を養うことができるという、たぐいまれな特徴を持っています。</InsectJelly.description>
 
   <!--=============== Eggs ====================-->
 
@@ -28,9 +27,17 @@
     <EggTortoiseFertilized.label>カメの卵(有精卵)</EggTortoiseFertilized.label>
     <EggTortoiseFertilized.description>カメの有精卵、うまくいけば、卵は孵化してカメになります。生でも食用になりますが、調理したほうが、もっともっとおいしいです。</EggTortoiseFertilized.description>
 
-  <!-- ================ Insect jelly ================= -->
+	<EggCassowaryFertilized.label>ヒクイドリの卵(有精卵)</EggCassowaryFertilized.label>
+    <EggCassowaryFertilized.description>Fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked.</EggCassowaryFertilized.description>
 
-	<InsectJelly.label>インセクトゼリー</InsectJelly.label>
-	<InsectJelly.description>大型の虫によって、貯えられ、食料とされるゼリー状物質です。味は滑らかでこってりしており大いに満足できます。決して腐らず、ほとんどの生物を養うことができるという、たぐいまれな特徴を持っています。</InsectJelly.description>
+	<EggEmuFertilized.label>エミュの卵(有精卵)</EggEmuFertilized.label>
+    <EggEmuFertilized.description>Fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked.</EggEmuFertilized.description>
+
+	<EggOstrichFertilized.label>ダチョウの卵(有精卵)</EggOstrichFertilized.label>
+    <EggOstrichFertilized.description>Fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked.</EggOstrichFertilized.description>
+
+	<EggTurkeyFertilized.label>シチメンチョウの卵(有精卵)</EggTurkeyFertilized.label>
+    <EggTurkeyFertilized.description>Fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked.</EggTurkeyFertilized.description>
+
 
 </LanguageData>

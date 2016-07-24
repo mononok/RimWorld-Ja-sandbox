@@ -93,12 +93,12 @@
 <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
 <MapSizePerformanceWarning>警告：ハイスペックな コンピュータで なければ、 大きなマップでは パフォーマンスが 低下します。\n\nもし、 あなたの コンピューターの 性能が 低ければ 小マップを 選択して ください。\n\nルデオニコラスは 未調整のため 動作は 一切 保証しません。</MapSizePerformanceWarning>
 <MapSize>マップサイズ</MapSize>
-<MapSizeDesc>{0} X {0} （{1}の正方形）</MapSizeDesc>
+<MapSizeDesc>{0}x{0} ({1}の正方形)</MapSizeDesc>
 <MapSizeSmall>小</MapSizeSmall>
 <MapSizeMedium>中</MapSizeMedium>
 <MapSizeLarge>大</MapSizeLarge>
 <MapSizeExtreme>ルデオニコラス</MapSizeExtreme>
-  <MapStartSeason>開始 季節：</MapStartSeason>
+  <MapStartSeason>開始時の季節</MapStartSeason>
   <MapStartSeasonDefault>自動</MapStartSeasonDefault>
   <PermadeathMode>Permadeath モード</PermadeathMode>
   <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
@@ -147,7 +147,7 @@
 <GrowingTime>成長時間</GrowingTime>
   <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+    <MinGrowingSkillToSow>最低必要な「栽培」スキル値</MinGrowingSkillToSow>
 <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
   <SoilFertilitySensitivityGrowthRate>肥沃度に対する感度(成長率)</SoilFertilitySensitivityGrowthRate>
   <SoilFertilitySensitivityPlantChance>肥沃度に対する感度(成功率)</SoilFertilitySensitivityPlantChance>
@@ -216,6 +216,6 @@
   <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
 
   <!-- Growing -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}は、栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
 
 </LanguageData>

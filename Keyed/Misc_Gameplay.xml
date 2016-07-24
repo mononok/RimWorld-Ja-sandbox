@@ -4,7 +4,7 @@
 <!-- Various -->
 <WorkLeft>残り工数</WorkLeft>
 <Contents>運んだ資材</Contents>
-<ContainedResources>作成に必要な リソース</ContainedResources>
+<ContainedResources>作成に必要なリソース</ContainedResources>
 <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
 <ForColonistUse>入植者が 使用</ForColonistUse>
 <MedicalBed>医療用</MedicalBed>
@@ -23,9 +23,9 @@
   <Adapted>順応した</Adapted>
   <FreshMissingBodyPart>フレッシュ</FreshMissingBodyPart>
   <UntreatedLower>未処置</UntreatedLower>
-  <DevelopedImmunityLower>免疫をつけている</DevelopedImmunityLower>
+  <DevelopedImmunityLower>免疫がある</DevelopedImmunityLower>
   <InjuryRequiresTreatment>治療が 必要です</InjuryRequiresTreatment>
-  <NextTreatmentIn>{0}時間後に 再治療が必要です</NextTreatmentIn>
+  <NextTreatmentIn>{0}後に 再治療が必要です</NextTreatmentIn>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
   <Race>人種</Race>
@@ -206,17 +206,17 @@
 
   <!-- Rotting -->
   <CurrentlyFrozen>冷凍(永久保存)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>冷蔵 (消費期限あと {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>常温 (消費期限あと {0})</NotRefrigerated>
-  <OverADecade>消費期限切れ</OverADecade>
+  <CurrentlyRefrigerated>冷蔵 (腐敗まで {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>常温 (腐敗まで {0})</NotRefrigerated>
+  <OverADecade>10年間</OverADecade>
 <LessThanADay>本日中</LessThanADay>
 
 	<!-- Meal -->
 	<Ingredients>原料</Ingredients>
 
 	<!-- Plants -->
-	<PercentGrowth>{0} 成長</PercentGrowth>
-	<GrowthRate>成長率</GrowthRate>
+	<PercentGrowth>成長度  {0}</PercentGrowth>
+	<GrowthRate>成長速度</GrowthRate>
 	<FullyGrownIn>成長 {0} で 完熟 します</FullyGrownIn>
 	<PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
 	<PlantResting>成長していない (活動停止中)</PlantResting>
@@ -331,7 +331,7 @@
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
   <!-- Generic lifespan -->
-  <LifespanExpiry>Expires in:</LifespanExpiry>
+  <LifespanExpiry>寿命:</LifespanExpiry>
 
   <!-- Traps -->
   <TrapArmed>活性</TrapArmed>

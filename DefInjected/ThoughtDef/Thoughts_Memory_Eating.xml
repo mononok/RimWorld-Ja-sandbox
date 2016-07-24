@@ -21,11 +21,11 @@
 
   <rep>
     <path>AteAwfulMeal.stages[0].label</path>
-    <trans>ate awful meal</trans>
+    <trans>ひどい食事だった</trans>
   </rep>
   <rep>
     <path>AteAwfulMeal.stages[0].description</path>
-    <trans>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</trans>
+    <trans>胸が悪くなるような、味も素っ気もない食事を食べなければならなかった。生きるためとはいえ、誰もこんな、まずそうな食べ物を飲みたいとは思わない。</trans>
   </rep>
 
   <rep>
@@ -68,20 +68,20 @@
 
   <rep>
     <path>AteInsectMeatAsIngredient.stages[0].label</path>
-    <trans>ate cooked insect meat</trans>
+    <trans>調理された虫を食べた</trans>
   </rep>
   <rep>
     <path>AteInsectMeatAsIngredient.stages[0].description</path>
-    <trans>I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify.</trans>
+    <trans>灰色でスライムっぽい虫を調理したものを食べた。味は、ある程度、調味料がごまかしてくれたが、虫腺か嚢か、私にはわからないものが入っていた。</trans>
   </rep>
 
   <rep>
     <path>AteInsectMeatDirect.stages[0].label</path>
-    <trans>ate insect meat</trans>
+    <trans>虫をそのまま食べた</trans>
   </rep>
   <rep>
     <path>AteInsectMeatDirect.stages[0].description</path>
-    <trans>I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted.</trans>
+    <trans>灰色でスライムっぽい虫をたべた。ああ、食べられたが、こんな胸が悪くなうようなものを二度と食べたくはない。</trans>
   </rep>
 
   <rep>
@@ -101,16 +101,16 @@
     <path>AteHumanlikeMeatDirect.stages[0].description</path>
     <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
   </rep>
-  
+
     <!--================== Rotten state thoughts =================-->
 
   <rep>
     <path>AteRottenFood.stages[0].label</path>
-    <trans>ate rotten food</trans>
+    <trans>屍肉を食べた</trans>
   </rep>
   <rep>
     <path>AteRottenFood.stages[0].description</path>
-    <trans>I ate some disgusting, purtid food. It was melting in my mouth - but not in a good way.</trans>
+    <trans>ひどく胸が悪くなるような腐ったものを食べた。それは口のなかで溶けたが、ひとつも良い事はない。</trans>
   </rep>
 
 

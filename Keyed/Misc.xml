@@ -29,7 +29,7 @@
   <multiplier>倍率</multiplier>
   <damage>ダメージ</damage>
   <radius>半径</radius>
-  <durationDays>持続時間 (日)</durationDays>
+  <durationDays>所要時間 (日)</durationDays>
 
   <!-- Content generation-->
 
@@ -59,7 +59,7 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-	
+
     <!-- To express ownership. -->
     <!-- For example Jack's Bedroom -->
 	<SomeonesRoom>{0} の {1}</SomeonesRoom>

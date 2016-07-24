@@ -7,11 +7,11 @@
 	<Berserk.recoveryMessage>{0} の狂暴化の波は、終わりを迎えた。</Berserk.recoveryMessage>
     <Berserk.inspectLine>精神状態: 狂暴化</Berserk.inspectLine>
 
-	<FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
-	<FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
-	<FireStartingSpree.beginLetter>{0} is on a fire starting spree.</FireStartingSpree.beginLetter>
-	<FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
-	<FireStartingSpree.inspectLine>Mental state: Fire starting spree</FireStartingSpree.inspectLine>
+	<FireStartingSpree.label>放火魔</FireStartingSpree.label>
+	<FireStartingSpree.beginLetterLabel>放火魔</FireStartingSpree.beginLetterLabel>
+	<FireStartingSpree.beginLetter>{0}は、やたらめったら放火してします。</FireStartingSpree.beginLetter>
+	<FireStartingSpree.recoveryMessage>{0}は、もう放火することはありません。</FireStartingSpree.recoveryMessage>
+	<FireStartingSpree.inspectLine>精神状態: 放火魔</FireStartingSpree.inspectLine>
 
 	<GiveUpExit.label>ギブアップ</GiveUpExit.label>
     <GiveUpExit.beginLetterLabel>ギブアップ</GiveUpExit.beginLetterLabel>
@@ -24,33 +24,33 @@
 	<BingingAlcohol.label>酒に溺れる</BingingAlcohol.label>
     <BingingAlcohol.beginLetterLabel>大酒</BingingAlcohol.beginLetterLabel>
     <BingingAlcohol.beginLetter>{0} は大酒を飲んで騒いでいます。</BingingAlcohol.beginLetter>
-    <BingingAlcohol.recoveryMessage>{0} は、大酒を呑むのをやめました。</BingingAlcohol.recoveryMessage>
+    <BingingAlcohol.recoveryMessage>{0} は、大酒を呑むことはありません。。</BingingAlcohol.recoveryMessage>
     <BingingAlcohol.inspectLine>精神状態: 大酒</BingingAlcohol.inspectLine>
 
-	<WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
-	<WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
-	<WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
-	<WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
-	<WanderPsychotic.inspectLine>Mental state: Psychotic wandering</WanderPsychotic.inspectLine>
+	<WanderPsychotic.label>精神を病んでフラフラする</WanderPsychotic.label>
+	<WanderPsychotic.beginLetterLabel>呆然</WanderPsychotic.beginLetterLabel>
+	<WanderPsychotic.beginLetter>{0} は精神を病んで、あたりをうろついています。</WanderPsychotic.beginLetter>
+	<WanderPsychotic.recoveryMessage>{0} は、もうを病んでフラフラすることはありません。</WanderPsychotic.recoveryMessage>
+	<WanderPsychotic.inspectLine>精神状態: 精神衰弱</WanderPsychotic.inspectLine>
 
 	<!-- Mental breaks: minor -->
 
-	<BingingFood.label>binging on food</BingingFood.label>
-	<BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
-	<BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
-	<BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
-	<BingingFood.inspectLine>Mental state: Pigging out</BingingFood.inspectLine>
+	<BingingFood.label>食べずにはいられない</BingingFood.label>
+	<BingingFood.beginLetterLabel>過食症</BingingFood.beginLetterLabel>
+	<BingingFood.beginLetter>{0}は、ブタのようにガツガツと食べています。</BingingFood.beginLetter>
+	<BingingFood.recoveryMessage>{0}は、 もうブタのようにガツガツと食べることはありません。</BingingFood.recoveryMessage>
+	<BingingFood.inspectLine>精神状態: 過食症</BingingFood.inspectLine>
 
-	<WanderSad.label>sad wandering</WanderSad.label>
-	<WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
-	<WanderSad.beginLetter>{0} is wandering around in sadness.</WanderSad.beginLetter>
-	<WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
-	<WanderSad.inspectLine>Mental state: Sad wandering</WanderSad.inspectLine>
+	<WanderSad.label>悲しみに暮れている</WanderSad.label>
+	<WanderSad.beginLetterLabel>悲観</WanderSad.beginLetterLabel>
+	<WanderSad.beginLetter>{0}は、悲しみのあまり、あたりをうろついています。</WanderSad.beginLetter>
+	<WanderSad.recoveryMessage>{0}は、もう悲しみでフラフラすることはありません。</WanderSad.recoveryMessage>
+	<WanderSad.inspectLine>精神状態: 悲観</WanderSad.inspectLine>
 
-	<WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
-	<WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
-	<WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
-	<WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
-	<WanderOwnRoom.inspectLine>Mental state: Hiding in room</WanderOwnRoom.inspectLine>
+	<WanderOwnRoom.label>ひきこもり</WanderOwnRoom.label>
+	<WanderOwnRoom.beginLetterLabel>ひきこもり</WanderOwnRoom.beginLetterLabel>
+	<WanderOwnRoom.beginLetter>{0}は、HISの部屋に隠れてでてきません。</WanderOwnRoom.beginLetter>
+	<WanderOwnRoom.recoveryMessage>{0}は、もう、HIM部屋に、ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
+	<WanderOwnRoom.inspectLine>精神状態: ひきこもり</WanderOwnRoom.inspectLine>
 
 </LanguageData>

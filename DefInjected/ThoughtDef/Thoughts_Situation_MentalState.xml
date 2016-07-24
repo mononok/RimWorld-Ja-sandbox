@@ -3,33 +3,33 @@
 
 	<rep>
 		<path>CurrentlyInMentalStateAggro.stages[0].label</path>
-        <trans>aggressive thoughts</trans>
+        <trans>攻撃的な思考</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStateAggro.stages[0].description</path>
-        <trans>Must kill!</trans>
+        <trans>殺すべき!</trans>
 	</rep>
 
 	<rep>
 		<path>CurrentlyInMentalStateSad.stages[0].label</path>
-        <trans>sad thoughts</trans>
+        <trans>悲壮感</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStateSad.stages[0].description</path>
-        <trans>It's all just too much.</trans>
+        <trans>もう十分だよ</trans>
 	</rep>
 
 	<rep>
 		<path>CurrentlyInMentalStatePanic.stages[0].label</path>
-        <trans>panic</trans>
+        <trans>パニック</trans>
 	</rep>
 	<rep>
 		<path>CurrentlyInMentalStatePanic.stages[0].description</path>
-        <trans>I have to get out of here!</trans>
+        <trans>逃げ出さなきゃ!!</trans>
 	</rep>
 
 
-	<!-- 
+	<!--
 		<rep>
 		<path>CurrentlyInMentalStateBerserk.stages[0].label</path>
         <trans>狂暴化</trans>
@@ -58,6 +58,6 @@
 		<path>CurrentlyInMentalStatePanicFlee.stages[0].description</path>
         <trans>いますぐ逃げ出さないと!!</trans>
 	</rep>
-	
+
 	 -->
 </LanguageData>

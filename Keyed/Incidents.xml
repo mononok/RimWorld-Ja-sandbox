@@ -16,13 +16,13 @@
 	<EnemyRaidWalkIn>{0}の {1}グループが 接近して います。</EnemyRaidWalkIn>
 	<EnemyRaidEdgeDrop>{0}の {1}グループが、 ドロップポッドで 着陸しました。</EnemyRaidEdgeDrop>
 	<EnemyRaidCenterDrop>{0}の {1} グループが、 コロニーめがけて 着陸します！</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>{0} - {1} うちの１人は、この派閥のリーダです。</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>{0} - {1} うちの１人は、この派閥のリーダーです。</EnemyRaidLeaderPresent>
 
 <!-- Friendly raids -->
-	<FriendlyRaidWalkIn>{1} 部族から {0} 人の友軍が 接近して います。</FriendlyRaidWalkIn>
-	<FriendlyRaidEdgeDrop>{1} 部族から {0} 人の友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
-	<FriendlyRaidCenterDrop>{1} 部族から {0} 人の友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>{0} - {1} うちの１人は、この派閥のリーダです。</FriendlyRaidLeaderPresent>
+	<FriendlyRaidWalkIn>{0} {1}からの友軍が 接近して います。</FriendlyRaidWalkIn>
+	<FriendlyRaidEdgeDrop>{0} {1}からの友軍が、 ドロップポッドで 着陸しました。</FriendlyRaidEdgeDrop>
+	<FriendlyRaidCenterDrop>{0} {1}からの友軍が、 村めがけて 着陸します！</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>{0} - {1}うちの１人は、この派閥のリーダーです。</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>脱出ポッドが この近くの地表に 激突するのを見かけました。\n\nあの衝撃では きっと ひどく傷ついて いることでしょう。</RefugeePodCrash>
@@ -31,30 +31,30 @@
   <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>
 
 <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
-<ShortCircuit>{0} が 故障し、 ショートしました。\n\n{1} Wd もの電気が放電され 爆発しました。</ShortCircuit>
+<ShortCircuit>{0}が故障し、 ショートしました。\n\n{1} Wd もの電気が放電され 爆発しました。</ShortCircuit>
 <ShortCircuitWasLarge>とても多くの電気が放電された結果 、 かなり大きな 爆発が 起きました。</ShortCircuitWasLarge>
 <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です。</ShortCircuitWasHuge>
 
 <TraderArrival>商船は、 惑星のそばを 通過しようと しています。\n\n彼らは {0} という名で\n {1} を なりわいと しています。</TraderArrival>
 
-<SingleTravelerPassing>{1} 部族の {0} が 村のちかくに います。HECAP は {2} と名乗っています。</SingleTravelerPassing>
-<GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
+    <SingleTravelerPassing>{1}の {0}が 村の近くに います。HECAPは {2}と名乗っています。</SingleTravelerPassing>
+    <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います。</GroupTravelersPassing>
 
-	<LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています。{3}{4}</SingleVisitorArrives>
-<SingleVisitorArrivesTraderInfo>\n\nHECAP は、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
-    <SingleVisitorArrivesLeaderInfo>\n\nHECAP は派閥のリーダーです。</SingleVisitorArrivesLeaderInfo>
+    <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
+    <SingleVisitorArrives>{1}の {0}が 村を 訪問しています。\n\nHECAPは {2}と 名乗っています。{3}{4}</SingleVisitorArrives>
+<SingleVisitorArrivesTraderInfo>\n\nHECAPは、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
+    <SingleVisitorArrivesLeaderInfo>\n\nHECAPは、派閥のリーダーです。</SingleVisitorArrivesLeaderInfo>
 	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
-	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
+	<GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
 <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
   <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダーです。</GroupVisitorsArriveLeaderInfo>
-<VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
+<VisitorsLeaving>訪問中の {0}は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
 <WandererJoin>NAME という名前の {0} がやってきて  仲間になりました。</WandererJoin>
 
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>ヒトを狩る {0} 集団がやって来ました。彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
+  <ManhunterPackArrived>ヒト狩り {0} 集団がやって来ました。 彼らは地域をうろつき、生きたヒューマノイドを狩るでしょう。\n\n彼らはドアを通り抜けられないので、室内にじっとしていれば安全です。彼らは、動作していないタレットを攻撃しようとはしないので、タレットを温存したければオフにします。\n\n彼らは数日中のうちに出ていくと思われます。</ManhunterPackArrived>
 
 <!-- Crashed ship part-->
 <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました。</MessageAnimalInsanityPulse>
@@ -115,5 +115,5 @@
   <RansomDemand>{1}が 通信で あなたに呼びかけています。彼らは、入植者 {0}を 人質にしています。\n\n彼らは、身代金 {2}シルバーと交換に、HIM 解放する用意があると言ってきています。</RansomDemand>
   <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
-  
+
 </LanguageData>

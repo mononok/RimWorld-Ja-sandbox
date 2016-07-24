@@ -41,13 +41,13 @@
 <GroupTravelersPassing>{0} 部族の 旅行者グループが 村のちかくに います。</GroupTravelersPassing>
 
 	<LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2}.{3}{4} と名乗っています。</SingleVisitorArrives>
+	<SingleVisitorArrives>{1} 部族の {0} が 村を 訪問しています。\n\n HECAP は {2} と名乗っています。{3}{4}</SingleVisitorArrives>
 <SingleVisitorArrivesTraderInfo>\n\nHECAP は、持っているアイテムをいくつかトレードしたがっています。</SingleVisitorArrivesTraderInfo>
-    <SingleVisitorArrivesLeaderInfo>\n\nHECAP は派閥のリーダです。</SingleVisitorArrivesLeaderInfo>
+    <SingleVisitorArrivesLeaderInfo>\n\nHECAP は派閥のリーダーです。</SingleVisitorArrivesLeaderInfo>
 	<LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
 	<GroupVisitorsArrive>{0} 部族の 旅行者グループが 村を 訪問しています。{1}{2}</GroupVisitorsArrive>
 <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダです。</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダーです。</GroupVisitorsArriveLeaderInfo>
 <VisitorsLeaving>訪問中の {0} は 去りました。</VisitorsLeaving>
 
   <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>

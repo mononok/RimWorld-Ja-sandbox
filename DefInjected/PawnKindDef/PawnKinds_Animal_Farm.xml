@@ -2,8 +2,19 @@
 <LanguageData>
 
 	<Chicken.label>ニワトリ</Chicken.label>
+    <Chicken.labelMale>オンドリ</Chicken.labelMale>
+    <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
+	<Chicken.lifeStages.0.label>ヒヨコ</Chicken.lifeStages.0.label>
+
 	<Pig.label>ブタ</Pig.label>
+    <Pig.labelFemale>メスブタ</Pig.labelFemale>
+    <Pig.lifeStages.0.label>子ブタ</Pig.lifeStages.0.label>
+
 	<Cow.label>ウシ</Cow.label>
+    <Cow.labelMale>オウシ</Cow.labelMale>
+    <Cow.labelFemale>メウシ</Cow.labelFemale>
+    <Cow.lifeStages.0.label>子ウシ</Cow.lifeStages.0.label>
+
 	<Alpaca.label>アルパカ</Alpaca.label>
-	
+
 </LanguageData>

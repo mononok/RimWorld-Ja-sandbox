@@ -4,28 +4,43 @@
 	<Misc.label>その他</Misc.label>
 
 	<Burn.label>やけど</Burn.label>
+	<Burn.comps.2.oldLabel>やけどの跡</Burn.comps.2.oldLabel>
+	<Burn.injuryProps.destroyedLabel>燃え尽きる</Burn.injuryProps.destroyedLabel>
 
 	<Crush.label>ひしゃげた</Crush.label>
+	<Crush.comps.2.oldLabel>傷跡</Crush.comps.2.oldLabel>
+	<Crush.injuryProps.destroyedLabel>ひしゃげる</Crush.injuryProps.destroyedLabel>
 
 	<Crack.label>ひびが入った</Crack.label>
 
 	<Cut.label>切断</Cut.label>
+	<Cut.comps.2.oldLabel>切創</Cut.comps.2.oldLabel>
+	<Cut.injuryProps.destroyedLabel>切り取られた</Cut.injuryProps.destroyedLabel>
 
 	<SurgicalCut.label>外科的切除</SurgicalCut.label>
+	<SurgicalCut.comps.1.oldLabel>切創</SurgicalCut.comps.1.oldLabel>
 
 	<Scratch.label>ひっかき傷</Scratch.label>
+	<Scratch.comps.2.oldLabel>傷跡</Scratch.comps.2.oldLabel>
 
 	<Bite.label>噛み傷</Bite.label>
+	<Bite.comps.2.oldLabel>古傷</Bite.comps.2.oldLabel>
+	<Bite.injuryProps.destroyedLabel>齧りとられた</Bite.injuryProps.destroyedLabel>
 
 	<Stab.label>刺し傷</Stab.label>
+	<Stab.comps.2.oldLabel>刺跡</Stab.comps.2.oldLabel>
+	<Stab.injuryProps.destroyedLabel>切り取られた</Stab.injuryProps.destroyedLabel>
 
 	<Gunshot.label>銃創</Gunshot.label>
+	<Gunshot.comps.2.oldLabel>銃創</Gunshot.comps.2.oldLabel>
 
 	<Shredded.label>裂傷</Shredded.label>
+	<Shredded.comps.2.oldLabel>傷跡</Shredded.comps.2.oldLabel>
 
 	<Bruise.label>打撲傷</Bruise.label>
 
 	<Frostbite.label>凍傷</Frostbite.label>
+	<Frostbite.comps.2.oldLabel>凍傷跡</Frostbite.comps.2.oldLabel>
 
 	<!-- Missing body part -->
 	<MissingBodyPart.label>身体の一部分を失った</MissingBodyPart.label>

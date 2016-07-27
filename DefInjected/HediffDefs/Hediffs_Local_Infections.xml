@@ -3,9 +3,9 @@
 
 	<GutWorms.label>回虫</GutWorms.label>
 
-	<MuscleParasites.label>筋肉寄生虫</MuscleParasites.label>
+	<MuscleParasites.label>せん毛虫</MuscleParasites.label>
 
-	<FibrousMechanites.label>繊維組織拒絶反応</FibrousMechanites.label>
+	<FibrousMechanites.label>筋繊維 機械化症</FibrousMechanites.label>
 	<rep>
 		<path>FibrousMechanites.stages[0].label</path>
 		<trans>痛み</trans>
@@ -15,7 +15,7 @@
 		<trans>激しい痛み</trans>
 	</rep>
 
-	<SensoryMechanites.label>感覚器拒絶反応</SensoryMechanites.label>
+	<SensoryMechanites.label>感覚器 機械化症</SensoryMechanites.label>
 	<rep>
 		<path>SensoryMechanites.stages[0].label</path>
 		<trans>痛み</trans>

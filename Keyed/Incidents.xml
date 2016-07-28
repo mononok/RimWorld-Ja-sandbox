@@ -97,7 +97,7 @@
 
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0} は加わった</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>{0} グループが、放棄したか、失った家畜が、このあたりをうろついています。\n\n彼らは、ヒトになれているので、コロニーに加わりたそうに見えます。</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>放棄されたか、迷子になった {0}のグループが、 迷い込んできました。\n\n彼らは、ヒトには慣れていそうで、コロニーに加わりたそうです。</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
@@ -109,7 +109,7 @@
 
   <!-- Building breaks down -->
 <LetterLabelBuildingBrokenDown>機能停止: {0}</LetterLabelBuildingBrokenDown>
-<LetterBuildingBrokenDown>ひとつの機械({0})の機能が停止しました。修理作業を受け持った入植者が修理するまで、機能は動作しません。</LetterBuildingBrokenDown>
+<LetterBuildingBrokenDown>ひとつの機械({0})の機能が停止しました。修理作業を受け持った入植者が修理するまで 機能しません。</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
   <RansomDemand>{1}が 通信で あなたに呼びかけています。彼らは、入植者 {0}を 人質にしています。\n\n彼らは、身代金 {2}シルバーと交換に、HIM 解放する用意があると言ってきています。</RansomDemand>

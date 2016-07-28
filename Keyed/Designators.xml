@@ -39,18 +39,18 @@
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
 
   <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>入植者は 村のゾーン内の 建物を修理し、 掃除します。 火災がおきた時は 村のゾーンのみ 消火します。</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し、 床を掃除し、火災を消そうとします。</DesignatorAreaHomeExpandDesc>
   <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>村のゾーンを 取り消します。 取り消した場所が、 入植者が 修理、 掃除、 消火することは ありません。</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>コロニーゾーンを 取り消します。 取り消された場所を、 入植者が 修理したり、 掃除したり、 火災を消そうとはしなくなります。</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>屋根 拡張取り付け</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する 場所を 指定します。</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>屋根 拡張を撤回</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>屋根を 作成した ゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
-  <DesignatorAreaNoRoofExpand>屋根 取り外し</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない 場所を 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>屋根 取り外し撤回</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>屋根を 作成しない ゾーンを 取り消します。すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>屋根ゾーン</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します。</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>屋根ゾーン 取消</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>作成した 屋根のゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>屋根取り外し</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>屋根取り外し 撤回</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>作成した　屋根を作成しないゾーンを 取り消します。すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
@@ -58,7 +58,7 @@
   <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します。もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>作業ゾーン</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンを指定した入植者はゾーンの中でのみ作業をします、ゾーンの外では作業を行いません。</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>作業ゾーンを広げます。\n\n作業ゾーンとは、入植者を 割り当てることができる ゾーンとして定義されました。入植者は 彼に割り当てられた 作業ゾーンの外側では 作業を受付しませんし、 必要と思われる作業も遂行しません。</DesignatorExpandAreaAllowedDesc>
   <DesignatorClearAreaAllowed>作業ゾーン 取消</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>作業ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
   <ManageAreas>作業ゾーンの管理...</ManageAreas>
@@ -94,27 +94,27 @@
   <DesignatorTameDesc>野生動物を手なずけます。</DesignatorTameDesc>
 
 
-  <!-- Failure messages -->
-  <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
-<TooCloseToMapEdge>マップの はしに 近すぎます。</TooCloseToMapEdge>
-<OutOfBounds>範囲外 です。</OutOfBounds>
-<CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
-<InteractionSpotBlocked>相互作用スポットは遮断されます。</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>相互作用スポットは 領域外です。</InteractionSpotOutOfBounds>
-<InteractionSpotWillBeBlocked>相互作用の場所はブロックされます。</InteractionSpotWillBeBlocked>
-<WouldBlockInteractionSpot>{0} は {1} により ブロックされます。</WouldBlockInteractionSpot>
-<TerrainIsAlready>この場所は、 すでに {0} です。</TerrainIsAlready>
-  <TerrainBeingSmoothed>既に地面を平すように指示されています。</TerrainBeingSmoothed>
-<IdenticalThingExists>すでに 同じものが あります。</IdenticalThingExists>
-<IdenticalBlueprintExists>すでに 同じものを 指定しています。</IdenticalBlueprintExists>
-<TerrainCannotSupport>この場所に、 それを指定することはできません。</TerrainCannotSupport>
-<SpaceAlreadyOccupied>この場所は ふさがっています。</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
+    <!-- Failure messages -->
+    <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
+    <TooCloseToMapEdge>マップ端に 近すぎます。</TooCloseToMapEdge>
+    <OutOfBounds>領域外 です。</OutOfBounds>
+    <CannotPlaceInUndiscovered>未知の場所に 配置することは できません。</CannotPlaceInUndiscovered>
+    <InteractionSpotBlocked>{0}によって 作用空間が ブロックされています。</InteractionSpotBlocked>
+    <InteractionSpotOutOfBounds>作用空間が 領域外です。</InteractionSpotOutOfBounds>
+    <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです。</InteractionSpotWillBeBlocked>
+    <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう。</WouldBlockInteractionSpot>
+    <TerrainIsAlready>ここの地面は、 すでに {0} です。</TerrainIsAlready>
+    <TerrainBeingSmoothed>地面を 滑らかにするよう すでに指示されています。</TerrainBeingSmoothed>
+    <IdenticalThingExists>まったく同じものが すでにあります。</IdenticalThingExists>
+    <IdenticalBlueprintExists>まったく同じ設計図が すでにあります。</IdenticalBlueprintExists>
+    <TerrainCannotSupport>ここの地面は、 これをサポートすることが できません。</TerrainCannotSupport>
+    <SpaceAlreadyOccupied>この場所は すでに ふさがっています。</SpaceAlreadyOccupied>
+    <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
 
 
 <!-- placement of zones -->
-<ExpandOrCreateZone>{0} を拡張するか\n新しく {1} を作ります。</ExpandOrCreateZone>
-<CreateNewZone>新しく {0} を作ります。</CreateNewZone>
+<ExpandOrCreateZone>{0}を拡張するか\n新しく {1}を作ります。</ExpandOrCreateZone>
+<CreateNewZone>新しく {0}を作ります。</CreateNewZone>
 
 
 <!-- desc helpers -->

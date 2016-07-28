@@ -12,7 +12,7 @@
   <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入り切りします。</CommandDesignateTogglePowerDesc>
 
   <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます。</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます。これは、送電されていない電力線に繋がっている場合に 近くにある活きた電力線に切り替えたいときに有効です。</CommandTryReconnectDesc>
 
 <CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
 <CommandGatherSpotToggleDescActive>集合 - 入植者が、集まります。</CommandGatherSpotToggleDescActive>

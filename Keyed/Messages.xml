@@ -66,7 +66,7 @@
 
 	<MessageNoMedicalBeds>医療用ベッドがありません。</MessageNoMedicalBeds>
 	<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>処置には {0}より上が必要ですが、{1}の治療レベルは "{2}"となっています。</MessageTooLowMedCare>
 
 	<PawnDiedBecauseOf>{1}によって、{0}は命を落とした。</PawnDiedBecauseOf>
 
@@ -85,7 +85,7 @@
 	<MessageMiscarriedPoorHealth>{0}は 体調不良により流産した。</MessageMiscarriedPoorHealth>
 	<MessageGaveBirth>{0}は 出産した。</MessageGaveBirth>
 
-	<MessageNuzzledPawnGaveNameTo>{1}が 懐いたので、{0}は '{2}'と名前をつけました。</MessageNuzzledPawnGaveNameTo>
+	<MessageNuzzledPawnGaveNameTo>{1}が 懐いたので、{0}は "{2}"と名前をつけました。</MessageNuzzledPawnGaveNameTo>
 
 	<MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
 

@@ -9,8 +9,8 @@
     <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
 
 	<!--=============== Mortar turret ===============-->
-	<Turret_MortarBomb.label>溜弾迫撃砲</Turret_MortarBomb.label>
-    <Turret_MortarBomb.description>手動でのみ溜弾を投射できます、ダメージを受けると爆発します。</Turret_MortarBomb.description>
+	<Turret_MortarBomb.label>榴弾迫撃砲</Turret_MortarBomb.label>
+    <Turret_MortarBomb.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_MortarBomb.description>
 
 	<Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>
     <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できます、ダメージを受けると爆発します。</Turret_MortarIncendiary.description>
@@ -22,7 +22,7 @@
 	<TrapDeadfall.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall.description>
 
 	<TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
-	<TrapIEDBomb.description>自家製の引き金をつけた溜弾。犠牲者となる者が引き金に触れた時、炸裂します。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります。</TrapIEDBomb.description>
+	<TrapIEDBomb.description>自家製の引き金をつけた榴弾。犠牲者となる者が引き金に触れた時、炸裂します。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります。</TrapIEDBomb.description>
 
 	<TrapIEDIncendiary.label>IED 焼夷トラップ</TrapIEDIncendiary.label>
 	<TrapIEDIncendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIEDIncendiary.description>

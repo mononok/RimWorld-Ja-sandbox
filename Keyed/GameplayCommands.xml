@@ -79,7 +79,7 @@
 <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
 <CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
 <MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
-<MessageTargetBelowMinimumRange>最小探知範囲より 近すぎます。</MessageTargetBelowMinimumRange>
+<MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
 
 
 <!-- Ship computer core -->
@@ -136,7 +136,7 @@
   <!-- Hold fire -->
   <CommandHoldFire>発砲禁止</CommandHoldFire>
   <CommandHoldFireDesc>もう攻撃しなくなります。</CommandHoldFireDesc>
-  
+
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>

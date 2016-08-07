@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<CallOnRadio>{0} 呼び出す</CallOnRadio>
-  <CannotUseReason>使用できない ({0})</CannotUseReason>
-<CannotUseSolarFlare>使用できない (太陽フレア)</CannotUseSolarFlare>
-<CannotUseNoPower>使用できない (電気がない)</CannotUseNoPower>
-<CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
-<CannotUseReserved>使用できない (予約済)</CannotUseReserved>
-<CannotUseFull>使用できない (満載)</CannotUseFull>
+    <CallOnRadio>{0}を呼び出す</CallOnRadio>
+    <CannotUseReason>使用できない ({0})</CannotUseReason>
+    <CannotUseSolarFlare>使用できない (太陽フレア)</CannotUseSolarFlare>
+    <CannotUseNoPower>使用できない (電気がない)</CannotUseNoPower>
+    <CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
+    <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
+    <CannotUseFull>使用できない (満載)</CannotUseFull>
 
 <FireAt>{0}に発射 (遠距離)</FireAt>
 
@@ -72,7 +72,7 @@
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
 
   <MinSkill>最小スキル</MinSkill>
-  
+
 <Equip>{0}を 装備する</Equip>
   <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
 <CannotEquip>{0}を 装備できない</CannotEquip>

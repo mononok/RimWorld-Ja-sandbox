@@ -34,7 +34,7 @@
 
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
     <NewDisease>{0}は 病に倒れました({1})。\n\n医療用ベッドとドクターを確保してください。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewDisease>
-    <NewPartDisease>{0}は HIS{1}に {3}の感染を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
+    <NewPartDisease>{0}は HIS{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
 <AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
@@ -60,7 +60,7 @@
 
   <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
   <MentalBreakReason>理由: {0}</MentalBreakReason>
-  
+
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した敵対する {0} グループにいます。\n\nたとえ彼とは血がつながっていても、彼らとは敵対する関係である以上、依然として襲ってくるつもりがあることに留意してください。\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>

@@ -1,6 +1,6 @@
 ﻿RimWorld-Ja-sandbox
 ===========
-Ver:14.05
+Ver:14.08
 Original: alpha14
 Description: 【検証済】alpha 14対応
 ToDo:

@@ -60,6 +60,13 @@
 	<RadiusExpandsIn>範囲 拡張中</RadiusExpandsIn>
 	<Permanent>不変</Permanent>
 
+  <!-- Fermentation barrel -->
+  <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
+  <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
+  <Fermented>Fermented</Fermented>
+  <FermentationProgress>Progress: {0} (finished in about {1}).</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed multiplier: {0}</FermentationBarrelOutOfIdealTemperature>
+
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
   <TreatQuality>治療品質 {0}</TreatQuality>
@@ -249,6 +256,7 @@
 	<Undiscovered>未知</Undiscovered>
 
 	<!-- Buttons -->
+  <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
 	<ShowBeautyToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の美しさを数値で表します</ShowBeautyToggleButton>
     <ShowRoomStatsToggleButton>ルームステータスの可視 切り替え\n\nマウスでポイントした場所のルームステータスを表示します</ShowRoomStatsToggleButton>
@@ -256,6 +264,7 @@
     <ShowColonistBarToggleButton>入植者アイコンバーの切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します</ShowColonistBarToggleButton>
 	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>Toggle visiblity of roofs.</ShowRoofOverlayToggleButton>
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
@@ -369,4 +378,14 @@
   <DueForMaintenance>メンテナンスの期限</DueForMaintenance>
   <DeterioratingDueToLackOfMaintenance>メンテナンス不足による性能低下</DeterioratingDueToLackOfMaintenance>
 
+  <!-- Deep drill -->
+  <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+  <ResourceBelow>Resource below</ResourceBelow>
+  
+  <!-- Learning helper -->
+  <LearningHelper>Learning helper</LearningHelper>
+  <MarkLearned>Mark as learned</MarkLearned>
+  <AlreadyLearned>Already learned</AlreadyLearned>
+  <Filter>Filter</Filter>
+  
 </LanguageData>

@@ -50,7 +50,7 @@
 	<MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestable>
 	<MessageMustDesignateHarvestableWood>木材として 十分に成長した 木を 指定してください。</MessageMustDesignateHarvestableWood>
 	<MessageMustDesignatePlants>植物を 指定してください。</MessageMustDesignatePlants>
-	<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
+	<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
 	<MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
 	<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
 	<MessageMustDesignateTameable>手なずける 動物を 指定してください。</MessageMustDesignateTameable>
@@ -126,5 +126,13 @@
   <MessageConstructionFailed>{1}は{0}の建造に失敗し、いくつかの資源が無駄になりました。</MessageConstructionFailed>
 
   <MessageScreenshotSavedAs>スクリーンショットを保存した: {0}</MessageScreenshotSavedAs>
+
+  <MessageNoLongerSocialFighting>{0} and {1} are no longer social fighting.</MessageNoLongerSocialFighting>
+
+  <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} has rotted away in storage.</MessageRottedAwayInStorage>
+
+  <MessageFoodPoisoning>{0} has gotten food poisoning from: {1}.</MessageFoodPoisoning>
 
 </LanguageData>

@@ -3,13 +3,8 @@
 
 <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
-
-
-<NeedSawmill>木の板を作る</NeedSawmill>
-<NeedSawmillDesc>木のドアなど さまざまな 用途で 使う 木の板は、 丸太を 加工して 作ります。\n\n加工の ために ノコギリ台か 電ノコ台を 作りましょう。</NeedSawmillDesc>
-
   <PoorMood>良くないムード</PoorMood>
-  <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱が起きるかもしれません。\n\n{0}</PoorMoodDesc>
+  <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱か精神崩壊が起きるかもしれません。\n\n{0}</PoorMoodDesc>
   <TerribleMood>悪いムード</TerribleMood>
   <TerribleMoodDesc>入植者は重大なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
@@ -17,9 +12,6 @@
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
 <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
-
-<BuildARoom>部屋をつくる</BuildARoom>
-<BuildARoomDesc>部屋を作るには ドアをつけた 壁で 四方を 囲みましょう。\n\n何かを つくりたいときは 画面 左下の 「アーキテクト」 メニューを つかいます。一旦、あなたが 何かを作るように 指示すると、入植者は 作業ができる時に その作業をするでしょう。</BuildARoomDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>
@@ -43,8 +35,11 @@
 <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 「寝床」は すぐに つくれます。</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>武装する</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 武装していません。ハンターは武装させないと狩りを行いません。\n\nまた怪我を減らす為に 射程の長い武器を持たせましょう。</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel yourself at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。</StarvationDesc>
@@ -58,22 +53,14 @@
 <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
 <NeedFoodHopperDesc>ペーストディスペンサーがありますが、食材ホッパーがありません。\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません。\n\n食材ホッパーを ペーストディスペンサーの隣に つくりましょう。</NeedFoodHopperDesc>
 
-<BuildingNeedsPower>機器に電気を</BuildingNeedsPower>
-<BuildingsNeedPower>機器に電気を</BuildingsNeedPower>
-<BuildingsNeedPowerDesc>次の 電力を消費する 建物・機器は 稼働中の電力網から 完全に 分断されています：\n\n{0}\n発電機や バッテリーに 接続しましょう。</BuildingsNeedPowerDesc>
-<AndMore>より</AndMore>
-
 <NeedMealSource>食材の調理</NeedMealSource>
 <NeedMealSourceDesc>あなたは、生の食材を ちゃんとした料理にする 手段を持っていません。\n\nペースト ディスペンサー、 カマド、焚き火、または 電気コンロを 作りましょう。\n\n（入植者は囚人ゾーンの調理器を、 使用できません。）</NeedMealSourceDesc>
 
-<NeedHomeRegion>村のゾーン</NeedHomeRegion>
-<NeedHomeRegionDesc>入植者のために 村の ゾーンを きめて、 修理や 消火活動、 掃除をさせて 住み良い村に しましょう。\n\nアーキテクト メニューの ゾーン設定 で 村のゾーンを 指定しましょう。 </NeedHomeRegionDesc>
+  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
 <NeedBatteries>電気をためる</NeedBatteries>
 <NeedBatteriesDesc>ソーラーパネルで つくった電気を バッテリーに ためましょう。 夜の間は バッテリーの 電気を つかいます。\n\nバッテリーが なければ 太陽が 沈むたびに 電気を 失って しまいます。</NeedBatteriesDesc>
-
-<NoTradingCapacity>商船と取引</NoTradingCapacity>
-<NoTradingCapacityDesc>通信コンソールを つくりましょう。\n\nRIMWORLDを 通過中の 商船と 取り引きが できるように なります。</NoTradingCapacityDesc>
 
 <BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
 <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことは、彼を非常に不愉快にさせるでしょう。</BrawlerHasRangedWeaponDesc>
@@ -84,21 +71,8 @@
 <NeedResearchProject>研究計画</NeedResearchProject>
 <NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
-<NeedDump>ガレキを捨てる</NeedDump>
-<NeedDumpDesc>あなたは {0} を運ぶように指示しましたが、入植者がそれを運んでいく場所がありません。\n\n備蓄ゾーンを 選択して {0} を保管する許可を 設定します。</NeedDumpDesc>
-
-  <!-- Removed
-  <NeedGrave>死体の処分</NeedGrave>
-  <NeedGraveDesc>死体を 見た 入植者は 気が 滅入ります。 \n\n墓を 作るか、 廃棄ゾーンを 指定し それの 「保管タブ」で 死体の 受け入れを 設定しましょう。</NeedGraveDesc>
-  -->
-
 <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 作業がなく 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう。</ColonistsIdleDesc>
-
-  <!-- Removed
-  <HaltedConstructions>資材が {0} 不足</HaltedConstructions>
-  <HaltedConstructionsDesc>次の作成につかう 資材が 見つかりません:\n\n{0}\n入植者が つかえるように 資材を 「使用」に 設定してください。</HaltedConstructionsDesc>
-  -->
 
   <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません。\n\n治療を行わずにいると、病が慢性化し 死に至ります。\n\n{0}\n直ちに医療用ベッドに寝かす必要があります。\n\n(最初に、ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
@@ -122,4 +96,9 @@
   <HunterHasShieldAndRangedWeapon>ハンターとシールド</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています。\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩りができません。</HunterHasShieldAndRangedWeaponDesc>
 
+  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  
 </LanguageData>

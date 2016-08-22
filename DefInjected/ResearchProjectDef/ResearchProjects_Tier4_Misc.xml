@@ -2,6 +2,12 @@
 <LanguageData>
 
     <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
+    <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+    <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>
+
+	<DeepDrilling.label>deep drilling</DeepDrilling.label>
+	<DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
+
 	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
 	<VitalsMonitor.description>医療用ベッドのそばに置くと、患者の治療品質が上がる、バイタルモニターを作成できるようになります。</VitalsMonitor.description>
 

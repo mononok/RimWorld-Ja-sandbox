@@ -106,7 +106,7 @@
     </rep>
     <rep>
         <path>NightOwl.degreeDatas[0].description</path>
-        <trans>NAMEは、夜に働くことが好きです。HECAPは、夜に起き出すと気分にボーナスを得ますが、昼に起きると気分が悪くなります。</trans>
+        <trans>NAME likes to be up during the night, and sleep during the day.\n\nHECAP gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).</trans>
     </rep>
 
     <rep>
@@ -133,7 +133,7 @@
     </rep>
     <rep>
         <path>Ascetic.degreeDatas[0].description</path>
-        <trans>NAMEは、禁欲生活をより好みます。HECAPは、寝室が豪華すぎると気分が悪くなります。</trans>
+        <trans>NAME prefers to live in asceticism. HECAP will be put in a poor mood if HE has a bedroom that's too impressive. HECAP also dislikes fancy food and prefers to eat raw - and raw food won't both HIM a bit.</trans>
     </rep>
 
 	<rep>

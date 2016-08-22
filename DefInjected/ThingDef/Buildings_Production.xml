@@ -39,6 +39,9 @@
 	<Brewery.label>醸造器</Brewery.label>
 	<Brewery.description>ビールを醸造するための器具です。</Brewery.description>
 
+	<DrugLab.label>drug lab</DrugLab.label>
+	<DrugLab.Description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.Description>
+
 	<!-- ========================= Work tables ==========================-->
 
 	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
@@ -60,6 +63,12 @@
 
 	<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
 	<HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます。</HydroponicsBasin.description>
+
+  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+
+  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
 
   <!--======================== Nutrient dispenser ==============================-->
 

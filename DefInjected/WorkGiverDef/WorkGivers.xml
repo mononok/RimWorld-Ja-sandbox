@@ -203,6 +203,10 @@
 	<Mine.verb>を掘る</Mine.verb>
     <Mine.gerund>を採掘する</Mine.gerund>
 
+	<Drill.label>drill</Drill.label>
+	<Drill.verb>drill</Drill.verb>
+	<Drill.gerund>drilling</Drill.gerund>
+
   <!-- ============= PlantCutting ============= -->
 	<PlantsCut.label>切り倒す、収穫する</PlantsCut.label>
 	<PlantsCut.verb>を伐採する</PlantsCut.verb>
@@ -236,6 +240,10 @@
 	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
 	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
 
+	<DoBillsProduceDrugs.label>produce drugs</DoBillsProduceDrugs.label>
+	<DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
+	<DoBillsProduceDrugs.gerund>produce drugs at</DoBillsProduceDrugs.gerund>
+
 	<DoBillsStonecut.label>ストーンカッター</DoBillsStonecut.label>
 	<DoBillsStonecut.verb>で石切する</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>で石切する</DoBillsStonecut.gerund>
@@ -261,6 +269,10 @@
 	<Open.label>発掘</Open.label>
 	<Open.verb>を発掘する</Open.verb>
 	<Open.gerund>を発掘する</Open.gerund>
+
+	<TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
+	<TakeBeerOutOfFermentingBarrel.verb>take beer</TakeBeerOutOfFermentingBarrel.verb>
+	<TakeBeerOutOfFermentingBarrel.gerund>taking beer from</TakeBeerOutOfFermentingBarrel.gerund>
 
 	<DoBillsCremate.label>焼却</DoBillsCremate.label>
 	<DoBillsCremate.verb>で焼却する</DoBillsCremate.verb>

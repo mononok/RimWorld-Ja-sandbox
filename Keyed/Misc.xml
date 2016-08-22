@@ -12,8 +12,6 @@
 <AndLower>と</AndLower>
 <DisabledLower>スキル無し</DisabledLower>
 
-<CloseButton>閉じる</CloseButton>
-
 
 <VersionIndicator>Version {0}</VersionIndicator>
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
@@ -30,6 +28,8 @@
   <damage>ダメージ</damage>
   <radius>半径</radius>
   <durationDays>所要時間 (日)</durationDays>
+  <intervalDays>interval (days)</intervalDays>
+  <repeat>repeat</repeat>
 
   <!-- Content generation-->
 

@@ -39,6 +39,7 @@
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
+  <NoWort>need wort</NoWort>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>絶対禁酒</Teetotaler>
@@ -112,7 +113,9 @@
 
 <CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
 
-<CannotPrioritizeIsNotA>優先できない （{0} は {1}にはなれない）</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  
+  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
 
 <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 

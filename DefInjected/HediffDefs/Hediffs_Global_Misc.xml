@@ -86,4 +86,11 @@
 		<trans>致命的</trans>
 	</rep>
 
+	<DrugOverdose.label>drug overdose</DrugOverdose.label>
+	<DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+	<DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
+	<DrugOverdose.stages.0.label>hidden</DrugOverdose.stages.0.label>
+	<DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
+	<DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
+
 </LanguageData>

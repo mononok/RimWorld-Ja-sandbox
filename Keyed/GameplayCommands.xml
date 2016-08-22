@@ -23,7 +23,7 @@
 <CommandDraftLabel>徴兵</CommandDraftLabel>
 <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
 <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
-<IsIncapped>{0}は対応できません。</IsIncapped>
+  <IsIncapped>{0} cannot walk.</IsIncapped>
 
   <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
@@ -142,4 +142,8 @@
   <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
   <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
 
+  <!-- Build copy -->
+  <CommandBuildCopy>Build copy</CommandBuildCopy>
+  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
+  
 </LanguageData>

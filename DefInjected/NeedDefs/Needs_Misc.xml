@@ -22,4 +22,23 @@
 	<Space.label>空間</Space.label>
 	<Space.description>自由に動き回れる、物理的な空間の大きさを表しています。 そして、窮屈な部屋で長時間過ごすと、値は下がっていきます。</Space.description>
 
+    <!-- Alcohol_Beer.xml -->
+	<Chemical_Alcohol.label>アルコール</Chemical_Alcohol.label>
+	<Chemical_Alcohol.description>アルコール依存症が原因で、この人は、禁断症状を避けるために、定期的にアルコールを必要としています。</Chemical_Alcohol.description>
+	<!-- Amphetamine.xml -->
+	<Chemical_Amphetamine.label>アンフェタミン</Chemical_Amphetamine.label>
+	<Chemical_Amphetamine.description>アンフェタミン中毒が原因で、この人は、禁断症状を避けるために、定期的にアンフェタミンを必要としています。</Chemical_Amphetamine.description>
+	<!-- Cannabis.xml -->
+	<Chemical_Cannabis.label>マリファナ</Chemical_Cannabis.label>
+	<Chemical_Cannabis.description>マリファナ中毒が原因で、この人は、禁断症状を避けるために、定期的にマリファナを必要としています。</Chemical_Cannabis.description>
+	<!-- Cocaine_Yayo.xml -->
+	<Chemical_Cocaine.label>コカイン</Chemical_Cocaine.label>
+	<Chemical_Cocaine.description>コカイン中毒が原因で、この人は、禁断症状を避けるために、定期的にコカインを必要としています。</Chemical_Cocaine.description>
+	<!-- GoJuice.xml -->
+	<Chemical_GoJuice.label>ゴージュース</Chemical_GoJuice.label>
+	<Chemical_GoJuice.description>ゴージュース中毒が原因で、この人は、禁断症状を避けるために、定期的にゴージュースを必要としています。</Chemical_GoJuice.description>
+	<!-- Luciferium.xml -->
+	<Chemical_Luciferium.label>ルシフェリウム</Chemical_Luciferium.label>
+	<Chemical_Luciferium.description>この人の身体は、ルシフェリウムナノマシンによって強化されています。\n\n一定分量のルシフェリウム無しだと、このナノマシン同士の結合が失われます。もしこれが起きると、常用者は、継続的に激しく気が狂い、ついには死を迎えます。\n\nこの中毒症状から逃れる手段はありません。</Chemical_Luciferium.description>
+
 </LanguageData>

@@ -1,6 +1,6 @@
 ﻿RimWorld-Ja-sandbox
 ===========
-Ver:15.00
+Ver:15.01
 Original: alpha15 (development build)
 Description: 【未検証】alpha 15 develop build 1272. 調査用ブランチ
 ToDo:

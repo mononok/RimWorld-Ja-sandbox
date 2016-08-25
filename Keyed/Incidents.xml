@@ -25,7 +25,7 @@
   <FriendlyRaidLeaderPresent>{0} - {1}うちの１人は、この派閥のリーダーです。</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>脱出ポッドが この近くの地表に 激突するのを見かけました。\n\nあの衝撃では きっと ひどく傷ついて いることでしょう。\n\nYou can rescue them and send them on their way. Or, capture them for recruitment or slavery purposes.</RefugeePodCrash>
+  <RefugeePodCrash>脱出ポッドが この近くの地表に 激突するのを見かけました。\n\nあの衝撃では きっと ひどく傷ついて いることでしょう。\n\nあなたは彼らを「救出」して、彼らの進む道へ送り返すか、又は、彼らを勧誘や奴隷目的のために「捕獲」することができます。</RefugeePodCrash>
 
   <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
   <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>
@@ -105,7 +105,7 @@
 
   <!-- Trader caravan -->
 <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
-<LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました。They are a {1}.\n\n 彼らは、ここを離れるまでの数日間、ここのコロニーをウロウロするつもりです。彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう。 </LetterTraderCaravanArrival>
+<LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました。彼らは {1}です。\n\n 彼らは、ここを離れるまでの数日間、ここのコロニーをウロウロするつもりです。彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう。 </LetterTraderCaravanArrival>
 
   <!-- Building breaks down -->
 <LetterLabelBuildingBrokenDown>機能停止: {0}</LetterLabelBuildingBrokenDown>

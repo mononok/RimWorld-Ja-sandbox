@@ -4,7 +4,7 @@
 	<Heatstroke.label>熱中症</Heatstroke.label>
 	<rep>
 		<path>Heatstroke.stages[0].label</path>
-		<trans>初期段階(自覚無し)</trans>
+		<trans>自覚無し</trans>
 	</rep>
 	<rep>
 		<path>Heatstroke.stages[1].label</path>
@@ -26,7 +26,7 @@
 	<Hypothermia.label>低体温症</Hypothermia.label>
 	<rep>
 		<path>Hypothermia.stages[0].label</path>
-		<trans>初期段階(自覚無し)</trans>
+		<trans>自覚無し</trans>
 	</rep>
 	<rep>
 		<path>Hypothermia.stages[1].label</path>

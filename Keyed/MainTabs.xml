@@ -15,17 +15,17 @@
   <!-- Assign tab -->
   <CurrentOutfit>服装</CurrentOutfit>
   <ManageOutfits>服装を編集</ManageOutfits>
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <AssignTabEdit>Edit...</AssignTabEdit>
-  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+  <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
+  <ApparelForcedLower>服装を強制</ApparelForcedLower>
+  <ForcedApparel>服装を強制する</ForcedApparel>
+  <AssignTabEdit>編集...</AssignTabEdit>
+  <CurrentDrugPolicies>ドラッグ適用方針</CurrentDrugPolicies>
+  <ManageDrugPolicies>ドラッグ適用方針の管理</ManageDrugPolicies>
 
   <!-- Restrictions tab -->
   <Copy>コピー</Copy>
   <Paste>ペースト</Paste>
-  <AllowedArea>作業ゾーン</AllowedArea>
+  <AllowedArea>制限ゾーン</AllowedArea>
 
   <!-- Animals tab -->
   <Master>主人</Master>
@@ -36,8 +36,8 @@
 <CurrentGoodwill>現在の 友好度</CurrentGoodwill>
 
   <!-- History tab - subtabs -->
-  <Graph>Graph</Graph>
-  <Statistics>Statistics</Statistics>
+  <Graph>グラフ</Graph>
+  <Statistics>統計</Statistics>
   
   <!-- History tab - Graphs -->
 <SelectGraph>グラフを選択</SelectGraph>

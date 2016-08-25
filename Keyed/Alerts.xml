@@ -14,7 +14,7 @@
 <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
-<NeedDefensesDesc>海賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>
+<NeedDefensesDesc>宙賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>
 
 <NeedDoctor>医者が必要</NeedDoctor>
 <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています。 患者には 治療が 必要ですが、 医者の 作業をする 健常な入植者が いません。\n\n{0}\n健常な 入植者に 医者の 作業を 割り振りましょう。もし、治療せずに ほおっておくと 慢性化して治らなくなるでしょう。</NeedDoctorDesc>
@@ -35,11 +35,11 @@
 <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
 <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います。 このままでは 誰かが 眠れません。\n\n新しいベッドを 用意するか、 囚人用ベッドを 入植者用ベッドに 設定しましょう。 コストゼロの 「寝床」は すぐに つくれます。</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>武装する</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 遠距離武器で武装していません。\n\nハンターは遠距離武器で武装させないと狩りを行いません。</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel yourself at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>つぎの入植者は、 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない、なにか衣服を取得します。\n\nミシン台で衣服を作ることもできますし、トレーダーから買うこともできます。</AlertTatteredApparelDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。</StarvationDesc>
@@ -56,8 +56,8 @@
 <NeedMealSource>食材の調理</NeedMealSource>
 <NeedMealSourceDesc>あなたは、生の食材を ちゃんとした料理にする 手段を持っていません。\n\nペースト ディスペンサー、 カマド、焚き火、または 電気コンロを 作りましょう。\n\n（入植者は囚人ゾーンの調理器を、 使用できません。）</NeedMealSourceDesc>
 
-  <NeedJoySource>Need joy source</NeedJoySource>
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySource>娯楽が必要</NeedJoySource>
+  <NeedJoySourceDesc>入植者は、自身の娯楽への欲求を満たす必要がありますが、あなた少しも娯楽施設を建てていません。\n\n輪投げのピン、チェス盤など他の娯楽設備を作って手助けしてあげましょう。</NeedJoySourceDesc>
 
 <NeedBatteries>電気をためる</NeedBatteries>
 <NeedBatteriesDesc>ソーラーパネルで つくった電気を バッテリーに ためましょう。 夜の間は バッテリーの 電気を つかいます。\n\nバッテリーが なければ 太陽が 沈むたびに 電気を 失って しまいます。</NeedBatteriesDesc>
@@ -69,7 +69,7 @@
   <ShieldUserHasRangedWeaponDesc>ある入植者は パーソナルシールドを装備し、遠距離武器で武装しています。パーソナルシールド越しに 遠距離武器を 発砲することはできません(標的と接している場合は除きます)。</ShieldUserHasRangedWeaponDesc>
 
 <NeedResearchProject>研究計画</NeedResearchProject>
-<NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n研究メニューを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
+<NeedResearchProjectDesc>研究用の 機器が ありますので、 研究の 計画を たてましょう。\n\n「研究」タブを 開き 研究する計画を 選択します。</NeedResearchProjectDesc>
 
 <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
 <ColonistsIdleDesc>次の入植者は 作業がなく 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう。</ColonistsIdleDesc>
@@ -96,9 +96,9 @@
   <HunterHasShieldAndRangedWeapon>ハンターとシールド</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は、遠距離武器で武装しつつ、猟場で撃たれるのを防ぐためパーソナルシールドを着ています。\n\nしかしパーソナルシールドを脱がないかぎり、彼らは狩りができません。</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
-  
+  <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
+  <NeedWarmClothesDesc1>寒気がやってきたとき、 少なくとも、入植者{0}人分の防寒着が足りなくなるでしょう。</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>寒気がやってきたとき、 入植者全員分の防寒着が足りなくなるでしょう。</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>外気温は {0}になる見込みです。\n\nミシン台で防寒着を作ることができますし、トレーダーから購入することもできます。</NeedWarmClothesDesc2>
+
 </LanguageData>

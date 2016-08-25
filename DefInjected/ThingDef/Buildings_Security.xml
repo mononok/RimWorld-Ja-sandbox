@@ -1,16 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Sandbags.label>土嚢</Sandbags.label>
+    <Sandbags.label>土のう</Sandbags.label>
     <Sandbags.description>銃撃から身を隠せます。</Sandbags.description>
 
 	<!--=============== Improvised turret ===============-->
 	<TurretGun.label>タレット</TurretGun.label>
     <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
-	<Bullet_TurretImprovised.label>improvised turret bullet</Bullet_TurretImprovised.label>
-
-	<Gun_TurretImprovised.label>improvised turret gun</Gun_TurretImprovised.label>
-	<Gun_TurretImprovised.description>Jury-rigged gun attached to a turret.</Gun_TurretImprovised.description>
+	<Bullet_TurretImprovised.label>タレット弾</Bullet_TurretImprovised.label>
+	<Gun_TurretImprovised.label>タレット</Gun_TurretImprovised.label>
+	<Gun_TurretImprovised.description>タレットに銃を取り付けただけの応急装備</Gun_TurretImprovised.description>
 
   <!--=============== Mortar bomb turret ===============-->
 	<Turret_MortarBomb.label>榴弾迫撃砲</Turret_MortarBomb.label>

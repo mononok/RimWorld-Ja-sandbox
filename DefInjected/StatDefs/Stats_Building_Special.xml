@@ -2,13 +2,13 @@
 <LanguageData>
 
     <DoorOpenSpeed.label>ドア開閉速度</DoorOpenSpeed.label>
-    <DoorOpenSpeed.description>ドア開閉時の速度です。</DoorOpenSpeed.description>
+    <DoorOpenSpeed.description>ドアの開閉速度です。</DoorOpenSpeed.description>
 
     <BedRestEffectiveness.label>眠りの質</BedRestEffectiveness.label>
-    <BedRestEffectiveness.description>時間単位の睡眠から得られる休息を表します。</BedRestEffectiveness.description>
+    <BedRestEffectiveness.description>ここで寝ることで得られる、時間あたりに得られる睡眠量です。</BedRestEffectiveness.description>
 
 	<TrapMeleeDamage.label>罠のダメージ量</TrapMeleeDamage.label>
-	<TrapMeleeDamage.description>与えられるダメージ量です。</TrapMeleeDamage.description>
+	<TrapMeleeDamage.description>主として与えられるダメージ量です。実際のダメージはいくらか変化するでしょう。</TrapMeleeDamage.description>
 
 	<TrapSpringChance.label>発動率</TrapSpringChance.label>
 	<TrapSpringChance.description>罠に気がつかない生き物が通過した時に、罠が発動する確率です。</TrapSpringChance.description>
@@ -19,8 +19,8 @@
 	<MedicalTreatmentQualityFactor.label>治療品質係数</MedicalTreatmentQualityFactor.label>
 	<MedicalTreatmentQualityFactor.description>治療品質に掛ける倍率です。</MedicalTreatmentQualityFactor.description>
 
-	<ImmunityGainSpeedFactor.label>免疫獲得係数</ImmunityGainSpeedFactor.label>
-	<ImmunityGainSpeedFactor.description>免疫システムを獲得する速度に掛ける倍率です。</ImmunityGainSpeedFactor.description>
+	<ImmunityGainSpeedFactor.label>免疫獲得速度係数</ImmunityGainSpeedFactor.label>
+	<ImmunityGainSpeedFactor.description>免疫を獲得する速度に掛ける倍率です。</ImmunityGainSpeedFactor.description>
 
 	<WorkTableWorkSpeedFactor.label>工作台速度係数</WorkTableWorkSpeedFactor.label>
 	<WorkTableWorkSpeedFactor.description>工作速度に掛ける倍率です。</WorkTableWorkSpeedFactor.description>

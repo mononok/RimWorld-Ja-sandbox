@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<GoJuice.label>go-juice</GoJuice.label>
-	<GoJuice.description>A synthetic combat drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain and increases the user's melee and shooting abilities. It also enhances movement speed. However, the military chemists who created it were never able to remove its addictiveness.</GoJuice.description>
-	<GoJuice.ingestible.ingestCommandString>Inject {0}</GoJuice.ingestible.ingestCommandString>
-	<GoJuice.ingestible.ingestReportString>Injecting {0}.</GoJuice.ingestible.ingestReportString>
+	<GoJuice.label>ゴージュース</GoJuice.label>
+	<GoJuice.description>合成戦闘ドラッグは星間戦争の初期の頃、スペースマリーンによって開発された。ゴージュースは、痛みを抑え、近接戦闘、射撃能力を増し、それはまた移動速度を早める。しかしながら、これを作った軍の化学者は、中毒症状を取り除く方法をいまだ発見していない。</GoJuice.description>
+	<GoJuice.ingestCommandString>{0} 注入</GoJuice.ingestCommandString>
+	<GoJuice.ingestReportString>{0} 注入する。</GoJuice.ingestReportString>
 
 </LanguageData>

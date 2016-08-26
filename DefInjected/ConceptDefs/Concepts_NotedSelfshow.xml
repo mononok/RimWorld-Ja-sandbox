@@ -6,7 +6,7 @@
   <CameraDolly.helpText>カメラを動かすには、MOUSE BUTTON 3を押したままドラッグするか、{Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}キーを使います。</CameraDolly.helpText>
 
   <CameraZoom.label>ズームイン・アウトを覚える</CameraZoom.label>
-  <CameraZoom.helpText>カメラをズームイン・アウトさせるには、MOUSEWHEEL か {Key:MapZoomIn} と {Key:MapZoomOut}キーを使います。</CameraZoom.helpText>
+  <CameraZoom.helpText>カメラをズームイン・アウトさせるには、 MOUSEWHEELか {Key:MapZoomIn}、{Key:MapZoomOut}キー を使います。</CameraZoom.helpText>
 
   <TimeControls.label>倍速を覚える</TimeControls.label>
   <TimeControls.helpText>ゲーム時間を、早くする、遅くするには、画面右下のアイコンをクリックするか、{Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, {Key:TimeSpeedSuperfast} キーを使います。</TimeControls.helpText>
@@ -87,7 +87,7 @@
   <Outfits.helpText>入植者は、自動的に、より新しい、より高品質の衣類をできるだけ身につけようとします。\n\nあなたは入植者に、部位毎に個別の衣服を指示する必要はありません(あなたがそうしたいのでなければ)。\n\n入植者に服装を割り当てるには、「服装・任命」タブを開き、「服装を編集」ダイアログを使って、新しい服装をつくり、それを入植者に割り当てます。</Outfits.helpText>
 
   <FirePreparation.label>延焼を防ぐ</FirePreparation.label>
-  <FirePreparation.helpText>火災は簡単にコロニーを焼き払うことができます。火に打ち勝つには、事が起きる前から準備しておかなければなりません。\nこのようなコロニー開発が火災によるダメージを減らします:\n1.ひとつの巨大な建物より、空間で隔てられた複数の建物を建造する。\n2.燃えやすい材質のものを減らす。木材は簡単で作りやすいが - とても燃えやすい。\n3.野火からの延焼を止める防火帯を作る。３～４セルほどの幅のコンクリートフロアは、一般的に延焼を防いでくれます。</FirePreparation.helpText>
+  <FirePreparation.helpText>火災は簡単にコロニーを焼き払うことができます。火に打ち勝つには、事が起きる前から準備しておかなければなりません。\nこのようなコロニー開発が火災によるダメージを減らします:\n\n1.ひとつの巨大な建物より、空間で隔てられた複数の建物を建造する。\n2.燃えやすい材質のものを減らす。木材は簡単で作りやすいが - とても燃えやすい。\n3.野火からの延焼を止める防火帯を作る。    ３～４セルほどの幅のコンクリートフロアは     一般的に延焼を防いでくれます。</FirePreparation.helpText>
 
   <HistoryTab.label>歴史タブを覚える</HistoryTab.label>
   <HistoryTab.helpText>画面下側にある、「歴史」タブの 「概略」ウインドウから、長い期間にわたって記録された、あなたのコロニーの運命を見ることが出来ます。</HistoryTab.helpText>

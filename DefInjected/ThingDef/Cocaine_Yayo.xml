@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Yayo.label>yayo</Yayo.label>
-	<Yayo.description>A fine white powder snorted to produce a euphoric high. Yayo reducing the user's need for rest, and suppresses pain. It is, however, addictive.</Yayo.description>
-	<Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
-	<Yayo.ingestible.ingestReportString>Snorting {0}.</Yayo.ingestible.ingestReportString>
+	<Yayo.label>イェイョ</Yayo.label>
+	<Yayo.description>生成された白い粉を鼻から吸うと多幸感を生み出します。イェイョは睡眠欲求を減退させ、痛みを抑えます。しかしながら中毒性があります。</Yayo.description>
+	<Yayo.ingestCommandString>{0} 鼻から吸う</Yayo.ingestCommandString>
+	<Yayo.ingestReportString>{0} 鼻から吸っている</Yayo.ingestReportString>
 
 </LanguageData>

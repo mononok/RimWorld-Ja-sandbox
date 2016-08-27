@@ -16,6 +16,7 @@
 <VersionIndicator>Version {0}</VersionIndicator>
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
+<LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
   <Yes>Yes</Yes>
@@ -39,7 +40,6 @@
 <LeatherLabel>{0} の革</LeatherLabel>
   <LeatherDesc>なめされて、乾燥した切り抜かれた皮。バッグや衣服を作るのに適した伝統的な素材です。</LeatherDesc>
 
-
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
 <DeadLabel>{0} (死亡)</DeadLabel>
@@ -59,11 +59,8 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-
-    <!-- To express ownership. -->
-    <!-- For example Jack's Bedroom -->
-	<SomeonesRoom>{0} の {1}</SomeonesRoom>
-	<CouplesRoom>{0} と {1} の {2}</CouplesRoom>
+	<SomeonesRoom>{0}の {1}</SomeonesRoom>
+	<CouplesRoom>{0}と {1}の {2}</CouplesRoom>
 
   <VariousLabel>(色々な)</VariousLabel>
 

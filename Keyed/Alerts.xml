@@ -3,6 +3,14 @@
 
 <ClickToJumpToProblem>問題の場所を見る</ClickToJumpToProblem>
 
+  <BreakRiskMinor>精神変調 リスク</BreakRiskMinor>
+  <BreakRiskMajor>精神衰弱 リスク</BreakRiskMajor>
+  <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
+  <BreakRiskMinorDesc>次の入植者のムードが低いので、いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>次の入植者のムードがとても低いので、いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>次の入植者のムードは、ストレスがかかって危機的状況です。いまにも精神崩壊(暴力的かも..)を起こしそうです:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>これらの入植者達の、"欲求"タブを見ると、何に悩んでいるかがわかります。\n\nムードを良くするには、おいしい食事を用意したり、もっと娯楽の時間と、娯楽を増やしたり、良い住環境を用意する、などの事をしましょう。</BreakRiskDescEnding>
+
   <PoorMood>良くないムード</PoorMood>
   <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱か精神崩壊が起きるかもしれません。\n\n{0}</PoorMoodDesc>
   <TerribleMood>悪いムード</TerribleMood>
@@ -10,8 +18,8 @@
   <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
 
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
-<ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
-<ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
 <NeedDefensesDesc>宙賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>

@@ -59,6 +59,10 @@
 	<CurrentRadius>現在の範囲</CurrentRadius>
 	<RadiusExpandsIn>範囲 拡張中</RadiusExpandsIn>
 	<Permanent>不変</Permanent>
+  <Temperature>樽内温度</Temperature>
+  <BadTemperature>温度が適していない</BadTemperature>
+  <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} 効果掛け率</DrugEffectMultiplier>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -208,7 +212,7 @@
 	<RotStateDessicated>乾燥</RotStateDessicated>
 
 	<!-- Shooting tooltip -->
-	<ShotBy>{0} が 射撃</ShotBy>
+	<ShotBy>{0} が射撃</ShotBy>
 	<CannotHit>命中 しません</CannotHit>
 
   <!-- Rotting -->
@@ -222,7 +226,7 @@
 	<Ingredients>原料</Ingredients>
 
 	<!-- Plants -->
-	<PercentGrowth>成長度  {0}</PercentGrowth>
+	<PercentGrowth>成長率  {0}</PercentGrowth>
 	<GrowthRate>成長速度</GrowthRate>
 	<FullyGrownIn>成長 {0} で 完熟 します</FullyGrownIn>
 	<PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
@@ -324,7 +328,7 @@
 	<QualityIs>品質: {0}</QualityIs>
 
 	<!-- Mood descriptions -->
-    <Mood_MentalState>精神状態</Mood_MentalState>
+    <Mood_MentalState>精神崩壊</Mood_MentalState>
 	<Mood_AboutToBreak>崩壊寸前</Mood_AboutToBreak>
 	<Mood_OnEdge>不安</Mood_OnEdge>
 	<Mood_Stressed>ストレス気味</Mood_Stressed>

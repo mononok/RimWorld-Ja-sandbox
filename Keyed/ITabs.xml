@@ -51,7 +51,7 @@
     <RemovedBodyPart>取り外された</RemovedBodyPart>
 	<Healthy>健康</Healthy>
 	<InPain>痛み</InPain>
-	<PainLevel>痛み強さ</PainLevel>
+	<PainLevel>痛みの強さ</PainLevel>
 	<Dead>死亡</Dead>
 	<Unconscious>意識不明</Unconscious>
 	<PainShock>気絶</PainShock>
@@ -88,10 +88,10 @@
 	<Impaired>障害</Impaired>
 	<SlightlyImpaired>わずかな障害</SlightlyImpaired>
 	<NoPain>無痛</NoPain>
-	<LittlePain>軽傷</LittlePain>
-	<MediumPain>怪我</MediumPain>
-	<SeverePain>重傷</SeverePain>
-	<ExtremePain>瀕死</ExtremePain>
+	<LittlePain>少しの痛み</LittlePain>
+	<MediumPain>痛い</MediumPain>
+	<SeverePain>激しい痛み</SeverePain>
+	<ExtremePain>猛烈な痛み</ExtremePain>
 
 
   <!-- Training tab-->
@@ -114,7 +114,7 @@
 
 
   <!-- Gear tab -->
-  <AverageArmor>平均値</AverageArmor>
+  <AverageArmor>アーマー平均値</AverageArmor>
   <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
   <ArmorBlunt>打撲系</ArmorBlunt>
   <ArmorSharp>突刺系</ArmorSharp>

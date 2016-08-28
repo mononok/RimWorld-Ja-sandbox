@@ -17,10 +17,10 @@
 
   <!-- Pawn modifiers -->
   <ScenPart_PawnsHaveHediff>{0}は "{1}"の確率で、"{2}" を持って始まります。</ScenPart_PawnsHaveHediff>
-  <ConfigurableSeverity>severity: {0}</ConfigurableSeverity>
+  <ConfigurableSeverity>深刻度: {0}</ConfigurableSeverity>
 
-  <ScenPart_SetNeed>{0} have a {1} chance to have their {2} set between {3} and {4}.</ScenPart_SetNeed>
-  <ConfigurableLevel>level: {0}</ConfigurableLevel>
+  <ScenPart_SetNeed>{0}は、{1}の確率で、{2}欲求への満足度が、{3}～{4}となります。</ScenPart_SetNeed>
+  <ConfigurableLevel>レベル: {0}</ConfigurableLevel>
 
   <ScenPart_PawnsHaveTrait>{0}は {1}の確率で、次の才能・性格を持っています:\n  -{2}</ScenPart_PawnsHaveTrait>
   <ScenPart_OnPawnDeathExplode>キャラクターは、死ぬときに爆発します( {0}, 半径 {1})。</ScenPart_OnPawnDeathExplode>

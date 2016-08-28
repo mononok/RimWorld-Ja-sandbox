@@ -126,18 +126,18 @@
   <TechLevel_Transcendent>超越した技術力</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>立ったまま</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>ドロップポッド</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>全キャラクター</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>プレイヤーキャラクター</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>プレイヤー以外の人物</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>動物の名前</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>動物の名前表示</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>名前を持つ者のみ</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>家畜全部</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>摂氏</Celsius>

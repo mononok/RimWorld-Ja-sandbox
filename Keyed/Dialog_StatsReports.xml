@@ -14,14 +14,14 @@
   <StatsReport_HealthFactors>身体要素 </StatsReport_HealthFactors>
   <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
   <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>決定値=</StatsReport_FinalValue>
+  <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
   <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は、 作るのに使用された材料と 作業工数で決まります。</StatsReport_MarketValueFromStuffsAndWork>
   <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
   <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
   <StatsReport_MoodMultiplier>ムード {0}による掛け率</StatsReport_MoodMultiplier>
   <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
+  <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
   <StatsReport_Facilities>Facilities</StatsReport_Facilities>
   <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
   <StatsReport_MeleeDPSExplanation>下記のフォーマットで表します。\nDPS( 近接ダメージ量 / クールダウン秒 / 近接ヒット率 )\n\nDPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
@@ -29,7 +29,7 @@
   <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>欠損部位による掛け率</StatsReport_MissingBodyParts>
   <AverageOfAllAttacks>平均値</AverageOfAllAttacks>
   <StatsReport_UnpoweredWorkTable>No power</StatsReport_UnpoweredWorkTable>

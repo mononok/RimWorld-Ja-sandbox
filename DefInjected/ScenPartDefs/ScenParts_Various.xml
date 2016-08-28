@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!--================= player pawn filters =================-->
-  <GameStartDialog.label>game start dialog</GameStartDialog.label>
+  <GameStartDialog.label>ゲームスタート説明</GameStartDialog.label>
 
   <PawnFilter_Age.label>許可する年齢の範囲</PawnFilter_Age.label>
 
@@ -13,7 +13,7 @@
 
   <ForcedHediff.label>健康状態を強制</ForcedHediff.label>
 
-  <SetNeedLevel.label>set need level</SetNeedLevel.label>
+  <SetNeedLevel.label>欲求の満足度を設定</SetNeedLevel.label>
 
   <StartingResearch.label>開始時に研究済み</StartingResearch.label>
 
@@ -24,16 +24,16 @@
   <Rule_DisallowDesignator_ZoneAdd_Growing.description>地面に種を蒔いて植物を育てられない。</Rule_DisallowDesignator_ZoneAdd_Growing.description>
 
   <Rule_DisallowDesignator_Mine.label>採掘できない</Rule_DisallowDesignator_Mine.label>
-  <Rule_DisallowDesignator_Mine.description>採掘できない。</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.description>鉱物を採掘できない。</Rule_DisallowDesignator_Mine.description>
 
   <Rule_DisallowDesignator_Hunt.label>狩猟できない</Rule_DisallowDesignator_Hunt.label>
-  <Rule_DisallowDesignator_Hunt.description>狩猟できない。</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Hunt.description>動物を狩猟できない。</Rule_DisallowDesignator_Hunt.description>
 
   <Rule_DisallowDesignator_Tame.label>手なずけられない</Rule_DisallowDesignator_Tame.label>
-  <Rule_DisallowDesignator_Tame.description>手なずけられない。</Rule_DisallowDesignator_Tame.description>
+  <Rule_DisallowDesignator_Tame.description>野生動物を手なずけられない。</Rule_DisallowDesignator_Tame.description>
 
-  <StatFactor.label>ステータス掛け率r</StatFactor.label>
-  
+  <StatFactor.label>ステータス掛け率</StatFactor.label>
+
   <!--===============================================-->
   <!--==================== grouped ==================-->
   <!--===============================================-->

@@ -21,9 +21,9 @@
 	<Gun_SniperRifle.label>狙撃銃</Gun_SniperRifle.label>
 	<Gun_SniperRifle.description>軍用の狙撃銃、ボルトアクション、長射程、優れた命中率と威力を持っています。</Gun_SniperRifle.description>
 
-	<Bullet_PDW.label>マシンピストル装弾</Bullet_PDW.label>
-	<Gun_PDW.label>マシンピストル</Gun_PDW.label>
-	<Gun_PDW.description>自衛用の小型サブマシンガン、短射程、威力は弱いが、高い発射頻度と取り回しに優れています。</Gun_PDW.description>
+	<Bullet_MachinePistol.label>マシンピストル装弾</Bullet_MachinePistol.label>
+	<Gun_MachinePistol.label>マシンピストル</Gun_MachinePistol.label>
+	<Gun_MachinePistol.description>小型サブマシンガン、短射程、威力は弱いが、高い発射頻度と取り回しに優れています。</Gun_MachinePistol.description>
 
 	<Bullet_HeavySMG.label>サブマシンガン装弾</Bullet_HeavySMG.label>
 	<Gun_HeavySMG.label>サブマシンガン</Gun_HeavySMG.label>
@@ -43,11 +43,6 @@
 	<Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>
 	<Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
 	<Gun_ChargeRifle.description>エネルギーを弾丸のように打ち出すライフルです。</Gun_ChargeRifle.description>
-
-	<!-- ================ Improvised turret gun ============== -->
-	<Bullet_TurretImprovised.label>即席タレット弾頭</Bullet_TurretImprovised.label>
-	<Gun_TurretImprovised.label>即席のタレット</Gun_TurretImprovised.label>
-	<Gun_TurretImprovised.description>手元にあった銃をタレットに取り付けたものです。</Gun_TurretImprovised.description>
 
 	<!-- ======================= Mechanoid minigun ======================= -->
     <Bullet_Minigun.label>ガトリング装弾</Bullet_Minigun.label>

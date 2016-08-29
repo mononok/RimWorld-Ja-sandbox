@@ -5,6 +5,11 @@
 <GoBack>戻る</GoBack>
 <OK>[OK]</OK>
 
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。\n\nこれにより旧バージョンでセーブしたセーブデータでのゲーム再開や、MODなどが、動作しなくなることが起きるかもしれません。</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>この"RimWorld"は、DRM-free copyなので、２箇所の違うフォルダー別々にゲームをインストールすることができ、旧バージョンと新バージョンの両方を遊ぶことができます。</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら、Steamの"Betas"機能を選択することができます。\n\n1.Sterm ライブラリー、RimWorldを右クリックする。\n2.プロパティをクリックする。\n3.ベータタブをクリックする。\n4.ドロップダウンメニューより、遊びたいバージョン番号を選択する。\n\nゆくゆくは、このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません。\n\n【ノート】MOD製作者が、彼らのMODを新バージョンに対応させたら、おそらく旧バージョンでは動作しなくなるでしょう。これを防ぐために、自動アップデート機能をオフにしてください。</GameUpdatedToNewVersionSteam>
+
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました。</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました。\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています。\n\n全てのMODを一旦無効にしました、再びMODダイアログから有効にすることができます。 </RecoveredFromErrorsText>
@@ -18,8 +23,11 @@
   <ErrorWhileLoadingMapTitle>エラー：地図をロード中</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>地図をロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingMap>
 
+  <!-- Unloaded mod with an assembly -->
+  <ModWithAssemblyWasUnloaded>MODを無効化しても、一部のプログラムは動作し続けており、完全にMODをアンロードできませんでした。\n\nゲームを一度終了させて、再起動を行うことで、１からMODをロードするので、これを推奨します。</ModWithAssemblyWasUnloaded>
+
   <!-- Missing Steam -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nこのゲームバージョンは、"Steam"を必要とします。直ちに終了します。</SteamClientMissing>
+  <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。</SteamClientMissing>
 
   <!-- Long events -->
   <InitializingInterface>インターフェースを初期化中</InitializingInterface>
@@ -107,11 +115,11 @@
 <Suspended>再開する</Suspended>
 <NotSuspended>中止する</NotSuspended>
 <SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
-<RepeatCount>{0} 回作る</RepeatCount>
+<RepeatCount>{0} 作る</RepeatCount>
 <Forever>常時</Forever>
 	<Details>概略</Details>
 <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
-  <CurrentlyHave>持ち合わせている</CurrentlyHave>
+  <CurrentlyHave>所持数</CurrentlyHave>
   <CountingProducts>計測</CountingProducts>
 <Infinite>無限に</Infinite>
   <AllowedSkillRange>{0} スキル範囲:</AllowedSkillRange>
@@ -163,6 +171,8 @@
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>カバー</Covers>
+  <CoverEffectiveness>カバー効力</CoverEffectiveness>
+  <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
   <BodyPartEfficiency>ボディパーツの能力</BodyPartEfficiency>
   <MoodChange>Mood change</MoodChange>
@@ -172,22 +182,24 @@
   <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
   <TimeRecordsCategory>時</TimeRecordsCategory>
   <MiscRecordsCategory>その他</MiscRecordsCategory>
+  <Addictiveness>中毒</Addictiveness>
 
 <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
-  <BuyPriceDesc>あなたが提示した 買い取り金額</BuyPriceDesc>
-  <SellPriceDesc>あなたが提示した 売却金額</SellPriceDesc>
-  <PriceTypeDesc>金額 {0}.</PriceTypeDesc>
+  <BuyPriceDesc>買い取り金額</BuyPriceDesc>
+  <SellPriceDesc>売却金額</SellPriceDesc>
+  <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
   <ColonyCount>コロニーが 貿易できるアイテム数\n\n 貿易ビーコンの そばにあるアイテムだけを 売却することができます</ColonyCount>
   <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
   <AcceptButton>受諾</AcceptButton>
   <ResetButton>リセット</ResetButton>
   <CancelButton>中止</CancelButton>
+  <CloseButton>閉じる</CloseButton>
 <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
 <YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
-  <TraderWillNotTrade>貿易できない</TraderWillNotTrade>
+  <TraderWillNotTrade>トレーダーは売り買いしません。</TraderWillNotTrade>
 <NegotiatorTalkingImpaired>あなたの交渉者 {0}は病弱のため ちゃんと話すことができません。\n\nこのことは交渉価格に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
   <SortBy>並び替え</SortBy>
@@ -212,8 +224,41 @@
   <SelectOutfit>服装を選択...</SelectOutfit>
   <NewOutfit>新しい服装</NewOutfit>
   <DeleteOutfit>服装を削除...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
+  <OutfitInUse>この服装は {0}が使用しています。</OutfitInUse>
   <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+
+  <!-- Drug policy management -->
+  <DrugPolicy>ドラッグ適用方針</DrugPolicy>
+  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
+  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
+  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
+  <DrugPolicyInUse>適用方針は {0}に適用中です。</DrugPolicyInUse>
+  <SocialDrugs>たしなみ程度</SocialDrugs>
+  <NoDrugs>ドラッグ不使用</NoDrugs>
+  <OneDrinkPerDay>１本/日</OneDrinkPerDay>
+  <Unrestricted>無制限</Unrestricted>
+  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
+  <AddDrug>ドラッグを追加...</AddDrug>
+  <DrugColumnLabel>ドラッグ</DrugColumnLabel>
+  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>使用条件:ムードが以下のとき</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>使用条件:娯楽が以下のとき</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(ドラッグ無し)</NoDrugsBrackets>
+  <EveryDay>毎日</EveryDay>
+  <TimesPerDay>{0}回/日</TimesPerDay>
+  <EveryDays>{0}日毎</EveryDays>
+  <NoDrugUseRequirement>いつでも</NoDrugUseRequirement>
+  <DeleteDrugTooltip>このドラッグを削除する。</DeleteDrugTooltip>
+  <DrugNameColumnDesc>ドラッグの名称です。</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>ドラッグの使用目的です。</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します。</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>彼らのムードレベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>彼らの娯楽レベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき、余分に持ち出すドラッグの量です。予備の持ち出しを禁止すると、毎回、備蓄ゾーンにドラッグを取りにいきます。</TakeToInventoryColumnDesc>
+  <DrugUsageTipForJoy>快楽目的\n\nこのドラッグを、娯楽や社交目的、中毒による欲求を満たす為に使います。\n\nたとえ禁止にしても、ある固有の特徴を持ったキャラクターや、精神崩壊した者は、使用するかもしれません。</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
   <!-- Growing -->
   <NoGrowerCanPlant>{0}は、栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>

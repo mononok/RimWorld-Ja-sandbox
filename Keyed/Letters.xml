@@ -4,62 +4,62 @@
 <JumpToLocation>その場所を見る</JumpToLocation>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>夏が来ます！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。何日もの間、食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます</FirstSummerWarning>
+  <FirstSummerWarning>夏が来ます！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
 
-<RelationsBrokenDown>{0} 部族が 絶縁しました。 彼らは、 あなたに 敵対しています。</RelationsBrokenDown>
-<RelationsWarmed>{0} 部族との 関係が 回復しました。 彼らは あなたに 敵対していません。</RelationsWarmed>
+<RelationsBrokenDown>{0} 派閥が 絶縁してきました。 彼らは、あなたと敵対しています。</RelationsBrokenDown>
+<RelationsWarmed>{0} 派閥との 関係が 回復しました。 彼らは、あなたに敵対していません。</RelationsWarmed>
 
-<RelationsBrokenCapture>あなたは {0} を捕らえました。 {1} 部族は、 あなたに 敵対します。</RelationsBrokenCapture>
+<RelationsBrokenCapture>あなたは {0}を 捕らえました。 {1} 派閥は、 あなたに敵対します。</RelationsBrokenCapture>
 
-<ColonyGoodwill>コロニーの 友好度</ColonyGoodwill>
+<ColonyGoodwill>コロニーの友好度</ColonyGoodwill>
 <Neutral>中立</Neutral>
 
-<ShortCircuitRain>{0} は雨で短絡し、発火しました。</ShortCircuitRain>
+<ShortCircuitRain>{0}は 雨で短絡し、発火しました。</ShortCircuitRain>
 
   <LetterLabelAreaRevealed>発見</LetterLabelAreaRevealed>
   <AreaRevealed>新しいゾーンが明らかになりました。</AreaRevealed>
   <AreaRevealedWithMechanoids>新しいゾーンが明らかになりましたが、敵対する古代のメカノイドがいます。</AreaRevealedWithMechanoids>
 
-<RoofCollapsed>屋根の 支えが 遠すぎたため、 自重で 崩落しました。</RoofCollapsed>
-<TheseThingsCrushed>崩落の 被害</TheseThingsCrushed>
+<RoofCollapsed>屋根の支えが遠すぎたため、 自重で崩落しました。</RoofCollapsed>
+<TheseThingsCrushed>崩落の被害</TheseThingsCrushed>
 <NothingCrushed>被害は ありませんでした。</NothingCrushed>
   <LetterLabelRoofCollapsed>崩落</LetterLabelRoofCollapsed>
 
-<RecruitSuccess>{0} は {1} を 村に 迎え入れました。 （成功率 {2} ）</RecruitSuccess>
-<RecruitFail>{0} は {1} の 説得に 失敗しました。 （成功率 {2} ）</RecruitFail>
+<RecruitSuccess>{0}は {1}を コロニーに 迎え入れました。 (成功率 {2})</RecruitSuccess>
+<RecruitFail>{0}は {1}の 説得に 失敗しました。 (成功率 {2})</RecruitFail>
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
-<BirthdayChronological>今日は {1} {0} の {2} 才の暦の上での誕生日.\n\n\n冷凍睡眠中は歳をとらないので、暦の上での誕生日とは区別します。</BirthdayChronological>
-<BirthdayBiologicalAgeInjuries>今日は、{0}の生物学的な{1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
+<BirthdayChronological>今日は {1} {0}の {2}才の 暦の上での誕生日.\n\n\n冷凍睡眠中は歳をとらないので、暦の上での誕生日とは区別します。</BirthdayChronological>
+<BirthdayBiologicalAgeInjuries>今日は、{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
 
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
     <NewDisease>{0}は 病に倒れました({1})。\n\n医療用ベッドとドクターを確保してください。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewDisease>
     <NewPartDisease>{0}は HIS{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
-<AncientShrineWarning>予感が、近くにある古代建造物に{0}を引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
+<AncientShrineWarning>予感が、近くにある古代建造物に {0}を 引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
 
   <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>{0}は手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>手なずけるのに失敗し、{0}は 襲いかかってきた</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>そばにいた、他の{0}も いっせいに怒り狂った</AnimalManhunterOthers>
+  <AnimalManhunterFromDamage>{0}は 手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>手なずけるのに失敗し、{0}は 襲いかかってきた!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>そばにいた、他の{0}も いっせいに怒り狂った!</AnimalManhunterOthers>
 
   <LetterFriendlyTrapSprungLabel>{0}は 罠にはまった</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0}は 不慮の事故により、罠で怪我をした</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{0}は 不慮の事故により、罠で怪我をした。</LetterFriendlyTrapSprung>
 
   <LetterHealthComplications>{0}は、 {2}の合併症で、 {1}を患った。</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
 
-  <LetterHediffFromRandomHediffGiver>{0}は、 {1}の病に おかされた。</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{0}は、 {1}の病におかされた。</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <LetterLeadersDeathLabel>リーダーの死</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{1}のリーダー {0}は死に、 代わりに {2}が、その地位についた。</LetterLeadersDeath>
+  <LetterLeadersDeath>{1}の リーダー {0}は 死に、 代わりに {2}が、その地位についた。</LetterLeadersDeath>
 
   <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
-  <MentalBreakReason>理由: {0}</MentalBreakReason>
+  <MentalBreakReason>不幸な出来事: {0}</MentalBreakReason>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
@@ -81,21 +81,21 @@
   <LetterLabelBreakup>振られた</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} は、{0} からのプロポーズを受け留めました。\n\nあなたが、婚姻の儀式を行う場所(marrige point)を決めさえすれば、季節が流れたある時期に、彼らは、全ての入植者に招待状を出して、そこで結婚式を行うでしょう。</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} は、{0} からのプロポーズを断りました。{0} は失恋の傷を負います。</LetterRejectedProposal>
+  <LetterAcceptedProposal>{1}は、 {0}からの プロポーズを受け留めました。\n\nあなたが、婚姻の儀式を行う場所(marrige point)を決めさえすれば、季節が流れたある時期に、彼らは、全ての入植者に招待状を出して、そこで結婚式を行うでしょう。</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1}は、 {0}からの プロポーズを断りました。{0}は 失恋の傷を負います。</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>吉報</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>悪報</LetterLabelRelationsChangeBad>
-  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelShortCircuit>バチバチ...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>精神崩壊</LetterLabelMentalBreakdown>
 
   <!-- Bonded animals -->
   <LetterLabelBondedAnimalDied>絆で結ばれた動物の死</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{1}と 絆で結ばれていた {0}が死にました。 この事は、{1}のムードに影響します。</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{2}と 絆で結ばれていた、{1}という名前の {0}が死にました。 この事は、{2}のムードに影響します。 </LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0}は死にました。この事は、次の人々のムードに影響します:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0}と名付けられた {1}が死にました。この事は、次の人々のムードに影響します:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterBondedAnimalDied>{1}と 絆で結ばれていた {0}が 死にました。 この事は、{1}の ムードに影響します。</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{2}と 絆で結ばれていた、{1}という名前の {0}が 死にました。 この事は、{2}の ムードに影響します。 </LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0}は 死にました。この事は、次の人々のムードに影響します:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0}と名付けられた {1}が 死にました。この事は、次の人々のムードに影響します:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>
@@ -103,6 +103,13 @@
 
   <!-- Party -->
   <LetterLabelNewParty>パーティ</LetterLabelNewParty>
-  <LetterNewParty>{0} は、パーティを催しています!。みんな会話や娯楽を楽しむでしょう、これで良いムードが長く続きます。</LetterNewParty>
+  <LetterNewParty>{0}は、 パーティを催しています!。みんな会話や娯楽を楽しむでしょう、これで良いムードが長く続きます。</LetterNewParty>
 
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} 中毒</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0}は、 {1}中毒を 患いました。\n\nHECAP は、 {1}欲求状態であることが、 HISの「欲求」タブで見て取れます。 HECAP は、HISの欲求を満たすために、勝手にドラッグを消費するようになります。 もしHEが、 {1}を手に入れられなければ、 HEには、禁断症状が起きるでしょう。</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0}は、 {1}を 浪費するようになった。</LetterDrugBinge>
 </LanguageData>

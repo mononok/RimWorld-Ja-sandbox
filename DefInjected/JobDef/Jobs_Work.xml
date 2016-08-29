@@ -35,8 +35,8 @@
     <Uninstall.reportString>TargetA をアンインストール中</Uninstall.reportString>
     <Repair.reportString>TargetA を修理中</Repair.reportString>
     <FixBrokenDownBuilding.reportString>TargetA の壊れたコンポーネントを交換中</FixBrokenDownBuilding.reportString>
-    <BuildRoof.reportString>building roof.</BuildRoof.reportString>
-    <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+    <BuildRoof.reportString>屋根を取り付けている</BuildRoof.reportString>
+    <RemoveRoof.reportString>屋根を外している</RemoveRoof.reportString>
 
 	<!--============= Medical ===============-->
     <FeedPatient.reportString>TargetA を TargetB に給仕中</FeedPatient.reportString>
@@ -44,7 +44,8 @@
 
 	<!--============= Misc ===============-->
 	<DeliverFood.reportString>TargetBに TargetAを 給仕中</DeliverFood.reportString>
-    <DoBill.reportString>Doing bill at TargetA</DoBill.reportString>
+    <DoBill.reportString>TargetAで 作業している</DoBill.reportString>
+    <OperateDeepDrill.reportString>TargetA ボーリング中</OperateDeepDrill.reportString>
     <Clean.reportString>TargetA を掃除中</Clean.reportString>
     <Research.reportString>研究中</Research.reportString>
     <Hunt.reportString>TargetA を狩っている</Hunt.reportString>

@@ -1,36 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <!--================================ Tier 2: Non-electric ====================================-->
+  <PsychiteRefining.label>サイコイド精製</PsychiteRefining.label>
+  <PsychiteRefining.description>サイコイドの葉から、フレーク状の、中毒性で多幸感を引き起こす興奮剤である、サイカイトに精製する方法を学びます。</PsychiteRefining.description>
+
+  <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
+  <WakeUpProduction.description>ウェイクアップ全合成の手法と製法を学びます。</WakeUpProduction.description>
+
+  <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
+  <GoJuiceProduction.description>ゴージュース全合成の手法と製法を学びます。</GoJuiceProduction.description>
+
+  <MalariBlockProduction.label>マラリ-ブロック製造</MalariBlockProduction.label>
+  <MalariBlockProduction.description>マラリア感染を防いでくれる、マラリ-ブロックの製法を学びます。</MalariBlockProduction.description>
+
     <!--================================ Tier 2: Basic electricity ====================================-->
     <Batteries.label>バッテリー</Batteries.label>
-    <Batteries.description>電気を貯めるためのバッテリーを作れるようになります。</Batteries.description>
+    <Batteries.description>電気を貯めるバッテリーを作れるようになります。</Batteries.description>
 
     <NutrientPaste.label>ペーストディスペンサー</NutrientPaste.label>
-    <NutrientPaste.description> 生の栄養のある食材を、能率のよく食品産み出す、ペーストディスペンサーを作れるようになります。</NutrientPaste.description>
+    <NutrientPaste.description>生の栄養のある食材から 効率よく食品を産み出す、ペーストディスペンサーを作れるようになります。</NutrientPaste.description>
 
 	<SolarPanels.label>太陽光発電</SolarPanels.label>
 	<SolarPanels.description>太陽光発電装置を作れるようになります。</SolarPanels.description>
 
 	<AirConditioning.label>クーラー</AirConditioning.label>
-	<AirConditioning.description>部屋を冷やしたり、部屋を冷凍庫にすることができる、クーラーを作れるようになります。</AirConditioning.description>
+	<AirConditioning.description>部屋を冷やしたり、冷凍庫にすることができる、クーラーを作れるようになります。</AirConditioning.description>
 
 	<Autodoors.label>自動ドア</Autodoors.label>
 	<Autodoors.description>出入りに手間取らない、自動ドアを作れるようになります。</Autodoors.description>
 
-	<Hydroponics.label>水耕栽培</Hydroponics.label>
-	<Hydroponics.description>地形や外の天候に左右されずに、屋内で植物を素早く成長させる、水耕栽培テーブルを作れるようになります。</Hydroponics.description>
+	<Hydroponics.label>水耕栽培器</Hydroponics.label>
+	<Hydroponics.description>地形や外の天候に左右されずに、屋内で植物を素早く成長させる、水耕栽培器を作れるようになります。</Hydroponics.description>
 
 	<ElectricSmelting.label>溶鉱炉</ElectricSmelting.label>
-	<ElectricSmelting.description>熱と強力な電磁石を使って、くず鉄から使える金属を分離する溶鉱炉を作れるようになります。</ElectricSmelting.description>
+	<ElectricSmelting.description>くず鉄から、熱と強力な電磁石を使って、使える金属を分離する溶鉱炉を作れるようになります。</ElectricSmelting.description>
 
-	<ElectricCremation.label>火葬</ElectricCremation.label>
-	<ElectricCremation.description>死体を火葬できる火葬場を作れるようになります。</ElectricCremation.description>
+	<ElectricCremation.label>電気火葬炉</ElectricCremation.label>
+	<ElectricCremation.description>死体を火葬できる電気火葬炉を作れるようになります。</ElectricCremation.description>
 
 	<ColoredLights.label>彩色灯</ColoredLights.label>
 	<ColoredLights.description>装飾目的の色つき電球を作れるようになります。</ColoredLights.description>
 
-	<Machining.label>工作機械</Machining.label>
-	<Machining.description>動作停止した機械生命体を分解し、利用可能な金属を回収する工作機械を作れるようになります。</Machining.description>
+	<Machining.label>精密工作機械</Machining.label>
+	<Machining.description>動作停止した機械生命体を分解し、利用可能な金属を回収する精密工作機械を作れるようになります。</Machining.description>
 
 	<Mortars.label>迫撃砲</Mortars.label>
 	<Mortars.description>壁を飛び越え遠くを砲撃できる、迫撃砲を作れるようになります。</Mortars.description>

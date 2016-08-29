@@ -2,6 +2,12 @@
 <LanguageData>
 
     <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
+    <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
+    <GroundPenetratingScanner.description>地面より深いところにある掘削可能な鉱物資源を探知する、地殻深部スキャナーを作成できるようになります。</GroundPenetratingScanner.description>
+
+	<DeepDrilling.label>深部ドリルマシン</DeepDrilling.label>
+	<DeepDrilling.description>地殻深部から鉱物資源を掘削するための深部ドリルマシンを作成できるようになります。鉱物資源を探査するために、地殻深部スキャナーも必要になるでしょう。</DeepDrilling.description>
+
 	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
 	<VitalsMonitor.description>医療用ベッドのそばに置くと、患者の治療品質が上がる、バイタルモニターを作成できるようになります。</VitalsMonitor.description>
 
@@ -12,12 +18,12 @@
 	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>
 
 	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
-	<Cryptosleep.description>仮死状態のまま長い期間を疑似冬眠で過ごせる機械を作ります。</Cryptosleep.description>
+	<Cryptosleep.description>仮死状態のまま長い期間を疑似冬眠で過ごせる機械を作成できるようになります。</Cryptosleep.description>
 
 	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
     <PoweredArmor.description>ニューロミーム的ロボット工学と先進のプラスチールが織りなすテクノロジーは、パワーアーマーとヘルメットの製造を可能にします。</PoweredArmor.description>
 
     <ChargedShot.label>チャージライフル</ChargedShot.label>
-    <ChargedShot.description>チャージパルスエネルギーを照射する鍵となる仕組みを理解する。チャージライフルの製造を可能にします。</ChargedShot.description>
+    <ChargedShot.description>チャージパルスエネルギーを照射する、鍵となる仕組みを理解して、チャージライフルの製造を可能にします。</ChargedShot.description>
 
 </LanguageData>

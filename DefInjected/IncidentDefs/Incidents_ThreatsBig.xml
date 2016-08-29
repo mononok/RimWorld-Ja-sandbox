@@ -1,13 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Infestation.letterLabel>来襲!!</Infestation.letterLabel>
+	<RaidEnemy.label>敵襲!!</RaidEnemy.label>
+
+	<Infestation.label>虫の襲撃</Infestation.label>
+	<Infestation.letterLabel>虫の襲撃!!</Infestation.letterLabel>
 	<Infestation.letterText>虫の巣が現れた!!\n\nそこから、ゆっくりと、虫が湧くだけでなく、巣も増えていきます。そのエリア一帯に、虫を蔓延させたくないなら、あなたの兵士を召集して、それを退治させます。しかし、気をつけてください。やつらも彼らの巣を守ろうとするでしょう。</Infestation.letterText>
 
+	<ManhunterPack.label>マンハンター</ManhunterPack.label>
+
+    <PsychicEmanatorShipPartCrash.label>サイキック船</PsychicEmanatorShipPartCrash.label>
     <PsychicEmanatorShipPartCrash.letterLabel>サイキック船</PsychicEmanatorShipPartCrash.letterLabel>
     <PsychicEmanatorShipPartCrash.letterText>古代の船の大きなパーツが近くに墜落しました。\n\n入植者達は、いいようのない不安を口々にしています。それは船に搭載された、サイキック照射能力を持ったAIによるものに違いありません。そしてAIは友好的ではありません。\n\nできる限り速やかに破壊してください。</PsychicEmanatorShipPartCrash.letterText>
 
+    <PoisonShipPartCrash.label>汚染された船</PoisonShipPartCrash.label>
     <PoisonShipPartCrash.letterLabel>汚染された船</PoisonShipPartCrash.letterLabel>
     <PoisonShipPartCrash.letterText>古代の船の大きなパーツが近くに墜落しました。\n\nそこから漏れた酸性の物質が、同心円状に広がって植物を枯らして行くでしょう。\n\nできる限り速やかに破壊してください。</PoisonShipPartCrash.letterText>
+
+    <AnimalInsanityMass.label>動物の大量暴走</AnimalInsanityMass.label>
 
 </LanguageData>

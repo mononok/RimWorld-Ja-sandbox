@@ -50,7 +50,7 @@
 	<MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください。</MessageMustDesignateHarvestable>
 	<MessageMustDesignateHarvestableWood>木材として 十分に成長した 木を 指定してください。</MessageMustDesignateHarvestableWood>
 	<MessageMustDesignatePlants>植物を 指定してください。</MessageMustDesignatePlants>
-	<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。</MessageMustDesignateHaulable>
+	<MessageMustDesignateHaulable>運搬する アイテムを 指定してください。いくつかのアイテムは常に運搬できるので、 これらを指定することは出来ません。</MessageMustDesignateHaulable>
 	<MessageMustDesignateMineable>採掘できる 岩石を 指定してください。</MessageMustDesignateMineable>
 	<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
 	<MessageMustDesignateTameable>手なずける 動物を 指定してください。</MessageMustDesignateTameable>
@@ -87,7 +87,7 @@
 
 	<MessageNuzzledPawnGaveNameTo>{1}が 懐いたので、{0}は "{2}"と名前をつけました。</MessageNuzzledPawnGaveNameTo>
 
-	<MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません。(必要レベル {1} in {2}, 最良適任者 {3} has {4}).</MessageNoHandlerSkilledEnough>
+	<MessageNoHandlerSkilledEnough>{0} は誰も手なずけられません({2}の必要レベル {1}、最適任者 {3}でもレベル {4})。</MessageNoHandlerSkilledEnough>
 
 	<MessageEatenByPredator>{0}は {1}に喰われた。</MessageEatenByPredator>
 	<MessageAttackedByPredator>{0}は {1}に襲われた! </MessageAttackedByPredator>
@@ -126,5 +126,13 @@
   <MessageConstructionFailed>{1}は{0}の建造に失敗し、いくつかの資源が無駄になりました。</MessageConstructionFailed>
 
   <MessageScreenshotSavedAs>スクリーンショットを保存した: {0}</MessageScreenshotSavedAs>
+
+  <MessageNoLongerSocialFighting>{0}と{1}は、 もうケンカをやめました。</MessageNoLongerSocialFighting>
+
+  <MessageNoLongerBingingOnDrug>{0}は、 もう{1}を浪費することをやめました。</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0}は、 備蓄ゾーンのなかで腐敗しました。</MessageRottedAwayInStorage>
+
+  <MessageFoodPoisoning>{0}は、 {1}の食中毒を起こしました。</MessageFoodPoisoning>
 
 </LanguageData>

@@ -887,4 +887,18 @@
 		<trans>desc_sentence->[human_nameShortDef] is morphing into [animal_ShortDefinite].</trans>
 	</rep>
 
+	<TradedWith.label>traded with someone</TradedWith.label>
+    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_fullName]と [buyer_fullName]との間で 取引が行なわれる。</TradedWith.rulePack.rulesStrings.0>
+    <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group]、 [seller_nameFull]からアイテムを買い取る。</TradedWith.rulePack.rulesStrings.1>
+    <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull]は、  [circumstance_group]、 [buyer_nameFull]にアイテムを売りつける。</TradedWith.rulePack.rulesStrings.2>
+    <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->貪欲な目つきで一心に</TradedWith.rulePack.rulesStrings.3>
+    <TradedWith.rulePack.rulesStrings.4>circumstance_phrase->その間、[seller_nameShortDef]が、 [buyer_shortNameDef]にニヤニヤ笑みを浮かべながら</TradedWith.rulePack.rulesStrings.4>
+    <TradedWith.rulePack.rulesStrings.5>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]の商品を品定めしている。</TradedWith.rulePack.rulesStrings.5>
+    <TradedWith.rulePack.rulesStrings.6>desc_sentence->[seller_nameShortDef]はアイテムを検討している。</TradedWith.rulePack.rulesStrings.6>
+    <TradedWith.rulePack.rulesStrings.7>desc_sentence->[seller_nameShortDef]は値切り始める。</TradedWith.rulePack.rulesStrings.7>
+    <TradedWith.rulePack.rulesStrings.8>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]と激論を交わす。</TradedWith.rulePack.rulesStrings.8>
+    <TradedWith.rulePack.rulesStrings.9>desc_sentence->[seller_nameShortDef]と、[buyer_nameShortDef]は、 売買価格で同意した。</TradedWith.rulePack.rulesStrings.9>
+    <TradedWith.rulePack.rulesStrings.10>desc_sentence->[buyer_nameShortDef]はアイテムの代金を支払う。</TradedWith.rulePack.rulesStrings.10>
+    <TradedWith.rulePack.rulesStrings.11>desc_sentence->[seller_nameShortDef]は、[seller_possessive]から受け取ったお金を数えている。</TradedWith.rulePack.rulesStrings.11>
+    <TradedWith.rulePack.rulesStrings.12>desc_sentence->[buyer_nameShortDef]は、[buyer_possessive] goodsをtaking.</TradedWith.rulePack.rulesStrings.12>
 </LanguageData>

@@ -1,15 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<SunLamp.label>太陽灯</SunLamp.label>
-	<SunLamp.description>植物が生育するのに十分な光で辺りを照らします。</SunLamp.description>
-
 	<OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
 	<OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを売却できます。室内でも利用可能です。</OrbitalTradeBeacon.description>
 
 	<CommsConsole.label>通信機</CommsConsole.label>
-    <CommsConsole.description>軌道上にいる船や、 他の部族と、貿易や交渉を行うために必要な通信機です。</CommsConsole.description>
-	<!--Facilities-->
+    <CommsConsole.description>軌道上にいる船や、 他の派閥と、貿易や交渉を行うために必要な通信機です。</CommsConsole.description>
+
+    <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
+    <GroundPenetratingScanner.description>ソナーと磁気映像装置を組み合わせた、下向きのレーダーで、地面より深いところに埋蔵されている鉱物を探知することができます(種類までは判別不能)。稼働させるには大量の電力を必要とします。</GroundPenetratingScanner.description>
+
+	<FirefoamPopper.label>泡消火器</FirefoamPopper.label>
+	<FirefoamPopper.description>火災を検知するか、手動で操作したとき、この装置は消火剤をあたり一面にまき散らします。</FirefoamPopper.description>
+
+	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
+	<MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</MoisturePump.description>
+
+  <!--========================== Facilities ============================-->
 	<MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
 	<MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置する必要があります。一つの研究設備には一つのマルチ・アナライザしか接続できません。</MultiAnalyzer.description>
 
@@ -19,26 +26,21 @@
 	<ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
 	<ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台には一つのツールキャビネットしか接続できません。</ToolCabinet.description>
 
-	<FirefoamPopper.label>泡消火器</FirefoamPopper.label>
-	<FirefoamPopper.description>火災を検知するか、手動で操作したとき、この装置は消火剤をあたり一面にまき散らします。</FirefoamPopper.description>
-
-	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
-	<MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</MoisturePump.description>
-
+  <!--=========================== Graves ============================-->
 	<Grave.label>墓</Grave.label>
     <Grave.description>死者に安らかな眠りを与える場所です。</Grave.description>
 
 	<Sarcophagus.label>石棺</Sarcophagus.label>
 	<Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Sarcophagus.description>
 
-  <!-- Cryptosleep casket -->
-
+  <!--======================= Cryptosleep caskets ===========================-->
   <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
   <CryptosleepCasket.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</CryptosleepCasket.description>
 
   <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです。中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
 
+  <!--============================ Spots =============================-->
 	<MarriageSpot.label>結婚を誓う場</MarriageSpot.label>
 	<MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</MarriageSpot.description>
 

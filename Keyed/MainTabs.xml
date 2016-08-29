@@ -12,18 +12,20 @@
   <IncapableOfWorkTypeBecauseOfCapacities>この入植者は、健康上の理由から、このタイプのすべての作業を行うことができません。</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
 
-  <!-- Outfits tab -->
+  <!-- Assign tab -->
   <CurrentOutfit>服装</CurrentOutfit>
   <ManageOutfits>服装を編集</ManageOutfits>
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <OutfitEdit>着替え</OutfitEdit>
+  <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
+  <ApparelForcedLower>服装を強制</ApparelForcedLower>
+  <ForcedApparel>服装を強制する</ForcedApparel>
+  <AssignTabEdit>編集...</AssignTabEdit>
+  <CurrentDrugPolicies>ドラッグ適用方針</CurrentDrugPolicies>
+  <ManageDrugPolicies>ドラッグ適用方針の管理</ManageDrugPolicies>
 
   <!-- Restrictions tab -->
   <Copy>コピー</Copy>
   <Paste>ペースト</Paste>
-  <AllowedArea>作業ゾーン</AllowedArea>
+  <AllowedArea>制限ゾーン</AllowedArea>
 
   <!-- Animals tab -->
   <Master>主人</Master>
@@ -33,7 +35,21 @@
 <HostileTo>{0} と 敵対</HostileTo>
 <CurrentGoodwill>現在の 友好度</CurrentGoodwill>
 
-<!-- Statistics tab -->
+  <!-- History tab - subtabs -->
+  <Graph>グラフ</Graph>
+  <Statistics>統計</Statistics>
+  
+  <!-- History tab - Graphs -->
+<SelectGraph>グラフを選択</SelectGraph>
+<Last30Days>直近の30日</Last30Days>
+<Last100Days>直近の100日</Last100Days>
+<Last300Days>直近の300日</Last300Days>
+<AllDays>すべて</AllDays>
+<Day>日</Day>
+<Value>値</Value>
+<External>External</External>
+
+  <!-- History tab - Statistics -->
 <Playtime>プレイ時間</Playtime>
 <Storyteller>AI脚本家</Storyteller>
 <ColonyWealthTotal>村の価値</ColonyWealthTotal>
@@ -44,16 +60,6 @@
 <DamageTaken>総ダメージ</DamageTaken>
 <ColonistsKilled>殺された 入植者数</ColonistsKilled>
 <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
-
-<!-- History tab -->
-<SelectGraph>グラフを選択</SelectGraph>
-<Last30Days>直近の30日</Last30Days>
-<Last100Days>直近の100日</Last100Days>
-<Last300Days>直近の300日</Last300Days>
-<AllDays>すべて</AllDays>
-<Day>日</Day>
-<Value>値</Value>
-<External>External</External>
 
   <!-- Research tab -->
   <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>

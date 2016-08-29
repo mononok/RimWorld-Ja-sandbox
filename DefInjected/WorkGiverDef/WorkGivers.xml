@@ -104,8 +104,8 @@
 	<Tame.verb>を馴らす</Tame.verb>
 	<Tame.gerund>を手なずける</Tame.gerund>
 
-	<Train.label>動物をしつける</Train.label>
-	<Train.verb>をしつける</Train.verb>
+	<Train.label>動物を調教する</Train.label>
+	<Train.verb>を調教する</Train.verb>
 	<Train.gerund>を調教する</Train.gerund>
 
 	<!-- ============= Cooking ============= -->
@@ -203,6 +203,10 @@
 	<Mine.verb>を掘る</Mine.verb>
     <Mine.gerund>を採掘する</Mine.gerund>
 
+	<Drill.label>ボーリングする</Drill.label>
+	<Drill.verb>をボーリングする</Drill.verb>
+	<Drill.gerund>をボーリングする</Drill.gerund>
+
   <!-- ============= PlantCutting ============= -->
 	<PlantsCut.label>切り倒す、収穫する</PlantsCut.label>
 	<PlantsCut.verb>を伐採する</PlantsCut.verb>
@@ -236,6 +240,10 @@
 	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
 	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
 
+	<DoBillsProduceDrugs.label>ドラッグ製造</DoBillsProduceDrugs.label>
+	<DoBillsProduceDrugs.verb>を製造する</DoBillsProduceDrugs.verb>
+	<DoBillsProduceDrugs.gerund>を製造する</DoBillsProduceDrugs.gerund>
+
 	<DoBillsStonecut.label>ストーンカッター</DoBillsStonecut.label>
 	<DoBillsStonecut.verb>で石切する</DoBillsStonecut.verb>
     <DoBillsStonecut.gerund>で石切する</DoBillsStonecut.gerund>
@@ -261,6 +269,12 @@
 	<Open.label>発掘</Open.label>
 	<Open.verb>を発掘する</Open.verb>
 	<Open.gerund>を発掘する</Open.gerund>
+
+	<TakeBeerOutOfFermentingBarrel.label>ビア樽からビールを汲み出す</TakeBeerOutOfFermentingBarrel.label>
+	<TakeBeerOutOfFermentingBarrel.verb>を汲み出す</TakeBeerOutOfFermentingBarrel.verb>
+	<TakeBeerOutOfFermentingBarrel.gerund>から汲み出す</TakeBeerOutOfFermentingBarrel.gerund>
+
+	<FillFermentingBarrel.label>fill fermenting barrels</FillFermentingBarrel.label>
 
 	<DoBillsCremate.label>焼却</DoBillsCremate.label>
 	<DoBillsCremate.verb>で焼却する</DoBillsCremate.verb>

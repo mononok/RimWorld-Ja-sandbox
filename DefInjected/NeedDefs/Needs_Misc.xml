@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Mood.label>心情</Mood.label>
+	<Mood.description>どのくらい幸せか、ストレスを受けているかを表します。 もし心情が低すぎると、精神崩壊を起こす恐れがあります。</Mood.description>
+
+	<Food.label>食事</Food.label>
+	<Food.description>その生き物が直近に摂った栄養物の量です。 ゼロになると、そのうち飢えでダメージを受けます。</Food.description>
+
+	<Rest.label>睡眠</Rest.label>
+	<Rest.description>その生き物が直近に得られた睡眠量です。</Rest.description>
+
+	<Joy.label>娯楽</Joy.label>
+	<Joy.description>何か楽しいことをしたい必要性を表しています。 同じ種類の娯楽を繰り返していると効果が薄れていきます。</Joy.description>
+
+	<Beauty.label>美しさ</Beauty.label>
+	<Beauty.description>彼らの環境が、どれくらい視覚的に気持ち良いと感じるか？を表しています。</Beauty.description>
+
+	<Comfort.label>快適性</Comfort.label>
+	<Comfort.description>気持ちよいソファーに座ることや、ベッドで休む事で 値が大きくなります。</Comfort.description>
+
+	<Space.label>空間</Space.label>
+	<Space.description>自由に動き回れる、物理的な空間の大きさを表しています。 そして、窮屈な部屋で長時間過ごすと、値は下がっていきます。</Space.description>
+
+    <!-- Alcohol_Beer.xml -->
+	<Chemical_Alcohol.label>アルコール</Chemical_Alcohol.label>
+	<Chemical_Alcohol.description>アルコール依存症が原因で、この人は、禁断症状を避けるために、定期的にアルコールを必要としています。</Chemical_Alcohol.description>
+	<!-- WakeUp.xml -->
+	<Chemical_WakeUp.label>ウェイクアップ</Chemical_WakeUp.label>
+	<Chemical_WakeUp.description>ウェイクアップ中毒が原因で、この人は、禁断症状を避けるために、定期的にウェイクアップを必要としています。</Chemical_WakeUp.description>
+	<!-- Smokeleaf.xml -->
+	<Chemical_Smokeleaf.label>スモークリーフ</Chemical_Smokeleaf.label>
+	<Chemical_Smokeleaf.description>スモークリーフ中毒が原因で、この人は、禁断症状を避けるために、定期的にスモークリーフを必要としています。</Chemical_Smokeleaf.description>
+	<!-- Psychite_Yayo.xml -->
+	<Chemical_Psychite.label>サイカイト</Chemical_Psychite.label>
+	<Chemical_Psychite.description>サイカイト中毒が原因で、この人は、禁断症状を避けるために、定期的にサイカイトを必要としています。</Chemical_Psychite.description>
+	<!-- GoJuice.xml -->
+	<Chemical_GoJuice.label>ゴージュース</Chemical_GoJuice.label>
+	<Chemical_GoJuice.description>ゴージュース中毒が原因で、この人は、禁断症状を避けるために、定期的にゴージュースを必要としています。</Chemical_GoJuice.description>
+	<!-- Luciferium.xml -->
+	<Chemical_Luciferium.label>ルシフェリウム</Chemical_Luciferium.label>
+	<Chemical_Luciferium.description>この人の身体は、ルシフェリウムナノマシンによって強化されています。\n\n一定分量のルシフェリウム無しだと、このナノマシン同士の結合が失われます。もしこれが起きると、常用者は、継続的に激しく気が狂い、ついには死を迎えます。\n\nこの中毒症状から逃れる手段はありません。</Chemical_Luciferium.description>
+
+</LanguageData>

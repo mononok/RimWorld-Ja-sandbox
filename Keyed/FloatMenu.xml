@@ -24,7 +24,7 @@
 <NoPath>道順が無い</NoPath>
 
 	<ForbiddenLower>禁止</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>許可エリア外</ForbiddenOutsideAllowedAreaLower>
+	<ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
 <SociallyImproperLower>社交的に不適当</SociallyImproperLower>
   <PrisonerRoomLower>牢獄</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
@@ -39,6 +39,7 @@
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
+  <NoWort>麦汁が必要</NoWort>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
   <Teetotaler>絶対禁酒</Teetotaler>
@@ -112,7 +113,9 @@
 
 <CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
 
-<CannotPrioritizeIsNotA>優先できない （{0} は {1}にはなれない）</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
+  
+  <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}作業を割り当てていない)</CannotPrioritizeNotAssignedToWorkType>
 
 <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 

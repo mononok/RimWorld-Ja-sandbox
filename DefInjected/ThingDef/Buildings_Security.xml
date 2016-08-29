@@ -1,22 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Sandbags.label>土嚢</Sandbags.label>
+    <Sandbags.label>土のう</Sandbags.label>
     <Sandbags.description>銃撃から身を隠せます。</Sandbags.description>
 
 	<!--=============== Improvised turret ===============-->
-		<TurretGun.label>タレット</TurretGun.label>
+	<TurretGun.label>タレット</TurretGun.label>
     <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
+	<Bullet_TurretImprovised.label>タレット弾</Bullet_TurretImprovised.label>
+	<Gun_TurretImprovised.label>タレット</Gun_TurretImprovised.label>
+	<Gun_TurretImprovised.description>タレットに銃を取り付けただけの応急装備</Gun_TurretImprovised.description>
 
-	<!--=============== Mortar turret ===============-->
+  <!--=============== Mortar bomb turret ===============-->
 	<Turret_MortarBomb.label>榴弾迫撃砲</Turret_MortarBomb.label>
     <Turret_MortarBomb.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_MortarBomb.description>
+    <Artillery_MortarBomb.label>迫撃砲(榴弾)</Artillery_MortarBomb.label>
+	<Artillery_MortarBomb.description>榴弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_MortarBomb.description>
+	<Bullet_MortarBomb.label>榴弾(迫撃砲用)</Bullet_MortarBomb.label>
 
 	<Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>
     <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できます、ダメージを受けると爆発します。</Turret_MortarIncendiary.description>
+    <Artillery_MortarIncendiary.label>迫撃砲(焼夷弾)</Artillery_MortarIncendiary.label>
+	<Artillery_MortarIncendiary.description>焼夷弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_MortarIncendiary.description>
+    <Bullet_MortarIncendiary.label>焼夷弾(迫撃砲用)</Bullet_MortarIncendiary.label>
 
+  <!--=============== Mortar EMP ===============-->
 	<Turret_MortarEMP.label>EMP迫撃砲</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>手動でのみEMP弾を投射できます、ダメージを受けると爆発します。</Turret_MortarEMP.description>
+    <Artillery_MortarEMP.label>迫撃砲(EMP)</Artillery_MortarEMP.label>
+	<Artillery_MortarEMP.description>EMP弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_MortarEMP.description>
+	<Bullet_MortarEMP.label>EMP(迫撃砲用)</Bullet_MortarEMP.label>
 
 	<TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
 	<TrapDeadfall.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall.description>

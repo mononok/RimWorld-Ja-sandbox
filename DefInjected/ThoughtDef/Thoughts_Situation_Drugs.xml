@@ -1,79 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>Inebriated.stages[0].label</path>
-		<trans>酔ってはみえない</trans>
-	</rep>
-	<rep>
-		<path>Inebriated.stages[0].description</path>
-		<trans>効果は現れていない</trans>
-	</rep>
-
-	<rep>
-		<path>Inebriated.stages[1].label</path>
-		<trans>酔った(火照る)</trans>
-	</rep>
-	<rep>
-		<path>Inebriated.stages[1].description</path>
-		<trans>飲んだあとは、少しだけよりリラックスした気分になる。</trans>
-	</rep>
-
-	<rep>
-		<path>Inebriated.stages[2].label</path>
-		<trans>酔った(千鳥足)</trans>
-	</rep>
-	<rep>
-		<path>Inebriated.stages[2].description</path>
-		<trans>少しだけフラフラするけど、とても楽しい気分になる。</trans>
-	</rep>
-
-	<rep>
-		<path>Inebriated.stages[3].label</path>
-		<trans>酔った(酩酊)</trans>
-	</rep>
-	<rep>
-		<path>Inebriated.stages[3].description</path>
-		<trans>なんでもできるし、怖い物なんかないぞ！</trans>
-	</rep>
-
-	<rep>
-		<path>Inebriated.stages[4].label</path>
-		<trans>酔った(泥酔)</trans>
-	</rep>
-	<rep>
-		<path>Inebriated.stages[4].description</path>
-		<trans>うおぉー</trans>
-	</rep>
-
-
-	<rep>
-		<path>Hungover.stages[0].label</path>
-		<trans>二日酔い(軽く)</trans>
-	</rep>
-	<rep>
-		<path>Hungover.stages[0].description</path>
-		<trans>頭痛はほとんど無くなった。</trans>
-	</rep>
-
-	<rep>
-		<path>Hungover.stages[1].label</path>
-		<trans>二日酔い(強く)</trans>
-	</rep>
-	<rep>
-		<path>Hungover.stages[1].description</path>
-		<trans>酒のせいで、頭痛がひどい。</trans>
-	</rep>
-
-	<rep>
-		<path>Hungover.stages[2].label</path>
-		<trans>二日酔い(酷い)</trans>
-	</rep>
-	<rep>
-		<path>Hungover.stages[2].description</path>
-		<trans>まるでガチョウが集団で頭をつついているようだ。</trans>
-	</rep>
-
-
+    <!-- Alcohol_Beer.xml -->
+	<Inebriated.stages.0.label>酔ってはみえない</Inebriated.stages.0.label>
+	<Inebriated.stages.0.description>効果は現れていない</Inebriated.stages.0.description>
+	<Inebriated.stages.1.label>酔った(火照る)</Inebriated.stages.1.label>
+	<Inebriated.stages.1.description>飲んだあとは、少しだけよりリラックスした気分になる。</Inebriated.stages.1.description>
+	<Inebriated.stages.2.label>酔った(千鳥足)</Inebriated.stages.2.label>
+	<Inebriated.stages.2.description>少しだけフラフラするけど、とても楽しい気分になる。</Inebriated.stages.2.description>
+	<Inebriated.stages.3.label>酔った(酩酊)</Inebriated.stages.3.label>
+	<Inebriated.stages.3.description>なんでもできるし、怖い物なんかないぞ！</Inebriated.stages.3.description>
+	<Inebriated.stages.4.label>酔った(泥酔)</Inebriated.stages.4.label>
+	<Inebriated.stages.4.description>うおぉー</Inebriated.stages.4.description>
+	<Hungover.stages.0.label>二日酔い(軽く)</Hungover.stages.0.label>
+	<Hungover.stages.0.description>頭痛はほとんど無くなった。</Hungover.stages.0.description>
+	<Hungover.stages.1.label>二日酔い(強く)</Hungover.stages.1.label>
+	<Hungover.stages.1.description>酒のせいで、頭痛がひどい。</Hungover.stages.1.description>
+	<Hungover.stages.2.label>二日酔い(酷い)</Hungover.stages.2.label>
+	<Hungover.stages.2.description>まるでガチョウが集団で頭をつついているようだ。</Hungover.stages.2.description>
+	<AlcoholWithdrawal.stages.1.label>アルコール禁断症状</AlcoholWithdrawal.stages.1.label>
+	<AlcoholWithdrawal.stages.1.description>Feeling shaky. Everything pisses me off. I keep thinking of drinking</AlcoholWithdrawal.stages.1.description>
+	<!-- wakeup.xml -->
+	<WakeUpWithdrawal.stages.1.label>ウェイクアップ 禁断症状</WakeUpWithdrawal.stages.1.label>
+	<WakeUpWithdrawal.stages.1.description>完全にぼーっとしていて、集中できない。</WakeUpWithdrawal.stages.1.description>
+	<!-- Smokeleaf.xml -->
+	<SmokeleafHigh.stages.0.label>スモークリーフでハイになる</SmokeleafHigh.stages.0.label>
+	<SmokeleafHigh.stages.0.description>I'm, like, stoned, man .</SmokeleafHigh.stages.0.description>
+	<SmokeleafWithdrawal.stages.1.label>スモークリーフ 禁断症状</SmokeleafWithdrawal.stages.1.label>
+	<SmokeleafWithdrawal.stages.1.description>I really wish I could smoke.</SmokeleafWithdrawal.stages.1.description>
+	<!-- Psychite_Flake.xml -->
+	<FlakeHigh.stages.0.label>high on flake</FlakeHigh.stages.0.label>
+	<FlakeHigh.stages.0.description>So good, so good.</FlakeHigh.stages.0.description>
+	<!-- Cocaine_Yayo.xml -->
+	<YayoHigh.stages.0.label>high on yayo</YayoHigh.stages.0.label>
+	<YayoHigh.stages.0.description>Feeling pumped! Let's do this!</YayoHigh.stages.0.description>
+	<PsychiteWithdrawal.stages.1.label>サイカイト 禁断症状</PsychiteWithdrawal.stages.1.label>
+	<PsychiteWithdrawal.stages.1.description>God I'm tired. And nothing feels good any more.</PsychiteWithdrawal.stages.1.description>
+	<!-- GoJuice.xml -->
+	<GoJuiceHigh.stages.0.label>high on go-juice</GoJuiceHigh.stages.0.label>
+	<GoJuiceHigh.stages.0.description>Feeling pumped but calm. I am the sniper bullet in flight, ready to cut through you.</GoJuiceHigh.stages.0.description>
+	<GoJuiceWithdrawal.stages.1.label>go-juice withdrawal</GoJuiceWithdrawal.stages.1.label>
+	<GoJuiceWithdrawal.stages.1.description>I'm all fuzzy and can't think straight. My limbs feel heavy. Why won't my eyes focus properly?</GoJuiceWithdrawal.stages.1.description>
 
 </LanguageData>

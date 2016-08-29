@@ -9,14 +9,17 @@
     <Work.label>優先順位</Work.label>
     <Work.description>入植者達に、どのような作業を、どのような優先順位で行うかを指示します。</Work.description>
 
-	<Restrict.label>制約</Restrict.label>
+	<Restrict.label>制限</Restrict.label>
 	<Restrict.description>入植者達の活動を、特定の許可されたエリアで、特定の時間に、特定の行動に制限します。</Restrict.description>
 
 	<Assign.label>服装・任命</Assign.label>
 	<Assign.description>個々の入植者達の、衣類や、近くに敵がいるときの対処方法などを、細かく設定します。</Assign.description>
 
-    <Animals.label>動物</Animals.label>
-    <Animals.description>動物の扱われ方を設定します。</Animals.description>
+    <Animals.label>家畜</Animals.label>
+    <Animals.description>家畜の扱われ方を設定します。</Animals.description>
+
+    <Research.label>研究</Research.label>
+    <Research.description>研究するプロジェクトを決定します。</Research.description>
 
     <Factions.label>派閥</Factions.label>
     <Factions.description>わかっている派閥間の関係性を表示します。</Factions.description>
@@ -26,12 +29,6 @@
 
     <History.label>歴史</History.label>
     <History.description>コロニーの沿革を表示します。</History.description>
-
-    <Statistics.label>統計</Statistics.label>
-    <Statistics.description>コロニーの統計情報を表示します。</Statistics.description>
-
-    <Research.label>研究</Research.label>
-    <Research.description>研究するプロジェクトを決定します。</Research.description>
 
     <Menu.label>メニュー</Menu.label>
     <Menu.description>オプション変更、セーブ、ロード、ゲームの終了</Menu.description>

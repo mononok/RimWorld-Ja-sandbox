@@ -4,7 +4,7 @@
 	<BloodLoss.label>失血</BloodLoss.label>
 	<rep>
 		<path>BloodLoss.stages[0].label</path>
-		<trans>ささいな</trans>
+		<trans>微量</trans>
 	</rep>
 	<rep>
 		<path>BloodLoss.stages[1].label</path>
@@ -85,5 +85,12 @@
 		<path>HeartAttack.stages[2].label</path>
 		<trans>致命的</trans>
 	</rep>
+
+	<DrugOverdose.label>ドラッグの過剰摂取</DrugOverdose.label>
+	<DrugOverdose.comps.1.discoverLetterLabel>過剰摂取: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+	<DrugOverdose.comps.1.discoverLetterText>{0} は過剰に摂取している！</DrugOverdose.comps.1.discoverLetterText>
+	<DrugOverdose.stages.0.label>(Hidden)</DrugOverdose.stages.0.label>
+	<DrugOverdose.stages.1.label>軽度</DrugOverdose.stages.1.label>
+	<DrugOverdose.stages.2.label>重度</DrugOverdose.stages.2.label>
 
 </LanguageData>

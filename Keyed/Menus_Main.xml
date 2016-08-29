@@ -2,7 +2,7 @@
 <LanguageData>
 
 <!--=========== Main menu ==========-->
-<CreateWorld>惑星を創造</CreateWorld>
+  <LearnToPlay>操作方法の説明</LearnToPlay>
 <NewColony>新しくはじめる</NewColony>
 <BackToGame>ゲーム再開</BackToGame>
 <ReviewScenario>シナリオ表示</ReviewScenario>
@@ -23,6 +23,7 @@
 <TynansDesignBook>Tynan's design book</TynansDesignBook>
 <HelpTranslate>Help translate RimWorld</HelpTranslate>
 <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <CreateWorld>惑星を創造</CreateWorld>
 
 <!--=========== Create/review world ================-->
 <ReviewWorld>惑星を確認</ReviewWorld>
@@ -67,6 +68,7 @@
   <ModTargetVersion>For version: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Drag to reorder</DragToReorder>
 
   <!--=========== Select scenario =============-->
   <ChooseScenario>シナリオを選択</ChooseScenario>
@@ -100,7 +102,7 @@
   <SelectSite>決定</SelectSite>
   <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
   <CannotLandBiome>その地形は {0} なため、降下できません</CannotLandBiome>
-  <WorldRenderMode>モード</WorldRenderMode>
+  <WorldRenderMode>表示モード</WorldRenderMode>
   <WorldRenderModeFull>全て</WorldRenderModeFull>
   <WorldRenderModeTemperature>気温</WorldRenderModeTemperature>
   <WorldRenderModeElevation>高度</WorldRenderModeElevation>

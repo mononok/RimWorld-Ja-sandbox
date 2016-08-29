@@ -14,12 +14,11 @@
   <CustomCursor>ゲーム用カーソル</CustomCursor>
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <ChooseLanguage>言語</ChooseLanguage>
-  <AdaptiveTutor>チュートリアル</AdaptiveTutor>
-  <ResetAdaptiveTutor>チュートリアルをリセット</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>チュートリアルがリセットされ、最初から はじまります。</AdaptiveTutorIsReset>
+  <ResetAdaptiveTutor>ラーニングヘルパーをリセットする</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>チュートリアルがリセットされます。あなたは、一番最初から、もういちどレッスンを受けることができます。</AdaptiveTutorIsReset>
   <RunInBackground>バックグラウンド実行</RunInBackground>
   <DevelopmentMode>開発者モード</DevelopmentMode>
-  <ResetModsConfigOnCrash>ゲームクラッシュ時に、MODをリセットする</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>クラッシュ時に、MODをリセットする</ResetModsConfigOnCrash>
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <NamesYouWantToSee>キャラ背景や ゲーム中に 登場させたい 名前：</NamesYouWantToSee>
@@ -27,6 +26,7 @@
   <AutosaveInterval>自動保存間隔</AutosaveInterval>
   <TemperatureMode>気候モード</TemperatureMode>
 <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
+  <PlantWindSway>風に木がなびく効果</PlantWindSway>
 <MaxPermadeathAutosaveIntervalInfo>Permadeathモードでの、オートセーブ間隔は  {0}日です。</MaxPermadeathAutosaveIntervalInfo>
 
   <!-- Resolution -->

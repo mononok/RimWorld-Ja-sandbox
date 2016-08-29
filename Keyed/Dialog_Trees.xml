@@ -1,21 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<FactionGreetingHostile>{0} 代表は、 モニター越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
+<FactionGreetingHostile>{0} 代表は、 マイク越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
 <FactionGreetingWary>{0} 代表は、 用心深く {1} を迎え、HISビジネスに 応えました。</FactionGreetingWary>
 <FactionGreetingWarm>{0} 代表は、 こころよく {1} を迎え、 コロニーの 暮らしについて たずねました。</FactionGreetingWarm>
 
 <Disconnect>切断</Disconnect>
 
+  <!-- gift offer -->
     <OfferGift>贈り物</OfferGift>
     <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です。</NeedSilverLaunchable>
     <NotEnoughSilver>シルバーが 足りない。</NotEnoughSilver>
-    <SilverForGoodwill>{0} シルバー で 友好度 {1}</SilverForGoodwill>
-    <SilverGiftSent>{0}代表が ありがとう を伝えています。\n\n（友好度が {1} に改善）。</SilverGiftSent>
+    <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
+    <SilverGiftSent>{0}代表が ありがとう を伝えています。\n\n（友好度が{1}上昇）。</SilverGiftSent>
 
+  <!-- trade caravan request -->
+  <RequestTrader>トレーダーキャラバンの派遣を要請します。 (経費: {0}シルバー)</RequestTrader>
+  <TraderSent>{0}は、 あなたにトレーダーキャラバンを送ることに承諾しました。2～3日以内には到着するでしょう。</TraderSent>
 
-    <RequestMilitaryAid>いますぐ 軍事援助を 要請します （友好度 {0}）</RequestMilitaryAid>
-    <MilitaryAidConfirmMutualEnemy>{0} は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
+  <!-- military aid request -->
+    <RequestMilitaryAid>いますぐ 軍事援助を 要請します (友好度 {0})</RequestMilitaryAid>
+    <MilitaryAidConfirmMutualEnemy>{0}は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
     <CallConfirm>はい、 とにかく 来てください。</CallConfirm>
     <CallCancel>いや、 気に しないでくれ。</CallCancel>
     <MilitaryAidSent>{0} 代表は、 あなたを 助けるために 戦士を 送ると 約束しました。</MilitaryAidSent>

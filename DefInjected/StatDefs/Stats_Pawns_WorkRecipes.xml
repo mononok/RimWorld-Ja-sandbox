@@ -8,16 +8,13 @@
     <TailoringSpeed.description>衣服を縫う速度です。</TailoringSpeed.description>
 
 	<SmithingSpeed.label>鍛冶速度</SmithingSpeed.label>
-	<SmithingSpeed.description>鍛冶や、武器製造、機械、銃弾の制作速度です。</SmithingSpeed.description>
-
-    <DrugProductionSpeed.label>ドラッグ精製速度</DrugProductionSpeed.label>
-    <DrugProductionSpeed.description>ドラッグを精製する速度です。</DrugProductionSpeed.description>
+	<SmithingSpeed.description>鍛冶や、武器製造、機械、銃弾やツールの作成速度です。</SmithingSpeed.description>
 
     <CookSpeed.label>調理速度</CookSpeed.label>
     <CookSpeed.description>食事を作る速度です。</CookSpeed.description>
 
 	<FoodPoisonChance.label>食中毒の発生率</FoodPoisonChance.label>
-	<FoodPoisonChance.description>この人物に調理を任せたときの食中毒の発生率です。</FoodPoisonChance.description>
+	<FoodPoisonChance.description>このキャラクターが料理したときに、うかつにも料理を汚染してしまう確率です。</FoodPoisonChance.description>
 
 	<BrewingSpeed.label>醸造速度</BrewingSpeed.label>
 	<BrewingSpeed.description>酒を醸造する速度です。</BrewingSpeed.description>
@@ -25,17 +22,17 @@
     <ButcheryFleshSpeed.label>食肉加工速度</ButcheryFleshSpeed.label>
     <ButcheryFleshSpeed.description>食肉加工する速度です。</ButcheryFleshSpeed.description>
 
-    <ButcheryFleshEfficiency.label>食肉加工熟練度</ButcheryFleshEfficiency.label>
-    <ButcheryFleshEfficiency.description>原材料に対して、加工後にできる量の掛け率です。</ButcheryFleshEfficiency.description>
+    <ButcheryFleshEfficiency.label>食肉加工・効率</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>食肉加工時の、加工後にできる食肉量への倍率です。</ButcheryFleshEfficiency.description>
 
     <ButcheryMechanoidSpeed.label>機械生命の解体速度</ButcheryMechanoidSpeed.label>
     <ButcheryMechanoidSpeed.description>機械生命を解体する速度です。</ButcheryMechanoidSpeed.description>
 
-    <ButcheryMechanoidEfficiency.label>機械生命の解体熟練度</ButcheryMechanoidEfficiency.label>
-    <ButcheryMechanoidEfficiency.description>原材料に対して加工後にできる量の掛け率です。</ButcheryMechanoidEfficiency.description>
+    <ButcheryMechanoidEfficiency.label>機械生命の解体・効率</ButcheryMechanoidEfficiency.label>
+    <ButcheryMechanoidEfficiency.description>機械生命の解体時の、解体後にできる物質量への倍率です。</ButcheryMechanoidEfficiency.description>
 
     <StonecuttingSpeed.label>石材加工速度</StonecuttingSpeed.label>
-    <StonecuttingSpeed.description>石材加工する速度です。</StonecuttingSpeed.description>
+    <StonecuttingSpeed.description>ストーンカットする速度です。</StonecuttingSpeed.description>
 
 
     <SmeltingSpeed.label>精錬速度</SmeltingSpeed.label>

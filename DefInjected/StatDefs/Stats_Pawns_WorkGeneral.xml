@@ -8,13 +8,13 @@
     <MiningSpeed.description>岩を掘削する時の掘削速度への倍率です。</MiningSpeed.description>
 
 	<SmoothingSpeed.label>早足での移動速度</SmoothingSpeed.label>
-	<SmoothingSpeed.description>平らで突起物のない床を早足で移動する時の倍率です。</SmoothingSpeed.description>
+	<SmoothingSpeed.description>平らで突起物のない床を、移動速度への倍率です。</SmoothingSpeed.description>
 
     <ResearchSpeed.label>研究速度</ResearchSpeed.label>
     <ResearchSpeed.description>研究速度です。</ResearchSpeed.description>
 
     <ConstructionSpeed.label>建造速度</ConstructionSpeed.label>
-    <ConstructionSpeed.description>構造物を作ったり修理する速度です。</ConstructionSpeed.description>
+    <ConstructionSpeed.description>構造物を作ったり、修理したりする速度です。</ConstructionSpeed.description>
 
     <PlantWorkSpeed.label>栽培速度</PlantWorkSpeed.label>
     <PlantWorkSpeed.description>種子を蒔いたり収穫する速度です。</PlantWorkSpeed.description>
@@ -23,7 +23,7 @@
     <HarvestFailChance.description>この人物が、収穫できずに、予期せず失なってしまう確率です。</HarvestFailChance.description>
 
 	<ConstructFailChance.label>建築失敗率</ConstructFailChance.label>
-	<ConstructFailChance.description>何でも、物を作ろうとしたときに、失敗して時間と資材を無駄にしてしまう確率です。</ConstructFailChance.description>
+	<ConstructFailChance.description>なにか物を作ろうとしたときに、失敗して時間と資材を無駄にしてしまう確率です。</ConstructFailChance.description>
 
 	<FixBrokenDownBuildingFailChance.label>修理失敗率</FixBrokenDownBuildingFailChance.label>
 	<FixBrokenDownBuildingFailChance.description>壊れた建物の修理に失敗する確率です。</FixBrokenDownBuildingFailChance.description>

@@ -54,19 +54,19 @@
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[2].label</path>
-        <trans>重度</trans>
+        <trans>中度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[3].label</path>
-        <trans>重度</trans>
+        <trans>中度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[4].label</path>
-        <trans>極度</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>HeartArteryBlockage.stages[5].label</path>
-        <trans>極度</trans>
+        <trans>重度</trans>
 	</rep>
 
     <Carcinoma.label>悪性腫瘍</Carcinoma.label>
@@ -80,19 +80,19 @@
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[2].label</path>
-        <trans>重度</trans>
+        <trans>中度</trans>
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[3].label</path>
-        <trans>重度</trans>
+        <trans>中度</trans>
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[4].label</path>
-        <trans>極度</trans>
+        <trans>重度</trans>
 	</rep>
 	<rep>
 		<path>Carcinoma.stages[5].label</path>
-        <trans>極度</trans>
+        <trans>重度</trans>
 	</rep>
 
 </LanguageData>

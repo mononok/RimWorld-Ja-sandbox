@@ -2,29 +2,30 @@
 <LanguageData>
 
 	<MaxHitPoints.label>最大HP</MaxHitPoints.label>
-	<MaxHitPoints.description>破壊するのに必要なダメージ量を表しています。</MaxHitPoints.description>
+	<MaxHitPoints.description>破壊するのに必要なダメージ量です。</MaxHitPoints.description>
 
     <MarketValue.label>金額</MarketValue.label>
     <MarketValue.description>市場価格を表します。実際の値段は、売買するお互いの関係性や交渉スキルでさらに変動します。</MarketValue.description>
 
 	<SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
-	<SellPriceFactor.description>売り値にかけられる倍率をです。</SellPriceFactor.description>
+	<SellPriceFactor.description>売ろうするアイテムの、売り値に掛けられる倍率です。</SellPriceFactor.description>
 
     <Flammability.label>燃えやすさ</Flammability.label>
     <Flammability.description>火の点きやすさ、どのくらい激しく燃えるかを表します。</Flammability.description>
 
 	<WorkToMake.label>製作費</WorkToMake.label>
-	<WorkToMake.description>作成するのに必要な、物資やツールの総量を表します。</WorkToMake.description>
+	<WorkToMake.description>これを作成するときに、一旦集められる、素材やツールの総量です。</WorkToMake.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
-	<DeteriorationRate.description>屋外に放置された時、とくに風雨が当たっているときの、劣化しやすさを表しています。</DeteriorationRate.description>
+	<DeteriorationRate.description>屋外に放置された時、とりわけ風雨が当たっている時、アイテムの劣化しやすさを表しています。</DeteriorationRate.description>
 
     <Beauty.label>美しさ</Beauty.label>
     <Beauty.description>それを見た周りの人の気分を豊かにする、大きさを表します。</Beauty.description>
 
     <Cleanliness.label>清潔さ</Cleanliness.label>
     <Cleanliness.description>清潔さを表します。</Cleanliness.description>
+
     <Comfort.label>快適さ</Comfort.label>
-	<Comfort.description>どのくらい 快適な暮らしにするかを表します。</Comfort.description>
+	<Comfort.description>座ったり、横たわった時に、オブジェクトから得られる快適さを表します。</Comfort.description>
 
 </LanguageData>

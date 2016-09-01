@@ -3,11 +3,11 @@
 
   <rep>
     <path>KnowGuestExecuted.stages[0].label</path>
-    <trans>誰かが処刑された</trans>
+    <trans>誰かが安楽死させられた</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[0].description</path>
-    <trans>犯罪者かゲストの誰かが処刑された。</trans>
+    <trans>犯罪者かゲストの誰かが安楽死させられた。それは、慈悲深い行為だが、それでもなお悲しい。</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].label</path>
@@ -15,11 +15,11 @@
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[1].description</path>
-    <trans>犯罪者かゲストの誰かが平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
+    <trans>犯罪者かゲストの誰かが平然と殺された。それは、ちょっと良くない気がする。</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].label</path>
-    <trans>臓器を奪って殺した</trans>
+    <trans>誰かが臓器目当てで殺された</trans>
   </rep>
   <rep>
     <path>KnowGuestExecuted.stages[2].description</path>
@@ -28,11 +28,11 @@
 
   <rep>
     <path>KnowColonistExecuted.stages[0].label</path>
-    <trans>入植者が処刑された</trans>
+    <trans>入植者が安楽死させられた</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[0].description</path>
-    <trans>入植者が処刑された。</trans>
+    <trans>入植者が安楽死させられた。それは、慈悲深い行為だが、それでもなお悲しい。</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].label</path>
@@ -40,15 +40,15 @@
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[1].description</path>
-    <trans>入植者が平然と殺された。このコロニーは日々、より悪い方へと向かっている気がする。</trans>
+    <trans>入植者が平然と殺された。それは、ちょっと良くない気がする。</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].label</path>
-    <trans>臓器を奪って殺した</trans>
+    <trans>入植者が臓器目当てで殺された</trans>
   </rep>
   <rep>
     <path>KnowColonistExecuted.stages[2].description</path>
-    <trans>入植者が死んだ、なぜならコロニーの誰かが、彼の身体から臓器を取り出したから。おぞましい。</trans>
+    <trans>入植者が死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したからだ。おぞましい。</trans>
   </rep>
 
 	<rep>
@@ -62,7 +62,7 @@
 
 	<rep>
 		<path>KnowColonistDied.stages[0].label</path>
-		<trans>仲間が死んだ</trans>
+		<trans>入植者が死んだ</trans>
 	</rep>
 	<rep>
 		<path>KnowColonistDied.stages[0].description</path>
@@ -86,7 +86,7 @@
 	</rep>
 	<rep>
 		<path>PawnWithGoodOpinionDied.stages[0].description</path>
-		<trans>とてもいい奴だったのに、この世は闇ばかり。</trans>
+		<trans>とてもいい奴だったのに、この世は日に日に闇に包まれていく。</trans>
 	</rep>
 
     <rep>

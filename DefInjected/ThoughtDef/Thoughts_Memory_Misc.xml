@@ -39,7 +39,7 @@
 
   <rep>
     <path>SleptOutside.stages[0].label</path>
-    <trans>野宿</trans>
+    <trans>野宿させられた</trans>
   </rep>
   <rep>
     <path>SleptOutside.stages[0].description</path>
@@ -75,7 +75,7 @@
 
   <rep>
     <path>KnowPrisonerSold.stages[0].label</path>
-    <trans>人身売買</trans>
+    <trans>奴隷売買</trans>
   </rep>
   <rep>
     <path>KnowPrisonerSold.stages[0].description</path>
@@ -93,7 +93,7 @@
 
   <rep>
     <path>KnowColonistOrganHarvested.stages[0].label</path>
-    <trans>誰かの臓器を摘出した</trans>
+    <trans>入植者の臓器を摘出した</trans>
   </rep>
   <rep>
     <path>KnowColonistOrganHarvested.stages[0].description</path>
@@ -158,20 +158,20 @@
 
   <rep>
     <path>ButcheredHumanlikeCorpse.stages[0].label</path>
-    <trans>人肉を捌いた</trans>
+    <trans>私は人肉を捌いた</trans>
   </rep>
   <rep>
     <path>ButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>私は人肉を動物のように切り捌いた。</trans>
+    <trans>私は誰かの人肉を動物のように切り捌いた。</trans>
   </rep>
 
   <rep>
     <path>KnowButcheredHumanlikeCorpse.stages[0].label</path>
-    <trans>人肉を捌いた</trans>
+    <trans>私らは人肉を捌いた</trans>
   </rep>
   <rep>
     <path>KnowButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>私たちは人肉を動物のように切り捌いた。</trans>
+    <trans>私らは誰かの人肉を動物のように切り捌いた。</trans>
   </rep>
 
 
@@ -183,7 +183,7 @@
   </rep>
   <rep>
     <path>ObservedLayingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている死体を見た。</trans>
+    <trans>私は地面の上に転がっている死体を見て、不安になった。</trans>
   </rep>
 
   <rep>
@@ -192,7 +192,7 @@
   </rep>
   <rep>
     <path>ObservedLayingRottingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている腐乱死体を見た、気分が悪くなった。</trans>
+    <trans>私は地面の上に転がっている腐乱死体を見て、気分が悪くなった。</trans>
   </rep>
 
   <rep>

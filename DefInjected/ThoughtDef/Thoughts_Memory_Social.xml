@@ -16,17 +16,17 @@
 
   <rep>
     <path>Slighted.stages[0].label</path>
-    <trans>ばかにした</trans>
+    <trans>ばかにされた</trans>
   </rep>
 
   <rep>
     <path>Insulted.stages[0].label</path>
-    <trans>侮辱した</trans>
+    <trans>侮辱された</trans>
   </rep>
 
   <rep>
     <path>InsultedMood.stages[0].label</path>
-    <trans>侮辱した</trans>
+    <trans>侮辱された</trans>
   </rep>
   <rep>
     <path>InsultedMood.stages[0].description</path>
@@ -66,43 +66,43 @@
 
   <rep>
     <path>RescuedMe.stages[0].label</path>
-    <trans>たすけて</trans>
+    <trans>たすけられた</trans>
   </rep>
 
   <rep>
     <path>RecruitedMe.stages[0].label</path>
-    <trans>スカウトして</trans>
+    <trans>スカウトされた</trans>
   </rep>
 
   <rep>
     <path>CrashedTogether.stages[0].label</path>
-    <trans>お互いに倒れた</trans>
+    <trans>一緒に寝た</trans>
   </rep>
 
   <rep>
     <path>SoldMyLovedOne.stages[0].label</path>
-    <trans>お気に入りを売られた</trans>
+    <trans>最愛の {0}が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyLovedOne.stages[0].labelSocial</path>
-    <trans>お気に入りを売られた</trans>
+    <trans>最愛の人が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyLovedOne.stages[0].description</path>
-    <trans>誰かが、私のお気に入りを、肉でも売るかのように、トレーダーに売ってしまった。</trans>
+    <trans>私の最愛の人を、肉でも売るかのように、トレーダーに売られてしまった。</trans>
   </rep>
 
   <rep>
     <path>SoldMyBondedAnimal.stages[0].label</path>
-    <trans>なついている動物が売られた</trans>
+    <trans>絆で結ばれた {0}が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyBondedAnimal.stages[0].labelSocial</path>
-    <trans>なついている動物が売られた</trans>
+    <trans>絆で結ばれている動物が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyBondedAnimal.stages[0].description</path>
-    <trans>私と、特別な絆で結ばれている動物が、トレーダーに売られてしまった。</trans>
+    <trans>私と特別な絆で結ばれている動物が、トレーダーに売られてしまった!。</trans>
   </rep>
 
   <!-- Romance -->
@@ -142,31 +142,31 @@
 
   <rep>
     <path>CheatedOnMe.stages[0].label</path>
-    <trans>浮気</trans>
+    <trans>浮気された</trans>
   </rep>
 
   <rep>
     <path>CheatedOnMeMood.stages[0].label</path>
-    <trans>{0} にだまされた</trans>
+    <trans>{0} に裏切られた</trans>
   </rep>
   <rep>
     <path>CheatedOnMeMood.stages[0].description</path>
-    <trans>どうして私を裏切るの!</trans>
+    <trans>どうして私に隠れて浮気をするの!</trans>
   </rep>
 
 
   <rep>
     <path>DivorcedMe.stages[0].label</path>
-    <trans>離婚した</trans>
+    <trans>離婚された</trans>
   </rep>
 
   <rep>
     <path>DivorcedMeMood.stages[0].label</path>
-    <trans>{0}に離婚を突きつけられた</trans>
+    <trans>{0}に 離婚を突きつけられた</trans>
   </rep>
   <rep>
     <path>DivorcedMeMood.stages[0].description</path>
-    <trans>私達は献身的にやってきたのに、私達はそれぞれに引き裂かれた。</trans>
+    <trans>私達は婚姻の約束までしたのに、彼らはバラバラに引き裂いた。</trans>
   </rep>
 
   <rep>
@@ -180,7 +180,7 @@
   </rep>
   <rep>
     <path>RejectedMyProposalMood.stages[0].description</path>
-    <trans>私は、私達が本気で結婚するものだと思ってたのに。でも私は、本当に拒否された。</trans>
+    <trans>私は、私達が本気で結婚するものだと思ってたのに。でも私は、今、拒否された。</trans>
   </rep>
 
 
@@ -194,8 +194,12 @@
     <trans>ハネムーン</trans>
   </rep>
   <rep>
+    <path>HoneymoonPhase.stages[0].labelSocial</path>
+    <trans>ハネムーン</trans>
+  </rep>
+  <rep>
     <path>HoneymoonPhase.stages[0].description</path>
-    <trans>お互いに、素晴らしい新しい生活が始まる!</trans>
+    <trans>二人一緒の素晴らしい新しい生活が始まる!</trans>
   </rep>
 
     <rep>

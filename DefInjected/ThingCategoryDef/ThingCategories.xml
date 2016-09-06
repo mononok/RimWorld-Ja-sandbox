@@ -17,25 +17,35 @@
     <EggsUnfertilized.label>卵(無精卵)</EggsUnfertilized.label>
     <EggsFertilized.label>卵(有精卵)</EggsFertilized.label>
 
+    <!-- Manufactured -->
+
     <Manufactured.label>加工品</Manufactured.label>
 
     <Textiles.label>織物</Textiles.label>
 
-    <Leathers.label>皮</Leathers.label>
+    <Leathers.label>革</Leathers.label>
 
     <Medicine.label>薬</Medicine.label>
 
-  <Drugs.label>ドラッグ</Drugs.label>
+    <Drugs.label>ドラッグ</Drugs.label>
+
+    <!-- Raw resources -->
 
     <ResourcesRaw.label>原材料</ResourcesRaw.label>
 
-  <PlantMatter.label>植物原料</PlantMatter.label>
+    <PlantMatter.label>植物原料</PlantMatter.label>
 
     <StoneBlocks.label>石材</StoneBlocks.label>
+
+    <!--==================== Non-resource readout categories =====================-->
+
+    <!-- Items -->
 
     <Items.label>物品</Items.label>
 
     <Art.label>芸術</Art.label>
+
+    <Furniture.label>家具</Furniture.label>
 
     <Unfinished.label>未完成品</Unfinished.label>
 
@@ -45,6 +55,8 @@
     <BodyPartsNatural.label>生体</BodyPartsNatural.label>
     <BodyPartsArtificial.label>人工</BodyPartsArtificial.label>
 
+    <!-- Weapons -->
+
     <Weapons.label>武器</Weapons.label>
 
     <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
@@ -52,6 +64,8 @@
     <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
 
     <Grenades.label>投擲武器</Grenades.label>
+
+    <!-- Apparel -->
 
     <Apparel.label>衣服</Apparel.label>
 
@@ -61,9 +75,15 @@
 
     <StoneChunks.label>岩塊</StoneChunks.label>
 
+    <!-- 死骸 -->
+
     <Corpses.label>死骸</Corpses.label>
 
+    <CorpsesHumanlike.label>ヒト型の死骸</CorpsesHumanlike.label>
+
     <CorpsesAnimal.label>動物の死骸</CorpsesAnimal.label>
+
+    <CorpsesInsect.label>虫の死骸</CorpsesInsect.label>
 
     <CorpsesMechanoid.label>機械の塊</CorpsesMechanoid.label>
 

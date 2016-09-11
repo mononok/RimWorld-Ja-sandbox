@@ -3,15 +3,15 @@
 
 	<MakeStoneBlocks.label>石を切断する</MakeStoneBlocks.label>
     <MakeStoneBlocks.description>岩石を使いやすい大きさに切ります。</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>加工中</MakeStoneBlocks.jobString>
+    <MakeStoneBlocks.jobString>石を加工中</MakeStoneBlocks.jobString>
 
 	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
     <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、くず鉄から使える金属を分離します。</ExtractMetalFromSlag.description>
-    <ExtractMetalFromSlag.jobString>精錬中</ExtractMetalFromSlag.jobString>
+    <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
 	<SmeltWeapon.description>高温と強力な電磁石を使い、武器から使える金属を分離します。</SmeltWeapon.description>
-	<SmeltWeapon.jobString>溶解中</SmeltWeapon.jobString>
+	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
 	<MakeArtilleryShell.label>砲弾を作成する</MakeArtilleryShell.label>
 	<MakeArtilleryShell.description>砲弾を作成します。</MakeArtilleryShell.description>

@@ -3,5 +3,7 @@
 
 	<SmokeleafJoint.label>ジョイント</SmokeleafJoint.label>
 	<SmokeleafJoint.description>スモークリーフの葉を小さく巻いてタバコのように吸います。ムードを向上させますが、食欲増進、集中力の減退、動作緩慢も起きます。スモークリーフは常用性があります。作業場があれば作成できます。</SmokeleafJoint.description>
+	<SmokeleafJoint.ingestible.ingestCommandString>{0}を吸う</SmokeleafJoint.ingestible.ingestCommandString>
+	<SmokeleafJoint.ingestible.ingestReportString>{0}を吸っている。</SmokeleafJoint.ingestible.ingestReportString>
 
 </LanguageData>

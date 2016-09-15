@@ -2,15 +2,60 @@
 <LanguageData>
 
     <Impressiveness.label>見栄え</Impressiveness.label>
-    <Wealth.label>富</Wealth.label>
-    <Space.label>広さ</Space.label>
-    <Beauty.label>美しさ</Beauty.label>
-    <Cleanliness.label>清潔さ</Cleanliness.label>
-    <InfectionChanceFactor.label>感染率</InfectionChanceFactor.label>
-	<SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
-    <ResearchSpeedFactor.label>研究速度倍率</ResearchSpeedFactor.label>
-	<FoodPoisonChanceFactor.label>食中毒発生率</FoodPoisonChanceFactor.label>
+    <Impressiveness.scoreStages.0.label>極度に悪い</Impressiveness.scoreStages.0.label>
+    <Impressiveness.scoreStages.1.label>不快</Impressiveness.scoreStages.1.label>
+    <Impressiveness.scoreStages.2.label>味気ない</Impressiveness.scoreStages.2.label>
+    <Impressiveness.scoreStages.3.label>平凡</Impressiveness.scoreStages.3.label>
+    <Impressiveness.scoreStages.4.label>興味深い</Impressiveness.scoreStages.4.label>
+    <Impressiveness.scoreStages.5.label>少し印象的</Impressiveness.scoreStages.5.label>
+    <Impressiveness.scoreStages.6.label>印象的</Impressiveness.scoreStages.6.label>
+    <Impressiveness.scoreStages.7.label>とても印象的</Impressiveness.scoreStages.7.label>
+    <Impressiveness.scoreStages.8.label>非常に印象的</Impressiveness.scoreStages.8.label>
+    <Impressiveness.scoreStages.9.label>信じられないほど印象的</Impressiveness.scoreStages.9.label>
+    <Impressiveness.scoreStages.10.label>驚くほど素晴らしい</Impressiveness.scoreStages.10.label>
+    <Impressiveness.scoreStages.11.label>世界の驚異</Impressiveness.scoreStages.11.label>
 
+    <Wealth.label>富</Wealth.label>
+    <Wealth.scoreStages.0.label>貧しい</Wealth.scoreStages.0.label>
+    <Wealth.scoreStages.1.label>やや貧しい</Wealth.scoreStages.1.label>
+    <Wealth.scoreStages.2.label>良くも悪くもない</Wealth.scoreStages.2.label>
+    <Wealth.scoreStages.3.label>やや裕福</Wealth.scoreStages.3.label>
+    <Wealth.scoreStages.4.label>裕福</Wealth.scoreStages.4.label>
+    <Wealth.scoreStages.5.label>贅沢</Wealth.scoreStages.5.label>
+    <Wealth.scoreStages.6.label>とても贅沢</Wealth.scoreStages.6.label>
+    <Wealth.scoreStages.7.label>非常に贅沢</Wealth.scoreStages.7.label>
+    <Wealth.scoreStages.8.label>信じられないほど贅沢</Wealth.scoreStages.8.label>
+
+    <Space.label>広さ</Space.label>
+    <Space.scoreStages.0.label>窮屈</Space.scoreStages.0.label>
+    <Space.scoreStages.1.label>やや窮屈</Space.scoreStages.1.label>
+    <Space.scoreStages.2.label>平均的な広さ</Space.scoreStages.2.label>
+    <Space.scoreStages.3.label>やや広々</Space.scoreStages.3.label>
+    <Space.scoreStages.4.label>広々</Space.scoreStages.4.label>
+    <Space.scoreStages.5.label>とても広々</Space.scoreStages.5.label>
+    <Space.scoreStages.6.label>非常に広々</Space.scoreStages.6.label>
+
+    <Beauty.label>美しさ</Beauty.label>
+    <Beauty.scoreStages.0.label>ひどく醜い</Beauty.scoreStages.0.label>
+    <Beauty.scoreStages.1.label>醜い</Beauty.scoreStages.1.label>
+    <Beauty.scoreStages.2.label>並</Beauty.scoreStages.2.label>
+    <Beauty.scoreStages.3.label>やや魅力的</Beauty.scoreStages.3.label>
+    <Beauty.scoreStages.4.label>美しい</Beauty.scoreStages.4.label>
+    <Beauty.scoreStages.5.label>とても美しい</Beauty.scoreStages.5.label>
+    <Beauty.scoreStages.6.label>非常に美しい</Beauty.scoreStages.6.label>
+    <Beauty.scoreStages.7.label>信じられないほど美しい</Beauty.scoreStages.7.label>
+
+    <Cleanliness.label>清潔さ</Cleanliness.label>
+    <Cleanliness.scoreStages.0.label>とても汚い</Cleanliness.scoreStages.0.label>
+    <Cleanliness.scoreStages.1.label>汚い</Cleanliness.scoreStages.1.label>
+    <Cleanliness.scoreStages.2.label>少し汚い</Cleanliness.scoreStages.2.label>
+    <Cleanliness.scoreStages.3.label>清潔</Cleanliness.scoreStages.3.label>
+    <Cleanliness.scoreStages.4.label>無菌</Cleanliness.scoreStages.4.label>
+
+    <InfectionChanceFactor.label>感染率</InfectionChanceFactor.label>
+    <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
+    <ResearchSpeedFactor.label>研究速度倍率</ResearchSpeedFactor.label>
+    <FoodPoisonChanceFactor.label>食中毒発生率</FoodPoisonChanceFactor.label>
     <GraveVisitingJoyGainFactor.label>やすらぎ効果倍率</GraveVisitingJoyGainFactor.label>
 
 </LanguageData>

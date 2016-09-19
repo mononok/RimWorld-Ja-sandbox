@@ -32,28 +32,28 @@
 	<!--> DrugDesire <-->
 	<rep>
 		<path>DrugDesire.degreeDatas[0].label</path>
-		<trans>アルコール中毒者</trans>
+		<trans>ドラッグ中毒者</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAMEは酒の虜です。 HECAPはありったけの酒を呑み どんちゃん騒ぎをする傾向が 強いでしょう。</trans>
+		<trans>NAMEはドラッグの虜です。HECAPはドラッグを大量に消費し、時には進んで過剰に摂取しようとするでしょう。HECAPはドラッグ不使用の指示を無視します。</trans>
 	</rep>
 
 	<rep>
 		<path>DrugDesire.degreeDatas[1].label</path>
-		<trans>のんべえ</trans>
+		<trans>ドラッグ常用者</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[1].description</path>
-		<trans>NAMEは無類の酒好きです。HECAPは、ありったけの酒を呑み、どんちゃん騒ぎをする傾向が強いでしょう。</trans>
+		<trans>NAMEは無類のドラッグ好きです。HECAPはドラッグを多く消費し、時には進んで摂取しようとするでしょう。HECAPはドラッグ不使用の指示を無視します。</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].label</path>
-		<trans>禁酒主義</trans>
+		<trans>ドラッグ嫌い</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].description</path>
-		<trans>NAMEは酒のみが大嫌いで、アルコールや薬物を一切やりません。</trans>
+		<trans>NAMEはドラッグから快楽を得る考えを嫌っており、アルコールやドラッグは一切やりません。</trans>
 	</rep>
 
 

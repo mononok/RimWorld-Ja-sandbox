@@ -3,7 +3,7 @@
     <!-- TODO: changing filename, RulePacks_Art_ImaesTaleless.xml -->
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[0]</path>
-        <trans>image->[outlander]が、[outlander]達に 取り囲まれている。</trans>
+        <trans>image->[outlander]が [outlander]達に 取り囲まれて いる。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[1]</path>
@@ -11,7 +11,7 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[2]</path>
-        <trans>image->[outlander]は[weapon]を掴んで、[subject_desc]。</trans>
+        <trans>image->[outlander]は [weapon]を 掴んで、[subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[3]</path>
@@ -23,27 +23,27 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[5]</path>
-        <trans>image->[outlander]は、[vegetable]を食べている。</trans>
+        <trans>image->[outlander]は [vegetable]を 食べている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[6]</path>
-        <trans>image->[quantity_adjphrase]の[outlander]達と[outlander]達は、たがいに[vegetable]を食べている。</trans>
+        <trans>image->[quantity_adjphrase]の [outlander]達と [outlander]達は たがいに [vegetable]を 食べている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[7]</path>
-        <trans>image->空っぽの[apparel]が、[subject_desc]。</trans>
+        <trans>image->空っぽの[apparel]が [subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[8]</path>
-        <trans>image->a [adjective] [terrainfeature]</trans>
+        <trans>image->[adjective] [terrainfeature]</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[9]</path>
-        <trans>image->[animal]達が、[game]をプレイしている。</trans>
+        <trans>image->[animal]達が [game]を プレイしている。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[10]</path>
-        <trans>image->[apparel]を着た [animal]が、[subject_desc]。</trans>
+        <trans>image->[apparel]を着た [animal]が [subject_desc]。</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[11]</path>
@@ -51,7 +51,7 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[12]</path>
-        <trans>image->[concept]の抽象的な表現</trans>
+        <trans>image->[concept]の 抽象的な表現</trans>
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[13]</path>
@@ -116,6 +116,6 @@
     </rep>
     <rep>
         <path>TalelessImages.rulePack.rulesStrings[28]</path>
-        <trans>subject_desc->[adjective] 見ている</trans>
+        <trans>subject_desc->[adjective] ように見える</trans>
     </rep>
 </LanguageData>

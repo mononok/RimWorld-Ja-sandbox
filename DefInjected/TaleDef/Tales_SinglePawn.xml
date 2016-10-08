@@ -4,23 +4,23 @@
     <!-- LandedInPod -->
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]の着陸船で着陸する</trans>
+		<trans>tale_noun->[pawn_nameShortDef]が 着陸船で 着陸する</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 着陸しようとしている。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 着陸しようと している。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 地上に降り立たとうとしている。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 地上に 降り立たとうと している。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルごと 地表に叩きつけられようとしている。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルごと 地表に 叩き つけられようと している。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[4]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルの中で 目を覚まそうとしている。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルの 中で 目を 覚まそうと している。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[5]</path>
@@ -28,51 +28,51 @@
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[6]</path>
-		<trans>circumstance_phrase->いきなり途方もない力を 受けつつある</trans>
+		<trans>circumstance_phrase->いきなり 途方もない力を 受けつつあり</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[7]</path>
-		<trans>circumstance_phrase->高速度で吹き出した  チリや隕石群に 襲われてしまい</trans>
+		<trans>circumstance_phrase->高速度で 吹き出した チリや 隕石群に 襲われてしまい</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[8]</path>
-		<trans>circumstance_phrase->レトロなロケットで 攻撃を受けているなか</trans>
+		<trans>circumstance_phrase->レトロな ミサイルで 攻撃を 受けているなか</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[9]</path>
-		<trans>circumstance_phrase->精密着陸操作を 行っている最中に</trans>
+		<trans>circumstance_phrase->精密着陸操作を 行っている 最中に</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[10]</path>
-		<trans>desc_sentence->[pawn_pronoun]は、 姿勢制御だけ一点に集中している。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 姿勢制御だけ 一点に 集中している。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[11]</path>
-		<trans>desc_sentence->[pawn_pronoun]は、 恐怖のあまり両目を閉じている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 恐怖のあまり 両目を 閉じている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[12]</path>
-		<trans>desc_sentence->[pawn_pronoun]は気を失い、 舌がだらりと口からはみ出し、 よだれをポタポタと垂らしている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は 気を失い、 舌が だらりと 口から はみ出し、 よだれを ポタポタと 垂らしている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[13]</path>
-		<trans>desc_sentence->[pawn_pronoun]は 気味の悪い笑みを浮かべている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は うす気味の 悪い 笑みを 浮かべている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[14]</path>
-		<trans>desc_sentence->[pawn_pronoun]には、 もう何も手の施しようが無い。</trans>
+		<trans>desc_sentence->[pawn_pronoun]には、 もう 何も 手の 施しようが 無い。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[15]</path>
-		<trans>desc_sentence->[pawn_pronoun]は、 自分ではどうすることもできないまま、 目を閉じてシートに固定されている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 自分では どうすることも できないまま、 目を 閉じて シートに 固定されている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[16]</path>
-		<trans>desc_sentence->摩擦熱でおきた炎が 脱出ポッドの後ろから 巻き起こる。</trans>
+		<trans>desc_sentence->摩擦熱で おきた炎が 脱出ポッドの 後ろから 巻き起こる。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[17]</path>
-		<trans>desc_sentence->近くにいた [animal]は、 空を見上げて驚いている。</trans>
+		<trans>desc_sentence->近くにいた [animal]は、 空を 見上げて 驚いている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[18]</path>

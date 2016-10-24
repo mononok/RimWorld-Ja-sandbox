@@ -155,7 +155,7 @@
 <GrowingTime>成長時間</GrowingTime>
   <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
-    <MinGrowingSkillToSow>最低必要な「栽培」スキル値</MinGrowingSkillToSow>
+    <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
 <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
   <SoilFertilitySensitivityGrowthRate>肥沃度に対する感度(成長率)</SoilFertilitySensitivityGrowthRate>
   <SoilFertilitySensitivityPlantChance>肥沃度に対する感度(成功率)</SoilFertilitySensitivityPlantChance>
@@ -261,6 +261,6 @@
   <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
   <!-- Growing -->
-  <NoGrowerCanPlant>{0}は、栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
 
 </LanguageData>

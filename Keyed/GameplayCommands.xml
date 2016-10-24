@@ -69,8 +69,8 @@
   <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
   <CommandPasteZoneSettingsDesc>既にコピーしてあるゾーン設定を、このゾーンの設定にペーストします。</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>伐採の許可</CommandAllowSow>
-  <CommandAllowSowDesc>不許可なら、入植者はこのエリアの植物を伐採しなくなります。作物の収穫は従来通り行われます</CommandAllowSowDesc>
+  <CommandAllowSow>種蒔きの許可</CommandAllowSow>
+  <CommandAllowSowDesc>不許可なら、入植者はこのエリアに植物の種を蒔かなくなります。作物の収穫は従来通り行われます。</CommandAllowSowDesc>
 
 <!-- Artillery -->
 <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>

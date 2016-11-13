@@ -56,7 +56,7 @@
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[13]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef]は、[prisoner_possessive]巡り合わせにあきらめているよう。</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、[prisoner_possessive]運命に身を委ねているよう。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[14]</path>
@@ -72,7 +72,7 @@
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[17]</path>
-		<trans>desc_sentence->[capturer_nameShortDef]は、手錠で[prisoner_nameShortDef]を押さえつける。</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、手錠で[prisoner_nameShortDef]を拘留している。</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[18]</path>
@@ -84,7 +84,7 @@
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[20]</path>
-		<trans>desc_sentence->[capturer_nameShortDef]は、何か理由があるわけでもないのに[prisoner_nameShortDef]を蹴飛ばしている。</trans>
+		<trans>desc_sentence->[capturer_nameShortDef]は、理由もなしに[prisoner_nameShortDef]を蹴飛ばしている。</trans>
 	</rep>
 
 
@@ -127,7 +127,7 @@
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[9]</path>
-        <trans>desc_sentence->[joiner_nameShortDef]は、笑って、アイコンタクトをしている。</trans>
+        <trans>desc_sentence->[joiner_nameShortDef]は、微笑みを浮かべてアイコンタクトをしている。</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[10]</path>
@@ -158,7 +158,7 @@
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[4]</path>
-        <trans>circumstance_phrase->[prey_nameShortDef]が気を緩めて隙に</trans>
+        <trans>circumstance_phrase->[prey_nameShortDef]が気を緩めた隙に</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[5]</path>
@@ -170,7 +170,7 @@
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[7]</path>
-        <trans>desc_sentence->[prey_nameShortDef]は、完全に忘れたかのようにみえる。</trans>
+        <trans>desc_sentence->[prey_nameShortDef]は、何が起きたのかまったく覚えていない。</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[8]</path>
@@ -221,7 +221,7 @@
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[9]</path>
-		<trans>desc_sentence->[surgeon_nameShortDef]は、信じられないほど、やるべき事に集中しているようにみえる。</trans>
+		<trans>desc_sentence->[surgeon_nameShortDef]は、信じられないぐらい、やるべき事に集中しているようにみえる。</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[10]</path>
@@ -229,7 +229,7 @@
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[11]</path>
-		<trans>desc_sentence->[patient_nameShortDef]は、首をふり、のたうちまわっている。</trans>
+		<trans>desc_sentence->[patient_nameShortDef]は、首をふり、のたうち回っている。</trans>
 	</rep>
 
     <!-- ExecutedPrisoner -->
@@ -268,7 +268,7 @@
 		<trans>circumstance_phrase->[prisoner_pronoun]は、痛みに身をよじりながら</trans>
 	</rep>
 
-    <rep>
+    <rep>v
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  7]</path>
 		<trans>circumstance_phrase->[prisoner_pronoun]は恐怖で叫んでいるなか</trans>
 	</rep>
@@ -290,7 +290,7 @@
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->見るからに楽しそうに</trans>
+		<trans>circumstance_phrase->見るからに楽しそうな</trans>
 	</rep>
 
     <rep>
@@ -325,7 +325,7 @@
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->[warden_nameShortDef]は、過度に汗をかいている。</trans>
+		<trans>desc_sentence->[warden_nameShortDef]は、おびただしい汗をかいている。</trans>
 	</rep>
 
     <rep>
@@ -340,7 +340,7 @@
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[prisoner_nameShortDef]は、首をふり、のたうちまわっている。</trans>
+		<trans>desc_sentence->[prisoner_nameShortDef]は、首をふり、のたうち回っている。</trans>
 	</rep>
 
     <rep>
@@ -362,7 +362,7 @@
     <!-- KidnappedColonist -->
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[victim_nameShortDef]が連れ去られる</trans>
+		<trans>tale_noun->[victim_nameShortDef]の拉致</trans>
 	</rep>
 
     <rep>
@@ -494,12 +494,12 @@
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  9]</path>
-		<trans>desc_sentence->[animal_nameShortDef]は恋の美酒に酔いしれて眠そうにみえる。</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、恋の美酒に酔いしれて、眠たそう。</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[ 10]</path>
-		<trans>desc_sentence->[animal_nameShortDef]は、暗示の効果が現れてきたように見える。</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、暗示の効果が現れてくる。</trans>
 	</rep>
 
     <rep>
@@ -606,7 +606,7 @@
 
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->[side_position]の A [outlander] watches silently .</trans>
+		<trans>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</trans>
 	</rep>
 
     <rep>
@@ -809,7 +809,7 @@
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 14]</path>
-		<trans>desc_sentence->[human_nameShortDef]、喜びを表にだしている。</trans>
+		<trans>desc_sentence->[human_nameShortDef]は、喜びを表にだしている。</trans>
 	</rep>
 
     <rep>
@@ -874,7 +874,7 @@
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[ 27]</path>
-		<trans>desc_sentence->[animal_nameShortDef]は鱗に被われている。</trans>
+		<trans>desc_sentence->[animal_nameShortDef]は、鱗に被われている。</trans>
 	</rep>
 
     <rep>

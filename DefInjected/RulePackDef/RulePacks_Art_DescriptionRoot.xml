@@ -17,15 +17,15 @@
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  3]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」話に 触れている。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」の話について 触れている。</trans>
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  4]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」出来事に 関連している。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」の出来事に 関連している。</trans>
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  5]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]に起きた、 「[tale_noun]」話を 今に 伝えている。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]に起きた、 「[tale_noun]」の話を 今に 伝えている。</trans>
 	</rep>
 
 
@@ -63,7 +63,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  4]</path>
-		<trans>artextra_clause->そのイメージは [quantity_adjphrase]の [animal]で輪郭をなしている</trans>
+		<trans>artextra_clause->そのイメージは [quantity_adjphrase]の [animal]で縁取られている</trans>
 	</rep>
 
 	<rep>
@@ -88,7 +88,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  9]</path>
-		<trans>artextra_clause->そのシーンは[community]の中心で起きている</trans>
+		<trans>artextra_clause->そのシーンは[community]の中央で起きている</trans>
 	</rep>
 
 	<rep>
@@ -108,7 +108,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 13]</path>
-		<trans>artextra_clause->イメージの下半分は、[terrainfeature]によって著しく目立っている</trans>
+		<trans>artextra_clause->イメージの下半分は、[terrainfeature]によって占められている</trans>
 	</rep>
 
 	<rep>
@@ -118,22 +118,22 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 15]</path>
-		<trans>artextra_clause->[side_position]の[outlander]が[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]に[outlander]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 16]</path>
-		<trans>artextra_clause->[side_position]の[animal]が[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]に[animal]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 17]</path>
-		<trans>artextra_clause->[side_position]の死んだ[animal]が、[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]に死んだ[animal]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 18]</path>
-		<trans>artextra_clause->[side_position]の[concept]を擬人化して表現したものが、[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]の[concept]を擬人化して表現したものが[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
@@ -148,72 +148,72 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 21]</path>
-		<trans>artextra_clause->貴方が眼を細め見ると、[composition]イメージが [animal]の輪郭を浮き彫りにする</trans>
+		<trans>artextra_clause->貴方が眼を細め見ると、[composition]イメージで [animal]の輪郭を浮き彫りにしている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 22]</path>
-		<trans>style_clause->そのイメージは[concept]を明確に表現している</trans>
+		<trans>style_clause->このイメージは[concept]を表現しているように見える</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 23]</path>
-		<trans>style_clause->その作品には、[concept]のアイデアが吹き込まれ、[artstyle_adj]様式となっている</trans>
+		<trans>style_clause->この作品には、[concept]のアイデアが吹き込まれ、[artstyle_adj]様式となっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 24]</path>
-		<trans>style_clause->その作品は、[concept]のコンセプトを暗示している</trans>
+		<trans>style_clause->この作品は、[concept]のコンセプトを暗示している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 25]</path>
-		<trans>style_clause->この作品は、[artstyle_adj]様式で創作している</trans>
+		<trans>style_clause->この作品は、[artstyle_adj]様式で創作されている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 26]</path>
-		<trans>style_clause->シーンの中心にある[artstyle_adj]様式は、背景に表現された[artstyle_adj]様式と調和していない</trans>
+		<trans>style_clause->主要なシーンの[artstyle_adj]様式は、[artstyle_adj]様式の背景描写とぶつかり合う</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 27]</path>
-		<trans>style_clause->その作品は、[composition]構造と、[artstyle_adj]様式をもっている</trans>
+		<trans>style_clause->この作品は、[composition]構造と、[artstyle_adj]様式をもっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 28]</path>
-		<trans>style_clause->それは全体的に[composition]構造となっている</trans>
+		<trans>style_clause->全体的な構成は[composition]構造となっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 29]</path>
-		<trans>style_clause->スタイルは、[artstyle_adj]様式の要素を含んだ、[artstyle_adj]様式になる</trans>
+		<trans>style_clause->スタイルは、[artstyle_adj]様式の要素を含んだ、[artstyle_adj]様式となっている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 30]</path>
-		<trans>style_clause->このイメージには、全体的に[concept]と[concept]の両方が全く無い</trans>
+		<trans>style_clause->このイメージには[concept]と[concept]の両方が完全に欠けている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 31]</path>
-		<trans>style_clause->どういうわけか、このイメージには、[concept]と[concept]の両方が表現されている</trans>
+		<trans>style_clause->このイメージには、何らかの形で[concept]と[concept]の両方が表現されている</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 32]</path>
-		<trans>style_clause->[composition]イメージと、[artstyle_adj]様式とが、いまいち食い違っている</trans>
+		<trans>style_clause->イメージの[composition]構成と[artstyle_adj]様式とが対立していると言ってもいい</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 33]</path>
-		<trans>style_clause->この作品の色相は、[color]から[color]へ次第に変化している</trans>
+		<trans>style_clause->この作品の色相が、[color]から[color]へと次第に変化している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 34]</path>
-		<trans>style_clause->イメージの中の、ほとんどすべてのシェイプが、[composition]形状からできている</trans>
+		<trans>style_clause->イメージの中の、ほとんどすべての形状は、[composition]構造になっているように見える</trans>
 	</rep>
 
 	<rep>
@@ -283,32 +283,32 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 48]</path>
-		<trans>composition->三角な</trans>
+		<trans>composition->三角形</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 49]</path>
-		<trans>composition->長方形な</trans>
+		<trans>composition->長方形</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 50]</path>
-		<trans>composition->正方形な</trans>
+		<trans>composition->正方形</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 51]</path>
-		<trans>composition->不釣り合いな</trans>
+		<trans>composition->不安定な</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 52]</path>
-		<trans>composition->よく釣り合いのとれた</trans>
+		<trans>composition->よく釣り合いがとれた</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 53]</path>
-		<trans>composition->非常に活動的な</trans>
+		<trans>composition->非常にダイナミックな</trans>
 	</rep>
 
 	<rep>
@@ -318,7 +318,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 55]</path>
-		<trans>artstyle_adj->独創的ではなさそうな</trans>
+		<trans>artstyle_adj->独創的でない</trans>
 	</rep>
 
 	<rep>
@@ -328,12 +328,12 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 57]</path>
-		<trans>artstyle_adj->写実主義的に複雑な</trans>
+		<trans>artstyle_adj->複雑で写実主義な</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 58]</path>
-		<trans>artstyle_adj->シュールリアリズム的</trans>
+		<trans>artstyle_adj->シュールリアリズム的な</trans>
 	</rep>
 
 	<rep>
@@ -368,17 +368,17 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 65]</path>
-		<trans>artstyle_adj->幾何学模様派の</trans>
+		<trans>artstyle_adj->幾何学模様派</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 66]</path>
-		<trans>artstyle_adj->印象派の</trans>
+		<trans>artstyle_adj->印象派</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 67]</path>
-		<trans>artstyle_adj->表現派の</trans>
+		<trans>artstyle_adj->表現派</trans>
 	</rep>
 
 	<rep>
@@ -408,12 +408,12 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 73]</path>
-		<trans>artstyle_adj->反抗派の</trans>
+		<trans>artstyle_adj->フォーブ派</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 74]</path>
-		<trans>artstyle_adj->庶民派の</trans>
+		<trans>artstyle_adj->庶民派</trans>
 	</rep>
 
 	<rep>
@@ -463,7 +463,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 84]</path>
-		<trans>artstyle_adj->後期印象派の</trans>
+		<trans>artstyle_adj->後期印象派</trans>
 	</rep>
 
 	<rep>
@@ -503,7 +503,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 92]</path>
-		<trans>artstyle_adj->心象派の</trans>
+		<trans>artstyle_adj->心象派</trans>
 	</rep>
 
 	<rep>
@@ -538,7 +538,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 99]</path>
-		<trans>idle_verb_progressive->見えて</trans>
+		<trans>idle_verb_progressive->現れて</trans>
 	</rep>
 
 	<rep>
@@ -558,7 +558,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[103]</path>
-		<trans>side_position->横にずれた位置</trans>
+		<trans>side_position->偏った位置</trans>
 	</rep>
 
 	<rep>
@@ -588,7 +588,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[109]</path>
-		<trans>side_position->主題の足元</trans>
+		<trans>side_position->主題の下</trans>
 	</rep>
 
 	<rep>
@@ -598,7 +598,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[111]</path>
-		<trans>side_position->イメージの左側</trans>
+		<trans>side_position->主題の左側</trans>
 	</rep>
 
 	<rep>

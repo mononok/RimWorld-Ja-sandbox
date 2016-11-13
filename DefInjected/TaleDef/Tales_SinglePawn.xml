@@ -52,11 +52,11 @@
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[12]</path>
-		<trans>desc_sentence->[pawn_pronoun]は 気を失い、 舌が だらりと 口から はみ出し、 よだれを ポタポタと 垂らしている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、気を失い、 舌が だらりと 口から はみ出し、 よだれを ポタポタと 垂らしている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[13]</path>
-		<trans>desc_sentence->[pawn_pronoun]は うす気味の 悪い 笑みを 浮かべている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、うす気味の 悪い 笑みを 浮かべている。</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[14]</path>
@@ -123,7 +123,7 @@
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[8]</path>
-		<trans>desc_sentence->[pawn_pronoun]は まわりで何が起きているのか分からない。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 まわりで何が起きているのか分からない。</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[9]</path>
@@ -139,7 +139,7 @@
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[12]</path>
-		<trans>desc_sentence->[pawn_pronoun]は きまりが悪そうにしている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 きまりが悪そうにしている。</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[13]</path>
@@ -242,7 +242,7 @@
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[20]</path>
-		<trans>desc_sentence->[pawn_pronoun]は [pawn_objective]の まわりで何が起きているか まったく気がつかない。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 [pawn_objective]の まわりで何が起きているか まったく気がつかない。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[21]</path>
@@ -250,7 +250,7 @@
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[22]</path>
-		<trans>desc_sentence->[pawn_pronoun]は気を失いかけ、舌がだらりと口からはみ出し、よだれをポタポタと垂らしている。</trans>
+		<trans>desc_sentence->[pawn_pronoun]は、 気を失いかけ、舌がだらりと口からはみ出し、よだれをポタポタと垂らしている。</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[23]</path>
@@ -806,11 +806,11 @@
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 21]</path>
-		<trans>quality_sentence->[pawn_nameShortDef]は、[thing_quality]品質の作業をした。</trans>
+		<trans>quality_sentence->[pawn_nameShortDef]は、[thing_quality]品質の仕事をした。</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 22]</path>
-		<trans>title_sentence->[pawn_nameShortDef]は、[thing_labelDefinite]の底面にタイトルをこうつけた: [thing_title]</trans>
+		<trans>title_sentence->[pawn_nameShortDef]は、[thing_labelDefinite]の底面にタイトルを、このようにつけた: [thing_title]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[ 23]</path>

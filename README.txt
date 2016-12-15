@@ -1,8 +1,8 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:15.04
-Original: alpha15
-Description: 【検証済】alpha 15対応
+Ver:16.00
+Original: alpha16
+Description: 【未検証・作業中】alpha 16 においての翻訳関連のエラーを取り除いたバージョンです。変更箇所は未翻訳です。もうしばらくお待ちください。
 ToDo:
 Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、を削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 

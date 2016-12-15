@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAMEはドラッグの虜です。HECAPはドラッグを大量に消費し、時には進んで過剰に摂取しようとするでしょう。HECAPはドラッグ不使用の指示を無視します。</trans>
+		<trans>NAME has an intense fascination with chemical sources of enjoyment. HECAP will consume much more of them, and will sometimes go on hard drug binges. HECAP will ignore directives to not use pleasurable drugs.</trans>
 	</rep>
 
 	<rep>
@@ -45,7 +45,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[1].description</path>
-		<trans>NAMEは無類のドラッグ好きです。HECAPはドラッグを多く消費し、時には進んで摂取しようとするでしょう。HECAPはドラッグ不使用の指示を無視します。</trans>
+		<trans>NAME has an unusual interest in chemical sources of enjoyment. HECAP will consume more of them, and will sometimes go on social drug binges. HECAP will ignore directives to not use pleasurable drugs.</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].label</path>
@@ -53,7 +53,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].description</path>
-		<trans>NAMEはドラッグから快楽を得る考えを嫌っており、アルコールやドラッグは一切やりません。</trans>
+		<trans>NAME abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs.</trans>
 	</rep>
 
 
@@ -222,40 +222,6 @@
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
 		<trans>NAMEの心は、他人とは違う周波数に作用するようです。精神的現象がHECAPに影響を及ぼすことは全くありません。</trans>
-	</rep>
-
-	<!--> TemperaturePreference <-->
-	<rep>
-		<path>TemperaturePreference.degreeDatas[0].label</path>
-		<trans>寒冷地適応</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[0].description</path>
-		<trans>NAME's の身体から、とてつもない熱を発するおかげで、ゾクゾクするような寒さに悩まされる事はありませんが、高い気温は好きではありません。</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[1].label</path>
-		<trans>耐寒性の身体</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[1].description</path>
-		<trans>ほとんどの人よりは、低い気温に適応しています。</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[2].label</path>
-		<trans>耐熱性の身体</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[2].description</path>
-		<trans>ほとんどの人よりは、高い気温に適応しています。</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[3].label</path>
-		<trans>熱帯地適応</trans>
-	</rep>
-	<rep>
-		<path>TemperaturePreference.degreeDatas[3].description</path>
-		<trans>NAME's は高い気温を好み、 低い気温は好みません。</trans>
 	</rep>
 
 	<!--> Trriger-Happy <-->

@@ -3,7 +3,7 @@
 
 	<rep>
 		<path>MasochistPain.stages[0].label</path>
-		<trans>わずかな痛み</trans>
+		<trans>マゾのわずかな痛み</trans>
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[0].description</path>
@@ -11,7 +11,7 @@
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[1].label</path>
-		<trans>適度な痛み</trans>
+		<trans>マゾの適度な痛み</trans>
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[1].description</path>
@@ -19,7 +19,7 @@
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[2].label</path>
-		<trans>激痛を体験</trans>
+		<trans>マゾの激痛を体験</trans>
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[2].description</path>
@@ -27,7 +27,7 @@
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[3].label</path>
-		<trans>桁外れな痛みからくるショック状態</trans>
+		<trans>マゾの桁外れな痛みからくるショック状態</trans>
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[3].description</path>
@@ -113,7 +113,7 @@
 
     <rep>
         <path>Greedy.stages[0].label</path>
-        <trans>貧相な寝室</trans>
+        <trans>欲張りの貧相な寝室</trans>
     </rep>
     <rep>
         <path>Greedy.stages[0].description</path>
@@ -121,7 +121,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[1].label</path>
-        <trans>貧相な寝室</trans>
+        <trans>欲張りの貧相な寝室</trans>
     </rep>
     <rep>
         <path>Greedy.stages[1].description</path>
@@ -129,7 +129,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[2].label</path>
-        <trans>貧相な寝室</trans>
+        <trans>欲張りの貧相な寝室</trans>
     </rep>
     <rep>
         <path>Greedy.stages[2].description</path>
@@ -137,7 +137,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[3].label</path>
-        <trans>貧相な寝室</trans>
+        <trans>欲張りの貧相な寝室</trans>
     </rep>
     <rep>
         <path>Greedy.stages[3].description</path>
@@ -145,25 +145,19 @@
     </rep>
     <rep>
         <path>Greedy.stages[4].label</path>
-        <trans>貧相な寝室</trans>
+        <trans>欲張りの貧相な寝室</trans>
     </rep>
     <rep>
         <path>Greedy.stages[4].description</path>
         <trans>私は欲張りだ。寝室の見栄えは全く良くない、もっと本当に豪華な寝室を要求する。</trans>
     </rep>
 
-    <rep>
-        <path>Jealous.stages[0].label</path>
-        <trans>嫉妬</trans>
-    </rep>
-    <rep>
-        <path>Jealous.stages[0].description</path>
-        <trans>他の誰かが、私より豪華な寝室を持っているなんて！。</trans>
-    </rep>
+  <Jealous.stages.0.label>jealous of {0}'s bedroom</Jealous.stages.0.label>
+  <Jealous.stages.0.description>I need to have the best one!</Jealous.stages.0.description>
 
     <rep>
         <path>Ascetic.stages[0].label</path>
-        <trans>すさまじい寝室</trans>
+        <trans>禁欲主義者のすさまじい寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[0].description</path>
@@ -171,7 +165,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[1].label</path>
-        <trans>嫌な寝室</trans>
+        <trans>禁欲主義者の嫌な寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[1].description</path>
@@ -179,7 +173,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[2].label</path>
-        <trans>味気ない寝室</trans>
+        <trans>禁欲主義者の味気ない寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[2].description</path>
@@ -187,7 +181,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[5].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[5].description</path>
@@ -195,7 +189,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[6].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[6].description</path>
@@ -203,7 +197,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[7].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[7].description</path>
@@ -211,7 +205,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[8].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[8].description</path>
@@ -219,7 +213,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[9].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[9].description</path>
@@ -227,7 +221,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[10].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[10].description</path>
@@ -235,7 +229,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[11].label</path>
-        <trans>見栄えの良い寝室</trans>
+        <trans>禁欲主義者の見栄えの良い寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[11].description</path>

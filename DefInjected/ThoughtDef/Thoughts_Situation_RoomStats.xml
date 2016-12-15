@@ -9,6 +9,22 @@
         <path>Bedroom.stages[0].description</path>
         <trans>私の寝室はひどい所です。</trans>
     </rep>
+    <Bedroom.stages.3.label>decent bedroom</Bedroom.stages.3.label>
+    <Bedroom.stages.3.description>My bedroom is very interesting. I like it.</Bedroom.stages.3.description>
+    <Bedroom.stages.4.label>slightly impressive bedroom</Bedroom.stages.4.label>
+    <Bedroom.stages.4.description>My bedroom is actually slightly impressive. I like it.</Bedroom.stages.4.description>
+    <Bedroom.stages.5.label>impressive bedroom</Bedroom.stages.5.label>
+    <Bedroom.stages.5.description>My bedroom is impressive. I love it!</Bedroom.stages.5.description>
+    <Bedroom.stages.6.label>very impressive bedroom</Bedroom.stages.6.label>
+    <Bedroom.stages.6.description>My bedroom is very impressive. This is the best place ever!</Bedroom.stages.6.description>
+    <Bedroom.stages.7.label>extremely impressive bedroom</Bedroom.stages.7.label>
+    <Bedroom.stages.7.description>My bedroom is extremely impressive. This is the best place ever!</Bedroom.stages.7.description>
+    <Bedroom.stages.8.label>unbelievably impressive bedroom</Bedroom.stages.8.label>
+    <Bedroom.stages.8.description>My bedroom is unbelievably impressive. This is the best place ever!</Bedroom.stages.8.description>
+    <Bedroom.stages.9.label>wondrously impressive bedroom</Bedroom.stages.9.label>
+    <Bedroom.stages.9.description>My bedroom is the best place one can ever imagine. It's wonderful.</Bedroom.stages.9.description>
+
+<!--
     <rep>
         <path>Bedroom.stages[1].label</path>
         <trans>胸が悪くなる寝室</trans>
@@ -82,6 +98,7 @@
         <path>Bedroom.stages[11].description</path>
         <trans>これは現実？、私がこのような場所に住めるとは信じがたい。</trans>
     </rep>
+-->
 
     <rep>
         <path>PrisonCell.stages[0].label</path>
@@ -91,6 +108,22 @@
         <path>PrisonCell.stages[0].description</path>
         <trans>私の独居房はひどい所です。</trans>
     </rep>
+    <PrisonCell.stages.3.label>decent prison cell</PrisonCell.stages.3.label>
+    <PrisonCell.stages.3.description>My prison cell is pretty decent.</PrisonCell.stages.3.description>
+    <PrisonCell.stages.4.label>slightly impressive prison cell</PrisonCell.stages.4.label>
+    <PrisonCell.stages.4.description>My prison cell seems to be a nice place.</PrisonCell.stages.4.description>
+    <PrisonCell.stages.5.label>impressive prison celll</PrisonCell.stages.5.label>
+    <PrisonCell.stages.5.description>My prison cell is impressive. I can't believe they are keeping me in a room like this.</PrisonCell.stages.5.description>
+    <PrisonCell.stages.6.label>very impressive prison cell</PrisonCell.stages.6.label>
+    <PrisonCell.stages.6.description>My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.6.description>
+    <PrisonCell.stages.7.label>extremely impressive prison cell</PrisonCell.stages.7.label>
+    <PrisonCell.stages.7.description>My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.7.description>
+    <PrisonCell.stages.8.label>unbelievably impressive prison cell</PrisonCell.stages.8.label>
+    <PrisonCell.stages.8.description>My prison cell is unbelievably impressive. This is the best place ever!</PrisonCell.stages.8.description>
+    <PrisonCell.stages.9.label>wondrously impressive prison cell</PrisonCell.stages.9.label>
+    <PrisonCell.stages.9.description>My prison cell is the best place one can ever imagine. I can stay here forever.</PrisonCell.stages.9.description>
+
+<!--
     <rep>
         <path>PrisonCell.stages[1].label</path>
         <trans>胸が悪くなる独居房</trans>
@@ -164,6 +197,7 @@
         <path>PrisonCell.stages[11].description</path>
         <trans>これは現実？、彼らが私のためにこの様な待遇をしつづけてくれるなんて信じられない。ずっとこうしていたい。</trans>
     </rep>
+-->
 
     <rep>
         <path>Barracks.stages[0].label</path>
@@ -173,6 +207,22 @@
         <path>Barracks.stages[0].description</path>
         <trans>私の宿舎はひどい所です。</trans>
     </rep>
+    <Barracks.stages.1.label>dull barrack</Barracks.stages.1.label>
+    <Barracks.stages.1.description>I'm living in a dull barrack.</Barracks.stages.1.description>
+    <Barracks.stages.4.label>slightly impressive barrack</Barracks.stages.4.label>
+    <Barracks.stages.4.description>My barrack is a nice place. I wish I had my own bedroom, though.</Barracks.stages.4.description>
+    <Barracks.stages.5.label>impressive barrack</Barracks.stages.5.label>
+    <Barracks.stages.5.description>My barrack is impressive. I like it. I wish I had my own bedroom, though.</Barracks.stages.5.description>
+    <Barracks.stages.6.label>very impressive barrack</Barracks.stages.6.label>
+    <Barracks.stages.6.description>My barrack is very impressive. I love it!</Barracks.stages.6.description>
+    <Barracks.stages.7.label>extremely impressive barrack</Barracks.stages.7.label>
+    <Barracks.stages.7.description>My barrack is extremely impressive. This is the best place ever!</Barracks.stages.7.description>
+    <Barracks.stages.8.label>unbelievably impressive barrack</Barracks.stages.8.label>
+    <Barracks.stages.8.description>My barrack is unbelievably impressive. This is the best place ever!</Barracks.stages.8.description>
+    <Barracks.stages.9.label>wondrously impressive barrack</Barracks.stages.9.label>
+    <Barracks.stages.9.description>My barrack is the best place one can ever imagine. It's wonderful.</Barracks.stages.9.description>
+
+<!--
     <rep>
         <path>Barracks.stages[1].label</path>
         <trans>胸が悪くなる宿舎</trans>
@@ -238,6 +288,7 @@
         <path>Barracks.stages[11].description</path>
         <trans>これは現実？、私がこのような場所に住めるとは信じがたい。</trans>
     </rep>
+-->
 
     <rep>
         <path>PrisonBarracks.stages[0].label</path>
@@ -247,6 +298,21 @@
         <path>PrisonBarracks.stages[0].description</path>
         <trans>私の雑居房はひどい所です。</trans>
     </rep>
+    <PrisonBarracks.stages.1.label>dull barrack</PrisonBarracks.stages.1.label>
+    <PrisonBarracks.stages.1.description>I'm living in a dull barrack.</PrisonBarracks.stages.1.description>
+    <PrisonBarracks.stages.4.label>slightly impressive barrack</PrisonBarracks.stages.4.label>
+    <PrisonBarracks.stages.4.description>My prison barrack is slightly impressive.</PrisonBarracks.stages.4.description>
+    <PrisonBarracks.stages.5.label>somwhat impressive barrack</PrisonBarracks.stages.5.label>
+    <PrisonBarracks.stages.5.description>My prison barrack is impressive. I like it.</PrisonBarracks.stages.5.description>
+    <PrisonBarracks.stages.6.label>very impressive barrack</PrisonBarracks.stages.6.label>
+    <PrisonBarracks.stages.6.description>My prison barrack is very impressive. I like it.</PrisonBarracks.stages.6.description>
+    <PrisonBarracks.stages.7.label>extremely impressive barrack</PrisonBarracks.stages.7.label>
+    <PrisonBarracks.stages.7.description>My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.7.description>
+    <PrisonBarracks.stages.8.label>unbelievably impressive barrack</PrisonBarracks.stages.8.label>
+    <PrisonBarracks.stages.8.description>My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.8.description>
+    <PrisonBarracks.stages.9.label>wondrously impressive barrack</PrisonBarracks.stages.9.label>
+    <PrisonBarracks.stages.9.description>My prison barrack is wonderful! I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.9.description>
+<!--
     <rep>
         <path>PrisonBarracks.stages[1].label</path>
         <trans>胸が悪くなる雑居房</trans>
@@ -312,122 +378,27 @@
         <path>PrisonBarracks.stages[11].description</path>
         <trans>これは現実？、私がこのような場所に住めるとは信じがたい。</trans>
     </rep>
+-->
 
 
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[5].label</path>
-        <trans>豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[5].description</path>
-        <trans>私は良い食堂で食事をした。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[6].label</path>
-        <trans>豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[6].description</path>
-        <trans>私は見栄えの良い食堂で食事をした。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[7].label</path>
-        <trans>とても豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[7].description</path>
-        <trans>私はとても見栄えの良い食堂で食事をした。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[8].label</path>
-        <trans>極めて豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[8].description</path>
-        <trans>私は極めて見栄えの良い食堂で食事をした。ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[9].label</path>
-        <trans>信じ難いほど豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[9].description</path>
-        <trans>私は信じ難いほど見栄えの良い食堂で食事をした。ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[10].label</path>
-        <trans>奇跡的なぐらい豪華な食堂</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[10].description</path>
-        <trans>私は奇跡的なぐらい見栄えの良い食堂で食事をした。ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[11].label</path>
-        <trans>驚異の世界</trans>
-    </rep>
-    <rep>
-        <path>AteInImpressiveDiningRoom.stages[11].description</path>
-        <trans>私は最高のダイニングルームで食事をした。ずっとここに居てもいい。</trans>
-    </rep>
 
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[5].label</path>
-        <trans>良い娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[5].description</path>
-        <trans>私は良い娯楽室で素晴らしい時間を過ごした。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[6].label</path>
-        <trans>豪華な娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[6].description</path>
-        <trans>私は見栄えの良い娯楽室で素晴らしい時間を過ごした。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[7].label</path>
-        <trans>とても豪華な娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[7].description</path>
-        <trans>私はとても見栄えの良い娯楽室で素晴らしい時間を過ごした。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[8].label</path>
-        <trans>極めて豪華な娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[8].description</path>
-        <trans>私は極めて見栄えの良い娯楽室で素晴らしい時間を過ごした、ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[9].label</path>
-        <trans>信じ難いほど豪華な娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[9].description</path>
-        <trans>私は信じ難いほど見栄えの良い娯楽室で素晴らしい時間を過ごした、ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[10].label</path>
-        <trans>奇跡的なぐらい豪華な娯楽室</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[10].description</path>
-        <trans>私は奇跡的なぐらい見栄えの良い娯楽室で素晴らしい時間を過ごした、ずっとここに居てもいい。</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[11].label</path>
-        <trans>驚異の世界</trans>
-    </rep>
-    <rep>
-        <path>JoyActivityInImpressiveRecRoom.stages[11].description</path>
-        <trans>私は、考えうるなかで最高な娯楽室のうちの一つで有意義な時間を過ごした。もうしばらく居てもいい。</trans>
-    </rep>
-
+    <HospitalPatientRoomStats.stages.0.label>awful hospital</HospitalPatientRoomStats.stages.0.label>
+    <HospitalPatientRoomStats.stages.0.description>This hospital is awful.</HospitalPatientRoomStats.stages.0.description>
+    <HospitalPatientRoomStats.stages.1.label>dull hospital</HospitalPatientRoomStats.stages.1.label>
+    <HospitalPatientRoomStats.stages.1.description>I'm stuck in a dull hospital.</HospitalPatientRoomStats.stages.1.description>
+    <HospitalPatientRoomStats.stages.4.label>slightly impressive hospital</HospitalPatientRoomStats.stages.4.label>
+    <HospitalPatientRoomStats.stages.4.description>My hospital is slightly impressive. It makes me feel a bit better.</HospitalPatientRoomStats.stages.4.description>
+    <HospitalPatientRoomStats.stages.5.label>somwhat impressive hospital</HospitalPatientRoomStats.stages.5.label>
+    <HospitalPatientRoomStats.stages.5.description>My hospital is impressive. It makes me feel better.</HospitalPatientRoomStats.stages.5.description>
+    <HospitalPatientRoomStats.stages.6.label>very impressive hospital</HospitalPatientRoomStats.stages.6.label>
+    <HospitalPatientRoomStats.stages.6.description>My hospital is very impressive. It makes me feel better.</HospitalPatientRoomStats.stages.6.description>
+    <HospitalPatientRoomStats.stages.7.label>extremely impressive hospital</HospitalPatientRoomStats.stages.7.label>
+    <HospitalPatientRoomStats.stages.7.description>My hospital is extremely impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.7.description>
+    <HospitalPatientRoomStats.stages.8.label>unbelievably impressive hospital</HospitalPatientRoomStats.stages.8.label>
+    <HospitalPatientRoomStats.stages.8.description>My hospital is unbelievably impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.8.description>
+    <HospitalPatientRoomStats.stages.9.label>wondrously impressive hospital</HospitalPatientRoomStats.stages.9.label>
+    <HospitalPatientRoomStats.stages.9.description>My hospital is wonderful! It makes me feel better already.</HospitalPatientRoomStats.stages.9.description>
+<!--
     <rep>
         <path>HospitalPatientRoomStats.stages[4].label</path>
         <trans>綺麗な病室</trans>
@@ -460,5 +431,6 @@
         <path>HospitalPatientRoomStats.stages[7].description</path>
         <trans>信じ難いほど綺麗な病室です。このような場所に居ると、気分がますます良くなります。</trans>
     </rep>
+-->
 
 </LanguageData>

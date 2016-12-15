@@ -24,6 +24,10 @@
     <trans>侮辱された</trans>
   </rep>
 
+  <KindWords.stages.0.label>kind words</KindWords.stages.0.label>
+  <KindWordsMood.stages.0.label>kind words</KindWordsMood.stages.0.label>
+  <KindWordsMood.stages.0.description>I've been bestowed with kind words! What a nice person!</KindWordsMood.stages.0.description>
+
   <rep>
     <path>InsultedMood.stages[0].label</path>
     <trans>侮辱された</trans>
@@ -81,7 +85,7 @@
 
   <rep>
     <path>SoldMyLovedOne.stages[0].label</path>
-    <trans>最愛の {0}が売られた</trans>
+    <trans>最愛が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyLovedOne.stages[0].labelSocial</path>
@@ -94,7 +98,7 @@
 
   <rep>
     <path>SoldMyBondedAnimal.stages[0].label</path>
-    <trans>絆で結ばれた {0}が売られた</trans>
+    <trans>絆で結ばれた動物が売られた</trans>
   </rep>
   <rep>
     <path>SoldMyBondedAnimal.stages[0].labelSocial</path>
@@ -125,6 +129,9 @@
     <path>FailedRomanceAttemptOnMe.stages[0].label</path>
     <trans>私とのロマンスは失敗に終わった</trans>
   </rep>
+
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>had to rebuff {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Someone I don't like tried to romance me.</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
 
   <rep>
     <path>BrokeUpWithMe.stages[0].label</path>

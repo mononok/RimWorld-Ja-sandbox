@@ -64,9 +64,14 @@
 
   <VariousLabel>(色々な)</VariousLabel>
 
-<!-- History events -->
-<ColonistDied>入植者 力尽きる</ColonistDied>
+  <!-- History events -->
+  <ColonistDied>入植者 力尽きる</ColonistDied>
 
+  <!-- Rotation -->
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
 
 
 </LanguageData>

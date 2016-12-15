@@ -5,9 +5,12 @@
     <BorealForest.description>北方の針葉樹林。 冬は過酷であるのにもかかわらず、寒帯の森は、多種多様で、大小さまざまな個体を支えます。</BorealForest.description>
 
     <Tundra.label>ツンドラ</Tundra.label>
-    <Tundra.description>極寒の平原は、ほとんど、木や植物をはぐくむことはありません。 群れをなして移動する草食獣と、それを捕食する肉食獣、それらの間に、わずかの小動物がいます。</Tundra.description>
+    <Tundra.description>極寒の平原は、ほとんど、木や植物をはぐくむことはありません。 群れをなして移動する草食獣と、それを捕食する肉食獣、それらの間に、わずかの小動物がいます。冬は積雪によって移動が極めて遅くなります。</Tundra.description>
 
     <IceSheet.label>大氷原</IceSheet.label>
-    <IceSheet.description>地表は厚さ数キロの氷床によって覆われています。 土が無いので植物はありません。ゆいいつ、ここで見かける動物も、どこかへ移住している途中です。さもないと、そうしなければ、悪いことに滅びます。</IceSheet.description>
+    <IceSheet.description>地表は厚さ数キロの氷床によって覆われています。 土が無いので植物はありません。ゆいいつ、ここで見かける動物も、どこかへ移住している途中です。さもないと、そうしなければ、悪いことに滅んでしまいます。雪は移動を遅くするのですが、氷原の上はスムーズに歩けます。</IceSheet.description>
+
+    <SeaIce.label>sea ice</SeaIce.label>
+    <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
 
 </LanguageData>

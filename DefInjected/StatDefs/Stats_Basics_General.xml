@@ -4,8 +4,11 @@
 	<MaxHitPoints.label>最大HP</MaxHitPoints.label>
 	<MaxHitPoints.description>破壊するのに必要なダメージ量です。</MaxHitPoints.description>
 
+  <Mass.label>mass</Mass.label>
+  <Mass.description>The physical mass of an object.</Mass.description>
+
     <MarketValue.label>金額</MarketValue.label>
-    <MarketValue.description>市場価格を表します。実際の値段は、売買するお互いの関係性や交渉スキルでさらに変動します。</MarketValue.description>
+    <MarketValue.description>市場価格を表します。実際の値段は、売買するお互いの関係性やother contextual factorsでさらに変動します。</MarketValue.description>
 
 	<SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
 	<SellPriceFactor.description>売ろうするアイテムの、売り値に掛けられる倍率です。</SellPriceFactor.description>
@@ -15,6 +18,9 @@
 
 	<WorkToMake.label>製作費</WorkToMake.label>
 	<WorkToMake.description>これを作成するときに、一旦集められる、素材やツールの総量です。</WorkToMake.description>
+
+    <WorkToBuild.label>work to build</WorkToBuild.label>
+    <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials and tools are gathered.</WorkToBuild.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
 	<DeteriorationRate.description>屋外に放置された時、とりわけ風雨が当たっている時、アイテムの劣化しやすさを表しています。</DeteriorationRate.description>

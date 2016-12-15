@@ -11,8 +11,8 @@
 
   <!-- Stun -->
 
-	<Stun.label>{0}は麻痺して死んだ</Stun.label>
+	<Stun.deathMessage>{0}は麻痺して死んだ</Stun.deathMessage>
 
-	<EMP.label>{0}はEMPで機能停止した</EMP.label>
+	<EMP.deathMessage>{0}はEMPで機能停止した</EMP.deathMessage>
 
 </LanguageData>

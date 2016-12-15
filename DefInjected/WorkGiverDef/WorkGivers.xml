@@ -26,10 +26,6 @@
 	<DoBillsMedicalHumanOperation.verb>を手術する</DoBillsMedicalHumanOperation.verb>
     <DoBillsMedicalHumanOperation.gerund>を手術する</DoBillsMedicalHumanOperation.gerund>
 
-	<DoBillsMedicalAnimalOperation.label>手術を行う</DoBillsMedicalAnimalOperation.label>
-	<DoBillsMedicalAnimalOperation.verb>を手術する</DoBillsMedicalAnimalOperation.verb>
-	<DoBillsMedicalAnimalOperation.gerund>を手術する</DoBillsMedicalAnimalOperation.gerund>
-
 	<DoctorTreat.label>処置を施す</DoctorTreat.label>
 	<DoctorTreat.verb>を処置</DoctorTreat.verb>
 	<DoctorTreat.gerund>を処置する</DoctorTreat.gerund>
@@ -39,6 +35,10 @@
 	<DoctorFeed.label>患者に食事を与える</DoctorFeed.label>
 	<DoctorFeed.verb>に食事を与える</DoctorFeed.verb>
 	<DoctorFeed.gerund>に食事を与える</DoctorFeed.gerund>
+
+  <DoBillsMedicalAnimalOperation.label>手術を行う</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>を手術する</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>を手術する</DoBillsMedicalAnimalOperation.gerund>
 
 	<TakeToBedToOperate.label>手術をするためベッドへ連れてゆく</TakeToBedToOperate.label>
 	<TakeToBedToOperate.verb>を手術する</TakeToBedToOperate.verb>
@@ -117,10 +117,6 @@
 	<DoBillsCookCampfire.verb>で調理する</DoBillsCookCampfire.verb>
     <DoBillsCookCampfire.gerund>で調理する</DoBillsCookCampfire.gerund>
 
-	<DoBillsBrew.label>アルコール醸造</DoBillsBrew.label>
-	<DoBillsBrew.verb>で醸造する</DoBillsBrew.verb>
-    <DoBillsBrew.gerund>で醸造する</DoBillsBrew.gerund>
-
 	<DoBillsButcherFlesh.label>肉をさばく</DoBillsButcherFlesh.label>
 	<DoBillsButcherFlesh.verb>でさばく</DoBillsButcherFlesh.verb>
     <DoBillsButcherFlesh.gerund>で解体する</DoBillsButcherFlesh.gerund>
@@ -128,6 +124,11 @@
 	<CookFillHopper.label>ホッパーに充填</CookFillHopper.label>
 	<CookFillHopper.verb>に充填する</CookFillHopper.verb>
     <CookFillHopper.gerund>に充填する</CookFillHopper.gerund>
+
+  <DoBillsBrew.label>アルコール醸造</DoBillsBrew.label>
+  <DoBillsBrew.verb>で醸造する</DoBillsBrew.verb>
+    <DoBillsBrew.gerund>で醸造する</DoBillsBrew.gerund>
+
 
   <!-- ============= Hunting ============= -->
 
@@ -137,13 +138,25 @@
 
   <!-- ============= Construction ============= -->
 
-	<Deconstruct.label>解体する</Deconstruct.label>
-	<Deconstruct.verb>を解体</Deconstruct.verb>
-    <Deconstruct.gerund>を解体する</Deconstruct.gerund>
+  <DoBillsMedicalMechanoidOperation.label>メカノイドを修理</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>を修理する</DoBillsMedicalMechanoidOperation.verb>
+    <DoBillsMedicalMechanoidOperation.gerund>を修理する</DoBillsMedicalMechanoidOperation.gerund>
 
-	<Uninstall.label>アンインストール</Uninstall.label>
-	<Uninstall.verb>をアンインストール</Uninstall.verb>
-    <Uninstall.gerund>をアンインストールする</Uninstall.gerund>
+	<FixBrokenDownBuilding.label>修理</FixBrokenDownBuilding.label>
+	<FixBrokenDownBuilding.verb>のコンポーネントを交換する</FixBrokenDownBuilding.verb>
+	<FixBrokenDownBuilding.gerund>のコンポーネントを交換する</FixBrokenDownBuilding.gerund>
+
+	<Repair.label>壊れた物を修理する</Repair.label>
+	<Repair.verb>を修理する</Repair.verb>
+    <Repair.gerund>を修理する</Repair.gerund>
+
+	<BuildRoofs.label>屋根をふく</BuildRoofs.label>
+	<BuildRoofs.verb>を葺く</BuildRoofs.verb>
+	<BuildRoofs.gerund>を葺く</BuildRoofs.gerund>
+
+	<RemoveRoofs.label>屋根を取り除く</RemoveRoofs.label>
+	<RemoveRoofs.verb>を取り除く</RemoveRoofs.verb>
+	<RemoveRoofs.gerund>を取り除く</RemoveRoofs.gerund>
 
 	<ConstructFinishFrames.label>構築</ConstructFinishFrames.label>
 	<ConstructFinishFrames.verb>を築く</ConstructFinishFrames.verb>
@@ -157,13 +170,13 @@
 	<ConstructDeliverResourcesToBlueprints.verb>に取りかかる</ConstructDeliverResourcesToBlueprints.verb>
     <ConstructDeliverResourcesToBlueprints.gerund>を従事する</ConstructDeliverResourcesToBlueprints.gerund>
 
-	<BuildRoofs.label>屋根をふく</BuildRoofs.label>
-	<BuildRoofs.verb>を葺く</BuildRoofs.verb>
-	<BuildRoofs.gerund>を葺く</BuildRoofs.gerund>
+	<Deconstruct.label>解体する</Deconstruct.label>
+	<Deconstruct.verb>を解体</Deconstruct.verb>
+    <Deconstruct.gerund>を解体する</Deconstruct.gerund>
 
-	<RemoveRoofs.label>屋根を取り除く</RemoveRoofs.label>
-	<RemoveRoofs.verb>を取り除く</RemoveRoofs.verb>
-	<RemoveRoofs.gerund>を取り除く</RemoveRoofs.gerund>
+	<Uninstall.label>アンインストール</Uninstall.label>
+	<Uninstall.verb>をアンインストール</Uninstall.verb>
+    <Uninstall.gerund>をアンインストールする</Uninstall.gerund>
 
     <ConstructRemoveFloors.label>床を剥ぐ</ConstructRemoveFloors.label>
     <ConstructRemoveFloors.verb>を剥ぐ</ConstructRemoveFloors.verb>
@@ -172,20 +185,6 @@
 	<ConstructSmoothFloors.label>床を張り替える</ConstructSmoothFloors.label>
 	<ConstructSmoothFloors.verb>を床張替</ConstructSmoothFloors.verb>
 	<ConstructSmoothFloors.gerund>を床張替する</ConstructSmoothFloors.gerund>
-
-	<!-- ============= Repair ============= -->
-
-	<FixBrokenDownBuilding.label>修理</FixBrokenDownBuilding.label>
-	<FixBrokenDownBuilding.verb>のコンポーネントを交換する</FixBrokenDownBuilding.verb>
-	<FixBrokenDownBuilding.gerund>のコンポーネントを交換する</FixBrokenDownBuilding.gerund>
-
-	<Repair.label>壊れた物を修理する</Repair.label>
-	<Repair.verb>を修理する</Repair.verb>
-    <Repair.gerund>を修理する</Repair.gerund>
-
-	<DoBillsMedicalMechanoidOperation.label>メカノイドを修理</DoBillsMedicalMechanoidOperation.label>
-	<DoBillsMedicalMechanoidOperation.verb>を修理する</DoBillsMedicalMechanoidOperation.verb>
-    <DoBillsMedicalMechanoidOperation.gerund>を修理する</DoBillsMedicalMechanoidOperation.gerund>
 
   <!-- ============= Growing ============= -->
 
@@ -239,6 +238,10 @@
 	<DoBillsUseCraftingSpot.label>手工芸加工</DoBillsUseCraftingSpot.label>
 	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
 	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
+	
+	<DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
+	<DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
+	<DoBillsRefinery.gerund>refine chemicals at</DoBillsRefinery.gerund>
 
 	<DoBillsProduceDrugs.label>ドラッグ製造</DoBillsProduceDrugs.label>
 	<DoBillsProduceDrugs.verb>を製造する</DoBillsProduceDrugs.verb>
@@ -254,43 +257,51 @@
 
   <!-- ============= Hauling ============= -->
 
-	<Refuel.label>燃料補給</Refuel.label>
-	<Refuel.verb>に補給する</Refuel.verb>
-	<Refuel.gerund>に補給する</Refuel.gerund>
+	<UnloadCarriers.label>unload carriers</UnloadCarriers.label>
+	<UnloadCarriers.verb>unload</UnloadCarriers.verb>
+	<UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
 
-	<RearmTraps.label>わなを再設置</RearmTraps.label>
-	<RearmTraps.verb>を再設置する</RearmTraps.verb>
-	<RearmTraps.gerund>を再設置する</RearmTraps.gerund>
+  <LoadTransporters.label>load transporters</LoadTransporters.label>
+  <LoadTransporters.verb>load</LoadTransporters.verb>
+  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
 
 	<Strip.label>剥く</Strip.label>
 	<Strip.verb>を剥く</Strip.verb>
 	<Strip.gerund>を裸にする</Strip.gerund>
 
-	<Open.label>発掘</Open.label>
-	<Open.verb>を発掘する</Open.verb>
-	<Open.gerund>を発掘する</Open.gerund>
+  <HaulCorpses.label>運搬</HaulCorpses.label>
+  <HaulCorpses.verb>を運ぶ</HaulCorpses.verb>
+  <HaulCorpses.gerund>を運搬する</HaulCorpses.gerund>
 
-	<TakeBeerOutOfFermentingBarrel.label>ビア樽からビールを汲み出す</TakeBeerOutOfFermentingBarrel.label>
-	<TakeBeerOutOfFermentingBarrel.verb>を汲み出す</TakeBeerOutOfFermentingBarrel.verb>
-	<TakeBeerOutOfFermentingBarrel.gerund>から汲み出す</TakeBeerOutOfFermentingBarrel.gerund>
+  <BuryCorpses.label>埋葬</BuryCorpses.label>
+  <BuryCorpses.verb>を埋葬する</BuryCorpses.verb>
+    <BuryCorpses.gerund>を埋葬する</BuryCorpses.gerund>
 
-	<FillFermentingBarrel.label>ビア樽を満たす</FillFermentingBarrel.label>
+  <Open.label>発掘</Open.label>
+  <Open.verb>を発掘する</Open.verb>
+  <Open.gerund>を発掘する</Open.gerund>
 
-	<DoBillsCremate.label>焼却</DoBillsCremate.label>
-	<DoBillsCremate.verb>で焼却する</DoBillsCremate.verb>
+  <Refuel.label>燃料補給</Refuel.label>
+  <Refuel.verb>に補給する</Refuel.verb>
+  <Refuel.gerund>に補給する</Refuel.gerund>
+
+  <RearmTraps.label>わなを再設置</RearmTraps.label>
+  <RearmTraps.verb>を再設置する</RearmTraps.verb>
+  <RearmTraps.gerund>を再設置する</RearmTraps.gerund>
+
+  <DoBillsCremate.label>焼却</DoBillsCremate.label>
+  <DoBillsCremate.verb>で焼却する</DoBillsCremate.verb>
     <DoBillsCremate.gerund>で焼却する</DoBillsCremate.gerund>
 
   <DoBillsHaulCampfire.label>焚き火をする</DoBillsHaulCampfire.label>
   <DoBillsHaulCampfire.verb>作業する</DoBillsHaulCampfire.verb>
   <DoBillsHaulCampfire.gerund>作業する</DoBillsHaulCampfire.gerund>
 
-	<BuryCorpses.label>埋葬</BuryCorpses.label>
-	<BuryCorpses.verb>を埋葬する</BuryCorpses.verb>
-    <BuryCorpses.gerund>を埋葬する</BuryCorpses.gerund>
+	<TakeBeerOutOfFermentingBarrel.label>ビア樽からビールを汲み出す</TakeBeerOutOfFermentingBarrel.label>
+	<TakeBeerOutOfFermentingBarrel.verb>を汲み出す</TakeBeerOutOfFermentingBarrel.verb>
+	<TakeBeerOutOfFermentingBarrel.gerund>から汲み出す</TakeBeerOutOfFermentingBarrel.gerund>
 
-	<HaulCorpses.label>運搬</HaulCorpses.label>
-	<HaulCorpses.verb>を運ぶ</HaulCorpses.verb>
-	<HaulCorpses.gerund>を運搬する</HaulCorpses.gerund>
+	<FillFermentingBarrel.label>ビア樽を満たす</FillFermentingBarrel.label>
 
 	<HaulGeneral.label>運搬</HaulGeneral.label>
 	<HaulGeneral.verb>を運ぶ</HaulGeneral.verb>

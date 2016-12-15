@@ -7,8 +7,8 @@
 	<SurgerySuccessChance.label>外科手術の成功率</SurgerySuccessChance.label>
 	<SurgerySuccessChance.description>外科手術の成功率です。手術の失敗は、単に時間と薬品の浪費という結果になるばかりか、患者に重大なダメージを与えます。</SurgerySuccessChance.description>
 
-    <BaseHealingQuality.label>医療・治療品質基本値</BaseHealingQuality.label>
-    <BaseHealingQuality.description>医者の代わりになったときの、患者に施せる治療品質の、基礎となる数値を表します。</BaseHealingQuality.description>
+    <HealingQuality.label>医療・治療品質基本値</HealingQuality.label>
+    <HealingQuality.description>医者の代わりになったときの、患者に施せる治療品質の、基礎となる数値を表します。</HealingQuality.description>
 
     <HealingSpeed.label>医療・治癒速度</HealingSpeed.label>
     <HealingSpeed.description>医者として怪我を治療したときに、どれだけ早く治癒させられるかの速度を表します。</HealingSpeed.description>

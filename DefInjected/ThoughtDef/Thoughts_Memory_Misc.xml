@@ -240,4 +240,22 @@
     <trans>人をこの手で殺すことが出来た。</trans>
   </rep>
 
+    <DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>
+    <DefeatedHostileFactionLeader.stages.0.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.0.description>
+
+    <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
+    <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
+
+    <ColonistAbandoned.stages.0.label>colonist abandoned</ColonistAbandoned.stages.0.label>
+    <ColonistAbandoned.stages.0.description>We just left someone behind. I hope they'll make it, but I'm worried.</ColonistAbandoned.stages.0.description>
+
+    <ColonistAbandonedToDie.stages.0.label>colonist abandoned to die</ColonistAbandonedToDie.stages.0.label>
+    <ColonistAbandonedToDie.stages.0.description>We left someone behind in such a way that there's almost no way they'll survive.</ColonistAbandonedToDie.stages.0.description>
+
+    <PrisonerAbandonedToDie.stages.0.label>prisoner abandoned to die</PrisonerAbandonedToDie.stages.0.label>
+    <PrisonerAbandonedToDie.stages.0.description>We left a prisoner behind in such a way that there's almost no way they'll survive.</PrisonerAbandonedToDie.stages.0.description>
+
+    <BondedAnimalAbandoned.stages.0.label>bonded animal {0} abandoned</BondedAnimalAbandoned.stages.0.label>
+    <BondedAnimalAbandoned.stages.0.description>My bonded animal was abandoned in the middle of nowhere!</BondedAnimalAbandoned.stages.0.description>
+
 </LanguageData>

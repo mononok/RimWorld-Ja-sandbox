@@ -8,14 +8,13 @@
 <PassionNone>なし （経験値 x{0}）</PassionNone>
 <PassionMinor>関心 （経験値 x{0}）</PassionMinor>
 <PassionMajor>熱心 （経験値 x{0}）</PassionMajor>
-<EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
-<SkillMax>最大</SkillMax>
-
-
+  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
+  <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
+  <SkillMax>最大</SkillMax>
 
 <Skill0>無謀</Skill0>
-<Skill1>不適格</Skill1>
-<Skill2>基礎的な知識程度</Skill2>
+<Skill1>ど素人</Skill1>
+<Skill2>初心者</Skill2>
 <Skill3>基礎的な事に精通</Skill3>
 <Skill4>アマチュア</Skill4>
 <Skill5>できるアマチュア</Skill5>

@@ -13,8 +13,8 @@
 
     <!--=============== Shells ====================-->
 
-    <ArtilleryShell.label>榴弾</ArtilleryShell.label>
-    <ArtilleryShell.description>榴弾砲の砲弾です。</ArtilleryShell.description>
+    <MortarShell.label>迫撃砲弾</MortarShell.label>
+    <MortarShell.description>迫撃砲の砲弾です。</MortarShell.description>
 
   <!--=============== Component ====================-->
 
@@ -25,5 +25,8 @@
 
   <Neutroamine.label>ニュートロアミン</Neutroamine.label>
   <Neutroamine.description>合成されたケミカル前駆物質。単独では使い道がないが、多くのドラッグが構成要素として必要としている。</Neutroamine.description>
+
+  <Chemfuel.label>chemfuel</Chemfuel.label>
+  <Chemfuel.description>Volatile liquid chemical compound. Used to fuel rockets and other machines.</Chemfuel.description>
 
 </LanguageData>

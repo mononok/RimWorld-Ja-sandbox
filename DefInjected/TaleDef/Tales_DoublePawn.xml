@@ -888,7 +888,7 @@
 	</rep>
 
 	<TradedWith.label>traded with someone</TradedWith.label>
-    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_fullName]と [buyer_fullName]との間で 取引が行なわれる。</TradedWith.rulePack.rulesStrings.0>
+    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_nameFull]と [buyer_nameFull]との間で 取引が行なわれる。</TradedWith.rulePack.rulesStrings.0>
     <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group]、 [seller_nameFull]からアイテムを買い取る。</TradedWith.rulePack.rulesStrings.1>
     <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull]は、  [circumstance_group]、 [buyer_nameFull]にアイテムを売りつける。</TradedWith.rulePack.rulesStrings.2>
     <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->貪欲な目つきで一心に</TradedWith.rulePack.rulesStrings.3>

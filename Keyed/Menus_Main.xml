@@ -2,7 +2,7 @@
 <LanguageData>
 
 <!--=========== Main menu ==========-->
-  <LearnToPlay>操作方法の説明</LearnToPlay>
+  <Tutorial>操作方法の説明</Tutorial>
 <NewColony>新しくはじめる</NewColony>
 <BackToGame>ゲーム再開</BackToGame>
 <ReviewScenario>シナリオ表示</ReviewScenario>
@@ -29,10 +29,19 @@
 <ReviewWorld>惑星を確認</ReviewWorld>
 <WorldGenerate>創造する</WorldGenerate>
 <WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
+    <PlanetCoverage>Globe coverage</PlanetCoverage>
+    <PlanetRainfall>Overall rainfall</PlanetRainfall>
+    <PlanetTemperature>Overall temperature</PlanetTemperature>
+    <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+    <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+    <PlanetRainfall_High>High</PlanetRainfall_High>
+    <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+    <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+    <PlanetTemperature_High>High</PlanetTemperature_High>
 <Reset>リセット</Reset>
-<WorldSize>大きさ</WorldSize>
 <WorldSeed>シード値</WorldSeed>
 <RandomizeSeed>ランダムシード</RandomizeSeed>
+  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
 
 <!--=========== Select world ===================-->
 <SelectWorld>惑星を選択</SelectWorld>
@@ -92,8 +101,8 @@
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
-<HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。</HowStorytellersWork>
-<MustChooseChallengeScale>難易度を選択</MustChooseChallengeScale>
+  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
   <Difficulty>難易度</Difficulty>
 
   <!--=========== Landing site select =========-->
@@ -102,22 +111,16 @@
   <SelectSite>決定</SelectSite>
   <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
   <CannotLandBiome>その地形は {0} なため、降下できません</CannotLandBiome>
-  <WorldRenderMode>表示モード</WorldRenderMode>
-  <WorldRenderModeFull>全て</WorldRenderModeFull>
-  <WorldRenderModeTemperature>気温</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>高度</WorldRenderModeElevation>
-  <WorldRenderModeFertility>豊穣さ</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>降雨量</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>気候</WorldRenderModeBiomes>
   <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
   <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
   <Biome>気候</Biome>
   <Terrain>地形</Terrain>
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
-  <AvgWinterTemp>年平均気温(冬季): {0}</AvgWinterTemp>
   <AvgSummerTemp>年平均気温(夏期): {0}</AvgSummerTemp>
+  <AvgWinterTemp>年平均気温(冬季): {0}</AvgWinterTemp>
   <Rainfall>降雨量</Rainfall>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
@@ -125,6 +128,10 @@
   <HasCoast3>西海岸</HasCoast3>
   <FactionBase>本拠地</FactionBase>
   <StoneTypesHere>主な地層</StoneTypesHere>
+    <TimeZone>Timezone</TimeZone>
+    <MovementTimeNow>Current movement time</MovementTimeNow>
+    <MovementTimeSummer>Summer movement time</MovementTimeSummer>
+    <MovementTimeWinter>Winter movement time</MovementTimeWinter>
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -152,14 +159,15 @@
 <Advanced>高度な設定</Advanced>
 <Next>次</Next>
 <Back>戻る</Back>
-
 <Gameplay>ゲームの設定</Gameplay>
-
 <ConfirmQuit>本当に終了しますか？ セーブしていない データは うしなわれます。</ConfirmQuit>
-
 <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
+  <Quit>Quit</Quit>
+  <Ignore>Ignore</Ignore>
 
+  <!--============ Progress bar==============-->
 <GeneratingWorld>惑星を 生成しています</GeneratingWorld>
 <GeneratingMap>地図を 作成しています</GeneratingMap>
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
 </LanguageData>

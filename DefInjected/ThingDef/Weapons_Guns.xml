@@ -5,6 +5,11 @@
     <Gun_Pistol.label>ピストル</Gun_Pistol.label>
     <Gun_Pistol.description>古式拳銃、威力も弱く、射程も短いが、素早く動けます。</Gun_Pistol.description>
 
+  <!-- ==================== T-9 incendiary launcher ========================== -->
+  <Bullet_IncendiaryLauncher.label>火炎筒</Bullet_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.label>火炎筒投射機</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.description>火炎筒投射機</Gun_IncendiaryLauncher.description>
+
     <Bullet_PumpShotgun.label>散弾</Bullet_PumpShotgun.label>
     <Gun_PumpShotgun.label>ポンプ式散弾銃</Gun_PumpShotgun.label>
     <Gun_PumpShotgun.description>旧式な設計、威力は高いが射程は短いです。</Gun_PumpShotgun.description>
@@ -13,62 +18,57 @@
     <Gun_SurvivalRifle.label>ライフル</Gun_SurvivalRifle.label>
     <Gun_SurvivalRifle.description>旧来のボルトアクションライフル、射程、威力に優れるが、発射頻度は低いです。</Gun_SurvivalRifle.description>
 
+  <Bullet_MachinePistol.label>マシンピストル装弾</Bullet_MachinePistol.label>
+  <Gun_MachinePistol.label>マシンピストル</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>小型サブマシンガン、短射程、威力は弱いが、高い発射頻度と取り回しに優れています。</Gun_MachinePistol.description>
+
+  <Bullet_HeavySMG.label>サブマシンガン装弾</Bullet_HeavySMG.label>
+  <Gun_HeavySMG.label>サブマシンガン</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>コンパクトな割に装弾数が多い、極めて短射程だが、持ち運びやすさと制圧しやすさに優れています。</Gun_HeavySMG.description>
+
+  <!-- ===================== L-15 LMG ========================= -->
+  <Bullet_LMG.label>機関銃装弾</Bullet_LMG.label>
+  <Gun_LMG.label>軽機関銃</Gun_LMG.label>
+  <Gun_LMG.description>軽機関銃</Gun_LMG.description>
+
     <Bullet_AssaultRifle.label>軍用ライフル装弾</Bullet_AssaultRifle.label>
     <Gun_AssaultRifle.label>軍用ライフル</Gun_AssaultRifle.label>
     <Gun_AssaultRifle.description>汎用の市街戦用軍用ライフル、3点バースト射撃ができ、射程、威力、発射頻度に優れます。</Gun_AssaultRifle.description>
 
+  <!-- ===================== R-4 charge rifle ========================= -->
+  <Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>
+  <Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>エネルギーを弾丸のように打ち出すライフルです。</Gun_ChargeRifle.description>
+
 	<Bullet_SniperRifle.label>狙撃銃用装弾</Bullet_SniperRifle.label>
 	<Gun_SniperRifle.label>狙撃銃</Gun_SniperRifle.label>
 	<Gun_SniperRifle.description>軍用の狙撃銃、ボルトアクション、長射程、優れた命中率と威力を持っています。</Gun_SniperRifle.description>
-
-	<Bullet_MachinePistol.label>マシンピストル装弾</Bullet_MachinePistol.label>
-	<Gun_MachinePistol.label>マシンピストル</Gun_MachinePistol.label>
-	<Gun_MachinePistol.description>小型サブマシンガン、短射程、威力は弱いが、高い発射頻度と取り回しに優れています。</Gun_MachinePistol.description>
-
-	<Bullet_HeavySMG.label>サブマシンガン装弾</Bullet_HeavySMG.label>
-	<Gun_HeavySMG.label>サブマシンガン</Gun_HeavySMG.label>
-	<Gun_HeavySMG.description>コンパクトな割に装弾数が多い、極めて短射程だが、持ち運びやすさと制圧しやすさに優れています。</Gun_HeavySMG.description>
-
-	<!-- ==================== T-9 incendiary launcher ========================== -->
-	<Bullet_IncendiaryLauncher.label>火炎筒</Bullet_IncendiaryLauncher.label>
-	<Gun_IncendiaryLauncher.label>火炎筒投射機</Gun_IncendiaryLauncher.label>
-	<Gun_IncendiaryLauncher.description>火炎筒投射機</Gun_IncendiaryLauncher.description>
-
-	<!-- ===================== L-15 LMG ========================= -->
-	<Bullet_LMG.label>機関銃装弾</Bullet_LMG.label>
-	<Gun_LMG.label>軽機関銃</Gun_LMG.label>
-	<Gun_LMG.description>軽機関銃</Gun_LMG.description>
-
-	<!-- ===================== R-4 charge rifle ========================= -->
-	<Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>
-	<Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
-	<Gun_ChargeRifle.description>エネルギーを弾丸のように打ち出すライフルです。</Gun_ChargeRifle.description>
 
 	<!-- ======================= Mechanoid minigun ======================= -->
     <Bullet_Minigun.label>ガトリング装弾</Bullet_Minigun.label>
     <Gun_Minigun.label>ガトリング銃</Gun_Minigun.label>
     <Gun_Minigun.description>速射能力が高い、マルチバレルのマシンガンです。</Gun_Minigun.description>
 
-
 	<!-- ================= Mechanoid charge lance ================= -->
+  <Bullet_Rocket.label>ロケット弾</Bullet_Rocket.label>
+  <Gun_TripleRocket.label>三連装ロケットランチャー</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>一回限りの三連装ロケットランチャーです。</Gun_TripleRocket.description>
+
 	<Bullet_DoomsdayRocket.label>最終ロケット兵器弾頭</Bullet_DoomsdayRocket.label>
 	<Gun_DoomsdayRocket.label>最終ロケット兵器</Gun_DoomsdayRocket.label>
 	<Gun_DoomsdayRocket.description>一回限りのロケット兵器です。</Gun_DoomsdayRocket.description>
 
-	<Bullet_Rocket.label>ロケット弾</Bullet_Rocket.label>
-	<Gun_TripleRocket.label>三連装ロケットランチャー</Gun_TripleRocket.label>
-	<Gun_TripleRocket.description>一回限りの三連装ロケットランチャーです。</Gun_TripleRocket.description>
-
 	<!-- ================= Mechanoid weapons ================= -->
+  <Bullet_ChargeLance.label>レイルガン装弾</Bullet_ChargeLance.label>
+  <Gun_ChargeLance.label>レイルガン</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>メカノイド製のレイルガン、槍状の物体を高速度で射出します。</Gun_ChargeLance.description>
+
+  <Bullet_InfernoCannon.label>焼夷弾</Bullet_InfernoCannon.label>
+  <Gun_InfernoCannon.label>焼夷弾投射器</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>メカノイド製の焼夷弾投射器です。</Gun_InfernoCannon.description>
+
   	<Bullet_ChargeBlasterHeavy.label>ブラスター弾</Bullet_ChargeBlasterHeavy.label>
   	<Gun_ChargeBlasterHeavy.label>重ブラスター砲</Gun_ChargeBlasterHeavy.label>
   	<Gun_ChargeBlasterHeavy.description>メカノイド製の制圧用ブラスター兵器です。</Gun_ChargeBlasterHeavy.description>
 
-	<Bullet_InfernoCannon.label>焼夷弾</Bullet_InfernoCannon.label>
-	<Gun_InfernoCannon.label>焼夷弾投射器</Gun_InfernoCannon.label>
-	<Gun_InfernoCannon.description>メカノイド製の焼夷弾投射器です。</Gun_InfernoCannon.description>
-
-	<Bullet_ChargeLance.label>レイルガン装弾</Bullet_ChargeLance.label>
-	<Gun_ChargeLance.label>レイルガン</Gun_ChargeLance.label>
-	<Gun_ChargeLance.description>メカノイド製のレイルガン、槍状の物体を高速度で射出します。</Gun_ChargeLance.description>
 </LanguageData>

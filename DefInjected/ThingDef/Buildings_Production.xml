@@ -13,7 +13,7 @@
 	<TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</TableButcher.description>
 
 	<HandTailoringBench.label>ミシン台</HandTailoringBench.label>
-	<HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、40%程しか作成速度はありません。</HandTailoringBench.description>
+	<HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、50%程しか作成速度はありません。</HandTailoringBench.description>
 
 	<ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
 	<ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の40%のに作成速度が落ちます。</ElectricTailoringBench.description>
@@ -46,6 +46,9 @@
 
 	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
 	<ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</ElectricSmelter.description>
+
+    <Refinery.label>refinery</Refinery.label>
+    <Refinery.description>A chemical refining plant. Used to refine wood into chemfuel.</Refinery.description>
 
 	<ComponentAssemblyBench.label>コンポーネント組立台</ComponentAssemblyBench.label>
 	<ComponentAssemblyBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です。</ComponentAssemblyBench.description>

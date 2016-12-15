@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<Confirm>了承</Confirm>
-<GoBack>戻る</GoBack>
-<OK>[OK]</OK>
+  <Confirm>了承</Confirm>
+  <GoBack>戻る</GoBack>
+  <OK>[OK]</OK>
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。\n\nこれにより旧バージョンでセーブしたセーブデータでのゲーム再開や、MODなどが、動作しなくなることが起きるかもしれません。</GameUpdatedToNewVersionInitial>
@@ -27,7 +27,7 @@
   <ModWithAssemblyWasUnloaded>MODを無効化しても、一部のプログラムは動作し続けており、完全にMODをアンロードできませんでした。\n\nゲームを一度終了させて、再起動を行うことで、１からMODをロードするので、これを推奨します。</ModWithAssemblyWasUnloaded>
 
   <!-- Missing Steam -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。</SteamClientMissing>
+  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
 
   <!-- Long events -->
   <InitializingInterface>インターフェースを初期化中</InitializingInterface>
@@ -38,8 +38,9 @@
   <Initializing>初期化中</Initializing>
   <LoadingWorld>惑星をロード中</LoadingWorld>
   <LoadingMap>地図をロード中</LoadingMap>
-  <InitializingMap>地図を初期化中</InitializingMap>
+  <InitializingGame>Initializing game</InitializingGame>
   <SpawningAllThings>全キャラクタを配置中</SpawningAllThings>
+  <SpawningColonists>Spawning colonists</SpawningColonists>
 
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
@@ -59,10 +60,19 @@
   <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
   <LoadAnyway>強制ロード</LoadAnyway>
 
-<!-- Colony naming-->
-<NameColonyMessage>誰もが こんな岩だらけの土地で 暮らしたくないことぐらい わかっています。 しかし、 とにかく 便宜の都合で この村に 名前を つけなければ いけません。\n\n{0}は、あなたが コミュニティの命名者になるべきと思っています。\nこの名前で よろしいですか？</NameColonyMessage>
-<ColonyGainsName>このコミュニティを {0} と 名付けました。</ColonyGainsName>
-<ColonyNameIsInvalid>その 名前は ふさわしく ありません。</ColonyNameIsInvalid>
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Zone naming -->
   <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
@@ -157,8 +167,7 @@
 <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
 <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
-  <SoilFertilitySensitivityGrowthRate>肥沃度に対する感度(成長率)</SoilFertilitySensitivityGrowthRate>
-  <SoilFertilitySensitivityPlantChance>肥沃度に対する感度(成功率)</SoilFertilitySensitivityPlantChance>
+  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
 <LightRequirement>成長に必要な光源</LightRequirement>
 <Attributes>属性</Attributes>
 <LifeSpan>寿命</LifeSpan>
@@ -168,6 +177,7 @@
 <WalkSpeedProperty>移動速度</WalkSpeedProperty>
 <MinFoodQuality>食べられる最低食材</MinFoodQuality>
 <Diet>食性</Diet>
+  <BodySize>Body size</BodySize>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>カバー</Covers>
@@ -203,6 +213,56 @@
 <NegotiatorTalkingImpaired>あなたの交渉者 {0}は病弱のため ちゃんと話すことができません。\n\nこのことは交渉価格に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
   <SortBy>並び替え</SortBy>
+
+    <!-- Form caravan -->
+    <FormCaravan>Form caravan</FormCaravan>
+    <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
+    <CaravanPawnsTab>Members</CaravanPawnsTab>
+    <CaravanItemsTab>Supplies</CaravanItemsTab>
+    <CaravanConfigTab>Config</CaravanConfigTab>
+    <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
+    <CaravanCouldNotFindExitSpot>Could not find any valid exit location.</CaravanCouldNotFindExitSpot>
+    <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location.</CaravanCouldNotFindReachableExitSpot>
+    <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
+    <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
+    <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
+    <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
+    <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+    <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+    <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
+    <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
+    <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
+    <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
+    <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
+    <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
+    <ExitDirection>Exit direction</ExitDirection>
+    <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+    <ItemWeightTip>Weight of this item.</ItemWeightTip>
+    <MassCapacity>Mass capacity</MassCapacity>
+    <Mass>Mass</Mass>
+    <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
+    <InventoryMass>Inventory mass</InventoryMass>
+    <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
+    <ReformCaravan>Reform caravan</ReformCaravan>
+
+    <!-- Split caravan -->
+    <SplitCaravan>Split caravan</SplitCaravan>
+    <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
+    <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
+    <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
+    <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
+    <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+
+    <!-- Load transporters -->
+    <LoadTransporters>Load {0}</LoadTransporters>
+    <LoadTransportersPawnsTab>People and animals</LoadTransportersPawnsTab>
+    <LoadTransportersItemsTab>Items</LoadTransportersItemsTab>
+    <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
+    <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
+    <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
+    <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
+    <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
+    <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
@@ -257,10 +317,27 @@
   <MoodThresholdColumnDesc>彼らのムードレベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>彼らの娯楽レベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき、余分に持ち出すドラッグの量です。予備の持ち出しを禁止すると、毎回、備蓄ゾーンにドラッグを取りにいきます。</TakeToInventoryColumnDesc>
-  <DrugUsageTipForJoy>快楽目的\n\nこのドラッグを、娯楽や社交目的、中毒による欲求を満たす為に使います。\n\nたとえ禁止にしても、ある固有の特徴を持ったキャラクターや、精神崩壊した者は、使用するかもしれません。</DrugUsageTipForJoy>
+  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
   <!-- Growing -->
   <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+  
+  <!-- Abandon pawn -->
+  <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
+  
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  
 
 </LanguageData>

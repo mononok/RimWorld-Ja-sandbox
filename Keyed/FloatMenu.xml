@@ -8,6 +8,7 @@
     <CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
     <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
     <CannotUseFull>使用できない (満載)</CannotUseFull>
+  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
 
 <FireAt>{0}に発射 (遠距離)</FireAt>
 
@@ -25,6 +26,7 @@
 
 	<ForbiddenLower>禁止</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>not in home area</NotInHomeArea>
 <SociallyImproperLower>社交的に不適当</SociallyImproperLower>
   <PrisonerRoomLower>牢獄</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
@@ -67,6 +69,7 @@
 <Reserved>他の誰かが 使用している</Reserved>
 <ReservedBy>{0}が 使用している</ReservedBy>
 <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
+  <TooHeavy>Too heavy</TooHeavy>
 
   <Incapable>能力が無い</Incapable>
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
@@ -81,11 +84,25 @@
 <CannotWear>{0}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
+    <CannotPickUp>Cannot pick up {0}</CannotPickUp>
+    <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+    <PickUp>Pick up {0}</PickUp>
+    <PickUpAll>Pick up {0} (all)</PickUpAll>
+    <PickUpSome>Pick up {0}...</PickUpSome>
+    <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+
+    <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+    <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+    <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+    <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+    <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+    <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+
+    <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+    <CarryToExit>Carry {0} and leave the area</CarryToExit>
+
 <Strip>{0}を 剥ぐ</Strip>
 <CannotStrip>{0}を 脱げない</CannotStrip>
-
-<Deposit>{0}を {1}に 預ける</Deposit>
-<CannotDeposit>{1}に {0}を 預けられない</CannotDeposit>
 
   <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
@@ -97,6 +114,10 @@
 
   <TradeWith>{0}と トレード</TradeWith>
   <CannotTrade>トレードできない</CannotTrade>
+
+  <EnterMap>Enter {0}</EnterMap>
+  <VisitFactionBase>Visit {0}</VisitFactionBase>
+  <AttackFactionBase>Attack {0}</AttackFactionBase>
 
 <!-- Specific thing interactions -->
     <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
@@ -126,4 +147,7 @@
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
 <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
 
+  <DropAtEdge>Drop at edge</DropAtEdge>
+  <DropInCenter>Drop in center</DropInCenter>
+  
 </LanguageData>

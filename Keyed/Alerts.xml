@@ -11,12 +11,6 @@
   <BreakRiskExtremeDesc>次の入植者のムードは、ストレスがかかって危機的状況です。いまにも精神崩壊(暴力的かも..)を起こしそうです:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>これらの入植者達の、"欲求"タブを見ると、何に悩んでいるかがわかります。\n\nムードを良くするには、おいしい食事を用意したり、もっと娯楽の時間と、娯楽を増やしたり、良い住環境を用意する、などの事をしましょう。</BreakRiskDescEnding>
 
-  <PoorMood>良くないムード</PoorMood>
-  <PoorMoodDesc>入植者は良くないムードに飲み込まれていて いつなんどき精神衰弱か精神崩壊が起きるかもしれません。\n\n{0}</PoorMoodDesc>
-  <TerribleMood>悪いムード</TerribleMood>
-  <TerribleMoodDesc>入植者は重大なストレス下にあり、いまこの瞬間にも、精神が壊れて暴力的になってもおかしくありません。\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>何が入植者達を悩ましているのか、彼らの要求タブを確認しましょう。</LowMoodDescEnding>
-
   <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
   <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
@@ -34,7 +28,7 @@
 <NeedWardenDesc>囚人が いますが、 「看守」の作業を持った 入植者がひとりもいません。\n\n入植者に 「看守」の作業を 割り当てましょう。</NeedWardenDesc>
 
 <LowFood>食料が少ない</LowFood>
-<LowFoodDesc>倉庫に {0} 単位の 食料しか ありません。 これは 危険なまでに 量が少ないです。 \n\n食料を 育てるか、買うか、探すか、または 狩ってください。</LowFoodDesc>
+  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
 
 <LowMedicine>薬品が少ない</LowMedicine>
 <LowMedicineDesc>倉庫に {0} 単位の 薬品しか ありません。\n\nもっとたくさんの薬品をトレイダーから買いましょう。</LowMedicineDesc>
@@ -47,7 +41,10 @@
   <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 遠距離武器で武装していません。\n\nハンターは遠距離武器で武装させないと狩りを行いません。</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>つぎの入植者は、 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない、なにか衣服を取得します。\n\nミシン台で衣服を作ることもできますし、トレーダーから買うこともできます。</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
 
 <Starvation>食べる物がない</Starvation>
 <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です。</StarvationDesc>
@@ -68,7 +65,7 @@
   <NeedJoySourceDesc>入植者は、自身の娯楽への欲求を満たす必要がありますが、あなた少しも娯楽施設を建てていません。\n\n輪投げのピン、チェス盤など他の娯楽設備を作って手助けしてあげましょう。</NeedJoySourceDesc>
 
 <NeedBatteries>電気をためる</NeedBatteries>
-<NeedBatteriesDesc>ソーラーパネルで つくった電気を バッテリーに ためましょう。 夜の間は バッテリーの 電気を つかいます。\n\nバッテリーが なければ 太陽が 沈むたびに 電気を 失って しまいます。</NeedBatteriesDesc>
+  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
 <BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
 <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが、遠距離武器で武装しています。 このことは、彼を非常に不愉快にさせるでしょう。</BrawlerHasRangedWeaponDesc>
@@ -108,5 +105,8 @@
   <NeedWarmClothesDesc1>寒気がやってきたとき、 少なくとも、入植者{0}人分の防寒着が足りなくなるでしょう。</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>寒気がやってきたとき、 入植者全員分の防寒着が足りなくなるでしょう。</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>外気温は {0}になる見込みです。\n\nミシン台で防寒着を作ることができますし、トレーダーから購入することもできます。</NeedWarmClothesDesc2>
+
+    <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+    <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
 
 </LanguageData>

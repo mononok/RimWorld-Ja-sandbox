@@ -30,7 +30,7 @@
   <FoodTypeFlags_VegetableOrFruit>野菜・果物</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>生肉</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>屍肉</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>種子</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_Seed>種子</FoodTypeFlags_Seed>
   <FoodTypeFlags_AnimalProduct>畜産物</FoodTypeFlags_AnimalProduct>
   <FoodTypeFlags_Plant>草・牧草</FoodTypeFlags_Plant>
   <FoodTypeFlags_Tree>樹皮・樹木</FoodTypeFlags_Tree>
@@ -78,6 +78,7 @@
   <Hilliness_SmallHills>小さな丘陵</Hilliness_SmallHills>
   <Hilliness_LargeHills>大きな丘陵</Hilliness_LargeHills>
   <Hilliness_Mountainous>山岳</Hilliness_Mountainous>
+  <Hilliness_Impassable>impassable</Hilliness_Impassable>
 
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>作成中</WorkshopInteractStage_CreatingItem>
@@ -144,8 +145,14 @@
   <Fahrenheit>華氏</Fahrenheit>
   <Kelvin>絶対温度</Kelvin>
 
-  <!-- Spoil reason -->
-  <SpoilReason_Freezing>凍結してしまい役に立たなくなった。</SpoilReason_Freezing>
-  <SpoilReason_HighTemperature>高温で役に立たなくなった。</SpoilReason_HighTemperature>
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
 
 </LanguageData>

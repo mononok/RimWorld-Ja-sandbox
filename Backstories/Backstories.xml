@@ -23,7 +23,7 @@
 	<DeepSpaceMiner11>
 		<title>外宇宙の鉱夫</title>
 		<titleShort>鉱夫</titleShort>
-		<desc>NAMEは、外宇宙空間に存在する小惑星上に建てられた掘削リグで、汗を流し、垢にまみれて、鉱物を掘削する作業に従事していました。HECAPは、毎日、HIS 実践的な工業スキルを使っていました – 酒場で酔っ払って殴りあうよりましでした</desc>
+		<desc>NAMEは、外宇宙空間に存在する小惑星上に建てられた掘削リグで、汗を流し、垢にまみれて、鉱物を掘削する作業に従事していました。HECAPは、毎日、HIS 実践的な工業スキルを使っていました ? 酒場で酔っ払って殴りあうよりましでした</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>海軍科学者</title>
@@ -336,8 +336,8 @@
 		<desc>Glitterworldは、ここに住めるラッキーな人々に、天国のような安心と快適さを提供しますが、NAMEは、人々が貧困に喘いでいる近くの惑星を、無視できませんでした。HECAPは、自分の時間を使って、必要としている人たちへの寄付と援助を訴えています。</desc>
 	</CharityWorker80>
 	<Defector59>
-		<title>Defector</title>
-		<titleShort>Defector</titleShort>
+		<title>亡命者</title>
+		<titleShort>亡命者</titleShort>
 		<desc>成人になって、間もない頃に、NAMEは、HEが住んでいる圧政的な独裁政権国から亡命することを決めました。HISCAP国外逃亡は、歓迎されず、HIM追って諜報員が出動しました。\n\nHECAPは、一年もの間追手の目を逃れ、怪我も、医者がHIM裏切るかもしれないので、自分自身で治してきました。辛い経験は、HIM人を信じない人間にしました。</desc>
 	</Defector59>
 	<FactoryWorker82>
@@ -366,53 +366,49 @@
 		<desc>NAMEは、恒星間を旅しながら、図鑑を完成させる事を期待して、HEが見つけた動植物の、分類や学習をしています。</desc>
 	</Taxonomist49>
 	<Geologist2>
-		<title>Geologist</title>
-		<titleShort>Geologist</titleShort>
-		<desc>NAME worked with miners and cave-diggers, identifying rock types and natural formations.
-
-During HIS years underground HE also gained experience repairing drilling machines and other technical equipment.</desc>
+		<title>地質学者</title>
+		<titleShort>地質学者</titleShort>
+		<desc>NAMEは、鉱夫、洞窟を掘る仕事、地質や鉱物の鑑定士の仕事をしていました。\n\n地下生活の間じゅう、HEはまた、掘削機械や、他の工業機械などの修理経験を積みました。</desc>
 	</Geologist2>
 	<ConventChild41>
-		<title>Convent child</title>
-		<titleShort>Illicit</titleShort>
-		<desc>The child of an illicit affair, NAME was bought up by nuns in a medieval convent. HECAP learned the value of hard work and submission, but was taught that technology is heretical.</desc>
+		<title>修道児</title>
+		<titleShort>不倫</titleShort>
+		<desc>不倫の結果、生まれた子として、NAMEは、中世世界の修道院で、修道女によって養育されました。HECAPは、勤勉であることの価値や、従順さを学びましたが、同時に、テクノロジーは異端であることも教えられました。</desc>
 	</ConventChild41>
 	<TestSubject75>
-		<title>Test subject</title>
-		<titleShort>Testee</titleShort>
-		<desc>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. NAME was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn HIM into a perfect super-soldier.</desc>
+		<title>実験体</title>
+		<titleShort>実験体</titleShort>
+		<desc>最も悪質なUrbworldでは、倫理基準の欠けた科学者が、 口にするのも恐ろしい極悪な名称の研究をおこなった。NAMEは、産まれてから、HIM完璧なスーパーソルジャーに変貌させるのに必要な、多様な実験を行うため、封印された施設の中に、一人だけで隔離されていた。</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
-		<title>Medical assistant</title>
-		<titleShort>Medic</titleShort>
-		<desc>NAME was born during a catastrophic war in which both sides used napalm extensively. HECAP grew up helping HIS parents in an infirmary, treating the cascade of horrific burns from the battlefields. HECAP was left with a lifelong fear of fire.</desc>
+		<title>看護師</title>
+		<titleShort>看護師</titleShort>
+		<desc>NAMEは、両軍共に広範囲においてナパーム弾をを使用した、破滅的な戦争のさなかに産まれました。HECAPは、親が開院している診療所で、戦場で負ったゾッとする火傷の治療を手伝いながら育ちました。HECAPを、一生涯、火は怖がっていました。</desc>
 	</MedicalAssistant75>
 	<CultChild15>
 		<title>Cult child</title>
 		<titleShort>Cult kid</titleShort>
-		<desc>NAME was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.
-
-After HIS first glimpse of the outside world, HE decided to run away.</desc>
+		<desc>NAMEは、最新の科学を遠ざけ、「全ての病は、聖なるアートを通した魂の浄化によって治癒されるだろう」と信じている、強大なカルト教の中に産まれました。\n\n初めて、外の世界をひと目見てから、HEは、脱会することに決めました。</desc>
 	</CultChild15>
 	<WreckageExplorer75>
-		<title>Wreckage explorer</title>
-		<titleShort>Explorer</titleShort>
-		<desc>Two generations before NAME was born, an apocalyptic war dragged HIS home planet into anarchy. NAME was tasked with watching HIS tribe's herds, but often shirked HIS duties to go exploring the crashed warships scattered around the planet.</desc>
+		<title>難破船漁り</title>
+		<titleShort>探検者</titleShort>
+		<desc>NAMEが生まれる二世代前に起きた、世紀末的な最終戦争が、HIS母星を無秩序な乱世に引きずり込みました。NAMEは、HIS部族が飼う群れを、見張る仕事が課せられてましたが、しばしば、HIS任務を放りだして、難破して惑星上に散り散りになった宇宙船を探検していました。</desc>
 	</WreckageExplorer75>
 	<ApocalypseSurvivor86>
-		<title>Apocalypse survivor</title>
-		<titleShort>Survivor</titleShort>
-		<desc>NAME was born during a time of unrest on HIS homeworld, as climate change threatened mass starvation and flooding. As HE grew up the situation worsened - billions died and peaceful states descended into anarchy. NAME and HIS parents did whatever they had to to survive.</desc>
+		<title>世紀末からの生存者</title>
+		<titleShort>サバイバー</titleShort>
+		<desc>NAMEは、HIS母星に大規模な気候変動が発生し、それによる洪水と飢饉で絶滅の危機に面した不安な日々を送る中、生まれました。HEが成長するにつれ状況は悪化していきました - 10億人が死に、平和的な国家が、無政府状態へと傾倒していきました。NAMEと、HIS両親は、どんなことをしてでも、生き残らなければなりませんでした。</desc>
 	</ApocalypseSurvivor86>
 	<StoryWriter68>
-		<title>Story writer</title>
-		<titleShort>Writer</titleShort>
-		<desc>As a child, NAME was addicted to reading. HECAP would spend all day in HIS local library with HIS nose in a book. When budget cuts forced the library to close, NAME was distraught. HE decided to fill the gap by writing HIS own stories instead.</desc>
+		<title>もの書き</title>
+		<titleShort>もの書き</titleShort>
+		<desc>子供の頃、NAMEは、本を読むことに熱中していました。HECAPは、一日中、近所の図書館に通って本を読んでいました。図書館の運営予算がカットされて閉鎖された時、NAMEはひどく取り乱しました。HEは、その心の隙間を、自分自身が物語を書くことにより、埋めようと決心しました。</desc>
 	</StoryWriter68>
 	<Sailor53>
-		<title>Sailor</title>
-		<titleShort>Sailor</titleShort>
-		<desc>NAME traversed the oceans on journeys of exploration, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. HECAP loved the sea so much HE refused to do all but the barest minimum of work on land, except to sell the treasures HE collected.</desc>
+		<title>船員</title>
+		<titleShort>船員</titleShort>
+		<desc>NAMEは、異国の地より動植物の標本を探し出し、たまに、海賊を追い払う、大海原を超えての探検の旅をしていました。HECAPは、そんなにまで海を愛していました。HEは、ぎりぎり最低限の作業と、HEが集めた宝物を売ること以外、全ての作業を拒否しました。</desc> 
 	</Sailor53>
 	<Jailbird93>
 		<title>Jailbird</title>
@@ -916,7 +912,7 @@ He enjoyed this lonely work, and tended to stay out of people's way and do his o
 	<PirateKing62>
 		<title>Pirate king</title>
 		<titleShort>Pirate</titleShort>
-		<desc>With no real care for other people, NAME fit in perfectly with the pirate crew that he had once been a captive of. Shortly after becoming one of the crew, NAME began to kill anyone or anything that got in his way—including his crew mates.</desc>
+		<desc>With no real care for other people, NAME fit in perfectly with the pirate crew that he had once been a captive of. Shortly after becoming one of the crew, NAME began to kill anyone or anything that got in his way?including his crew mates.</desc>
 	</PirateKing62>
 	<ConstructionGrunt79>
 		<title>Construction grunt</title>
@@ -1517,7 +1513,7 @@ Travelling often, HE was home-schooled and saw the world mostly through a comput
 	<Winerunner96>
 		<title>Winerunner</title>
 		<titleShort>Winerunner</titleShort>
-		<desc>Abandoned by his parents, NAME was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.
+		<desc>Abandoned by his parents, NAME was raised by the monks of the Novo Mosteiro dos Jeronimos monastery on Aracena VI.
 
 The monks taught him discipline and hard work. In return, HE would go into the city and 'acquire' exotic wines for the monks' nightly tastings.</desc>
 	</Winerunner96>
@@ -1838,7 +1834,7 @@ When not working, HE would make mechanical figurines, read old books, or occasio
 	<Minister38>
 		<title>Minister</title>
 		<titleShort>Minister</titleShort>
-		<desc>NAME managed to secure an important position in the government of a minor glitterworld. HECAP got used to the opulence, while attempting to keep HIS citizens content. HECAP had ample time for pleasure and indulgence – though HE never forgot how to do hard work.</desc>
+		<desc>NAME managed to secure an important position in the government of a minor glitterworld. HECAP got used to the opulence, while attempting to keep HIS citizens content. HECAP had ample time for pleasure and indulgence ? though HE never forgot how to do hard work.</desc>
 	</Minister38>
 	<ChessMaster23>
 		<title>Chess master</title>

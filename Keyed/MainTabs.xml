@@ -29,25 +29,25 @@
 
   <!-- Animals tab -->
   <Master>主人</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
-  <FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
-  <FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
+  <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>主人が徴兵時、付いていきます</FollowDraftedTip>
+  <FollowFieldworkTip>主人が狩猟、野良を手なずける、時に、付いていきます</FollowFieldworkTip>
 
 <!-- Factions tab -->
 <Hostile>敵対</Hostile>
-  <DefeatedLower>defeated</DefeatedLower>
+  <DefeatedLower>敗退</DefeatedLower>
 <HostileTo>{0} と 敵対</HostileTo>
 <CurrentGoodwill>現在の 友好度</CurrentGoodwill>
 
   <!-- Social tab -->
-  <Friend>Friend</Friend>
-  <Rival>Rival</Rival>
-  <Acquaintance>Acquaintance</Acquaintance>
-  
+  <Friend>友人</Friend>
+  <Rival>ライバル</Rival>
+  <Acquaintance>知人</Acquaintance>
+
   <!-- History tab - subtabs -->
   <Graph>グラフ</Graph>
   <Statistics>統計</Statistics>
-  
+
   <!-- History tab - Graphs -->
 <SelectGraph>グラフを選択</SelectGraph>
 <Last30Days>直近の30日</Last30Days>
@@ -61,12 +61,12 @@
   <!-- History tab - Statistics -->
 <Playtime>プレイ時間</Playtime>
 <Storyteller>AI脚本家</Storyteller>
-  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
 <NumThreatBigs>大きな脅威</NumThreatBigs>
 <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
-  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
 <ColonistsKilled>殺された 入植者数</ColonistsKilled>
 <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 

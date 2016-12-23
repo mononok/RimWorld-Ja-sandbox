@@ -10,24 +10,24 @@
     <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
-	<SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
+	<SmeltWeapon.description>高温と強力な磁石を使い、武器から使える資源にします。</SmeltWeapon.description>
 	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
-    <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
-    <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
-    <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+    <DestroyWeapon.label>武器を破壊する</DestroyWeapon.label>
+    <DestroyWeapon.description>不要な武器を高温で熱して破壊します。溶解するより早く、溶解できないアイテムにも可能ですが、何の資源も得られません。</DestroyWeapon.description>
+    <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
 
 	<MakeMortarShell.label>砲弾を作成する</MakeMortarShell.label>
 	<MakeMortarShell.description>砲弾を作成します。</MakeMortarShell.description>
 	<MakeMortarShell.jobString>砲弾を作成中</MakeMortarShell.jobString>
 
-    <MakeChemfuelFromWood.label>make chemfuel from wood</MakeChemfuelFromWood.label>
-    <MakeChemfuelFromWood.description>Make a batch of chemfuel by gasifying wood logs.</MakeChemfuelFromWood.description>
-    <MakeChemfuelFromWood.jobString>Refining chemfuel from wood.</MakeChemfuelFromWood.jobString>
+    <MakeChemfuelFromWood.label>液化燃料を精製(木材)</MakeChemfuelFromWood.label>
+    <MakeChemfuelFromWood.description>木材をガス化することでバイオ液化燃料を作成します。</MakeChemfuelFromWood.description>
+    <MakeChemfuelFromWood.jobString>木材を精製中</MakeChemfuelFromWood.jobString>
 
-    <MakeChemfuelFromOrganics.label>make chemfuel from organics</MakeChemfuelFromOrganics.label>
-    <MakeChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</MakeChemfuelFromOrganics.description>
-    <MakeChemfuelFromOrganics.jobString>Refining chemfuel from organics.</MakeChemfuelFromOrganics.jobString>
+    <MakeChemfuelFromOrganics.label>液化燃料を精製(有機物)</MakeChemfuelFromOrganics.label>
+    <MakeChemfuelFromOrganics.description>有機物からバイオ液化燃料を取り出し精製します。</MakeChemfuelFromOrganics.description>
+    <MakeChemfuelFromOrganics.jobString>有機物を精製中</MakeChemfuelFromOrganics.jobString>
 
 	<MakeComponent.label>コンポーネントを作成する</MakeComponent.label>
 	<MakeComponent.description>コンポーネントを作成します。</MakeComponent.description>

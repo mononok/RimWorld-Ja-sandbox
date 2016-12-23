@@ -8,7 +8,7 @@
     <CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
     <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
     <CannotUseFull>使用できない (満載)</CannotUseFull>
-  <LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+  <LeaderUnavailable>リーダー{0}は存在しない</LeaderUnavailable>
 
 <FireAt>{0}に発射 (遠距離)</FireAt>
 
@@ -26,7 +26,7 @@
 
 	<ForbiddenLower>禁止</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>not in home area</NotInHomeArea>
+  <NotInHomeArea>ホームエリアではない</NotInHomeArea>
 <SociallyImproperLower>社交的に不適当</SociallyImproperLower>
   <PrisonerRoomLower>牢獄</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
@@ -69,7 +69,7 @@
 <Reserved>他の誰かが 使用している</Reserved>
 <ReservedBy>{0}が 使用している</ReservedBy>
 <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
-  <TooHeavy>Too heavy</TooHeavy>
+  <TooHeavy>重すぎる</TooHeavy>
 
   <Incapable>能力が無い</Incapable>
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
@@ -84,22 +84,22 @@
 <CannotWear>{0}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
-    <CannotPickUp>Cannot pick up {0}</CannotPickUp>
-    <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-    <PickUp>Pick up {0}</PickUp>
-    <PickUpAll>Pick up {0} (all)</PickUpAll>
-    <PickUpSome>Pick up {0}...</PickUpSome>
-    <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+    <CannotPickUp>拾えない {0}</CannotPickUp>
+    <CannotPickUpAll>拾えない {0} (全て)</CannotPickUpAll>
+    <PickUp>{0}を拾う</PickUp>
+    <PickUpAll>{0}を拾う (全て)</PickUpAll>
+    <PickUpSome>{0}を拾う...</PickUpSome>
+    <PickUpCount>{0} x{{0}}を拾う</PickUpCount>
 
-    <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-    <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-    <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-    <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-    <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-    <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+    <CannotGiveToPackAnimal>{0}を荷役の家畜に与えられない</CannotGiveToPackAnimal>
+    <CannotGiveToPackAnimalAll>{0}を荷役の家畜に与えられない (全て)</CannotGiveToPackAnimalAll>
+    <GiveToPackAnimal>{0}を荷役の家畜に与える</GiveToPackAnimal>
+    <GiveToPackAnimalAll>{0}を荷役の家畜に与える (全て)</GiveToPackAnimalAll>
+    <GiveToPackAnimalSome>{0}を荷役の家畜に与える</GiveToPackAnimalSome>
+    <GiveToPackAnimalCount>{0} x{{0}}を取る</GiveToPackAnimalCount>
 
-    <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
-    <CarryToExit>Carry {0} and leave the area</CarryToExit>
+    <CannotCarryToExit>{0}を運んで、エリアを離れることができない</CannotCarryToExit>
+    <CarryToExit>{0}を運んで、エリアを離れる</CarryToExit>
 
 <Strip>{0}を 剥ぐ</Strip>
 <CannotStrip>{0}を 脱げない</CannotStrip>
@@ -115,9 +115,9 @@
   <TradeWith>{0}と トレード</TradeWith>
   <CannotTrade>トレードできない</CannotTrade>
 
-  <EnterMap>Enter {0}</EnterMap>
-  <VisitFactionBase>Visit {0}</VisitFactionBase>
-  <AttackFactionBase>Attack {0}</AttackFactionBase>
+  <EnterMap>{0}に入る</EnterMap>
+  <VisitFactionBase>{0}に訪れる</VisitFactionBase>
+  <AttackFactionBase>{0}を攻撃する</AttackFactionBase>
 
 <!-- Specific thing interactions -->
     <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
@@ -147,7 +147,7 @@
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
 <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
 
-  <DropAtEdge>Drop at edge</DropAtEdge>
-  <DropInCenter>Drop in center</DropInCenter>
-  
+  <DropAtEdge>端に落とす</DropAtEdge>
+  <DropInCenter>真ん中に落とす</DropInCenter>
+
 </LanguageData>

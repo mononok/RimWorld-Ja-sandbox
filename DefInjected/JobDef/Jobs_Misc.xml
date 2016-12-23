@@ -37,7 +37,7 @@
 
 	<RemoveApparel.reportString>TargetA 脱いでいる</RemoveApparel.reportString>
 	
-	<DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+	<DropEquipment.reportString>TargetA を除装している</DropEquipment.reportString>
 
     <Strip.reportString>TargetA を剥がしている</Strip.reportString>
 
@@ -50,9 +50,9 @@
 
 	<TakeBeerOutOfFermentingBarrel.reportString>TargetA 汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
 
-    <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+    <UnloadInventory.reportString>TargetA 荷下ろししている</UnloadInventory.reportString>
 
-    <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+    <UnloadYourInventory.reportString>持ち物を荷下ろししている</UnloadYourInventory.reportString>
 
     <ManTurret.reportString>ターレットを操作中</ManTurret.reportString>
 
@@ -72,7 +72,7 @@
 
 	<FleeAndCower.reportString>逃走中</FleeAndCower.reportString>
 
-    <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+    <EnterTransporter.reportString>TargetA に乗り込んでいる</EnterTransporter.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>

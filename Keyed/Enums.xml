@@ -78,7 +78,7 @@
   <Hilliness_SmallHills>小さな丘陵</Hilliness_SmallHills>
   <Hilliness_LargeHills>大きな丘陵</Hilliness_LargeHills>
   <Hilliness_Mountainous>山岳</Hilliness_Mountainous>
-  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+  <Hilliness_Impassable>通行不能</Hilliness_Impassable>
 
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>作成中</WorkshopInteractStage_CreatingItem>
@@ -146,13 +146,13 @@
   <Kelvin>絶対温度</Kelvin>
 
   <!-- Direction8Way -->
-  <Direction8Way_North_Short>N</Direction8Way_North_Short>
-  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
-  <Direction8Way_East_Short>E</Direction8Way_East_Short>
-  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
-  <Direction8Way_South_Short>S</Direction8Way_South_Short>
-  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
-  <Direction8Way_West_Short>W</Direction8Way_West_Short>
-  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  <Direction8Way_North_Short>北</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>北東</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>東</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>南東</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>南</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>南西</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>西</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>北西</Direction8Way_NorthWest_Short>
 
 </LanguageData>

@@ -20,11 +20,11 @@
     <GiveUpExit.baseInspectLine>精神状態: ギブアップ</GiveUpExit.baseInspectLine>
 
     <!-- Mental breaks: serious -->
-  <BingingDrugExtreme.label>binging on drug</BingingDrugExtreme.label>
-  <BingingDrugExtreme.baseInspectLine>Mental state: Binging on {0}</BingingDrugExtreme.baseInspectLine>
+  <BingingDrugExtreme.label>薬物中毒</BingingDrugExtreme.label>
+  <BingingDrugExtreme.baseInspectLine>精神状態: {0}薬物中毒</BingingDrugExtreme.baseInspectLine>
 
-  <BingingDrugMajor.label>binging on drug</BingingDrugMajor.label>
-  <BingingDrugMajor.baseInspectLine>Mental state: Binging on {0}</BingingDrugMajor.baseInspectLine>
+  <BingingDrugMajor.label>薬物に溺れる</BingingDrugMajor.label>
+  <BingingDrugMajor.baseInspectLine>精神状態: {0}薬物依存</BingingDrugMajor.baseInspectLine>
 
 	<WanderPsychotic.label>精神を病んでフラフラする</WanderPsychotic.label>
 	<WanderPsychotic.beginLetterLabel>呆然</WanderPsychotic.beginLetterLabel>
@@ -52,10 +52,10 @@
 	<WanderOwnRoom.recoveryMessage>{0}は もうHIM部屋に ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
 	<WanderOwnRoom.baseInspectLine>精神状態: ひきこもり</WanderOwnRoom.baseInspectLine>
 
-  <ManhunterPermanent.label>manhunter</ManhunterPermanent.label>
-  <ManhunterPermanent.beginLetterLabel>manhunter</ManhunterPermanent.beginLetterLabel>
-  <ManhunterPermanent.beginLetter>{0} has become a manhunter!</ManhunterPermanent.beginLetter>
-  <ManhunterPermanent.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</ManhunterPermanent.recoveryMessage>
-  <ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.label>殺人鬼</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetterLabel>殺人鬼</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.beginLetter>{0}は殺人鬼になった！</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>{0}の殺人衝動は去った。</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>狂気: 殺人鬼</ManhunterPermanent.baseInspectLine>
 
 </LanguageData>

@@ -23,8 +23,8 @@
   <Adapted>順応した</Adapted>
   <FreshMissingBodyPart>フレッシュ</FreshMissingBodyPart>
   <DevelopedImmunityLower>免疫をつける</DevelopedImmunityLower>
-  <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <NextTreatmentIn>Will need tending in {0}</NextTreatmentIn>
+  <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
+  <NextTreatmentIn>まもなく看病が必要 {0}</NextTreatmentIn>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
   <Race>人種</Race>
@@ -47,68 +47,68 @@
   <Fertilized>受精した</Fertilized>
   <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
 <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
-  <Freezing>Freezing</Freezing>
-  <Overheating>Overheating</Overheating>
-  <RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+  <Freezing>冷凍</Freezing>
+  <Overheating>オーバーヒート</Overheating>
+  <RuinedByTemperature>温度管理に失敗してダメになった</RuinedByTemperature>
 	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
 	<HiveReproducesIn>再生中</HiveReproducesIn>
 	<BrokenDown>故障中</BrokenDown>
 	<BondBrackets>(絆)</BondBrackets>
 	<Fuel>燃料</Fuel>
-  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
-  <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
-  <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
-  <ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
+  <FuelLevelGizmoLabel>燃料</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>燃料積載量を {0}に設定</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>燃料積載量を {0}に設定\n航続距離: {1} タイル</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>目標の燃料積載量: {0}</ConfiguredTargetFuelLevel>
 	<Enemies>敵</Enemies>
 	<TimePassed>経過時間</TimePassed>
 	<CurrentRadius>現在の範囲</CurrentRadius>
 	<RadiusExpandsIn>範囲 拡張中</RadiusExpandsIn>
 	<Permanent>不変</Permanent>
-  <CaravanResting>Resting.</CaravanResting>
-  <CaravanEstimatedTimeToDestination>Est. time to destination: {0}</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
-  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
-  <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
-  <CaravanTraveling>Traveling.</CaravanTraveling>
-  <CaravanWaiting>Waiting.</CaravanWaiting>
-  <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
-  <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+  <CaravanResting>休息中</CaravanResting>
+  <CaravanEstimatedTimeToDestination>到着予定時刻: {0}</CaravanEstimatedTimeToDestination>
+  <CaravanImmobilizedByMass>移動不能: 積載オーバー</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>食料切れ</CaravanOutOfFood>
+  <CaravanDaysOfFood>食料: {0} 日分</CaravanDaysOfFood>
+  <CaravanMemberMentalBreak>原因: {0}の精神崩壊により停止</CaravanMemberMentalBreak>
+  <AllCaravanMembersDowned>原因: 全員が行動不能</AllCaravanMembersDowned>
+  <CaravanTraveling>移動中</CaravanTraveling>
+  <CaravanWaiting>待機中</CaravanWaiting>
+  <CaravanHoursPerTile>時/タイル</CaravanHoursPerTile>
+  <CaravanBaseMovementTime>基本移動時間</CaravanBaseMovementTime>
+  <CurrentTileMovementTime>現タイルの移動時間</CurrentTileMovementTime>
   <Temperature>樽内温度</Temperature>
   <BadTemperature>温度が適していない</BadTemperature>
   <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
   <DrugEffectMultiplier>{0} 効果掛け率</DrugEffectMultiplier>
-  <CaravanVisiting>Visiting {0}.</CaravanVisiting>
-  <CaravanEntering>Entering {0}.</CaravanEntering>
-  <CaravanAttacking>Attacking {0}.</CaravanAttacking>
-  <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
-  <WornByCorpseChar>D</WornByCorpseChar>
-  <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
-  <Map>Map</Map>
-  <ForceExitAndRemoveMapCountdown>{0} hours until leaving</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0} hours.</ForceExitAndRemoveMapCountdownTip>
-  <Room>Room</Room>
-  <BeautyHere>Beauty here</BeautyHere>
-  <NoPower>No power</NoPower>
-  <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
-  <DisabledCommand>DISABLED</DisabledCommand>
-  <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
-  <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
-  <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
-  <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
-  <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
-  <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
+  <CaravanVisiting>訪問中 {0}</CaravanVisiting>
+  <CaravanEntering>参加中 {0}</CaravanEntering>
+  <CaravanAttacking>攻撃中 {0}</CaravanAttacking>
+  <WasWornByCorpse>すり切れた</WasWornByCorpse>
+  <WornByCorpseChar>霊</WornByCorpseChar>
+  <DeterioratingDueToBeingUnroofed>屋外に放置されて劣化中</DeterioratingDueToBeingUnroofed>
+  <Map>地図</Map>
+  <ForceExitAndRemoveMapCountdown>出発まで、あと{0}時間</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>入植者は自動的にキャラバン隊を再編成して、あと{0}後に、この地を後にします。</ForceExitAndRemoveMapCountdownTip>
+  <Room>部屋</Room>
+  <BeautyHere>美しい...</BeautyHere>
+  <NoPower>電力喪失</NoPower>
+  <WorkSpeedPenalty>作業速度が低下</WorkSpeedPenalty>
+  <DisabledCommand>無効</DisabledCommand>
+  <ReadyForLaunch>発射準備完了</ReadyForLaunch>
+  <NotReadyForLaunch>発射準備中</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>燃料が未接続</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>燃料無し</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>積み込み中</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>最大航続距離を超えた</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
   <FactionBaseTrader>{0} of {1}</FactionBaseTrader>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
   <ContainsBeer>内容物 {0} / {1} ビール</ContainsBeer>
   <Fermented>発酵した</Fermented>
-  <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
-  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationProgress>発行中: {0} (残り{1})</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません。発酵速度 掛け率: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
@@ -192,8 +192,8 @@
   <!-- Generated recipes -->
   <RecipeMake>{0} を作る</RecipeMake>
   <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
-  <RecipeAdminister>administer {0}</RecipeAdminister>
-  <RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+  <RecipeAdminister>責任者 {0}</RecipeAdminister>
+  <RecipeAdministerJobString>監督現場 {0}.</RecipeAdministerJobString>
 
 <!-- Thoughts -->
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
@@ -210,9 +210,9 @@
 <Faction>派閥</Faction>
 <Equipped>装備品</Equipped>
 <EquippedNothing>素手</EquippedNothing>
-  <Dead>Dead</Dead>
-  <Unconscious>Unconscious</Unconscious>
-  <PainShock>In shock due to pain</PainShock>
+  <Dead>死亡</Dead>
+  <Unconscious>意識不明</Unconscious>
+  <PainShock>痛みでショック</PainShock>
 <Incapacitated>倒れている</Incapacitated>
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
@@ -276,11 +276,11 @@
     <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
 	<ReadyToHarvest>収穫できます</ReadyToHarvest>
 	<Mature>十分成長した</Mature>
-  <OutdoorGrowingPeriod>Growing period</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>成長期間</OutdoorGrowingPeriod>
     <NoGrowingPeriod>なし</NoGrowingPeriod>
     <GrowYearRound>一年中</GrowYearRound>
 	<GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
-  <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>生育不可 (気温不適合)</CannotGrowBadSeasonTemperature>
 
 	<!-- Zones -->
 	<Zone>ゾーン</Zone>
@@ -302,15 +302,15 @@
 	<!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの可視 切り替え\n\nラーニングヘルパーは、学ぶことがあるときは、常に表示されています。何も学ぶものが無いときは非表示にできます。</ShowLearningHelperWhenEmptyToggleButton>
 	<ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
-  <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
+  <ShowEnvironmentToggleButton>住環境の可視 切り替え\n\nマウスポイントした場所の、美しさとステータスを数値で表します</ShowEnvironmentToggleButton>
     <ShowColonistBarToggleButton>入植者アイコンバーの切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します</ShowColonistBarToggleButton>
 	<AutoHomeAreaToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeAreaToggleButton>
 	<CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
     <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
-  <LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
-  <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
-  <ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
+  <LockNorthUpToggleButton>北が常に上になるように、カメラをロックします</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
+  <ExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ExpandingIconsToggleButton>
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
@@ -327,7 +327,7 @@
 	<NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
 
 	<!-- Building placement restricters -->
-  <WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} の作業速度が低下</WillGetWorkSpeedPenalty>
 	<MustPlaceUnroofed>屋根の下には 配置 できません。</MustPlaceUnroofed>
 	<MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
 	<MustPlaceNextToHopperAccepter>食材ホッパーを ペーストディスペンサーの となりに 配置してください。</MustPlaceNextToHopperAccepter>
@@ -335,7 +335,7 @@
     <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
 	<MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
 	<MustPlaceAdjacentStandable>全ての面において、人が立てるスペースが必要です。</MustPlaceAdjacentStandable>
-  <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください。</MustPlaceNearFuelingPort>
 
 	<!-- Wind Turbine -->
 	<WindTurbine_WindPathIsBlockedBy>邪魔している物：</WindTurbine_WindPathIsBlockedBy>
@@ -384,7 +384,7 @@
 	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
 	<GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
     <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、亜光速まで加速した対惑星兵器が、惑星表面に激しく打ち込まれました。水風船をライフル弾が撃ち抜いたごとく、この世界は激しい衝撃と共に液状化し、溶けた惑星の中心核は宇宙空間に吹き出しました。\n\n{0}の一部分は、いま、小さなアステロイドベルトとなっています。溶岩があふれだし、放射能にまみれたの地獄のようになった残りの部分は、絶えず巨大な惑星全体の振動とともに キロメートル級の波紋を起こしています。\n\n あなたは、生き残ることができません。</GameOverPlanetkillerImpact>
-  <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
+  <GameOverArrivedAtJourneyDestination>あなたが、船に乗り込むとき、クルーから心からの歓迎を受けました。みんな嬉しそうです。\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\nAIコアが、宇宙船を安全な惑星まで、誘導するでしょう。あなたの為に繁栄した惑星を、このAIが見つけられるかもしれませんが、他の星雲への数世紀に及ぶ旅への始まりかもしれません。何千年も、小惑星の氷原下に船体を隠す決断をするかもしれませんし、誰かが新しいGlitterworldを建設するまで、待たなければならないかもしれません。\n\nあなたが、冷凍睡眠ポッドに身を沈めるとき、この入植者達を信じることができるかどうか、わずかな疑いを感じて、ちょっとためらいます。\n\nその結果は、次に、あなたが目覚めた時に、きっと判るのでしょう。</GameOverArrivedAtJourneyDestination>
 	<GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
 	<GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
@@ -438,7 +438,7 @@
   <Filter>フィルター</Filter>
 
   <!-- Compass -->
-  <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+  <CompassTip>北極を指します。カメラを動かしても、常に北極が上にきます</CompassTip>
 
 
 </LanguageData>

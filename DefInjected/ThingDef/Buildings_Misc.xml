@@ -17,11 +17,11 @@
 	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
 	<MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</MoisturePump.description>
 
-    <PodLauncher.label>pod launcher</PodLauncher.label>
-    <PodLauncher.description>A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.</PodLauncher.description>
+    <PodLauncher.label>ポッドランチャー</PodLauncher.label>
+    <PodLauncher.description>一機の輸送ポッドを射出するための燃料を使用した射出機です。ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合、ランチャーはお互いに隣接して配置しなければなりません。</PodLauncher.description>
 
-    <TransportPod.label>transport pod</TransportPod.label>
-    <TransportPod.description>A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.</TransportPod.description>
+    <TransportPod.label>輸送ポッド</TransportPod.label>
+    <TransportPod.description>人や、動物、アイテムを乗せて運べる、打ち上げ可能な大気圏外輸送カーゴポッドです。物資の輸送、大気圏外からの奇襲降下や、増援などを行うことができます。</TransportPod.description>
 
   <!--========================== Facilities ============================-->
 	<MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>

@@ -29,19 +29,19 @@
 <ReviewWorld>惑星を確認</ReviewWorld>
 <WorldGenerate>創造する</WorldGenerate>
 <WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
-    <PlanetCoverage>Globe coverage</PlanetCoverage>
-    <PlanetRainfall>Overall rainfall</PlanetRainfall>
-    <PlanetTemperature>Overall temperature</PlanetTemperature>
-    <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-    <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-    <PlanetRainfall_High>High</PlanetRainfall_High>
-    <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-    <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-    <PlanetTemperature_High>High</PlanetTemperature_High>
+    <PlanetCoverage>惑星表面データの生成範囲</PlanetCoverage>
+    <PlanetRainfall>平均降水量</PlanetRainfall>
+    <PlanetTemperature>平均気温</PlanetTemperature>
+    <PlanetRainfall_Low>少雨</PlanetRainfall_Low>
+    <PlanetRainfall_Normal>普通</PlanetRainfall_Normal>
+    <PlanetRainfall_High>多雨</PlanetRainfall_High>
+    <PlanetTemperature_Low>低温</PlanetTemperature_Low>
+    <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
+    <PlanetTemperature_High>高温</PlanetTemperature_High>
 <Reset>リセット</Reset>
 <WorldSeed>シード値</WorldSeed>
 <RandomizeSeed>ランダムシード</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <PlanetCoverageTip>惑星の直径は常に同じですが、大きなマップを選ぶと、処理時間が非常に掛かる為、惑星表面全体を生成しません。 あなた望む、生成する惑星表面の割合を示します。</PlanetCoverageTip>
 
 <!--=========== Select world ===================-->
 <SelectWorld>惑星を選択</SelectWorld>
@@ -101,8 +101,8 @@
 
 <!--=========== Storyteller chooser ==========-->
 <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。この設定はオプションメニューからいつでも変更できます。</HowStorytellersWork>
+  <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
   <Difficulty>難易度</Difficulty>
 
   <!--=========== Landing site select =========-->
@@ -119,8 +119,8 @@
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
-  <AvgSummerTemp>年平均気温(夏期): {0}</AvgSummerTemp>
-  <AvgWinterTemp>年平均気温(冬季): {0}</AvgWinterTemp>
+  <AvgSummerTemp>年平均気温(夏期)</AvgSummerTemp>
+  <AvgWinterTemp>年平均気温(冬季)</AvgWinterTemp>
   <Rainfall>降雨量</Rainfall>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
@@ -128,10 +128,10 @@
   <HasCoast3>西海岸</HasCoast3>
   <FactionBase>本拠地</FactionBase>
   <StoneTypesHere>主な地層</StoneTypesHere>
-    <TimeZone>Timezone</TimeZone>
-    <MovementTimeNow>Current movement time</MovementTimeNow>
-    <MovementTimeSummer>Summer movement time</MovementTimeSummer>
-    <MovementTimeWinter>Winter movement time</MovementTimeWinter>
+    <TimeZone>タイムゾーン</TimeZone>
+    <MovementTimeNow>現在の移動時間</MovementTimeNow>
+    <MovementTimeSummer>夏期 移動時間</MovementTimeSummer>
+    <MovementTimeWinter>冬期 移動時間</MovementTimeWinter>
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>

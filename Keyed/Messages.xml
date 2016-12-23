@@ -74,9 +74,9 @@
 
 	<MessageInvoluntarySleep>{0}は、極度の疲労によって衰弱した。</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
-	<MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスをおかした。</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{0} has failed in a ridiculous way while operating on {1}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureMinor>{0}は {1}の手術中に わずかなミスを犯した。</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスを犯した。</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{0}は {1}の手術中に とんでもない事をして失敗した。</MessageMedicalOperationFailureRidiculous>
 
 	<MessageMedicalOperationWillAngerFaction>この手術は、{0}を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
 
@@ -136,67 +136,67 @@
 
   <MessageFoodPoisoning>{0}は、 {1}の食中毒を起こしました。</MessageFoodPoisoning>
 
-    <MessageFailedToSendCaravanBecausePawnLost>Failed to send the caravan because one of the colonists, prisoners or animals has been lost.</MessageFailedToSendCaravanBecausePawnLost>
-    <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from a mental break.</MessageCaravanFormationPaused>
-    <MessageCaravanFormationUnpaused>Your colonists will now continue forming a caravan.</MessageCaravanFormationUnpaused>
+    <MessageFailedToSendCaravanBecausePawnLost>入植者、囚人、家畜のうちの一人が迷子になったので、キャラバン隊の派遣は失敗に終わりました。</MessageFailedToSendCaravanBecausePawnLost>
+    <MessageCaravanFormationPaused>全員が精神崩壊から回復すれば、キャラバン隊は行動を続けるでしょう。</MessageCaravanFormationPaused>
+    <MessageCaravanFormationUnpaused>入植者達は、キャラバン隊編成を、続けようとしています。</MessageCaravanFormationUnpaused>
 
-    <MessageCaravanMemberHasExtremeMentalBreak>One of the caravan members has a mental break.</MessageCaravanMemberHasExtremeMentalBreak>
+    <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊した。</MessageCaravanMemberHasExtremeMentalBreak>
 
-    <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+    <MessageMaxPlanetCoveragePerformanceWarning>警告: 惑星データ生成に非常に長い処理時間を要します。</MessageMaxPlanetCoveragePerformanceWarning>
 
-    <MessagePlantDiedOfCold>{0} has died because of cold.</MessagePlantDiedOfCold>
-    <MessagePlantDiedOfRot>{0} has died from rotting due to being left unharvested.</MessagePlantDiedOfRot>
+    <MessagePlantDiedOfCold>{0}は凍死した</MessagePlantDiedOfCold>
+    <MessagePlantDiedOfRot>{0}は死んだのち放置されて腐乱した</MessagePlantDiedOfRot>
 
-    <MessagePawnBeingBurned>{0} is being burned by superheated air!</MessagePawnBeingBurned>
+    <MessagePawnBeingBurned>{0}は 高温に熱した大気で熱傷を負った</MessagePawnBeingBurned>
 
-    <MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
+    <MessageAccidentalOverdose>{0}は {1}を摂取中に誤って過剰摂取した!</MessageAccidentalOverdose>
 
-    <MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
+    <MessageCaravanArrivedAtDestination>{0}は 目的地に到達した</MessageCaravanArrivedAtDestination>
 
-    <MessageCaravanIsVisitingFaction>{0} has arrived in {1}.</MessageCaravanIsVisitingFaction>
+    <MessageCaravanIsVisitingFaction>{0}は {1}に到着した</MessageCaravanIsVisitingFaction>
 
-    <MessageCaravanEnteredWorldObject>{0} has arrived in {1}.</MessageCaravanEnteredWorldObject>
+    <MessageCaravanEnteredWorldObject>{0}は {1}に到着した</MessageCaravanEnteredWorldObject>
 
-    <MessagePawnLeftMapAndCreatedCaravan>{0} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
+    <MessagePawnLeftMapAndCreatedCaravan>{0}は、キャラバン隊を組んで、このエリアを後にした</MessagePawnLeftMapAndCreatedCaravan>
 
-    <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
+    <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功した</MessageSettledInExistingMap>
 
-    <MessageAmbushVictory>Victory! You have {0} hours to collect items before your colonists reform the caravan.</MessageAmbushVictory>
+    <MessageAmbushVictory>勝利! あなたはキャラバン隊が出発する前の、{0}時間でアイテムを集められた</MessageAmbushVictory>
 
-    <MessageAutomaticallyReformedCaravan>Your colonists have reformed the caravan.</MessageAutomaticallyReformedCaravan>
+    <MessageAutomaticallyReformedCaravan>キャラバン隊を再編成した</MessageAutomaticallyReformedCaravan>
 
-    <MessageOldWoundHealed>Because of {0}, {1}'s {2} has healed.</MessageOldWoundHealed>
+    <MessageOldWoundHealed>{0}により, {1}の {2}は 治癒された</MessageOldWoundHealed>
 
-    <MessageRescueeJoined>Since you rescued HIM, {0} has joined your group!</MessageRescueeJoined>
+    <MessageRescueeJoined>HIMを救出するより前に、{0}が あなたのグループに加わった!</MessageRescueeJoined>
 
-    <MessageAttackedCaravanIsNowHostile>Because you attacked a caravan of {0}, this faction is now hostile to you.</MessageAttackedCaravanIsNowHostile>
+    <MessageAttackedCaravanIsNowHostile>あなたが、キャラバン隊{0} を攻撃したことにより、今から、この派閥は、あなたの敵となります。</MessageAttackedCaravanIsNowHostile>
 
-    <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
-    <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+    <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません</MessageTransporterUnreachable>
+    <MessageTransportersNotAdjacent>全てのポッドランチャーは、輸送ポッドの隣に配置してください。</MessageTransportersNotAdjacent>
 
-    <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
-    <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+    <MessageTransportersLoadCanceled_TransporterDestroyed>輸送ポッドの一つが破壊されたので、荷積み作業は中止されました。</MessageTransportersLoadCanceled_TransporterDestroyed>
+    <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ポッドランチャーの一つが破壊されたので、荷積み作業は中止されました。</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
 
-    <MessageTransportersLoadingProcessStarted>Your colonists will now load the assigned items into the transport pods.</MessageTransportersLoadingProcessStarted>
+    <MessageTransportersLoadingProcessStarted>入植者達は、輸送ポッドに指定のアイテムを積み込もうとします。</MessageTransportersLoadingProcessStarted>
 
-    <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
-    <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
-    <MessageTransportPodsArrived_BecameHostile>{0} is now hostile to you.</MessageTransportPodsArrived_BecameHostile>
+    <MessageTransportPodsArrived>輸送ポッドは到着しました。</MessageTransportPodsArrived>
+    <MessageTransportPodsArrivedAndLost>輸送ポッドは、いま到着しましたが、入植者が一人も乗っていないため、荷物は失われました。</MessageTransportPodsArrivedAndLost>
+    <MessageTransportPodsArrived_BecameHostile>{0}は、いまから、あなたの敵となります。</MessageTransportPodsArrived_BecameHostile>
 
-    <MessageFailedToLoadTransportersBecauseColonistLost>The loading process has been canceled because one of the colonists has been lost.</MessageFailedToLoadTransportersBecauseColonistLost>
+    <MessageFailedToLoadTransportersBecauseColonistLost>搭乗者のひとりを失ったので、荷積み作業は中止されました。</MessageFailedToLoadTransportersBecauseColonistLost>
 
-    <MessageFinishedLoadingTransporters>Your colonists have finished loading the transport pods.</MessageFinishedLoadingTransporters>
+    <MessageFinishedLoadingTransporters>輸送ポッドへの積み込みを、たった今、終了しました。</MessageFinishedLoadingTransporters>
 
-    <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
-    <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
+    <MessageTransportPodsDestinationIsInvalid>目的地が不正です。</MessageTransportPodsDestinationIsInvalid>
+    <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは、輸送ポッドを飛ばすのに、少なくても x{0}の燃料を必要とします。</MessageTransportPodsDestinationIsTooFar>
 
-    <MessageReformedCaravan>The caravan has been reformed.</MessageReformedCaravan>
+    <MessageReformedCaravan>キャラバン隊が再編成できました。</MessageReformedCaravan>
 
-    <MessageCantAbandonLastColonist>You can't abandon the last colonist.</MessageCantAbandonLastColonist>
+    <MessageCantAbandonLastColonist>最後の一人を放棄することはできません。</MessageCantAbandonLastColonist>
 
-    <MessageCantEquipIncapableOfViolence>Cannot equip: {0} is incapable of violence.</MessageCantEquipIncapableOfViolence>
-    <MessageCantEquipIncapableOfManipulation>Cannot equip: incapable.</MessageCantEquipIncapableOfManipulation>
+    <MessageCantEquipIncapableOfViolence>装備不可: {0}は暴力を否定</MessageCantEquipIncapableOfViolence>
+    <MessageCantEquipIncapableOfManipulation>装備不可: 欠点</MessageCantEquipIncapableOfManipulation>
 
-    <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
+    <MessageSlaughteringBondedAnimal>絆がある為、{0}を屠殺しようとすると、{1}を不満にさせるでしょう。</MessageSlaughteringBondedAnimal>
 
 </LanguageData>

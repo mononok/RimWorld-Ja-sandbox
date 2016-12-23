@@ -27,7 +27,7 @@
   <ModWithAssemblyWasUnloaded>MODを無効化しても、一部のプログラムは動作し続けており、完全にMODをアンロードできませんでした。\n\nゲームを一度終了させて、再起動を行うことで、１からMODをロードするので、これを推奨します。</ModWithAssemblyWasUnloaded>
 
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
 
   <!-- Long events -->
   <InitializingInterface>インターフェースを初期化中</InitializingInterface>
@@ -38,9 +38,9 @@
   <Initializing>初期化中</Initializing>
   <LoadingWorld>惑星をロード中</LoadingWorld>
   <LoadingMap>地図をロード中</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
+  <InitializingGame>ゲームを初期化中</InitializingGame>
   <SpawningAllThings>全キャラクタを配置中</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <SpawningColonists>入植者を配置中</SpawningColonists>
 
 <!-- Save/load -->
 <SaveGameButton>保存</SaveGameButton>
@@ -61,23 +61,23 @@
   <LoadAnyway>強制ロード</LoadAnyway>
 
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+  <NamePlayerFactionMessage>{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました。</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>その名前は適当ではありません。</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
-  
+  <NamePlayerFactionBaseMessage>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>この共同体を {0}と名乗りました。</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません。</PlayerFactionBaseNameIsInvalid>
+
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {0}と名乗りました。</PlayerFactionAndBaseGainsName>
 
   <!-- Zone naming -->
   <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
   <NameIsInUse>その名前は既に使われています。</NameIsInUse>
-  <ZoneGainsName>このゾーンを {0} という名前に きめました。</ZoneGainsName>
+  <ZoneGainsName>このゾーンを {0} という名前に 決めました。</ZoneGainsName>
 
   <!-- Pawn naming -->
   <PawnGainsName>ニックネームを {0} と決めました。</PawnGainsName>
@@ -177,7 +177,7 @@
 <WalkSpeedProperty>移動速度</WalkSpeedProperty>
 <MinFoodQuality>食べられる最低食材</MinFoodQuality>
 <Diet>食性</Diet>
-  <BodySize>Body size</BodySize>
+  <BodySize>身体の大きさ</BodySize>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <baseMarketValue>標準小売価格</baseMarketValue>
   <Covers>カバー</Covers>
@@ -215,54 +215,55 @@
   <SortBy>並び替え</SortBy>
 
     <!-- Form caravan -->
-    <FormCaravan>Form caravan</FormCaravan>
-    <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
-    <CaravanPawnsTab>Members</CaravanPawnsTab>
-    <CaravanItemsTab>Supplies</CaravanItemsTab>
-    <CaravanConfigTab>Config</CaravanConfigTab>
-    <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
-    <CaravanCouldNotFindExitSpot>Could not find any valid exit location.</CaravanCouldNotFindExitSpot>
-    <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location.</CaravanCouldNotFindReachableExitSpot>
-    <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
-    <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
-    <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
-    <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
-    <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+    <FormCaravan>キャラバン隊を編成</FormCaravan>
+    <FormCaravanColonyThingCountTip>コロニーがキャラバン隊に持たすことができる、このアイテムの数</FormCaravanColonyThingCountTip>
+    <PawnsTab>メンバー</PawnsTab>
+    <ItemsTab>物資</ItemsTab>
+    <CaravanConfigTab>設定</CaravanConfigTab>
+    <CaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</CaravanMustHaveAtLeastOneColonist>
+    <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません。</CaravanCouldNotFindExitSpot>
+    <CaravanCouldNotFindReachableExitSpot>警告: 一部の指示された入植者は、出発エリアまで到達できません。</CaravanCouldNotFindReachableExitSpot>
+    <CaravanPawnIsUnreachable>指示した入植者は、{0}に 到達できません。</CaravanPawnIsUnreachable>
+    <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableSingle>
+    <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>
+    <TooBigCaravanMassUsage>キャラバン隊は充分に運ぶ事が出来ません。</TooBigCaravanMassUsage>
+    <CaravanMassUsageTooltip>現在の積載量と、最大積載量を表します。\n\n積載量は、入植者が運んでいる物資だけではなく、本人が身につけている物も含んでいます。\n\nもしも積載量が最大積載量に達っした場合は、キャラバン隊を送る事が出来なくなります。</CaravanMassUsageTooltip>
+
     <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-    <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
-    <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
-    <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog>
-    <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.\n\nAre you sure you want to form this caravan?</DaysWorthOfFoodWarningDialog_NoFood>
-    <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
-    <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-    <ExitDirection>Exit direction</ExitDirection>
+    <DaysWorthOfFoodInfo>食料 {0}日分</DaysWorthOfFoodInfo>
+    <DaysWorthOfFoodTooltip>キャラバン隊の食料が尽きてしまう概算の日数を表します。\n\n最悪のケースを考えたときの、ヒトか家畜、両方の食料事情を計算してあります。これはつまり、日数が経ち、少なくても一人か一匹の食料が無くなるまでの日数です。</DaysWorthOfFoodTooltip>
+    <DaysWorthOfFoodWarningDialog>キャラバン隊は {0}日分の食料しかないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog>
+    <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
+    <NoExitDirectionForCaravanChosen>キャラバン隊の、出発方向を決めなければなりません。</NoExitDirectionForCaravanChosen>
+    <NoCaravanExitDirectionAvailable>(出発方向が無い)</NoCaravanExitDirectionAvailable>
+    <ExitDirection>出発方向</ExitDirection>
     <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-    <ItemWeightTip>Weight of this item.</ItemWeightTip>
-    <MassCapacity>Mass capacity</MassCapacity>
-    <Mass>Mass</Mass>
-    <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
-    <InventoryMass>Inventory mass</InventoryMass>
-    <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
-    <ReformCaravan>Reform caravan</ReformCaravan>
+    <ItemWeightTip>このアイテムの重量</ItemWeightTip>
+    <MassCapacity>最大積載量</MassCapacity>
+    <Mass>重さ</Mass>
+    <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
+    <InventoryMass>持ち物の重さ</InventoryMass>
+    <CaravanFormationProcessStarted>入植者は、指示されたアイテムを持って、できるだけ早く、このエリアを離れようとしています。</CaravanFormationProcessStarted>
+    <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
 
     <!-- Split caravan -->
-    <SplitCaravan>Split caravan</SplitCaravan>
-    <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-    <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
-    <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
-    <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
-    <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+    <SplitCaravan>キャラバン隊の分割</SplitCaravan>
+    <SourceCaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</SourceCaravanMustHaveAtLeastOneColonist>
+    <CaravanSplitSourceLabel>現在</CaravanSplitSourceLabel>
+    <CaravanSplitDestLabel>新規</CaravanSplitDestLabel>
+    <SplitCaravanThingCountTip>元のキャラバンが、分割先のキャラバン隊に持たすことができる、このアイテムの数</SplitCaravanThingCountTip>
+    <SplitCaravanMassUsageTooltip>現在の、積載量と、最大積載量</SplitCaravanMassUsageTooltip>
 
     <!-- Load transporters -->
-    <LoadTransporters>Load {0}</LoadTransporters>
-    <LoadTransportersPawnsTab>People and animals</LoadTransportersPawnsTab>
-    <LoadTransportersItemsTab>Items</LoadTransportersItemsTab>
-    <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
-    <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
-    <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
-    <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
-    <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
-    <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
+    <LoadTransporters>{0}を荷積み</LoadTransporters>
+    <LoadTransportersPawnsTab>人・家畜</LoadTransportersPawnsTab>
+    <LoadTransportersItemsTab>アイテム</LoadTransportersItemsTab>
+    <TooBigTransportersMassUsage>指示された人とアイテムは、輸送ポッドには重すぎます。</TooBigTransportersMassUsage>
+    <CantSendEmptyTransportPods>空の輸送ポッドを送る事はできません。</CantSendEmptyTransportPods>
+    <PawnCantReachTransporters>{0}は、輸送ポッドまでたどり着く事ができません。</PawnCantReachTransporters>
+    <TransporterItemIsUnreachableSingle>{0}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableSingle>
+    <TransporterItemIsUnreachableMulti>{0}x {1}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableMulti>
+    <TransportersMassUsageTooltip>現在の、積載量と、最大積載量\n\nもしも積載量が最大積載量に達っした場合は、輸送ポッドを送る事が出来なくなります。</TransportersMassUsageTooltip>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
@@ -317,27 +318,27 @@
   <MoodThresholdColumnDesc>彼らのムードレベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>彼らの娯楽レベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき、余分に持ち出すドラッグの量です。予備の持ち出しを禁止すると、毎回、備蓄ゾーンにドラッグを取りにいきます。</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-  <DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
+  <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを、中毒患者の要求に従って与えることができます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは、快楽は、人つきあいを目的として使用できます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
   <!-- Growing -->
   <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
   <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  
+  <ConfirmAbandonHomeWithColonyPawns>このエリアに、入植者や家畜の一部がまだ居ます。本当に放棄するのですか？\n\n下記の、入植者と家畜が、置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
-  
+  <ConfirmLeavePrisonersOrAnimalsBehind>このエリアを離れる、一部の囚人と家畜が、まだおり、ここにいる唯一のキャラバン隊に加わろうとしています。\n\nもしこのキャラバン隊を移動させると、帰ってくるまで、彼らはキャラバン隊に加わる事が出来なくなってしまいます。囚人は脱走しはじめ、家畜は待ち続けるでしょう。\n\nもし待つと決めたのなら、できるだけ、彼らをキャラバン隊に加えるようにしてください。\n\n本当にキャラバン隊を移動させますか？</ConfirmLeavePrisonersOrAnimalsBehind>
+
   <!-- Abandon pawn -->
-  <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
-  
+  <ConfirmAbandonPawnDialog>本当に、{0}を放棄しますか？</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0}は、おそらく死ぬでしょう。</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0}は 次のアイテムを取るでしょう:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>全ての入植者は、こう思うでしょう:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>{0}を放棄すると、人々は、次のように思うでしょう:</ConfirmAbandonPawnDialog_IndividualThoughts>
+
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
-  
+  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+
 
 </LanguageData>

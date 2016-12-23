@@ -1,278 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <NeedFood.stages.0.label>hungry</NeedFood.stages.0.label>
-    <NeedFood.stages.0.description>I'm really hungry.</NeedFood.stages.0.description>
-    <NeedFood.stages.1.label>urgently hungry</NeedFood.stages.1.label>
-    <NeedFood.stages.1.description>These hunger pangs are hard to ignore.</NeedFood.stages.1.description>
-    <NeedFood.stages.2.label>starving (trivial)</NeedFood.stages.2.label>
-    <NeedFood.stages.2.description>It's been so long since I ate. I'm all fuzzy and it's hard to focus.</NeedFood.stages.2.description>
-    <NeedFood.stages.3.label>starving (minor)</NeedFood.stages.3.label>
-    <NeedFood.stages.3.description>I can feel my body wasting away. My stomach hurts like never before.</NeedFood.stages.3.description>
-    <NeedFood.stages.4.label>starving (moderate)</NeedFood.stages.4.label>
-    <NeedFood.stages.4.description>I can barely think about anything but food. My skin is stretching over my bones. Am I going to die?</NeedFood.stages.4.description>
-    <NeedFood.stages.5.label>starving (severe)</NeedFood.stages.5.label>
-    <NeedFood.stages.5.description>I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out.</NeedFood.stages.5.description>
-    <NeedFood.stages.6.label>starving (extreme)</NeedFood.stages.6.label>
-    <NeedFood.stages.6.description>Food... food... just a bite to eat... anything... please...</NeedFood.stages.6.description>
+    <NeedFood.stages.0.label>お腹が空いた</NeedFood.stages.0.label>
+    <NeedFood.stages.0.description>本当にお腹が空いてきた。</NeedFood.stages.0.description>
+    <NeedFood.stages.1.label>飢餓</NeedFood.stages.1.label>
+    <NeedFood.stages.1.description>お腹が空いて、他の事ができない。</NeedFood.stages.1.description>
+    <NeedFood.stages.2.label>餓死(些細)</NeedFood.stages.2.label>
+    <NeedFood.stages.2.description>最後に食事をしてから日が経った。意識がぼんやりしていて集中するのが難しい。</NeedFood.stages.2.description>
+    <NeedFood.stages.3.label>餓死(マイナー)</NeedFood.stages.3.label>
+    <NeedFood.stages.3.description>身体が衰弱していくのがわかる。胃がキリキリと病んでいる。</NeedFood.stages.3.description>
+    <NeedFood.stages.4.label>餓死(中程度) (moderate)</NeedFood.stages.4.label>
+    <NeedFood.stages.4.description>私はなんとか、やっとの思いで食べ物以外の事を考えることができる。皮膚は骨に張り付いている。このままだと死ぬのかな？</NeedFood.stages.4.description>
+    <NeedFood.stages.5.label>餓死(シビア)</NeedFood.stages.5.label>
+    <NeedFood.stages.5.description>私はなんとか、やっとの思いで食べ物以外の事を考えることができる。皮膚は骨に張り付いている。もう死ぬのかな？</NeedFood.stages.5.description>
+    <NeedFood.stages.6.label>餓死(極限)</NeedFood.stages.6.label>
+    <NeedFood.stages.6.description>食べ物...たべも...食べる... なんでも... ょうだい...</NeedFood.stages.6.description>
 
-    <NeedRest.stages.0.label>tired</NeedRest.stages.0.label>
-    <NeedRest.stages.0.description>I haven't slept in a while.</NeedRest.stages.0.description>
-    <NeedRest.stages.1.label>very tired</NeedRest.stages.1.label>
-    <NeedRest.stages.1.description>I'm so tired. I just want to lay down and rest for a few minutes...</NeedRest.stages.1.description>
-    <NeedRest.stages.2.label>exhausted</NeedRest.stages.2.label>
-    <NeedRest.stages.2.description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</NeedRest.stages.2.description>
+    <NeedRest.stages.0.label>疲れた</NeedRest.stages.0.label>
+    <NeedRest.stages.0.description>もうしばらく寝ていない。</NeedRest.stages.0.description>
+    <NeedRest.stages.1.label>とても疲れた</NeedRest.stages.1.label>
+    <NeedRest.stages.1.description>とても疲れた。今すぐ横になって、数分でも休みたい...</NeedRest.stages.1.description>
+    <NeedRest.stages.2.label>疲れ果てた</NeedRest.stages.2.label>
+    <NeedRest.stages.2.description>私は精根尽き果てた、かろうじて立っている。まぶたが重い、眠りたい……</NeedRest.stages.2.description>
 
-    <NeedJoy.stages.0.label>totally joy-deprived</NeedJoy.stages.0.label>
-    <NeedJoy.stages.0.description>It's been so long since I did anything I truly enjoyed.</NeedJoy.stages.0.description>
-    <NeedJoy.stages.1.label>very joy-deprived</NeedJoy.stages.1.label>
-    <NeedJoy.stages.1.description>I never get to relax and enjoy myself around here.</NeedJoy.stages.1.description>
-    <NeedJoy.stages.2.label>joy-deprived</NeedJoy.stages.2.label>
-    <NeedJoy.stages.2.description>I could really use a break for something enjoyable.</NeedJoy.stages.2.description>
-    <NeedJoy.stages.3.label>joy-filled</NeedJoy.stages.3.label>
-    <NeedJoy.stages.3.description>I've been having a great time here recently.</NeedJoy.stages.3.description>
-    <NeedJoy.stages.4.label>tons o' joy</NeedJoy.stages.4.label>
-    <NeedJoy.stages.4.description>I've been enjoying myself so much, I love it!</NeedJoy.stages.4.description>
+    <NeedJoy.stages.0.label>娯楽が全くない</NeedJoy.stages.0.label>
+    <NeedJoy.stages.0.description>最後に、私が本当に楽しいことをしてから、もうかなりの時間が経った。</NeedJoy.stages.0.description>
+    <NeedJoy.stages.1.label>とても娯楽が足りない</NeedJoy.stages.1.label>
+    <NeedJoy.stages.1.description>この辺りには、リラックスして娯楽を楽しめる所が無い。</NeedJoy.stages.1.description>
+    <NeedJoy.stages.2.label>娯楽が足りない</NeedJoy.stages.2.label>
+    <NeedJoy.stages.2.description>私は、何か楽しいことをしたい。</NeedJoy.stages.2.description>
+    <NeedJoy.stages.3.label>娯楽に満たされた</NeedJoy.stages.3.label>
+    <NeedJoy.stages.3.description>素晴らしい時間を過ごすことができた。</NeedJoy.stages.3.description>
+    <NeedJoy.stages.4.label>娯楽最高!!</NeedJoy.stages.4.label>
+    <NeedJoy.stages.4.description>とても面白くて、とても気に入った!</NeedJoy.stages.4.description>
 
-    <NeedComfort.stages.0.label>uncomfortable</NeedComfort.stages.0.label>
-    <NeedComfort.stages.0.description>I've been kind of uncomfortable recently. We need to get something soft to sit on around here.</NeedComfort.stages.0.description>
-    <NeedComfort.stages.1.label>comfortable</NeedComfort.stages.1.label>
-    <NeedComfort.stages.1.description>I've been comfortable recently.</NeedComfort.stages.1.description>
-    <NeedComfort.stages.2.label>very comfortable</NeedComfort.stages.2.label>
-    <NeedComfort.stages.2.description>I've been very comfortable recently.</NeedComfort.stages.2.description>
-    <NeedComfort.stages.3.label>extremely comfortable</NeedComfort.stages.3.label>
-    <NeedComfort.stages.3.description>I've been extremely comfortable recently. This place is so cushy!</NeedComfort.stages.3.description>
-    <NeedComfort.stages.4.label>luxuriantly comfortable</NeedComfort.stages.4.label>
-    <NeedComfort.stages.4.description>I am resting on clouds of heaven.</NeedComfort.stages.4.description>
+    <NeedComfort.stages.0.label>心地よくない</NeedComfort.stages.0.label>
+    <NeedComfort.stages.0.description>心地よくない、私達が、この辺りで座るには、何か柔らかい物が必要だ。</NeedComfort.stages.0.description>
+    <NeedComfort.stages.1.label>心地よい</NeedComfort.stages.1.label>
+    <NeedComfort.stages.1.description>最近、快適に過ごしている。</NeedComfort.stages.1.description>
+    <NeedComfort.stages.2.label>とても心地よい</NeedComfort.stages.2.label>
+    <NeedComfort.stages.2.description>最近、とても快適に過ごしている。</NeedComfort.stages.2.description>
+    <NeedComfort.stages.3.label>非常に心地よい</NeedComfort.stages.3.label>
+    <NeedComfort.stages.3.description>最近、非常に快適に過ごしている。この場所は贅沢な場所です。</NeedComfort.stages.3.description>
+    <NeedComfort.stages.4.label>素晴らしく心地よい</NeedComfort.stages.4.label>
+    <NeedComfort.stages.4.description>天上の雲の上で休息しているようだ。</NeedComfort.stages.4.description>
 
-    <NeedBeauty.stages.0.label>hideous environment</NeedBeauty.stages.0.label>
-    <NeedBeauty.stages.0.description>This place is unbearable. Get me out of here...</NeedBeauty.stages.0.description>
-    <NeedBeauty.stages.1.label>very ugly environment</NeedBeauty.stages.1.label>
-    <NeedBeauty.stages.1.description>This place is really unpleasant. I don't want to be here.</NeedBeauty.stages.1.description>
-    <NeedBeauty.stages.2.label>ugly environment</NeedBeauty.stages.2.label>
-    <NeedBeauty.stages.2.description>This place is unpleasant to be in.</NeedBeauty.stages.2.description>
-    <NeedBeauty.stages.3.label>pleasant environment</NeedBeauty.stages.3.label>
-    <NeedBeauty.stages.3.description>This place is nice.</NeedBeauty.stages.3.description>
-    <NeedBeauty.stages.4.label>very pleasant environment</NeedBeauty.stages.4.label>
-    <NeedBeauty.stages.4.description>I really like this place. It's beautiful.</NeedBeauty.stages.4.description>
-    <NeedBeauty.stages.5.label>beautiful environment</NeedBeauty.stages.5.label>
-    <NeedBeauty.stages.5.description>This place is beautiful. It lifts me up and makes me love life.</NeedBeauty.stages.5.description>
+    <NeedBeauty.stages.0.label>極めて嫌な環境</NeedBeauty.stages.0.label>
+    <NeedBeauty.stages.0.description>ここは、住むには酷すぎる、ここから連れ出して...</NeedBeauty.stages.0.description>
+    <NeedBeauty.stages.1.label>とても嫌な環境</NeedBeauty.stages.1.label>
+    <NeedBeauty.stages.1.description>この場所は、本当に気に障る。ここには居たくない</NeedBeauty.stages.1.description>
+    <NeedBeauty.stages.2.label>嫌な環境</NeedBeauty.stages.2.label>
+    <NeedBeauty.stages.2.description>この場所は、気に障る。</NeedBeauty.stages.2.description>
+    <NeedBeauty.stages.3.label>心地よい環境</NeedBeauty.stages.3.label>
+    <NeedBeauty.stages.3.description>この場所はいいね。</NeedBeauty.stages.3.description>
+    <NeedBeauty.stages.4.label>とても心地よい環境</NeedBeauty.stages.4.label>
+    <NeedBeauty.stages.4.description>私は本当にここが好きです。とても美しい。</NeedBeauty.stages.4.description>
+    <NeedBeauty.stages.5.label>美しい環境</NeedBeauty.stages.5.label>
+    <NeedBeauty.stages.5.description>この場所は美しい。気分も高揚し、幸せな人生をおくらせてくれます。</NeedBeauty.stages.5.description>
 
-    <NeedSpace.stages.0.label>very cramped interior</NeedSpace.stages.0.label>
-    <NeedSpace.stages.0.description>I feel like a rat in a tiny cage.</NeedSpace.stages.0.description>
-    <NeedSpace.stages.1.label>cramped interior</NeedSpace.stages.1.label>
-    <NeedSpace.stages.1.description>I wish I had more space to move around and breathe.</NeedSpace.stages.1.description>
-    <NeedSpace.stages.2.label>spacious interior</NeedSpace.stages.2.label>
-    <NeedSpace.stages.2.description>This is a really comfortably open indoor space.</NeedSpace.stages.2.description>
-
-<!--
-	<rep>
-		<path>Hungry.stages[0].label</path>
-		<trans>お腹が空いた</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[0].description</path>
-		<trans>もうしばらくの間、何も口にしていない。</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[1].label</path>
-		<trans>飢餓</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[1].description</path>
-		<trans>空腹による痛みが胃を締め付ける。今すぐ食べ物が必要だ、さもなければ餓死してしまう。</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[2].label</path>
-		<trans>餓死寸前</trans>
-	</rep>
-	<rep>
-		<path>Hungry.stages[2].description</path>
-		<trans>何か食べ物を、何でもいいから、口に入るものを、身体が消耗しきっているのがわかる、痛みが……</trans>
-	</rep>
-
-	<rep>
-		<path>Tired.stages[0].label</path>
-		<trans>疲れている</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[0].description</path>
-		<trans>ここしばらくの間、寝ていない。</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[1].label</path>
-		<trans>疲労が溜まってきた</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[1].description</path>
-		<trans>とても疲れた、今すぐここで、横になって数分でも眠らせて……</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[2].label</path>
-		<trans>疲れ果てた</trans>
-	</rep>
-	<rep>
-		<path>Tired.stages[2].description</path>
-		<trans>私は精根尽き果てた、かろうじて立っている。まぶたが重い、眠りたい……</trans>
-	</rep>
-
-	<rep>
-		<path>JoyLevel.stages[0].label</path>
-		<trans>娯楽が全く無い</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[0].description</path>
-		<trans>最後に、私が本当に楽しいことをしてから、もうかなりの時間が経った。</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[1].label</path>
-		<trans>ほとんど娯楽が無い</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[1].description</path>
-		<trans>この辺りでは、リラックスできる娯楽を楽しめる所が無い。</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[2].label</path>
-		<trans>娯楽が無い</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[2].description</path>
-		<trans>私は、何か楽しいことをしたい気がする。</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[3].label</path>
-		<trans>娯楽に満たされた</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[3].description</path>
-		<trans>素晴らしい時間を過ごすことができた。</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[4].label</path>
-		<trans>最高!!!</trans>
-	</rep>
-	<rep>
-		<path>JoyLevel.stages[4].description</path>
-		<trans>これは、なんて楽しいんだろう。とても気に入った。</trans>
-	</rep>
-
-	<rep>
-		<path>ComfortLevel.stages[0].label</path>
-		<trans>心地よくない</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[0].description</path>
-		<trans>心地よくない、私達が、この辺りで座るには、何か柔らかい物が必要だ。</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[1].label</path>
-		<trans>心地よい</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[1].description</path>
-		<trans>ここちよい。</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[2].label</path>
-		<trans>とても心地よい</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[2].description</path>
-		<trans>とても心地よい。</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[3].label</path>
-		<trans>素晴らしく心地よい</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[3].description</path>
-		<trans>素晴らしく心地よい、この地は快適だ。</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[4].label</path>
-		<trans>贅沢で心地よい</trans>
-	</rep>
-	<rep>
-		<path>ComfortLevel.stages[4].description</path>
-		<trans>天上の雲の上で休息しているようだ。</trans>
-	</rep>
-
-	<rep>
-		<path>EnvironmentUgly.stages[0].label</path>
-		<trans>嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[0].description</path>
-		<trans>ここは、住むには酷すぎる。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[1].label</path>
-		<trans>もっと嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[1].description</path>
-		<trans>ここの環境は気に障る。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[2].label</path>
-		<trans>非常に嫌な環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentUgly.stages[2].description</path>
-		<trans>ここの環境は耐えきれない、ここから連れ出してほしい。</trans>
-	</rep>
-
-	<rep>
-		<path>EnvironmentPretty.stages[0].label</path>
-		<trans>良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[0].description</path>
-		<trans>ここの環境は良い。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[1].label</path>
-		<trans>もっと良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[1].description</path>
-		<trans>ここは本当によい所で美しい。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[2].label</path>
-		<trans>非常に良い環境</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentPretty.stages[2].description</path>
-		<trans>すばらしく良く美しい。</trans>
-	</rep>
-
-	<rep>
-		<path>EnvironmentCramped.stages[0].label</path>
-		<trans>閉塞感</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[0].description</path>
-		<trans>この場所は本当に狭い、息をする空間も無いように感じる。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[1].label</path>
-		<trans>非常な閉塞感</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCramped.stages[1].description</path>
-		<trans>閉所恐怖症を起こしそうだ。身動きできない、狭いケージに入れられたネズミのような気分になる。</trans>
-	</rep>
-
-	<rep>
-		<path>EnvironmentSpaciousInterior.stages[0].label</path>
-		<trans>広々空間</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentSpaciousInterior.stages[0].description</path>
-		<trans>ここの室内空間は本当にゆったりとできる。</trans>
-	</rep>
--->
+    <NeedSpace.stages.0.label>とても狭苦しい室内</NeedSpace.stages.0.label>
+    <NeedSpace.stages.0.description>ケージの中のネズミになった気分です。</NeedSpace.stages.0.description>
+    <NeedSpace.stages.1.label>狭い室内</NeedSpace.stages.1.label>
+    <NeedSpace.stages.1.description>もっと、歩き回れる、息ができる空間が欲しい。</NeedSpace.stages.1.description>
+    <NeedSpace.stages.2.label>広々室内</NeedSpace.stages.2.label>
+    <NeedSpace.stages.2.description>ここは、本当に広々した室内空間です。</NeedSpace.stages.2.description>
 
 </LanguageData>

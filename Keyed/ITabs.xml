@@ -23,7 +23,7 @@
 	<!-- Bills tab  -->
 	<AddBill>新しい 加工</AddBill>
 	<RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
-  <MinimumSkill>Min skill</MinimumSkill>
+  <MinimumSkill>必要スキル</MinimumSkill>
 	<SuspendedCaps>中止</SuspendedCaps>
     <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
 	<PlantVerb>植物</PlantVerb>
@@ -40,7 +40,7 @@
     <PrisonerAttemptRecruit>入村を勧誘</PrisonerAttemptRecruit>
 	<PrisonerRelease>解放</PrisonerRelease>
 	<PrisonerExecution>処刑</PrisonerExecution>
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
 
 
   <!-- Medical - general -->
@@ -59,9 +59,9 @@
 	<DataProcessing>データ処理</DataProcessing>
 	<Communication>コミュニケーション</Communication>
 	<Affects>影響</Affects>
-  <BleedingRate>Bleeding</BleedingRate>
-  <TimeToDeath>death in {0}</TimeToDeath>
-  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <BleedingRate>出血量</BleedingRate>
+  <TimeToDeath>{0}で死亡</TimeToDeath>
+  <WontBleedOutSoon>出血が止まる</WontBleedOutSoon>
 	<HealthOverview>概要</HealthOverview>
 	<MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
 	<MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
@@ -115,7 +115,7 @@
 
   <!-- Gear tab -->
   <AverageArmor>アーマー平均値</AverageArmor>
-  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <MassCarried>積載重量: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
   <ArmorBlunt>打撲系</ArmorBlunt>
   <ArmorSharp>突刺系</ArmorSharp>

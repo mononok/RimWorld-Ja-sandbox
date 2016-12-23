@@ -117,12 +117,12 @@
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 
     <!-- Journey -->
-    <JourneyOffer>Someone contacts you on radio and offers to take you with them on their ship. They've sent you the exact world coordinates of their location.</JourneyOffer>
+    <JourneyOffer>何者かが無線であなたに接触し、彼らと共に、あなたも彼らの宇宙船に乗るよう申し出がありました。彼らは、あなたに正確な座標を送ってきました。</JourneyOffer>
 
     <!-- Caravan meeting -->
-    <CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
-    <CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
-    <CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
-    <CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
+    <CaravanMeeting>あなたのキャラバン隊は、平和的な{0}からのキャラバン隊と会いました。他からきたキャラバン隊の構成:\n\n{0}</CaravanMeeting>
+    <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
+    <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
+    <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
 
 </LanguageData>

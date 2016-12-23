@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <KnowGuestExecuted.stages.0.label>justified execution</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>A guilty prisoner or guest was executed. It was justified, but still sad.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.0.label>死刑執行</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>有罪と認められる囚人、ゲストの死刑執行を行った。正当な行為だが、それでも悲しい</KnowGuestExecuted.stages.0.description>
   <rep>
     <path>KnowGuestExecuted.stages[1].label</path>
     <trans>誰かが安楽死させられた</trans>
@@ -28,8 +28,8 @@
     <trans>犯罪者かゲストの誰かが死んだ、なぜならコロニーの連中が、彼の身体から臓器を取り出したからだ。おぞましい。</trans>
   </rep>
 
-  <KnowColonistExecuted.stages.0.label>justified execution of colonist</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>A guilty colonist was executed. It was justified, but still sad.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.0.label>死刑執行(入植者)</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>有罪と認められる入植者の死刑執行を行った。正当な行為だが、それでも悲しい</KnowColonistExecuted.stages.0.description>
   <rep>
     <path>KnowColonistExecuted.stages[1].label</path>
     <trans>入植者が安楽死させられた</trans>

@@ -2,36 +2,36 @@
 <LanguageData>
 
     <!-- WITab titles -->
-    <TabTerrain>Terrain</TabTerrain>
-    <TabPlanet>Planet</TabPlanet>
-    <TabCaravanSocial>Social</TabCaravanSocial>
-    <TabCaravanHealth>Health</TabCaravanHealth>
-    <TabCaravanNeeds>Needs</TabCaravanNeeds>
-    <TabCaravanGear>Gear</TabCaravanGear>
-    <TabCaravanItems>Items</TabCaravanItems>
+    <TabTerrain>地形</TabTerrain>
+    <TabPlanet>惑星</TabPlanet>
+    <TabCaravanSocial>社交</TabCaravanSocial>
+    <TabCaravanHealth>健康</TabCaravanHealth>
+    <TabCaravanNeeds>欲求</TabCaravanNeeds>
+    <TabCaravanGear>装備</TabCaravanGear>
+    <TabCaravanItems>アイテム</TabCaravanItems>
 
     <!-- Misc -->
-    <AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
-    <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
-    <AbandonTip>Abandon</AbandonTip>
-    <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
-    <AbandonAllTip>Abandon (all)</AbandonAllTip>
-    <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-    <AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
+    <AbandonSliderText>放棄 {{0}}x {0}</AbandonSliderText>
+    <ConfirmAbandonItemDialog>本当に {0}を放棄する気ですか？\n\n放棄されたアイテムは、修復できずに消滅するでしょう。</ConfirmAbandonItemDialog>
+    <AbandonTip>放棄</AbandonTip>
+    <AbandonSpecificCountTip>放棄 (個数指定)</AbandonSpecificCountTip>
+    <AbandonAllTip>放棄 (全て)</AbandonAllTip>
+    <AbandonItemTipExtraText>放棄されたアイテムは、修復できずに消滅するでしょう。</AbandonItemTipExtraText>
+    <AbandonTipWillDie>{0}は、おそらく死ぬでしょう。</AbandonTipWillDie>
 
     <!-- Caravan inspect -->
-    <CaravanColonists>Colonists</CaravanColonists>
-    <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
-    <CaravanItems>Inventory</CaravanItems>
-    <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-    <CaravanPrisoners>Prisoners</CaravanPrisoners>
-    <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+    <CaravanColonists>入植者</CaravanColonists>
+    <CaravanPrisonersAndAnimals>囚人と動物</CaravanPrisonersAndAnimals>
+    <CaravanItems>所持品</CaravanItems>
+    <OpenSpecificTabButtonTip>詳細を見るには"Open"タブをクリック</OpenSpecificTabButtonTip>
+    <CaravanPrisoners>囚人</CaravanPrisoners>
+    <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
 
     <!-- Caravan gear -->
-    <DragToRearrange>Drag to rearrange.</DragToRearrange>
+    <DragToRearrange>再調整するにはドラッグ</DragToRearrange>
 
     <!-- Planet -->
-    <PlanetSeed>Seed</PlanetSeed>
-    <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+    <PlanetSeed>シード値</PlanetSeed>
+    <PlanetCoverageShort>範囲</PlanetCoverageShort>
 
 </LanguageData>

@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+  <BuildRapport.label>友好的な会話</BuildRapport.label>
+  <rep>
+    <path>BuildRapport.logRulesInitiator.rulesStrings[0]</path>
+    <trans>logentry->[other_nameShortIndef] と友好的な会話を試みる。</trans>
+  </rep>
+  <rep>
+    <path>BuildRapport.logRulesRecipient.rulesStrings[0]</path>
+    <trans>logentry->[other_nameShortIndef] の友好的な会話に耳を傾けている。</trans>
+  </rep>
 
     <RecruitAttempt.label>勧誘する</RecruitAttempt.label>
 	<rep>

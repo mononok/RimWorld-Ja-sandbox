@@ -72,10 +72,10 @@
 
   <!-- Player faction and faction base naming -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {1}と名乗りました。</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {0}と名乗りました。</PlayerFactionAndBaseGainsName>
 
-  <!-- Zone naming -->
-  <ZoneNameIsInvalid>有効なゾーン名を 入力してください。</ZoneNameIsInvalid>
+  <!-- Renaming -->
+  <NameIsInvalid>正しい名前を入力してください。</NameIsInvalid>
   <NameIsInUse>その名前は既に使われています。</NameIsInUse>
   <ZoneGainsName>このゾーンを {0} という名前に 決めました。</ZoneGainsName>
 
@@ -179,7 +179,7 @@
 <Diet>食性</Diet>
   <BodySize>身体の大きさ</BodySize>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
-  <baseMarketValue>標準小売価格</baseMarketValue>
+  <MarketValue>標準小売価格</MarketValue>
   <Covers>カバー</Covers>
   <CoverEffectiveness>カバー効力</CoverEffectiveness>
   <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
@@ -193,6 +193,8 @@
   <TimeRecordsCategory>時</TimeRecordsCategory>
   <MiscRecordsCategory>その他</MiscRecordsCategory>
   <Addictiveness>中毒</Addictiveness>
+  <PackAnimal>駄載獣</PackAnimal>
+  <PackAnimalExplanation>この動物は、キャラバン隊が長い距離、アイテムを運ぶのに適しています。</PackAnimalExplanation>
 
 <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
@@ -213,6 +215,17 @@
 <NegotiatorTalkingImpaired>あなたの交渉者 {0}は病弱のため ちゃんと話すことができません。\n\nこのことは交渉価格に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
   <SortBy>並び替え</SortBy>
+	<TraderTypePrice>交易種別</TraderTypePrice>
+	<Selling>売り</Selling>
+	<Buying>買い</Buying>
+	<ItemSellPriceFactor>売り手 掛け率</ItemSellPriceFactor>
+	<DifficultyLevel>難易度</DifficultyLevel>
+	<PostCurve>global post-process curve</PostCurve>
+	<YourNegotiatorBonus>交渉ボーナス</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
+	<minimum>最小値</minimum>
+	<FinalPrice>最終価格</FinalPrice>
+  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
 
     <!-- Form caravan -->
     <FormCaravan>キャラバン隊を編成</FormCaravan>
@@ -228,9 +241,9 @@
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>
     <TooBigCaravanMassUsage>キャラバン隊は充分に運ぶ事が出来ません。</TooBigCaravanMassUsage>
     <CaravanMassUsageTooltip>現在の積載量と、最大積載量を表します。\n\n積載量は、入植者が運んでいる物資だけではなく、本人が身につけている物も含んでいます。\n\nもしも積載量が最大積載量に達っした場合は、キャラバン隊を送る事が出来なくなります。</CaravanMassUsageTooltip>
-
     <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
     <DaysWorthOfFoodInfo>食料 {0}日分</DaysWorthOfFoodInfo>
+    <InfiniteDaysWorthOfFoodInfo>食料不足にはならないでしょう。</InfiniteDaysWorthOfFoodInfo>
     <DaysWorthOfFoodTooltip>キャラバン隊の食料が尽きてしまう概算の日数を表します。\n\n最悪のケースを考えたときの、ヒトか家畜、両方の食料事情を計算してあります。これはつまり、日数が経ち、少なくても一人か一匹の食料が無くなるまでの日数です。</DaysWorthOfFoodTooltip>
     <DaysWorthOfFoodWarningDialog>キャラバン隊は {0}日分の食料しかないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog>
     <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
@@ -239,12 +252,16 @@
     <ExitDirection>出発方向</ExitDirection>
     <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
+    <MarketValueTip>小売価格</MarketValueTip>
     <MassCapacity>最大積載量</MassCapacity>
     <Mass>重さ</Mass>
     <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
     <InventoryMass>持ち物の重さ</InventoryMass>
     <CaravanFormationProcessStarted>入植者は、指示されたアイテムを持って、できるだけ早く、このエリアを離れようとしています。</CaravanFormationProcessStarted>
     <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
+    <ColonistsSection>入植者</ColonistsSection>
+    <PrisonersSection>囚人</PrisonersSection>
+    <AnimalsSection>動物</AnimalsSection>
 
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
@@ -256,8 +273,6 @@
 
     <!-- Load transporters -->
     <LoadTransporters>{0}を荷積み</LoadTransporters>
-    <LoadTransportersPawnsTab>人・家畜</LoadTransportersPawnsTab>
-    <LoadTransportersItemsTab>アイテム</LoadTransportersItemsTab>
     <TooBigTransportersMassUsage>指示された人とアイテムは、輸送ポッドには重すぎます。</TooBigTransportersMassUsage>
     <CantSendEmptyTransportPods>空の輸送ポッドを送る事はできません。</CantSendEmptyTransportPods>
     <PawnCantReachTransporters>{0}は、輸送ポッドまでたどり着く事ができません。</PawnCantReachTransporters>

@@ -137,8 +137,8 @@
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
   <WorkAmount>作業工数</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
-  <BillRequires>{0} {1}が必要</BillRequires>
-  <BillRequiresNutrition>栄養 {0}が必要</BillRequiresNutrition>
+  <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
+  <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
   <BillRequiresMayVary>(通常とは違うボリュームのアイテムは、その個数が変化する可能性があります。例：ゴールド)</BillRequiresMayVary>
   <ThisIsSmallVolume>これは最小の要素です。これが意味するところは、それぞれの'ユニット'は、通常の量の1/20と同じということです。ですから、同じ量を要求された場合は、通常20倍必要となります。</ThisIsSmallVolume>
   <UsableIngredients>材料</UsableIngredients>

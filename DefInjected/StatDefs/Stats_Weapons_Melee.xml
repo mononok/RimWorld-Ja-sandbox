@@ -6,6 +6,7 @@
 
 	<MeleeWeapon_Cooldown.label>クールダウン時間(近接武器)</MeleeWeapon_Cooldown.label>
 	<MeleeWeapon_Cooldown.description>この武器を一度使った後に必要な、待たなければならない時間です。</MeleeWeapon_Cooldown.description>
+	<MeleeWeapon_Cooldown.formatString>{0} 秒</MeleeWeapon_Cooldown.formatString>
 
   <!-- Damage multipliers should be stats on stuffs only-->
 

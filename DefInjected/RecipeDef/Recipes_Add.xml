@@ -177,38 +177,28 @@
 	<Make_SmokeleafJoint.label>ジョイントを調合する</Make_SmokeleafJoint.label>
 	<Make_SmokeleafJoint.description>ジョイントを調合する。</Make_SmokeleafJoint.description>
 	<Make_SmokeleafJoint.jobString>ジョイントを調合中</Make_SmokeleafJoint.jobString>
-	
+
     <MakeStoneBlocksSandstone.label>砂岩ブロックを作る</MakeStoneBlocksSandstone.label>
     <MakeStoneBlocksSandstone.description>砂岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksSandstone.description>
+    <MakeStoneBlocksSandstone.jobString>塊をカット中</MakeStoneBlocksSandstone.jobString>
 
     <MakeStoneBlocksGranite.label>花崗岩ブロックを作る</MakeStoneBlocksGranite.label>
     <MakeStoneBlocksGranite.description>花崗岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksGranite.description>
+    <MakeStoneBlocksGranite.jobString>塊をカット中</MakeStoneBlocksGranite.jobString>
 
     <MakeStoneBlocksLimestone.label>石灰岩ブロックを作る</MakeStoneBlocksLimestone.label>
     <MakeStoneBlocksLimestone.description>石灰岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksLimestone.description>
+    <MakeStoneBlocksLimestone.jobString>塊をカット中</MakeStoneBlocksLimestone.jobString>
 
     <MakeStoneBlocksSlate.label>粘板岩ブロックを作る</MakeStoneBlocksSlate.label>
     <MakeStoneBlocksSlate.description>粘板岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksSlate.description>
+    <MakeStoneBlocksSlate.jobString>塊をカット中</MakeStoneBlocksSlate.jobString>
 
     <MakeStoneBlocksMarble.label>大理石ブロックを作る</MakeStoneBlocksMarble.label>
     <MakeStoneBlocksMarble.description>大理石の塊をカットして役に立つブロックにする。</MakeStoneBlocksMarble.description>
+    <MakeStoneBlocksMarble.jobString>塊をカット中</MakeStoneBlocksMarble.jobString>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	<Make_Penoxycyline.label>ペノキシリンを作る</Make_Penoxycyline.label>
+	<Make_Penoxycyline.jobString>ペノキシリンを調合中</Make_Penoxycyline.jobString>
 
 </LanguageData>

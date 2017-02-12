@@ -24,6 +24,7 @@
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
 	<DeteriorationRate.description>屋外に放置された時、とりわけ風雨が当たっている時、アイテムの劣化しやすさを表しています。</DeteriorationRate.description>
+	<DeteriorationRate.formatString>{0}/日</DeteriorationRate.formatString>
 
     <Beauty.label>美しさ</Beauty.label>
     <Beauty.description>それを見た周りの人の気分を豊かにする、大きさを表します。</Beauty.description>

@@ -11,6 +11,8 @@
 	<!-- ============= PatientEmergency ============= -->
 
 	<PatientGoToBedEmergency.label>救命処置を受けるために\nベッドに行く</PatientGoToBedEmergency.label>
+	<PatientGoToBedEmergency.verb>の治療</PatientGoToBedEmergency.verb>
+	<PatientGoToBedEmergency.gerund>の治療を受ける</PatientGoToBedEmergency.gerund>
 
   <!-- ============= Doctor ============= -->
 
@@ -238,7 +240,7 @@
 	<DoBillsUseCraftingSpot.label>手工芸加工</DoBillsUseCraftingSpot.label>
 	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
 	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
-	
+
 	<DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
 	<DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
 	<DoBillsRefinery.gerund>refine chemicals at</DoBillsRefinery.gerund>
@@ -302,6 +304,8 @@
 	<TakeBeerOutOfFermentingBarrel.gerund>から汲み出す</TakeBeerOutOfFermentingBarrel.gerund>
 
 	<FillFermentingBarrel.label>ビア樽を満たす</FillFermentingBarrel.label>
+	<FillFermentingBarrel.verb>を満たす</FillFermentingBarrel.verb>
+	<FillFermentingBarrel.gerund>を満たす</FillFermentingBarrel.gerund>
 
 	<HaulGeneral.label>運搬</HaulGeneral.label>
 	<HaulGeneral.verb>を運ぶ</HaulGeneral.verb>

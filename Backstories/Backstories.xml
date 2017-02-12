@@ -52,13 +52,11 @@ NAMEは、トレードスキル(不正な取引や、テクニカルアナリシ
 		<titleShort>剣闘士</titleShort>
 		<desc>NAMEは、9歳の時に初陣を経験しました。HECAPは勝ち、さらに重要なことは、HIS観客たちを歓喜させたことでした。剣闘士という職業は、生きて残る限り、とても金になることがわかりました。そして、ほとんどの場合、自分の地位を表すことにもなりました。</desc>
 	</PitBrawler20>
-<!--
-	<IllegalShipwright79>
-		<title>ヤミ造船工</title>
-		<titleShort>造船工</titleShort>
-		<desc>"カーゴシップに、テラワット級ガンマレーザーを装備してはならない"と法律で決められています。特別に、もしそれを、通信機器のように秘匿して装備すれば、待ち伏せにもってこいの可能性があります。NAMEは、その方法を見つけ、このような法律に無関心な人々の為に製造して、大金を手にしました。</desc>
-	</IllegalShipwright79>
--->
+	<IllegalShipwright28>
+		<title>Illegal shipwright</title>
+		<titleShort>Shipwright</titleShort>
+		<desc>There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. NAME discovered that there is great profit to be made, however, from those who are uninterested in these laws.</desc>
+	</IllegalShipwright28>
 	<Courtesean56>
 		<title>売春婦</title>
 		<titleShort>売春婦</titleShort>
@@ -780,18 +778,6 @@ OrdoHistoriaの監視者が彼の世界を偶然見つけ、彼を救いまし�
 		<titleShort>浮浪者</titleShort>
 		<desc>NAMEは、掘削リグの掃除をしながら、別世界のテクノロジーが詰まった地下室を開けることをしていました。HEは、知らず知らずのうちに、惑星上の全ての生物を浄化してしまう最終兵器の引き金を引いてしまっていました。他人の人生より、これらのテクノロジーに興味を持ったので、HEは、地下室にあった宇宙船に乗り込み、さらに遺物を探す為に出発しました。</desc>
 	</DoomsdayPariah26>
-	<Dreamer99>
-		<title>夢想家</title>
-		<titleShort>夢想家</titleShort>
-		<desc>彼の父親が、よく居なくなるようになって以来、NAMEは、家の中で父親代わりをしていました。彼は、勤勉の重要性を、わかるようになりましたが、普通の子供と同じようには過ごせませんでした。</desc>
-	</Dreamer99>
-	<PirateSurveyor66>
-		<title>略奪者の鑑定人</title>
-		<titleShort>鑑定人</titleShort>
-		<desc>Geotekコーポレーションの鑑定人として、NAMEの仕事は、新しい回収サイトを探すことでした。けれども、彼の本当の欲求は、遺跡に混じった古代のアーティファクトを探して、ブラックマーケットに売ることでした。
-
-彼はついに、それを見つけ出したとき、会社は力づくで取り返そうとしました。NAMEは、賞金を懸けられながらも脱出し、こうして略奪者の人生が始まりました。</desc>
-	</PirateSurveyor66>
 	<MechanoidNerd80>
 		<title>メカノイドオタク</title>
 		<titleShort>メカノイドオタク</titleShort>
@@ -901,6 +887,18 @@ A firm belief that her research would be the catalyst drove her to increasingly 
 		<titleShort>農夫</titleShort>
 		<desc>略奪者からの危険が常にある下での農園で、Drewは、父のハンティングライフルを用いて身を守る方法を学びました。彼はまた、野生動物から家畜を守る為のフェンスを、どうやって作れば良いかもマスターしました。Drewは、彼の家に絵画を描こうとしましたが、アヒルの落書きだけしか描けませんでした。</desc>
 	</StalwartFarmer89>
+	<Dreamer99>
+		<title>夢想家</title>
+		<titleShort>夢想家</titleShort>
+		<desc>彼の父親が、よく居なくなるようになって以来、NAMEは、家の中で父親代わりをしていました。彼は、勤勉の重要性を、わかるようになりましたが、普通の子供と同じようには過ごせませんでした。</desc>
+	</Dreamer99>
+	<PirateSurveyor66>
+		<title>略奪者の鑑定人</title>
+		<titleShort>鑑定人</titleShort>
+		<desc>Geotekコーポレーションの鑑定人として、NAMEの仕事は、新しい回収サイトを探すことでした。けれども、彼の本当の欲求は、遺跡に混じった古代のアーティファクトを探して、ブラックマーケットに売ることでした。
+
+彼はついに、それを見つけ出したとき、会社は力づくで取り返そうとしました。NAMEは、賞金を懸けられながらも脱出し、こうして略奪者の人生が始まりました。</desc>
+	</PirateSurveyor66>
 	<VoyagerChild9>
 		<title>旅行者の子供</title>
 		<titleShort>旅行者</titleShort>
@@ -987,18 +985,6 @@ Jacksonは、与えられた高級品を分かち合う気はない。それど�
 
 彼は、戦闘兵器をデザインする為にラボの能力を使いました。彼は惑星で最も優秀な一人となりました。</desc>
 	</MilitaryInventor44>
-	<StreetKid29>
-		<title>ストリートキッド</title>
-		<titleShort>ストリートキッド</titleShort>
-		<desc>砂漠の惑星のストリートで育った、NAMEの唯一の友達は、犬のRestだけでした。二人で、生きていくのにギリギリの食べ物を見つけで、どうにか暮らしていました。
-
-彼が13歳になったとき、惑星間犯罪組織が、彼を派閥に取り込みました。</desc>
-	</StreetKid29>
-	<BanditLeader92>
-		<title>無法者のリーダー</title>
-		<titleShort>無法者</titleShort>
-		<desc>NAMEは、犯罪組織の中でのし上がっていき、ついには、組織中で、最も外郭のリーダーの一人になりました。彼の相棒Restは、彼のそばから離れてはいません。</desc>
-	</BanditLeader92>
 	<StudentEngineer40>
 		<title>技術者の卵</title>
 		<titleShort>技術者</titleShort>
@@ -1015,6 +1001,18 @@ NAMEは、手作業に関することは、ふさわしくないと信じるよ�
 
 彼を、コードネーム"リス"と呼んでいます。</desc>
 	</EngineeredPilot99>
+	<StreetKid29>
+		<title>ストリートキッド</title>
+		<titleShort>ストリートキッド</titleShort>
+		<desc>砂漠の惑星のストリートで育った、NAMEの唯一の友達は、犬のRestだけでした。二人で、生きていくのにギリギリの食べ物を見つけで、どうにか暮らしていました。
+
+彼が13歳になったとき、惑星間犯罪組織が、彼を派閥に取り込みました。</desc>
+	</StreetKid29>
+	<BanditLeader92>
+		<title>無法者のリーダー</title>
+		<titleShort>無法者</titleShort>
+		<desc>NAMEは、犯罪組織の中でのし上がっていき、ついには、組織中で、最も外郭のリーダーの一人になりました。彼の相棒Restは、彼のそばから離れてはいません。</desc>
+	</BanditLeader92>
 	<FrontierMarshal0>
 		<title>辺境の執行官</title>
 		<titleShort>執行官</titleShort>
@@ -1225,18 +1223,6 @@ HEを街に連れだした時、HEはウォーゲームにはまり、各種兵�
 
 NAMEは、混乱した母星を、なんとかギリで脱出しました。</desc>
 	</Microbiologist37>
-	<Stableboy75>
-		<title>厩務員</title>
-		<titleShort>厩務員</titleShort>
-		<desc>NAMEは、Medival惑星の厩務員で、稼ぎを得る為、ほとんど毎日、糞を集めていました。
-
-HEが、成人になるまでには、NAMEは、貿易業者が、HIM、この世界から連れ出すのに充分な額の貯金ができました。</desc>
-	</Stableboy75>
-	<Brigand23>
-		<title>略奪者</title>
-		<titleShort>略奪者</titleShort>
-		<desc>NAMEは、彼が友と呼ぶ無法者達と一緒に天を駆け回っている。彼は、彼自身の船 The Dung Mucker 2000を駆っている</desc>
-	</Brigand23>
 	<StarforceCadet91>
 		<title>士官候補生</title>
 		<titleShort>士官候補生</titleShort>
@@ -1251,6 +1237,18 @@ HEが、成人になるまでには、NAMEは、貿易業者が、HIM、この�
 
 しかしながら、ある、ひどい戦闘の後、取り残されてしまい、彼の帰還すべき船は沈められました。何処にも行くところがなく、彼は、祈りながら脱出ポッドに乗り込みました。</desc>
 	</AceFighterPilot70>
+	<Stableboy75>
+		<title>厩務員</title>
+		<titleShort>厩務員</titleShort>
+		<desc>NAMEは、Medival惑星の厩務員で、稼ぎを得る為、ほとんど毎日、糞を集めていました。
+
+HEが、成人になるまでには、NAMEは、貿易業者が、HIM、この世界から連れ出すのに充分な額の貯金ができました。</desc>
+	</Stableboy75>
+	<Brigand23>
+		<title>略奪者</title>
+		<titleShort>略奪者</titleShort>
+		<desc>NAMEは、彼が友と呼ぶ無法者達と一緒に天を駆け回っている。彼は、彼自身の船 The Dung Mucker 2000を駆っている</desc>
+	</Brigand23>
 	<ArtfulDodger87>
 		<title>芸術的な詐欺師</title>
 		<titleShort>詐欺師</titleShort>
@@ -1866,20 +1864,6 @@ HECAPは、HIS母星を高める為に、反乱軍に参加し、自分のスキ
 
 彼らについては、宗教でさえも、ある時、バカかアホであるとしています。</desc>
 	</DreadedDude3>
-	<TechHead78>
-		<title>Tech-head</title>
-		<titleShort>Tech-head</titleShort>
-		<desc>宇宙船の外郭に、彼の父と共に、子供サイズの宇宙服を着て立っている、NAMEは、小さい頃から宇宙が好きでした。
-
-HECAPは、市民研究活動プログラムに預けられました。偽りの親子を装ってる時間、HEは、HISごちゃごちゃな部屋にある植物の世話をして過ごしました。HISCAPニックネームとして、「周回軌道」が与えられました。</desc>
-	</TechHead78>
-	<SystemsEngineer27>
-		<title>システム技術者</title>
-		<titleShort>技術者</titleShort>
-		<desc>HIS父のように、NAMEは、システムエンジニアでした。HECAPは、宇宙船とコロニーの両方の資格を与えられていました。
-
-ある非番の時、HEは、機械的な置物を作っていたり、古書を読んだり、たまには未知の世界へ冒険に行ったりしてたようです。内向的な性格なので、HEは、たいていは、独りでしていました。</desc>
-	</SystemsEngineer27>
 	<Tinkerer87>
 		<title>修理屋</title>
 		<titleShort>修理屋</titleShort>
@@ -2016,6 +2000,20 @@ HECAPは、幾つかの仕事を得たが、基礎的な教育以上には、達
 
 HECAPは、作業に必要な素材を集めるためのクルーを結成した - 邪魔をしてくる外部の人間に対処するためにも</desc>
     </ArtificerRampant50>
+	<TechHead78>
+		<title>Tech-head</title>
+		<titleShort>Tech-head</titleShort>
+		<desc>宇宙船の外郭に、彼の父と共に、子供サイズの宇宙服を着て立っている、NAMEは、小さい頃から宇宙が好きでした。
+
+HECAPは、市民研究活動プログラムに預けられました。偽りの親子を装ってる時間、HEは、HISごちゃごちゃな部屋にある植物の世話をして過ごしました。HISCAPニックネームとして、「周回軌道」が与えられました。</desc>
+	</TechHead78>
+	<SystemsEngineer27>
+		<title>システム技術者</title>
+		<titleShort>技術者</titleShort>
+		<desc>HIS父のように、NAMEは、システムエンジニアでした。HECAPは、宇宙船とコロニーの両方の資格を与えられていました。
+
+ある非番の時、HEは、機械的な置物を作っていたり、古書を読んだり、たまには未知の世界へ冒険に行ったりしてたようです。内向的な性格なので、HEは、たいていは、独りでしていました。</desc>
+	</SystemsEngineer27>
     <Orphan91>
         <title>孤児</title>
         <titleShort>孤児</titleShort>
@@ -2427,6 +2425,18 @@ HECAPは、新しい教育プロクラムの為に、両親から引き離され
 
 HIS上司が、HEに非道な行為に参加するよう要求したとき、NAMEは、辞職して、着の身着のままに母星から逃げ出しました。</desc>
 	</FallenOfficial88>
+	<FarmMechanic40>
+		<title>Farm mechanic</title>
+		<titleShort>Mechanic</titleShort>
+		<desc>Growing up on a farming planet, NAME spent HIS time learning about the automated machinery that grew and harvested the multitude of crops.</desc>
+	</FarmMechanic40>
+	<OrbitalReservist59>
+		<title>Orbital reservist</title>
+		<titleShort>Reservist</titleShort>
+		<desc>When the government declared that it would strengthen its military defenses, NAME was drafted and trained.
+
+HECAP was stationed on an orbital base, manning the defense systems and, in dire situations, descending in a dropship to the surface.</desc>
+	</OrbitalReservist59>
 	<AccursedChild43>
 		<title>呪われた子</title>
 		<titleShort>呪い</titleShort>
@@ -2511,6 +2521,20 @@ HEはやがて、施設を台無しにしてしまい、盗んだカーゴシッ
 
 HEは、かつて、自宅に絵を描こうと努力したことがありましたが、アヒルの走り書き程度しか描けませんでした。</desc>
 	</StalwartFarmer91>
+	<Squire51>
+		<title>Squire</title>
+		<titleShort>Squire</titleShort>
+		<desc>Born to a noble family on a medieval world, NAME became a squire. HISCAP training involved falconry, fencing, and wrestling - often done wearing armor.
+
+In battle, HIS job was to ensure that the knights were taken care of and their armor was well-polished.</desc>
+	</Squire51>
+	<Knight23>
+		<title>Knight</title>
+		<titleShort>Knight</titleShort>
+		<desc>When NAME came of age, HE was given a sword blessed by a high priest.
+
+HISCAP determination and focus in battle established HIM as a knight. Throughout HIS time, HIS stories were recounted in art and folklore. Out of humility, HE never told the stories himself.</desc>
+	</Knight23>
 	<BoyScout19>
 		<title>ボーイスカウト</title>
 		<titleShort>スカウト</titleShort>
@@ -2525,6 +2549,42 @@ HEは、屋外で元気に育ち、怪我を手当てする基礎知識などを
 
 HECAPは、HIS拳と共に、卓越した能力を発揮しました。HEはまた、HEが女性達に負わせた好ましくない怪我を、治療することを学びました。</desc>
 	</UrbworldPimp46>
+	<ScienceProdigy96>
+		<title>Science prodigy</title>
+		<titleShort>Prodigy</titleShort>
+		<desc>NAME was top of her class in chemistry, physics, exobiology, astronomy and opera.
+
+An unfortunate lab accident left her with a deathly fear of fire.</desc>
+	</ScienceProdigy96>
+	<ParticlePhysicist6>
+		<title>Particle physicist</title>
+		<titleShort>Physicist</titleShort>
+		<desc>NAME performed cutting-edge physics research. She wanted to help build a better and more peaceful future.</desc>
+	</ParticlePhysicist6>
+	<SpeederRacer68>
+		<title>Speeder racer</title>
+		<titleShort>Racer</titleShort>
+		<desc>Rusty was the son of a fern farmer in the towering forests of Khalderia.
+
+He found his first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced him to learn to defend himself with a quick word or a quicker shot.</desc>
+	</SpeederRacer68>
+	<DefenseLawyer2>
+		<title>Defense lawyer</title>
+		<titleShort>Lawyer</titleShort>
+		<desc>NAME found that HE could make more money with a quick word than a blaster. Seeking a job where HIS silver tongue could be useful, HE turned to the law.
+
+HECAP often defended the illegal speeder racers HE grew up with.</desc>
+	</DefenseLawyer2>
+	<MercenaryRecruit61>
+		<title>Mercenary recruit</title>
+		<titleShort>Recruit</titleShort>
+		<desc>Born to a long line of off-world mercenaries, NAME grew up in a busy trading hub. At a young age, HE was recruited into one of the mercenary crews.</desc>
+	</MercenaryRecruit61>
+	<Ranger8>
+		<title>Ranger</title>
+		<titleShort>Ranger</titleShort>
+		<desc>NAME lived alone, deep in a forest. HECAP protected the wildlife against poachers, and learned to satisfy HIS own material needs without outside help.</desc>
+	</Ranger8>
 	<YoungPsychologist60>
 		<title>若い心理学者</title>
 		<titleShort>サイコ</titleShort>
@@ -2539,6 +2599,20 @@ HECAPは、HIS拳と共に、卓越した能力を発揮しました。HEはま�
 
 面白半分に、HEは、彼らを集め、彼らを人殺しへと従わせました。HECAPは、彼が持っている、リーダーシップを発する野望を、現実化するための、素質を持っている事を知っていました。</desc>
 	</FactionLeader69>
+	<LabGrownChild20>
+		<title>Lab-grown child</title>
+		<titleShort>Lab-grown</titleShort>
+		<desc>NAME was born in a laboratory as part of a altruistic but failed attempt to create a new class of human.
+
+HISCAP childhood was filled with books and one-on-one tutoring. He was awkward, shy, and naive to the true nature of humanity.</desc>
+	</LabGrownChild20>
+	<CorpResearcher9>
+		<title>Corp researcher</title>
+		<titleShort>Researcher</titleShort>
+		<desc>NAME was sold to a corporation and put to work as a corporate slave doing scientific research.
+
+Unable to adapt to the social politics of his workplace, he buried himself in his work and failed to progress up the corporate ladder. Every day, he yearned to be left alone.</desc>
+	</CorpResearcher9>
 	<TechScholar7>
 		<title>テクノロジーの学者</title>
 		<titleShort>学者</titleShort>
@@ -2553,6 +2627,76 @@ HECAPは、知識向上のために、毎日努力していました。</desc>
 
 HECAPは、テクノロジーの研究が好きで、そうすることで、人の生活が向上することを願っていました。</desc>
 	</TechnologyDoctor90>
+	<PitGladiator18>
+		<title>Pit gladiator</title>
+		<titleShort>Gladiator</titleShort>
+		<desc>NAME was enslaved as a child and forced to fight creatures and other people in an underground fighting arena.
+
+HECAP showed an affinity for the sport, and eventually bought his own freedom. However, his time in the pits never brought him much intellectual stimulation.</desc>
+	</PitGladiator18>
+	<PirateTrooper88>
+		<title>Pirate trooper</title>
+		<titleShort>Trooper</titleShort>
+		<desc>NAME joined a renowned interstellar criminal organization, and was often part of shock-assault boarding parties during starship raids.
+
+Though his combat experience made him a good fighter, the ruthlessness of the job left HIM cold-hearted and unenthusiastic about social interaction.</desc>
+	</PirateTrooper88>
+	<FactoryWorker58>
+		<title>Factory worker</title>
+		<titleShort>Worker</titleShort>
+		<desc>Felix grew up in a large factory city on an industrial world.
+
+Since poverty was rampant and food scarce, he worked for whatever wages he could get. This wasn't an easy life, but Felix never shied away from a hard day's work.</desc>
+	</FactoryWorker58>
+	<CombatMedic16>
+		<title>Combat medic</title>
+		<titleShort>Medic</titleShort>
+		<desc>After his home country entered a large-scale war, Felix was drafted into the army as a combat medic.
+
+His few years in the trenches trying to keep his fellow soldiers alive gave him an acute sense for first aid. Losing many friend has made him stoic and reserved.</desc>
+	</CombatMedic16>
+	<RichBoy51>
+		<title>Rich boy</title>
+		<titleShort>Rich boy</titleShort>
+		<desc>NAME grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.
+
+HECAP was always told by his father that 'those peasants just want your money'. So, HE spent most of his time alone, or fighting other kids.</desc>
+	</RichBoy51>
+	<HiredGun99>
+		<title>Hired gun</title>
+		<titleShort>Hired gun</titleShort>
+		<desc>NAME always wanted to prove HE could make a living without HIS parents' help. HECAP did shady jobs that often involved pointing guns at innocent people.
+
+He eventually made enough money to board a cheap freighter. He discovered why it was so cheap when it crashed.</desc>
+	</HiredGun99>
+	<Athlete75>
+		<title>Athlete</title>
+		<titleShort>Athlete</titleShort>
+		<desc>NAME was professional athlete at early age. Thanks to her skills, she was able to leave her homeworld and enroll in a glitterworld university of science and technology.
+
+Because of her demanding schedule and introverted nature, she became socially inept.</desc>
+	</Athlete75>
+	<StilettoAssassin10>
+		<title>Stiletto assassin</title>
+		<titleShort>Assassin</titleShort>
+		<desc>Because of her skills, NAME developed a sense of superiority. In time, she lost her sense of empathy. She often got into fights, and discovered how easy it is to kill a person.
+
+After realizing her talents, she became one of the most efficient assassins in the system.</desc>
+	</StilettoAssassin10>
+	<SoleSurvivor99>
+		<title>Sole survivor</title>
+		<titleShort>Survivor</titleShort>
+		<desc>Hawke's entire tribe was wiped out by a mysterious disease.
+
+Found alone and adopted by another band, he never became close with the other tribe members. He preferred to stay away from his new home, wandering the woods and tending the animals.</desc>
+	</SoleSurvivor99>
+	<Hunter7>
+		<title>Hunter</title>
+		<titleShort>Hunter</titleShort>
+		<desc>Hawke was a master hunter.
+
+He learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals.</desc>
+	</Hunter7>
 	<MechanoidHacker35>
 		<title>メカノイドハッカー</title>
 		<titleShort>メックハッカー</titleShort>
@@ -2567,6 +2711,18 @@ HECAPは、生産性を高める為にドラッグを使用していました。
 
 HECAPは、麦畑において、原始的な焼夷弾攻撃から、辛うじて脱出したあとに、PTSDを発症しました。軍医はHIM除隊させました。</desc>
 	</BattlefieldTech63>
+	<ProjectSubject48>
+		<title>Project subject</title>
+		<titleShort>Subject</titleShort>
+		<desc>NAME was picked by government agents for the mysterious "Frame Project".
+
+Due to memory blockages, however, he remembers very little about this project or its true agenda - only that there were few survivors.</desc>
+	</ProjectSubject48>
+	<MasterTrader3>
+		<title>Master trader</title>
+		<titleShort>Trader</titleShort>
+		<desc>NAME was a master at trading. HECAP earned his nickname by helping a village through a trying time.</desc>
+	</MasterTrader3>
 	<HexCellArtist19>
 		<title>Hex-cell アーティスト</title>
 		<titleShort>アーティスト</titleShort>
@@ -2581,6 +2737,142 @@ HIS知名度が上がると、HEは宙賊によって誘拐されました。宙
 
 HISCAPの素材探しは、HIM植物相や、動物相の天職にさせました。</desc>
 	</ExoticChef84>
+	<PlagueProdigy12>
+		<title>Plague prodigy</title>
+		<titleShort>Prodigy</titleShort>
+		<desc>NAME's childhood was cut short when a mysterious plague hit his homeworld.
+
+HECAP watched his friends die, and his compassion for humanity died with them. In its place a new thirst for knowledge emerged.</desc>
+	</PlagueProdigy12>
+	<MadScientist79>
+		<title>Mad scientist</title>
+		<titleShort>Scientist</titleShort>
+		<desc>NAME's lust for knowledge was only matched by his disdain for anyone who would stand in the way of his research.
+
+Traveling from world to world, he sought answers to questions few dared to ask.</desc>
+	</MadScientist79>
+	<Dreamer11>
+		<title>Dreamer</title>
+		<titleShort>Dreamer</titleShort>
+		<desc>NAME was an expressive child. HECAP sang often, and made friends very easily, be they young or old, male or female.
+
+HECAP hated fighting, but when made angry, HE could be dangerous. HISCAP temper was quick.</desc>
+	</Dreamer11>
+	<SpaceExplorer81>
+		<title>Space explorer</title>
+		<titleShort>Explorer</titleShort>
+		<desc>NAME once spent ten years trapped, alone on an alien planet. HECAP quickly adapted to the local environment, and learned to communicate with HIS local enemies.
+
+This long period alone left him without close friends. HISCAP heart is sensitive, but he learned to hide HIS emotions very well.</desc>
+	</SpaceExplorer81>
+	<UrbworldUrchin13>
+		<title>Urbworld urchin</title>
+		<titleShort>Urchin</titleShort>
+		<desc>Meredith was born in the darkest slums of her urban homeworld. Neglected by her mother, she learned to survive on her own, battling for every scrap of food she saw.
+
+Eventually, as her talents exceeded her peers, she ascended from the depths to the surface streets and left her mother behind.</desc>
+	</UrbworldUrchin13>
+	<Smuggler62>
+		<title>Smuggler</title>
+		<titleShort>Smuggler</titleShort>
+		<desc>As a contract pilot, Meredith had a knack for stealing goods and trafficking contraband without getting caught.
+
+She eventually saved up enough to buy her own ship, and used it to travel from world to world dealing her goods in person.</desc>
+	</Smuggler62>
+	<MilitaryRecruit62>
+		<title>Military recruit</title>
+		<titleShort>Recrut</titleShort>
+		<desc>NAME was born on a midworld run by an intensely militaristic dictatorship.
+
+From a young age, HE was trained to be a good soldier. They taught him how to use a gun and how to fight with melee weapons.</desc>
+	</MilitaryRecruit62>
+	<DestroyerGeneral40>
+		<title>Destroyer-general</title>
+		<titleShort>General</titleShort>
+		<desc>NAME held the rank of Destroyer-General in a powerful midworld military.
+
+HECAP was known for his mastery of weapons, and was also a good ship pilot.</desc>
+	</DestroyerGeneral40>
+	<StreetUrchin51>
+		<title>Street urchin</title>
+		<titleShort>Urchin</titleShort>
+		<desc>Born to a poor family on an urbworld, NAME was abandoned on the streets at a young age.
+
+He learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in his life.</desc>
+	</StreetUrchin51>
+	<SerialMurderer52>
+		<title>Serial murderer</title>
+		<titleShort>Murderer</titleShort>
+		<desc>NAME started to enjoy killing people, so he did more often and perfected his methods. He lurked in the darkest streets, stalking prey for hours.
+
+He enjoyed making artworks of his victims, and was known for leaving his signature on the bodies of those he killed.</desc>
+	</SerialMurderer52>
+	<MedievalThief74>
+		<title>Medieval thief</title>
+		<titleShort>Thief</titleShort>
+		<desc>NAME grew up poor and hungry on a medieval planet, learning to fend for himself.
+
+At first, he only took what he needed. Then he learned to take what he wanted.</desc>
+	</MedievalThief74>
+	<HumanTrafficker69>
+		<title>Human trafficker</title>
+		<titleShort>Trafficker</titleShort>
+		<desc>NAME stole children from their homes to sell them to interested buyers.
+
+Over time, he lost what little moral sense he had left.</desc>
+	</HumanTrafficker69>
+	<TraumatizedYouth62>
+		<title>Traumatized youth</title>
+		<titleShort>Trauma</titleShort>
+		<desc>NAME lived on a pleasant midworld.
+
+HISCAP prosthophobe mother fell sick with heart disease. In desperation, NAME's father abducted innocent people and harvested their hearts. NAME's father was arrested, but the child remained scarred from the experience.</desc>
+	</TraumatizedYouth62>
+	<MentalPatient64>
+		<title>Mental patient</title>
+		<titleShort>Patient</titleShort>
+		<desc>NAME was placed in a psychiatric hospital. There, HE spent HIS time engaged in the calming activities of the asylum.
+
+HECAP was eventually released, but HE retained HIS emotional distance, HIS curiosity about human anatomy, and HIS namesake manic giggling.</desc>
+	</MentalPatient64>
+	<GalacticPage15>
+		<title>Galactic page</title>
+		<titleShort>Page</titleShort>
+		<desc>NAME served the high admiral of a space fleet. HECAP learned the ways of court, including etiquette and speechcraft.
+
+In his feudal society, it was considered a great honor to serve a man of such prestige.</desc>
+	</GalacticPage15>
+	<EnvoyOfTheStars91>
+		<title>Envoy of the stars</title>
+		<titleShort>Envoy</titleShort>
+		<desc>NAME entered the diplomatic corps. Honor and tradition were the values he took with him on every mission.
+
+HISCAP prestigious position distanced him from backbreaking manual labor, allowing HIM to focus on his wordsmithing abilities. He left the blacksmithing to others.</desc>
+	</EnvoyOfTheStars91>
+	<ApprenticeSmith9>
+		<title>Apprentice smith</title>
+		<titleShort>Apprentice</titleShort>
+		<desc>NAME grew up helping in his father's smithy.
+
+They were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.
+
+Sometimes, after work, NAME would practice using the swords HE forged.</desc>
+	</ApprenticeSmith9>
+	<Blacksmith32>
+		<title>Blacksmith</title>
+		<titleShort>Blacksmith</titleShort>
+		<desc>As a blacksmith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</desc>
+	</Blacksmith32>
+	<CloneFarmed43>
+		<title>Clone-farmed</title>
+		<titleShort>Disposable</titleShort>
+		<desc>Clone children are seeded into organic-rich wombvats and rapidly grown in a simmed universe. They're harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they're always called 'Disposable'.</desc>
+	</CloneFarmed43>
+	<CloneFarmer72>
+		<title>Clone farmer</title>
+		<titleShort>Cloner</titleShort>
+		<desc>Harvesting the products of clone farms is mostly done by the clones themselves -particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars.</desc>
+	</CloneFarmer72>
 	<GangMember12>
 		<title>ギャングの構成員</title>
 		<titleShort>半グレ</titleShort>
@@ -2595,6 +2887,20 @@ HISCAPの素材探しは、HIM植物相や、動物相の天職にさせまし�
 
 こんな事を続けたあと、彼は、地元惑星系で、もっとも手配された犯罪者の一人になりました。</desc>
 	</GangBoss0>
+	<MilitantChild30>
+		<title>Militant child</title>
+		<titleShort>Soldier</titleShort>
+		<desc>NAME's military family forced him to train in hand-to-hand combat and fighting tactics.
+
+In his own time, he built small inventions. This sharpened his mind.</desc>
+	</MilitantChild30>
+	<LostMarine68>
+		<title>Lost marine</title>
+		<titleShort>Traitor</titleShort>
+		<desc>Shortly after being promoted to a respected position in his planet's military, NAME disappeared without a trace.
+
+Later, he reappeared at the head of his own military force. No one knows why he became who he was.</desc>
+	</LostMarine68>
 	<Killer70>
 		<title>殺人鬼</title>
 		<titleShort>殺人鬼</titleShort>
@@ -2609,6 +2915,34 @@ HISCAPの素材探しは、HIM植物相や、動物相の天職にさせまし�
 
 HIS受動的な攻撃性が、たまには現れましたが、彼女は、変えた生き方に順応させようと努力していました。</desc>
 	</Healer46>
+	<ProfessionalGamer86>
+		<title>Professional gamer</title>
+		<titleShort>Pro gamer</titleShort>
+		<desc>NAME was obsessed with video games since his hands were big enough to grip a joystick.
+
+HECAP achieved middling finishes in several local tournaments during the 16-bit era. Nobody noticed when he retired early in his teenage years.</desc>
+	</ProfessionalGamer86>
+	<ToasterRepairman81>
+		<title>Toaster repairman</title>
+		<titleShort>Repairman</titleShort>
+		<desc>Good with his hands and passionate about technology, NAME aspired to invent gadgets and machines that would change his home world forever.
+
+A few failed and occasionally disastrous creations later, he gave up on his dream and took a job more befitting his skill set.</desc>
+	</ToasterRepairman81>
+	<WolfPackMember79>
+		<title>Wolf pack member</title>
+		<titleShort>Feral</titleShort>
+		<desc>NAME was discarded by HIS family. Raised by wolves, HE ran, hunted, and defended HIS pack.
+
+HECAP learned to fight efficiently by tooth and claw. HECAP also learned brutally effective primal hunting strategies.</desc>
+	</WolfPackMember79>
+	<BehaviourResearch99>
+		<title>Behaviour research</title>
+		<titleShort>Scientist</titleShort>
+		<desc>Captured as a feral child, NAME was forced into the ways of modern society. HECAP quickly adapted and became a behavioural researcher, eventually owning a private facility.
+
+HECAP specialized in canines, but learned a great deal about all animals. HECAP never had interest in plants, however.</desc>
+	</BehaviourResearch99>
 	<RebelStudent39>
 		<title>反乱学生</title>
 		<titleShort>学生</titleShort>
@@ -2623,6 +2957,62 @@ HIS受動的な攻撃性が、たまには現れましたが、彼女は、変�
 
 Mattは、彼の仲間から、ゲリラ戦術のトレーニングと、戦闘方法を受けましたが、己の信念に妥協することも駆り立てられました。</desc>
 	</PoliticalActivist61>
+	<Cadet99>
+		<title>Cadet</title>
+		<titleShort>Cadet</titleShort>
+		<desc>Born on the planet New China, NAME's father was a police chief and kept extremely strict watch over his son.
+
+NAME had to do military-style drill exercises every day and keep his room spotlessly clean, always ready for inspection. HECAP came to abhor violence.</desc>
+	</Cadet99>
+	<Flaneur73>
+		<title>Flaneur</title>
+		<titleShort>Flaneur</titleShort>
+		<desc>NAME strolled and sipped his way through the streets and cafes of HIS world, pursuing freedom at every turn, never becoming attached.
+
+Through all this time, HE remained distrustful of others. And never took an order from anyone.</desc>
+	</Flaneur73>
+	<ShipTechnician62>
+		<title>Ship technician</title>
+		<titleShort>Technician</titleShort>
+		<desc>NAME was an apprentice technician on trade ships plying their routes between the stations and planets of her home system. In this job, she learned to fix and improve many machines.
+
+Sometimes, her ship was assigned to short exploratory jaunts into dangerous regions of space.</desc>
+	</ShipTechnician62>
+	<ChiefEngineer74>
+		<title>Chief engineer</title>
+		<titleShort>Engineer</titleShort>
+		<desc>As chief engineer on board a large spaceship, NAME was an expert in all things fiddly and complex.
+
+She relied on other members of the crew for some of the basic necessities of life. She and her ship eventually disappeared into a longsleep voyage of exploration.</desc>
+	</ChiefEngineer74>
+	<BlacksmithsSon72>
+		<title>Blacksmith's son</title>
+		<titleShort>Blacksmith</titleShort>
+		<desc>NAME's father owned the blacksmith shop in an run-down old city district. NAME would help his father whenever he could.
+
+Later, HIS father took him as a blacksmith's apprentice and raised him as a man. NAME also to on shooting as a hobby.</desc>
+	</BlacksmithsSon72>
+	<BlacksmithShooter88>
+		<title>Blacksmith shooter</title>
+		<titleShort>Gunsmith</titleShort>
+		<desc>As a young blacksmith, NAME's family shop was raided by the police. HECAP shot two officers before they knocked him out and arrested him.
+
+Sentenced to life in prison, NAME learned about traveling and raiding from other criminals.</desc>
+	</BlacksmithShooter88>
+	<JoywireAddict71>
+		<title>Joywire addict</title>
+		<titleShort>Addict</titleShort>
+		<desc>NAME's wealthy parents provided everything HE ever wanted. After discovering joywires, HE became obsessed. Once HIS parents realized what happened, they cut HIM off.
+
+Uncaring and often violent, HE sought his next joywire fix by any means possible.</desc>
+	</JoywireAddict71>
+	<AddictionCounsel61>
+		<title>Addiction counsel</title>
+		<titleShort>Counselor</titleShort>
+		<desc>After recovering from a joywire addiction, NAME adopted a non-violent way of life and vowed to help others.
+
+Travelling between communities, HE used medicine, arts, and crafts to aid others who struggled with their own addictions.</desc>
+	</AddictionCounsel61>
 	<ChildKnave65>
 		<title>小姓</title>
 		<titleShort>小姓</titleShort>
@@ -2637,6 +3027,140 @@ HECAPは、王が不運な事故で死ぬまで、王によく仕えました。
 
 HISCAP自然を巧みに操る能力は、観客にさえ悪夢のようでした。HEは、猛獣や、犯罪者、そして空撮ドローンだらけの惑星におっぽり出されました。</desc>
 	</BloodgameSurvivor96>
+	<WastelandWanderer2>
+		<title>Wasteland wanderer</title>
+		<titleShort>Wanderer</titleShort>
+		<desc>Born into a wealthy family on a desert world, NAME was cast out after a hired attack squad destroyed his ancestral home.
+
+The boy managed to hide in a cooling duct beneath his family's villa. Vowing revenge against the killers and whomever had hired them, Lucas struck out into the wasteland, alone.</desc>
+	</WastelandWanderer2>
+	<VoidspaceRaider8>
+		<title>Voidspace raider</title>
+		<titleShort>Raider</titleShort>
+		<desc>After years of seeking the assassin that broke up his family, NAME was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.
+
+Due to HIS seemingly-unending ability to narrowly escape danger, he earned the nickname 'Blackjack' in recognition of his luck.</desc>
+	</VoidspaceRaider8>
+	<PyroAssistant17>
+		<title>Pyro assistant</title>
+		<titleShort>Assistant</titleShort>
+		<desc>On an industrial world, NAME learned early that if HE wanted to eat, HE had to work. So work HE did. Kids fit in places adults can't, and where HE was from, the safety laws were quite flexible.
+
+HECAP was always a bit of a pyromaniac, and was banned from the kitchen after an unfortunate incident.</desc>
+	</PyroAssistant17>
+	<MachineFixer97>
+		<title>Machine fixer</title>
+		<titleShort>Fixer</titleShort>
+		<desc>NAME was adept at dealing with mechanical problems, as long as the problem didn't involve the kitchen.
+
+After a life spent around dangerous machinery and flammable chemicals, HE learned how to patch HIMself up pretty well. Despite the pain, HE never learned to dislike fire.</desc>
+	</MachineFixer97>
+	<StreetUrchin39>
+		<title>Street urchin</title>
+		<titleShort>Grifter</titleShort>
+		<desc>After running away from home, NAME had to live on the streets.
+
+She grew up fast, and learned early that she had to figure out how to fool people into connecting with her.</desc>
+	</StreetUrchin39>
+	<SpaceMerchant61>
+		<title>Space merchant</title>
+		<titleShort>Merchant</titleShort>
+		<desc>As part of a freelance interplanetary lifestyle, NAME sought to dominate her romantic interests as much as her business adversaries. When she didn't have her own ship to fly, she worked charter ships for hire.</desc>
+	</SpaceMerchant61>
+	<ChildChemist73>
+		<title>Child chemist</title>
+		<titleShort>Chemist</titleShort>
+		<desc>A midworld child, NAME was fixated on finding out exactly how everything worked.
+
+HECAP collected rare objects and performed dangerous experiments on them. Delving deeper into these experiments, HE became isolated from the rest of the world. HECAP only left HIS research area to collect more materials.</desc>
+	</ChildChemist73>
+	<BeastSlayer8>
+		<title>Beast slayer</title>
+		<titleShort>Slayer</titleShort>
+		<desc>NAME traveled between planets, following news of animal attacks. HECAP would camp on the planet for weeks, learning about HIS prey before striking. HECAP most enjoyed hunting thrumbos.
+
+Preferring to work alone, NAME enjoyed the thrill of the hunt, and the meat from the kill.</desc>
+	</BeastSlayer8>
+	<BrothelGofer60>
+		<title>Brothel gofer</title>
+		<titleShort>Gofer</titleShort>
+		<desc>Born on a steam-powered midworld wracked by a century of economic crises, NAME went to work at a young age. Scrounging, shoe-polishing, sewing - he did it all. But HE was most known as a brothel gofer, delivering all manner of aphrodisiacs and chemicals to the girls' rooms.</desc>
+	</BrothelGofer60>
+	<DrugLieutenant88>
+		<title>Drug lieutenant</title>
+		<titleShort>Drugman</titleShort>
+		<desc>NAME worked the drug trade under kingpin Grady Loughman. He had his men sell drugs when it was profitable, and fight the other cartels when the government came around.
+
+His social skills kept him on top of the political game, and he always had servants to cook and clean.</desc>
+	</DrugLieutenant88>
+	<LaborCampOrphan93>
+		<title>Labor camp orphan</title>
+		<titleShort>Orphan</titleShort>
+		<desc>NAME lost her parents in an industrial accident and grew up in an orphans' labor camp. The camp overseers worked their charges mercilessly - but at least she was clothed and fed.</desc>
+	</LaborCampOrphan93>
+	<UrbworldEnforcer55>
+		<title>Urbworld enforcer</title>
+		<titleShort>Enforcer</titleShort>
+		<desc>NAME was an enforcer of law on an ancient urbworld.
+
+She dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</desc>
+	</UrbworldEnforcer55>
+	<GameFanatic49>
+		<title>Game fanatic</title>
+		<titleShort>Gamer</titleShort>
+		<desc>NAME was a fanatical gamer who learned to survive in virtual reality games.
+
+Once, while attempting to prove HIS skills in the real world, HE was abducted by a criminal scientist and experimented on. HECAP escaped, but the experience stayed with him.</desc>
+	</GameFanatic49>
+	<ToolMechanic40>
+		<title>Tool mechanic</title>
+		<titleShort>Mechanic</titleShort>
+		<desc>NAME was a famous tool mechanic on a dusty rim world.
+
+After his firm closed due to scandal, HE joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing HIS wares between settlements.</desc>
+	</ToolMechanic40>
+	<ClassClown20>
+		<title>Class clown</title>
+		<titleShort>Clowny kid</titleShort>
+		<desc>In the ultra-competitive environs of his glitterworld school, NAME always offered to play the class clown to diffuse tension.
+
+HECAP developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy.</desc>
+	</ClassClown20>
+	<CraftShaper11>
+		<title>Craft shaper</title>
+		<titleShort>Shaper</titleShort>
+		<desc>NAME locked HIMself in his studio for years, ordering delivery food to save time on cooking.
+
+Eventually, HIS creations brought HIM the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies.</desc>
+	</CraftShaper11>
+	<CrimeBossChild12>
+		<title>Crime boss' child</title>
+		<titleShort>Crime kid</titleShort>
+		<desc>NAME was adopted child of a notorious crime boss. HECAP was taught all facets of the family business, from smuggling to inventive ways of killing.
+
+When the family was attacked, HIS father ordered HIM to hide in a secret longsleep crypt.</desc>
+	</CrimeBossChild12>
+	<MercenaryLeader48>
+		<title>Mercenary leader</title>
+		<titleShort>Mercenary</titleShort>
+		<desc>Alone, NAME set out to rebuild HIS father's life's work. HECAP challenged the leader of a small band of mercenaries and took control, then led the band as they hijacked trade ships and stole valuable cargo.
+
+HISCAP men mutinied. HECAP was abandoned, arrested, and sentenced to death.</desc>
+	</MercenaryLeader48>
+	<SentimentalChild27>
+		<title>Sentimental child</title>
+		<titleShort>Nice kid</titleShort>
+		<desc>NAME was a nice child. When anybody had a problem, HE tried to fix it. But, being a child, HE did not always succeed. This hurt his sensitive soul.
+
+HECAP dreamed of being a soldier who fights raiders and aliens.</desc>
+	</SentimentalChild27>
+	<SpecialForces72>
+		<title>Special forces</title>
+		<titleShort>Specialist</titleShort>
+		<desc>Give me a reason to kill - a good reason!
+
+Markus was a soldier and a skilled one - so skilled that HE entered the special forces to battle militants and xenohuman raiders. HECAP never imagined himself a lone hero, but HE played HIS part in the group well.</desc>
+	</SpecialForces72>
 	<HackerKid65>
 		<title>ハッカー少年</title>
 		<titleShort>ハッカー</titleShort>
@@ -2651,6 +3175,82 @@ HISCAP自然を巧みに操る能力は、観客にさえ悪夢のようでし�
 
 HECAPは、正面装備を集めるのに非常に取り憑かれており、しばしば、自分のオリジナル装備に変更を加えていました。</desc>
 	</BattleMechanic79>
+	<VideoGamer94>
+		<title>Video gamer</title>
+		<titleShort>Gamer</titleShort>
+		<desc>NAME grew up on a midworld, mostly locked in HIS room, playing video games. HECAP was warm-hearted, with a deep fondness for animals.
+
+As HE grew up, HE turned to drugs to enhance his reality. During these trying times HE found passion and refuge in the gym.</desc>
+	</VideoGamer94>
+	<DischargedSoldier36>
+		<title>Discharged soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>Jeremy prostituted himself to fund his drug habits. As an escape, HE joined the military and learned to fight.
+
+Too smart for the army, HE questioned and often disagreed with HIS superiors' decisions. This eventually led to HIS dishonorable discharge and left HIM with a  chip on HIS shoulder.</desc>
+	</DischargedSoldier36>
+	<MidworldLoner78>
+		<title>Midworld loner</title>
+		<titleShort>Loner</titleShort>
+		<desc>Born on a sparsely-populated midworld, NAME had a few friends. HECAP preferred to pursue his passions in solitude, whether it be tinkering with HIS motorbike, watching lengthy vidcasts about the hottest new tech, or lining up HIS figurines and shooting them down with his pellet gun.</desc>
+	</MidworldLoner78>
+	<MilitaryGunsmith58>
+		<title>Military gunsmith</title>
+		<titleShort>Gunsmith</titleShort>
+		<desc>Inspired by a particularly evocative piece of propaganda, Robert signed up for the military in hopes of finding glory. To his dismay, however, his aptitude tests put him in the machine shop instead of on the front lines.
+
+Later, when he saw the rows of body bags returning home, he later realized how lucky he was.</desc>
+	</MilitaryGunsmith58>
+	<Student1>
+		<title>Student</title>
+		<titleShort>Student</titleShort>
+		<desc>NAME studied chemistry and quantum mechanics for entertainment.
+
+HECAP was very good at convincing others to do his physical work, and made it a goal in life to avoid manual labor.</desc>
+	</Student1>
+	<Chemist38>
+		<title>Chemist</title>
+		<titleShort>Chemist</titleShort>
+		<desc>NAME was a research chemist. HECAP worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments.</desc>
+	</Chemist38>
+	<CaravanTraveler8>
+		<title>Caravan traveler</title>
+		<titleShort>Traveler</titleShort>
+		<desc>NAME was born to a nomadic family of caravan traders on a rim world. HISCAP father, the caravan leader, taught him the caravan trade. Because he was able to barter or hunt for all of his food, he never had to worry about doing any farm work.
+
+Later, HIS father retired to a farm and offered NAME the position of caravan leader.</desc>
+	</CaravanTraveler8>
+	<Caravaneer75>
+		<title>Caravaneer</title>
+		<titleShort>Caravaneer</titleShort>
+		<desc>NAME was the leader of a nomadic trading caravan. It was his duty to negotiate trade deals and ensure the safety of his caravan from brigands and highwaymen. He became a master at managing wares, plotting routes, and striking good deals.</desc>
+	</Caravaneer75>
+	<SuperSoldier19>
+		<title>Super soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>NAME's government ran an experimental super-soldier development program. They kidnapped thousands of infants, conditioned their minds with drugs and machines, and trained them to fight.
+
+Most infants died, but NAME did not. He killed his first man at age six, and was fighting in field operations not long after.</desc>
+	</SuperSoldier19>
+	<SuperSoldier81>
+		<title>Super soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>Product of a super-soldier program run by a now-deposed government, NAME was lost. HECAP survived the final suicide attack on the enemy mothership. What now?
+
+For the first time in his life, HE had no orders, no objectives. HECAP rose from wreckage and strove towards uncertainty, towards freedom.</desc>
+	</SuperSoldier81>
+	<HeadjackAddict49>
+		<title>Headjack addict</title>
+		<titleShort>Headjacker</titleShort>
+		<desc>Plugged in to the computer via head-jack for days at a time, NAME found HE preferred the company of computers to that of people or pets.</desc>
+	</HeadjackAddict49>
+	<CorporateBuilder80>
+		<title>Corporate builder</title>
+		<titleShort>Builder</titleShort>
+		<desc>Even as HE stewed in HIS own wasted potential, NAME found HE had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.
+
+Unfortunately, the monotonous work erased HIS remaining creative impulses.</desc>
+	</CorporateBuilder80>
 	<UrbworldArmyBrat71>
 		<title>Urbworldの軍事オタク</title>
 		<titleShort>軍事オタク</titleShort>

@@ -2,9 +2,9 @@ RimWorld-Ja-sandbox
 ===========
 Ver:16.01
 Original: alpha16
-Description: 【確認済】alpha 16 対応版です。Backstory以外でのエラーが無いことを確認しました。
-ToDo: Backstories.xml を随時翻訳中です(進捗を優先しているので、品質は二の次になっています)。
-Notify: 【注意】 日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、を削除してからコピーします。上書きすると起動しなくなるとの報告があります。
+Description: 【確認済】alpha 16 対応版です。Backstoryは、とりあえず翻訳率100%となりました。(これから品質を上げますが…)
+ToDo:
+Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、を削除してからコピーします。上書きすると起動しなくなるとの報告があります。
 
 Info: ここはLudeon/RimWorldの日本語化MODファイルです。公式からリリースされた時の日本語ファイルは、ひとつ前のバージョンになっています。
 （つまり日本語が古い）

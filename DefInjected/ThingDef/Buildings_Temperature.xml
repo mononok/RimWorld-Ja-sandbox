@@ -3,17 +3,22 @@
 
 	<Campfire.label>焚き火</Campfire.label>
 	<Campfire.description>間に合わせの熱源で、数日は燃え続けます。他の熱源と同様に屋内に設置されるべきもので、その周りの狭い範囲しか暖められません。</Campfire.description>
+	<Campfire_Frame.label>焚き火(施工)</Campfire_Frame.label>
 
 	<PassiveCooler.label>放熱器</PassiveCooler.label>
 	<PassiveCooler.description>伝統的な電気を使わず、気化熱を使ったクーラーです。数日間、機能したのちに使い果たして自然に崩壊します。</PassiveCooler.description>
+	<PassiveCooler_Frame.label>放熱器(施工)</PassiveCooler_Frame.label>
 
 	<Heater.label>電気ストーブ</Heater.label>
 	<Heater.description>電気の力で暖めます、設定温度に従って自動的に、スイッチが点いたり消えたりします。</Heater.description>
+	<Heater_Frame.label>電気ストーブ(施工)</Heater_Frame.label>
 
 	<Cooler.label>クーラー</Cooler.label>
 	<Cooler.description>電気の力で冷気を部屋に送り込みますが、逆に室外機は多くの熱を発生します。夏の期間、部屋を冷却するのに使用したり、又は、冷凍倉庫として利用できます。</Cooler.description>
+	<Cooler_Frame.label>クーラー(施工)</Cooler_Frame.label>
 
 	<Vent.label>換気口</Vent.label>
 	<Vent.description>シンプルな換気口は、人の往来が無くても、つないだ部屋と部屋との温度差を一様にします。</Vent.description>
+	<Vent_Frame.label>換気口(施工)<Vent_Frame.label>
 
 </LanguageData>

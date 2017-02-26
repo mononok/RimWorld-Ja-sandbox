@@ -3,20 +3,26 @@
 
 	<PowerConduit.label>電力線</PowerConduit.label>
 	<PowerConduit.description>電気を送電する為のケーブルです。</PowerConduit.description>
+	<PowerConduit_Frame.label>電力線(施工)</PowerConduit_Frame.label>
 
 	<PowerSwitch.label>ブレーカスイッチ</PowerSwitch.label>
 	<PowerSwitch.description>電気を入り／切りするスイッチです。</PowerSwitch.description>
+	<PowerSwitch_Frame.label>ブレーカスイッチ(施工)</PowerSwitch_Frame.label>
 
 	<FueledGenerator.label>火力発電</FueledGenerator.label>
 	<FueledGenerator.description>木を燃やして発電します。木は手でくべなければなりません。</FueledGenerator.description>
+	<FueledGenerator_Frame.label>火力発電(施工)</FueledGenerator_Frame.label>
 
 	<Battery.label>バッテリー</Battery.label>
 	<Battery.description>余った電力を蓄える事が出来ます。\n(警告)過充電や水漏れは爆発の原因となります。</Battery.description>
+	<Battery_Frame.label>バッテリー(施工)</Battery_Frame.label>
 
 	<SolarGenerator.label>太陽光発電</SolarGenerator.label>
 	<SolarGenerator.description>太陽光で発電します、夜間は発電しません。</SolarGenerator.description>
+	<SolarGenerator_Frame.label>太陽光発電(施工)</SolarGenerator_Frame.label>
 
 	<GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
 	<GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません。</GeothermalGenerator.description>
+	<GeothermalGenerator_Frame.label>地熱発電(施工)</GeothermalGenerator_Frame.label>
 
 </LanguageData>

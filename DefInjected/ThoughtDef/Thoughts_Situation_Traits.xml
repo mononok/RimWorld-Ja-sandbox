@@ -50,7 +50,7 @@
 	</rep>
 	<rep>
 		<path>ProsthophileHappy.stages[0].description</path>
-		<trans>私は近未来科学の落とし子、何でもうまくやれる!</trans>
+		<trans>私は近未来科学の落とし子、何でもよりうまくやれる!</trans>
 	</rep>
 
 
@@ -70,7 +70,7 @@
 	</rep>
 	<rep>
 		<path>BrawlerUnhappy.stages[0].description</path>
-		<trans>私は離れたところから射撃したくない。近距離から攻撃させてくれ。</trans>
+		<trans>私は離れたところから射撃したくない。近距離から攻撃させてほしい。</trans>
 	</rep>
 
 
@@ -80,7 +80,7 @@
 	</rep>
 	<rep>
 		<path>ClothedNudist.stages[0].description</path>
-		<trans>私はヌーディストなのに、着衣を強要している。耐えられなくはないけど、窮屈で不快です。</trans>
+		<trans>私はヌーディストなのに、着衣を強要させられている。耐えられなくはないけど、やはり窮屈で不快な感じがする。</trans>
 	</rep>
 
 
@@ -90,7 +90,7 @@
 	</rep>
 	<rep>
 		<path>HappyNude.stages[0].description</path>
-		<trans>私は裸体のままでいるほうが、自由で誰にも束縛されないから好き！</trans>
+		<trans>私は、生まれたままの姿が好き!。とても自由で、窮屈さを感じないし、身体全身で触れられるから。</trans>
 	</rep>
 
     <rep>
@@ -117,7 +117,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[0].description</path>
-        <trans>私は欲張りだ。もう少し豪華な寝室が欲しい。</trans>
+        <trans>私は欲張りです。本当に豪華な寝室が欲しい。</trans>
     </rep>
     <rep>
         <path>Greedy.stages[1].label</path>
@@ -125,7 +125,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[1].description</path>
-        <trans>私は欲張りだ。寝室の見栄えは不十分で、もっと豪華な寝室が欲しい。</trans>
+        <trans>私は欲張りです。部屋の見栄えは不十分で、本当に豪華な寝室が欲しい。</trans>
     </rep>
     <rep>
         <path>Greedy.stages[2].label</path>
@@ -133,7 +133,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[2].description</path>
-        <trans>私は欲張りだ。寝室の見栄えは不十分で、もっと豪華な寝室を要求する。</trans>
+        <trans>私は欲張りです。部屋の見栄えは、十分には程遠いので、本当に豪華な寝室が欲しい。</trans>
     </rep>
     <rep>
         <path>Greedy.stages[3].label</path>
@@ -141,7 +141,7 @@
     </rep>
     <rep>
         <path>Greedy.stages[3].description</path>
-        <trans>私は欲張りだ。寝室の見栄えは十分とは言えない、もっと本当に豪華な寝室を要求する。</trans>
+        <trans>私は欲張りです。部屋の見栄えは十分とは言えないので、本当に豪華な寝室が欲しい。</trans>
     </rep>
     <rep>
         <path>Greedy.stages[4].label</path>
@@ -149,11 +149,11 @@
     </rep>
     <rep>
         <path>Greedy.stages[4].description</path>
-        <trans>私は欲張りだ。寝室の見栄えは全く良くない、もっと本当に豪華な寝室を要求する。</trans>
+        <trans>私は欲張りです。部屋の見栄えは完璧とはいえないので、本当に豪華な寝室が欲しい。</trans>
     </rep>
 
-  <Jealous.stages.0.label>{0}の寝室への嫉妬</Jealous.stages.0.label>
-  <Jealous.stages.0.description>私は一番いい部屋がほしいんだ！</Jealous.stages.0.description>
+  <Jealous.stages.0.label>{0}の寝室が羨ましい</Jealous.stages.0.label>
+  <Jealous.stages.0.description>私には、一番良い部屋を用意してください！</Jealous.stages.0.description>
 
     <rep>
         <path>Ascetic.stages[0].label</path>
@@ -161,23 +161,23 @@
     </rep>
     <rep>
         <path>Ascetic.stages[0].description</path>
-        <trans>この寝室は、ちょうど私が求めている質素でシンプルなものだ。</trans>
+        <trans>私の寝室は、まさに私が求めていた質素でシンプルな部屋です。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[1].label</path>
-        <trans>禁欲主義者の嫌な寝室</trans>
+        <trans>禁欲主義者のむかつく寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[1].description</path>
-        <trans>この寝室は、ちょうど私が求めている質素でシンプルなものだ。</trans>
+        <trans>私の寝室は、まさに私が求めていた質素でシンプルな部屋です。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[2].label</path>
-        <trans>禁欲主義者の味気ない寝室</trans>
+        <trans>禁欲主義者のさえない寝室</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[2].description</path>
-        <trans>私が好きな質素でシンプルな寝室です。</trans>
+        <trans>私の寝室は質素でシンプルな部屋です。気に入ってます。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[5].label</path>
@@ -185,7 +185,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[5].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[6].label</path>
@@ -193,7 +193,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[6].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[7].label</path>
@@ -201,7 +201,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[7].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[8].label</path>
@@ -209,7 +209,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[8].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[9].label</path>
@@ -217,7 +217,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[9].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[10].label</path>
@@ -225,7 +225,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[10].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
     <rep>
         <path>Ascetic.stages[11].label</path>
@@ -233,7 +233,7 @@
     </rep>
     <rep>
         <path>Ascetic.stages[11].description</path>
-        <trans>このような見栄えの良い寝室は好きではない。</trans>
+        <trans>見栄えの良い寝室は好きではない。</trans>
     </rep>
 
 </LanguageData>

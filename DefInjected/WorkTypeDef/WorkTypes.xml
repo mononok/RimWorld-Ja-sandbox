@@ -4,7 +4,7 @@
         <Firefighter.labelShort>消火</Firefighter.labelShort>
         <Firefighter.pawnLabel>消防士</Firefighter.pawnLabel>
         <Firefighter.gerundLabel>消火</Firefighter.gerundLabel>
-        <Firefighter.description>消防士はコロニーの火災を消火します。</Firefighter.description>
+        <Firefighter.description>消防士は、コロニーの火災を消火します。</Firefighter.description>
         <Firefighter.verb>消火</Firefighter.verb>
 
 	<PatientEmergency.labelShort>瀕死</PatientEmergency.labelShort>
@@ -16,13 +16,13 @@
         <Doctor.labelShort>医者</Doctor.labelShort>
         <Doctor.pawnLabel>医者</Doctor.pawnLabel>
         <Doctor.gerundLabel>治療</Doctor.gerundLabel>
-        <Doctor.description>医者はベッドで寝ている患者に、食事と治療を施します。彼らは囚人と入植者の双方を治療します。</Doctor.description>
+        <Doctor.description>病を治療し、食事を与え、励まし、割り当てられた手術を行います。医者は、入植者と囚人の双方を治療しようとします。</Doctor.description>
         <Doctor.verb>治療</Doctor.verb>
 
 	<PatientBedRest.labelShort>病人</PatientBedRest.labelShort>
 	<PatientBedRest.pawnLabel>病人</PatientBedRest.pawnLabel>
 	<PatientBedRest.gerundLabel>安静</PatientBedRest.gerundLabel>
-	<PatientBedRest.description>重篤な病気でなければ、ベッドで安静にしてなさい。</PatientBedRest.description>
+	<PatientBedRest.description>命に関わらない症状でも、回復する為にベッドで安静にしてなさい。</PatientBedRest.description>
 	<PatientBedRest.verb>病人になる</PatientBedRest.verb>
 
         <Flicker.labelShort>制御</Flicker.labelShort>
@@ -41,7 +41,7 @@
         <Handling.pawnLabel>調教師</Handling.pawnLabel>
         <Handling.gerundLabel>調教</Handling.gerundLabel>
         <Handling.description>動物使いは、飼い慣らしたり、世話をしたり、屠殺もします。</Handling.description>
-        <Handling.verb>Handle</Handling.verb>
+        <Handling.verb>調教</Handling.verb>
 
         <Cooking.labelShort>料理</Cooking.labelShort>
         <Cooking.pawnLabel>料理人</Cooking.pawnLabel>
@@ -58,13 +58,13 @@
         <Construction.labelShort>建築</Construction.labelShort>
         <Construction.pawnLabel>大工</Construction.pawnLabel>
         <Construction.gerundLabel>建築</Construction.gerundLabel>
-        <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
+        <Construction.description>大工は、指示された建物を建てたり、壊れた部分を直したり、取り壊したりします。</Construction.description>
         <Construction.verb>建築</Construction.verb>
 
         <Growing.labelShort>栽培</Growing.labelShort>
         <Growing.pawnLabel>栽培者</Growing.pawnLabel>
         <Growing.gerundLabel>栽培</Growing.gerundLabel>
-        <Growing.description>栽培者は、植物の種を育てて作物をにします。</Growing.description>
+        <Growing.description>栽培者は、植物の種を育てて作物を収穫します。</Growing.description>
         <Growing.verb>栽培</Growing.verb>
 
         <Mining.labelShort>採掘</Mining.labelShort>
@@ -82,43 +82,43 @@
         <Smithing.labelShort>鍛冶</Smithing.labelShort>
         <Smithing.pawnLabel>鍛冶屋</Smithing.pawnLabel>
         <Smithing.gerundLabel>鍛冶</Smithing.gerundLabel>
-        <Smithing.description>鍛冶屋は、素材から武器や工具を作ります。</Smithing.description>
+        <Smithing.description>鍛冶屋は、自然の素材から、鍛冶屋として、もしくは、機械加工を使って武器や工具を作ります。</Smithing.description>
         <Smithing.verb>鍛冶</Smithing.verb>
 
         <Tailoring.labelShort>裁縫</Tailoring.labelShort>
         <Tailoring.pawnLabel>裁縫家</Tailoring.pawnLabel>
         <Tailoring.gerundLabel>裁縫</Tailoring.gerundLabel>
-        <Tailoring.description>裁縫家は、素材から服を作ります。</Tailoring.description>
+        <Tailoring.description>裁縫家は、自然の素材から服を作ります。</Tailoring.description>
         <Tailoring.verb>裁縫</Tailoring.verb>
 
         <Art.labelShort>芸術</Art.labelShort>
         <Art.pawnLabel>芸術家</Art.pawnLabel>
         <Art.gerundLabel>芸術</Art.gerundLabel>
-        <Art.description>芸術家は絵画のように美しいものを創ります。</Art.description>
+        <Art.description>芸術家は、自然の素材から、絵画のように美しいものを創ります。</Art.description>
         <Art.verb>芸術</Art.verb>
 
         <Crafting.labelShort>工芸</Crafting.labelShort>
         <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
         <Crafting.gerundLabel>工芸</Crafting.gerundLabel>
-        <Crafting.description>工芸家は未加工の物から、道具を創り出します。</Crafting.description>
+        <Crafting.description>工芸家は、作業台で必要スキルの低い一般的な作業をします。この作業には、ストーンカッター、溶解炉、等が含まれます。</Crafting.description>
         <Crafting.verb>工芸</Crafting.verb>
 
         <Hauling.labelShort>運搬</Hauling.labelShort>
         <Hauling.pawnLabel>運送屋</Hauling.pawnLabel>
         <Hauling.gerundLabel>運搬</Hauling.gerundLabel>
-        <Hauling.description>運送屋は必要な所へ必要な物を運搬します。</Hauling.description>
+        <Hauling.description>運送屋は、必要な所へ必要な物を運搬します。</Hauling.description>
         <Hauling.verb>運ぶ</Hauling.verb>
 
         <Cleaning.labelShort>掃除</Cleaning.labelShort>
         <Cleaning.pawnLabel>清掃人</Cleaning.pawnLabel>
         <Cleaning.gerundLabel>掃除</Cleaning.gerundLabel>
-        <Cleaning.description>清掃人はホームを掃除し、より住みやすい環境にします。</Cleaning.description>
+        <Cleaning.description>清掃人は、コロニーの雪を除けて、床を掃除します。</Cleaning.description>
         <Cleaning.verb>掃く</Cleaning.verb>
 
         <Research.labelShort>研究</Research.labelShort>
         <Research.pawnLabel>研究者</Research.pawnLabel>
         <Research.gerundLabel>研究</Research.gerundLabel>
-        <Research.description>研究者は研究を行います。</Research.description>
+        <Research.description>研究者は、研究を行います。</Research.description>
         <Research.verb>研究</Research.verb>
 
 </LanguageData>

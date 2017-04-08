@@ -26,7 +26,7 @@
         <trans>薬物拒絶 vs 薬物乱用</trans>
 	</rep>
 	
-	<TeetotalerVsAddict.stages.0.label>teetotaler vs addict</TeetotalerVsAddict.stages.0.label>
+	<TeetotalerVsAddict.stages.0.label>薬物拒絶 vs 中毒者</TeetotalerVsAddict.stages.0.label>
 
 	<rep>
     	<path>ChemicalInterestVsTeetotaler.stages[0].label</path>
@@ -78,7 +78,7 @@
 
 	<rep>
     	<path>ButcheredHumanlikeCorpseOpinion.stages[0].label</path>
-        <trans>人体を解剖した</trans>
+        <trans>死体解剖</trans>
 	</rep>
 
 	<rep>
@@ -119,12 +119,12 @@
 	</rep>
 	<rep>
     	<path>OpinionOfMyLover.stages[0].description</path>
-        <trans>恋人の存在が、私にいろいろ感じさせてくれる。</trans>
+        <trans>恋人がいる事で、こんな気にさせます。</trans>
 	</rep>
 
 	<rep>
     	<path>BondedAnimalMaster.stages[0].label</path>
-        <trans>絆で結ばれた動物の主人</trans>
+        <trans>{0}の主人</trans>
 	</rep>
 	<rep>
     	<path>BondedAnimalMaster.stages[0].description</path>
@@ -133,7 +133,7 @@
 
 	<rep>
     	<path>NotBondedAnimalMaster.stages[0].label</path>
-        <trans>主人になりたい</trans>
+        <trans>{0}の主人になりたい</trans>
 	</rep>
 	<rep>
     	<path>NotBondedAnimalMaster.stages[0].description</path>

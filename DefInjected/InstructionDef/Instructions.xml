@@ -79,15 +79,8 @@
     <OpenMainTabWork.text>入植者毎に作業の種別を制御することができます。\n\n画面下にある「優先順位」タブを開きます。</OpenMainTabWork.text>
     <OpenMainTabWork.rejectInputMessage>「優先順位」タブを開いてみましょう。</OpenMainTabWork.rejectInputMessage>
 
-    <ChangeWorkSettings.text>あなたは、チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます。
-    入植者は優先順位(左から右）に従って作業をしようとします。\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は、どんなにクダラナイ事でも、
-    常に自分の作業順序に従います。
-    
-    Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\n
-    Beware - Colonists always follow their work priorities, even if this makes them do dumb things! 
-    Setting up a smart work regime is a key skill for success in RimWorld. 
-    So set the work settings carefully, and review them often!</ChangeWorkSettings.text>
-    <ChangeWorkSettings.rejectInputMessage>Please open the 'Work' tab and change some settings.</ChangeWorkSettings.rejectInputMessage>
+    <ChangeWorkSettings.text>あなたは、チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます。入植者は優先順位(左から右）に従って作業をしようとします。\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は、どんなにクダラナイ事でも、常に自分の優先順序に従います。効率的な作業体制を敷くことは、リムワールドでの成功のカギとなります。だから、優先順位の設定は慎重に行い、何度も見直しましょう!</ChangeWorkSettings.text>
+    <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください、そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
 
     <BuildSimpleResearchBench.text>次に進むためには、新しいテクノロジーを研究してみましょう。\n\n木製の"SIMPLE RESEARCH BENCH"を部屋の中に作ります。</BuildSimpleResearchBench.text>
     <BuildSimpleResearchBench.rejectInputMessage>早いうちに、部屋の中に"SIMPLE RESEARCH BENCH"を作ってみましょう。</BuildSimpleResearchBench.rejectInputMessage>
@@ -96,14 +89,14 @@
     <OpenMainTabResearch.text>大変素晴らしい! 次は、あなたが研究させたいテクノロジーを選択してみましょう。\n\n「研究」タブを開きます。</OpenMainTabResearch.text>
     <OpenMainTabResearch.rejectInputMessage>「研究」タブを開きましょう</OpenMainTabResearch.rejectInputMessage>
 
-    <SelectResearchProject.text>Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct.</SelectResearchProject.text>
-    <SelectResearchProject.rejectInputMessage>Please choose a research project.</SelectResearchProject.rejectInputMessage>
+    <SelectResearchProject.text>さて、真っ先に研究させたい対象を選択します。\n\nあなたは、木が切り倒されて木材となり、研究設備が作られるまで、待たなければならないかもしれません。\n\nもし待ちきれないなら、「優先順位」タブを開いて、もっと多くの入植者に、建築作業を割り当てます。</SelectResearchProject.text>
+    <SelectResearchProject.rejectInputMessage>研究プロジェクトを選択してください。</SelectResearchProject.rejectInputMessage>
 
     <ExpandAreaHome.text>次に、"HOME AREA"の拡張方法を学習してみましょう。\n\n入植者達は、"HOME AREA"内だけ、床を掃除したり、火を消火したりし、この外側の汚れや火災は無視します。\n\nホームエリアは、あなたが建造したときに自動的に追加されていきます。しかし、手動で範囲を広げることもできます。\n\n「コロニーゾーン」ツールを使って、マップ上に新しいホームエリアを作りましょう。</ExpandAreaHome.text>
-    <ExpandAreaHome.rejectInputMessage>Please expand the home area a bit, just for practice.</ExpandAreaHome.rejectInputMessage>
+    <ExpandAreaHome.rejectInputMessage>練習も兼ねて、コロニーゾーンを少し広げてください。</ExpandAreaHome.rejectInputMessage>
 
     <ExpandAreaBuildRoof.text>"BUILD ROOF AREA"を定義すると、入植者たちは屋根を作ろうとします。\n\nあたらしく閉じた空間(部屋)を作ったときも、自動的に行われます。\n\n"EXPAND BUILD ROOF AREA"ツールを選択して、部屋の前にポーチ部分を作ってみましょう。</ExpandAreaBuildRoof.text>
-    <ExpandAreaBuildRoof.rejectInputMessage>Please expand the build roof area a bit, just for practice.</ExpandAreaBuildRoof.rejectInputMessage>
+    <ExpandAreaBuildRoof.rejectInputMessage>練習も兼ねて、屋根を少し広げてください。</ExpandAreaBuildRoof.rejectInputMessage>
 
     <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち、敵があなたのコロニーを襲いに来るでしょう。その準備を始める時です。\n\n"土のう"を選択して、指示されたところに土のうを積みましょう。</BuildSandbags.text>
     <BuildSandbags.rejectInputMessage>ハイライトされたところに"土のう"を作りましょう。</BuildSandbags.rejectInputMessage>
@@ -113,14 +106,14 @@
     <FinishSandbags.rejectInputMessage>入植者達が土のうを作り終えるまで待ちましょう。</FinishSandbags.rejectInputMessage>
 
     <DownRaider.text>私は、あなたのコロニーを攻撃するレイダーを送りました。\n\n1.{Key:TogglePause}を押してゲームを一時中止します!\n2.画面の右下にある赤色の手紙を読みます。\n3.入植者を選択し、「徴兵」コマンドを実行します。\n4.そのまま、土のうが積んである内側の、土のうの背後を右クリックして、彼らをそこに移動させます。\n5.一時停止を解除します。\n\n入植者を、土のうの背後に配置することで、カバーとしての恩恵を得られます。カバーについたまま、攻撃者がやってくるのを待っていると、入植者たちは自動的に撃ち始めます。</DownRaider.text>
-		<DownRaider.rejectInputMessage>Please focus on winning the fight!</DownRaider.rejectInputMessage>
-		<DownRaider.onMapInstruction>Send colonists here\ntouching sandbags for cover</DownRaider.onMapInstruction>
+		<DownRaider.rejectInputMessage>戦闘の経過を見守ってください!</DownRaider.rejectInputMessage>
+		<DownRaider.onMapInstruction>ここに入植者を送ります。\n土のうをカバーにして背後に配置します。</DownRaider.onMapInstruction>
 
     <UndraftAll.text>成功です! 全員に対して、「徴兵」の解除を行います。\n\nこうすると、彼らは、スケジュール通りの元の作業に戻ります。</UndraftAll.text>
 		<UndraftAll.rejectInputMessage>「徴兵」の解除をしましょう。</UndraftAll.rejectInputMessage>
 
     <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと、学ぶことがあります、囚人の扱い方、狩猟のしかた、トレード、野生動物、他にもたくさんあります。しかし基本は習得しました。\n\nこのチュートリアルでは、ランダムに起きる、事件事故は禁止してあります。本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します。\n3.「脚本家」をクリックします。\n4.脚本家と、難易度が表示されます。\n\nGood luck, and have fun.</ChooseStoryteller.text>
-    <ChooseStoryteller.rejectInputMessage>Please choose a storyteller in the Options menu to end the tutorial.</ChooseStoryteller.rejectInputMessage>
+    <ChooseStoryteller.rejectInputMessage>オプションメニューから、ストーリーテラーを選択して、このチュートリアルを終了します。</ChooseStoryteller.rejectInputMessage>
 
 </LanguageData>
 

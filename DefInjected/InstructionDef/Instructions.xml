@@ -69,8 +69,8 @@
     <AddBillSimpleMeal.rejectInputMessage>かまどの設定を、簡単な食事を作らせるように設定しましょう。</AddBillSimpleMeal.rejectInputMessage>
     <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
 
-    <MineSteel.text>これで、入植者達は食事を作れるようになりました!おいしいっ!\n\n次は、鉱物資源を掘ってみましょう。あなたのコロニーの近くに鉄を置きました。\n\n"MINE"を選択し、鉄の上をドラッグして選択します。</MineSteel.text>
-    <MineSteel.rejectInputMessage>鉱物資源の上で、"MINE"を指示しましょう。</MineSteel.rejectInputMessage>
+    <MineSteel.text>これで、入植者達は食事を作れるようになりました!おいしいっ!\n\n次は、鉱物資源を掘ってみましょう。あなたのコロニーの近くに鉄を置きました。\n\n"採掘"を選択し、鉄の上をドラッグして選択します。</MineSteel.text>
+    <MineSteel.rejectInputMessage>鉱物資源の上で、"採掘"を指示しましょう。</MineSteel.rejectInputMessage>
     <MineSteel.onMapInstruction>これ全てに指示します\n掘削</MineSteel.onMapInstruction>
 
     <ChopTrees.text>いくつか木を収穫してみましょう。いくつか木を伐採させます。\n\n「伐採」コマンドで、コロニーの回りにある、10本の木を伐採させます。\n\n(ヒント: ドラッグして木をまとめて選択することが出来ます。)</ChopTrees.text>
@@ -82,9 +82,9 @@
     <ChangeWorkSettings.text>あなたは、チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます。入植者は優先順位(左から右）に従って作業をしようとします。\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は、どんなにクダラナイ事でも、常に自分の優先順序に従います。効率的な作業体制を敷くことは、リムワールドでの成功のカギとなります。だから、優先順位の設定は慎重に行い、何度も見直しましょう!</ChangeWorkSettings.text>
     <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください、そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
 
-    <BuildSimpleResearchBench.text>次に進むためには、新しいテクノロジーを研究してみましょう。\n\n木製の"SIMPLE RESEARCH BENCH"を部屋の中に作ります。</BuildSimpleResearchBench.text>
-    <BuildSimpleResearchBench.rejectInputMessage>早いうちに、部屋の中に"SIMPLE RESEARCH BENCH"を作ってみましょう。</BuildSimpleResearchBench.rejectInputMessage>
-    <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"SIMPLE RESEARCH BENCH"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
+    <BuildSimpleResearchBench.text>次に進むためには、新しいテクノロジーを研究してみましょう。\n\n木製の"研究設備"を部屋の中に作ります。</BuildSimpleResearchBench.text>
+    <BuildSimpleResearchBench.rejectInputMessage>早いうちに、部屋の中に"研究設備"を作ってみましょう。</BuildSimpleResearchBench.rejectInputMessage>
+    <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"研究設備"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
 
     <OpenMainTabResearch.text>大変素晴らしい! 次は、あなたが研究させたいテクノロジーを選択してみましょう。\n\n「研究」タブを開きます。</OpenMainTabResearch.text>
     <OpenMainTabResearch.rejectInputMessage>「研究」タブを開きましょう</OpenMainTabResearch.rejectInputMessage>
@@ -92,10 +92,10 @@
     <SelectResearchProject.text>さて、真っ先に研究させたい対象を選択します。\n\nあなたは、木が切り倒されて木材となり、研究設備が作られるまで、待たなければならないかもしれません。\n\nもし待ちきれないなら、「優先順位」タブを開いて、もっと多くの入植者に、建築作業を割り当てます。</SelectResearchProject.text>
     <SelectResearchProject.rejectInputMessage>研究プロジェクトを選択してください。</SelectResearchProject.rejectInputMessage>
 
-    <ExpandAreaHome.text>次に、"HOME AREA"の拡張方法を学習してみましょう。\n\n入植者達は、"HOME AREA"内だけ、床を掃除したり、火を消火したりし、この外側の汚れや火災は無視します。\n\nホームエリアは、あなたが建造したときに自動的に追加されていきます。しかし、手動で範囲を広げることもできます。\n\n「コロニーゾーン」ツールを使って、マップ上に新しいホームエリアを作りましょう。</ExpandAreaHome.text>
+    <ExpandAreaHome.text>次に、ホームエリアの拡張方法を学習してみましょう。\n\n入植者達は、ホームエリア内だけ、床を掃除したり、火を消火したりし、この外側の汚れや火災は無視します。\n\nホームエリアは、あなたが建造したときに自動的に追加されていきます。しかし、手動で範囲を広げることもできます。\n\n「コロニーゾーン」ツールを使って、マップ上に新しいホームエリアを作りましょう。</ExpandAreaHome.text>
     <ExpandAreaHome.rejectInputMessage>練習も兼ねて、コロニーゾーンを少し広げてください。</ExpandAreaHome.rejectInputMessage>
 
-    <ExpandAreaBuildRoof.text>"BUILD ROOF AREA"を定義すると、入植者たちは屋根を作ろうとします。\n\nあたらしく閉じた空間(部屋)を作ったときも、自動的に行われます。\n\n"EXPAND BUILD ROOF AREA"ツールを選択して、部屋の前にポーチ部分を作ってみましょう。</ExpandAreaBuildRoof.text>
+    <ExpandAreaBuildRoof.text>屋根ゾーンを定義すると、入植者たちは屋根を作ろうとします。\n\nあたらしく閉じた空間(部屋)を作ったときも、自動的に行われます。\n\n「屋根ゾーン」ツールを選択して、部屋の前にポーチ部分を作ってみましょう。</ExpandAreaBuildRoof.text>
     <ExpandAreaBuildRoof.rejectInputMessage>練習も兼ねて、屋根を少し広げてください。</ExpandAreaBuildRoof.rejectInputMessage>
 
     <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち、敵があなたのコロニーを襲いに来るでしょう。その準備を始める時です。\n\n"土のう"を選択して、指示されたところに土のうを積みましょう。</BuildSandbags.text>

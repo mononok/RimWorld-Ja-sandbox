@@ -6,6 +6,7 @@
 
   <Mass.label>重量</Mass.label>
   <Mass.description>オブジェクトの重量です。</Mass.description>
+  <Mass.formatString>{0} ㌔</Mass.formatString>
 
     <MarketValue.label>金額</MarketValue.label>
     <MarketValue.description>市場価格を表します。実際の値段は、売買するお互いの関係性でさらに変動します。</MarketValue.description>

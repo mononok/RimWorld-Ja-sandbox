@@ -52,7 +52,7 @@
 <NeedAName>名前を 入力してください。</NeedAName>
 <LoadingLongEvent>データロード中です…</LoadingLongEvent>
   <SavingLongEvent>セーブ中</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
@@ -166,8 +166,8 @@
   <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
-<FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
+  <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
+  <FertilitySensitivity>肥沃度への感度係数</FertilitySensitivity>
 <LightRequirement>成長に必要な光源</LightRequirement>
 <Attributes>属性</Attributes>
 <LifeSpan>寿命</LifeSpan>
@@ -185,7 +185,7 @@
   <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
   <BodyPartEfficiency>ボディパーツの能力</BodyPartEfficiency>
-  <MoodChange>Mood change</MoodChange>
+  <MoodChange>心情変化</MoodChange>
   <Wildness>野性</Wildness>
   <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
   <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
@@ -220,12 +220,12 @@
 	<Buying>買い</Buying>
 	<ItemSellPriceFactor>売り手 掛け率</ItemSellPriceFactor>
 	<DifficultyLevel>難易度</DifficultyLevel>
-	<PostCurve>global post-process curve</PostCurve>
+	<PostCurve>最終的な修正曲線</PostCurve>
 	<YourNegotiatorBonus>交渉ボーナス</YourNegotiatorBonus>
 	<TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
 	<minimum>最小値</minimum>
 	<FinalPrice>最終価格</FinalPrice>
-  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+  <TradeMassUsageTooltip>結果としての、使用重量と、受け入れ重量</TradeMassUsageTooltip>
 
     <!-- Form caravan -->
     <FormCaravan>キャラバン隊を編成</FormCaravan>

@@ -1,34 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<Cut.label>斬る</Cut.label>
 	<Cut.deathMessage>{0} は斬られて死んだ</Cut.deathMessage>
 
+	<Crush.label>潰す</Crush.label>
 	<Crush.deathMessage>{0} は押し潰されて死んだ</Crush.deathMessage>
 
+	<Blunt.label>殴る</Blunt.label>
 	<Blunt.deathMessage>{0} は鈍器で殴られて死んだ</Blunt.deathMessage>
 
+	<Stab.label>突き刺す</Stab.label>
 	<Stab.deathMessage>{0} は突き刺されて死んだ</Stab.deathMessage>
 
+	<Bullet.label>撃つ</Bullet.label>
 	<Bullet.deathMessage>{0} は撃たれて死んだ</Bullet.deathMessage>
 
+	<Arrow.label>射る</Arrow.label>
 	<Arrow.deathMessage>{0} は射抜かれて死んだ</Arrow.deathMessage>
 
+	<Scratch.label>裂く</Scratch.label>
 	<Scratch.deathMessage>{0} は爪で引き裂かれて死んだ</Scratch.deathMessage>
 
+	<Bite.label>噛む</Bite.label>
 	<Bite.deathMessage>{0} は噛まれて死んだ</Bite.deathMessage>
-	
+
+	<ToxicBite.label>噛む</ToxicBite.label>
 	<ToxicBite.deathMessage>{0} は噛まれて死んだ</ToxicBite.deathMessage>
 
+	<Bomb.label>爆発</Bomb.label>
 	<Bomb.deathMessage>{0} は爆発に巻き込まれて死んだ</Bomb.deathMessage>
 
+	<Flame.label>焼ける</Flame.label>
 	<Flame.deathMessage>{0} は焼け死んだ</Flame.deathMessage>
-	
+
+	<Burn.label>焼ける</Burn.label>
 	<Burn.deathMessage>{0} は焼け死んだ</Burn.deathMessage>
 
+	<Frostbite.label>凍傷</Frostbite.label>
 	<Frostbite.deathMessage>{0} は凍傷になって死んだ</Frostbite.deathMessage>
 
+	<SurgicalCut.label>手術死</SurgicalCut.label>
 	<SurgicalCut.deathMessage>{0} は手術中に息絶えた</SurgicalCut.deathMessage>
 
+	<ExecutionCut.label>処刑</ExecutionCut.label>
 	<ExecutionCut.deathMessage>{0} は処刑された</ExecutionCut.deathMessage>
+
+	<Deterioration.deathMessage>{0} は殺された</Deterioration.deathMessage>
+
+	<Mining.deathMessage>{0} は殺された</Mining.deathMessage>
+
+	<Rotting.deathMessage>{0} は殺された</Rotting.deathMessage>
+
+	<Extinguish.deathMessage>{0} は殺された</Extinguish.deathMessage>
 
 </LanguageData>

@@ -1,50 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <Shooting.label>射撃</Shooting.label>
     <Shooting.description>遠距離武器を扱うスキルです。</Shooting.description>
     <Shooting.skillLabel>射撃</Shooting.skillLabel>
     <Shooting.pawnLabel>射撃手</Shooting.pawnLabel>
 
+    <Melee.label>格闘</Melee.label>
     <Melee.description>近接武器と格闘のスキルです。</Melee.description>
     <Melee.skillLabel>格闘</Melee.skillLabel>
     <Melee.pawnLabel>格闘家</Melee.pawnLabel>
 
+    <Social.label>社交</Social.label>
     <Social.description>交渉、説得、扇動、他に勇気を与えるスキルです。</Social.description>
     <Social.skillLabel>社交</Social.skillLabel>
     <Social.pawnLabel>社交家</Social.pawnLabel>
 
+    <Animals.label>動物</Animals.label>
     <Animals.description>飼いならし、調教、動物を扱うスキルです。</Animals.description>
     <Animals.skillLabel>動物</Animals.skillLabel>
     <Animals.pawnLabel>調教師</Animals.pawnLabel>
 
+    <Medicine.label>医学</Medicine.label>
     <Medicine.description>怪我や病気を治し手術を行うスキルです。</Medicine.description>
     <Medicine.skillLabel>医学</Medicine.skillLabel>
     <Medicine.pawnLabel>医者</Medicine.pawnLabel>
 
+    <Cooking.label>料理</Cooking.label>
     <Cooking.description>料理の素材から食事を作るスキルです。</Cooking.description>
     <Cooking.skillLabel>料理</Cooking.skillLabel>
     <Cooking.pawnLabel>料理家</Cooking.pawnLabel>
 
+    <Construction.label>建築</Construction.label>
     <Construction.description>品質の高い家具や建物を、早く作成するスキルです。</Construction.description>
     <Construction.skillLabel>建築</Construction.skillLabel>
     <Construction.pawnLabel>建築家</Construction.pawnLabel>
 
+    <Growing.label>栽培</Growing.label>
     <Growing.description>種を蒔き、育てて収穫するスキルです。</Growing.description>
     <Growing.skillLabel>栽培</Growing.skillLabel>
     <Growing.pawnLabel>栽培家</Growing.pawnLabel>
 
+    <Mining.label>採掘</Mining.label>
     <Mining.description>トンネルを掘り、鉱物や埋もれていた資源を採掘するスキルです。</Mining.description>
     <Mining.skillLabel>採掘</Mining.skillLabel>
     <Mining.pawnLabel>採掘者</Mining.pawnLabel>
 
+    <Artistic.label>芸術</Artistic.label>
     <Artistic.description>芸術作品を作るスキルです。</Artistic.description>
     <Artistic.skillLabel>芸術</Artistic.skillLabel>
     <Artistic.pawnLabel>芸術家</Artistic.pawnLabel>
 
+    <Crafting.label>工芸</Crafting.label>
     <Crafting.description>工具や武器なども含めたアイテムを作成するスキルです。</Crafting.description>
     <Crafting.skillLabel>工芸</Crafting.skillLabel>
     <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
 
+    <Research.label>研究</Research.label>
     <Research.description>研究、学習するスキルです。</Research.description>
     <Research.skillLabel>研究</Research.skillLabel>
     <Research.pawnLabel>研究者</Research.pawnLabel>

@@ -2,7 +2,8 @@
 <LanguageData>
 
     <MoveSpeed.label>移動速度</MoveSpeed.label>
-    <MoveSpeed.description>移動セル数/秒 (c/s)</MoveSpeed.description>
+    <MoveSpeed.description>移動セル数/秒</MoveSpeed.description>
+    <MoveSpeed.formatString>{0} セル/秒</MoveSpeed.formatString>
 
     <MentalBreakThreshold.label>精神的弱さ</MentalBreakThreshold.label>
     <MentalBreakThreshold.description>誰かの気分が、この値を下回っているのなら、彼らは精神崩壊する危険性をはらんでいます。</MentalBreakThreshold.description>

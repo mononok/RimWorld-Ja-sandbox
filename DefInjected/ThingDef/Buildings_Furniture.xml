@@ -4,91 +4,130 @@
 	<!--============================== Beds ==============================-->
 	<SleepingSpot.label>寝床</SleepingSpot.label>
 	<SleepingSpot.description>人が寝る場所を、地面の上に指示します。寝心地は良くはありません。</SleepingSpot.description>
+	<SleepingSpot_Blueprint.label>寝床(設計)</SleepingSpot_Blueprint.label>
 	<SleepingSpot_Frame.label>寝床(施工)</SleepingSpot_Frame.label>
 
 	<Bed.label>ベッド</Bed.label>
+	<Bed_Blueprint_Install.label>ベッド(移動先)</Bed_Blueprint_Install.label>
 	<Bed.description>フレームの上に心地よいマットレスとシーツが掛けてある、休息する為のベッドです。</Bed.description>
+	<Bed_Blueprint.label>ベッド(設計)</Bed_Blueprint.label>
 	<Bed_Frame.label>ベッド(施工)</Bed_Frame.label>
 
 	<DoubleBed.label>ダブルベッド</DoubleBed.label>
+	<DoubleBed_Blueprint_Install.label>ダブルベッド(移動先)</DoubleBed_Blueprint_Install.label>
 	<DoubleBed.description>シンプルで、二人で寝るにはちょうど良いダブルベッドです。</DoubleBed.description>
+	<DoubleBed_Blueprint.label>ダブルベッド(設計)</DoubleBed_Blueprint.label>
 	<DoubleBed_Frame.label>ダブルベッド(施工)</DoubleBed_Frame.label>
 
 	<RoyalBed.label>豪華なベッド</RoyalBed.label>
+	<RoyalBed_Blueprint_Install.label>豪華なベッド(移動先)</RoyalBed_Blueprint_Install.label>
 	<RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、二人で寝るのにぴったりです。</RoyalBed.description>
+	<RoyalBed_Blueprint.label>豪華なベッド(設計)</RoyalBed_Blueprint.label>
 	<RoyalBed_Frame.label>豪華なベッド(施工)</RoyalBed_Frame.label>
 
 	<HospitalBed.label>病院用ベッド</HospitalBed.label>
+	<HospitalBed_Blueprint_Install.label>病院用ベッド(移動先)</HospitalBed_Blueprint_Install.label>
 	<HospitalBed.description>怪我人の為に考えられた特製の病院用ベッドです。治療の成功率が良くなります。</HospitalBed.description>
+	<HospitalBed_Blueprint.label>病院用ベッド(設計)</HospitalBed_Blueprint.label>
 	<HospitalBed_Frame.label>病院用ベッド(施工)</HospitalBed_Frame.label>
 
     <!--=========================== Animal beds ===============================-->
     <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
 	<AnimalSleepingSpot.description>家畜の寝床を指示します。</AnimalSleepingSpot.description>
+    <AnimalSleepingSpot_Blueprint.label>家畜の寝床(設計)</AnimalSleepingSpot_Blueprint.label>
     <AnimalSleepingSpot_Frame.label>家畜の寝床(施工)</AnimalSleepingSpot_Frame.label>
 
 	<AnimalSleepingBox.label>家畜小屋</AnimalSleepingBox.label>
+	<AnimalSleepingBox_Blueprint_Install.label>家畜小屋(移動先)</AnimalSleepingBox_Blueprint_Install.label>
 	<AnimalSleepingBox.description>家畜が寝るための小さな小屋です。ニワトリやネコ、小さなイヌなどに、ぴったりです。</AnimalSleepingBox.description>
+	<AnimalSleepingBox_Blueprint.label>家畜小屋(設計)</AnimalSleepingBox_Blueprint.label>
 	<AnimalSleepingBox_Frame.label>家畜小屋(施工)</AnimalSleepingBox_Frame.label>
 
 	<AnimalBed.label>家畜用ベッド</AnimalBed.label>
+	<AnimalBed_Blueprint_Install.label>家畜用ベッド(移動先)</AnimalBed_Blueprint_Install.label>
 	<AnimalBed.description>全ての家畜にぴったりな、家畜が寝るためのベッドです。</AnimalBed.description>
+	<AnimalBed_Blueprint.label>家畜用ベッド(設計)</AnimalBed_Blueprint.label>
 	<AnimalBed_Frame.label>家畜用ベッド(施工)</AnimalBed_Frame.label>
 
 	<!--======================= Basic domestic furniture ==============================-->
 	<Stool.label>スツール</Stool.label>
+	<Stool_Blueprint_Install.label>スツール(移動先)</Stool_Blueprint_Install.label>
 	<Stool.description>座るためだけのシンプルな骨格です。</Stool.description>
+	<Stool_Blueprint.label>スツール(設計)</Stool_Blueprint.label>
 	<Stool_Frame.label>スツール(施工)</Stool_Frame.label>
 
 	<DiningChair.label>ダイニング チェア</DiningChair.label>
+	<DiningChair_Blueprint_Install.label>ダイニング チェア(移動先)</DiningChair_Blueprint_Install.label>
 	<DiningChair.description>心地よく魅力的な、ダイニングテーブルの為の椅子です。</DiningChair.description>
+	<DiningChair_Blueprint.label>ダイニング チェア(設計)</DiningChair_Blueprint.label>
 	<DiningChair_Frame.label>ダイニング チェア(施工)</DiningChair_Frame.label>
 
 	<Armchair.label>アームチェア</Armchair.label>
+	<Armchair_Blueprint_Install.label>アームチェア(移動先)</Armchair_Blueprint_Install.label>
 	<Armchair.description>大きく、やわらかで、心地よく座れるシートは、多くの安息をもたらすでしょう。</Armchair.description>
+	<Armchair_Blueprint.label>アームチェア(設計)</Armchair_Blueprint.label>
 	<Armchair_Frame.label>アームチェア(施工)</Armchair_Frame.label>
 
 	<!--======================= Tables ==============================-->
 	<TableShort.label>テーブル(短)</TableShort.label>
+	<TableShort_Blueprint_Install.label>テーブル(短)(移動先)</TableShort_Blueprint_Install.label>
 	<TableShort.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。</TableShort.description>
+	<TableShort_Blueprint.label>テーブル(短)(設計)</TableShort_Blueprint.label>
 	<TableShort_Frame.label>テーブル(短)(施工)</TableShort_Frame.label>
 
 	<TableLong.label>テーブル(長)</TableLong.label>
+	<TableLong_Blueprint_Install.label>テーブル(長)(移動先)</TableLong_Blueprint_Install.label>
 	<TableLong.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。</TableLong.description>
+	<TableLong_Blueprint.label>テーブル(長)(設計)</TableLong_Blueprint.label>
 	<TableLong_Frame.label>テーブル(長)(施工)</TableLong_Frame.label>
 
 	<PlantPot.label>植木鉢</PlantPot.label>
+	<PlantPot_Blueprint_Install.label>植木鉢(移動先)</PlantPot_Blueprint_Install.label>
 	<PlantPot.description>花や植物を飾ると、そばにいる人の気分が、良くなります。</PlantPot.description>
+	<PlantPot_Blueprint.label>植木鉢(設計)</PlantPot_Blueprint.label>
 	<PlantPot_Frame.label>植木鉢(施工)</PlantPot_Frame.label>
 
 	<!-- ======================== Lighting ======================= -->
 	<TorchLamp.label>トーチランプ</TorchLamp.label>
 	<TorchLamp.description>木製のタイマツが辺りを照らします。木があれば自動的に燃料補給できます。少しの熱しか産出しません。</TorchLamp.description>
+	<TorchLamp_Blueprint.label>トーチランプ(設計)</TorchLamp_Blueprint.label>
 	<TorchLamp_Frame.label>トーチランプ(施工)</TorchLamp_Frame.label>
 
 	<StandingLamp.label>電気スタンド</StandingLamp.label>
+	<StandingLamp_Blueprint_Install.label>電気スタンド(移動先)</StandingLamp_Blueprint_Install.label>
 	<StandingLamp.description>辺りを照らします。</StandingLamp.description>
+	<StandingLamp_Blueprint.label>電気スタンド(設計)</StandingLamp_Blueprint.label>
 	<StandingLamp_Frame.label>電気スタンド(施工)</StandingLamp_Frame.label>
 
 	<StandingLamp_Red.label>電気スタンド(赤色)</StandingLamp_Red.label>
+	<StandingLamp_Red_Blueprint_Install.label>電気スタンド(赤色)(移動先)</StandingLamp_Red_Blueprint_Install.label>
 	<StandingLamp_Red.description>辺りを赤く照らします。</StandingLamp_Red.description>
+	<StandingLamp_Red_Blueprint.label>電気スタンド(赤色)(設計)</StandingLamp_Red_Blueprint.label>
 	<StandingLamp_Red_Frame.label>電気スタンド(赤色)(施工)</StandingLamp_Red_Frame.label>
 
 	<StandingLamp_Green.label>電気スタンド(緑)</StandingLamp_Green.label>
+	<StandingLamp_Green_Blueprint_Install.label>電気スタンド(緑)(移動先)</StandingLamp_Green_Blueprint_Install.label>
 	<StandingLamp_Green.description>辺りを緑に照らします。</StandingLamp_Green.description>
+	<StandingLamp_Green_Blueprint.label>電気スタンド(緑)(設計)</StandingLamp_Green_Blueprint.label>
 	<StandingLamp_Green_Frame.label>電気スタンド(緑)(施工)</StandingLamp_Green_Frame.label>
 
 	<StandingLamp_Blue.label>電気スタンド(青)</StandingLamp_Blue.label>
+	<StandingLamp_Blue_Blueprint_Install.label>電気スタンド(青)(移動先)</StandingLamp_Blue_Blueprint_Install.label>
 	<StandingLamp_Blue.description>辺りを青く照らします。</StandingLamp_Blue.description>
+	<StandingLamp_Blue_Blueprint.label>電気スタンド(青)(設計)</StandingLamp_Blue_Blueprint.label>
 	<StandingLamp_Blue_Frame.label>電気スタンド(青)(施工)</StandingLamp_Blue_Frame.label>
 
 	<SunLamp.label>太陽灯</SunLamp.label>
+	<SunLamp_Blueprint_Install.label>太陽灯(移動先)</SunLamp_Blueprint_Install.label>
 	<SunLamp.description>植物が生育するのに十分な光で辺りを照らします。</SunLamp.description>
+	<SunLamp_Blueprint.label>太陽灯(設計)</SunLamp_Blueprint.label>
 	<SunLamp_Frame.label>太陽灯(施工)</SunLamp_Frame.label>
 
 	<!--============================== Storage ==============================-->
 	<EquipmentRack.label>ロッカー</EquipmentRack.label>
+	<EquipmentRack_Blueprint_Install.label>ロッカー(移動先)</EquipmentRack_Blueprint_Install.label>
 	<EquipmentRack.description>この中に保存されたアイテムは、ロッカーが外気に触れていても劣化しません。</EquipmentRack.description>
+	<EquipmentRack_Blueprint.label>ロッカー(設計)</EquipmentRack_Blueprint.label>
 	<EquipmentRack_Frame.label>ロッカー(施工)</EquipmentRack_Frame.label>
 
 </LanguageData>

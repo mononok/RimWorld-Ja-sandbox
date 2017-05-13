@@ -11,6 +11,11 @@
         <RemoveMechanoidBodyPart.description>部品を外します。</RemoveMechanoidBodyPart.description>
         <RemoveMechanoidBodyPart.jobString>部品を外している</RemoveMechanoidBodyPart.jobString>
 
+  <!-- Anesthetize -->
+		<Anesthetize.label>anesthetize</Anesthetize.label>
+		<Anesthetize.description>Makes a creature unconscious by administering an anesthetic.</Anesthetize.description>
+		<Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+
 	<!-- Euthanization -->
 
         <Euthanize.label>安楽死</Euthanize.label>
@@ -54,6 +59,7 @@
 	<Administer_WakeUp.label>ウェイクアップを投与する</Administer_WakeUp.label>
 	<Administer_WakeUp.jobString>ウェイクアップを投与中</Administer_WakeUp.jobString>
 
-
+	<Administer_Ambrosia.label>ambrosiaを投与する</Administer_Ambrosia.label>
+	<Administer_Ambrosia.jobString>ambrosiaを投与中</Administer_Ambrosia.jobString>
 
 </LanguageData>

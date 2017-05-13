@@ -119,15 +119,15 @@
 
 	<SunLamp.label>太陽灯</SunLamp.label>
 	<SunLamp_Blueprint_Install.label>太陽灯(移動先)</SunLamp_Blueprint_Install.label>
-	<SunLamp.description>植物が生育するのに十分な光で辺りを照らします。</SunLamp.description>
+	<SunLamp.description>植物が生育するのに十分な光で辺りを照らします。Automatically turns itself off at night.</SunLamp.description>
 	<SunLamp_Blueprint.label>太陽灯(設計)</SunLamp_Blueprint.label>
 	<SunLamp_Frame.label>太陽灯(施工)</SunLamp_Frame.label>
 
 	<!--============================== Storage ==============================-->
-	<EquipmentRack.label>ロッカー</EquipmentRack.label>
-	<EquipmentRack_Blueprint_Install.label>ロッカー(移動先)</EquipmentRack_Blueprint_Install.label>
-	<EquipmentRack.description>この中に保存されたアイテムは、ロッカーが外気に触れていても劣化しません。</EquipmentRack.description>
-	<EquipmentRack_Blueprint.label>ロッカー(設計)</EquipmentRack_Blueprint.label>
-	<EquipmentRack_Frame.label>ロッカー(施工)</EquipmentRack_Frame.label>
+	<Shelf.label>ロッカー</Shelf.label>
+	<Shelf_Blueprint_Install.label>ロッカー(移動先)</Shelf_Blueprint_Install.label>
+	<Shelf.description>この中に保存されたアイテムは、ロッカーが外気に触れていても劣化しません。</Shelf.description>
+	<Shelf_Blueprint.label>ロッカー(設計)</Shelf_Blueprint.label>
+	<Shelf_Frame.label>ロッカー(施工)</Shelf_Frame.label>
 
 </LanguageData>

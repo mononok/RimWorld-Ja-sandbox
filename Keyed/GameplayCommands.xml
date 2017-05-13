@@ -27,8 +27,8 @@
 <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
   <IsIncapped>{0}は歩くことができない。</IsIncapped>
 
-  <CommandAllowFiringLabel>発砲許可</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>発砲許可を切り替えます。\n\n無効にすると、このキャラは自動的には発砲しなくなります。これは白兵戦には影響しません。</CommandAllowFiringDesc>
+  <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>発砲許可を切り替えます。\n\n無効にすると、このキャラは自動的には発砲しなくなります。これは白兵戦には影響しません。</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
@@ -47,10 +47,9 @@
   <BuildingUnassign>解除</BuildingUnassign>
 	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
 	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
-	<CommandBedSetForPrisonersFailOutdoors>野外にあるベッドを、囚人用に割り当てることはできません。</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
 	<CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
 	<CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
-
 	<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
 	<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
 <AreYouSure>本当に よろしいですか？</AreYouSure>
@@ -86,13 +85,11 @@
 <MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
 <MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
 
-
 <!-- Ship computer core -->
 <CommandShipLaunch>宇宙船を発進する</CommandShipLaunch>
 <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
 <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
 <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
-
 
 <!-- Pod -->
 <CommandPodEject>冬眠カプセルから出す</CommandPodEject>
@@ -104,7 +101,6 @@
   <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません。</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
   <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります。</CommandToggleDoorHoldOpenDesc>
-
 
   <!-- Temperature control -->
   <CommandResetTemp>リセット</CommandResetTemp>
@@ -171,9 +167,10 @@
     <!-- Settle -->
     <CommandSettle>定住</CommandSettle>
     <CommandSettleDesc>この地に定住します。入植者達は、この地に入植し、新しい建物を建てるでしょう。</CommandSettleDesc>
-    <CommandSettleFailOtherWorldObjectsHere>キャラバン隊が、このエリアに入植する為には、このタイルのなかの唯一の派閥でなければなりません。</CommandSettleFailOtherWorldObjectsHere>
     <CommandSettleFailAlreadyHaveBase>あなたの派閥は、ただ一つだけしか本拠地を持てません。</CommandSettleFailAlreadyHaveBase>
     <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました。</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
 
     <!-- Abandon home -->
     <CommandAbandonHome>放棄</CommandAbandonHome>
@@ -192,6 +189,12 @@
     <CommandTrade>貿易</CommandTrade>
     <CommandTradeDesc>この派閥と商売する。</CommandTradeDesc>
     <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
+
+      <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
 
     <!-- Take off -->
     <CommandTakeOff>離陸</CommandTakeOff>
@@ -230,5 +233,13 @@
     <!-- Select next transporter -->
     <CommandSelectNextTransporter>次のグループを選択</CommandSelectNextTransporter>
     <CommandSelectNextTransporterDesc>一つ後のグループを選択します。</CommandSelectNextTransporterDesc>
+
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
 
 </LanguageData>

@@ -2,6 +2,7 @@
 <LanguageData>
 
     <!-- LandedInPod -->
+    <LandedInPod.label>landed in pod</LandedInPod.label>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]が 着陸船で 着陸する</trans>
@@ -89,6 +90,7 @@
 
 
     <!-- Vomited -->
+    <Vomited.label>vomited</Vomited.label>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]のゲロ</trans>
@@ -160,6 +162,7 @@
 
 
     <!-- Drunk -->
+    <Drunk.label>drunk</Drunk.label>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]の酒好き</trans>
@@ -279,6 +282,7 @@
 
 
     <!-- WasOnFire -->
+    <WasOnFire.label>on fire</WasOnFire.label>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]が火だるま</trans>
@@ -353,6 +357,7 @@
 	</rep>
 
 	<!-- MentalStateBerserk -->
+	<MentalStateBerserk.label>berserk rage</MentalStateBerserk.label>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]の狂暴化</trans>
@@ -447,6 +452,7 @@
 	</rep>
 
 	<!-- MentalStateGaveUp -->
+	<MentalStateGaveUp.label>gave up</MentalStateGaveUp.label>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]の絶望と降参</trans>
@@ -526,6 +532,7 @@
 
 
     <!-- WalkedNaked -->
+    <WalkedNaked.label>walked naked</WalkedNaked.label>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]が素っ裸で歩き回っている</trans>
@@ -622,6 +629,7 @@
 
 
     <!-- AteRawHumanlikeMeat -->
+    <AteRawHumanlikeMeat.label>raw humanlike meat eaten</AteRawHumanlikeMeat.label>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]の人喰い</trans>
@@ -720,6 +728,7 @@
 	</rep>
 
     <!-- CraftedArt -->
+    <CraftedArt.label>art crafted</CraftedArt.label>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]が[thing_labelIndefinite]を作る時間</trans>
@@ -823,6 +832,7 @@
 
 
 	<!-- StruckMineable -->
+	<StruckMineable.label>struck mineable</StruckMineable.label>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]が[thing_label]を掘り当てる</trans>
@@ -882,6 +892,7 @@
 
 
     <!-- FinishedResearchProject -->
+    <FinishedResearchProject.label>research project finished</FinishedResearchProject.label>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[pawn_nameShortDef]の、[project_label]研究の完成</trans>
@@ -931,5 +942,6 @@
 		<trans>desc_sentence->[pawn_nameShortDef]は、好奇心を持って発見した[pawn_possessive]を主役にする。</trans>
 	</rep>
 
+	<ButcheredHumanlikeCorpse.label>humanlike corpse butchered</ButcheredHumanlikeCorpse.label>
 
 </LanguageData>

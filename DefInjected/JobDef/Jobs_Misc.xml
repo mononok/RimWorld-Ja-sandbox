@@ -10,6 +10,8 @@
 
     <Wait.reportString>ぼんやりしている</Wait.reportString>
 
+    <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
+
     <WaitDowned.reportString>倒れている</WaitDowned.reportString>
 
     <WaitSafeTemperature.reportString>適温な場所でぼんやりしている</WaitSafeTemperature.reportString>
@@ -69,6 +71,8 @@
 	<Flick.reportString>操作している</Flick.reportString>
 
 	<TradeWithPawn.reportString>TargetA と売買中</TradeWithPawn.reportString>
+
+	<Flee.reportString>逃走中</Flee.reportString>
 
 	<FleeAndCower.reportString>逃走中</FleeAndCower.reportString>
 

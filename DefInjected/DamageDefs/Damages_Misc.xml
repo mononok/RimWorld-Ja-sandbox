@@ -9,12 +9,7 @@
 
 	<Extinguish.label>消火</Extinguish.label>
 
-  <!-- Stun -->
-
-	<Stun.label>麻痺</Stun.label>
-	<Stun.deathMessage>{0} は麻痺して死んだ</Stun.deathMessage>
-
-	<EMP.label>機能停止</EMP.label>
-	<EMP.deathMessage>{0} はEMPで機能停止した</EMP.deathMessage>
+	<Smoke.label>煙幕</Smoke.label>
+	<Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
 
 </LanguageData>

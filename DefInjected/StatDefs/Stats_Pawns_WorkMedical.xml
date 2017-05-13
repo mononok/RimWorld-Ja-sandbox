@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+
+    <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+    <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+
+	<MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+	<MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
+
     <MedicalOperationSpeed.label>医療・処置速度</MedicalOperationSpeed.label>
     <MedicalOperationSpeed.description>治療処置を行う速度です。</MedicalOperationSpeed.description>
 
-	<SurgerySuccessChance.label>外科手術の成功率</SurgerySuccessChance.label>
-	<SurgerySuccessChance.description>外科手術の成功率です。手術の失敗は、単に時間と薬品の浪費という結果になるばかりか、患者に重大なダメージを与えます。</SurgerySuccessChance.description>
-
-    <HealingQuality.label>医療・治療品質基本値</HealingQuality.label>
-    <HealingQuality.description>医者の代わりになったときの、患者に施せる治療品質の、基礎となる数値を表します。</HealingQuality.description>
-
-    <HealingSpeed.label>医療・治癒速度</HealingSpeed.label>
-    <HealingSpeed.description>医者として怪我を治療したときに、どれだけ早く治癒させられるかの速度を表します。</HealingSpeed.description>
+	<MedicalSurgerySuccessChance.label>外科手術の成功率</MedicalSurgerySuccessChance.label>
+	<MedicalSurgerySuccessChance.description>外科手術の成功率です。手術の失敗は、単に時間と薬品の浪費という結果になるばかりか、患者に重大なダメージを与えます。</MedicalSurgerySuccessChance.description>
 
 </LanguageData>

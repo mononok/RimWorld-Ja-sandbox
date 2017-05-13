@@ -4,7 +4,7 @@
 	<ClockTime>時刻</ClockTime>
 	<ClockDate>日付</ClockDate>
 	<ClockYear>星歴</ClockYear>
-	<DateReadoutTip>惑星での生存日数: {0}日\nこの惑星の1シーズンは {1}日です。\n今のシーズン: {2}</DateReadoutTip>
+    <DateReadoutTip>Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5}</DateReadoutTip>
 
 	<FullDate>{2}年 {1}節 {0}日</FullDate>
 	<DateReadout>{2}年 {1}節 {0}日</DateReadout>

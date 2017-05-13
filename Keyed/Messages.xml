@@ -17,6 +17,7 @@
 
 	<MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます。</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0}の{1}は閉じ込められ、脱出を試みています。</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
 
 	<MessageWornApparelDeterioratedAway>{1}が 身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
 
@@ -153,7 +154,7 @@
 
     <MessageCaravanArrivedAtDestination>{0}は 目的地に到達した</MessageCaravanArrivedAtDestination>
 
-    <MessageCaravanIsVisitingFaction>{0}は {1}に到着した</MessageCaravanIsVisitingFaction>
+  <MessageCaravanIsVisitingSettlement>{0} has arrived in {1}.</MessageCaravanIsVisitingSettlement>
 
     <MessageCaravanEnteredWorldObject>{0}は {1}に到着した</MessageCaravanEnteredWorldObject>
 
@@ -161,7 +162,7 @@
 
     <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功した</MessageSettledInExistingMap>
 
-    <MessageAmbushVictory>勝利! あなたはキャラバン隊が出発する前の、{0}時間でアイテムを集められた</MessageAmbushVictory>
+    <MessageAmbushVictory>勝利! あなたはキャラバン隊が出発する前の、{0} でアイテムを集められた</MessageAmbushVictory>
 
     <MessageAutomaticallyReformedCaravan>キャラバン隊を再編成した</MessageAutomaticallyReformedCaravan>
 
@@ -170,6 +171,8 @@
     <MessageRescueeJoined>HIMを救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
 
     <MessageAttackedCaravanIsNowHostile>あなたが、キャラバン隊{0} を攻撃したことにより、今から、この派閥は、あなたの敵となります。</MessageAttackedCaravanIsNowHostile>
+  <MessageFactionPawnCrushed>{0} lost people to a roof collapse. Faction relation: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} has lost {1}. Faction relation: {2}</MessageFactionPawnLost>
 
     <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません</MessageTransporterUnreachable>
     <MessageTransportersNotAdjacent>全てのポッドランチャーは、輸送ポッドの隣に配置してください。</MessageTransportersNotAdjacent>
@@ -181,6 +184,7 @@
 
     <MessageTransportPodsArrived>輸送ポッドは到着しました。</MessageTransportPodsArrived>
     <MessageTransportPodsArrivedAndLost>輸送ポッドは、いま到着しましたが、入植者が一人も乗っていないため、荷物は失われました。</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to your caravan.</MessageTransportPodsArrivedAndAddedToCaravan>
     <MessageTransportPodsArrived_BecameHostile>{0}は、いまから、あなたの敵となります。</MessageTransportPodsArrived_BecameHostile>
 
     <MessageFailedToLoadTransportersBecauseColonistLost>搭乗者のひとりを失ったので、荷積み作業は中止されました。</MessageFailedToLoadTransportersBecauseColonistLost>
@@ -204,5 +208,22 @@
 	<MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには、自身の入植者を選択してください。</MessageSelectOwnBaseToFormCaravan>
 
 	<MessageScreenResTooSmallForUIScale>この解像度と、UIスケールでは、ゲームインターフェースがはみ出してしまします。UIスケールを下げるか、解像度を上げてください。</MessageScreenResTooSmallForUIScale>
+
+	<MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
+	
+  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
+	<MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
+	
+  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
 </LanguageData>

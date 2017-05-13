@@ -46,6 +46,8 @@
   <!-- Medical - general -->
 <MoveSpeed>移動速度</MoveSpeed>
 	<Efficiency>効率</Efficiency>
+	<PartEfficiency>Part efficiency</PartEfficiency>
+	<BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
 	<MissingBodyPart>失われた</MissingBodyPart>
 	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
 	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
@@ -75,6 +77,8 @@
 	<Tiredness>疲れ</Tiredness>
   <PainFactor>苦痛</PainFactor>
   <PreventsInfection>感染予防</PreventsInfection>
+  <SelfTend>Self-tend</SelfTend>
+  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
 
 
 	<!-- Medical - Body and activities condition -->
@@ -104,6 +108,7 @@
    <!-- Social tab -->
 <NoRelationships>(無関係)</NoRelationships>
 <Kidnapped>誘拐</Kidnapped>
+  <Missing>Missing</Missing>
 <Slave>奴隷</Slave>
 <FactionLeader>派閥のリーダー</FactionLeader>
 <OpinionOf>{0}への評価</OpinionOf>

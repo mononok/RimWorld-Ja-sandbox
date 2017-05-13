@@ -19,11 +19,14 @@
 	<Insulation_Heat.label>断熱材(高温)</Insulation_Heat.label>
 	<Insulation_Heat.description>身に付けたとき、快適でいられる最高温度への補正値です。</Insulation_Heat.description>
 
-	<PersonalShieldEnergyMax.label>シールドエネルギー最大量</PersonalShieldEnergyMax.label>
-	<PersonalShieldEnergyMax.description>パーソナルシールドのチャージ一回分の最大エネルギー量です。エネルギーが多いほど、より多くのダメージを吸収します。</PersonalShieldEnergyMax.description>
+	<EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
+	<EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です。エネルギーが多いほど、より多くのダメージを吸収します。</EnergyShieldEnergyMax.description>
 
-	<PersonalShieldRechargeRate.label>シールドリチャージ量</PersonalShieldRechargeRate.label>
-	<PersonalShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ、単位時間あたりのリチャージ量です。</PersonalShieldRechargeRate.description>
+	<EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
+	<EnergyShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ、単位時間あたりのリチャージ量です。</EnergyShieldRechargeRate.description>
 
+	<SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
+	<SmokepopBeltRadius.description>The are obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>
+	<SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
 
 </LanguageData>

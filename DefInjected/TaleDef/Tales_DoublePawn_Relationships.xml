@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<BondedWithAnimal.label>bond developed</BondedWithAnimal.label>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[human_nameShortDef]と[animal_nameShortDef]が絆で結ばれる</trans>
@@ -47,6 +48,7 @@
 	</rep>
 
     <!-- BecameLover -->
+    <BecameLover.label>became lover</BecameLover.label>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]が恋人になる</trans>
@@ -110,6 +112,7 @@
 
 
     <!-- Breakup -->
+    <Breakup.label>breakup</Breakup.label>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]の別れ</trans>
@@ -169,6 +172,7 @@
 
 
     <!-- Marriage -->
+    <Marriage.label>marriage</Marriage.label>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[firstPawn_nameShortDef]と[secondPawn_nameShortDef]の結婚</trans>

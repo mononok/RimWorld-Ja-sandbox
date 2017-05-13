@@ -2,6 +2,8 @@
 <LanguageData>
 
 <JumpToLocation>その場所を見る</JumpToLocation>
+  <PostponeLetter>Postpone</PostponeLetter>
+  <RejectLetter>Reject</RejectLetter>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>夏が来ます！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
@@ -29,7 +31,7 @@
 <RecruitFail>{0}は {1}の 説得に 失敗しました。 (成功率 {2})</RecruitFail>
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
-<BirthdayChronological>今日は {1} {0}の {2}才の 暦の上での誕生日.\n\n\n冷凍睡眠中は歳をとらないので、暦の上での誕生日とは区別します。</BirthdayChronological>
+  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
 <BirthdayBiologicalAgeInjuries>今日は、{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
 
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
@@ -62,7 +64,7 @@
   <LetterLeaderChanged>{1}の{3}は、もう{0}ではなく\n\n新しい{3}は {2}になった。</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
-  <MentalBreakReason>不幸な出来事: {0}</MentalBreakReason>
+  <FinalStraw>不幸な出来事: {0}</FinalStraw>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
@@ -70,7 +72,7 @@
   <LetterRelatedPawnsRaidFriendly>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した友好な {0} グループにいます。</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>あなたのコロニーの 入植者か、囚人と、つながりのある者が、到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>あなたのコロニーの 入植者か、囚人と、つながりのある者が、奴隷商人によって売られています：</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithFactionBase>あなたのコロニーの 入植者か、囚人と、つながりのある者が、派閥の本拠地で売られています：</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの 入植者か、囚人と、つながりのある者が、他のキャラバン隊によって売られています：</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
@@ -137,11 +139,19 @@
 
     <!-- Faction base defeated -->
     <LetterLabelFactionBaseDefeated>前哨基地 壊滅</LetterLabelFactionBaseDefeated>
-    <LetterFactionBaseDefeated>敵の前哨基地 {0}が破壊されました\n\nアイテムを回収するために、キャラバン隊を再編するまでの猶予として、{1}時間持っています。</LetterFactionBaseDefeated>
+    <LetterFactionBaseDefeated>敵の前哨基地 {0}が破壊されました\n\nアイテムを回収するために、キャラバン隊を再編するまでの猶予として、{1} 持っています。</LetterFactionBaseDefeated>
     <LetterFactionBaseDefeated_FactionDestroyed>ここは、{0}の最後の砦でしたので、この派閥は、もう何処にも存在しません。</LetterFactionBaseDefeated_FactionDestroyed>
 
     <!-- Pawns lost due to map countdown -->
     <LetterLabelPawnsLostDueToMapCountdown>置き去り</LetterLabelPawnsLostDueToMapCountdown>
     <LetterPawnsLostDueToMapCountdown>いくつかの囚人、家畜が、荒野に置き去りにされました:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
 
 </LanguageData>

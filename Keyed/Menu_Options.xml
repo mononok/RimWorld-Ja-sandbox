@@ -12,6 +12,7 @@
   <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
   <PauseOnUrgentLetter>緊急メッセージ時に一時停止</PauseOnUrgentLetter>
   <CustomCursor>ゲーム用カーソル</CustomCursor>
+  <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
   <UIScale>UI 拡大率</UIScale>
   <KeyboardConfig>キーボード設定</KeyboardConfig>
   <ChooseLanguage>言語</ChooseLanguage>
@@ -33,6 +34,7 @@
   <MaxNumberOfPlayerHomes>コロニーの最大数: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>風に木がなびく効果</PlantWindSway>
 <MaxPermadeathAutosaveIntervalInfo>Permadeathモードでの、オートセーブ間隔は  {0}日です。</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod Settings</ModSettings>
 
   <!-- Resolution -->
   <Resolution>解像度</Resolution>
@@ -44,4 +46,7 @@
   <ChooseHistoryUploadPref>ゲームデータ名</ChooseHistoryUploadPref>
   <AboutHistoryUpload>バランス向上のため ゲームプレイの データで 開発支援できます。 同意があれば プレイデータを {0} 日 おきに アップロードします。 (ゲーム終了など ほかの いくつかの 状況も アップロードします) 分析のため アップロードする データは、 ゲームの 統計データ・ 歴史データです。 個人情報は ユーザー名以外 発信しません。 それはつまり、 完全に 匿名であることを 意味します。</AboutHistoryUpload>
 
+  <!-- Mods -->
+  <SelectMod>Select mod...</SelectMod>
+  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
 </LanguageData>

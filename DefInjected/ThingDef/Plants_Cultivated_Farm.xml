@@ -2,20 +2,20 @@
 <LanguageData>
 
     <!--=========================== Crops ==============================-->
+	<PlantRice.label>米</PlantRice.label>
+    <PlantRice.description>肥沃な土地で早く育つ背の低い穀物、ただ生のまま食べるのはお勧めしません。</PlantRice.description>
+
     <PlantPotato.label>ジャガイモ</PlantPotato.label>
     <PlantPotato.description>シンプルで、栄養価が高い塊茎、痩せた土地でも比較的に良く育ちます。</PlantPotato.description>
 
 	<PlantCorn.label>トウモロコシ</PlantCorn.label>
 	<PlantCorn.description>美味しい黄色い実がなる大きな穀物です。相対的に、成長するのに時間が掛かりますが、たくさん収穫でき、長い時間保存がききます。肥沃な土地で良く育ちます。</PlantCorn.description>
 
-	<PlantRice.label>米</PlantRice.label>
-    <PlantRice.description>肥沃な土地で早く育つ背の低い穀物、ただ生のまま食べるのはお勧めしません。</PlantRice.description>
+    <PlantStrawberry.label>苺</PlantStrawberry.label>
+    <PlantStrawberry.description>傷みやすいが、生のままでも、おいしい果物です。</PlantStrawberry.description>
 
     <PlantHaygrass.label>牧草</PlantHaygrass.label>
     <PlantHaygrass.description>一度で大量に収穫できる栄養豊富な牧草です。動物たちの餌になり、食用にはなりません。</PlantHaygrass.description>
-
-    <PlantStrawberry.label>苺</PlantStrawberry.label>
-    <PlantStrawberry.description>傷みやすいが、生のままでも、おいしい果物です。</PlantStrawberry.description>
 
     <PlantCotton.label>木綿</PlantCotton.label>
     <PlantCotton.description>衣服を作るのに使われる綿を産出します。</PlantCotton.description>
@@ -29,10 +29,10 @@
     <PlantHops.label>ホップ</PlantHops.label>
     <PlantHops.description>ビールの原料のひとつ、ホップの実をつけます。</PlantHops.description>
 
-	<PlantPsychoid.label>サイコイドの木</PlantPsychoid.label>
-	<PlantPsychoid.description>葉の多い植物です。木の葉を精製すると、様々なサイコイド性のドラッグになります。</PlantPsychoid.description>
-
 	<PlantSmokeleaf.label>スモークリーフの木</PlantSmokeleaf.label>
 	<PlantSmokeleaf.description>精神的効果が高められた葉の多い植物です。スモークリーフの葉な、加工台でジョイントに精製することができます。</PlantSmokeleaf.description>
+
+	<PlantPsychoid.label>サイコイドの木</PlantPsychoid.label>
+	<PlantPsychoid.description>葉の多い植物です。木の葉を精製すると、様々なサイコイド性のドラッグになります。</PlantPsychoid.description>
 
 </LanguageData>

@@ -50,6 +50,14 @@
   </rep>
 
 	<!--=========== Special nature thoughts ============-->
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].label</path>
+    <trans>生の人肉を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteHumanlikeMeatDirect.stages[0].description</path>
+    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
+  </rep>
 
   <rep>
     <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
@@ -58,33 +66,6 @@
   <rep>
     <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
     <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
-  </rep>
-
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
-    <trans>好物の調理された人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
-  </rep>
-
-  <rep>
-    <path>AteInsectMeatAsIngredient.stages[0].label</path>
-    <trans>調理された虫を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteInsectMeatAsIngredient.stages[0].description</path>
-    <trans>灰色でスライムっぽい虫を調理したものを食べた。味は、ある程度、調味料がごまかしてくれたが、虫腺か嚢か、私にはわからないものが入っていた。</trans>
-  </rep>
-
-  <rep>
-    <path>AteInsectMeatDirect.stages[0].label</path>
-    <trans>虫をそのまま食べた</trans>
-  </rep>
-  <rep>
-    <path>AteInsectMeatDirect.stages[0].description</path>
-    <trans>灰色でスライムっぽい虫をたべた。ああ、食べられたが、こんな胸が悪くなるようなものを二度と食べたくはない。</trans>
   </rep>
 
   <rep>
@@ -97,12 +78,30 @@
   </rep>
 
   <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].label</path>
-    <trans>生の人肉を食べた</trans>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
+    <trans>好物の調理された人肉を食べた</trans>
   </rep>
   <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
+    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
+    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
+  </rep>
+
+  <rep>
+    <path>AteInsectMeatDirect.stages[0].label</path>
+    <trans>虫をそのまま食べた</trans>
+  </rep>
+  <rep>
+    <path>AteInsectMeatDirect.stages[0].description</path>
+    <trans>灰色でスライムっぽい虫をたべた。ああ、食べられたが、こんな胸が悪くなるようなものを二度と食べたくはない。</trans>
+  </rep>
+
+  <rep>
+    <path>AteInsectMeatAsIngredient.stages[0].label</path>
+    <trans>調理された虫を食べた</trans>
+  </rep>
+  <rep>
+    <path>AteInsectMeatAsIngredient.stages[0].description</path>
+    <trans>灰色でスライムっぽい虫を調理したものを食べた。味は、ある程度、調味料がごまかしてくれたが、虫腺か嚢か、私にはわからないものが入っていた。</trans>
   </rep>
 
     <!--================== Rotten state thoughts =================-->

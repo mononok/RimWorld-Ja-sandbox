@@ -89,6 +89,24 @@
   <DeadMansApparel.stages.3.label>死者{0}の遺服 (etc)</DeadMansApparel.stages.3.label>
   <DeadMansApparel.stages.3.description>私は、死人が着ていた服を三枚以上着ている。気味が悪くて不潔な感じがする。</DeadMansApparel.stages.3.description>
 
+	<HumanLeatherApparelSad.stages.0.label>human leather {0}</HumanLeatherApparelSad.stages.0.label>
+    <HumanLeatherApparelSad.stages.0.description>Wearing human leather is disturbing. Who could do this?</HumanLeatherApparelSad.stages.0.description>
+	<HumanLeatherApparelSad.stages.1.label>human leather {0} (+1)</HumanLeatherApparelSad.stages.1.label>
+	<HumanLeatherApparelSad.stages.1.description>I'm dressed like an insane person. </HumanLeatherApparelSad.stages.1.description>
+	<HumanLeatherApparelSad.stages.2.label>human leather {0} (+2)</HumanLeatherApparelSad.stages.2.label>
+	<HumanLeatherApparelSad.stages.2.description>I think there may be a face on my clothes. Oh, no, my clothes *are* a face.</HumanLeatherApparelSad.stages.2.description>
+	<HumanLeatherApparelSad.stages.3.label>human leather {0} etc</HumanLeatherApparelSad.stages.3.label>
+	<HumanLeatherApparelSad.stages.3.description>I look like a freak from a horror show, and I feel like I'm in a horror show.</HumanLeatherApparelSad.stages.3.description>
+
+    <HumanLeatherApparelHappy.stages.0.label>human leather {0}</HumanLeatherApparelHappy.stages.0.label>
+    <HumanLeatherApparelHappy.stages.0.description>I enjoy wearing the suffering of others.</HumanLeatherApparelHappy.stages.0.description>
+	<HumanLeatherApparelHappy.stages.1.label>human leather {0} (+1)</HumanLeatherApparelHappy.stages.1.label>
+	<HumanLeatherApparelHappy.stages.1.description>This will scare them. All will know my power.</HumanLeatherApparelHappy.stages.1.description>
+	<HumanLeatherApparelHappy.stages.2.label>human leather {0} (+2)</HumanLeatherApparelHappy.stages.2.label>
+	<HumanLeatherApparelHappy.stages.2.description>The faces on my clothes aren't smiling, but they make *me* happy.</HumanLeatherApparelHappy.stages.2.description>
+	<HumanLeatherApparelHappy.stages.3.label>human leather {0} etc</HumanLeatherApparelHappy.stages.3.label>
+	<HumanLeatherApparelHappy.stages.3.description>The flesh! The flesh signals my triumph!</HumanLeatherApparelHappy.stages.3.description>
+
 	<rep>
 		<path>Sick.stages[0].label</path>
 		<trans>病気になった</trans>

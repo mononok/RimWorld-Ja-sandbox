@@ -2,6 +2,7 @@
 <LanguageData>
 
     <!-- Captured -->
+    <Captured.label>person captured</Captured.label>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[prisoner_nameShortDef]の逮捕</trans>
@@ -89,6 +90,7 @@
 
 
     <!-- Recruited -->
+    <Recruited.label>person recruited</Recruited.label>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[0]</path>
         <trans>tale_noun->[joiner_nameShortDef]を勧誘</trans>
@@ -140,6 +142,7 @@
 
 
     <!-- Hunted -->
+    <Hunted.label>animal hunted</Hunted.label>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[0]</path>
         <trans>tale_noun->[hunter_nameShortDef]の狩り</trans>
@@ -183,6 +186,7 @@
 
 
     <!-- DidSurgery -->
+    <DidSurgery.label>surgery perfomed</DidSurgery.label>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[0]</path>
 		<trans>tale_noun->[patient_nameShortDef]の外科手術</trans>
@@ -233,6 +237,7 @@
 	</rep>
 
     <!-- ExecutedPrisoner -->
+    <ExecutedPrisoner.label>prisoner executed</ExecutedPrisoner.label>
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[prisoner_nameShortDef]の処刑</trans>
@@ -360,6 +365,7 @@
 
 
     <!-- KidnappedColonist -->
+    <KidnappedColonist.label>colonist kidnapped</KidnappedColonist.label>
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[victim_nameShortDef]の拉致</trans>
@@ -447,6 +453,7 @@
 
 
     <!-- TamedAnimal -->
+    <TamedAnimal.label>animal tamed</TamedAnimal.label>
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[human_nameShortDef]が飼い慣らす、[animal_nameShortDef]たち</trans>
@@ -519,6 +526,7 @@
 
     <!-- KilledBy -->
         <!-- note that killer may not be filled in, so this has to be resolvable without any killer_ symbols -->
+    <KilledBy.label>death</KilledBy.label>
     <rep>
 		<path>KilledBy.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[killer_nameShortDef]による、[victim_nameShortDef]殺し</trans>
@@ -645,6 +653,7 @@
 	</rep>
 
     <!-- SoldPrisoner -->
+    <SoldPrisoner.label>prisoner sold</SoldPrisoner.label>
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[prisoner_nameShortDef]がトレーダーに売られる</trans>
@@ -737,6 +746,7 @@
 
 
     <!-- TrainedAnimal -->
+    <TrainedAnimal.label>animal trained</TrainedAnimal.label>
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  0]</path>
 		<trans>tale_noun->[animal_nameShortDef]の調教</trans>
@@ -887,6 +897,12 @@
 		<trans>desc_sentence->[human_nameShortDef] is morphing into [animal_ShortDefinite].</trans>
 	</rep>
 
+	<KilledColonist.label>colonist killed</KilledColonist.label>
+
+	<KilledColonyAnimal.label>colony animal killed</KilledColonyAnimal.label>
+	
+	<KilledMajorColonyEnemy.label>major enymy killed</KilledMajorColonyEnemy.label>
+	
 	<TradedWith.label>traded with someone</TradedWith.label>
     <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_nameFull]と [buyer_nameFull]との間で 取引が行なわれる。</TradedWith.rulePack.rulesStrings.0>
     <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group]、 [seller_nameFull]からアイテムを買い取る。</TradedWith.rulePack.rulesStrings.1>

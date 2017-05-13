@@ -28,6 +28,11 @@
 	<MoisturePump_Blueprint.label>土壌改良ポンプ(設計)</MoisturePump_Blueprint.label>
 	<MoisturePump_Frame.label>土壌改良ポンプ(施工)</MoisturePump_Frame.label>
 
+    <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
+    <LongRangeMineralScanner.description>Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.</LongRangeMineralScanner.description>
+    <LongRangeMineralScanner_Blueprint.label>long-range mineral scanner(設計)</LongRangeMineralScanner_Blueprint.label>
+    <LongRangeMineralScanner_Frame.label>LongRangeMineralScanner(施行)</LongRangeMineralScanner_Frame.label>
+
     <PodLauncher.label>ポッドランチャー</PodLauncher.label>
     <PodLauncher.description>一機の輸送ポッドを射出するための燃料を使用した射出機です。ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合、ランチャーはお互いに隣接して配置しなければなりません。</PodLauncher.description>
     <PodLauncher_Blueprint.label>ポッドランチャー(設計)</PodLauncher_Blueprint.label>
@@ -88,6 +93,11 @@
 	<PartySpot_Blueprint.label>パーティ スポット(設計)</PartySpot_Blueprint.label>
 	<PartySpot_Frame.label>パーティ スポット(施工)</PartySpot_Frame.label>
 
+    <CaravanPackingSpot.label>caravan packing spot</CaravanPackingSpot.label>
+    <CaravanPackingSpot.description>Designates a spot where caravans will be formed.</CaravanPackingSpot.description>
+    <CaravanPackingSpot_Blueprint.label>caravan packing spot(設計)</CaravanPackingSpot_Blueprint.label>
+    <CaravanPackingSpot_Frame.label>caravan packing spot(施行)</CaravanPackingSpot_Frame.label>
+
 	<!-- Floor -->
 	<MetalTile_Blueprint.label>鉄製タイル(設計)</MetalTile_Blueprint.label>
 	<MetalTile_Frame.label>鉄製タイル(施工)</MetalTile_Frame.label>
@@ -139,5 +149,27 @@
 
 	<TileMarble_Blueprint.label>大理石タイル(設計)</TileMarble_Blueprint.label>
 	<TileMarble_Frame.label>大理石タイル(施工)</TileMarble_Frame.label>
+
+	<FlagstoneSandstone_Blueprint.label>sandstone flagstone(設計)</FlagstoneSandstone_Blueprint.label>
+	<FlagstoneSandstone_Frame.label>sandstone flagstone(施行)</FlagstoneSandstone_Frame.label>
+	<FlagstoneSandstone_Frame.description>Terrain building in progress.</FlagstoneSandstone_Frame.description>
+
+	<FlagstoneGranite_Blueprint.label>granite flagstone(設計)</FlagstoneGranite_Blueprint.label>
+	<FlagstoneGranite_Frame.label>granite flagstone(施行)</FlagstoneGranite_Frame.label>
+	<FlagstoneGranite_Frame.description>Terrain building in progress.</FlagstoneGranite_Frame.description>
+
+	<FlagstoneLimestone_Blueprint.label>limestone flagstone(設計)</FlagstoneLimestone_Blueprint.label>
+	<FlagstoneLimestone_Frame.label>limestone flagstone(施行)</FlagstoneLimestone_Frame.label>
+	<FlagstoneLimestone_Frame.description>Terrain building in progress.</FlagstoneLimestone_Frame.description>
+
+	<FlagstoneSlate_Blueprint.label>slate flagstone(設計)</FlagstoneSlate_Blueprint.label>
+	<FlagstoneSlate_Frame.label>slate flagstone(施行)</FlagstoneSlate_Frame.label>
+	<FlagstoneSlate_Frame.description>Terrain building in progress.</FlagstoneSlate_Frame.description>
+
+	<FlagstoneMarble_Blueprint.label>marble flagstone(設計)</FlagstoneMarble_Blueprint.label>
+	<FlagstoneMarble_Frame.label>marble flagstone(施行)</FlagstoneMarble_Frame.label>
+	<FlagstoneMarble_Frame.description>Terrain building in progress.</FlagstoneMarble_Frame.description>
+
+
 
 </LanguageData>

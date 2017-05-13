@@ -4,6 +4,12 @@
 	<Cut.label>斬る</Cut.label>
 	<Cut.deathMessage>{0} は斬られて死んだ</Cut.deathMessage>
 
+	<SurgicalCut.label>手術死</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} は手術中に息絶えた</SurgicalCut.deathMessage>
+
+	<ExecutionCut.label>処刑</ExecutionCut.label>
+	<ExecutionCut.deathMessage>{0} は処刑された</ExecutionCut.deathMessage>
+
 	<Crush.label>潰す</Crush.label>
 	<Crush.deathMessage>{0} は押し潰されて死んだ</Crush.deathMessage>
 
@@ -39,12 +45,6 @@
 
 	<Frostbite.label>凍傷</Frostbite.label>
 	<Frostbite.deathMessage>{0} は凍傷になって死んだ</Frostbite.deathMessage>
-
-	<SurgicalCut.label>手術死</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} は手術中に息絶えた</SurgicalCut.deathMessage>
-
-	<ExecutionCut.label>処刑</ExecutionCut.label>
-	<ExecutionCut.deathMessage>{0} は処刑された</ExecutionCut.deathMessage>
 
 	<Deterioration.deathMessage>{0} は殺された</Deterioration.deathMessage>
 

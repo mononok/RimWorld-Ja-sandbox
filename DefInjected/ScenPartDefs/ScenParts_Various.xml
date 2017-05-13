@@ -17,7 +17,7 @@
 
   <StartingResearch.label>開始時に研究済み</StartingResearch.label>
 
-  <MapCondition_Planetkiller.label>対惑星戦略兵器が接近中</MapCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>対惑星戦略兵器が接近中</GameCondition_Planetkiller.label>
 
   <!--=================== rules changes =================-->
   <Rule_DisallowDesignator_ZoneAdd_Growing.label>種は蒔けない</Rule_DisallowDesignator_ZoneAdd_Growing.label>
@@ -41,7 +41,7 @@
   <CreateIncident.label>偶発事件を作成</CreateIncident.label>
 
   <Rule_DisallowBuilding.label>建造を許可しない</Rule_DisallowBuilding.label>
-  <PermanentMapCondition.label>マップの状態は変化しない</PermanentMapCondition.label>
+  <PermanentGameCondition.label>ゲームの状態は変化しない</PermanentGameCondition.label>
   <StartingAnimal.label>開始と共にいる動物(達)</StartingAnimal.label>
   <StartingThing_Defined.label>開始時</StartingThing_Defined.label>
   <ScatterThingsNearPlayerStart.label>開始直後</ScatterThingsNearPlayerStart.label>

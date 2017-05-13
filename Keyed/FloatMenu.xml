@@ -9,12 +9,14 @@
     <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
     <CannotUseFull>使用できない (満載)</CannotUseFull>
   <LeaderUnavailable>リーダー{0}は存在しない</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
 
 <FireAt>{0}に発射 (遠距離)</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0}は 野蛮なことはできない</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
   <CannotOrderNonControlledLower>操作できないユニットには指示できない</CannotOrderNonControlledLower>
 
@@ -42,9 +44,11 @@
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
   <NoWort>麦汁が必要</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
-
 
 <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
 <GoHere>ここに移動する</GoHere>
@@ -63,9 +67,9 @@
   <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
-<NoPrisonerBed>周囲と壁で遮断された、囚人用ベッドがない</NoPrisonerBed>
-<NoNonPrisonerBed>周囲と壁で遮断された、入植者用ベッドがない</NoNonPrisonerBed>
-  <NoAnimalBed>動物用ベッドがない</NoAnimalBed>
+<NoPrisonerBed>周囲と壁で遮断され。適温な、囚人用ベッドがない</NoPrisonerBed>
+<NoNonPrisonerBed>周囲と壁で遮断され、適温な、入植者用ベッドがない</NoNonPrisonerBed>
+  <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
 <Reserved>他の誰かが 使用している</Reserved>
 <ReservedBy>{0}が 使用している</ReservedBy>
 <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
@@ -110,20 +114,20 @@
 
   <UseMedicalBed>完治するまで休む</UseMedicalBed>
   <NotInjured>傷は無い</NotInjured>
-  <SomeoneElseSleeping>他人が寝ている</SomeoneElseSleeping>
+  <SomeoneElseSleeping>他人が寝ている {0}</SomeoneElseSleeping>
 
   <TradeWith>{0}と トレード</TradeWith>
   <CannotTrade>トレードできない</CannotTrade>
 
   <EnterMap>{0}に入る</EnterMap>
-  <VisitFactionBase>{0}に訪れる</VisitFactionBase>
-  <AttackFactionBase>{0}を攻撃する</AttackFactionBase>
+  <VisitSettlement>Visit {0}</VisitSettlement>
+  <VisitSite>Visit {0}</VisitSite>
+  <AttackSite>Attack {0}</AttackSite>
+  <AttackSettlement>Attack {0}</AttackSettlement>
 
 <!-- Specific thing interactions -->
     <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
     <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
-
-
 
 <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
 <CannotGenericWork>{1}を {0}できない</CannotGenericWork>
@@ -140,9 +144,7 @@
 <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 
 <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
-
 <CannotPrioritizeForbiddenOutsideAllowedArea>優先できない ({0}は 許可エリア外)</CannotPrioritizeForbiddenOutsideAllowedArea>
-
 
 <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
 <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
@@ -150,4 +152,10 @@
   <DropAtEdge>端に落とす</DropAtEdge>
   <DropInCenter>真ん中に落とす</DropInCenter>
 
+  <VomitingLower>vomiting</VomitingLower>
+  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  
+  <AddWaypoint>Add a new waypoint here</AddWaypoint>
+  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+  
 </LanguageData>

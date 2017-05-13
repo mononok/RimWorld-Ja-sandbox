@@ -42,6 +42,7 @@
 <WorldSeed>シード値</WorldSeed>
 <RandomizeSeed>ランダムシード</RandomizeSeed>
   <PlanetCoverageTip>惑星の直径は常に同じですが、大きなマップを選ぶと、処理時間が非常に掛かる為、惑星表面全体を生成しません。 あなた望む、生成する惑星表面の割合を示します。</PlanetCoverageTip>
+  <WorldFactionsTab>Factions</WorldFactionsTab>
 
 <!--=========== Select world ===================-->
 <SelectWorld>惑星を選択</SelectWorld>
@@ -114,8 +115,13 @@
   <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
   <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
   <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <TileOccupied>This tile is occupied.</TileOccupied>
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
   <Biome>気候</Biome>
   <Terrain>地形</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
@@ -132,6 +138,8 @@
     <MovementTimeNow>現在の移動時間</MovementTimeNow>
     <MovementTimeSummer>夏期 移動時間</MovementTimeSummer>
     <MovementTimeWinter>冬期 移動時間</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -167,6 +175,7 @@
 
   <!--============ Progress bar==============-->
 <GeneratingWorld>惑星を 生成しています</GeneratingWorld>
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
 <GeneratingMap>地図を 作成しています</GeneratingMap>
   <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 

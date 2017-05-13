@@ -47,6 +47,7 @@
   <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します。</DesignatorAreaBuildRoofExpandDesc>
   <DesignatorAreaBuildRoofClear>屋根ゾーン 取消</DesignatorAreaBuildRoofClear>
   <DesignatorAreaBuildRoofClearDesc>作成した 屋根のゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
+
   <DesignatorAreaNoRoofExpand>屋根取り外し</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>屋根取り外し 撤回</DesignatorAreaNoRoofClear>
@@ -109,6 +110,7 @@
     <IdenticalBlueprintExists>まったく同じ設計図が すでにあります。</IdenticalBlueprintExists>
     <TerrainCannotSupport>ここの地面は、 これをサポートすることが できません。</TerrainCannotSupport>
     <SpaceAlreadyOccupied>この場所は すでに ふさがっています。</SpaceAlreadyOccupied>
+    <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
 
 

@@ -2,7 +2,7 @@
 <LanguageData>
 
 <!-- Various -->
-	<HitPointsBasic>hit points</HitPointsBasic>
+<HitPointsBasic>ヒットポイント</HitPointsBasic>
 <WorkLeft>残り工数</WorkLeft>
 <Contents>運んだ資材</Contents>
 <ContainedResources>作成に必要なリソース</ContainedResources>
@@ -25,7 +25,7 @@
   <FreshMissingBodyPart>フレッシュ</FreshMissingBodyPart>
   <DevelopedImmunityLower>免疫をつける</DevelopedImmunityLower>
   <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
-  <NextTendIn>Will need tending in {0}</NextTendIn>
+  <NextTendIn>まもなく看病が必要 {0}</NextTendIn>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
   <Race>人種</Race>
@@ -70,7 +70,7 @@
   <CaravanImmobilizedByMass>移動不能: 積載オーバー</CaravanImmobilizedByMass>
   <CaravanOutOfFood>食料切れ</CaravanOutOfFood>
   <CaravanDaysOfFood>食料: {0} 日分</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>食料: {0} 日分, 消費期限 {1}日</CaravanDaysOfFoodRot>
   <CaravanMemberMentalBreak>原因: {0}の精神崩壊により停止</CaravanMemberMentalBreak>
   <AllCaravanMembersDowned>原因: 全員が行動不能</AllCaravanMembersDowned>
   <CaravanTraveling>移動中</CaravanTraveling>
@@ -104,24 +104,24 @@
   <TransportPodDestinationBeyondMaximumRange>最大航続距離を超えた</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
   <SettlementTrader>{0} of {1}</SettlementTrader>
-	<RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
-	<RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
-  <VentClosed>Closed</VentClosed>
-  <WornBy>worn by {0}</WornBy>
-  <EquippedBy>equipped by {0}</EquippedBy>
-	<QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
-	<WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
-	<LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
-	<ItemStashContents>Contents: {0}.</ItemStashContents>
-	<SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
-	<ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
-	<WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
-	<WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
-	<AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
-	<CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
-	<KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
-	<KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
-	<KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+	<RoomSurgerySuccessChanceFactor>部屋:手術成功率</RoomSurgerySuccessChanceFactor>
+	<RoomInfectionChanceFactor>部屋:感染率</RoomInfectionChanceFactor>
+  <VentClosed>閉</VentClosed>
+  <WornBy>{0}が着ている</WornBy>
+  <EquippedBy>{0}が装備している</EquippedBy>
+	<QuestTargetDestroyInspectString>{0}は、破壊を求めている。\n    報償: {1}</QuestTargetDestroyInspectString>
+	<WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
+	<LongRangeMineralScannerEfficiency>能力: {0}</LongRangeMineralScannerEfficiency>
+	<ItemStashContents>内容物: {0}</ItemStashContents>
+	<SomeItemStashContents>内容物: {0}</SomeItemStashContents>
+	<ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
+	<WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
+	<WorkPriorityShiftClickEnableDisableTip>Shift + click: 全有効\nShift + right click: 全無効</WorkPriorityShiftClickEnableDisableTip>
+	<AllowedAreaShiftClickTip>Shift + click: 全コロニー\nShift + right click: 全無制限</AllowedAreaShiftClickTip>
+	<CheckboxShiftClickTip>Shift + click: 全選択\nShift + right click: 全無選択</CheckboxShiftClickTip>
+	<KnownSiteThreat>脅威: {0}</KnownSiteThreat>
+	<KnownSiteThreats>脅威群: {0}</KnownSiteThreats>
+	<KnownSiteThreatsNone>脅威: 無し</KnownSiteThreatsNone>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -132,20 +132,20 @@
 
   <!--TextMotes-->
   <Headshot>ヘッドショット</Headshot>
-  <TextMote_TreatSuccess>治療に成功した!\n成功率 {0}</TextMote_TreatSuccess>
-  <TextMote_TreatFailed>治療に失敗した\n成功率 {0}</TextMote_TreatFailed>
-	<TextMote_HarvestFailed>Harvest\nfailed</TextMote_HarvestFailed>
-	<TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
-	<TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
-  <TextMote_RecruitFail>勧誘に失敗した\n成功率 {0}</TextMote_RecruitFail>
+  <TextMote_TreatSuccess>治療に成功!\n成功率 {0}</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>治療に失敗\n成功率 {0}</TextMote_TreatFailed>
+	<TextMote_HarvestFailed>収穫\n失敗</TextMote_HarvestFailed>
+	<TextMote_YieldWasted>利益\n無駄となる</TextMote_YieldWasted>
+	<TextMote_ProductWasted>生産物\n水の泡となる</TextMote_ProductWasted>
+  <TextMote_RecruitFail>勧誘に失敗\n成功率 {0}</TextMote_RecruitFail>
   <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
   <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
-  <TextMote_TrainFail>{0} 調教に失敗した\n成功率 {1}</TextMote_TrainFail>
-  <TextMote_TrainSuccess>{0} 調教に成功した!\n成功率 {1}</TextMote_TrainSuccess>
-  <TextMote_FixBrokenDownBuildingFail>修理に失敗した</TextMote_FixBrokenDownBuildingFail>
-  <TextMote_ConstructionFail>建築に失敗した</TextMote_ConstructionFail>
-	<TextMote_Dodge>Dodge</TextMote_Dodge>
-	<TextMote_Tended>{0} tended</TextMote_Tended>
+  <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
+  <TextMote_TrainSuccess>{0} 調教に成功!\n成功率 {1}</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>修理に失敗</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
+	<TextMote_Dodge>回避</TextMote_Dodge>
+	<TextMote_Tended>{0} 看病された</TextMote_Tended>
 
   <!-- Areas -->
   <Home>コロニー</Home>
@@ -199,7 +199,7 @@
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
   <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
-	<LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
+	<LordReportFormingCaravan>キャラバン隊を構成中</LordReportFormingCaravan>
 
 	<!-- Shooting report -->
 <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>
@@ -219,8 +219,8 @@
   <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
   <RecipeAdminister>{0} を投与する</RecipeAdminister>
   <RecipeAdministerJobString>{0} を投与中</RecipeAdministerJobString>
-  <TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
-  <ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
+  <TeetotalerUnhappy>禁酒主義者は不満を持つでしょう</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>自然体主義者は不満を持つでしょう</ProsthophobeUnhappy>
 
 <!-- Thoughts -->
 <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
@@ -244,7 +244,7 @@
 <Incapacitated>倒れている</Incapacitated>
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
-	<AffectedBy>Affected by:</AffectedBy>
+	<AffectedBy>原因:</AffectedBy>
 
 	<!-- Inspector general stuff -->
 	<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
@@ -348,7 +348,7 @@
 	<FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
 	<!-- Game conditions -->
-	<GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>
+	<GameConditionsTip>この地域に影響を及ぼす特殊な条件</GameConditionsTip>
     <TimeLeft>残り時間</TimeLeft>
     <ImpactDate>衝突予測日</ImpactDate>
 
@@ -470,22 +470,22 @@
   <CompassTip>北極を指します。カメラを動かしても、常に北極が上にきます</CompassTip>
 
   <!-- Distance measure -->
-  <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
-  <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
-  <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
-  <RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
-  <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <RoutePlannerButtonTip>クリックすると、ウェイポイント間の距離が計算できるナビモードになります。</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>二つ以上のウェイポイントを追加</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>一つ以上のウェイポイントを追加</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>推定所要時間: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します。隊によって速度が変わります</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>右クリック: 追加/削除 ウェイポイント</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressEscapeToExit>ESC: ナビモードを抜ける</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: キャラバン隊編成ダイアログに戻る</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <EstimatedTimeToThisWaypoint>推定所要時間: {0}</EstimatedTimeToThisWaypoint>
+  <EstimatedTimeToThisWaypointFromPrevious>推定区間時間: {0}</EstimatedTimeToThisWaypointFromPrevious>
 
   <!-- Outfits -->
-  <OutfitAnything>Anything</OutfitAnything>
-  <OutfitWorker>Worker</OutfitWorker>
-  <OutfitSoldier>Soldier</OutfitSoldier>
-  <OutfitNudist>Nudist</OutfitNudist>
+  <OutfitAnything>なんでも</OutfitAnything>
+  <OutfitWorker>作業者</OutfitWorker>
+  <OutfitSoldier>戦闘員</OutfitSoldier>
+  <OutfitNudist>ヌーディスト</OutfitNudist>
 
 </LanguageData>

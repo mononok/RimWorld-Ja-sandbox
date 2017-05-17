@@ -2,13 +2,13 @@
 <LanguageData>
 
     <MeleeDPS.label>DPS(白兵戦)</MeleeDPS.label>
-    <MeleeDPS.description>白兵戦で与えられる、1秒あたりのダメージ量の平均値です。 This stat ignores target defenses like dodging and armor.</MeleeDPS.description>
+    <MeleeDPS.description>白兵戦で与えられる、1秒あたりのダメージ量の平均値です。この数値には、防御側の回避率やアーマーを考慮に入れていません。</MeleeDPS.description>
 
     <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
     <MeleeHitChance.description>白兵戦時の基本命中率です。</MeleeHitChance.description>
 
-	<MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
-	<MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+	<MeleeDodgeChance.label>回避率(白兵戦)</MeleeDodgeChance.label>
+	<MeleeDodgeChance.description>他からの近接攻撃を回避する確率です。遠距離射撃を回避することはできません。</MeleeDodgeChance.description>
 
     <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
     <ShootingAccuracy.description>射撃距離の二乗単位での基本命中率です。</ShootingAccuracy.description>

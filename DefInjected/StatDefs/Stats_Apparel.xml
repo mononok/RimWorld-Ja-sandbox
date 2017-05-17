@@ -25,8 +25,8 @@
 	<EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
 	<EnergyShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ、単位時間あたりのリチャージ量です。</EnergyShieldRechargeRate.description>
 
-	<SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
-	<SmokepopBeltRadius.description>The are obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>
+	<SmokepopBeltRadius.label>スモークポップベルト展張半径</SmokepopBeltRadius.label>
+	<SmokepopBeltRadius.description>スモークポップベルトが発動したときに、見えにくくする半径です。</SmokepopBeltRadius.description>
 	<SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
 
 </LanguageData>

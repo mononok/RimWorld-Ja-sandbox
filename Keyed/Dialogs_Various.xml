@@ -7,8 +7,8 @@
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>旧バージョンでのセーブゲームやMODが、動作しなくなることが起きます。</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>旧バージョンでのセーブゲームは互換性がありますが、MODは動作しなくなることが起きます。</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>この"RimWorld"は、DRM-free copyなので、２箇所の違うフォルダー別々にゲームをインストールすることができ、旧バージョンと新バージョンの両方を遊ぶことができます。</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら、Steamの"Betas"機能を選択することができます。\n\n1.Sterm ライブラリー、RimWorldを右クリックする。\n2.プロパティをクリックする。\n3.ベータタブをクリックする。\n4.ドロップダウンメニューより、遊びたいバージョン番号を選択する。\n\nゆくゆくは、このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません。\n\n【ノート】MOD製作者が、彼らのMODを新バージョンに対応させたら、おそらく旧バージョンでは動作しなくなるでしょう。これを防ぐために、自動アップデート機能をオフにしてください。</GameUpdatedToNewVersionSteam>
 
@@ -26,9 +26,9 @@
   <ErrorWhileLoadingMap>地図をロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingMap>
 
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <ModsChanged>MODリストが変更されました。ゲームは自動的に再起動します。</ModsChanged>
+  <FailedToRestart>ゲーム再起動中に、何か不具合が発生しました。ゲームは、MODの無効化を完璧にはできませんでしたので、まだ、MODが有効になっています。\n\n一旦ゲームを終了させてから、起動してMODを一から読み込む事をお勧めします。</FailedToRestart>
+  <Restarting>再起動中</Restarting>
 
   <!-- Missing Steam -->
   <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
@@ -143,8 +143,8 @@
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
   <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
+  <BillRequiresMayVary>ノート：金のような稀少な材料は、{0}倍必要です。</BillRequiresMayVary>
+  <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
   <UsableIngredients>材料</UsableIngredients>
 <DoXTimes>X 回実行</DoXTimes>
 <DoUntilYouHaveX>X に達するまで実行</DoUntilYouHaveX>
@@ -154,11 +154,11 @@
   <BillStoreMode_BestStockpile>最良な保管庫に持って行く</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>一番近い保管庫に持って行く</BillStoreMode_NearestStockpileAnyPriority>
 
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
-  <Unpause>Unpause</Unpause>
-  
+  <PauseWhenSatisfied>満足で一時停止</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>一時停止解除</UnpauseWhenYouHave>
+  <Paused>一時停止</Paused>
+  <Unpause>停止解除</Unpause>
+
   <!-- Info card -->
 <Damage>ダメージ</Damage>
 <Accuracy>命中度</Accuracy>
@@ -220,7 +220,7 @@
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
   <TraderWillNotTrade>トレーダーは売り買いしません。</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
+  <Negotiator>交渉者</Negotiator>
 <NegotiatorTalkingImpaired>あなたの交渉者 {0}は病弱のため ちゃんと話すことができません。\n\nこのことは交渉価格に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
   <SortBy>並び替え</SortBy>
@@ -252,21 +252,21 @@
     <CaravanMassUsageTooltip>現在の積載量と、最大積載量を表します。\n\n積載量は、入植者が運んでいる物資だけではなく、本人が身につけている物も含んでいます。\n\nもしも積載量が最大積載量に達っした場合は、キャラバン隊を送る事が出来なくなります。</CaravanMassUsageTooltip>
     <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
     <DaysWorthOfFoodInfo>食料 {0}日分</DaysWorthOfFoodInfo>
-    <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
+    <DaysWorthOfFoodInfoRot>食料 {0}日分、消費期限 {1}日</DaysWorthOfFoodInfoRot>
     <InfiniteDaysWorthOfFoodInfo>食料不足にはならないでしょう。</InfiniteDaysWorthOfFoodInfo>
     <DaysWorthOfFoodTooltip>キャラバン隊の食料が尽きてしまう概算の日数を表します。\n\n最悪のケースを考えたときの、ヒトか家畜、両方の食料事情を計算してあります。これはつまり、日数が経ち、少なくても一人か一匹の食料が無くなるまでの日数です。</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>現在の季節、気温、環境を元に憶測すると、草食動物は現地の草を食べることが 可能 でしょう。しかし、これはいつでも変えることが出来ます。</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>現在の季節、気温、環境を元に憶測すると、草食動物は現地の草を食べることが 不可能 でしょう。しかし、これはいつでも変えることが出来ます。</DaysWorthOfFoodTooltip_CantEatLocalPlants>
     <DaysWorthOfFoodWarningDialog>キャラバン隊は {0}日分の食料しかないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog>
     <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.\n\nAre you sure you want to form this caravan?</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>指示された食料の大部分は、直ぐに腐敗してしまうでしょう。\n\n本当にキャラバン隊を行かせますか？</CaravanFoodWillRotSoonWarningDialog>
     <NoExitDirectionForCaravanChosen>キャラバン隊の、出発方向を決めなければなりません。</NoExitDirectionForCaravanChosen>
     <NoCaravanExitDirectionAvailable>(出発方向が無い)</NoCaravanExitDirectionAvailable>
     <ExitDirection>出発方向</ExitDirection>
     <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
     <MarketValueTip>小売価格</MarketValueTip>
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
+  <DaysUntilRotTip>この地域における平均気温を元にした、このアイテムが腐敗し始めるまでの日数。</DaysUntilRotTip>
     <MassCapacity>最大積載量</MassCapacity>
     <Mass>重さ</Mass>
     <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
@@ -276,7 +276,7 @@
     <ColonistsSection>入植者</ColonistsSection>
     <PrisonersSection>囚人</PrisonersSection>
     <AnimalsSection>動物</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
+  <EstimatedTimeToDestinationButton>目的地までの推定時間</EstimatedTimeToDestinationButton>
 
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
@@ -353,21 +353,21 @@
   <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
   <!-- Medical settings -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
-  
+  <MedGroupDefaults>初期値</MedGroupDefaults>
+  <MedGroupColonist>入植者</MedGroupColonist>
+  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>中立の派閥</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>敵対する派閥</MedGroupHostileFaction>
+
   <!-- Growing -->
   <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <ConfirmAbandonHomeWithColonyPawns>このエリアに、入植者や家畜の一部がまだ居ます。本当に放棄するのですか？\n\n下記の、入植者と家畜が、置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts>見捨てられた {0}には、下記のような感情がわき起こるでしょう:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>このエリアを離れる、一部の囚人と家畜が、まだおり、ここにいる唯一のキャラバン隊に加わろうとしています。\n\nもしこのキャラバン隊を移動させると、帰ってくるまで、彼らはキャラバン隊に加わる事が出来なくなってしまいます。囚人は脱走しはじめ、家畜は待ち続けるでしょう。\n\nもし待つと決めたのなら、できるだけ、彼らをキャラバン隊に加えるようにしてください。\n\n本当にキャラバン隊を移動させますか？</ConfirmLeavePrisonersOrAnimalsBehind>

@@ -2,8 +2,8 @@
 <LanguageData>
 
 <JumpToLocation>その場所を見る</JumpToLocation>
-  <PostponeLetter>Postpone</PostponeLetter>
-  <RejectLetter>Reject</RejectLetter>
+  <PostponeLetter>後回し</PostponeLetter>
+  <RejectLetter>拒否</RejectLetter>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>夏が来ます！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nさらにパーカーも、買うか、盗むか、作るかして準備しないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
@@ -31,7 +31,7 @@
 <RecruitFail>{0}は {1}の 説得に 失敗しました。 (成功率 {2})</RecruitFail>
 
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <BirthdayChronological>今日は、{0}の誕生日です!、生物学的には {1}は {3}才になります。\n\n暦上では、{1}は、{2}になりました。\n\nノート:冷凍睡眠中は老化しないので、暦上の年齢は、生物学的年齢とは別になります。</BirthdayChronological>
 <BirthdayBiologicalAgeInjuries>今日は、{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
 
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
@@ -72,7 +72,7 @@
   <LetterRelatedPawnsRaidFriendly>あなたのコロニーの 入植者か、囚人と、つながりのあるひとりが、到着した友好な {0} グループにいます。</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>あなたのコロニーの 入植者か、囚人と、つながりのある者が、到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>あなたのコロニーの 入植者か、囚人と、つながりのある者が、奴隷商人によって売られています：</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの 入植者か、囚人と、つながりのある者が、売られています：</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの 入植者か、囚人と、つながりのある者が、他のキャラバン隊によって売られています：</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
@@ -147,11 +147,11 @@
     <LetterPawnsLostDueToMapCountdown>いくつかの囚人、家畜が、荒野に置き去りにされました:\n\n{0}</LetterPawnsLostDueToMapCountdown>
 
   <!-- Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
-  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>クエスト完了</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>貴方は前哨基地の敵を倒しました!\n\n{0}からの、報奨金が到着し、{1}による、派閥関係が良くなりました。</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Found lump of precious resources -->
-  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>長距離資源探査スキャナーが、近くに稀少鉱物の塊を探知しました。\n\nそれが、誰の物で、何かは不明ですが、なんとしても、保護すべきです。</LetterFoundPreciousLump>
 
 </LanguageData>

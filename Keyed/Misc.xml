@@ -31,7 +31,7 @@
   <durationDays>所要時間 (日)</durationDays>
   <intervalDays>間隔(日)</intervalDays>
   <repeat>繰り返し</repeat>
-	<default>default</default>
+	<default>初期値</default>
 
   <!-- Content generation-->
 
@@ -63,7 +63,7 @@
 	<SomeonesRoom>{0}の {1}</SomeonesRoom>
 	<CouplesRoom>{0}と {1}の {2}</CouplesRoom>
 
-  <VariousLabel>(色々な)</VariousLabel>
+  <VariousLabel>(色々)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>入植者 力尽きる</ColonistDied>

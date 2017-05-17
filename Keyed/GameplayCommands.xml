@@ -47,7 +47,7 @@
   <BuildingUnassign>解除</BuildingUnassign>
 	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
 	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが、囚人用ベッドに割り当てる事が出来ます。</CommandBedSetForPrisonersFailOutdoors>
 	<CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
 	<CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
 	<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
@@ -169,8 +169,8 @@
     <CommandSettleDesc>この地に定住します。入植者達は、この地に入植し、新しい建物を建てるでしょう。</CommandSettleDesc>
     <CommandSettleFailAlreadyHaveBase>あなたの派閥は、ただ一つだけしか本拠地を持てません。</CommandSettleFailAlreadyHaveBase>
     <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました。</CommandSettleFailReachedMaximumNumberOfBases>
-  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
-  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
+    <CommandSettleFailNoColonists>この入植地を主張する人が誰もいません。</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>ここには、敵がいます。</CommandSettleFailEnemies>
 
     <!-- Abandon home -->
     <CommandAbandonHome>放棄</CommandAbandonHome>
@@ -235,11 +235,11 @@
     <CommandSelectNextTransporterDesc>一つ後のグループを選択します。</CommandSelectNextTransporterDesc>
 
   <!-- Vent -->
-  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
-  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentLabel>開/閉を指示</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>換気口の開閉を指示します。入植者は直ぐに作業に掛かります。</CommandDesignateOpenCloseVentDesc>
 
   <!-- Remove waypoint -->
-  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
-  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointLabel>削除</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>ウェイポイントを削除</CommandRemoveWaypointDesc>
 
 </LanguageData>

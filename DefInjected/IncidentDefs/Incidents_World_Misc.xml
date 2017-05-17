@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<QuestBanditCamp.label>bandit camp opportunity</QuestBanditCamp.label>
-	<QuestBanditCamp.letterLabel>Bandit camp opportunity</QuestBanditCamp.letterLabel>
-	<QuestBanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}</QuestBanditCamp.letterText>
+	<QuestBanditCamp.label>襲撃者狩りの好機</QuestBanditCamp.label>
+	<QuestBanditCamp.letterLabel>襲撃者狩りの好機</QuestBanditCamp.letterLabel>
+	<QuestBanditCamp.letterText>{0}、{2}の{1}が、我々に要請メッセージを送って来ました。\n\nどうやら、キャンプ地そばに陣取った襲撃者達が、彼らのキャラバン隊を襲撃し続けているらしく、彼らは、我々に襲撃者の排除を要請しています、これが意味することは、全ての敵とタレットの排除です。\n\nもし成功すれば、彼らとの関係は改善するでしょうし、彼らも報奨を送ってくるでしょう:\n\n{3}</QuestBanditCamp.letterText>
 
-	<QuestItemStash.label>item stash opportunity</QuestItemStash.label>
-	<QuestItemStash.letterLabel>Item stash opportunity</QuestItemStash.letterLabel>
-	<QuestItemStash.letterText>{0}, {1} of {2}, has sent us a message.\n\nThey've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won’t last - others will take the items in {4} days if we don't.\n\nValuables tend to attract danger, so beware.\n\n{5}</QuestItemStash.letterText>
+	<QuestItemStash.label>宝探しの好機</QuestItemStash.label>
+	<QuestItemStash.letterLabel>宝探しの好機</QuestItemStash.letterLabel>
+	<QuestItemStash.letterText>{0}, {2}の{1}が、我々に、メッセージを送って来ました。\n\n彼らは、所得として貴重なアイテムのコレクションが、我々から遠くない所に放置されている事を突き止めました。コレクション内容:\n\n{3}\n\n残念なことに、気の長い話ではなく、我々がしなくとも、{4}日も経てば、他の何者かが、アイテムを回収してしまうでしょう。\n\n貴重な物資は危険と隣り合わせになりがちです、十分に注意を\n\n{5}</QuestItemStash.letterText>
 
 </LanguageData>

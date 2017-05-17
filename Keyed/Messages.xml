@@ -9,15 +9,15 @@
   <MessageRaidersStealing>{0}の{1}は 何かを略奪して離れることに決めました。</MessageRaidersStealing>
 
 	<MessageRaidersLeaving>{0}の{1}は 離れました。</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め離脱します。</MessageRaidersGivenUpLeaving>
-	<MessageRaidersSatisfiedLeaving>{0}の{1}は 成果に満足し離脱します。</MessageRaidersSatisfiedLeaving>
+	<MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め離脱しています。</MessageRaidersGivenUpLeaving>
+	<MessageRaidersSatisfiedLeaving>{0}の{1}は 成果に満足し離脱しています。</MessageRaidersSatisfiedLeaving>
 
 	<MessageFightersFleeing>{0}の{1}は 逃げています。</MessageFightersFleeing>
-	<MessageFriendlyFightersLeaving>友軍{0}の{1}は 離脱します。</MessageFriendlyFightersLeaving>
+	<MessageFriendlyFightersLeaving>友軍{0}の{1}は 離脱しています。</MessageFriendlyFightersLeaving>
 
 	<MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます。</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0}の{1}は閉じ込められ、脱出を試みています。</MessageVisitorsTrappedLeaving>
-  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0}の{1}は 気温が危険な温度に達した為 離脱しています。</MessageVisitorsDangerousTemperature>
 
 	<MessageWornApparelDeterioratedAway>{1}が 身に着けていた、{0}は、ボロボロになって着れなくなってしまいました。</MessageWornApparelDeterioratedAway>
 
@@ -154,7 +154,7 @@
 
     <MessageCaravanArrivedAtDestination>{0}は 目的地に到達した</MessageCaravanArrivedAtDestination>
 
-  <MessageCaravanIsVisitingSettlement>{0} has arrived in {1}.</MessageCaravanIsVisitingSettlement>
+    <MessageCaravanIsVisitingSettlement>{0}は {1}に到着した</MessageCaravanIsVisitingSettlement>
 
     <MessageCaravanEnteredWorldObject>{0}は {1}に到着した</MessageCaravanEnteredWorldObject>
 
@@ -171,8 +171,8 @@
     <MessageRescueeJoined>HIMを救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
 
     <MessageAttackedCaravanIsNowHostile>あなたが、キャラバン隊{0} を攻撃したことにより、今から、この派閥は、あなたの敵となります。</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>{0} lost people to a roof collapse. Faction relation: {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{0} has lost {1}. Faction relation: {2}</MessageFactionPawnLost>
+  <MessageFactionPawnCrushed>落盤事故により {0}が消息不明となりました。派閥関係: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{1} {0}が消息不明となりました。派閥関係: {2}</MessageFactionPawnLost>
 
     <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません</MessageTransporterUnreachable>
     <MessageTransportersNotAdjacent>全てのポッドランチャーは、輸送ポッドの隣に配置してください。</MessageTransportersNotAdjacent>
@@ -184,7 +184,7 @@
 
     <MessageTransportPodsArrived>輸送ポッドは到着しました。</MessageTransportPodsArrived>
     <MessageTransportPodsArrivedAndLost>輸送ポッドは、いま到着しましたが、入植者が一人も乗っていないため、荷物は失われました。</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to your caravan.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>輸送ボッドが、いま到着しました。積み荷は、キャラバン隊に補給されます。</MessageTransportPodsArrivedAndAddedToCaravan>
     <MessageTransportPodsArrived_BecameHostile>{0}は、いまから、あなたの敵となります。</MessageTransportPodsArrived_BecameHostile>
 
     <MessageFailedToLoadTransportersBecauseColonistLost>搭乗者のひとりを失ったので、荷積み作業は中止されました。</MessageFailedToLoadTransportersBecauseColonistLost>
@@ -209,21 +209,21 @@
 
 	<MessageScreenResTooSmallForUIScale>この解像度と、UIスケールでは、ゲームインターフェースがはみ出してしまします。UIスケールを下げるか、解像度を上げてください。</MessageScreenResTooSmallForUIScale>
 
-	<MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
-	
-  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+	<MessageYouHaveToReformCaravanNow>今すぐ、キャラバン隊を再編成しなければなりません。</MessageYouHaveToReformCaravanNow>
 
-  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
-	<MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
-	
-  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
-  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
-  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
-  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
-  
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-  
-  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
-  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageDefendersAttacking>{0}の{1}は、{2}を攻撃中です。</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>自己治療をする為には、{0}に、医者の作業を割り当てていなければなりません。</MessageSelfTendUnsatisfied>
+	<MessageCannotSelfTendEver>{0}は、医者の作業を行う能力に欠けています、よって自己治療ができません。</MessageCannotSelfTendEver>
+
+  <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です。</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>最後のウェイポイントから、このタイルに到達することは不可能です。</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>{0}個のウェイポイント以上、追加することができません。</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>このウェイポイントは削除できません。</MessageCantRemoveWaypointBecauseFirst>
+
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません。処刑を行う事ができませんでした。</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+
+  <MessageSiteCountdownBecauseNoMoreEnemies>貴方は、すべての敵を倒しました。{0}、キャラバン隊は自動的に編成されます。</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>{0}、キャラバン隊は自動的に再編成されます。「World」画面で、直ぐに再編成を行わせることができます。</MessageSiteCountdownBecauseNoEnemiesInitially>
 
 </LanguageData>

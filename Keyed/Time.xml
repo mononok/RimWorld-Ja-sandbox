@@ -14,20 +14,20 @@
 <SeasonFall>秋</SeasonFall>
 <SeasonWinter>冬</SeasonWinter>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
-  
+  <QuadrumAprimay>卯月</QuadrumAprimay>
+  <QuadrumJugust>文月</QuadrumJugust>
+  <QuadrumSeptober>神無月</QuadrumSeptober>
+  <QuadrumDecembary>睦月</QuadrumDecembary>
+
   <Born>生年月日: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <AgeChronological>暦上での年齢: {0}歳 {1} {2}日</AgeChronological>
+  <AgeBiological>生物学的年齢: {0}歳 {1} {2}日</AgeBiological>
 
   <!-- Date periods -->
 	<Period1Year>1 年</Period1Year>
   <PeriodYears>{0} 年</PeriodYears>
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
+  <Period1Quadrum>1 節</Period1Quadrum>
+  <PeriodQuadrums>{0} 節</PeriodQuadrums>
   <Period1Day>1 日</Period1Day>
   <PeriodDays>{0} 日</PeriodDays>
   <Period1Hour>1 時間</Period1Hour>

@@ -243,8 +243,9 @@
     <ItemsTab>物資</ItemsTab>
     <CaravanConfigTab>設定</CaravanConfigTab>
     <CaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</CaravanMustHaveAtLeastOneColonist>
-    <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません。</CaravanCouldNotFindExitSpot>
-    <CaravanCouldNotFindReachableExitSpot>警告: 一部の指示された入植者は、出発エリアまで到達できません。</CaravanCouldNotFindReachableExitSpot>
+    <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません。{0}</CaravanCouldNotFindExitSpot>
+    <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません。出発エリア({0})に到達できるか確認してください。</CaravanCouldNotFindPackingSpot>
+    <CaravanCouldNotFindReachableExitSpot>警告: 一部の指示された入植者は、出発エリアまで到達できません。{0}</CaravanCouldNotFindReachableExitSpot>
     <CaravanPawnIsUnreachable>指示した入植者は、{0}に 到達できません。</CaravanPawnIsUnreachable>
     <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableSingle>
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>

@@ -22,7 +22,7 @@
 <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
 <NothingLower>なし</NothingLower>
   <Adapted>順応した</Adapted>
-  <FreshMissingBodyPart>フレッシュ</FreshMissingBodyPart>
+  <FreshMissingBodyPart>生々しい</FreshMissingBodyPart>
   <DevelopedImmunityLower>免疫をつける</DevelopedImmunityLower>
   <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
   <NextTendIn>まもなく看病が必要 {0}</NextTendIn>
@@ -72,7 +72,8 @@
   <CaravanDaysOfFood>食料: {0} 日分</CaravanDaysOfFood>
   <CaravanDaysOfFoodRot>食料: {0} 日分, 消費期限 {1}日</CaravanDaysOfFoodRot>
   <CaravanMemberMentalBreak>原因: {0}の精神崩壊により停止</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>原因: 全員が行動不能</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>原因: 全員が行動不能により停止</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>原因: 全員が精神崩壊により停止</AllCaravanMembersMentalBreak>
   <CaravanTraveling>移動中</CaravanTraveling>
   <CaravanWaiting>待機中</CaravanWaiting>
   <CaravanHoursPerTile>時/タイル</CaravanHoursPerTile>
@@ -199,7 +200,7 @@
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
   <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
-	<LordReportFormingCaravan>キャラバン隊を構成中</LordReportFormingCaravan>
+  <LordReportFormingCaravan>キャラバン隊を編成中</LordReportFormingCaravan>
 
 	<!-- Shooting report -->
 <WeaponMissRadius>攻撃ミス角度</WeaponMissRadius>

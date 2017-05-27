@@ -29,8 +29,6 @@
 	<ForbiddenLower>禁止</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
   <NotInHomeArea>ホームエリアではない</NotInHomeArea>
-<SociallyImproperLower>社交的に不適当</SociallyImproperLower>
-  <PrisonerRoomLower>牢獄</PrisonerRoomLower>
 <BurningLower>炎上</BurningLower>
 <NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
 <AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
@@ -47,6 +45,7 @@
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は、より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
   <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
+  <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
 
@@ -138,6 +137,8 @@
 <CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
 
   <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
+
+  <CannotPrioritizeWorkGiverDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkGiverDisabled>
 
   <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}作業を割り当てていない)</CannotPrioritizeNotAssignedToWorkType>
 

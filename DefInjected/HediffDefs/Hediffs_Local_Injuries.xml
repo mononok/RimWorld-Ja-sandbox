@@ -34,7 +34,7 @@
 	<Cut.comps.0.labelTendedWellInner>縫合</Cut.comps.0.labelTendedWellInner>
 	<Cut.comps.0.labelSolidTendedWell>セット</Cut.comps.0.labelSolidTendedWell>
 	<Cut.injuryProps.destroyedLabel>切り落とされた</Cut.injuryProps.destroyedLabel>
-	<Cut.injuryProps.destroyedOutLabel>切り出された</Cut.injuryProps.destroyedOutLabel>
+	<Cut.injuryProps.destroyedOutLabel>切り取られた</Cut.injuryProps.destroyedOutLabel>
 
 	<SurgicalCut.label>医療事故(切創)</SurgicalCut.label>
 	<SurgicalCut.comps.0.labelTendedWell>包帯</SurgicalCut.comps.0.labelTendedWell>
@@ -47,7 +47,7 @@
 	<Scratch.comps.0.labelTendedWellInner>縫合</Scratch.comps.0.labelTendedWellInner>
 	<Scratch.comps.0.labelSolidTendedWell>セット</Scratch.comps.0.labelSolidTendedWell>
 	<Scratch.comps.2.oldLabel>傷跡</Scratch.comps.2.oldLabel>
-	<Scratch.injuryProps.destroyedLabel>ちぎれた</Scratch.injuryProps.destroyedLabel>
+	<Scratch.injuryProps.destroyedLabel>千切れた</Scratch.injuryProps.destroyedLabel>
 	<Scratch.injuryProps.destroyedOutLabel>抉り取られた</Scratch.injuryProps.destroyedOutLabel>
 
 	<Bite.label>噛み傷</Bite.label>
@@ -72,16 +72,16 @@
 	<Gunshot.comps.0.labelSolidTendedWell>セット</Gunshot.comps.0.labelSolidTendedWell>
 	<Gunshot.comps.2.oldLabel>銃創</Gunshot.comps.2.oldLabel>
 	<Gunshot.comps.2.instantlyOldLabel>銃創(古傷)</Gunshot.comps.2.instantlyOldLabel>
-	<Gunshot.injuryProps.destroyedLabel>弾け飛んだ</Gunshot.injuryProps.destroyedLabel>
-	<Gunshot.injuryProps.destroyedOutLabel>吹き飛んだ</Gunshot.injuryProps.destroyedOutLabel>
+	<Gunshot.injuryProps.destroyedLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedLabel>
+	<Gunshot.injuryProps.destroyedOutLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedOutLabel>
 
 	<Shredded.label>裂傷</Shredded.label>
 	<Shredded.comps.0.labelTendedWell>包帯</Shredded.comps.0.labelTendedWell>
 	<Shredded.comps.0.labelTendedWellInner>縫合</Shredded.comps.0.labelTendedWellInner>
 	<Shredded.comps.0.labelSolidTendedWell>セット</Shredded.comps.0.labelSolidTendedWell>
 	<Shredded.comps.2.oldLabel>傷跡</Shredded.comps.2.oldLabel>
-	<Shredded.injuryProps.destroyedLabel>ちぎれた</Shredded.injuryProps.destroyedLabel>
-	<Shredded.injuryProps.destroyedOutLabel>ちぎれた</Shredded.injuryProps.destroyedOutLabel>
+	<Shredded.injuryProps.destroyedLabel>千切れた</Shredded.injuryProps.destroyedLabel>
+	<Shredded.injuryProps.destroyedOutLabel>千切れた</Shredded.injuryProps.destroyedOutLabel>
 
 	<Bruise.label>打撲傷</Bruise.label>
 	<Bruise.comps.0.labelTendedWell>包帯</Bruise.comps.0.labelTendedWell>

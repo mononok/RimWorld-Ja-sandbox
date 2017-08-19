@@ -28,6 +28,8 @@
     <UncleOrAunt.labelFemale>叔母</UncleOrAunt.labelFemale>
 
     <Cousin.label>親戚</Cousin.label>
+  <Cousin.labelFemale>親戚</Cousin.labelFemale>
+
 
   <!-- distant family -->
 
@@ -44,11 +46,14 @@
     <GrandnephewOrGrandniece.labelFemale>兄弟姉妹の孫娘</GrandnephewOrGrandniece.labelFemale>
 
     <CousinOnceRemoved.label>一度、離れた縁者</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>一度、離れた縁者</CousinOnceRemoved.labelFemale>
 
     <SecondCousin.label>二度目の縁者</SecondCousin.label>
+  <SecondCousin.labelFemale>二度目の縁者</SecondCousin.labelFemale>
 
   <!-- kin -->
 
     <Kin.label>血縁</Kin.label>
+  <Kin.labelFemale>血縁</Kin.labelFemale>
 
 </LanguageData>

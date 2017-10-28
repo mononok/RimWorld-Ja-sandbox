@@ -12,6 +12,6 @@
     <MedicalOperationSpeed.description>治療処置を行う速度です。</MedicalOperationSpeed.description>
 
 	<MedicalSurgerySuccessChance.label>外科手術の成功率</MedicalSurgerySuccessChance.label>
-	<MedicalSurgerySuccessChance.description>外科手術の成功率です。手術の失敗は、単に時間と薬品の浪費という結果になるばかりか、患者に重大なダメージを与えます。</MedicalSurgerySuccessChance.description>
+	<MedicalSurgerySuccessChance.description>The chance that a character will perform surgery successfully. The success chance is also affected by the bed and area of the operation, medicine used, and the difficulty of the surgery.</MedicalSurgerySuccessChance.description>
 
 </LanguageData>

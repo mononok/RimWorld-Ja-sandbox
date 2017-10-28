@@ -63,6 +63,8 @@
   <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
   <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
   <LoadAnyway>強制ロード</LoadAnyway>
+  <ChangeLoadedMods>セーブデータから MODリストを読み込む</ChangeLoadedMods>
+  <MissingMods>いくつかのMODを利用できません、インストールが必要です。</MissingMods>
 
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
@@ -146,13 +148,7 @@
   <BillRequiresMayVary>ノート：金のような稀少な材料は、{0}倍必要です。</BillRequiresMayVary>
   <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
   <UsableIngredients>材料</UsableIngredients>
-<DoXTimes>X 回実行</DoXTimes>
-<DoUntilYouHaveX>X に達するまで実行</DoUntilYouHaveX>
-<DoForever>常に実行</DoForever>
 <BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>床に置く</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>最良な保管庫に持って行く</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>一番近い保管庫に持って行く</BillStoreMode_NearestStockpileAnyPriority>
 
   <PauseWhenSatisfied>満足で一時停止</PauseWhenSatisfied>
   <UnpauseWhenYouHave>一時停止解除</UnpauseWhenYouHave>
@@ -204,6 +200,13 @@
   <PackAnimal>駄載獣</PackAnimal>
   <PackAnimalExplanation>この動物は、キャラバン隊が長い距離、アイテムを運ぶのに適しています。</PackAnimalExplanation>
 
+  <Skill>スキル</Skill>
+  <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>ベッドが必要</SurgeryRequireBed>
+  <WorkSpeedStat>作業速度が規制されている</WorkSpeedStat>
+  <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
+  <ConstructionSkillRequired>建築スキルが必要</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>建てるには、この建築レベルが必要</ConstructionSkillRequiredExplanation>
 <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
   <BuyPriceDesc>買い取り金額</BuyPriceDesc>
@@ -221,7 +224,9 @@
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
   <TraderWillNotTrade>トレーダーは売り買いしません。</TraderWillNotTrade>
   <Negotiator>交渉者</Negotiator>
-<NegotiatorTalkingImpaired>あなたの交渉者 {0}は病弱のため ちゃんと話すことができません。\n\nこのことは交渉価格に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>交渉人 {0}は病弱のため きちんと話す事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>交渉人 {0}は病弱のため きちんと聞く事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorCapacityImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
   <SortBy>並び替え</SortBy>
 	<TraderTypePrice>交易種別</TraderTypePrice>
@@ -260,7 +265,9 @@
   <DaysWorthOfFoodTooltip_CantEatLocalPlants>現在の季節、気温、環境を元に憶測すると、草食動物は現地の草を食べることが 不可能 でしょう。しかし、これはいつでも変えることが出来ます。</DaysWorthOfFoodTooltip_CantEatLocalPlants>
     <DaysWorthOfFoodWarningDialog>キャラバン隊は {0}日分の食料しかないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog>
     <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>指示された食料の大部分は、直ぐに腐敗してしまうでしょう。\n\n本当にキャラバン隊を行かせますか？</CaravanFoodWillRotSoonWarningDialog>
+    <CaravanFoodWillRotSoonWarningDialog>指示された食料の大部分は、直ぐに腐敗してしまうでしょう。\n\n本当にキャラバン隊を行かせますか？</CaravanFoodWillRotSoonWarningDialog>
+    <CaravanIncapableOfSocial>キャラバン隊の中に、外交や商取引ができるメンバーがいません。</CaravanIncapableOfSocial>
+    <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
     <NoExitDirectionForCaravanChosen>キャラバン隊の、出発方向を決めなければなりません。</NoExitDirectionForCaravanChosen>
     <NoCaravanExitDirectionAvailable>(出発方向が無い)</NoCaravanExitDirectionAvailable>
     <ExitDirection>出発方向</ExitDirection>
@@ -278,6 +285,7 @@
     <PrisonersSection>囚人</PrisonersSection>
     <AnimalsSection>動物</AnimalsSection>
   <EstimatedTimeToDestinationButton>目的地までの推定時間</EstimatedTimeToDestinationButton>
+    <AbandonButton>放棄</AbandonButton>
 
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
@@ -374,11 +382,11 @@
   <ConfirmLeavePrisonersOrAnimalsBehind>このエリアを離れる、一部の囚人と家畜が、まだおり、ここにいる唯一のキャラバン隊に加わろうとしています。\n\nもしこのキャラバン隊を移動させると、帰ってくるまで、彼らはキャラバン隊に加わる事が出来なくなってしまいます。囚人は脱走しはじめ、家畜は待ち続けるでしょう。\n\nもし待つと決めたのなら、できるだけ、彼らをキャラバン隊に加えるようにしてください。\n\n本当にキャラバン隊を移動させますか？</ConfirmLeavePrisonersOrAnimalsBehind>
 
   <!-- Abandon pawn -->
-  <ConfirmAbandonPawnDialog>本当に、{0}を放棄しますか？</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0}は、おそらく死ぬでしょう。</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0}は 次のアイテムを取るでしょう:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>全ての入植者は、こう思うでしょう:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>{0}を放棄すると、人々は、次のように思うでしょう:</ConfirmAbandonPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog>ほんとうに {0} を追放しますか?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{0} は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{0} は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{0}を追放することで、次の人たちに、このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>

@@ -2,14 +2,27 @@
 <LanguageData>
 
 	<!--======================= Wild plants - carpets ========================-->
-	<PlantTallGrass.label>イネ科の草</PlantTallGrass.label>
-	<PlantTallGrass.description>背丈が高い植物です。この草が生い茂った中は歩きにくいです。</PlantTallGrass.description>
+	<PlantShrubLow.label>low shrubs</PlantShrubLow.label>
+	<PlantShrubLow.description>Low broadleaf shrubs. These grow in clusters and slow down movement somewhat.</PlantShrubLow.description>
 
+    <!-- Wild - Bushes -->
+	<PlantAlocasia.label>alocasia</PlantAlocasia.label>
+	<PlantAlocasia.description>A common broadleaf tropical plant.</PlantAlocasia.description>
+
+	<PlantClivia.label>clivia</PlantClivia.label>
+	<PlantClivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.</PlantClivia.description>
+
+	<PlantRafflesia.label>giant rafflesia</PlantRafflesia.label>
+	<PlantRafflesia.description>A rare, giant flower. You would think a giant flower would be beautiful, but this one is quite smelly and ugly.</PlantRafflesia.description>
+
+	<!--============================ Wild - Trees ============================-->
 	<PlantTreeTeak.label>チーク</PlantTreeTeak.label>
     <PlantTreeTeak.description>とても堅い木で、昔は帆船を作るときに使いました。</PlantTreeTeak.description>
-	<!--============================ Wild - Trees ============================-->
 
 	<PlantTreeCecropia.label>セクロピア</PlantTreeCecropia.label>
 	<PlantTreeCecropia.description>代表的な熱帯雨林の植物のひとつです。</PlantTreeCecropia.description>
+
+	<PlantTreeBamboo.label>bamboo tree</PlantTreeBamboo.label>
+	<PlantTreeBamboo.description>A fast-growing tree-like species that grows in cluster. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.</PlantTreeBamboo.description>
 
 </LanguageData>

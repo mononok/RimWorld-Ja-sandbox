@@ -53,6 +53,8 @@
   <RuinedByTemperature>温度管理に失敗してダメになった</RuinedByTemperature>
 	<CorpsePercentMissing>欠損した身体</CorpsePercentMissing>
 	<HiveReproducesIn>再生中</HiveReproducesIn>
+    <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
+    <NextSpawnedItemIn>次は {0}</NextSpawnedItemIn>
 	<BrokenDown>故障中</BrokenDown>
 	<BondBrackets>(絆)</BondBrackets>
 	<Fuel>燃料</Fuel>
@@ -79,6 +81,7 @@
   <CaravanHoursPerTile>時/タイル</CaravanHoursPerTile>
   <CaravanBaseMovementTime>基本移動時間</CaravanBaseMovementTime>
   <CurrentTileMovementTime>現タイルの移動時間</CurrentTileMovementTime>
+  <StealthFactor>秘匿性</StealthFactor>
   <Temperature>樽内温度</Temperature>
   <BadTemperature>温度が適していない</BadTemperature>
   <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
@@ -123,6 +126,12 @@
 	<KnownSiteThreat>脅威: {0}</KnownSiteThreat>
 	<KnownSiteThreats>脅威群: {0}</KnownSiteThreats>
 	<KnownSiteThreatsNone>脅威: 無し</KnownSiteThreatsNone>
+    <SkillRequirements>必要スキル</SkillRequirements>
+    <Products>製品</Products>
+    <DeepDrillExhausted>深層ドリルの資源が枯渇した</DeepDrillExhausted>
+    <Relationship>{1}の{0}</Relationship>
+    <Prisoner>囚人</Prisoner>
+    <Refugee>亡命者</Refugee>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -177,12 +186,13 @@
   <GunInstalled>武装</GunInstalled>
   <MinimumRange>砲撃可能最小半径</MinimumRange>
   <CanFireIn>射撃開始まで</CanFireIn>
-  <ShellLoaded>装填済み</ShellLoaded>
+  <ShellLoaded>装填済み: {0}</ShellLoaded>
   <ShellNotLoaded>未装填</ShellNotLoaded>
 
   <!-- Job reports -->
   <ReportHaulingTo>{0} を {1} に 運搬中</ReportHaulingTo>
   <ReportHauling>{0} を 運搬中</ReportHauling>
+  <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
   <ReportSleeping>睡眠中</ReportSleeping>
   <ReportResting>休憩中</ReportResting>
   <WatchingSunrise>夜明けを眺めている</WatchingSunrise>
@@ -190,12 +200,14 @@
   <WatchingSunset>陽が沈むのを眺めている</WatchingSunset>
   <Stargazing>星の瞬きを眺めている</Stargazing>
   <WatchingEclipse>月の満ち欠けを眺めている</WatchingEclipse>
+  <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <UsingVerb>{1} に {0}を使う</UsingVerb>
   <AreaLower>ゾーン</AreaLower>
   <ReportCowering>ちじこまる</ReportCowering>
   <ReportStanding>立っている</ReportStanding>
   <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>{0} に点いた、火を消している</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
@@ -246,6 +258,7 @@
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
 	<AffectedBy>原因:</AffectedBy>
+    <Queued>待ち行列</Queued>
 
 	<!-- Inspector general stuff -->
 	<SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
@@ -265,6 +278,7 @@
 	<PowerOutput>発電量</PowerOutput>
 	<PowerBatteryStored>蓄電量</PowerBatteryStored>
 	<PowerBatteryEfficiency>蓄電効率</PowerBatteryEfficiency>
+	<SelfDischarging>自己放電</SelfDischarging>
 
 	<!-- Temperature control -->
 	<TargetTemperature>設定温度</TargetTemperature>
@@ -311,6 +325,8 @@
     <GrowYearRound>一年中</GrowYearRound>
 	<GrowSeasonHereNow>栽培時期がやってきました</GrowSeasonHereNow>
   <CannotGrowBadSeasonTemperature>生育不可 (気温不適合)</CannotGrowBadSeasonTemperature>
+    <Blighted>疫病</Blighted>
+    <DyingBecauseExposedToLight>陽に晒されて死亡</DyingBecauseExposedToLight>
 
 	<!-- Zones -->
 	<Zone>ゾーン</Zone>
@@ -340,7 +356,8 @@
     <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
   <LockNorthUpToggleButton>北が常に上になるように、カメラをロックします</LockNorthUpToggleButton>
   <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
-  <ExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
 
 	<!-- Fire -->
 	<Fire>火災</Fire>
@@ -379,7 +396,13 @@
 	<ShipReportCannotLaunch>発射 できません。</ShipReportCannotLaunch>
 	<ShipReportCanLaunch>発射 できます。</ShipReportCanLaunch>
 	<ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
+    <ShipReportMissingPartRequires>必要物</ShipReportMissingPartRequires>
 	<ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
+    <ShipReportHibernating>休止コンポーネント</ShipReportHibernating>
+    <ShipReportNotReady>コンポーネント準備不足</ShipReportNotReady>
+    <HibernateWarning>Charlon Whitestoneは、休止反応炉の再起動シーケンスを始める準備が整った。\n\n彼は、この処理が15日掛かり、そのエネルギー波紋は、かなり遠くからでも探知されることを警告している。このエネルギー波紋は恒星間航行能力が有ることを示し、命知らずのギャングや、トレジャーハンターを惹きつけるだろう。真っ先に防衛の準備が整っているか確認しよう。</HibernateWarning>
+    <HibernateCompleteLabel>反応炉 準備完了</HibernateCompleteLabel>
+    <HibernateComplete>Charlon Whitestoneは、休止反応炉の再起動シーケンスを終えた。反応炉は、離床するだけのパワーの準備が整った。</HibernateComplete>
 
 	<!-- Neurotrainer -->
 	<NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
@@ -488,5 +511,9 @@
   <OutfitWorker>作業者</OutfitWorker>
   <OutfitSoldier>戦闘員</OutfitSoldier>
   <OutfitNudist>ヌーディスト</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <HibernatableHibernating>休止中</HibernatableHibernating>
+  <HibernatableStartingUp>再起動中</HibernatableStartingUp>
 
 </LanguageData>

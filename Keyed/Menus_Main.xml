@@ -128,18 +128,21 @@
   <AvgSummerTemp>年平均気温(夏期)</AvgSummerTemp>
   <AvgWinterTemp>年平均気温(冬季)</AvgWinterTemp>
   <Rainfall>降雨量</Rainfall>
+  <SpecialFeatures>特徴</SpecialFeatures>
   <HasCoast0>北海岸</HasCoast0>
   <HasCoast1>東海岸</HasCoast1>
   <HasCoast2>南海岸</HasCoast2>
   <HasCoast3>西海岸</HasCoast3>
+  <HasCaves>洞窟</HasCaves>
   <FactionBase>本拠地</FactionBase>
   <StoneTypesHere>主な地層</StoneTypesHere>
     <TimeZone>タイムゾーン</TimeZone>
     <MovementTimeNow>現在の移動時間</MovementTimeNow>
     <MovementTimeSummer>夏期 移動時間</MovementTimeSummer>
     <MovementTimeWinter>冬期 移動時間</MovementTimeWinter>
-  <AnimalsCanGrazeNow>家畜は草を食う事ができます</AnimalsCanGrazeNow>
-
+  <AnimalsCanGrazeNow>家畜は草を食む事ができるか</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
+  <PerYear>/年</PerYear>
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -161,14 +164,16 @@
 <Pain>痛み</Pain>
 <Health>健康</Health>
 <Relations>相関関係</Relations>
-
+    <TeamSkills>チームスキル</TeamSkills>
+    <StartingPawnsSelected>選択済</StartingPawnsSelected>
+    <StartingPawnsLeftBehind>置き去り</StartingPawnsLeftBehind>
 <!--=========== Misc ==========-->
 <Start>スタート</Start>
 <Advanced>高度な設定</Advanced>
 <Next>次</Next>
 <Back>戻る</Back>
 <Gameplay>ゲームの設定</Gameplay>
-<ConfirmQuit>本当に終了しますか？ セーブしていない データは うしなわれます。</ConfirmQuit>
+<ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます。</ConfirmQuit>
 <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>

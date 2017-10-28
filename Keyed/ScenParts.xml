@@ -5,7 +5,9 @@
 
   <ScenPart_PlayerFaction>あなたの派閥は "{0}" です。</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>ゲームを "{0}人" で始めます。</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>ゲームを 総勢{1}人の中から {0}人を選んで始めます。</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>から選択</ScenPart_StartWithPawns_OutOf>
+
   <RandomPet>ランダムなペット</RandomPet>
 
   <ScenPart_StartingResearchFinished>研究済み:\n  -{0}</ScenPart_StartingResearchFinished>

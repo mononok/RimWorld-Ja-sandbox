@@ -9,10 +9,19 @@
     <FightFires.gerund>を消火する</FightFires.gerund>
 
 	<!-- ============= PatientEmergency ============= -->
+	<PatientGoToBedEmergencyTreatment.label>救命処置を受けるために\nベッドに行く</PatientGoToBedEmergencyTreatment.label>
+	<PatientGoToBedEmergencyTreatment.verb>の治療</PatientGoToBedEmergencyTreatment.verb>
+	<PatientGoToBedEmergencyTreatment.gerund>の治療を受ける</PatientGoToBedEmergencyTreatment.gerund>
 
-	<PatientGoToBedEmergency.label>救命処置を受けるために\nベッドに行く</PatientGoToBedEmergency.label>
-	<PatientGoToBedEmergency.verb>の治療</PatientGoToBedEmergency.verb>
-	<PatientGoToBedEmergency.gerund>の治療を受ける</PatientGoToBedEmergency.gerund>
+	<PatientGoToBedTreatment.label>治療のためベッドに行く</PatientGoToBedTreatment.label>
+	<PatientGoToBedTreatment.verb>の治療</PatientGoToBedTreatment.verb>
+	<PatientGoToBedTreatment.gerund>の治療を受ける</PatientGoToBedTreatment.gerund>
+
+  <!-- =========== PatientBedRest ============-->
+
+	<PatientGoToBedRecuperate.label>ベッドで安静にする</PatientGoToBedRecuperate.label>
+	<PatientGoToBedRecuperate.verb>をベッドで休ませる</PatientGoToBedRecuperate.verb>
+	<PatientGoToBedRecuperate.gerund>をベッドで安静にさせる</PatientGoToBedRecuperate.gerund>
 
   <!-- ============= Doctor ============= -->
 
@@ -62,11 +71,6 @@
 	<VisitSickPawn.verb>を見舞う</VisitSickPawn.verb>
 	<VisitSickPawn.gerund>を見舞いする</VisitSickPawn.gerund>
 
-  <!-- =========== PatientBedRest ============-->
-
-	<PatientGoToBed.label>ベッドで安静にする</PatientGoToBed.label>
-	<PatientGoToBed.verb>をベッドで休ませる</PatientGoToBed.verb>
-	<PatientGoToBed.gerund>をベッドで安静にさせる</PatientGoToBed.gerund>
 
   <!-- =========== Flicker ============-->
 

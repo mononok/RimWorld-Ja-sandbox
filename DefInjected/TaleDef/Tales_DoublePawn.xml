@@ -527,130 +527,32 @@
     <!-- KilledBy -->
         <!-- note that killer may not be filled in, so this has to be resolvable without any killer_ symbols -->
     <KilledBy.label>death</KilledBy.label>
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[killer_nameShortDef]による、[victim_nameShortDef]殺し</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  1]</path>
-		<trans>tale_noun->[victim_nameShortDef]が、[killer_nameShortDef]によって殺された</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  2]</path>
-		<trans>tale_noun->[victim_nameShortDef]が殺された</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  3]</path>
-		<trans>image->[victim_nameFull]は、[circumstance_group]、[killer_nameFull]に殺された。 </trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  4]</path>
-		<trans>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]を殺す。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  5]</path>
-		<trans>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]の人生を終わらせる。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  6]</path>
-		<trans>image->[killer_nameFull]は、[circumstance_group]、残忍に[victim_nameFull]を殺す。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  7]</path>
-		<trans>image->[victim_nameFull]は、[circumstance_group]、殺された。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  8]</path>
-		<trans>circumstance_phrase->一見したところ無慈悲に</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[  9]</path>
-		<trans>circumstance_phrase->冷酷に</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 10]</path>
-		<trans>circumstance_phrase->激しい怒りと共に</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 11]</path>
-		<trans>circumstance_phrase->素早く、無駄の無い動きで</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 12]</path>
-		<trans>circumstance_phrase->感情を表に出さずに</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 13]</path>
-		<trans>circumstance_phrase->希望も無しに</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 14]</path>
-		<trans>circumstance_phrase->卑劣で、冷淡な方法で</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 15]</path>
-		<trans>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 16]</path>
-		<trans>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 17]</path>
-		<trans>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 18]</path>
-		<trans>desc_sentence->[victim_nameShortDef]の周りに血だまりができている。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 19]</path>
-		<trans>desc_sentence->[victim_nameShortDef]の眼は、現実的に死んだようにみえる。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 20]</path>
-		<trans>desc_sentence->[killer_nameShortDef]は、[killer_possessive]歯を剥き出しにしている。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 21]</path>
-		<trans>desc_sentence->[killer_nameShortDef]は満ち足りたように見える。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 22]</path>
-		<trans>desc_sentence->[killer_nameShortDef]は、[killer_pronoun]がしたことを悩んでいる。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 23]</path>
-		<trans>desc_sentence->[killer_nameShortDef]は、この状況に満足しているようだ。</trans>
-	</rep>
-
-    <rep>
-		<path>KilledBy.rulePack.rulesStrings[ 24]</path>
-		<trans>desc_sentence->[killer_nameShortDef]は、得意になっているようだ。</trans>
-	</rep>
+    <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]の、[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.0>
+    <KilledBy.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]による、[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.1>
+	<KilledBy.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef]が、[killer_nameShortDef]によって殺された</KilledBy.rulePack.rulesStrings.2>
+	<KilledBy.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]が殺された</KilledBy.rulePack.rulesStrings.3>
+	<KilledBy.rulePack.rulesStrings.4>image->[victim_nameFull]は、[circumstance_group]、[killer_nameFull]に殺された。 </KilledBy.rulePack.rulesStrings.4>
+	<KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]を殺す。</KilledBy.rulePack.rulesStrings.5>
+	<KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]の人生を終わらせる。</KilledBy.rulePack.rulesStrings.6>
+	<KilledBy.rulePack.rulesStrings.7>image->[killer_nameFull]は、[circumstance_group]、残忍に[victim_nameFull]を殺す。</KilledBy.rulePack.rulesStrings.7>
+	<KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull]は、[circumstance_group]、殺された。</KilledBy.rulePack.rulesStrings.8>
+	<KilledBy.rulePack.rulesStrings.9>circumstance_phrase->一見したところ無慈悲に</KilledBy.rulePack.rulesStrings.9>
+	<KilledBy.rulePack.rulesStrings.10>circumstance_phrase->冷酷に</KilledBy.rulePack.rulesStrings.10>
+	<KilledBy.rulePack.rulesStrings.11>circumstance_phrase->激しい怒りと共に</KilledBy.rulePack.rulesStrings.11>
+	<KilledBy.rulePack.rulesStrings.12>circumstance_phrase->素早く、無駄の無い動きで</KilledBy.rulePack.rulesStrings.12>
+	<KilledBy.rulePack.rulesStrings.13>circumstance_phrase->感情を表に出さずに</KilledBy.rulePack.rulesStrings.13>
+	<KilledBy.rulePack.rulesStrings.14>circumstance_phrase->希望も無しに</KilledBy.rulePack.rulesStrings.14>
+	<KilledBy.rulePack.rulesStrings.15>circumstance_phrase->卑劣で、冷淡な方法で</KilledBy.rulePack.rulesStrings.15>
+	<KilledBy.rulePack.rulesStrings.16>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</KilledBy.rulePack.rulesStrings.16>
+	<KilledBy.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</KilledBy.rulePack.rulesStrings.17>
+	<KilledBy.rulePack.rulesStrings.18>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</KilledBy.rulePack.rulesStrings.18>
+	<KilledBy.rulePack.rulesStrings.19>desc_sentence->[victim_nameShortDef]の周りに血だまりができている。</KilledBy.rulePack.rulesStrings.19>
+	<KilledBy.rulePack.rulesStrings.20>desc_sentence->[victim_nameShortDef]の眼は、現実的に死んだようにみえる。</KilledBy.rulePack.rulesStrings.20>
+	<KilledBy.rulePack.rulesStrings.21>desc_sentence->[killer_nameShortDef]は、[killer_possessive]歯を剥き出しにしている。</KilledBy.rulePack.rulesStrings.21>
+	<KilledBy.rulePack.rulesStrings.22>desc_sentence->[killer_nameShortDef]は満ち足りたように見える。</KilledBy.rulePack.rulesStrings.22>
+	<KilledBy.rulePack.rulesStrings.23>desc_sentence->[killer_nameShortDef]は、[killer_pronoun]がしたことを悩んでいる。</KilledBy.rulePack.rulesStrings.23>
+	<KilledBy.rulePack.rulesStrings.24>desc_sentence->[killer_nameShortDef]は、この状況に満足しているようだ。</KilledBy.rulePack.rulesStrings.24>
+	<KilledBy.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef]は、得意になっているようだ。</KilledBy.rulePack.rulesStrings.25>
 
     <!-- SoldPrisoner -->
     <SoldPrisoner.label>prisoner sold</SoldPrisoner.label>

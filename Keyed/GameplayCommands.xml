@@ -84,12 +84,15 @@
 <CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
 <MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
 <MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません。</MessageTurretWontFireBecauseHoldFire>
 
 <!-- Ship computer core -->
 <CommandShipLaunch>宇宙船を発進する</CommandShipLaunch>
 <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
 <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
 <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
+<CommandShipStartup>宇宙船を起動</CommandShipStartup>
+<CommandShipStartupDesc>休止状態の船体コンポーネントを起動します。</CommandShipStartupDesc>
 
 <!-- Pod -->
 <CommandPodEject>冬眠カプセルから出す</CommandPodEject>
@@ -134,6 +137,10 @@
 <CommandSquadAttack>攻撃目標</CommandSquadAttack>
 <CommandSquadAttackDesc>選択した入植者達に攻撃目標を指示します。</CommandSquadAttackDesc>
 
+  <!-- Melee attack -->
+  <CommandMeleeAttack>近接攻撃</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>選択した入植者に、指示した攻撃目標を、拳や近接武器を使って攻撃するよう命令します。</CommandMeleeAttackDesc>
+
   <!-- Hold fire -->
   <CommandHoldFire>発砲禁止</CommandHoldFire>
   <CommandHoldFireDesc>もう攻撃しなくなります。</CommandHoldFireDesc>
@@ -163,6 +170,7 @@
     <!-- Merge caravan -->
     <CommandMergeCaravans>合流</CommandMergeCaravans>
     <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます。</CommandMergeCaravansDesc>
+    <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します。キャラバン隊はそれぞれ接していなければなりません。</CommandMergeCaravansFailCaravansNotSelected>
 
     <!-- Settle -->
     <CommandSettle>定住</CommandSettle>

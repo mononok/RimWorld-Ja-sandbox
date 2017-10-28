@@ -19,6 +19,7 @@
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
   <CannotOrderNonControlledLower>操作できないユニットには指示できない</CannotOrderNonControlledLower>
+  <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
 
 <OrderManThing>{0}に配置</OrderManThing>
 
@@ -39,6 +40,7 @@
   <NoUsableFood>エサがない</NoUsableFood>
   <NoFood>エサがない</NoFood>
   <AnimalsSkillTooLow>動物へのスキルが低すぎる</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
   <NoWort>麦汁が必要</NoWort>
@@ -46,6 +48,10 @@
   <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
   <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
   <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
+  <CannotReach>到達できない</CannotReach>
+  <NotSurgeryReady>手術の準備ができていない</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>屋根がない</CantSowCavePlantBecauseUnroofed>
 
   <ConsumeThing>{0}を口にする</ConsumeThing>
 
@@ -120,7 +126,9 @@
 
   <EnterMap>{0}に入る</EnterMap>
   <VisitSettlement>{0}に訪れる</VisitSettlement>
+  <VisitPeaceTalks>{0}に訪れる</VisitPeaceTalks>
   <VisitSite>{0}に訪れる</VisitSite>
+  <VisitEscapeShip>{0}に訪れる</VisitEscapeShip>
   <AttackSite>{0}を攻撃する</AttackSite>
   <AttackSettlement>{0}を攻撃する</AttackSettlement>
 

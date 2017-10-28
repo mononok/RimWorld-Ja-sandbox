@@ -75,10 +75,10 @@
 
 	<MessageInvoluntarySleep>{0}は、極度の疲労によって衰弱した。</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureMinor>{0}は {1}の手術中に わずかなミスを犯した。</MessageMedicalOperationFailureMinor>
+    <MessageMedicalOperationFailureMinor>{0}は {1}の手術中に わずかなミスを犯した。</MessageMedicalOperationFailureMinor>
 	<MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスを犯した。</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{0}は {1}の手術中に とんでもない事をして失敗した。</MessageMedicalOperationFailureRidiculous>
-
+    <MessageMedicalOperationFailureRidiculous>{0}は {1}の手術中に とんでもない事をして失敗した。</MessageMedicalOperationFailureRidiculous>
+    <MessageMedicalOperationFailureFatal>{0}は {1}の手術中に 特別な挑戦に挑んだ結果、致命的なミスを犯した。: {2}</MessageMedicalOperationFailureFatal>
 	<MessageMedicalOperationWillAngerFaction>この手術は、{0}を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
 
 	<MessagePawnExitMapRelationsGain>{0}は 元気になって出ていきました。{1}との関係は良くなりました。{2}</MessagePawnExitMapRelationsGain>
@@ -133,6 +133,8 @@
 
   <MessageNoLongerBingingOnDrug>{0}は、 もう{1}を浪費することをやめました。</MessageNoLongerBingingOnDrug>
 
+  <MessageNoLongerOnTargetedInsultingSpree>{0}は、もう{1}を侮辱する騒動はしません。</MessageNoLongerOnTargetedInsultingSpree>
+
   <MessageRottedAwayInStorage>{0}は、 備蓄ゾーンのなかで腐敗しました。</MessageRottedAwayInStorage>
 
   <MessageFoodPoisoning>{0}は、 {1}の食中毒を起こしました。</MessageFoodPoisoning>
@@ -146,7 +148,11 @@
     <MessageMaxPlanetCoveragePerformanceWarning>警告: 惑星データ生成に非常に長い処理時間を要します。</MessageMaxPlanetCoveragePerformanceWarning>
 
     <MessagePlantDiedOfCold>{0}は凍死した</MessagePlantDiedOfCold>
-    <MessagePlantDiedOfRot>{0}は死んだのち放置されて腐乱した</MessagePlantDiedOfRot>
+    <MessagePlantDiedOfRot_LeftUnharvested>{0}は収穫されなかった為に腐って死んだ</MessagePlantDiedOfRot_LeftUnharvested>
+    <MessagePlantDiedOfRot_ExposedToLight>{0}は陽にあたって死んだ</MessagePlantDiedOfRot_ExposedToLight>
+    <MessagePlantDiedOfRot>{0}は腐って死んだ</MessagePlantDiedOfRot>
+    <MessagePlantDiedOfPoison>{0}は毒によって死んだ</MessagePlantDiedOfPoison>
+    <MessagePlantDiedOfBlight>{0}は疫病で死んだ</MessagePlantDiedOfBlight>
 
     <MessagePawnBeingBurned>{0}は 高温に熱した大気で熱傷を負った</MessagePawnBeingBurned>
 
@@ -196,7 +202,7 @@
 
     <MessageReformedCaravan>キャラバン隊が再編成できました。</MessageReformedCaravan>
 
-    <MessageCantAbandonLastColonist>最後の一人を放棄することはできません。</MessageCantAbandonLastColonist>
+    <MessageCantBanishLastColonist>最後の一人を放棄することはできません。</MessageCantBanishLastColonist>
 
     <MessageCantEquipIncapableOfViolence>装備不可: {0}は暴力を否定</MessageCantEquipIncapableOfViolence>
     <MessageCantEquipIncapableOfManipulation>装備不可: 欠点</MessageCantEquipIncapableOfManipulation>
@@ -225,5 +231,22 @@
 
   <MessageSiteCountdownBecauseNoMoreEnemies>貴方は、すべての敵を倒しました。{0}、キャラバン隊は自動的に編成されます。</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>{0}、キャラバン隊は自動的に再編成されます。「World」画面で、直ぐに再編成を行わせることができます。</MessageSiteCountdownBecauseNoEnemiesInitially>
+
+   <MessageCantBanishDownedPawn>{0}は歩けないので、追放できません。</MessageCantBanishDownedPawn>
+   <MessageSleepingPawnsWokenUp>{0}は目を覚ました。</MessageSleepingPawnsWokenUp>
+   <MessageCompSpawnerSpawnedItem>アイテムを生産した: {0}</MessageCompSpawnerSpawnedItem>
+   <MessageHediffCuredByItem>健康を回復した: {0}</MessageHediffCuredByItem>
+   <MessageBodyPartCuredByItem>身体パーツを修復した: {0}</MessageBodyPartCuredByItem>
+   <MessageResearchProjectFinishedByItem>テクノロジーが与えられた: {0}</MessageResearchProjectFinishedByItem>
+   <MessagePawnResurrected>{0}は息を吹き返した!</MessagePawnResurrected>
+   <MessageFailedToRescueRelative>{0}の命を救えなかった。{1}を悲しませるだろう。</MessageFailedToRescueRelative>
+   <MessageRescuedRelative>{0}を救えた。{1}を喜ばせるだろう。</MessageRescuedRelative>
+   <MessagePrisonerRescued>NAMEを救い、HEはコロニーに加わった。</MessagePrisonerRescued>
+   <MessageTornadoLeftMap>竜巻が去った。</MessageTornadoLeftMap>
+   <MessageTornadoDissipated>竜巻が散り散りになった。</MessageTornadoDissipated>
+   <MessagePeaceTalksNoDiplomat>意識も、外交能力も無い</MessagePeaceTalksNoDiplomat>
+   <MessageWarningCavePlantsExposedToLight>警告: {0}は陽に当たると生きていけません。</MessageWarningCavePlantsExposedToLight>
+   <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedTantrumChangedTarget>
+   <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>

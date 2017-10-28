@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
   <BuildRapport.label>友好的な会話</BuildRapport.label>
   <rep>
     <path>BuildRapport.logRulesInitiator.rulesStrings[0]</path>
@@ -19,5 +20,9 @@
 		<path>RecruitAttempt.logRulesRecipient.rulesStrings[0]</path>
 		<trans>logentry->[other_nameShortIndef] からの勧誘に耳を傾けている。</trans>
 	</rep>
+
+    <SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
+    <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->Induced [other_nameShortIndef] to escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+    <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->Was induced to escape by [other_nameShortIndef]</SparkJailbreak.logRulesRecipient.rulesStrings.0>
 
 </LanguageData>

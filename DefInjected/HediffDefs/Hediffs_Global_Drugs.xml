@@ -21,6 +21,7 @@
 	<AlcoholAddiction.stages.1.label>禁断症状</AlcoholAddiction.stages.1.label>
 	<!-- WakeUp.xml -->
 	<WakeUpHigh.label>ウェイクアップでハイになる</WakeUpHigh.label>
+	<WakeUpHigh.labelNoun>ウェイクアップハイ</WakeUpHigh.labelNoun>
 	<WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
   <WakeUpTolerance.stages.1.label>小</WakeUpTolerance.stages.1.label>
   <WakeUpTolerance.stages.2.label>大</WakeUpTolerance.stages.2.label>
@@ -37,8 +38,12 @@
 	<SmokeleafAddiction.stages.1.label>禁断症状</SmokeleafAddiction.stages.1.label>
 	<!-- Psychite_Flake.xml -->
 	<FlakeHigh.label>フレークでハイになる</FlakeHigh.label>
+	<FlakeHigh.labelNoun>フレークハイ</FlakeHigh.labelNoun>
+	<PekoeHigh.label>ペコーでハイになる</PekoeHigh.label>
+	<PekoeHigh.labelNoun>ペコーハイ</PekoeHigh.labelNoun>
 	<!-- Psychite_Yayo.xml -->
 	<YayoHigh.label>イェイョでハイになる</YayoHigh.label>
+	<YayoHigh.labelNoun>イェイョハイ</YayoHigh.labelNoun>
 	<PsychiteTolerance.label>サイカイト耐性</PsychiteTolerance.label>
 	  <PsychiteTolerance.stages.1.label>小</PsychiteTolerance.stages.1.label>
   <PsychiteTolerance.stages.2.label>大</PsychiteTolerance.stages.2.label>
@@ -47,6 +52,7 @@
 	<PsychiteAddiction.stages.1.label>禁断症状</PsychiteAddiction.stages.1.label>
 	<!-- GoJuice.xml -->
 	<GoJuiceHigh.label>ゴージュースでハイになる</GoJuiceHigh.label>
+	<GoJuiceHigh.labelNoun>ゴージュースハイ</GoJuiceHigh.labelNoun>
 	<GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
 	<GoJuiceTolerance.stages.1.label>小</GoJuiceTolerance.stages.1.label>
   <GoJuiceTolerance.stages.2.label>大</GoJuiceTolerance.stages.2.label>

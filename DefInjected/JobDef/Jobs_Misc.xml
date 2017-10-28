@@ -61,6 +61,7 @@
     <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込む</EnterCryptosleepCasket.reportString>
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
     <UseArtifact.reportString>アーティファクト を作動中</UseArtifact.reportString>
+    <UseItem.reportString>using TargetA.</UseItem.reportString>
 
 	<TriggerFirefoamPopper.reportString>泡消火剤を作動中</TriggerFirefoamPopper.reportString>
 
@@ -77,6 +78,10 @@
 	<FleeAndCower.reportString>逃走中</FleeAndCower.reportString>
 
     <EnterTransporter.reportString>TargetA に乗り込んでいる</EnterTransporter.reportString>
+    <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+    <Insult.reportString>insulting TargetA.</Insult.reportString>
+    <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+    <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>

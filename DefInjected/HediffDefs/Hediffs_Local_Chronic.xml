@@ -2,10 +2,15 @@
 <LanguageData>
 
     <BadBack.label>腰痛</BadBack.label>
+    <BadBack.labelNoun>腰痛</BadBack.labelNoun>
 
     <Frail.label>虚弱</Frail.label>
+    <Frail.labelNoun>虚弱</Frail.labelNoun>
 
     <Cataract.label>白内障</Cataract.label>
+    <Cataract.labelNoun>白内障</Cataract.labelNoun>
+
+    <Blindness.label>失明</Blindness.label>
 
     <HearingLoss.label>聴力損失</HearingLoss.label>
 
@@ -44,6 +49,7 @@
 	</rep>
 
     <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
+    <HeartArteryBlockage.labelNoun>心筋梗塞</HeartArteryBlockage.labelNoun>
 	<rep>
 		<path>HeartArteryBlockage.stages[0].label</path>
         <trans>軽度</trans>
@@ -66,6 +72,7 @@
 	</rep>
 
     <Carcinoma.label>悪性腫瘍</Carcinoma.label>
+    <Carcinoma.labelNoun>悪性腫瘍</Carcinoma.labelNoun>
 	<rep>
 		<path>Carcinoma.stages[0].label</path>
         <trans>軽度</trans>

@@ -246,16 +246,23 @@
     <DefeatedMajorEnemy.stages.0.label>{0}を打ち負かした</DefeatedMajorEnemy.stages.0.label>
     <DefeatedMajorEnemy.stages.0.description>大きな脅威を倒した！俺はヒーローだ！</DefeatedMajorEnemy.stages.0.description>
 
-    <ColonistAbandoned.stages.0.label>入植者を見放した</ColonistAbandoned.stages.0.label>
-    <ColonistAbandoned.stages.0.description>私たちは誰かをこっそりと置き去りにした。うまくいくことを望んでいるが、心配だ。</ColonistAbandoned.stages.0.description>
+    <ColonistBanished.stages.0.label>入植者を見放した</ColonistBanished.stages.0.label>
+    <ColonistBanished.stages.0.description>私たちは誰かをこっそりと置き去りにした。うまくいくことを望んでいるが、心配だ。</ColonistBanished.stages.0.description>
 
-    <ColonistAbandonedToDie.stages.0.label>入植者を見殺しにした</ColonistAbandonedToDie.stages.0.label>
-    <ColonistAbandonedToDie.stages.0.description>私たちはこっそりと置き去りにした。このような場合、たいてい生き残れる道は無い。</ColonistAbandonedToDie.stages.0.description>
+    <ColonistBanishedToDie.stages.0.label>入植者を見殺しにした</ColonistBanishedToDie.stages.0.label>
+    <ColonistBanishedToDie.stages.0.description>私たちはこっそりと置き去りにした。このような場合、たいてい生き残れる道は無い。</ColonistBanishedToDie.stages.0.description>
 
-    <PrisonerAbandonedToDie.stages.0.label>囚人を見殺しにした</PrisonerAbandonedToDie.stages.0.label>
-    <PrisonerAbandonedToDie.stages.0.description>私たちはこっそりと置き去りにした。このような場合、たいてい生き残れる道は無い。</PrisonerAbandonedToDie.stages.0.description>
+    <PrisonerBanishedToDie.stages.0.label>囚人を見殺しにした</PrisonerBanishedToDie.stages.0.label>
+    <PrisonerBanishedToDie.stages.0.description>私たちはこっそりと置き去りにした。このような場合、たいてい生き残れる道は無い。</PrisonerBanishedToDie.stages.0.description>
 
-    <BondedAnimalAbandoned.stages.0.label>絆で結ばれた{0}を見捨てた</BondedAnimalAbandoned.stages.0.label>
-    <BondedAnimalAbandoned.stages.0.description>絆で結ばれた動物を、どこかわからない所に捨てた!</BondedAnimalAbandoned.stages.0.description>
+    <BondedAnimalBanished.stages.0.label>絆で結ばれた{0}を見捨てた</BondedAnimalBanished.stages.0.label>
+    <BondedAnimalBanished.stages.0.description>絆で結ばれた動物を、どこかわからない所に捨てた!</BondedAnimalBanished.stages.0.description>
+
+    <!-- Rescue quest -->
+    <FailedToRescueRelative.stages.0.label>failed to rescue {0}</FailedToRescueRelative.stages.0.label>
+    <FailedToRescueRelative.stages.0.description>We failed to rescue one of my relatives. Knowing that I could have helped him makes it even harder to cope with the death of my loved one.</FailedToRescueRelative.stages.0.description>
+
+    <RescuedRelative.stages.0.label>rescued {0}</RescuedRelative.stages.0.label>
+    <RescuedRelative.stages.0.description>We rescued one of my relatives. Now that I know he's safe, I'm finally able to breathe a sigh of relief.</RescuedRelative.stages.0.description>
 
 </LanguageData>

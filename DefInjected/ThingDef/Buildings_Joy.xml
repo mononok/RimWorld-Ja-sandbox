@@ -2,28 +2,45 @@
 <LanguageData>
 
 	<HorseshoesPin.label>輪投げのピン</HorseshoesPin.label>
-	<HorseshoesPin_Blueprint_Install.label>輪投げのピン(移動先)</HorseshoesPin_Blueprint_Install.label>
 	<HorseshoesPin.description>単純で、昔から楽しまれていた輪投げに使う蹄鉄と、地面に刺した大きなピン。競技者は離れたところから蹄鉄を投げて、よりピンの近くへ投げた者が勝利します。眼と手の協調性を鍛えるだけでなく、気分がリラックスします。</HorseshoesPin.description>
+	<HorseshoesPin_Blueprint_Install.label>輪投げのピン(移動先)</HorseshoesPin_Blueprint_Install.label>
 	<HorseshoesPin_Blueprint.label>輪投げのピン(設計)</HorseshoesPin_Blueprint.label>
 	<HorseshoesPin_Frame.label>輪投げのピン(施工)</HorseshoesPin_Frame.label>
 
+    <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
+    <HoopstoneRing.description>A simple ancient game played with a few stones and a large ring in the ground. Players toss stones from a distance and attempt to get them to land inside the ring. It's relaxing, and even trains hand-eye coordination.</HoopstoneRing.description>
+    <HoopstoneRing_Blueprint_Install.label></HoopstoneRing_Blueprint_Install.label>
+    <HoopstoneRing_Blueprint.label></HoopstoneRing_Blueprint.label>
+    <HoopstoneRing_Frame.label></HoopstoneRing_Frame.label>
+    <HoopstoneRing_Frame.description></HoopstoneRing_Frame.description>
+
 	<ChessTable.label>チェス盤</ChessTable.label>
-	<ChessTable_Blueprint_Install.label>チェス盤(移動先)</ChessTable_Blueprint_Install.label>
 	<ChessTable.description>古のゲームの王様、ここかしこで数時間楽しめる、もちろん一人でも楽しめます。</ChessTable.description>
+	<ChessTable_Blueprint_Install.label>チェス盤(移動先)</ChessTable_Blueprint_Install.label>
 	<ChessTable_Blueprint.label>チェス盤(設計)</ChessTable_Blueprint.label>
 	<ChessTable_Frame.label>チェス盤(施工)</ChessTable_Frame.label>
+	<ChessTable_Frame.description>古のゲームの王様、ここかしこで数時間楽しめる、もちろん一人でも楽しめます。</ChessTable_Frame.description>
 
 	<BilliardsTable.label>ビリヤード台</BilliardsTable.label>
 	<BilliardsTable_Blueprint_Install.label>ビリヤード台(移動先)</BilliardsTable_Blueprint_Install.label>
 	<BilliardsTable.description>表面が柔らかな布でくるまれた台です。色んなビリヤードゲームを楽しめます。</BilliardsTable.description>
 	<BilliardsTable_Blueprint.label>ビリヤード台(設計)</BilliardsTable_Blueprint.label>
 	<BilliardsTable_Frame.label>ビリヤード台(施工)</BilliardsTable_Frame.label>
+	<BilliardsTable_Frame.description>表面が柔らかな布でくるまれた台です。色んなビリヤードゲームを楽しめます。</BilliardsTable_Frame.description>
+
+    <PokerTable.label>poker table</PokerTable.label>
+    <PokerTable.description>A table designed for playing gambling card games, mainly poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
+	<PokerTable_Blueprint_Install.label></PokerTable_Blueprint_Install.label>
+	<PokerTable_Blueprint.label></PokerTable_Blueprint.label>
+	<PokerTable_Frame.label></PokerTable_Frame.label>
+    <PokerTable_Frame.description></PokerTable_Frame.description>
 
 	<TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
 	<TubeTelevision_Blueprint_Install.label>ブラウン管テレビ(移動先)</TubeTelevision_Blueprint_Install.label>
 	<TubeTelevision.description>ブラウン管に映し出される動画と音楽。RimWorldでも、しばしば旧式の送信施設から、少なくとも、ほんのわずかな映像は送られてきます。</TubeTelevision.description>
 	<TubeTelevision_Blueprint.label>ブラウン管テレビ(設計)</TubeTelevision_Blueprint.label>
 	<TubeTelevision_Frame.label>ブラウン管テレビ(施工)</TubeTelevision_Frame.label>
+	<TubeTelevision_Frame.description>ブラウン管に映し出される動画と音楽。RimWorldでも、しばしば旧式の送信施設から、少なくとも、ほんのわずかな映像は送られてきます。</TubeTelevision_Frame.description>
 
 	<FlatscreenTelevision.label>液晶テレビ</FlatscreenTelevision.label>
 	<FlatscreenTelevision_Blueprint_Install.label>液晶テレビ(移動先)</FlatscreenTelevision_Blueprint_Install.label>

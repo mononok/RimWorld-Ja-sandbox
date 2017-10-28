@@ -9,7 +9,7 @@
 
 	<FireStartingSpree.label>放火魔</FireStartingSpree.label>
 	<FireStartingSpree.beginLetterLabel>放火魔</FireStartingSpree.beginLetterLabel>
-	<FireStartingSpree.beginLetter>{0}は やたらめったら放火してします。</FireStartingSpree.beginLetter>
+	<FireStartingSpree.beginLetter>{0}は やたらめったら放火します。</FireStartingSpree.beginLetter>
 	<FireStartingSpree.recoveryMessage>{0}は もう放火することはありません。</FireStartingSpree.recoveryMessage>
 	<FireStartingSpree.baseInspectLine>精神状態: 放火魔</FireStartingSpree.baseInspectLine>
 
@@ -23,6 +23,24 @@
   <BingingDrugExtreme.label>薬物中毒</BingingDrugExtreme.label>
   <BingingDrugExtreme.baseInspectLine>精神状態: {0}薬物中毒</BingingDrugExtreme.baseInspectLine>
 
+    <Jailbreaker.label>inducing prisoner to escape.</Jailbreaker.label>
+    <Jailbreaker.beginLetterLabel>jailbreaker</Jailbreaker.beginLetterLabel>
+    <Jailbreaker.beginLetter>{0} has a mental breakdown and is going to induce prisoners to escape.</Jailbreaker.beginLetter>
+    <Jailbreaker.recoveryMessage>{0} is no longer inducing prisoners to escape.</Jailbreaker.recoveryMessage>
+    <Jailbreaker.baseInspectLine>Mental state: Jailbreaker</Jailbreaker.baseInspectLine>
+
+    <Slaughterer.label>slaughterer</Slaughterer.label>
+    <Slaughterer.beginLetterLabel>slaughterer</Slaughterer.beginLetterLabel>
+    <Slaughterer.beginLetter>{0} has a mental breakdown and is going to vent HIS anger on your animals.</Slaughterer.beginLetter>
+    <Slaughterer.recoveryMessage>{0} is no longer slaughtering random animals.</Slaughterer.recoveryMessage>
+    <Slaughterer.baseInspectLine>Mental state: Slaughterer</Slaughterer.baseInspectLine>
+
+    <MurderousRage.label>murderous rage</MurderousRage.label>
+    <MurderousRage.beginLetterLabel>murderous rage</MurderousRage.beginLetterLabel>
+    <MurderousRage.beginLetter>{0} is in a murderous rage. HECAP is going to kill {1}.</MurderousRage.beginLetter>
+    <MurderousRage.recoveryMessage>{0} is no longer in a murderous rage.</MurderousRage.recoveryMessage>
+    <MurderousRage.baseInspectLine>Mental state: Murderous rage</MurderousRage.baseInspectLine>
+
   <BingingDrugMajor.label>薬物に溺れる</BingingDrugMajor.label>
   <BingingDrugMajor.baseInspectLine>精神状態: {0}薬物依存</BingingDrugMajor.baseInspectLine>
 
@@ -31,6 +49,28 @@
 	<WanderPsychotic.beginLetter>{0}は 精神を病んで あたりをうろついています。</WanderPsychotic.beginLetter>
 	<WanderPsychotic.recoveryMessage>{0}は 病んで フラフラすることはありません。</WanderPsychotic.recoveryMessage>
 	<WanderPsychotic.baseInspectLine>精神状態: 精神衰弱</WanderPsychotic.baseInspectLine>
+
+    <Tantrum.label>tantrum</Tantrum.label>
+    <Tantrum.beginLetterLabel>tantrum</Tantrum.beginLetterLabel>
+    <Tantrum.beginLetter>{0} is having a tantrum.</Tantrum.beginLetter>
+    <Tantrum.recoveryMessage>{0} is no longer having a tantrum.</Tantrum.recoveryMessage>
+    <Tantrum.baseInspectLine>Mental state: Tantrum</Tantrum.baseInspectLine>
+
+    <TargetedTantrum.beginLetter>{0} is having a tantrum. HECAP is going to destroy {1}.</TargetedTantrum.beginLetter>
+
+    <BedroomTantrum.beginLetter>{0} is having a tantrum. HECAP is going to smash furniture in HIS room.</BedroomTantrum.beginLetter>
+
+    <SadisticRage.label>sadistic rage</SadisticRage.label>
+    <SadisticRage.beginLetterLabel>sadistic rage</SadisticRage.beginLetterLabel>
+    <SadisticRage.beginLetter>{0} is in a sadistic rage. HECAP is going to vent HIS anger on the prisoners.</SadisticRage.beginLetter>
+    <SadisticRage.recoveryMessage>{0} is no longer in a sadistic rage.</SadisticRage.recoveryMessage>
+    <SadisticRage.baseInspectLine>Mental state: Sadistic rage</SadisticRage.baseInspectLine>
+
+    <CorpseObsession.label>corpse obsession</CorpseObsession.label>
+    <CorpseObsession.beginLetterLabel>corpse obsession</CorpseObsession.beginLetterLabel>
+    <CorpseObsession.beginLetter>{0} is having a corpse obsession. HECAP is going to dig up a corpse.</CorpseObsession.beginLetter>
+    <CorpseObsession.recoveryMessage>{0} is no longer having a corpse obsession.</CorpseObsession.recoveryMessage>
+    <CorpseObsession.baseInspectLine>Mental state: Corpse obsession</CorpseObsession.baseInspectLine>
 
 	<!-- Mental breaks: minor -->
 
@@ -51,6 +91,15 @@
 	<WanderOwnRoom.beginLetter>{0}は HISの部屋に隠れて 出てきません。</WanderOwnRoom.beginLetter>
 	<WanderOwnRoom.recoveryMessage>{0}は もうHIM部屋に ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
 	<WanderOwnRoom.baseInspectLine>精神状態: ひきこもり</WanderOwnRoom.baseInspectLine>
+
+    <InsultingSpree.label>insulting spree</InsultingSpree.label>
+    <InsultingSpree.beginLetterLabel>insulting spree</InsultingSpree.beginLetterLabel>
+    <InsultingSpree.beginLetter>{0} is on an insulting spree.</InsultingSpree.beginLetter>
+    <InsultingSpree.recoveryMessage>{0} is no longer on an insulting spree.</InsultingSpree.recoveryMessage>
+    <InsultingSpree.baseInspectLine>Mental state: Insulting spree</InsultingSpree.baseInspectLine>
+
+    <TargetedInsultingSpree.beginLetter>{0} is on an insulting spree against {1}.</TargetedInsultingSpree.beginLetter>
+    <TargetedInsultingSpree.baseInspectLine>Mental state: Insulting spree against {0}</TargetedInsultingSpree.baseInspectLine>
 
   <ManhunterPermanent.label>殺人鬼</ManhunterPermanent.label>
   <ManhunterPermanent.beginLetterLabel>殺人鬼</ManhunterPermanent.beginLetterLabel>

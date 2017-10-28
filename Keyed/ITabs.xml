@@ -11,6 +11,7 @@
 	<TabGear>装備</TabGear>
     <TabNeeds>欲求</TabNeeds>
 	<TabStorage>保管</TabStorage>
+    <TabShells>装弾</TabShells>
 	<TabHealth>健康</TabHealth>
 	<TabRace>種族</TabRace>
 	<TabBasics>Basics</TabBasics>
@@ -18,6 +19,7 @@
 	<TabRecords>記録</TabRecords>
 	<TabArt>芸術</TabArt>
 	<TabSocial>社交</TabSocial>
+    <TabCombat>戦闘</TabCombat>
 
 
 	<!-- Bills tab  -->
@@ -35,11 +37,6 @@
 	<DoctorsCare>医者に 診せます</DoctorsCare>
 	<GetsMedicine>薬を 与えます</GetsMedicine>
 	<ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
-	<PrisonerNoInteraction>無視</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>友好的な会話</PrisonerFriendlyChat>
-    <PrisonerAttemptRecruit>入村を勧誘</PrisonerAttemptRecruit>
-	<PrisonerRelease>解放</PrisonerRelease>
-	<PrisonerExecution>処刑</PrisonerExecution>
   <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
 
 

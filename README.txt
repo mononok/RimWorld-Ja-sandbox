@@ -2,9 +2,9 @@ RimWorld-Ja-sandbox
 ===========
 Ver:17.02
 Original: alpha17.1557 rev1153
-Description: 【確認済】alpha 17 翻訳版です。
+Description: 【未確認】alpha 18 翻訳作業中で動作の確認は限定的です。エラーが起きないことを確認していますが、未翻訳の箇所は多いです。
 ToDo:
-Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを削除してからコピーします。上書きすると起動しなくなるとの報告があります。
+Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを"削除"してからコピーします。上書きすると起動しなくなります。
 
 Info: ここはLudeon/RimWorldの日本語化MODファイルです。公式からリリースされた時の日本語ファイルは、ひとつ前のバージョンになっています。
 （つまり日本語が古い）

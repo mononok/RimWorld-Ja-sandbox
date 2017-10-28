@@ -47,8 +47,15 @@
 	<DesignatorRotateRight.label>時計回りに回転</DesignatorRotateRight.label>
 
     <!-- Modifiers -->
-    <ModifierIncrement10x.label></ModifierIncrement10x.label>
-    <ModifierIncrement100x.label></ModifierIncrement100x.label>
-    <QueueOrder.label></QueueOrder.label>
+    <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
+    <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
+    <QueueOrder.label>queue order</QueueOrder.label>
+    <TickOnce.label>tick once</TickOnce.label>
+    <ToggleGodMode.label>toggle god mode</ToggleGodMode.label>
+    <ToggleDebugLog.label>toggle debug log</ToggleDebugLog.label>
+    <ToggleDebugActionsMenu.label>toggle debug actions menu</ToggleDebugActionsMenu.label>
+    <ToggleDebugLogMenu.label>toggle debug log menu</ToggleDebugLogMenu.label>
+    <ToggleDebugInspector.label>toggle debug inspector</ToggleDebugInspector.label>
+    <ToggleDebugSettingsMenu.label>toggle debug settings menu</ToggleDebugSettingsMenu.label>
 
 </LanguageData>

@@ -32,22 +32,22 @@
 	<TrapDeadfall_Blueprint.label>デッドフォール(設計)</TrapDeadfall_Blueprint.label>
 	<TrapDeadfall_Frame.label>デッドフォール(施工)</TrapDeadfall_Frame.label>
 
-	<TrapIED_HighExplosive.label>IED trap</TrapIED_HighExplosive.label>
-	<TrapIED_HighExplosive.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIED_HighExplosive.description>
+	<TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
+	<TrapIED_HighExplosive.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</TrapIED_HighExplosive.description>
 
 	<TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
 	<TrapIED_Incendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIED_Incendiary.description>
 	<TrapIED_Incendiary_Blueprint.label>IED 焼夷トラップ(設計)</TrapIED_Incendiary_Blueprint.label>
 	<TrapIED_Incendiary_Frame.label>IED 焼夷トラップ(施工)</TrapIED_Incendiary_Frame.label>
 
-    <TrapIED_EMP.label>IED EMP trap</TrapIED_EMP.label>
-    <TrapIED_EMP.description>A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanical creatures for a few seconds. Can be triggered even by those who are unaffacted by EMP explosions.</TrapIED_EMP.description>
+    <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
+    <TrapIED_EMP.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</TrapIED_EMP.description>
 
-	<TrapIED_Firefoam.label>IDC fireform trap</TrapIED_Firefoam.label>
-	<TrapIED_Firefoam.description>When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself.</TrapIED_Firefoam.description>
+	<TrapIED_Firefoam.label>IED 消化剤トラップ</TrapIED_Firefoam.label>
+	<TrapIED_Firefoam.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</TrapIED_Firefoam.description>
 
     <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
-    <TrapIED_AntigrainWarhead.description>A tiny warhead connected to a homemade trigger. Creates a huge explosion and starts fires around itself when disturbed.</TrapIED_AntigrainWarhead.description>
+    <TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます</TrapIED_AntigrainWarhead.description>
 
 <!--
 	<Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>

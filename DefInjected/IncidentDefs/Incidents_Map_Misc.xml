@@ -25,13 +25,13 @@
 
     <CaravanRequest.label>キャラバン隊リクエスト</CaravanRequest.label>
 
-    <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
-    <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
-    <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
+    <MeteoriteImpact.label>隕石衝突</MeteoriteImpact.label>
+    <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+    <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました。それは{0}の塊を残しました。</MeteoriteImpact.letterText>
 
-    <HerdMigration.label>herd migration</HerdMigration.label>
-    <HerdMigration.letterLabel>Herd migration: {0}</HerdMigration.letterLabel>
-    <HerdMigration.letterText>A large herd of {0} is passing through the area. They won't attack unless provoked.</HerdMigration.letterText>
+    <HerdMigration.label>大群の移動</HerdMigration.label>
+    <HerdMigration.letterLabel>大群の移動: {0}</HerdMigration.letterLabel>
+    <HerdMigration.letterText>{0}の大きな群れが、このエリアを通過しています。 彼らを怒らせ無ければ攻撃してこないでしょう。</HerdMigration.letterText>
 
 	<!--========================== Bad ===============================-->
     <PsychicDrone.label>サイコドローン</PsychicDrone.label>
@@ -54,7 +54,7 @@
 
     <Aurora.label>オーロラ</Aurora.label>
     <Aurora.letterLabel>オーロラ</Aurora.letterLabel>
-    <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
+    <Aurora.letterText>美しいオーロラが空を照らしています。\n\n波打つ色の帯が、外でそれを見ている者のムードを盛り上げ、夜空を明るくさせるでしょう。</Aurora.letterText>
 
     <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
     <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>
@@ -62,7 +62,7 @@
 
     <Tornado.label>竜巻</Tornado.label>
     <Tornado.letterLabel>竜巻</Tornado.letterLabel>
-    <Tornado.letterText>A tornado has formed!\n\nIt will cut a path of destruction through the area.</Tornado.letterText>
+    <Tornado.letterText>竜巻が発生した!\n\nそれは、このエリアに破壊の道筋を切り開くでしょう。</Tornado.letterText>
 
     <ShortCircuit.label>電力線ショート</ShortCircuit.label>
 

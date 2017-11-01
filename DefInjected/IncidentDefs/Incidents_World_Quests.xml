@@ -3,22 +3,22 @@
 
 	<QuestBanditCamp.label>襲撃者狩りの好機</QuestBanditCamp.label>
 	<QuestBanditCamp.letterLabel>襲撃者狩りの好機</QuestBanditCamp.letterLabel>
-	<QuestBanditCamp.letterText>{0}、{2}の{1}が、我々に要請メッセージを送って来ました。\n\nどうやら、キャンプ地そばに陣取った襲撃者達が、彼らのキャラバン隊を襲撃し続けているらしく、彼らは、我々に襲撃者の排除を要請しています、これが意味することは、全ての敵とタレットの排除です。\n\nもし成功すれば、彼らとの関係は改善するでしょうし、彼らも報奨を送ってくるでしょう:\n\n{3}</QuestBanditCamp.letterText>
+	<QuestBanditCamp.letterText>{0}、{2}の{1}が、我々に要請メッセージを送ってきました。\n\nどうやら、キャンプ地そばに陣取った襲撃者達が、彼らのキャラバン隊を襲撃し続けているらしく、彼らは、我々に襲撃者の排除を要請しています、これが意味することは、全ての敵とタレットの排除です。\n\nもし成功すれば、彼らとの関係は改善するでしょうし、彼らも報奨を送ってくるでしょう:\n\n{3}</QuestBanditCamp.letterText>
 
 	<QuestItemStash.label>宝探しの好機</QuestItemStash.label>
 	<QuestItemStash.letterLabel>宝探しの好機</QuestItemStash.letterLabel>
-	<QuestItemStash.letterText>{0}, {2}の{1}が、我々に、メッセージを送って来ました。\n\n彼らは、所得として貴重なアイテムのコレクションが、我々から遠くない所に放置されている事を突き止めました。コレクション内容:\n\n{3}\n\n残念なことに、気の長い話ではなく、我々がしなくとも、{4}日も経てば、他の何者かが、アイテムを回収してしまうでしょう。\n\n貴重な物資は危険と隣り合わせになりがちです、十分に注意を\n\n{5}</QuestItemStash.letterText>
+	<QuestItemStash.letterText>{0}, {2}の{1}が、我々に、メッセージを送ってきました。\n\n彼らは、所得として貴重なアイテムのコレクションが、我々から遠くない所に放置されている事を突き止めました。コレクション内容:\n\n{3}\n\n残念なことに、気の長い話ではなく、我々がしなくとも、{4}日も経てば、他の何者かが、アイテムを回収してしまうでしょう。\n\n貴重な物資は危険と隣り合わせになりがちです、十分に注意を\n\n{5}</QuestItemStash.letterText>
 
-    <QuestDownedRefugee.label>incapacitated refugee opportunity</QuestDownedRefugee.label>
-	<QuestDownedRefugee.letterLabel>Incapacitated refugee opportunity</QuestDownedRefugee.letterLabel>
-	<QuestDownedRefugee.letterText>{0} contacts you on radio and requests help. HECAP is wounded and unable to move. Without your help, HE will die within {1} days.\n\nIt may be dangerous there, so beware.</QuestDownedRefugee.letterText>
+    <QuestDownedRefugee.label>行き倒れの難民</QuestDownedRefugee.label>
+	<QuestDownedRefugee.letterLabel>行き倒れの難民</QuestDownedRefugee.letterLabel>
+	<QuestDownedRefugee.letterText>{0}は、我々に無線で助けを求めてきました。HECAPは怪我していて動けません。貴方の助け無しには、HEは{1}日以内に死んでしまうでしょう。\n\nそこは恐らく危険な場所で、用心してください。</QuestDownedRefugee.letterText>
 
-    <QuestPrisonerWillingToJoin.label>prisoner rescue opportunity</QuestPrisonerWillingToJoin.label>
-    <QuestPrisonerWillingToJoin.letterLabel>Prisoner rescue opportunity</QuestPrisonerWillingToJoin.letterLabel>
-    <QuestPrisonerWillingToJoin.letterText>A prisoner being held by {0} has managed to steal a radio and call you!\n\nNAME is being held at a camp nearby under armed guard. Rescue HIM, and HE will join your colony. HECAP is a {1}-year-old {2}.</QuestPrisonerWillingToJoin.letterText>
+    <QuestPrisonerWillingToJoin.label>囚人解放の機会</QuestPrisonerWillingToJoin.label>
+    <QuestPrisonerWillingToJoin.letterLabel>囚人解放の機会</QuestPrisonerWillingToJoin.letterLabel>
+    <QuestPrisonerWillingToJoin.letterText>{0}に捕まった囚人が、どうにか無線を盗んで貴方を呼び出しています!\n\nNAMEは、近くのキャンプで武装した見張りの下に捕らえられています。HIM助ければ、HEは貴方のコロニーに加わるでしょう。HECAPは、{1}歳の{2}です。</QuestPrisonerWillingToJoin.letterText>
 
-    <QuestPeaceTalks.label>peace talks opportunity</QuestPeaceTalks.label>
-    <QuestPeaceTalks.letterLabel>Peace talks opportunity</QuestPeaceTalks.letterLabel>
-    <QuestPeaceTalks.letterText>NAME, {0} of {1}, has sent us a message. HECAP wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction, but beware - a poor negotiator can cause more harm than good and even anger them.\n\nThe offer will expire after {2} days.</QuestPeaceTalks.letterText>
+    <QuestPeaceTalks.label>和平交渉の機会</QuestPeaceTalks.label>
+    <QuestPeaceTalks.letterLabel>和平交渉の機会</QuestPeaceTalks.letterLabel>
+    <QuestPeaceTalks.letterText>NAME {1}の{0}が、我々にメッセージを送ってきました。HECAPは近くの場所で我々と会談したがっています。\n\nこれは、彼らの部族との関係を、好転させる素晴らしい機会となるかもしれませんが、用心して下さい - 下手な交渉人は好転するどころか、より悪影響を引き起こし、彼らが怒り出すことになります。\n\nこの提案は、{2}日後に時間切れとなります。</QuestPeaceTalks.letterText>
 
 </LanguageData>

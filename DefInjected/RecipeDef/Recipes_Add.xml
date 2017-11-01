@@ -17,9 +17,9 @@
     <Make_Apparel_CowboyHat.description>カウボーイハットを縫う。</Make_Apparel_CowboyHat.description>
     <Make_Apparel_CowboyHat.jobString>カウボーイハットを縫製中</Make_Apparel_CowboyHat.jobString>
 
-	<Make_Apparel_BowlerHat.label>ボウラーハットを作る</Make_Apparel_BowlerHat.label>
-    <Make_Apparel_BowlerHat.description>ボウラーハットを縫う。</Make_Apparel_BowlerHat.description>
-	<Make_Apparel_BowlerHat.jobString>ボウラーハットを製作中</Make_Apparel_BowlerHat.jobString>
+	<Make_Apparel_BowlerHat.label>山高帽を作る</Make_Apparel_BowlerHat.label>
+    <Make_Apparel_BowlerHat.description>山高帽を縫う。</Make_Apparel_BowlerHat.description>
+	<Make_Apparel_BowlerHat.jobString>山高帽を製作中</Make_Apparel_BowlerHat.jobString>
 
     <Make_Apparel_Tuque.label>ニット帽を縫う</Make_Apparel_Tuque.label>
     <Make_Apparel_Tuque.description>ニット帽を縫う。</Make_Apparel_Tuque.description>
@@ -53,17 +53,17 @@
     <Make_Apparel_TribalA.description>一枚布を縫う。</Make_Apparel_TribalA.description>
     <Make_Apparel_TribalA.jobString>一枚布を縫製中</Make_Apparel_TribalA.jobString>
 
-    <Make_Apparel_TribalHeaddress.label>tribal headdressを作る</Make_Apparel_TribalHeaddress.label>
-    <Make_Apparel_TribalHeaddress.description>tribal headdressを作る</Make_Apparel_TribalHeaddress.description>
-    <Make_Apparel_TribalHeaddress.jobString>tribal headdressを製作中</Make_Apparel_TribalHeaddress.jobString>
+    <Make_Apparel_TribalHeaddress.label>部族の髪飾りを作る</Make_Apparel_TribalHeaddress.label>
+    <Make_Apparel_TribalHeaddress.description>部族の髪飾りを作る</Make_Apparel_TribalHeaddress.description>
+    <Make_Apparel_TribalHeaddress.jobString>部族の髪飾りを製作中</Make_Apparel_TribalHeaddress.jobString>
 
-    <Make_Apparel_WarMask.label>war maskを作る</Make_Apparel_WarMask.label>
-    <Make_Apparel_WarMask.description>war maskを作る</Make_Apparel_WarMask.description>
-    <Make_Apparel_WarMask.jobString>war maskを製作中</Make_Apparel_WarMask.jobString>
+    <Make_Apparel_WarMask.label>ウォーマスクを作る</Make_Apparel_WarMask.label>
+    <Make_Apparel_WarMask.description>ウォーマスクを作る</Make_Apparel_WarMask.description>
+    <Make_Apparel_WarMask.jobString>ウォーマスクを製作中</Make_Apparel_WarMask.jobString>
 
-    <Make_Apparel_WarVeil.label>war veilを作る</Make_Apparel_WarVeil.label>
-    <Make_Apparel_WarVeil.description>war veilを作る</Make_Apparel_WarVeil.description>
-    <Make_Apparel_WarVeil.jobString>war veilを製作中</Make_Apparel_WarVeil.jobString>
+    <Make_Apparel_WarVeil.label>ウォーヴェイルを作る</Make_Apparel_WarVeil.label>
+    <Make_Apparel_WarVeil.description>ウォーヴェイルを作る</Make_Apparel_WarVeil.description>
+    <Make_Apparel_WarVeil.jobString>ウォーヴェイルを製作中</Make_Apparel_WarVeil.jobString>
 
     <Make_MeleeWeapon_Gladius.label>グラディウスを作る</Make_MeleeWeapon_Gladius.label>
     <Make_MeleeWeapon_Gladius.description>グラディウスを作る</Make_MeleeWeapon_Gladius.description>
@@ -188,21 +188,21 @@
     <Make_Gun_Minigun.description>ガトリング銃を作る。</Make_Gun_Minigun.description>
     <Make_Gun_Minigun.jobString>ガトリング銃を製作中</Make_Gun_Minigun.jobString>
 
-    <Make_Shell_HighExplosive.label>high-explosive shellを作る</Make_Shell_HighExplosive.label>
-    <Make_Shell_HighExplosive.description>high-explosiveを作る。</Make_Shell_HighExplosive.description>
-    <Make_Shell_HighExplosive.jobString>high-explosiveを製作中</Make_Shell_HighExplosive.jobString>
+    <Make_Shell_HighExplosive.label>高性能炸薬弾(HE)を作る</Make_Shell_HighExplosive.label>
+    <Make_Shell_HighExplosive.description>高性能炸薬弾(HE)を作る。</Make_Shell_HighExplosive.description>
+    <Make_Shell_HighExplosive.jobString>高性能炸薬弾(HE)を製作中</Make_Shell_HighExplosive.jobString>
 
-    <Make_Shell_Incendiary.label>incendiary shellを作る</Make_Shell_Incendiary.label>
-    <Make_Shell_Incendiary.description>incendiary shellを作る。</Make_Shell_Incendiary.description>
-    <Make_Shell_Incendiary.jobString>incendiary shellを制作中</Make_Shell_Incendiary.jobString>
+    <Make_Shell_Incendiary.label>焼夷弾を作る</Make_Shell_Incendiary.label>
+    <Make_Shell_Incendiary.description>焼夷弾を作る。</Make_Shell_Incendiary.description>
+    <Make_Shell_Incendiary.jobString>焼夷弾を制作中</Make_Shell_Incendiary.jobString>
 
-    <Make_Shell_EMP.label>EMP shellを作る</Make_Shell_EMP.label>
-    <Make_Shell_EMP.description>EMP shellを作る。</Make_Shell_EMP.description>
-    <Make_Shell_EMP.jobString>EMP shellを制作中</Make_Shell_EMP.jobString>
+    <Make_Shell_EMP.label>EMP弾を作る</Make_Shell_EMP.label>
+    <Make_Shell_EMP.description>EMP弾を作る。</Make_Shell_EMP.description>
+    <Make_Shell_EMP.jobString>EMP弾を制作中</Make_Shell_EMP.jobString>
 
-   <Make_Shell_Firefoam.label>fireform shellを作る</Make_Shell_Firefoam.label>
-   <Make_Shell_Firefoam.description>fireform shellを作る。</Make_Shell_Firefoam.description>
-   <Make_Shell_Firefoam.jobString>fireform shellを制作中</Make_Shell_Firefoam.jobString>
+   <Make_Shell_Firefoam.label>fireform弾を作る</Make_Shell_Firefoam.label>
+   <Make_Shell_Firefoam.description>fireform弾を作る。</Make_Shell_Firefoam.description>
+   <Make_Shell_Firefoam.jobString>fireform弾を制作中</Make_Shell_Firefoam.jobString>
 
 	<Make_GoJuice.label>ゴージュースを調合する</Make_GoJuice.label>
 	<Make_GoJuice.description>ゴージュースを調合する。</Make_GoJuice.description>

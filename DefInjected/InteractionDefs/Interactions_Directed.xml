@@ -21,8 +21,8 @@
 		<trans>logentry->[other_nameShortIndef] からの勧誘に耳を傾けている。</trans>
 	</rep>
 
-    <SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
-    <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->Induced [other_nameShortIndef] to escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
-    <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->Was induced to escape by [other_nameShortIndef]</SparkJailbreak.logRulesRecipient.rulesStrings.0>
+    <SparkJailbreak.label>脱獄の口火を切る</SparkJailbreak.label>
+    <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef] に脱走をそそのかした。</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+    <SparkJailbreak.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef] から脱走を持ちかけられた。</SparkJailbreak.logRulesRecipient.rulesStrings.0>
 
 </LanguageData>

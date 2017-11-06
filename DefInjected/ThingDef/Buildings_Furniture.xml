@@ -37,7 +37,10 @@
 	<HospitalBed_Frame.description>怪我人の為に考えられた特製の病院用ベッドです。治療の成功率が良くなります。</HospitalBed_Frame.description>
 
     <Bedroll.label>寝袋</Bedroll.label>
-    <Bedroll.description>地面に置くシンプルなベッド、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さは無い。</Bedroll.description>
+    <Bedroll.description>地面に置くシンプルな寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</Bedroll.description>
+
+    <BedrollDouble.label>ダブルの寝袋</BedrollDouble.label>
+    <BedrollDouble.description>地面に置くシンプルなダブルサイズの寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</BedrollDouble.description>
 
     <!--=========================== Animal beds ===============================-->
     <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
@@ -83,6 +86,21 @@
 	<Armchair_Frame.description>大きく、やわらかで、心地よく座れるシートは、多くの安息をもたらすでしょう。</Armchair_Frame.description>
 
 	<!--======================= Tables ==============================-->
+	<EndTable.label>エンドテーブル</EndTable.label>
+	<EndTable.description>小型のベッドサイドテーブルです。近くにあるベッドをちょっとだけ快適にさせます。それらの頭部分の横に直接置かなければなりません。同じベッドに一つより多くのエンドテーブルを置いても効果はありません。</EndTable.description>
+	<EndTable_Blueprint.label>エンドテーブル(設計)</EndTable_Blueprint.label>
+	<EndTable_Frame.label>エンドテーブル(施工)</EndTable_Frame.label>
+
+	<Table1x2c.label>テーブル(1x2)</Table1x2c.label>
+	<Table1x2c.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table1x2c.description>
+	<Table1x2c_Blueprint.label>テーブル(1x2)(設計)</Table1x2c_Blueprint.label>
+	<Table1x2c_Frame.label>テーブル(1x2)(施工)</Table1x2c_Frame.label>
+
+	<Table3x3c.label>テーブル(3x3)</Table3x3c.label>
+	<Table3x3c.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table3x3c.description>
+	<Table3x3c_Blueprint.label>テーブル(3x3)(設計)</Table3x3c_Blueprint.label>
+	<Table3x3c_Frame.label>テーブル(3x3)(施工)</Table3x3c_Frame.label>
+
 	<TableShort.label>テーブル(短)</TableShort.label>
 	<TableShort.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。</TableShort.description>
 	<TableShort_Blueprint.label>テーブル(短)(設計)</TableShort_Blueprint.label>
@@ -149,5 +167,12 @@
 	<Shelf_Blueprint.label>ロッカー(設計)</Shelf_Blueprint.label>
 	<Shelf_Frame.label>ロッカー(施工)</Shelf_Frame.label>
 	<Shelf_Frame.description>この中に保存されたアイテムは、ロッカーが外気に触れていても劣化しません。</Shelf_Frame.description>
+
+	<Dresser.label>タンス</Dresser.label>
+	<Dresser_Blueprint_Install.label>タンス(移動先)</Dresser_Blueprint_Install.label>
+	<Dresser.description>どのベッドでもそばに置くことで僅かな快適性ボーナスを与えてくれます。同じベッドに一つより多くのタンスを置いても効果はありません。</Dresser.description>
+	<Dresser_Blueprint.label>タンス(設計)</Dresser_Blueprint.label>
+	<Dresser_Frame.label>タンス(施工)</Dresser_Frame.label>
+	<Dresser_Frame.description>どのベッドでもそばに置くことで僅かな快適性ボーナスを与えてくれます。同じベッドに一つより多くのタンスを置いても効果はありません。</Dresser_Frame.description>
 
 </LanguageData>

@@ -13,8 +13,11 @@
 	<PowerSwitch_Frame.label>ブレーカスイッチ(施工)</PowerSwitch_Frame.label>
 	<PowerSwitch_Frame.description>電気を入り／切りするスイッチです。</PowerSwitch_Frame.description>
 
-	<FueledGenerator.label>火力発電</FueledGenerator.label>
-	<FueledGenerator.description>木を燃やして発電します。木は手でくべなければなりません。</FueledGenerator.description>
+	<WoodFiredGenerator.label>火力発電(樹)</WoodFiredGenerator.label>
+	<WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</WoodFiredGenerator.description>
+
+	<ChemfuelPoweredGenerator.label>火力発電(液化燃料) </ChemfuelPoweredGenerator.label>
+	<ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。 </ChemfuelPoweredGenerator.description>
 
 	<Battery.label>バッテリー</Battery.label>
 	<Battery_Blueprint_Install.label>バッテリー(移動先)</Battery_Blueprint_Install.label>

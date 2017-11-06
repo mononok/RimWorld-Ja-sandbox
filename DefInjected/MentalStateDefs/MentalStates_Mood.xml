@@ -56,9 +56,17 @@
     <Tantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</Tantrum.recoveryMessage>
     <Tantrum.baseInspectLine>精神状態: 癇癪持ち</Tantrum.baseInspectLine>
 
+    <TargetedTantrum.label>癇癪(人)</TargetedTantrum.label>
+    <TargetedTantrum.beginLetterlabel>癇癪(人)</TargetedTantrum.beginLetterlabel>
     <TargetedTantrum.beginLetter>{0}は 癇癪をおこして {1}を壊そうとしている</TargetedTantrum.beginLetter>
+    <TargetedTantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</TargetedTantrum.recoveryMessage>
+    <TargetedTantrum.baseInspectLine>精神状態: 癇癪持ち(人)</TargetedTantrum.baseInspectLine>
 
+    <BedroomTantrum.label>癇癪(寝室)</BedroomTantrum.label>
+    <BedroomTantrum.beginLetterlabel>癇癪(寝室)</BedroomTantrum.beginLetterlabel>
     <BedroomTantrum.beginLetter>{0}は 癇癪をおこして HIS部屋の家具を壊そうとしている</BedroomTantrum.beginLetter>
+    <BedroomTantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</BedroomTantrum.recoveryMessage>
+    <BedroomTantrum.baseInspectLine>精神状態: 癇癪持ち(寝室)</BedroomTantrum.baseInspectLine>
 
     <SadisticRage.label>サディスティックな激情</SadisticRage.label>
     <SadisticRage.beginLetterLabel>サディスティックな激情</SadisticRage.beginLetterLabel>
@@ -98,6 +106,8 @@
     <InsultingSpree.recoveryMessage>{0}は もう八つ当たりをやめました。</InsultingSpree.recoveryMessage>
     <InsultingSpree.baseInspectLine>精神状態: 八つ当たり</InsultingSpree.baseInspectLine>
 
+    <TargetedInsultingSpree.label>八つ当たり(人物)</TargetedInsultingSpree.label>
+    <TargetedInsultingSpree.beginLetterlabel>八つ当たり(人物)</TargetedInsultingSpree.beginLetterlabel>
     <TargetedInsultingSpree.beginLetter>{0}は {1}へ八つ当たりをぶつけている。</TargetedInsultingSpree.beginLetter>
     <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への八つ当たり</TargetedInsultingSpree.baseInspectLine>
 

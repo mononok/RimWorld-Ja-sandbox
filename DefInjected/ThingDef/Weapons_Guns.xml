@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<!--
-	<Bullet_Revolber.label>拳銃弾</Bullet_Revolber.label>
-    <Gun_Revolber.label>ピストル</Gun_Revolber.label>
-    <Gun_Revolber.description>古式拳銃、威力も弱く、射程も短いが、素早く動けます。</Gun_Revolber.description>
--->
+	<Bullet_Revolver.label>リボルバー弾</Bullet_Revolver.label>
+    <Gun_Revolver.label>リボルバー</Gun_Revolver.label>
+    <Gun_Revolver.description>古式ダブルアクション拳銃、威力も弱く、中射程、素早く抜けます。</Gun_Revolver.description>
+
+	<Bullet_Autopistol.label>自動式銃弾</Bullet_Autopistol.label>
+    <Gun_Autopistol.label>自動式拳銃</Gun_Autopistol.label>
+    <Gun_Autopistol.description>古式自動式拳銃、威力も弱く、小射程、素早く抜けます。</Gun_Autopistol.description>
 
   <!-- ==================== T-9 incendiary launcher ========================== -->
   <Bullet_IncendiaryLauncher.label>火炎筒</Bullet_IncendiaryLauncher.label>

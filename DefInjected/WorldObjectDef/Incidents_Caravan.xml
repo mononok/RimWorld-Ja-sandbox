@@ -13,11 +13,12 @@
   <DestroyedFactionBase.label>破壊された派閥の本拠地</DestroyedFactionBase.label>
   <DestroyedFactionBase.description>ある一つの派閥の、破壊された本拠地</DestroyedFactionBase.description>
 
-  <JourneyDestination.label>最終目的地</JourneyDestination.label>
-  <JourneyDestination.description>この惑星から脱出する手助けとなる、秘匿された宇宙船の位置</JourneyDestination.description>
+  <EscapeShip.label>着陸した宇宙船</EscapeShip.label>
+  <EscapeShip.description>あなたをこの惑星から脱出させることのできる秘匿された宇宙船の位置座標</EscapeShip.description>
 
   <AttackedCaravan.label>戦闘中のキャラバン隊</AttackedCaravan.label>
   <AttackedCaravan.description>キャラバン戦闘中</AttackedCaravan.description>
+
 
   <TravelingTransportPods.label>輸送ポッド</TravelingTransportPods.label>
   <TravelingTransportPods.description>飛翔中の輸送ポッド</TravelingTransportPods.description>
@@ -25,7 +26,7 @@
   <RoutePlannerWaypoint.label>ウェイポイント</RoutePlannerWaypoint.label>
   <RoutePlannerWaypoint.description>一時的なウェイポイント</RoutePlannerWaypoint.description>
 
-  <Ambush.label>待ち伏せ</Ambush.label>
-  <Ambush.description>待ち伏せ攻撃中</Ambush.description>
+  <PeaceTalks.label>和平交渉</PeaceTalks.label>
+  <PeaceTalks.description>	和平交渉を行う場所</PeaceTalks.description>
 
 </LanguageData>

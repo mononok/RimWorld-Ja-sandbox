@@ -13,15 +13,20 @@
     <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
 	<TurretGun_Blueprint.label>タレット(設計)</TurretGun_Blueprint.label>
 	<TurretGun_Frame.label>タレット(施工)</TurretGun_Frame.label>
+	<TurretGun_Frame.description>近寄ってきた敵へ自動的に射撃を行う即席のタレット。ダメージを受けると爆発します。AI頭脳はとてもバカなので、直接制御ができず、フレンドリーファイアーに注意してください。</TurretGun_Frame.description>
+
 	<Bullet_TurretImprovised.label>タレット弾</Bullet_TurretImprovised.label>
 	<Gun_TurretImprovised.label>タレット</Gun_TurretImprovised.label>
 	<Gun_TurretImprovised.description>タレットに銃を取り付けただけの応急装備</Gun_TurretImprovised.description>
 
   <!--=============== Mortar bomb turret ===============-->
 	<Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
+	<Turret_Mortar_Blueprint_Install.label>溜弾迫撃砲(移動先)</Turret_Mortar_Blueprint_Install.label>
     <Turret_Mortar.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_Mortar.description>
 	<Turret_Mortar_Blueprint.label>榴弾迫撃砲(設計)</Turret_Mortar_Blueprint.label>
 	<Turret_Mortar_Frame.label>榴弾迫撃砲(施工)</Turret_Mortar_Frame.label>
+	<Turret_Mortar_Frame.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_Mortar_Frame.description>
+
     <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
 	<Artillery_Mortar.description>榴弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_Mortar.description>
 
@@ -31,23 +36,37 @@
 	<TrapDeadfall.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall.description>
 	<TrapDeadfall_Blueprint.label>デッドフォール(設計)</TrapDeadfall_Blueprint.label>
 	<TrapDeadfall_Frame.label>デッドフォール(施工)</TrapDeadfall_Frame.label>
+	<TrapDeadfall_Frame.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall_Frame.description>
 
 	<TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
 	<TrapIED_HighExplosive.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</TrapIED_HighExplosive.description>
+	<TrapIED_HighExplosive_Blueprint.label>IED trap(設計)</TrapIED_HighExplosive_Blueprint.label>
+	<TrapIED_HighExplosive_Frame.label>IED trap(施工)</TrapIED_HighExplosive_Frame.label>
+	<TrapIED_HighExplosive_Frame.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</TrapIED_HighExplosive_Frame.description>
 
 	<TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
 	<TrapIED_Incendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIED_Incendiary.description>
 	<TrapIED_Incendiary_Blueprint.label>IED 焼夷トラップ(設計)</TrapIED_Incendiary_Blueprint.label>
 	<TrapIED_Incendiary_Frame.label>IED 焼夷トラップ(施工)</TrapIED_Incendiary_Frame.label>
+	<TrapIED_Incendiary_Frame.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIED_Incendiary_Frame.description>
 
     <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
     <TrapIED_EMP.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</TrapIED_EMP.description>
+	<TrapIED_EMP_Blueprint.label>IED EMPトラップ(設計)</TrapIED_EMP_Blueprint.label>
+	<TrapIED_EMP_Frame.label>IED EMPトラップ(施工)</TrapIED_EMP_Frame.label>
+	<TrapIED_EMP_Frame.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</TrapIED_EMP_Frame.description>
 
 	<TrapIED_Firefoam.label>IED 消化剤トラップ</TrapIED_Firefoam.label>
 	<TrapIED_Firefoam.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</TrapIED_Firefoam.description>
+	<TrapIED_Firefoam_Blueprint.label>IED 消化剤トラップ(設計)</TrapIED_Firefoam_Blueprint.label>
+	<TrapIED_Firefoam_Frame.label>IED 消化剤トラップ(施工)</TrapIED_Firefoam_Frame.label>
+	<TrapIED_Firefoam_Frame.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</TrapIED_Firefoam_Frame.description>
 
     <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
-    <TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます</TrapIED_AntigrainWarhead.description>
+    <TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます。</TrapIED_AntigrainWarhead.description>
+	<TrapIED_AntigrainWarhead_Blueprint.label>IED antigrain warhead trap(設計)</TrapIED_AntigrainWarhead_Blueprint.label>
+	<TrapIED_AntigrainWarhead_Frame.label>IED antigrain warhead trap(施工)</TrapIED_AntigrainWarhead_Frame.label>
+	<TrapIED_AntigrainWarhead_Frame.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます。</TrapIED_AntigrainWarhead_Frame.description>
 
 <!--
 	<Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>

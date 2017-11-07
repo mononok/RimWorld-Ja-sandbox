@@ -1,8 +1,8 @@
 RimWorld-Ja-sandbox
 ===========
 Ver:17.02
-Original: alpha17.1557 rev1153
-Description: 【未確認】alpha 18 翻訳作業中で動作の確認は限定的です。エラーが起きないことを確認していますが、未翻訳の箇所は多いです。
+Original: alpha18.1712 rev562
+Description: 【確認済】alpha 18 翻訳作業中で動作の確認は限定的です。エラーが起きないことは確認しています。TalesDefが未着手です、主に戦闘ログに関わってきます。Stringsが未着手です、名詞に関わってきます。
 ToDo:
 Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを"削除"してからコピーします。上書きすると起動しなくなります。
 

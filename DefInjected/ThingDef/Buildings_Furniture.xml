@@ -38,9 +38,17 @@
 
     <Bedroll.label>寝袋</Bedroll.label>
     <Bedroll.description>地面に置くシンプルな寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</Bedroll.description>
+	<Bedroll_Blueprint_Install.label>寝袋(移動先)</Bedroll_Blueprint_Install.label>
+	<Bedroll_Blueprint.label>寝袋(設計)</Bedroll_Blueprint.label>
+	<Bedroll_Frame.label>寝袋(施工)</Bedroll_Frame.label>
+	<Bedroll_Frame.description>地面に置くシンプルな寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</Bedroll_Frame.description>
 
     <BedrollDouble.label>ダブルの寝袋</BedrollDouble.label>
     <BedrollDouble.description>地面に置くシンプルなダブルサイズの寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</BedrollDouble.description>
+	<BedrollDouble_Blueprint_Install.label>ダブルの寝袋(移動先)</BedrollDouble_Blueprint_Install.label>
+	<BedrollDouble_Blueprint.label>ダブルの寝袋(設計)</BedrollDouble_Blueprint.label>
+	<BedrollDouble_Frame.label>ダブルの寝袋(施工)</BedrollDouble_Frame.label>
+	<BedrollDouble_Frame.description>地面に置くシンプルなダブルサイズの寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。</BedrollDouble_Frame.description>
 
     <!--=========================== Animal beds ===============================-->
     <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
@@ -88,18 +96,26 @@
 	<!--======================= Tables ==============================-->
 	<EndTable.label>エンドテーブル</EndTable.label>
 	<EndTable.description>小型のベッドサイドテーブルです。近くにあるベッドをちょっとだけ快適にさせます。それらの頭部分の横に直接置かなければなりません。同じベッドに一つより多くのエンドテーブルを置いても効果はありません。</EndTable.description>
+	<EndTable_Blueprint_Install.label>エンドテーブル(移動先)</EndTable_Blueprint_Install.label>
 	<EndTable_Blueprint.label>エンドテーブル(設計)</EndTable_Blueprint.label>
 	<EndTable_Frame.label>エンドテーブル(施工)</EndTable_Frame.label>
+	<EndTable_Frame.description>小型のベッドサイドテーブルです。近くにあるベッドをちょっとだけ快適にさせます。それらの頭部分の横に直接置かなければなりません。同じベッドに一つより多くのエンドテーブルを置いても効果はありません。</EndTable_Frame.description>
+
 
 	<Table1x2c.label>テーブル(1x2)</Table1x2c.label>
 	<Table1x2c.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table1x2c.description>
+	<Table1x2c_Blueprint_Install.label>テーブル(1x2)(移動先)</Table1x2c_Blueprint_Install.label>
 	<Table1x2c_Blueprint.label>テーブル(1x2)(設計)</Table1x2c_Blueprint.label>
 	<Table1x2c_Frame.label>テーブル(1x2)(施工)</Table1x2c_Frame.label>
+	<Table1x2c_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table1x2c_Frame.description>
 
 	<Table3x3c.label>テーブル(3x3)</Table3x3c.label>
 	<Table3x3c.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table3x3c.description>
+	<Table3x3c_Blueprint_Install.label>テーブル(3x3)(移動先)</Table3x3c_Blueprint_Install.label>
 	<Table3x3c_Blueprint.label>テーブル(3x3)(設計)</Table3x3c_Blueprint.label>
 	<Table3x3c_Frame.label>テーブル(3x3)(施工)</Table3x3c_Frame.label>
+	<Table3x3c_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</Table3x3c_Frame.description>
+
 
 	<TableShort.label>テーブル(短)</TableShort.label>
 	<TableShort.description>椅子をテーブルに向けて配置すると、人々はそこで食事を摂るようになります。</TableShort.description>

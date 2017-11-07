@@ -15,9 +15,15 @@
 
 	<WoodFiredGenerator.label>火力発電(樹)</WoodFiredGenerator.label>
 	<WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</WoodFiredGenerator.description>
+	<WoodFiredGenerator_Blueprint.label>火力発電(樹)(設計)</WoodFiredGenerator_Blueprint.label>
+	<WoodFiredGenerator_Frame.label>火力発電(樹)(施工)</WoodFiredGenerator_Frame.label>
+	<WoodFiredGenerator_Frame.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</WoodFiredGenerator_Frame.description>
 
-	<ChemfuelPoweredGenerator.label>火力発電(液化燃料) </ChemfuelPoweredGenerator.label>
-	<ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。 </ChemfuelPoweredGenerator.description>
+	<ChemfuelPoweredGenerator.label>火力発電(液化燃料)</ChemfuelPoweredGenerator.label>
+	<ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</ChemfuelPoweredGenerator.description>
+	<ChemfuelPoweredGenerator_Blueprint.label>火力発電(液化燃料)(設計)</ChemfuelPoweredGenerator_Blueprint.label>
+	<ChemfuelPoweredGenerator_Frame.label>火力発電(液化燃料)(施工)</ChemfuelPoweredGenerator_Frame.label>
+	<ChemfuelPoweredGenerator_Frame.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</ChemfuelPoweredGenerator_Frame.description>
 
 	<Battery.label>バッテリー</Battery.label>
 	<Battery_Blueprint_Install.label>バッテリー(移動先)</Battery_Blueprint_Install.label>

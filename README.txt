@@ -1,6 +1,6 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:17.02
+Ver:18.01
 Original: alpha18.1712 rev562
 Description: 【確認済】alpha 18 翻訳作業中で動作の確認は限定的です。エラーが起きないことは確認しています。TalesDefが未着手です、主に戦闘ログに関わってきます。Stringsが未着手です、名詞に関わってきます。
 ToDo:

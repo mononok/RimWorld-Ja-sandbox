@@ -1,228 +1,228 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-        <Maneuver_Slash.rulePack.rulesStrings.0>damaged_inf(p=4)->slash</Maneuver_Slash.rulePack.rulesStrings.0>
-        <Maneuver_Slash.rulePack.rulesStrings.1>damaged_inf->cut</Maneuver_Slash.rulePack.rulesStrings.1>
-        <Maneuver_Slash.rulePack.rulesStrings.2>damaged_inf->chop</Maneuver_Slash.rulePack.rulesStrings.2>
-        <Maneuver_Slash.rulePack.rulesStrings.3>damaged_inf->hack</Maneuver_Slash.rulePack.rulesStrings.3>
-        <Maneuver_Slash.rulePack.rulesStrings.4>damaged_inf->slice</Maneuver_Slash.rulePack.rulesStrings.4>
-        <Maneuver_Slash.rulePack.rulesStrings.5>damaged_inf->gash</Maneuver_Slash.rulePack.rulesStrings.5>
-        <Maneuver_Slash.rulePack.rulesStrings.6>damaged_past(p=4)->slashed</Maneuver_Slash.rulePack.rulesStrings.6>
-        <Maneuver_Slash.rulePack.rulesStrings.7>damaged_past->cut</Maneuver_Slash.rulePack.rulesStrings.7>
-        <Maneuver_Slash.rulePack.rulesStrings.8>damaged_past->chopped</Maneuver_Slash.rulePack.rulesStrings.8>
-        <Maneuver_Slash.rulePack.rulesStrings.9>damaged_past->hacked</Maneuver_Slash.rulePack.rulesStrings.9>
-        <Maneuver_Slash.rulePack.rulesStrings.10>damaged_past->sliced</Maneuver_Slash.rulePack.rulesStrings.10>
-        <Maneuver_Slash.rulePack.rulesStrings.11>damaged_past->gashed</Maneuver_Slash.rulePack.rulesStrings.11>
-        <Maneuver_Slash.rulePack.rulesStrings.12>damaged_present->slashing</Maneuver_Slash.rulePack.rulesStrings.12>
-        <Maneuver_Slash.rulePack.rulesStrings.13>damaged_present->cutting</Maneuver_Slash.rulePack.rulesStrings.13>
-        <Maneuver_Slash.rulePack.rulesStrings.14>damaged_present->slicing</Maneuver_Slash.rulePack.rulesStrings.14>
-        <Maneuver_Slash.rulePack.rulesStrings.15>damaged_present->gashing</Maneuver_Slash.rulePack.rulesStrings.15>
-        <Maneuver_Slash.rulePack.rulesStrings.16>damaged_present->tearing</Maneuver_Slash.rulePack.rulesStrings.16>
-        <Maneuver_Slash.rulePack.rulesStrings.17>damaged_present->lacerating</Maneuver_Slash.rulePack.rulesStrings.17>
-        <Maneuver_Slash.rulePack.rulesStrings.18>woundname->wound</Maneuver_Slash.rulePack.rulesStrings.18>
-        <Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->opening</Maneuver_Slash.rulePack.rulesStrings.19>
-        <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</Maneuver_Slash.rulePack.rulesStrings.20>
-        <Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->with fluids dripping from the [woundname]</Maneuver_Slash.rulePack.rulesStrings.21>
-        <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</Maneuver_Slash.rulePack.rulesStrings.22>
-        <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Maneuver_Slash.rulePack.rulesStrings.23>
-        <Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a gory [woundname]</Maneuver_Slash.rulePack.rulesStrings.24>
+        <Maneuver_Slash.rulePack.rulesStrings.0>damaged_inf(p=4)->サッと斬る</Maneuver_Slash.rulePack.rulesStrings.0>
+        <Maneuver_Slash.rulePack.rulesStrings.1>damaged_inf->切る</Maneuver_Slash.rulePack.rulesStrings.1>
+        <Maneuver_Slash.rulePack.rulesStrings.2>damaged_inf->切り刻む</Maneuver_Slash.rulePack.rulesStrings.2>
+        <Maneuver_Slash.rulePack.rulesStrings.3>damaged_inf->叩き切る</Maneuver_Slash.rulePack.rulesStrings.3>
+        <Maneuver_Slash.rulePack.rulesStrings.4>damaged_inf->薄く切り取る</Maneuver_Slash.rulePack.rulesStrings.4>
+        <Maneuver_Slash.rulePack.rulesStrings.5>damaged_inf->深く切る</Maneuver_Slash.rulePack.rulesStrings.5>
+        <Maneuver_Slash.rulePack.rulesStrings.6>damaged_past(p=4)->サッと斬った</Maneuver_Slash.rulePack.rulesStrings.6>
+        <Maneuver_Slash.rulePack.rulesStrings.7>damaged_past->切った</Maneuver_Slash.rulePack.rulesStrings.7>
+        <Maneuver_Slash.rulePack.rulesStrings.8>damaged_past->切り刻んだ</Maneuver_Slash.rulePack.rulesStrings.8>
+        <Maneuver_Slash.rulePack.rulesStrings.9>damaged_past->叩き切った</Maneuver_Slash.rulePack.rulesStrings.9>
+        <Maneuver_Slash.rulePack.rulesStrings.10>damaged_past->薄く切った</Maneuver_Slash.rulePack.rulesStrings.10>
+        <Maneuver_Slash.rulePack.rulesStrings.11>damaged_past->深く切った</Maneuver_Slash.rulePack.rulesStrings.11>
+        <Maneuver_Slash.rulePack.rulesStrings.12>damaged_present->サッと斬っている</Maneuver_Slash.rulePack.rulesStrings.12>
+        <Maneuver_Slash.rulePack.rulesStrings.13>damaged_present->切っている</Maneuver_Slash.rulePack.rulesStrings.13>
+        <Maneuver_Slash.rulePack.rulesStrings.14>damaged_present->薄く切っている</Maneuver_Slash.rulePack.rulesStrings.14>
+        <Maneuver_Slash.rulePack.rulesStrings.15>damaged_present->深く切っている</Maneuver_Slash.rulePack.rulesStrings.15>
+        <Maneuver_Slash.rulePack.rulesStrings.16>damaged_present->引っ掻いている</Maneuver_Slash.rulePack.rulesStrings.16>
+        <Maneuver_Slash.rulePack.rulesStrings.17>damaged_present->引き裂いている</Maneuver_Slash.rulePack.rulesStrings.17>
+        <Maneuver_Slash.rulePack.rulesStrings.18>woundname->傷口</Maneuver_Slash.rulePack.rulesStrings.18>
+        <Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->裂け目</Maneuver_Slash.rulePack.rulesStrings.19>
+        <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->[woundname]から 血を滴らせながら</Maneuver_Slash.rulePack.rulesStrings.20>
+        <Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->[woundname]から血を流して</Maneuver_Slash.rulePack.rulesStrings.21>
+        <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</Maneuver_Slash.rulePack.rulesStrings.22>
+        <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</Maneuver_Slash.rulePack.rulesStrings.23>
+        <Maneuver_Slash.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</Maneuver_Slash.rulePack.rulesStrings.24>
 
-        <Maneuver_Slash.rulePack.rulesStrings.25>destroyed_past->bisected</Maneuver_Slash.rulePack.rulesStrings.25>
-        <Maneuver_Slash.rulePack.rulesStrings.26>destroyed_past->divided</Maneuver_Slash.rulePack.rulesStrings.26>
-        <Maneuver_Slash.rulePack.rulesStrings.27>destroyed_past->halved</Maneuver_Slash.rulePack.rulesStrings.27>
-        <Maneuver_Slash.rulePack.rulesStrings.28>destroyed_past->separated</Maneuver_Slash.rulePack.rulesStrings.28>
-        <Maneuver_Slash.rulePack.rulesStrings.29>destroyed_past->split</Maneuver_Slash.rulePack.rulesStrings.29>
-        <Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->bisecting</Maneuver_Slash.rulePack.rulesStrings.30>
-        <Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->dividing</Maneuver_Slash.rulePack.rulesStrings.31>
-        <Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->halving</Maneuver_Slash.rulePack.rulesStrings.32>
-        <Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->separating</Maneuver_Slash.rulePack.rulesStrings.33>
-        <Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->splitting</Maneuver_Slash.rulePack.rulesStrings.34>
-        <Maneuver_Slash.rulePack.rulesStrings.35>destroyed_suffix->into neat pieces</Maneuver_Slash.rulePack.rulesStrings.35>
-        <Maneuver_Slash.rulePack.rulesStrings.36>destroyed_suffix->cleanly</Maneuver_Slash.rulePack.rulesStrings.36>
-        <Maneuver_Slash.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</Maneuver_Slash.rulePack.rulesStrings.37>
-        <Maneuver_Slash.rulePack.rulesStrings.38>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</Maneuver_Slash.rulePack.rulesStrings.38>
+        <Maneuver_Slash.rulePack.rulesStrings.25>destroyed_past->真っ二つにした</Maneuver_Slash.rulePack.rulesStrings.25>
+        <Maneuver_Slash.rulePack.rulesStrings.26>destroyed_past->二分した</Maneuver_Slash.rulePack.rulesStrings.26>
+        <Maneuver_Slash.rulePack.rulesStrings.27>destroyed_past->半分になった</Maneuver_Slash.rulePack.rulesStrings.27>
+        <Maneuver_Slash.rulePack.rulesStrings.28>destroyed_past->離れた</Maneuver_Slash.rulePack.rulesStrings.28>
+        <Maneuver_Slash.rulePack.rulesStrings.29>destroyed_past->分裂した</Maneuver_Slash.rulePack.rulesStrings.29>
+        <Maneuver_Slash.rulePack.rulesStrings.30>destroyed_present->真っ二つになる</Maneuver_Slash.rulePack.rulesStrings.30>
+        <Maneuver_Slash.rulePack.rulesStrings.31>destroyed_present->二分する</Maneuver_Slash.rulePack.rulesStrings.31>
+        <Maneuver_Slash.rulePack.rulesStrings.32>destroyed_present->半分になる</Maneuver_Slash.rulePack.rulesStrings.32>
+        <Maneuver_Slash.rulePack.rulesStrings.33>destroyed_present->離れる</Maneuver_Slash.rulePack.rulesStrings.33>
+        <Maneuver_Slash.rulePack.rulesStrings.34>destroyed_present->分裂する</Maneuver_Slash.rulePack.rulesStrings.34>
+        <Maneuver_Slash.rulePack.rulesStrings.35>destroyed_suffix->滑らかな小片に</Maneuver_Slash.rulePack.rulesStrings.35>
+        <Maneuver_Slash.rulePack.rulesStrings.36>destroyed_suffix->手際よく</Maneuver_Slash.rulePack.rulesStrings.36>
+        <Maneuver_Slash.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->内部活動をさらけだしつつ</Maneuver_Slash.rulePack.rulesStrings.37>
+        <Maneuver_Slash.rulePack.rulesStrings.38>destroyed_suffix(target_part_destroyed_count==1)->二つに切り分ける</Maneuver_Slash.rulePack.rulesStrings.38>
 
-        <Maneuver_Stab.rulePack.rulesStrings.0>damaged_inf(p=4)->stab</Maneuver_Stab.rulePack.rulesStrings.0>
-        <Maneuver_Stab.rulePack.rulesStrings.1>damaged_inf->jab</Maneuver_Stab.rulePack.rulesStrings.1>
-        <Maneuver_Stab.rulePack.rulesStrings.2>damaged_inf->pierce</Maneuver_Stab.rulePack.rulesStrings.2>
-        <Maneuver_Stab.rulePack.rulesStrings.3>damaged_inf->puncture</Maneuver_Stab.rulePack.rulesStrings.3>
-        <Maneuver_Stab.rulePack.rulesStrings.4>damaged_inf->skewer</Maneuver_Stab.rulePack.rulesStrings.4>
+        <Maneuver_Stab.rulePack.rulesStrings.0>damaged_inf(p=4)->突き刺す</Maneuver_Stab.rulePack.rulesStrings.0>
+        <Maneuver_Stab.rulePack.rulesStrings.1>damaged_inf->ジャブで突く</Maneuver_Stab.rulePack.rulesStrings.1>
+        <Maneuver_Stab.rulePack.rulesStrings.2>damaged_inf->刺し通す</Maneuver_Stab.rulePack.rulesStrings.2>
+        <Maneuver_Stab.rulePack.rulesStrings.3>damaged_inf->刺す</Maneuver_Stab.rulePack.rulesStrings.3>
+        <Maneuver_Stab.rulePack.rulesStrings.4>damaged_inf->串刺しにする</Maneuver_Stab.rulePack.rulesStrings.4>
         <!-- <Maneuver_Stab.rulePack.rulesStrings.36>damaged_inf->penetrate< li> Doesn't work well with "Jimmy avoided Lilith's gladius penetrate"; disabled for now -->
-        <Maneuver_Stab.rulePack.rulesStrings.5>damaged_past(p=4)->stabbed</Maneuver_Stab.rulePack.rulesStrings.5>
-        <Maneuver_Stab.rulePack.rulesStrings.6>damaged_past->jabbed</Maneuver_Stab.rulePack.rulesStrings.6>
-        <Maneuver_Stab.rulePack.rulesStrings.7>damaged_past->pierced</Maneuver_Stab.rulePack.rulesStrings.7>
-        <Maneuver_Stab.rulePack.rulesStrings.8>damaged_past->punctured</Maneuver_Stab.rulePack.rulesStrings.8>
-        <Maneuver_Stab.rulePack.rulesStrings.9>damaged_past->skewered</Maneuver_Stab.rulePack.rulesStrings.9>
-        <Maneuver_Stab.rulePack.rulesStrings.10>damaged_present->piercing</Maneuver_Stab.rulePack.rulesStrings.10>
-        <Maneuver_Stab.rulePack.rulesStrings.11>damaged_present->puncturing</Maneuver_Stab.rulePack.rulesStrings.11>
-        <Maneuver_Stab.rulePack.rulesStrings.12>damaged_present->penetrating</Maneuver_Stab.rulePack.rulesStrings.12>
-        <Maneuver_Stab.rulePack.rulesStrings.13>damaged_present->skewering</Maneuver_Stab.rulePack.rulesStrings.13>
-        <Maneuver_Stab.rulePack.rulesStrings.14>woundname->hole</Maneuver_Stab.rulePack.rulesStrings.14>
-        <Maneuver_Stab.rulePack.rulesStrings.15>woundname->wound</Maneuver_Stab.rulePack.rulesStrings.15>
-        <Maneuver_Stab.rulePack.rulesStrings.16>woundname->crevice</Maneuver_Stab.rulePack.rulesStrings.16>
-        <Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a bloody [woundname]</Maneuver_Stab.rulePack.rulesStrings.17>
-        <Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a torn [woundname]</Maneuver_Stab.rulePack.rulesStrings.18>
-        <Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a bleeding [woundname]</Maneuver_Stab.rulePack.rulesStrings.19>
-        <Maneuver_Stab.rulePack.rulesStrings.20>destroyed_past->impaled</Maneuver_Stab.rulePack.rulesStrings.20>
-        <Maneuver_Stab.rulePack.rulesStrings.21>destroyed_past->perforated</Maneuver_Stab.rulePack.rulesStrings.21>
-        <Maneuver_Stab.rulePack.rulesStrings.22>destroyed_past->skewered</Maneuver_Stab.rulePack.rulesStrings.22>
-        <Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->impaling</Maneuver_Stab.rulePack.rulesStrings.23>
-        <Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->perforating</Maneuver_Stab.rulePack.rulesStrings.24>
-        <Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->skewering</Maneuver_Stab.rulePack.rulesStrings.25>
-        <Maneuver_Stab.rulePack.rulesStrings.26>destroyed_suffix->straight through</Maneuver_Stab.rulePack.rulesStrings.26>
-        <Maneuver_Stab.rulePack.rulesStrings.27>destroyed_suffix->leaving a clean hole</Maneuver_Stab.rulePack.rulesStrings.27>
-        <Maneuver_Stab.rulePack.rulesStrings.28>destroyed_suffix((recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</Maneuver_Stab.rulePack.rulesStrings.28>
-        <Maneuver_Stab.rulePack.rulesStrings.29>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</Maneuver_Stab.rulePack.rulesStrings.29>
+        <Maneuver_Stab.rulePack.rulesStrings.5>damaged_past(p=4)->突き刺した</Maneuver_Stab.rulePack.rulesStrings.5>
+        <Maneuver_Stab.rulePack.rulesStrings.6>damaged_past->ジャブで突いた</Maneuver_Stab.rulePack.rulesStrings.6>
+        <Maneuver_Stab.rulePack.rulesStrings.7>damaged_past->刺し通した</Maneuver_Stab.rulePack.rulesStrings.7>
+        <Maneuver_Stab.rulePack.rulesStrings.8>damaged_past->刺した</Maneuver_Stab.rulePack.rulesStrings.8>
+        <Maneuver_Stab.rulePack.rulesStrings.9>damaged_past->串刺しにした</Maneuver_Stab.rulePack.rulesStrings.9>
+        <Maneuver_Stab.rulePack.rulesStrings.10>damaged_present->刺し通す</Maneuver_Stab.rulePack.rulesStrings.10>
+        <Maneuver_Stab.rulePack.rulesStrings.11>damaged_present->刺す</Maneuver_Stab.rulePack.rulesStrings.11>
+        <Maneuver_Stab.rulePack.rulesStrings.12>damaged_present->穿つ</Maneuver_Stab.rulePack.rulesStrings.12>
+        <Maneuver_Stab.rulePack.rulesStrings.13>damaged_present->串刺しにする</Maneuver_Stab.rulePack.rulesStrings.13>
+        <Maneuver_Stab.rulePack.rulesStrings.14>woundname->穴</Maneuver_Stab.rulePack.rulesStrings.14>
+        <Maneuver_Stab.rulePack.rulesStrings.15>woundname->創傷</Maneuver_Stab.rulePack.rulesStrings.15>
+        <Maneuver_Stab.rulePack.rulesStrings.16>woundname->裂け目</Maneuver_Stab.rulePack.rulesStrings.16>
+        <Maneuver_Stab.rulePack.rulesStrings.17>flavortextconsequence(recipient_flesh!=Mechanoid)->[woundname]の血をそのままにして</Maneuver_Stab.rulePack.rulesStrings.17>
+        <Maneuver_Stab.rulePack.rulesStrings.18>flavortextconsequence(recipient_flesh!=Mechanoid)->[woundname]の液体をそのままにして</Maneuver_Stab.rulePack.rulesStrings.18>
+        <Maneuver_Stab.rulePack.rulesStrings.19>flavortextconsequence(recipient_flesh!=Mechanoid)->[woundname]の出血を放置して</Maneuver_Stab.rulePack.rulesStrings.19>
+        <Maneuver_Stab.rulePack.rulesStrings.20>destroyed_past->差し貫いた</Maneuver_Stab.rulePack.rulesStrings.20>
+        <Maneuver_Stab.rulePack.rulesStrings.21>destroyed_past->貫通した</Maneuver_Stab.rulePack.rulesStrings.21>
+        <Maneuver_Stab.rulePack.rulesStrings.22>destroyed_past->串刺しにした</Maneuver_Stab.rulePack.rulesStrings.22>
+        <Maneuver_Stab.rulePack.rulesStrings.23>destroyed_present->差し貫く</Maneuver_Stab.rulePack.rulesStrings.23>
+        <Maneuver_Stab.rulePack.rulesStrings.24>destroyed_present->貫通する</Maneuver_Stab.rulePack.rulesStrings.24>
+        <Maneuver_Stab.rulePack.rulesStrings.25>destroyed_present->串刺しにする</Maneuver_Stab.rulePack.rulesStrings.25>
+        <Maneuver_Stab.rulePack.rulesStrings.26>destroyed_suffix->真っ直ぐに貫く</Maneuver_Stab.rulePack.rulesStrings.26>
+        <Maneuver_Stab.rulePack.rulesStrings.27>destroyed_suffix->穿孔のまま</Maneuver_Stab.rulePack.rulesStrings.27>
+        <Maneuver_Stab.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->血が噴き出すのも気にせず</Maneuver_Stab.rulePack.rulesStrings.28>
+        <Maneuver_Stab.rulePack.rulesStrings.29>destroyed_suffix(target_part_destroyed_count==1)->潤滑油なのか判らない液体が漏れたまま</Maneuver_Stab.rulePack.rulesStrings.29>
 
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->smash</Maneuver_Smash_Damage.rulePack.rulesStrings.0>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.1>damaged_inf->bash</Maneuver_Smash_Damage.rulePack.rulesStrings.1>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.2>damaged_inf->clobber</Maneuver_Smash_Damage.rulePack.rulesStrings.2>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.3>damaged_inf->slam</Maneuver_Smash_Damage.rulePack.rulesStrings.3>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.4>damaged_inf->strike</Maneuver_Smash_Damage.rulePack.rulesStrings.4>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.5>damaged_past(p=4)->smashed</Maneuver_Smash_Damage.rulePack.rulesStrings.5>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.6>damaged_past->bashed</Maneuver_Smash_Damage.rulePack.rulesStrings.6>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.7>damaged_past->clobbered</Maneuver_Smash_Damage.rulePack.rulesStrings.7>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.8>damaged_past->slammed</Maneuver_Smash_Damage.rulePack.rulesStrings.8>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.9>damaged_past->struck</Maneuver_Smash_Damage.rulePack.rulesStrings.9>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.10>damaged_present->smashing</Maneuver_Smash_Damage.rulePack.rulesStrings.10>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.11>damaged_present->bashing</Maneuver_Smash_Damage.rulePack.rulesStrings.11>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.12>damaged_present->clobbering</Maneuver_Smash_Damage.rulePack.rulesStrings.12>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.13>damaged_present->bruising</Maneuver_Smash_Damage.rulePack.rulesStrings.13>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.14>damaged_present->lacerating</Maneuver_Smash_Damage.rulePack.rulesStrings.14>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.15>destroyed_past->shattered</Maneuver_Smash_Damage.rulePack.rulesStrings.15>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.16>destroyed_past->crushed</Maneuver_Smash_Damage.rulePack.rulesStrings.16>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.17>destroyed_past->obliterated</Maneuver_Smash_Damage.rulePack.rulesStrings.17>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.18>destroyed_past->annihilated</Maneuver_Smash_Damage.rulePack.rulesStrings.18>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.19>destroyed_past->broke</Maneuver_Smash_Damage.rulePack.rulesStrings.19>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->shattering</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->crushing</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->obliterating</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->annihilating</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
-        <Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->breaking</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->強打する</Maneuver_Smash_Damage.rulePack.rulesStrings.0>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.1>damaged_inf->ぶつける</Maneuver_Smash_Damage.rulePack.rulesStrings.1>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.2>damaged_inf->叩きのめす</Maneuver_Smash_Damage.rulePack.rulesStrings.2>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.3>damaged_inf->強く打つ</Maneuver_Smash_Damage.rulePack.rulesStrings.3>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.4>damaged_inf->打つ</Maneuver_Smash_Damage.rulePack.rulesStrings.4>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.5>damaged_past(p=4)->強打した</Maneuver_Smash_Damage.rulePack.rulesStrings.5>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.6>damaged_past->ぶつけた</Maneuver_Smash_Damage.rulePack.rulesStrings.6>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.7>damaged_past->叩きのめした</Maneuver_Smash_Damage.rulePack.rulesStrings.7>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.8>damaged_past->強く打った</Maneuver_Smash_Damage.rulePack.rulesStrings.8>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.9>damaged_past->打った</Maneuver_Smash_Damage.rulePack.rulesStrings.9>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.10>damaged_present->強打している</Maneuver_Smash_Damage.rulePack.rulesStrings.10>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.11>damaged_present->ぶつけている</Maneuver_Smash_Damage.rulePack.rulesStrings.11>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.12>damaged_present->叩きのめしている</Maneuver_Smash_Damage.rulePack.rulesStrings.12>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.13>damaged_present->へこましている</Maneuver_Smash_Damage.rulePack.rulesStrings.13>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.14>damaged_present->裂けている</Maneuver_Smash_Damage.rulePack.rulesStrings.14>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.15>destroyed_past->打ち砕いた</Maneuver_Smash_Damage.rulePack.rulesStrings.15>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.16>destroyed_past->砕いた</Maneuver_Smash_Damage.rulePack.rulesStrings.16>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.17>destroyed_past->跡形もなく破壊した</Maneuver_Smash_Damage.rulePack.rulesStrings.17>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.18>destroyed_past->ダメにした</Maneuver_Smash_Damage.rulePack.rulesStrings.18>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.19>destroyed_past->破壊した</Maneuver_Smash_Damage.rulePack.rulesStrings.19>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.20>destroyed_present->打ち砕いている</Maneuver_Smash_Damage.rulePack.rulesStrings.20>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.21>destroyed_present->砕いている</Maneuver_Smash_Damage.rulePack.rulesStrings.21>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.22>destroyed_present->完全に破壊している</Maneuver_Smash_Damage.rulePack.rulesStrings.22>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.23>destroyed_present->ダメにしている</Maneuver_Smash_Damage.rulePack.rulesStrings.23>
+        <Maneuver_Smash_Damage.rulePack.rulesStrings.24>destroyed_present->破壊している</Maneuver_Smash_Damage.rulePack.rulesStrings.24>
 
-        <Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</Maneuver_Smash.rulePack.rulesStrings.0>
-        <Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->leaving the area visibly deformed</Maneuver_Smash.rulePack.rulesStrings.1>
+        <Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</Maneuver_Smash.rulePack.rulesStrings.0>
+        <Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->形が変更したままで</Maneuver_Smash.rulePack.rulesStrings.1>
         <Maneuver_Smash.rulePack.rulesStrings.2>flavortextconsequence->knocking [recipient_objective] off balance</Maneuver_Smash.rulePack.rulesStrings.2>
         <Maneuver_Smash.rulePack.rulesStrings.3>flavortextconsequence->knocking [recipient_objective] to the side</Maneuver_Smash.rulePack.rulesStrings.3>
 
-        <Maneuver_Smash.rulePack.rulesStrings.4>destroyed_suffix->[to] pieces</Maneuver_Smash.rulePack.rulesStrings.4>
-        <Maneuver_Smash.rulePack.rulesStrings.5>destroyed_suffix->[to] bits</Maneuver_Smash.rulePack.rulesStrings.5>
-        <Maneuver_Smash.rulePack.rulesStrings.6>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</Maneuver_Smash.rulePack.rulesStrings.6>
-        <Maneuver_Smash.rulePack.rulesStrings.7>destroyed_suffix->[to] fragments</Maneuver_Smash.rulePack.rulesStrings.7>
+        <Maneuver_Smash.rulePack.rulesStrings.4>destroyed_suffix->一片[to]</Maneuver_Smash.rulePack.rulesStrings.4>
+        <Maneuver_Smash.rulePack.rulesStrings.5>destroyed_suffix->小片[to]</Maneuver_Smash.rulePack.rulesStrings.5>
+        <Maneuver_Smash.rulePack.rulesStrings.6>destroyed_suffix(recipient_flesh!=Mechanoid)->細かい霧状[to]</Maneuver_Smash.rulePack.rulesStrings.6>
+        <Maneuver_Smash.rulePack.rulesStrings.7>destroyed_suffix->断片[to]</Maneuver_Smash.rulePack.rulesStrings.7>
 
 
 
 
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->scratch</Maneuver_Scratch_Damage.rulePack.rulesStrings.0>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.1>damaged_inf->lacerate</Maneuver_Scratch_Damage.rulePack.rulesStrings.1>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.2>damaged_inf->tear</Maneuver_Scratch_Damage.rulePack.rulesStrings.2>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.3>damaged_inf->cut</Maneuver_Scratch_Damage.rulePack.rulesStrings.3>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.4>damaged_past(p=4)->scratched</Maneuver_Scratch_Damage.rulePack.rulesStrings.4>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.5>damaged_past->lacerated</Maneuver_Scratch_Damage.rulePack.rulesStrings.5>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.6>damaged_past->tore</Maneuver_Scratch_Damage.rulePack.rulesStrings.6>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.7>damaged_past->cut</Maneuver_Scratch_Damage.rulePack.rulesStrings.7>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.8>damaged_present->scratching</Maneuver_Scratch_Damage.rulePack.rulesStrings.8>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.9>damaged_present->lacerating</Maneuver_Scratch_Damage.rulePack.rulesStrings.9>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.10>damaged_present->tearing</Maneuver_Scratch_Damage.rulePack.rulesStrings.10>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.11>damaged_present->cutting</Maneuver_Scratch_Damage.rulePack.rulesStrings.11>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.12>destroyed_past->mauled</Maneuver_Scratch_Damage.rulePack.rulesStrings.12>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.13>destroyed_past->lacerated</Maneuver_Scratch_Damage.rulePack.rulesStrings.13>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.14>destroyed_past->tore off</Maneuver_Scratch_Damage.rulePack.rulesStrings.14>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.15>destroyed_past->shredded</Maneuver_Scratch_Damage.rulePack.rulesStrings.15>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.16>destroyed_past->ripped</Maneuver_Scratch_Damage.rulePack.rulesStrings.16>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->mauling</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->lacerating</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->tearing off</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->shredding</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
-        <Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->ripping</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.0>damaged_inf(p=4)->引っ掻く</Maneuver_Scratch_Damage.rulePack.rulesStrings.0>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.1>damaged_inf->引き裂く</Maneuver_Scratch_Damage.rulePack.rulesStrings.1>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.2>damaged_inf->裂く</Maneuver_Scratch_Damage.rulePack.rulesStrings.2>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.3>damaged_inf->切る</Maneuver_Scratch_Damage.rulePack.rulesStrings.3>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.4>damaged_past(p=4)->引っ掻いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.4>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.5>damaged_past->引き裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.5>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.6>damaged_past->裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.6>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.7>damaged_past->切った</Maneuver_Scratch_Damage.rulePack.rulesStrings.7>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.8>damaged_present->引っ掻いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.8>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.9>damaged_present->引き裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.9>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.10>damaged_present->裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.10>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.11>damaged_present->切っている</Maneuver_Scratch_Damage.rulePack.rulesStrings.11>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.12>destroyed_past->打ち潰した</Maneuver_Scratch_Damage.rulePack.rulesStrings.12>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.13>destroyed_past->引き裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.13>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.14>destroyed_past->裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.14>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.15>destroyed_past->ずたずたに裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.15>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.16>destroyed_past->引き裂いた</Maneuver_Scratch_Damage.rulePack.rulesStrings.16>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.17>destroyed_present->打ち潰している</Maneuver_Scratch_Damage.rulePack.rulesStrings.17>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.18>destroyed_present->引き裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.18>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.19>destroyed_present->裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.19>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.20>destroyed_present->ズタズタに裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.20>
+        <Maneuver_Scratch_Damage.rulePack.rulesStrings.21>destroyed_present->引き裂いている</Maneuver_Scratch_Damage.rulePack.rulesStrings.21>
 
-        <Maneuver_Scratch.rulePack.rulesStrings.0>woundname->wound</Maneuver_Scratch.rulePack.rulesStrings.0>
-        <Maneuver_Scratch.rulePack.rulesStrings.1>woundname(p=0.3)->opening</Maneuver_Scratch.rulePack.rulesStrings.1>
-        <Maneuver_Scratch.rulePack.rulesStrings.2>flavortextsituation(recipient_flesh!=Mechanoid)->with blood dripping from the [woundname]</Maneuver_Scratch.rulePack.rulesStrings.2>
-        <Maneuver_Scratch.rulePack.rulesStrings.3>flavortextsituation->with fluids dripping from the [woundname]</Maneuver_Scratch.rulePack.rulesStrings.3>
-        <Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->and exposing the flesh underneath</Maneuver_Scratch.rulePack.rulesStrings.4>
-        <Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->and exposing the machinery underneath</Maneuver_Scratch.rulePack.rulesStrings.5>
-        <Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->and leaving a gory [woundname]</Maneuver_Scratch.rulePack.rulesStrings.6>
+        <Maneuver_Scratch.rulePack.rulesStrings.0>woundname->創傷</Maneuver_Scratch.rulePack.rulesStrings.0>
+        <Maneuver_Scratch.rulePack.rulesStrings.1>woundname(p=0.3)->傷口</Maneuver_Scratch.rulePack.rulesStrings.1>
+        <Maneuver_Scratch.rulePack.rulesStrings.2>flavortextsituation(recipient_flesh!=Mechanoid)->[woundname]から血をしたたらせ</Maneuver_Scratch.rulePack.rulesStrings.2>
+        <Maneuver_Scratch.rulePack.rulesStrings.3>flavortextsituation->[woundname]から血を流しながら</Maneuver_Scratch.rulePack.rulesStrings.3>
+        <Maneuver_Scratch.rulePack.rulesStrings.4>flavortextconsequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</Maneuver_Scratch.rulePack.rulesStrings.4>
+        <Maneuver_Scratch.rulePack.rulesStrings.5>flavortextconsequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</Maneuver_Scratch.rulePack.rulesStrings.5>
+        <Maneuver_Scratch.rulePack.rulesStrings.6>flavortextconsequence(recipient_flesh!=Mechanoid)->血だらけの[woundname]には構わず</Maneuver_Scratch.rulePack.rulesStrings.6>
 
-        <Maneuver_Scratch.rulePack.rulesStrings.7>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</Maneuver_Scratch.rulePack.rulesStrings.7>
-        <Maneuver_Scratch.rulePack.rulesStrings.8>destroyed_suffix->[to] strips</Maneuver_Scratch.rulePack.rulesStrings.8>
-        <Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy pieces</Maneuver_Scratch.rulePack.rulesStrings.9>
-        <Maneuver_Scratch.rulePack.rulesStrings.10>destroyed_suffix->[to] pieces</Maneuver_Scratch.rulePack.rulesStrings.10>
-        <Maneuver_Scratch.rulePack.rulesStrings.11>destroyed_suffix->[to] fragments</Maneuver_Scratch.rulePack.rulesStrings.11>
-        <Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</Maneuver_Scratch.rulePack.rulesStrings.12>
+        <Maneuver_Scratch.rulePack.rulesStrings.7>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</Maneuver_Scratch.rulePack.rulesStrings.7>
+        <Maneuver_Scratch.rulePack.rulesStrings.8>destroyed_suffix->細長い一片[to]</Maneuver_Scratch.rulePack.rulesStrings.8>
+        <Maneuver_Scratch.rulePack.rulesStrings.9>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</Maneuver_Scratch.rulePack.rulesStrings.9>
+        <Maneuver_Scratch.rulePack.rulesStrings.10>destroyed_suffix->断片[to]</Maneuver_Scratch.rulePack.rulesStrings.10>
+        <Maneuver_Scratch.rulePack.rulesStrings.11>destroyed_suffix->破片[to]</Maneuver_Scratch.rulePack.rulesStrings.11>
+        <Maneuver_Scratch.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->血の塊[to]</Maneuver_Scratch.rulePack.rulesStrings.12>
 
-        <Poke.rulePack.rulesStrings.0>damaged_inf(p=2)->poke</Poke.rulePack.rulesStrings.0>
-        <Poke.rulePack.rulesStrings.1>damaged_inf(p=2)->jab</Poke.rulePack.rulesStrings.1>
-        <Poke.rulePack.rulesStrings.2>damaged_inf->prod</Poke.rulePack.rulesStrings.2>
-        <Poke.rulePack.rulesStrings.3>damaged_inf->shove</Poke.rulePack.rulesStrings.3>
-        <Poke.rulePack.rulesStrings.4>damaged_inf->stab</Poke.rulePack.rulesStrings.4>
-        <Poke.rulePack.rulesStrings.5>damaged_past(p=2)->poked</Poke.rulePack.rulesStrings.5>
-        <Poke.rulePack.rulesStrings.6>damaged_past(p=2)->jabbed</Poke.rulePack.rulesStrings.6>
-        <Poke.rulePack.rulesStrings.7>damaged_past->prodded</Poke.rulePack.rulesStrings.7>
-        <Poke.rulePack.rulesStrings.8>damaged_past->shoved</Poke.rulePack.rulesStrings.8>
-        <Poke.rulePack.rulesStrings.9>damaged_past->stabbed</Poke.rulePack.rulesStrings.9>
-        <Poke.rulePack.rulesStrings.10>maneuver_present(p=2)->poking</Poke.rulePack.rulesStrings.10>
-        <Poke.rulePack.rulesStrings.11>maneuver_present(p=2)->jabbing</Poke.rulePack.rulesStrings.11>
-        <Poke.rulePack.rulesStrings.12>maneuver_present->prodding</Poke.rulePack.rulesStrings.12>
-        <Poke.rulePack.rulesStrings.13>maneuver_present->shoving</Poke.rulePack.rulesStrings.13>
-        <Poke.rulePack.rulesStrings.14>maneuver_present->stabbing</Poke.rulePack.rulesStrings.14>
+        <Poke.rulePack.rulesStrings.0>damaged_inf(p=2)->突く</Poke.rulePack.rulesStrings.0>
+        <Poke.rulePack.rulesStrings.1>damaged_inf(p=2)->ジャブで突く</Poke.rulePack.rulesStrings.1>
+        <Poke.rulePack.rulesStrings.2>damaged_inf->つつく</Poke.rulePack.rulesStrings.2>
+        <Poke.rulePack.rulesStrings.3>damaged_inf->強く押す</Poke.rulePack.rulesStrings.3>
+        <Poke.rulePack.rulesStrings.4>damaged_inf->突き刺す</Poke.rulePack.rulesStrings.4>
+        <Poke.rulePack.rulesStrings.5>damaged_past(p=2)->突いた</Poke.rulePack.rulesStrings.5>
+        <Poke.rulePack.rulesStrings.6>damaged_past(p=2)->ジャブで突いた</Poke.rulePack.rulesStrings.6>
+        <Poke.rulePack.rulesStrings.7>damaged_past->つついた</Poke.rulePack.rulesStrings.7>
+        <Poke.rulePack.rulesStrings.8>damaged_past->強く押した</Poke.rulePack.rulesStrings.8>
+        <Poke.rulePack.rulesStrings.9>damaged_past->突き刺した</Poke.rulePack.rulesStrings.9>
+        <Poke.rulePack.rulesStrings.10>maneuver_present(p=2)->突いている</Poke.rulePack.rulesStrings.10>
+        <Poke.rulePack.rulesStrings.11>maneuver_present(p=2)->ジャブで突いている</Poke.rulePack.rulesStrings.11>
+        <Poke.rulePack.rulesStrings.12>maneuver_present->つついている</Poke.rulePack.rulesStrings.12>
+        <Poke.rulePack.rulesStrings.13>maneuver_present->強く押している</Poke.rulePack.rulesStrings.13>
+        <Poke.rulePack.rulesStrings.14>maneuver_present->突き刺している</Poke.rulePack.rulesStrings.14>
 
-        <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</Poke.rulePack.rulesStrings.15>
-        <Poke.rulePack.rulesStrings.16>flavortextconsequence->leaving the area visibly deformed</Poke.rulePack.rulesStrings.16>
+        <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</Poke.rulePack.rulesStrings.15>
+        <Poke.rulePack.rulesStrings.16>flavortextconsequence->形が変更したままで</Poke.rulePack.rulesStrings.16>
         <Poke.rulePack.rulesStrings.17>flavortextconsequence->knocking [recipient_objective] off balance</Poke.rulePack.rulesStrings.17>
         <Poke.rulePack.rulesStrings.18>flavortextconsequence->knocking [recipient_objective] to the side</Poke.rulePack.rulesStrings.18>
 
-        <Poke.rulePack.rulesStrings.19>destroyed_past->shattered</Poke.rulePack.rulesStrings.19>
-        <Poke.rulePack.rulesStrings.20>destroyed_past->crushed</Poke.rulePack.rulesStrings.20>
-        <Poke.rulePack.rulesStrings.21>destroyed_past->obliterated</Poke.rulePack.rulesStrings.21>
-        <Poke.rulePack.rulesStrings.22>destroyed_past->annihilated</Poke.rulePack.rulesStrings.22>
-        <Poke.rulePack.rulesStrings.23>destroyed_past->broke</Poke.rulePack.rulesStrings.23>
-        <Poke.rulePack.rulesStrings.24>destroyed_present->shattering</Poke.rulePack.rulesStrings.24>
-        <Poke.rulePack.rulesStrings.25>destroyed_present->crushing</Poke.rulePack.rulesStrings.25>
-        <Poke.rulePack.rulesStrings.26>destroyed_present->obliterating</Poke.rulePack.rulesStrings.26>
-        <Poke.rulePack.rulesStrings.27>destroyed_present->annihilating</Poke.rulePack.rulesStrings.27>
-        <Poke.rulePack.rulesStrings.28>destroyed_present->breaking</Poke.rulePack.rulesStrings.28>
-        <Poke.rulePack.rulesStrings.29>destroyed_suffix->[to] pieces</Poke.rulePack.rulesStrings.29>
-        <Poke.rulePack.rulesStrings.30>destroyed_suffix->[to] bits</Poke.rulePack.rulesStrings.30>
-        <Poke.rulePack.rulesStrings.31>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</Poke.rulePack.rulesStrings.31>
-        <Poke.rulePack.rulesStrings.32>destroyed_suffix->[to] fragments</Poke.rulePack.rulesStrings.32>
+        <Poke.rulePack.rulesStrings.19>destroyed_past->打ち砕いた</Poke.rulePack.rulesStrings.19>
+        <Poke.rulePack.rulesStrings.20>destroyed_past->砕いた</Poke.rulePack.rulesStrings.20>
+        <Poke.rulePack.rulesStrings.21>destroyed_past->完全に破壊した</Poke.rulePack.rulesStrings.21>
+        <Poke.rulePack.rulesStrings.22>destroyed_past->ダメにした</Poke.rulePack.rulesStrings.22>
+        <Poke.rulePack.rulesStrings.23>destroyed_past->壊した</Poke.rulePack.rulesStrings.23>
+        <Poke.rulePack.rulesStrings.24>destroyed_present->打ち砕いている</Poke.rulePack.rulesStrings.24>
+        <Poke.rulePack.rulesStrings.25>destroyed_present->砕いている</Poke.rulePack.rulesStrings.25>
+        <Poke.rulePack.rulesStrings.26>destroyed_present->完全に破壊している</Poke.rulePack.rulesStrings.26>
+        <Poke.rulePack.rulesStrings.27>destroyed_present->ダメにしている</Poke.rulePack.rulesStrings.27>
+        <Poke.rulePack.rulesStrings.28>destroyed_present->壊している</Poke.rulePack.rulesStrings.28>
+        <Poke.rulePack.rulesStrings.29>destroyed_suffix->一片[to]</Poke.rulePack.rulesStrings.29>
+        <Poke.rulePack.rulesStrings.30>destroyed_suffix->小片[to]</Poke.rulePack.rulesStrings.30>
+        <Poke.rulePack.rulesStrings.31>destroyed_suffix(recipient_flesh!=Mechanoid)->細かい霧状[to]</Poke.rulePack.rulesStrings.31>
+        <Poke.rulePack.rulesStrings.32>destroyed_suffix->断片[to] fragments</Poke.rulePack.rulesStrings.32>
 
 
-        <Bite.rulePack.rulesStrings.0>damaged_inf->bite</Bite.rulePack.rulesStrings.0>
-        <Bite.rulePack.rulesStrings.1>damaged_inf->chomp</Bite.rulePack.rulesStrings.1>
-        <Bite.rulePack.rulesStrings.2>damaged_inf(p=0.5)->nip</Bite.rulePack.rulesStrings.2>
+        <Bite.rulePack.rulesStrings.0>damaged_inf->噛む</Bite.rulePack.rulesStrings.0>
+        <Bite.rulePack.rulesStrings.1>damaged_inf->ムシャムシャ喰う</Bite.rulePack.rulesStrings.1>
+        <Bite.rulePack.rulesStrings.2>damaged_inf(p=0.5)->かむ</Bite.rulePack.rulesStrings.2>
 
-        <Bite.rulePack.rulesStrings.3>damaged_past->bit</Bite.rulePack.rulesStrings.3>
-        <Bite.rulePack.rulesStrings.4>damaged_past->chomped</Bite.rulePack.rulesStrings.4>
-        <Bite.rulePack.rulesStrings.5>damaged_past->nipped</Bite.rulePack.rulesStrings.5>
-        <Bite.rulePack.rulesStrings.6>damaged_past->gnawed</Bite.rulePack.rulesStrings.6>
-        <Bite.rulePack.rulesStrings.7>damaged_past->tore</Bite.rulePack.rulesStrings.7>
+        <Bite.rulePack.rulesStrings.3>damaged_past->噛んだ</Bite.rulePack.rulesStrings.3>
+        <Bite.rulePack.rulesStrings.4>damaged_past->ムシャムシャ喰った</Bite.rulePack.rulesStrings.4>
+        <Bite.rulePack.rulesStrings.5>damaged_past->噛んだ</Bite.rulePack.rulesStrings.5>
+        <Bite.rulePack.rulesStrings.6>damaged_past->囓った</Bite.rulePack.rulesStrings.6>
+        <Bite.rulePack.rulesStrings.7>damaged_past->引き裂いた</Bite.rulePack.rulesStrings.7>
 
-        <Bite.rulePack.rulesStrings.8>maneuver_present->biting</Bite.rulePack.rulesStrings.8>
-        <Bite.rulePack.rulesStrings.9>maneuver_present->chomping</Bite.rulePack.rulesStrings.9>
-        <Bite.rulePack.rulesStrings.10>maneuver_present->nipped</Bite.rulePack.rulesStrings.10>
-        <Bite.rulePack.rulesStrings.11>maneuver_present->gnawing</Bite.rulePack.rulesStrings.11>
-        <Bite.rulePack.rulesStrings.12>maneuver_present->tearing</Bite.rulePack.rulesStrings.12>
+        <Bite.rulePack.rulesStrings.8>maneuver_present->噛んでいる</Bite.rulePack.rulesStrings.8>
+        <Bite.rulePack.rulesStrings.9>maneuver_present->ムシャムシャ喰っている</Bite.rulePack.rulesStrings.9>
+        <Bite.rulePack.rulesStrings.10>maneuver_present->噛んでいる</Bite.rulePack.rulesStrings.10>
+        <Bite.rulePack.rulesStrings.11>maneuver_present->囓っている</Bite.rulePack.rulesStrings.11>
+        <Bite.rulePack.rulesStrings.12>maneuver_present->引き裂いている</Bite.rulePack.rulesStrings.12>
 
-        <Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</Bite.rulePack.rulesStrings.13>
-        <Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Bite.rulePack.rulesStrings.14>
-        <Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</Bite.rulePack.rulesStrings.15>
-        <Bite.rulePack.rulesStrings.16>flavortextconsequence(recipient_flesh==Mechanoid)->leaving grisly tears in the metal</Bite.rulePack.rulesStrings.16>
+        <Bite.rulePack.rulesStrings.13>flavortextconsequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</Bite.rulePack.rulesStrings.13>
+        <Bite.rulePack.rulesStrings.14>flavortextconsequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</Bite.rulePack.rulesStrings.14>
+        <Bite.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->容赦なく皮膚に傷を残したまま</Bite.rulePack.rulesStrings.15>
+        <Bite.rulePack.rulesStrings.16>flavortextconsequence(recipient_flesh==Mechanoid)->容赦なく装甲に傷を残したまま</Bite.rulePack.rulesStrings.16>
 
-        <Bite.rulePack.rulesStrings.17>destroyed_past->devoured</Bite.rulePack.rulesStrings.17>
-        <Bite.rulePack.rulesStrings.18>destroyed_past->separated</Bite.rulePack.rulesStrings.18>
-        <Bite.rulePack.rulesStrings.19>destroyed_past->ripped</Bite.rulePack.rulesStrings.19>
-        <Bite.rulePack.rulesStrings.20>destroyed_past->ravaged</Bite.rulePack.rulesStrings.20>
+        <Bite.rulePack.rulesStrings.17>destroyed_past->むさぼり喰った</Bite.rulePack.rulesStrings.17>
+        <Bite.rulePack.rulesStrings.18>destroyed_past->かみ切った</Bite.rulePack.rulesStrings.18>
+        <Bite.rulePack.rulesStrings.19>destroyed_past->引き裂いた</Bite.rulePack.rulesStrings.19>
+        <Bite.rulePack.rulesStrings.20>destroyed_past->破壊した</Bite.rulePack.rulesStrings.20>
 
-        <Bite.rulePack.rulesStrings.21>destroyed_present->devouring</Bite.rulePack.rulesStrings.21>
-        <Bite.rulePack.rulesStrings.22>destroyed_present->separating</Bite.rulePack.rulesStrings.22>
-        <Bite.rulePack.rulesStrings.23>destroyed_present->ripping</Bite.rulePack.rulesStrings.23>
-        <Bite.rulePack.rulesStrings.24>destroyed_present->ravaging</Bite.rulePack.rulesStrings.24>
+        <Bite.rulePack.rulesStrings.21>destroyed_present->むさぼり喰っている</Bite.rulePack.rulesStrings.21>
+        <Bite.rulePack.rulesStrings.22>destroyed_present->かみ切っている</Bite.rulePack.rulesStrings.22>
+        <Bite.rulePack.rulesStrings.23>destroyed_present->引き裂いている</Bite.rulePack.rulesStrings.23>
+        <Bite.rulePack.rulesStrings.24>destroyed_present->破壊している</Bite.rulePack.rulesStrings.24>
 
-        <Bite.rulePack.rulesStrings.25>destroyed_suffix->[to] shreds</Bite.rulePack.rulesStrings.25>>  <!-- How's his wife holding up? -->
-        <Bite.rulePack.rulesStrings.26>destroyed_suffix->[to] pieces</Bite.rulePack.rulesStrings.26>
-        <Bite.rulePack.rulesStrings.27>destroyed_suffix->[to] strips</Bite.rulePack.rulesStrings.27>
-        <Bite.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</Bite.rulePack.rulesStrings.28>
-        <Bite.rulePack.rulesStrings.29>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</Bite.rulePack.rulesStrings.29>
+        <Bite.rulePack.rulesStrings.25>destroyed_suffix->細長い破片[to]</Bite.rulePack.rulesStrings.25>>  <!-- How's his wife holding up? -->
+        <Bite.rulePack.rulesStrings.26>destroyed_suffix->一片[to]</Bite.rulePack.rulesStrings.26>
+        <Bite.rulePack.rulesStrings.27>destroyed_suffix->細長い一片[to]</Bite.rulePack.rulesStrings.27>
+        <Bite.rulePack.rulesStrings.28>destroyed_suffix(recipient_flesh!=Mechanoid)->汚らしい細長い片[to]</Bite.rulePack.rulesStrings.28>
+        <Bite.rulePack.rulesStrings.29>destroyed_suffix(recipient_flesh!=Mechanoid)->見分けられない散乱[to]</Bite.rulePack.rulesStrings.29>
 
 </LanguageData>

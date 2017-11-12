@@ -4,103 +4,101 @@
         <Combat_MeleeIncludes.rulePack.rulesStrings.0>logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
         <Combat_MeleeIncludes.rulePack.rulesStrings.1>logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(implementOwnerType==weapon,p=2)->[initiator_possessive] [weapon_label]'s [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(implementOwnerType==weapon,p=2)->[initiator_possessive] [weapon_label]の [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
         <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(implementOwnerType==weapon,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(implementOwnerType==weapon,p=1)->a [weapon_label]'s [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(implementOwnerType==weapon,p=0.5)->a [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
-
+        <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(implementOwnerType==weapon,p=1)->[weapon_label]の [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(implementOwnerType==weapon,p=0.5)->[weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
         <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(implementOwnerType==bodypart,p=2)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
         <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(implementOwnerType==bodypart,p=1)->[initiator_possessive] [bodypart_adjective] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
-
-        <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(implementOwnerType==hediff,p=2)->[initiator_possessive] [weapon_label]'s [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(implementOwnerType==hediff,p=2)->[initiator_possessive] [weapon_label]の [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
         <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
         <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
-        
-        <Combat_MeleeIncludes.rulePack.rulesStrings.11>bodypart_adjective->hard</Combat_MeleeIncludes.rulePack.rulesStrings.11>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.12>bodypart_adjective->strong</Combat_MeleeIncludes.rulePack.rulesStrings.12>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.13>bodypart_adjective->powerful</Combat_MeleeIncludes.rulePack.rulesStrings.13>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.14>bodypart_adjective->forceful</Combat_MeleeIncludes.rulePack.rulesStrings.14>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.15>bodypart_adjective->mighty</Combat_MeleeIncludes.rulePack.rulesStrings.15>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.16>bodypart_adjective->rugged</Combat_MeleeIncludes.rulePack.rulesStrings.16>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.17>bodypart_adjective->stout</Combat_MeleeIncludes.rulePack.rulesStrings.17>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->sturdy</Combat_MeleeIncludes.rulePack.rulesStrings.18>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.19>bodypart_adjective->solid</Combat_MeleeIncludes.rulePack.rulesStrings.19>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.20>bodypart_adjective->tough</Combat_MeleeIncludes.rulePack.rulesStrings.20>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.21>bodypart_adjective(initiator_flesh==True)->calloused</Combat_MeleeIncludes.rulePack.rulesStrings.21>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.22>bodypart_adjective->firm</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+
+        <Combat_MeleeIncludes.rulePack.rulesStrings.11>bodypart_adjective->激しい</Combat_MeleeIncludes.rulePack.rulesStrings.11>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.12>bodypart_adjective->強い</Combat_MeleeIncludes.rulePack.rulesStrings.12>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.13>bodypart_adjective->強力な</Combat_MeleeIncludes.rulePack.rulesStrings.13>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.14>bodypart_adjective->力強い</Combat_MeleeIncludes.rulePack.rulesStrings.14>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.15>bodypart_adjective->強力な</Combat_MeleeIncludes.rulePack.rulesStrings.15>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.16>bodypart_adjective->ゴツゴツした</Combat_MeleeIncludes.rulePack.rulesStrings.16>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.17>bodypart_adjective->丈夫な</Combat_MeleeIncludes.rulePack.rulesStrings.17>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.18>bodypart_adjective->頑丈な</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.19>bodypart_adjective->しっかりした</Combat_MeleeIncludes.rulePack.rulesStrings.19>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.20>bodypart_adjective->タフな</Combat_MeleeIncludes.rulePack.rulesStrings.20>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.21>bodypart_adjective(initiator_flesh==True)->硬くなった</Combat_MeleeIncludes.rulePack.rulesStrings.21>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.22>bodypart_adjective->堅い</Combat_MeleeIncludes.rulePack.rulesStrings.22>
 
         <Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26> <!-- don't include constraint; this acts as a fallback for >=4-->
+        <Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label]、[recipient_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label]、[recipient_part1_label]と [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label]、[recipient_part2_label]と [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26> <!-- don't include constraint; this acts as a fallback for >=4-->
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->wounding</Combat_MeleeIncludes.rulePack.rulesStrings.27>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->injuring</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->傷つける</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->怪我させる</Combat_MeleeIncludes.rulePack.rulesStrings.28>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.29>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.30>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.31>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.32>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->壊した</Combat_MeleeIncludes.rulePack.rulesStrings.29>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->粉砕した</Combat_MeleeIncludes.rulePack.rulesStrings.30>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->崩壊した</Combat_MeleeIncludes.rulePack.rulesStrings.31>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->破壊した</Combat_MeleeIncludes.rulePack.rulesStrings.32>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.33>result(p=0.5)->[damaged_present] [recipient_possessive] [targetlist]</Combat_MeleeIncludes.rulePack.rulesStrings.33>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.34>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] [flavortextadverb]</Combat_MeleeIncludes.rulePack.rulesStrings.34>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.35>result(p=10000)->[damaged_present] [recipient_possessive] [targetlist] [flavortextsituation]</Combat_MeleeIncludes.rulePack.rulesStrings.35>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.36>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] and [flavortextconsequence]</Combat_MeleeIncludes.rulePack.rulesStrings.36>
-        
-        <Combat_MeleeIncludes.rulePack.rulesStrings.37>flavortextadverb->painfully</Combat_MeleeIncludes.rulePack.rulesStrings.37>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.38>flavortextadverb->brutally</Combat_MeleeIncludes.rulePack.rulesStrings.38>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.39>flavortextadverb->horribly</Combat_MeleeIncludes.rulePack.rulesStrings.39>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.40>flavortextadverb->agonizingly</Combat_MeleeIncludes.rulePack.rulesStrings.40>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.41>flavortextadverb->fiercely</Combat_MeleeIncludes.rulePack.rulesStrings.41>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.42>flavortextadverb->ruthlessly</Combat_MeleeIncludes.rulePack.rulesStrings.42>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.43>flavortextadverb->savagely</Combat_MeleeIncludes.rulePack.rulesStrings.43>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.44>flavortextadverb->viciously</Combat_MeleeIncludes.rulePack.rulesStrings.44>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.45>flavortextadverb->mercilessly</Combat_MeleeIncludes.rulePack.rulesStrings.45>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.46>flavortextadverb->heartlessly</Combat_MeleeIncludes.rulePack.rulesStrings.46>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.33>result(p=0.5)->[recipient_possessive] [targetlist]を [damaged_present]</Combat_MeleeIncludes.rulePack.rulesStrings.33>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.34>result(p=0.2)->[recipient_possessive] [targetlist]を [flavortextadverb] [damaged_present]</Combat_MeleeIncludes.rulePack.rulesStrings.34>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.35>result(p=10000)->[flavortextsituation] [recipient_possessive] [targetlist]を [damaged_present]</Combat_MeleeIncludes.rulePack.rulesStrings.35>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.36>result(p=0.2)->[recipient_possessive] [targetlist] [damaged_present]、更に [flavortextconsequence]</Combat_MeleeIncludes.rulePack.rulesStrings.36>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->in an explosion of gore</Combat_MeleeIncludes.rulePack.rulesStrings.47>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.48>flavortextsituation(recipient_flesh==Mechanoid)->in an explosion of scrap</Combat_MeleeIncludes.rulePack.rulesStrings.48>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.49>flavortextsituation->without emotion</Combat_MeleeIncludes.rulePack.rulesStrings.49>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.50>flavortextsituation->while wearing a blank look</Combat_MeleeIncludes.rulePack.rulesStrings.50>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.51>flavortextsituation(initiator_flesh==Normal)->while wearing a savage look</Combat_MeleeIncludes.rulePack.rulesStrings.51>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.52>flavortextsituation(initiator_flesh==Normal)->while wearing a [badassadjective] look</Combat_MeleeIncludes.rulePack.rulesStrings.52>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.53>flavortextsituation(initiator_flesh==Normal)->while grimacing</Combat_MeleeIncludes.rulePack.rulesStrings.53>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.54>flavortextsituation(initiator_flesh==Normal)->while laughing</Combat_MeleeIncludes.rulePack.rulesStrings.54>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.55>flavortextsituation(initiator_flesh==Normal)->while smirking</Combat_MeleeIncludes.rulePack.rulesStrings.55>
-        
-        <Combat_MeleeIncludes.rulePack.rulesStrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->making [recipient_objective] [wince] [painevent]</Combat_MeleeIncludes.rulePack.rulesStrings.56>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence(p=0.2)->throwing [recipient_objective] off balance</Combat_MeleeIncludes.rulePack.rulesStrings.57>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.37>flavortextadverb->痛烈に</Combat_MeleeIncludes.rulePack.rulesStrings.37>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.38>flavortextadverb->残酷に</Combat_MeleeIncludes.rulePack.rulesStrings.38>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.39>flavortextadverb->恐ろしく</Combat_MeleeIncludes.rulePack.rulesStrings.39>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.40>flavortextadverb->苦しみ悶える</Combat_MeleeIncludes.rulePack.rulesStrings.40>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.41>flavortextadverb->猛烈に</Combat_MeleeIncludes.rulePack.rulesStrings.41>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.42>flavortextadverb->情け容赦なく</Combat_MeleeIncludes.rulePack.rulesStrings.42>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.43>flavortextadverb->獰猛に</Combat_MeleeIncludes.rulePack.rulesStrings.43>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.44>flavortextadverb->意地悪に</Combat_MeleeIncludes.rulePack.rulesStrings.44>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.45>flavortextadverb->無慈悲に</Combat_MeleeIncludes.rulePack.rulesStrings.45>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.46>flavortextadverb->薄情に</Combat_MeleeIncludes.rulePack.rulesStrings.46>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.58>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.58>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.59>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.59>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.60>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.61>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh!=Mechanoid)->scream</Combat_MeleeIncludes.rulePack.rulesStrings.62>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh!=Mechanoid)->shout</Combat_MeleeIncludes.rulePack.rulesStrings.63>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.64>wince->recoil</Combat_MeleeIncludes.rulePack.rulesStrings.64>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.65>wince->stumble</Combat_MeleeIncludes.rulePack.rulesStrings.65>
-        
-        <Combat_MeleeIncludes.rulePack.rulesStrings.66>painstate->in</Combat_MeleeIncludes.rulePack.rulesStrings.66>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.67>painstate->with</Combat_MeleeIncludes.rulePack.rulesStrings.67>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.68>painstate->from the</Combat_MeleeIncludes.rulePack.rulesStrings.68>
-        
-        <Combat_MeleeIncludes.rulePack.rulesStrings.69>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</Combat_MeleeIncludes.rulePack.rulesStrings.69>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.70>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</Combat_MeleeIncludes.rulePack.rulesStrings.70>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.71>painevent(recipient_flesh==Normal)->with misery</Combat_MeleeIncludes.rulePack.rulesStrings.71>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.72>painevent->from the injury</Combat_MeleeIncludes.rulePack.rulesStrings.72>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.73>painevent->from the wound</Combat_MeleeIncludes.rulePack.rulesStrings.73>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->飛び散った血のりの中で</Combat_MeleeIncludes.rulePack.rulesStrings.47>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.48>flavortextsituation(recipient_flesh==Mechanoid)->散乱したスクラップの中で</Combat_MeleeIncludes.rulePack.rulesStrings.48>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.49>flavortextsituation->感情の高まりもなく</Combat_MeleeIncludes.rulePack.rulesStrings.49>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.50>flavortextsituation->うつろな顔つきのままで</Combat_MeleeIncludes.rulePack.rulesStrings.50>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.51>flavortextsituation(initiator_flesh==Normal)->凶暴な顔つきのままで</Combat_MeleeIncludes.rulePack.rulesStrings.51>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.52>flavortextsituation(initiator_flesh==Normal)->[badassadjective]顔つきのままで</Combat_MeleeIncludes.rulePack.rulesStrings.52>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.53>flavortextsituation(initiator_flesh==Normal)->険しい表情のままで</Combat_MeleeIncludes.rulePack.rulesStrings.53>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.54>flavortextsituation(initiator_flesh==Normal)->笑みを浮かべながら</Combat_MeleeIncludes.rulePack.rulesStrings.54>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.55>flavortextsituation(initiator_flesh==Normal)->ニヤつきながら</Combat_MeleeIncludes.rulePack.rulesStrings.55>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.74>mortarshell->shell</Combat_MeleeIncludes.rulePack.rulesStrings.74>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.75>mortarshell->shot</Combat_MeleeIncludes.rulePack.rulesStrings.75>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.76>mortarshell->projectile</Combat_MeleeIncludes.rulePack.rulesStrings.76>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.77>mortarshell->explosive</Combat_MeleeIncludes.rulePack.rulesStrings.77>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.78>mortarshell->bomb</Combat_MeleeIncludes.rulePack.rulesStrings.78>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.79>mortarshell(p=0.3)->ballistic shell</Combat_MeleeIncludes.rulePack.rulesStrings.79>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.80>mortarshell(p=0.3)->ballistic shot</Combat_MeleeIncludes.rulePack.rulesStrings.80>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.81>mortarshell(p=0.3)->ballistic projectile</Combat_MeleeIncludes.rulePack.rulesStrings.81>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->[painevent] [recipient_objective] [wince]</Combat_MeleeIncludes.rulePack.rulesStrings.56>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence(p=0.2)->体勢の整っていない [recipient_objective]を投げ飛ばしている</Combat_MeleeIncludes.rulePack.rulesStrings.57>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.82>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.82>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.83>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.83>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.58>wince(recipient_flesh==Normal)->をたじろがさせている</Combat_MeleeIncludes.rulePack.rulesStrings.58>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.59>wince(recipient_flesh==Normal)->の顔をしかめさせている</Combat_MeleeIncludes.rulePack.rulesStrings.59>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->をすくまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.60>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->をうめかせている</Combat_MeleeIncludes.rulePack.rulesStrings.61>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh!=Mechanoid)->に叫び声を上げさせている</Combat_MeleeIncludes.rulePack.rulesStrings.62>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh!=Mechanoid)->に叫ばさせている</Combat_MeleeIncludes.rulePack.rulesStrings.63>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.64>wince->をひるまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.64>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.65>wince->をよろめかさせている</Combat_MeleeIncludes.rulePack.rulesStrings.65>
+
+        <Combat_MeleeIncludes.rulePack.rulesStrings.66>painstate->で</Combat_MeleeIncludes.rulePack.rulesStrings.66>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.67>painstate->とで</Combat_MeleeIncludes.rulePack.rulesStrings.67>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.68>painstate->によって</Combat_MeleeIncludes.rulePack.rulesStrings.68>
+
+        <Combat_MeleeIncludes.rulePack.rulesStrings.69>painevent(recipient_flesh!=Mechanoid)->痛み[painstate]</Combat_MeleeIncludes.rulePack.rulesStrings.69>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.70>painevent(recipient_flesh!=Mechanoid)->苦痛に[painstate]</Combat_MeleeIncludes.rulePack.rulesStrings.70>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.71>painevent(recipient_flesh==Normal)->惨めさで</Combat_MeleeIncludes.rulePack.rulesStrings.71>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.72>painevent->傷によって</Combat_MeleeIncludes.rulePack.rulesStrings.72>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.73>painevent->怪我によって</Combat_MeleeIncludes.rulePack.rulesStrings.73>
+
+        <Combat_MeleeIncludes.rulePack.rulesStrings.74>mortarshell->砲弾</Combat_MeleeIncludes.rulePack.rulesStrings.74>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.75>mortarshell->弾</Combat_MeleeIncludes.rulePack.rulesStrings.75>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.76>mortarshell->射出物</Combat_MeleeIncludes.rulePack.rulesStrings.76>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.77>mortarshell->爆発物</Combat_MeleeIncludes.rulePack.rulesStrings.77>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.78>mortarshell->爆弾</Combat_MeleeIncludes.rulePack.rulesStrings.78>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.79>mortarshell(p=0.3)->弾道砲弾</Combat_MeleeIncludes.rulePack.rulesStrings.79>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.80>mortarshell(p=0.3)->弾道弾</Combat_MeleeIncludes.rulePack.rulesStrings.80>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.81>mortarshell(p=0.3)->弾道射出物</Combat_MeleeIncludes.rulePack.rulesStrings.81>
+
+        <Combat_MeleeIncludes.rulePack.rulesStrings.82>to->へ</Combat_MeleeIncludes.rulePack.rulesStrings.82>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.83>to->中へ</Combat_MeleeIncludes.rulePack.rulesStrings.83>
         <Combat_MeleeIncludes.rulePack.rulesStrings.84>initiator_definite->[initiator_labelDefinite]</Combat_MeleeIncludes.rulePack.rulesStrings.84>
         <Combat_MeleeIncludes.rulePack.rulesStrings.85>initiator_definite->[initiator_nameShortDef]</Combat_MeleeIncludes.rulePack.rulesStrings.85>
 
@@ -109,124 +107,124 @@
 
 
         <Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
-        <Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
-        <Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
-        <Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3> <!-- fallback for 4+ -->
+        <Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label]と [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
+        <Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label]、[recipient_part_destroyed1_label]と [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
+        <Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label]、[recipient_part_destroyed2_label]と [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3> <!-- fallback for 4+ -->
 
         <Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
-        <Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
-        <Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
-        <Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7> <!-- fallback for 4+ -->
+        <Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label]と [recipient_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
+        <Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label]、[recipient_part_damaged1_label]と [recipient_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
+        <Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label]、[recipient_part_damaged2_label]と [recipient_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7> <!-- fallback for 4+ -->
 
-        <Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->expertly</Combat_WoundIncludes.rulePack.rulesStrings.8>
-        <Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->adeptly</Combat_WoundIncludes.rulePack.rulesStrings.9>
-        <Combat_WoundIncludes.rulePack.rulesStrings.10>expertly->adroitly</Combat_WoundIncludes.rulePack.rulesStrings.10>
-        <Combat_WoundIncludes.rulePack.rulesStrings.11>expertly->deftly</Combat_WoundIncludes.rulePack.rulesStrings.11>
-        <Combat_WoundIncludes.rulePack.rulesStrings.12>expertly->skillfully</Combat_WoundIncludes.rulePack.rulesStrings.12>
-        <Combat_WoundIncludes.rulePack.rulesStrings.13>expertly->slickly</Combat_WoundIncludes.rulePack.rulesStrings.13>
-        <Combat_WoundIncludes.rulePack.rulesStrings.14>expertly->professionally</Combat_WoundIncludes.rulePack.rulesStrings.14>
-        <Combat_WoundIncludes.rulePack.rulesStrings.15>expertly->aptly</Combat_WoundIncludes.rulePack.rulesStrings.15>
-        <Combat_WoundIncludes.rulePack.rulesStrings.16>expertly->dexterously</Combat_WoundIncludes.rulePack.rulesStrings.16>
-        <Combat_WoundIncludes.rulePack.rulesStrings.17>expertly->cleverly</Combat_WoundIncludes.rulePack.rulesStrings.17>
-        <Combat_WoundIncludes.rulePack.rulesStrings.18>expertly->masterfully</Combat_WoundIncludes.rulePack.rulesStrings.18>
-        <Combat_WoundIncludes.rulePack.rulesStrings.19>expertly->artistically</Combat_WoundIncludes.rulePack.rulesStrings.19>
-        <Combat_WoundIncludes.rulePack.rulesStrings.20>expertly->with skill</Combat_WoundIncludes.rulePack.rulesStrings.20>
-        <Combat_WoundIncludes.rulePack.rulesStrings.21>expertly->with impressive experience</Combat_WoundIncludes.rulePack.rulesStrings.21>
-        <Combat_WoundIncludes.rulePack.rulesStrings.22>expertly->with flair</Combat_WoundIncludes.rulePack.rulesStrings.22>
-        <Combat_WoundIncludes.rulePack.rulesStrings.23>expertly->with care</Combat_WoundIncludes.rulePack.rulesStrings.23>
-        <Combat_WoundIncludes.rulePack.rulesStrings.24>expertly->with precision</Combat_WoundIncludes.rulePack.rulesStrings.24>
-        <Combat_WoundIncludes.rulePack.rulesStrings.25>expertly->with proficiency</Combat_WoundIncludes.rulePack.rulesStrings.25>
-        <Combat_WoundIncludes.rulePack.rulesStrings.26>expertly->with strength</Combat_WoundIncludes.rulePack.rulesStrings.26>
-        <Combat_WoundIncludes.rulePack.rulesStrings.27>expertly->with dexterity</Combat_WoundIncludes.rulePack.rulesStrings.27>
-        <Combat_WoundIncludes.rulePack.rulesStrings.28>expertly->with mastery</Combat_WoundIncludes.rulePack.rulesStrings.28>
-        <Combat_WoundIncludes.rulePack.rulesStrings.29>expertly->with artistry</Combat_WoundIncludes.rulePack.rulesStrings.29>
-        <Combat_WoundIncludes.rulePack.rulesStrings.30>expertly->with professionalism</Combat_WoundIncludes.rulePack.rulesStrings.30>
-        <Combat_WoundIncludes.rulePack.rulesStrings.31>expertly->like a virtuoso</Combat_WoundIncludes.rulePack.rulesStrings.31>
-        <Combat_WoundIncludes.rulePack.rulesStrings.32>expertly->like an expert</Combat_WoundIncludes.rulePack.rulesStrings.32>
-        <Combat_WoundIncludes.rulePack.rulesStrings.33>expertly->like a master</Combat_WoundIncludes.rulePack.rulesStrings.33>
-        <Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->like an artist</Combat_WoundIncludes.rulePack.rulesStrings.34>
-        <Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->like a pro</Combat_WoundIncludes.rulePack.rulesStrings.35>
+        <Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->巧妙に</Combat_WoundIncludes.rulePack.rulesStrings.8>
+        <Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->賢く</Combat_WoundIncludes.rulePack.rulesStrings.9>
+        <Combat_WoundIncludes.rulePack.rulesStrings.10>expertly->芸術的に</Combat_WoundIncludes.rulePack.rulesStrings.10>
+        <Combat_WoundIncludes.rulePack.rulesStrings.11>expertly->手腕を発揮して</Combat_WoundIncludes.rulePack.rulesStrings.11>
+        <Combat_WoundIncludes.rulePack.rulesStrings.12>expertly->素晴らしい経験を持って</Combat_WoundIncludes.rulePack.rulesStrings.12>
+        <Combat_WoundIncludes.rulePack.rulesStrings.13>expertly->ひらめきを持って</Combat_WoundIncludes.rulePack.rulesStrings.13>
+        <Combat_WoundIncludes.rulePack.rulesStrings.14>expertly->専門的に</Combat_WoundIncludes.rulePack.rulesStrings.14>
+        <Combat_WoundIncludes.rulePack.rulesStrings.15>expertly->上手に</Combat_WoundIncludes.rulePack.rulesStrings.15>
+        <Combat_WoundIncludes.rulePack.rulesStrings.16>expertly->器用に</Combat_WoundIncludes.rulePack.rulesStrings.16>
+        <Combat_WoundIncludes.rulePack.rulesStrings.17>expertly->巧みに</Combat_WoundIncludes.rulePack.rulesStrings.17>
+        <Combat_WoundIncludes.rulePack.rulesStrings.18>expertly->賢く</Combat_WoundIncludes.rulePack.rulesStrings.18>
+        <Combat_WoundIncludes.rulePack.rulesStrings.19>expertly->芸術的に</Combat_WoundIncludes.rulePack.rulesStrings.19>
+        <Combat_WoundIncludes.rulePack.rulesStrings.20>expertly->手腕を発揮して</Combat_WoundIncludes.rulePack.rulesStrings.20>
+        <Combat_WoundIncludes.rulePack.rulesStrings.21>expertly->素晴らしい経験をもって</Combat_WoundIncludes.rulePack.rulesStrings.21>
+        <Combat_WoundIncludes.rulePack.rulesStrings.22>expertly->鋭い勘をもって</Combat_WoundIncludes.rulePack.rulesStrings.22>
+        <Combat_WoundIncludes.rulePack.rulesStrings.23>expertly->心配がちに</Combat_WoundIncludes.rulePack.rulesStrings.23>
+        <Combat_WoundIncludes.rulePack.rulesStrings.24>expertly->精度をもって</Combat_WoundIncludes.rulePack.rulesStrings.24>
+        <Combat_WoundIncludes.rulePack.rulesStrings.25>expertly->熟練度をもって</Combat_WoundIncludes.rulePack.rulesStrings.25>
+        <Combat_WoundIncludes.rulePack.rulesStrings.26>expertly->長所を活かして</Combat_WoundIncludes.rulePack.rulesStrings.26>
+        <Combat_WoundIncludes.rulePack.rulesStrings.27>expertly->器用さを活かして</Combat_WoundIncludes.rulePack.rulesStrings.27>
+        <Combat_WoundIncludes.rulePack.rulesStrings.28>expertly->精通して</Combat_WoundIncludes.rulePack.rulesStrings.28>
+        <Combat_WoundIncludes.rulePack.rulesStrings.29>expertly->芸術的手腕を持って</Combat_WoundIncludes.rulePack.rulesStrings.29>
+        <Combat_WoundIncludes.rulePack.rulesStrings.30>expertly->職業意識をもって</Combat_WoundIncludes.rulePack.rulesStrings.30>
+        <Combat_WoundIncludes.rulePack.rulesStrings.31>expertly->巨匠のように</Combat_WoundIncludes.rulePack.rulesStrings.31>
+        <Combat_WoundIncludes.rulePack.rulesStrings.32>expertly->専門家のように</Combat_WoundIncludes.rulePack.rulesStrings.32>
+        <Combat_WoundIncludes.rulePack.rulesStrings.33>expertly->マスターのように</Combat_WoundIncludes.rulePack.rulesStrings.33>
+        <Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->芸術家のように</Combat_WoundIncludes.rulePack.rulesStrings.34>
+        <Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->プロのように</Combat_WoundIncludes.rulePack.rulesStrings.35>
 
-        <Combat_WoundIncludes.rulePack.rulesStrings.36>expert->expert</Combat_WoundIncludes.rulePack.rulesStrings.36>
-        <Combat_WoundIncludes.rulePack.rulesStrings.37>expert->adept</Combat_WoundIncludes.rulePack.rulesStrings.37>
-        <Combat_WoundIncludes.rulePack.rulesStrings.38>expert->adroit</Combat_WoundIncludes.rulePack.rulesStrings.38>
-        <Combat_WoundIncludes.rulePack.rulesStrings.39>expert->deft</Combat_WoundIncludes.rulePack.rulesStrings.39>
-        <Combat_WoundIncludes.rulePack.rulesStrings.40>expert->skillful</Combat_WoundIncludes.rulePack.rulesStrings.40>
-        <Combat_WoundIncludes.rulePack.rulesStrings.41>expert->slick</Combat_WoundIncludes.rulePack.rulesStrings.41>
-        <Combat_WoundIncludes.rulePack.rulesStrings.42>expert->professional</Combat_WoundIncludes.rulePack.rulesStrings.42>
-        <Combat_WoundIncludes.rulePack.rulesStrings.43>expert->apt</Combat_WoundIncludes.rulePack.rulesStrings.43>
-        <Combat_WoundIncludes.rulePack.rulesStrings.44>expert->dexterous</Combat_WoundIncludes.rulePack.rulesStrings.44>
-        <Combat_WoundIncludes.rulePack.rulesStrings.45>expert->clever</Combat_WoundIncludes.rulePack.rulesStrings.45>
-        <Combat_WoundIncludes.rulePack.rulesStrings.46>expert->masterful</Combat_WoundIncludes.rulePack.rulesStrings.46>
-        <Combat_WoundIncludes.rulePack.rulesStrings.47>expert->artistic</Combat_WoundIncludes.rulePack.rulesStrings.47>
+        <Combat_WoundIncludes.rulePack.rulesStrings.36>expert->専門家</Combat_WoundIncludes.rulePack.rulesStrings.36>
+        <Combat_WoundIncludes.rulePack.rulesStrings.37>expert->名人的な</Combat_WoundIncludes.rulePack.rulesStrings.37>
+        <Combat_WoundIncludes.rulePack.rulesStrings.38>expert->機敏な</Combat_WoundIncludes.rulePack.rulesStrings.38>
+        <Combat_WoundIncludes.rulePack.rulesStrings.39>expert->器用な</Combat_WoundIncludes.rulePack.rulesStrings.39>
+        <Combat_WoundIncludes.rulePack.rulesStrings.40>expert->上手な</Combat_WoundIncludes.rulePack.rulesStrings.40>
+        <Combat_WoundIncludes.rulePack.rulesStrings.41>expert->巧妙な</Combat_WoundIncludes.rulePack.rulesStrings.41>
+        <Combat_WoundIncludes.rulePack.rulesStrings.42>expert->職業的な</Combat_WoundIncludes.rulePack.rulesStrings.42>
+        <Combat_WoundIncludes.rulePack.rulesStrings.43>expert->適切な</Combat_WoundIncludes.rulePack.rulesStrings.43>
+        <Combat_WoundIncludes.rulePack.rulesStrings.44>expert->巧みな</Combat_WoundIncludes.rulePack.rulesStrings.44>
+        <Combat_WoundIncludes.rulePack.rulesStrings.45>expert->賢く</Combat_WoundIncludes.rulePack.rulesStrings.45>
+        <Combat_WoundIncludes.rulePack.rulesStrings.46>expert->横柄な</Combat_WoundIncludes.rulePack.rulesStrings.46>
+        <Combat_WoundIncludes.rulePack.rulesStrings.47>expert->芸術的な</Combat_WoundIncludes.rulePack.rulesStrings.47>
 
 
-        <Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.0>
-        <Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label] [flavortextadverb].</Combat_Hit.rulePack.rulesStrings.1>
-        <Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label] [flavortextsituation].</Combat_Hit.rulePack.rulesStrings.2>
-        <Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] in the [recipient_part0_label], [flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
-        <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite], wielding [initiator_possessive] [weapon_label] [expertly], [flavortextadverb] [damaged_past] [recipient_definite] in the [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.4>
+        <Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_definite]は [recipient_definite]の [recipient_part0_label]を [damaged_past]。</Combat_Hit.rulePack.rulesStrings.0>
+        <Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_definite]は [recipient_definite]の [recipient_part0_label]を [flavortextadverb] [damaged_past]。</Combat_Hit.rulePack.rulesStrings.1>
+        <Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[flavortextsituation] [initiator_definite]は [recipient_definite]の [recipient_part0_label]を [damaged_past]。</Combat_Hit.rulePack.rulesStrings.2>
+        <Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_definite]は [recipient_definite]の [recipient_part0_label]を [damaged_past]、更に[flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
+        <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_definite]、 [initiator_possessive] [weapon_label]を [expertly]扱って [flavortextadverb] [recipient_definite]の [recipient_part0_label]を [damaged_past]。</Combat_Hit.rulePack.rulesStrings.4>
 
         <!-- combined high priority, if we destroyed something -->
-        <Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_Hit.rulePack.rulesStrings.5>
-        <Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] [destroyed_suffix].</Combat_Hit.rulePack.rulesStrings.6>
-        <Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] [expertly].</Combat_Hit.rulePack.rulesStrings.7>
-        <Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]'s [destroyed_targets] with [implement].</Combat_Hit.rulePack.rulesStrings.8>
+        <Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_definite]は [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_Hit.rulePack.rulesStrings.5>
+        <Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_definite]は [recipient_definite]の [destroyed_targets]を [destroyed_past]、それは[destroyed_suffix]になった。</Combat_Hit.rulePack.rulesStrings.6>
+        <Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_definite]は [recipient_definite]の [destroyed_targets]を [expertly] [destroyed_past]。</Combat_Hit.rulePack.rulesStrings.7>
+        <Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_definite]は [implement]で [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_Hit.rulePack.rulesStrings.8>
 
-        <Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [recipient_possessive] [destroyed_targets]</Combat_Hit.rulePack.rulesStrings.9>
-        <Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.10>
-        <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[destroyed_present] [recipient_possessive] [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.11>
-        
-        <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite] hit [recipient_definite] with a [damaged_inf] from [implement]</Combat_Hit.rulePack.rulesStrings.12>
-        <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite] used [implement] to [damaged_inf] [recipient_definite]</Combat_Hit.rulePack.rulesStrings.13>
-        <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite] [damaged_past] [recipient_definite] with [implement]</Combat_Hit.rulePack.rulesStrings.14>
+        <Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[recipient_possessive] [destroyed_targets]を [destroyed_present]</Combat_Hit.rulePack.rulesStrings.9>
+        <Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[recipient_possessive] [damaged_targets]を [damaged_present] </Combat_Hit.rulePack.rulesStrings.10>
+        <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[recipient_possessive] [destroyed_targets]を [destroyed_present]、そして [recipient_possessive] [damaged_targets]に [damaged_present]</Combat_Hit.rulePack.rulesStrings.11>
 
-
-        <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
-        <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite] [tried] to [damaged_inf] [recipient_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
-        <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite] [tried] to use [implement] to [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
-        <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite] swung [initiator_possessive] [weapon_label] at [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.3>
-        <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.4>
-        <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite]</Combat_FailIncludes.rulePack.rulesStrings.5>
-        <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[initiator_definite] [genericattackverb] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.6>
-
-        <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->towards</Combat_FailIncludes.rulePack.rulesStrings.7>
-        <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->at</Combat_FailIncludes.rulePack.rulesStrings.8>
-        
-        <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->swung</Combat_FailIncludes.rulePack.rulesStrings.9>
-        <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->flailed</Combat_FailIncludes.rulePack.rulesStrings.10>
-        <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->thrashed</Combat_FailIncludes.rulePack.rulesStrings.11>
-
-        <Combat_FailIncludes.rulePack.rulesStrings.12>tried->tried</Combat_FailIncludes.rulePack.rulesStrings.12>
-        <Combat_FailIncludes.rulePack.rulesStrings.13>tried->attempted</Combat_FailIncludes.rulePack.rulesStrings.13>
-        
-        
-        <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] avoided [initiator_definite]'s [weapon_label] [damaged_inf].</Combat_Miss.rulePack.rulesStrings.0>
-        <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite] missed [recipient_definite] with a [damaged_inf] from [implement].</Combat_Miss.rulePack.rulesStrings.1>
-        
-        <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite] [failtype] while trying to [damaged_inf] [recipient_definite] with [implement].</Combat_Miss.rulePack.rulesStrings.2>
-        <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite] [failtype] while trying to [damaged_inf] [recipient_definite].</Combat_Miss.rulePack.rulesStrings.3>
-        <Combat_Miss.rulePack.rulesStrings.4>logentry(p=0.2)->[initiator_definite] [failtype].</Combat_Miss.rulePack.rulesStrings.4>
-        
-        <Combat_Miss.rulePack.rulesStrings.5>failtype->stumbled</Combat_Miss.rulePack.rulesStrings.5>
-        <Combat_Miss.rulePack.rulesStrings.6>failtype->tripped</Combat_Miss.rulePack.rulesStrings.6>
-        <Combat_Miss.rulePack.rulesStrings.7>failtype->flailed</Combat_Miss.rulePack.rulesStrings.7>
-        <Combat_Miss.rulePack.rulesStrings.8>failtype->floundered</Combat_Miss.rulePack.rulesStrings.8>
-        <Combat_Miss.rulePack.rulesStrings.9>failtype->missed</Combat_Miss.rulePack.rulesStrings.9>
-
-        <Combat_Miss.rulePack.rulesStrings.10>result->but missed</Combat_Miss.rulePack.rulesStrings.10>
-        <Combat_Miss.rulePack.rulesStrings.11>result->but hit only air</Combat_Miss.rulePack.rulesStrings.11>
-        <Combat_Miss.rulePack.rulesStrings.12>result->but the swing went wide</Combat_Miss.rulePack.rulesStrings.12>
-        <Combat_Miss.rulePack.rulesStrings.13>result->but stumbled at the last second</Combat_Miss.rulePack.rulesStrings.13>
-        <Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</Combat_Miss.rulePack.rulesStrings.14>
+        <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite]は [implement]から [recipient_definite]に [damaged_inf]、命中させる</Combat_Hit.rulePack.rulesStrings.12>
+        <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite]は [recipient_definite]を [damaged_inf]為に[imprement]を使う</Combat_Hit.rulePack.rulesStrings.13>
+        <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_past]</Combat_Hit.rulePack.rulesStrings.14>
 
 
-        <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite] dodged [initiator_definite]'s [damaged_inf] from [implement].</Combat_Dodge.rulePack.rulesStrings.0>
-        <Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite] dodged [initiator_definite]'s [damaged_inf].</Combat_Dodge.rulePack.rulesStrings.1>
+        <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite]は [recipient_definite]を [damaged_inf]のに [tried]</Combat_FailIncludes.rulePack.rulesStrings.0>
+        <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]のに [tried]</Combat_FailIncludes.rulePack.rulesStrings.1>
+        <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]のに使おうと [tried]</Combat_FailIncludes.rulePack.rulesStrings.2>
+        <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite]は [recipient_definite]を狙って [initiator_possessive] [weapon_label]を振り下ろした</Combat_FailIncludes.rulePack.rulesStrings.3>
+        <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite]は [implement]で [recipient_definite] [towardsat] [genericattackverb]</Combat_FailIncludes.rulePack.rulesStrings.4>
+        <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_definite]は [recipient_definite] [towardsat] [genericattackverb]</Combat_FailIncludes.rulePack.rulesStrings.5>
+        <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[initiator_definite]は [implement]で [genericattackverb]</Combat_FailIncludes.rulePack.rulesStrings.6>
 
-        <Combat_Dodge.rulePack.rulesStrings.2>result->but [recipient_definite] leapt out of the way</Combat_Dodge.rulePack.rulesStrings.2>
-        <Combat_Dodge.rulePack.rulesStrings.3>result->but was deceived by [recipient_definite]'s feint</Combat_Dodge.rulePack.rulesStrings.3>
-        <Combat_Dodge.rulePack.rulesStrings.4>result->but the attack was cleverly avoided</Combat_Dodge.rulePack.rulesStrings.4>
+        <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->に向けて</Combat_FailIncludes.rulePack.rulesStrings.7>
+        <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->を狙って</Combat_FailIncludes.rulePack.rulesStrings.8>
+
+        <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->揺らした</Combat_FailIncludes.rulePack.rulesStrings.9>
+        <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->打つ</Combat_FailIncludes.rulePack.rulesStrings.10>
+        <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->打ち据える</Combat_FailIncludes.rulePack.rulesStrings.11>
+
+        <Combat_FailIncludes.rulePack.rulesStrings.12>tried->努力した</Combat_FailIncludes.rulePack.rulesStrings.12>
+        <Combat_FailIncludes.rulePack.rulesStrings.13>tried->襲った</Combat_FailIncludes.rulePack.rulesStrings.13>
+
+
+        <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[initiator_definite]は [weapon_label]で [damaged_inf]、[recipient_definite]は避けた。</Combat_Miss.rulePack.rulesStrings.0>
+        <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]もはずした。</Combat_Miss.rulePack.rulesStrings.1>
+
+        <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]、しかし[failtype]。</Combat_Miss.rulePack.rulesStrings.2>
+        <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_definite]は [recipient_definite]を [damaged_inf]、しかし[failtype]。</Combat_Miss.rulePack.rulesStrings.3>
+        <Combat_Miss.rulePack.rulesStrings.4>logentry(p=0.2)->[initiator_definite]は [failtype]。</Combat_Miss.rulePack.rulesStrings.4>
+
+        <Combat_Miss.rulePack.rulesStrings.5>failtype->へまをした</Combat_Miss.rulePack.rulesStrings.5>
+        <Combat_Miss.rulePack.rulesStrings.6>failtype->つまづいた</Combat_Miss.rulePack.rulesStrings.6>
+        <Combat_Miss.rulePack.rulesStrings.7>failtype->空振りした</Combat_Miss.rulePack.rulesStrings.7>
+        <Combat_Miss.rulePack.rulesStrings.8>failtype->もたついた</Combat_Miss.rulePack.rulesStrings.8>
+        <Combat_Miss.rulePack.rulesStrings.9>failtype->失敗した</Combat_Miss.rulePack.rulesStrings.9>
+
+        <Combat_Miss.rulePack.rulesStrings.10>result->しかし、はずした</Combat_Miss.rulePack.rulesStrings.10>
+        <Combat_Miss.rulePack.rulesStrings.11>result->しかし、空を切った</Combat_Miss.rulePack.rulesStrings.11>
+        <Combat_Miss.rulePack.rulesStrings.12>result->しかし、一振りは当たらない</Combat_Miss.rulePack.rulesStrings.12>
+        <Combat_Miss.rulePack.rulesStrings.13>result->しかし、最後の瞬間につまずいた</Combat_Miss.rulePack.rulesStrings.13>
+        <Combat_Miss.rulePack.rulesStrings.14>result(initiator_flesh!=Mechanoid)->しかし、最後の瞬間に躊躇した</Combat_Miss.rulePack.rulesStrings.14>
+
+
+        <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_definite]は [initiator_definite]の [implement]よる [damaged_inf]攻撃を躱した。</Combat_Dodge.rulePack.rulesStrings.0>
+        <Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_definite]は [initiator_definite]の [damaged_inf]攻撃をよけた。</Combat_Dodge.rulePack.rulesStrings.1>
+
+        <Combat_Dodge.rulePack.rulesStrings.2>result->しかし [recipient_definite]は、動線から飛び出した</Combat_Dodge.rulePack.rulesStrings.2>
+        <Combat_Dodge.rulePack.rulesStrings.3>result->しかし [recipient_definite]のフェイント動作で避けられた</Combat_Dodge.rulePack.rulesStrings.3>
+        <Combat_Dodge.rulePack.rulesStrings.4>result->しかし、攻撃は巧みによけられた</Combat_Dodge.rulePack.rulesStrings.4>
 
 
         <Combat_RangedIncludes.rulePack.rulesStrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.0>
@@ -239,12 +237,12 @@
         <Combat_RangedIncludes.rulePack.rulesStrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.5>
 
 
-        <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] with [initiator_possessive] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.0>
-        <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot] [initiator_possessive] [weapon_label] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
-        <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
-        <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] at [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
-        <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
-        <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [initiator_possessive] [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
+        <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite]は [initiator_possessive] [weapon_label]で [recipient_definite]を [shotat]。</Combat_RangedFire.rulePack.rulesStrings.0>
+        <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite]は [initiator_possessive] [weapon_label]で [recipient_definite]を狙って [shot]。</Combat_RangedFire.rulePack.rulesStrings.1>
+        <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite]は [recipient_definite]に向けて [shotat]。</Combat_RangedFire.rulePack.rulesStrings.2>
+        <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite]は [recipient_definite]を狙って [weapon_projectile_label]を [burst] [shot]。</Combat_RangedFire.rulePack.rulesStrings.3>
+        <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite]は [weapon_projectile_label]を [shot]。</Combat_RangedFire.rulePack.rulesStrings.4>
+        <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite]は [initiator_possessive] [weapon_label]を [shot]。</Combat_RangedFire.rulePack.rulesStrings.5>
 
         <Combat_RangedFire.rulePack.rulesStrings.6>shot_a->[shotadverb] [shotverb] a</Combat_RangedFire.rulePack.rulesStrings.6>
         <Combat_RangedFire.rulePack.rulesStrings.7>shot_a(p=2)->[shotverb] a</Combat_RangedFire.rulePack.rulesStrings.7>
@@ -252,200 +250,198 @@
         <Combat_RangedFire.rulePack.rulesStrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulePack.rulesStrings.8>
         <Combat_RangedFire.rulePack.rulesStrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulePack.rulesStrings.9>
 
-        <Combat_RangedFire.rulePack.rulesStrings.10>shotat->shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.10>
-        <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] shot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.11>
-        <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->tried to shoot [aburst] at</Combat_RangedFire.rulePack.rulesStrings.12>
-        <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->took a shot at</Combat_RangedFire.rulePack.rulesStrings.13>
-        <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->took a [shotadjective] shot at</Combat_RangedFire.rulePack.rulesStrings.14>
-        <Combat_RangedFire.rulePack.rulesStrings.15>shotat->fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.15>
-        <Combat_RangedFire.rulePack.rulesStrings.16>shotat->fired [aburst] [shotadverb] at</Combat_RangedFire.rulePack.rulesStrings.16>
-        <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->aimed and fired [aburst] at</Combat_RangedFire.rulePack.rulesStrings.17>
-        <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->opened fire at</Combat_RangedFire.rulePack.rulesStrings.18>
+        <Combat_RangedFire.rulePack.rulesStrings.10>shotat->狙って[aburst] 撃った</Combat_RangedFire.rulePack.rulesStrings.10>
+        <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb]狙って [aburst]撃った</Combat_RangedFire.rulePack.rulesStrings.11>
+        <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->狙って [aburst]撃ってみた</Combat_RangedFire.rulePack.rulesStrings.12>
+        <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->撃ってみた</Combat_RangedFire.rulePack.rulesStrings.13>
+        <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->[shotadjective]射撃した</Combat_RangedFire.rulePack.rulesStrings.14>
+        <Combat_RangedFire.rulePack.rulesStrings.15>shotat->[aburst]発砲した</Combat_RangedFire.rulePack.rulesStrings.15>
+        <Combat_RangedFire.rulePack.rulesStrings.16>shotat->[shotadverb] [aburst]発砲した</Combat_RangedFire.rulePack.rulesStrings.16>
+        <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->狙って [aburst]発砲した</Combat_RangedFire.rulePack.rulesStrings.17>
+        <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->[shotadverb]狙って [aburst]発砲した</Combat_RangedFire.rulePack.rulesStrings.18>
 
-        <Combat_RangedFire.rulePack.rulesStrings.19>aburst-></Combat_RangedFire.rulePack.rulesStrings.19>
-        <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->a burst</Combat_RangedFire.rulePack.rulesStrings.20>
+        <Combat_RangedFire.rulePack.rulesStrings.19>aburst->一発</Combat_RangedFire.rulePack.rulesStrings.19>
+        <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->連続して</Combat_RangedFire.rulePack.rulesStrings.20>
 
-        <Combat_RangedFire.rulePack.rulesStrings.21>burst-></Combat_RangedFire.rulePack.rulesStrings.21>
-        <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->burst</Combat_RangedFire.rulePack.rulesStrings.22>
+        <Combat_RangedFire.rulePack.rulesStrings.21>burst->一発</Combat_RangedFire.rulePack.rulesStrings.21>
+        <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->連続して</Combat_RangedFire.rulePack.rulesStrings.22>
 
-        <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->shot</Combat_RangedFire.rulePack.rulesStrings.23>
-        <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->fired</Combat_RangedFire.rulePack.rulesStrings.24>
-        <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->discharged</Combat_RangedFire.rulePack.rulesStrings.25>
-        
-        <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->carefully</Combat_RangedFire.rulePack.rulesStrings.26>
-        <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->quickly</Combat_RangedFire.rulePack.rulesStrings.27>
-        <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.28>
-        <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->deliberately</Combat_RangedFire.rulePack.rulesStrings.29>
-        <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->gingerly</Combat_RangedFire.rulePack.rulesStrings.30>
-        <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->precisely</Combat_RangedFire.rulePack.rulesStrings.31>
-        <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->warily</Combat_RangedFire.rulePack.rulesStrings.32>
+        <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->撃った</Combat_RangedFire.rulePack.rulesStrings.23>
+        <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->発砲した</Combat_RangedFire.rulePack.rulesStrings.24>
+        <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->発射した</Combat_RangedFire.rulePack.rulesStrings.25>
 
-        <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->careful</Combat_RangedFire.rulePack.rulesStrings.33>
-        <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->quick</Combat_RangedFire.rulePack.rulesStrings.34>
-        <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->deliberate</Combat_RangedFire.rulePack.rulesStrings.35>
-        <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->precise</Combat_RangedFire.rulePack.rulesStrings.36>
-        <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->wary</Combat_RangedFire.rulePack.rulesStrings.37>
+        <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->慎重に</Combat_RangedFire.rulePack.rulesStrings.26>
+        <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->機敏に</Combat_RangedFire.rulePack.rulesStrings.27>
+        <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->正確に</Combat_RangedFire.rulePack.rulesStrings.28>
+        <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->入念に</Combat_RangedFire.rulePack.rulesStrings.29>
+        <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb(initiator_flesh!=Mechanoid)->極めて慎重に</Combat_RangedFire.rulePack.rulesStrings.30>
+        <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->精密に</Combat_RangedFire.rulePack.rulesStrings.31>
+        <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb(initiator_flesh!=Mechanoid)->油断せずに</Combat_RangedFire.rulePack.rulesStrings.32>
+
+        <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->慎重</Combat_RangedFire.rulePack.rulesStrings.33>
+        <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->速射</Combat_RangedFire.rulePack.rulesStrings.34>
+        <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->計画的</Combat_RangedFire.rulePack.rulesStrings.35>
+        <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->精密</Combat_RangedFire.rulePack.rulesStrings.36>
+        <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective(initiator_flesh!=Mechanoid)->油断無く</Combat_RangedFire.rulePack.rulesStrings.37>
 
 
         <!-- various destroyed options; we allow these even if we could use hybrid, to cut down a bit on clutter -->
-        <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.0>
-        <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [to] [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.1>
-        <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.2>
-        <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.3>
-        <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets].</Combat_RangedDamage.rulePack.rulesStrings.4>
-        <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.5>
-        <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.6>
-        <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[recipient_definite]'s [destroyed_targets] was [destroyed_past] into [destroyed_suffix] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.7>
-        
+        <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_RangedDamage.rulePack.rulesStrings.0>
+        <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [destroyed_past]、それは [destroyed_suffix]になった。</Combat_RangedDamage.rulePack.rulesStrings.1>
+        <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [expertly] [destroyed_past]。</Combat_RangedDamage.rulePack.rulesStrings.2>
+        <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite]の [originalTarget_definite]を狙って [weapon_projectile_label]は [missed]、しかし [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_RangedDamage.rulePack.rulesStrings.3>
+        <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite]の [originalTarget_definite]を狙って [weapon_projectile_label]は [missed]、しかし [recipient_definite]の [destroyed_targets]を [destroyed_present]。</Combat_RangedDamage.rulePack.rulesStrings.4>
+        <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_RangedDamage.rulePack.rulesStrings.5>
+        <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[expert] [initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [destroyed_targets]を [destroyed_past]。</Combat_RangedDamage.rulePack.rulesStrings.6>
+        <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [destroyed_targets]を [destroyed_past]、それは [destroyed_suffix]になった。</Combat_RangedDamage.rulePack.rulesStrings.7>
+
         <!-- various damaged options; don't show if something was destroyed -->
-        <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.8>
-        <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite]'s [weapon_projectile_label] [damaged_past] [recipient_definite]'s [damaged_targets] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.9>
-        <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.10>
-        <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [damaged_present] [recipient_definite]'s [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.11>
-        <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.12>
-        <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] was [damagedverb_past] by [initiator_definite]'s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.13>
-        
+        <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [damaged_targets]を [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.8>
+        <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [damaged_targets]を [expertly] [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.9>
+        <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]が [originalTarget_definite]を狙って [weapon_projectile_label]は [missed]、しかし[recipient_definite]の [damaged_targets]を [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.10>
+        <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]が [originalTarget_definite]を狙って [weapon_projectile_label]は [missed]、しかし[recipient_definite]の [damaged_targets]を [damaged_present]。</Combat_RangedDamage.rulePack.rulesStrings.11>
+        <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [damaged_targets]に [damagedverb_past]。</Combat_RangedDamage.rulePack.rulesStrings.12>
+        <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [damaged_targets]に [expert] [damagedverb_past]。</Combat_RangedDamage.rulePack.rulesStrings.13>
+
         <!-- damaged/destroyed hybrid -->
-        <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]'s [weapon_projectile_label] [destroyed_past] [recipient_definite]'s [destroyed_targets] and [damaged_past] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.14>
-        <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]'s [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
-        
+        <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [destroy_past]、さらに [recipient_possessive]の [damaged_targets]を [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.14>
+        <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]の [originalTarget_definite]を狙って [weapon_projectile_label]を [missed]、しかし [recipient_definite]の [destroyed_targets]を [destroyed_present]、 [recipient_possessive]の [damaged_targets]を [damaged_present].</Combat_RangedDamage.rulePack.rulesStrings.15>
+
         <!-- don't mention damage or destruction; uncommon, but intended as a fallback -->
-        <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
-        <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[initiator_definite]'s [weapon_projectile_label] hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
-        <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] and hit [recipient_definite] with a [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
-        <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] and hit [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
-        <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] hit [recipient_definite] with a [weapon_projectile_label] intended for [originalTarget_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
-        
+        <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite]は [recipient_definite]に [weapon_projectile_label]を当てた。</Combat_RangedDamage.rulePack.rulesStrings.16>
+        <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]に当たった。.</Combat_RangedDamage.rulePack.rulesStrings.17>
+        <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite]は [originalTarget_definite]には当てられず、 [weapon_projectile_label]は [recipient_definite]に命中。</Combat_RangedDamage.rulePack.rulesStrings.18>
+        <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[initiator_definite]の [weapon_projectile_label]は [originalTarget_definite]に当たらず、[recipient_definite]に命中した。</Combat_RangedDamage.rulePack.rulesStrings.19>
+        <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite]は [originalTarget_definite]に当てるつもりの [weapon_projectile_label]が [recipient_definite]に当たった。</Combat_RangedDamage.rulePack.rulesStrings.20>
+
         <!-- fallback, also a little variety -->
-        <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->shot</Combat_RangedDamage.rulePack.rulesStrings.21>
+        <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->放った弾</Combat_RangedDamage.rulePack.rulesStrings.21>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->shattered</Combat_RangedDamage.rulePack.rulesStrings.22>
-        <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->crushed</Combat_RangedDamage.rulePack.rulesStrings.23>
-        <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->obliterated</Combat_RangedDamage.rulePack.rulesStrings.24>
-        <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->annihilated</Combat_RangedDamage.rulePack.rulesStrings.25>
-        <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.26>
-        <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->perforated</Combat_RangedDamage.rulePack.rulesStrings.27>
-        <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->punctured</Combat_RangedDamage.rulePack.rulesStrings.28>
+        <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->粉々にした</Combat_RangedDamage.rulePack.rulesStrings.22>
+        <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->砕いた</Combat_RangedDamage.rulePack.rulesStrings.23>
+        <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->完全に破壊した</Combat_RangedDamage.rulePack.rulesStrings.24>
+        <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->ダメにした</Combat_RangedDamage.rulePack.rulesStrings.25>
+        <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->突き刺した</Combat_RangedDamage.rulePack.rulesStrings.26>
+        <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->貫通した</Combat_RangedDamage.rulePack.rulesStrings.27>
+        <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->穴だらけにした</Combat_RangedDamage.rulePack.rulesStrings.28>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->shattering</Combat_RangedDamage.rulePack.rulesStrings.29>
-        <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->crushing</Combat_RangedDamage.rulePack.rulesStrings.30>
-        <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->obliterating</Combat_RangedDamage.rulePack.rulesStrings.31>
-        <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->annihilating</Combat_RangedDamage.rulePack.rulesStrings.32>
-        <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.33>
-        <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->perforating</Combat_RangedDamage.rulePack.rulesStrings.34>
-        <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->puncturing</Combat_RangedDamage.rulePack.rulesStrings.35>
+        <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->粉々にする</Combat_RangedDamage.rulePack.rulesStrings.29>
+        <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->砕く</Combat_RangedDamage.rulePack.rulesStrings.30>
+        <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->完全に破壊する</Combat_RangedDamage.rulePack.rulesStrings.31>
+        <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->ダメにする</Combat_RangedDamage.rulePack.rulesStrings.32>
+        <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->突き刺す</Combat_RangedDamage.rulePack.rulesStrings.33>
+        <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->貫通する</Combat_RangedDamage.rulePack.rulesStrings.34>
+        <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->穴だらけにする</Combat_RangedDamage.rulePack.rulesStrings.35>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->pieces</Combat_RangedDamage.rulePack.rulesStrings.36>
-        <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->bits</Combat_RangedDamage.rulePack.rulesStrings.37>
-        <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->a fine mist</Combat_RangedDamage.rulePack.rulesStrings.38>
-        <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->fragments</Combat_RangedDamage.rulePack.rulesStrings.39>
-        <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->a holey mess</Combat_RangedDamage.rulePack.rulesStrings.40>
-        <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef</Combat_RangedDamage.rulePack.rulesStrings.41>
+        <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->一片</Combat_RangedDamage.rulePack.rulesStrings.36>
+        <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->小片</Combat_RangedDamage.rulePack.rulesStrings.37>
+        <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->細かい霧状</Combat_RangedDamage.rulePack.rulesStrings.38>
+        <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->断片</Combat_RangedDamage.rulePack.rulesStrings.39>
+        <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->蜂の巣</Combat_RangedDamage.rulePack.rulesStrings.40>
+        <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->肉塊</Combat_RangedDamage.rulePack.rulesStrings.41>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->wounded</Combat_RangedDamage.rulePack.rulesStrings.42>
-        <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->injured</Combat_RangedDamage.rulePack.rulesStrings.43>
-        <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->pierced</Combat_RangedDamage.rulePack.rulesStrings.44>
-        <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->damaged</Combat_RangedDamage.rulePack.rulesStrings.45>
-        <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->shot</Combat_RangedDamage.rulePack.rulesStrings.46>
+        <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->傷つけた</Combat_RangedDamage.rulePack.rulesStrings.42>
+        <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->怪我させた</Combat_RangedDamage.rulePack.rulesStrings.43>
+        <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->突き刺した</Combat_RangedDamage.rulePack.rulesStrings.44>
+        <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->害した</Combat_RangedDamage.rulePack.rulesStrings.45>
+        <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->撃った</Combat_RangedDamage.rulePack.rulesStrings.46>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->wounding</Combat_RangedDamage.rulePack.rulesStrings.47>
-        <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->injuring</Combat_RangedDamage.rulePack.rulesStrings.48>
-        <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->piercing</Combat_RangedDamage.rulePack.rulesStrings.49>
-        <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->damaging</Combat_RangedDamage.rulePack.rulesStrings.50>
-        <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->shooting</Combat_RangedDamage.rulePack.rulesStrings.51>
+        <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->傷つける</Combat_RangedDamage.rulePack.rulesStrings.47>
+        <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->怪我させる</Combat_RangedDamage.rulePack.rulesStrings.48>
+        <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->突き刺す</Combat_RangedDamage.rulePack.rulesStrings.49>
+        <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->害する</Combat_RangedDamage.rulePack.rulesStrings.50>
+        <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->撃つ</Combat_RangedDamage.rulePack.rulesStrings.51>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->in an ugly fashion</Combat_RangedDamage.rulePack.rulesStrings.52>
-        <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
-        <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</Combat_RangedDamage.rulePack.rulesStrings.54>
+        <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->悪いやり方で</Combat_RangedDamage.rulePack.rulesStrings.52>
+        <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->血まみれでwith visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>
+        <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->生々しく</Combat_RangedDamage.rulePack.rulesStrings.54>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.55>to->to</Combat_RangedDamage.rulePack.rulesStrings.55>
-        <Combat_RangedDamage.rulePack.rulesStrings.56>to->into</Combat_RangedDamage.rulePack.rulesStrings.56>
+        <Combat_RangedDamage.rulePack.rulesStrings.55>to->へ</Combat_RangedDamage.rulePack.rulesStrings.55>
+        <Combat_RangedDamage.rulePack.rulesStrings.56>to->中へ</Combat_RangedDamage.rulePack.rulesStrings.56>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.57>missed->missed</Combat_RangedDamage.rulePack.rulesStrings.57>
-        <Combat_RangedDamage.rulePack.rulesStrings.58>missed->narrowly missed</Combat_RangedDamage.rulePack.rulesStrings.58>
-
-
-
-        <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[initiator_definite]'s [weapon_projectile_label] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
-      
-        <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] missed [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
-        <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite]'s [weapon_projectile_label] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
-
-        <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->missed</Combat_RangedMiss.rulePack.rulesStrings.3>
-        <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->missed by a small margin</Combat_RangedMiss.rulePack.rulesStrings.4>
-        <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->missed by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.5>
-        <Combat_RangedMiss.rulePack.rulesStrings.6>missed->went wide</Combat_RangedMiss.rulePack.rulesStrings.6>
-        <Combat_RangedMiss.rulePack.rulesStrings.7>missed->flew into the air</Combat_RangedMiss.rulePack.rulesStrings.7>
-        <Combat_RangedMiss.rulePack.rulesStrings.8>missed->flew high into the air</Combat_RangedMiss.rulePack.rulesStrings.8>
-        <Combat_RangedMiss.rulePack.rulesStrings.9>missed->dug into the ground</Combat_RangedMiss.rulePack.rulesStrings.9>
-        <Combat_RangedMiss.rulePack.rulesStrings.10>missed->caromed off [originalTarget_definite]'s cover</Combat_RangedMiss.rulePack.rulesStrings.10>
-        <Combat_RangedMiss.rulePack.rulesStrings.11>missed->skipped off the ground and was lost</Combat_RangedMiss.rulePack.rulesStrings.11>
-        <Combat_RangedMiss.rulePack.rulesStrings.12>missed->dug a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.12>
-        <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->passed within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
-        <Combat_RangedMiss.rulePack.rulesStrings.14>missed->passed within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
-        <Combat_RangedMiss.rulePack.rulesStrings.15>missed->passed within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
-        <Combat_RangedMiss.rulePack.rulesStrings.16>missed->was blown offcourse</Combat_RangedMiss.rulePack.rulesStrings.16>
-      
-        <Combat_RangedMiss.rulePack.rulesStrings.17>missing->missing</Combat_RangedMiss.rulePack.rulesStrings.17>
-        <Combat_RangedMiss.rulePack.rulesStrings.18>missing->missing by a small margin</Combat_RangedMiss.rulePack.rulesStrings.18>
-        <Combat_RangedMiss.rulePack.rulesStrings.19>missing->missing by a wide margin</Combat_RangedMiss.rulePack.rulesStrings.19>
-        <Combat_RangedMiss.rulePack.rulesStrings.20>missing->going wide</Combat_RangedMiss.rulePack.rulesStrings.20>
-        <Combat_RangedMiss.rulePack.rulesStrings.21>missing->flying into the air</Combat_RangedMiss.rulePack.rulesStrings.21>
-        <Combat_RangedMiss.rulePack.rulesStrings.22>missing->flying high into the air</Combat_RangedMiss.rulePack.rulesStrings.22>
-        <Combat_RangedMiss.rulePack.rulesStrings.23>missing->digging into the ground</Combat_RangedMiss.rulePack.rulesStrings.23>
-        <Combat_RangedMiss.rulePack.rulesStrings.24>missing->skipping off the ground and becoming lost</Combat_RangedMiss.rulePack.rulesStrings.24>
-        <Combat_RangedMiss.rulePack.rulesStrings.25>missing->digging a divot out of the ground</Combat_RangedMiss.rulePack.rulesStrings.25>
-        <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->passing within millimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.26>
-        <Combat_RangedMiss.rulePack.rulesStrings.27>missing->passing within centimeters of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.27>
-        <Combat_RangedMiss.rulePack.rulesStrings.28>missing->passing within a meter of [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.28>
-        <Combat_RangedMiss.rulePack.rulesStrings.29>missing->blowing offcourse</Combat_RangedMiss.rulePack.rulesStrings.29>
-
-        <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->jerked aside at the last second</Combat_RangedMiss.rulePack.rulesStrings.30>
-        <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->stumbled in an attempt to escape</Combat_RangedMiss.rulePack.rulesStrings.31>
-        <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->threw [originalTarget_objective]self to the ground</Combat_RangedMiss.rulePack.rulesStrings.32>
-        <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->ducked behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.33>
-        <Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->leaped behind the nearest piece of cover</Combat_RangedMiss.rulePack.rulesStrings.34>
+        <Combat_RangedDamage.rulePack.rulesStrings.57>missed->当たらなかった</Combat_RangedDamage.rulePack.rulesStrings.57>
+        <Combat_RangedDamage.rulePack.rulesStrings.58>missed->僅かに外れた</Combat_RangedDamage.rulePack.rulesStrings.58>
 
 
 
-        <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->The [blast] [fromof] [initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->The [blast] [fromof] [initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[initiator_definite]'s [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[initiator_definite]'s [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[initiator_definite]'s [mortarshell] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix->[initiator_definite]'s [weapon_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[initiator_definite]'s [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[initiator_definite]'s [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[initiator_definite]'s [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
-        
-        <Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.13>
+        <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[initiator_definite]の [weapon_projectile_label]は [missed]。</Combat_RangedMiss.rulePack.rulesStrings.0>
 
-        <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix] [flavortextadverb] [destroyed_past] [recipient_definite]'s [destroyed_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed_past] [recipient_definite]'s [destroyed_targets] and [damaged_past] [recipient_possessive] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]'s [damaged_targets] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
+        <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite]は [originalTarget_definite]を狙ってはずした</Combat_RangedMiss.rulePack.rulesStrings.1>
+        <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite]は [avoidance]、 [initiator_definite]の [weapon_projectile_label]は [missing]。</Combat_RangedMiss.rulePack.rulesStrings.2>
 
-        <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[recipient_definite] was [damaged_past] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[recipient_definite] was [damaged_past] [flavortextadverb] by [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] was [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.23>
+        <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->当たらなかった</Combat_RangedMiss.rulePack.rulesStrings.3>
+        <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->僅かな差ではずした</Combat_RangedMiss.rulePack.rulesStrings.4>
+        <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->大きくはずした</Combat_RangedMiss.rulePack.rulesStrings.5>
+        <Combat_RangedMiss.rulePack.rulesStrings.6>missed->狙いがはずれた</Combat_RangedMiss.rulePack.rulesStrings.6>
+        <Combat_RangedMiss.rulePack.rulesStrings.7>missed->空の彼方へはずれた</Combat_RangedMiss.rulePack.rulesStrings.7>
+        <Combat_RangedMiss.rulePack.rulesStrings.8>missed->空高くはずれた</Combat_RangedMiss.rulePack.rulesStrings.8>
+        <Combat_RangedMiss.rulePack.rulesStrings.9>missed->地面を穿った</Combat_RangedMiss.rulePack.rulesStrings.9>
+        <Combat_RangedMiss.rulePack.rulesStrings.10>missed->[originalTarget_definite]が隠れている遮蔽物で跳ね返った</Combat_RangedMiss.rulePack.rulesStrings.10>
+        <Combat_RangedMiss.rulePack.rulesStrings.11>missed->地を這ってどこかへ飛んでいった</Combat_RangedMiss.rulePack.rulesStrings.11>
+        <Combat_RangedMiss.rulePack.rulesStrings.12>missed->地面を削り取った</Combat_RangedMiss.rulePack.rulesStrings.12>
+        <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->[originalTarget_definite]から数ミリの所をかすった</Combat_RangedMiss.rulePack.rulesStrings.13>
+        <Combat_RangedMiss.rulePack.rulesStrings.14>missed->[originalTarget_definite]から数センチの所をかすった</Combat_RangedMiss.rulePack.rulesStrings.14>
+        <Combat_RangedMiss.rulePack.rulesStrings.15>missed->[originalTarget_definite]から数メートルの所をかすった</Combat_RangedMiss.rulePack.rulesStrings.15>
+        <Combat_RangedMiss.rulePack.rulesStrings.16>missed->どこかへ飛んでいった</Combat_RangedMiss.rulePack.rulesStrings.16>
+
+        <Combat_RangedMiss.rulePack.rulesStrings.17>missing->当たらない</Combat_RangedMiss.rulePack.rulesStrings.17>
+        <Combat_RangedMiss.rulePack.rulesStrings.18>missing->僅かな差で当たらない</Combat_RangedMiss.rulePack.rulesStrings.18>
+        <Combat_RangedMiss.rulePack.rulesStrings.19>missing->大きくはずす</Combat_RangedMiss.rulePack.rulesStrings.19>
+        <Combat_RangedMiss.rulePack.rulesStrings.20>missing->狙いを外す</Combat_RangedMiss.rulePack.rulesStrings.20>
+        <Combat_RangedMiss.rulePack.rulesStrings.21>missing->空の彼方へはずす</Combat_RangedMiss.rulePack.rulesStrings.21>
+        <Combat_RangedMiss.rulePack.rulesStrings.22>missing->空高くはずす</Combat_RangedMiss.rulePack.rulesStrings.22>
+        <Combat_RangedMiss.rulePack.rulesStrings.23>missing->地面を穿つ</Combat_RangedMiss.rulePack.rulesStrings.23>
+        <Combat_RangedMiss.rulePack.rulesStrings.24>missing->地を這って何処かに行く</Combat_RangedMiss.rulePack.rulesStrings.24>
+        <Combat_RangedMiss.rulePack.rulesStrings.25>missing->地面を削り取る</Combat_RangedMiss.rulePack.rulesStrings.25>
+        <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->[originalTarget_definite]から数ミリの所をかする</Combat_RangedMiss.rulePack.rulesStrings.26>
+        <Combat_RangedMiss.rulePack.rulesStrings.27>missing->[originalTarget_definite]から数センチの所をかする</Combat_RangedMiss.rulePack.rulesStrings.27>
+        <Combat_RangedMiss.rulePack.rulesStrings.28>missing->[originalTarget_definite]から数メートルの所をかする</Combat_RangedMiss.rulePack.rulesStrings.28>
+        <Combat_RangedMiss.rulePack.rulesStrings.29>missing->何処かへ飛んでいく</Combat_RangedMiss.rulePack.rulesStrings.29>
+
+        <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance(originalTarget_mobile==True)->最後の数秒で脇へ身を引いた</Combat_RangedMiss.rulePack.rulesStrings.30>
+        <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance(originalTarget_mobile==True)->逃げようとしてる時につまづいた</Combat_RangedMiss.rulePack.rulesStrings.31>
+        <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance(originalTarget_mobile==True)->自分の身を投げ出した</Combat_RangedMiss.rulePack.rulesStrings.32>
+        <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(originalTarget_mobile==True,p=0.3)->一番近い遮蔽物の陰に身を隠した</Combat_RangedMiss.rulePack.rulesStrings.33>
+        <Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(originalTarget_mobile==True,p=0.3)->一番近い遮蔽物の陰に飛び込んだ</Combat_RangedMiss.rulePack.rulesStrings.34>
+
+        <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->[initiator_definite]の [weapon_projectile_label][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->[initiator_definite]の [weapon_label][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->[initiator_definite]の [mortarshell][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->[initiator_definite]の [weapon_projectile_label][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->[initiator_definite]の [weapon_label][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->[initiator_definite]の [mortarshell][fromof] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[initiator_definite]の [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[initiator_definite]の [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[initiator_definite]の [mortarshell] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix->[initiator_definite]の [weapon_label] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[initiator_definite]の [weapon_projectile_label]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[initiator_definite]の [mortarshell]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[initiator_definite]の [weapon_label]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
+
+        <Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix]は [recipient_definite]を [injured]</Combat_ExplosionImpact.rulePack.rulesStrings.13>
+
+        <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix]は [recipient_definite]の [destroyed_targets] [destroyed_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.14>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix]は [recipient_definite]の [destroyed_targets] [flavortextadverb] [destroyed_past].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix]は [recipient_definite]の [destroyed_targets]を [flavortextadverb] [destroyed_past] .</Combat_ExplosionImpact.rulePack.rulesStrings.16>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix]は [recipient_definite]の [destroyed_targets]を [destroyed_past]、そして [recipient_possessive]の [damaged_targets]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.17>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [flavortextadverb] [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.19>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [flavortextadverb] [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
+
+        <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[initiator_definite]は [recipient_definite]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.21>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[initiator_definite]は [recipient_definite]を [flavortextadverb] [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.22>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite]は [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.23>
 
         <!-- final fallbacks -->
-        <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite] was caught in an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.24>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->[recipient_definite] was hit by an explosion.</Combat_ExplosionImpact.rulePack.rulesStrings.25>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite]は爆風に巻かれた。</Combat_ExplosionImpact.rulePack.rulesStrings.24>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.25>logentry(p=0.001)->[recipient_definite]は爆発によって打ち付けられた。</Combat_ExplosionImpact.rulePack.rulesStrings.25>
 
-        <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->explosion</Combat_ExplosionImpact.rulePack.rulesStrings.26>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->blast</Combat_ExplosionImpact.rulePack.rulesStrings.27>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->shockwave</Combat_ExplosionImpact.rulePack.rulesStrings.28>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->detonation</Combat_ExplosionImpact.rulePack.rulesStrings.29>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->discharge</Combat_ExplosionImpact.rulePack.rulesStrings.30>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->impact</Combat_ExplosionImpact.rulePack.rulesStrings.31>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->爆発</Combat_ExplosionImpact.rulePack.rulesStrings.26>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->爆風</Combat_ExplosionImpact.rulePack.rulesStrings.27>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->衝撃波</Combat_ExplosionImpact.rulePack.rulesStrings.28>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->爆轟</Combat_ExplosionImpact.rulePack.rulesStrings.29>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.30>blast->放出</Combat_ExplosionImpact.rulePack.rulesStrings.30>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.31>blast->衝撃</Combat_ExplosionImpact.rulePack.rulesStrings.31>
 
         <Combat_ExplosionImpact.rulePack.rulesStrings.32>fromof->from</Combat_ExplosionImpact.rulePack.rulesStrings.32>
         <Combat_ExplosionImpact.rulePack.rulesStrings.33>fromof->of</Combat_ExplosionImpact.rulePack.rulesStrings.33>

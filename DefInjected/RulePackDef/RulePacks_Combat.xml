@@ -32,8 +32,8 @@
         <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label]、[recipient_part1_label]と [recipient_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
         <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label]、[recipient_part2_label]と [recipient_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26> <!-- don't include constraint; this acts as a fallback for >=4-->
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->傷つける</Combat_MeleeIncludes.rulePack.rulesStrings.27>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->怪我させる</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present->傷つけている</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present->怪我させている</Combat_MeleeIncludes.rulePack.rulesStrings.28>
 
         <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->壊した</Combat_MeleeIncludes.rulePack.rulesStrings.29>
         <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->粉砕した</Combat_MeleeIncludes.rulePack.rulesStrings.30>
@@ -67,23 +67,23 @@
         <Combat_MeleeIncludes.rulePack.rulesStrings.55>flavortextsituation(initiator_flesh==Normal)->ニヤつきながら</Combat_MeleeIncludes.rulePack.rulesStrings.55>
 
         <Combat_MeleeIncludes.rulePack.rulesStrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->[painevent] [recipient_objective] [wince]</Combat_MeleeIncludes.rulePack.rulesStrings.56>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence(p=0.2)->体勢の整っていない [recipient_objective]を投げ飛ばしている</Combat_MeleeIncludes.rulePack.rulesStrings.57>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.57>flavortextconsequence(p=0.2)->体勢の整っていない [recipient_objective]投げ飛ばしている</Combat_MeleeIncludes.rulePack.rulesStrings.57>
 
-        <Combat_MeleeIncludes.rulePack.rulesStrings.58>wince(recipient_flesh==Normal)->をたじろがさせている</Combat_MeleeIncludes.rulePack.rulesStrings.58>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.59>wince(recipient_flesh==Normal)->の顔をしかめさせている</Combat_MeleeIncludes.rulePack.rulesStrings.59>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->をすくまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.60>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->をうめかせている</Combat_MeleeIncludes.rulePack.rulesStrings.61>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh!=Mechanoid)->に叫び声を上げさせている</Combat_MeleeIncludes.rulePack.rulesStrings.62>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh!=Mechanoid)->に叫ばさせている</Combat_MeleeIncludes.rulePack.rulesStrings.63>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.64>wince->をひるまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.64>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.65>wince->をよろめかさせている</Combat_MeleeIncludes.rulePack.rulesStrings.65>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.58>wince(recipient_flesh==Normal)->たじろがさせている</Combat_MeleeIncludes.rulePack.rulesStrings.58>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.59>wince(recipient_flesh==Normal)->しかめさせている</Combat_MeleeIncludes.rulePack.rulesStrings.59>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.60>wince(recipient_flesh==Normal)->すくまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.60>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.61>wince(recipient_flesh==Normal)->うめかせている</Combat_MeleeIncludes.rulePack.rulesStrings.61>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.62>wince(recipient_flesh!=Mechanoid)->叫ばさせている</Combat_MeleeIncludes.rulePack.rulesStrings.62>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.63>wince(recipient_flesh!=Mechanoid)->わめかさせている</Combat_MeleeIncludes.rulePack.rulesStrings.63>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.64>wince->ひるまさせている</Combat_MeleeIncludes.rulePack.rulesStrings.64>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.65>wince->よろめかさせている</Combat_MeleeIncludes.rulePack.rulesStrings.65>
 
         <Combat_MeleeIncludes.rulePack.rulesStrings.66>painstate->で</Combat_MeleeIncludes.rulePack.rulesStrings.66>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.67>painstate->とで</Combat_MeleeIncludes.rulePack.rulesStrings.67>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.67>painstate->で</Combat_MeleeIncludes.rulePack.rulesStrings.67>
         <Combat_MeleeIncludes.rulePack.rulesStrings.68>painstate->によって</Combat_MeleeIncludes.rulePack.rulesStrings.68>
 
         <Combat_MeleeIncludes.rulePack.rulesStrings.69>painevent(recipient_flesh!=Mechanoid)->痛み[painstate]</Combat_MeleeIncludes.rulePack.rulesStrings.69>
-        <Combat_MeleeIncludes.rulePack.rulesStrings.70>painevent(recipient_flesh!=Mechanoid)->苦痛に[painstate]</Combat_MeleeIncludes.rulePack.rulesStrings.70>
+        <Combat_MeleeIncludes.rulePack.rulesStrings.70>painevent(recipient_flesh!=Mechanoid)->苦痛[painstate]</Combat_MeleeIncludes.rulePack.rulesStrings.70>
         <Combat_MeleeIncludes.rulePack.rulesStrings.71>painevent(recipient_flesh==Normal)->惨めさで</Combat_MeleeIncludes.rulePack.rulesStrings.71>
         <Combat_MeleeIncludes.rulePack.rulesStrings.72>painevent->傷によって</Combat_MeleeIncludes.rulePack.rulesStrings.72>
         <Combat_MeleeIncludes.rulePack.rulesStrings.73>painevent->怪我によって</Combat_MeleeIncludes.rulePack.rulesStrings.73>
@@ -178,11 +178,12 @@
         <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite]は [implement]から [recipient_definite]に [damaged_inf]、命中させる</Combat_Hit.rulePack.rulesStrings.12>
         <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite]は [recipient_definite]を [damaged_inf]為に[imprement]を使う</Combat_Hit.rulePack.rulesStrings.13>
         <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_past]</Combat_Hit.rulePack.rulesStrings.14>
+        <Combat_Hit.rulePack.rulesStrings.15>action(p=0.6)->[initiator_definite]は [recipient_definite]を [damaged_past]</Combat_Hit.rulePack.rulesStrings.15>
 
 
-        <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite]は [recipient_definite]を [damaged_inf]のに [tried]</Combat_FailIncludes.rulePack.rulesStrings.0>
-        <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]のに [tried]</Combat_FailIncludes.rulePack.rulesStrings.1>
-        <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]のに使おうと [tried]</Combat_FailIncludes.rulePack.rulesStrings.2>
+        <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_definite]は [recipient_definite]を [damaged_inf]つもりで [tried]</Combat_FailIncludes.rulePack.rulesStrings.0>
+        <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]つもりで [tried]</Combat_FailIncludes.rulePack.rulesStrings.1>
+        <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_definite]は [implement]で [recipient_definite]を [damaged_inf]つもりで使おうと [tried]</Combat_FailIncludes.rulePack.rulesStrings.2>
         <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_definite]は [recipient_definite]を狙って [initiator_possessive] [weapon_label]を振り下ろした</Combat_FailIncludes.rulePack.rulesStrings.3>
         <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_definite]は [implement]で [recipient_definite] [towardsat] [genericattackverb]</Combat_FailIncludes.rulePack.rulesStrings.4>
         <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_definite]は [recipient_definite] [towardsat] [genericattackverb]</Combat_FailIncludes.rulePack.rulesStrings.5>
@@ -191,12 +192,12 @@
         <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->に向けて</Combat_FailIncludes.rulePack.rulesStrings.7>
         <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->を狙って</Combat_FailIncludes.rulePack.rulesStrings.8>
 
-        <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->揺らした</Combat_FailIncludes.rulePack.rulesStrings.9>
-        <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->打つ</Combat_FailIncludes.rulePack.rulesStrings.10>
+        <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->一振り</Combat_FailIncludes.rulePack.rulesStrings.9>
+        <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->打ちつける</Combat_FailIncludes.rulePack.rulesStrings.10>
         <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->打ち据える</Combat_FailIncludes.rulePack.rulesStrings.11>
 
-        <Combat_FailIncludes.rulePack.rulesStrings.12>tried->努力した</Combat_FailIncludes.rulePack.rulesStrings.12>
-        <Combat_FailIncludes.rulePack.rulesStrings.13>tried->襲った</Combat_FailIncludes.rulePack.rulesStrings.13>
+        <Combat_FailIncludes.rulePack.rulesStrings.12>tried->行動した</Combat_FailIncludes.rulePack.rulesStrings.12>
+        <Combat_FailIncludes.rulePack.rulesStrings.13>tried->襲いかかった</Combat_FailIncludes.rulePack.rulesStrings.13>
 
 
         <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[initiator_definite]は [weapon_label]で [damaged_inf]、[recipient_definite]は避けた。</Combat_Miss.rulePack.rulesStrings.0>
@@ -346,11 +347,11 @@
         <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->害した</Combat_RangedDamage.rulePack.rulesStrings.45>
         <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->撃った</Combat_RangedDamage.rulePack.rulesStrings.46>
 
-        <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->傷つける</Combat_RangedDamage.rulePack.rulesStrings.47>
-        <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->怪我させる</Combat_RangedDamage.rulePack.rulesStrings.48>
-        <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->突き刺す</Combat_RangedDamage.rulePack.rulesStrings.49>
-        <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->害する</Combat_RangedDamage.rulePack.rulesStrings.50>
-        <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->撃つ</Combat_RangedDamage.rulePack.rulesStrings.51>
+        <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->傷つけている</Combat_RangedDamage.rulePack.rulesStrings.47>
+        <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->怪我させている</Combat_RangedDamage.rulePack.rulesStrings.48>
+        <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->突き刺している</Combat_RangedDamage.rulePack.rulesStrings.49>
+        <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->害している</Combat_RangedDamage.rulePack.rulesStrings.50>
+        <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->撃っている</Combat_RangedDamage.rulePack.rulesStrings.51>
 
         <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->悪いやり方で</Combat_RangedDamage.rulePack.rulesStrings.52>
         <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->血まみれでwith visible blood</Combat_RangedDamage.rulePack.rulesStrings.53>

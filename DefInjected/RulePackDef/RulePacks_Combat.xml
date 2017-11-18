@@ -173,7 +173,7 @@
 
         <Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[recipient_possessive] [destroyed_targets]を [destroyed_present]</Combat_Hit.rulePack.rulesStrings.9>
         <Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[recipient_possessive] [damaged_targets]を [damaged_present] </Combat_Hit.rulePack.rulesStrings.10>
-        <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[recipient_possessive] [destroyed_targets]を [destroyed_present]、そして [recipient_possessive] [damaged_targets]に [damaged_present]</Combat_Hit.rulePack.rulesStrings.11>
+        <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[recipient_possessive] [destroyed_targets]を [destroyed_present]、そして [recipient_possessive] [damaged_targets]を [damaged_present]</Combat_Hit.rulePack.rulesStrings.11>
 
         <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_definite]は [implement]から [recipient_definite]に [damaged_inf]、命中させる</Combat_Hit.rulePack.rulesStrings.12>
         <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_definite]は [recipient_definite]を [damaged_inf]為に[imprement]を使う</Combat_Hit.rulePack.rulesStrings.13>
@@ -305,8 +305,8 @@
         <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[initiator_definite]の [weapon_projectile_label]は [recipient_definite]の [damaged_targets]に [expert] [damagedverb_past]。</Combat_RangedDamage.rulePack.rulesStrings.13>
 
         <!-- damaged/destroyed hybrid -->
-        <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [destroy_past]、さらに [recipient_possessive]の [damaged_targets]を [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.14>
-        <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]の [originalTarget_definite]を狙って [weapon_projectile_label]を [missed]、しかし [recipient_definite]の [destroyed_targets]を [destroyed_present]、 [recipient_possessive]の [damaged_targets]を [damaged_present].</Combat_RangedDamage.rulePack.rulesStrings.15>
+        <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[initiator_definite]の [weapon_projectile_label]が [recipient_definite]の [destroyed_targets]を [destroy_past]、さらに [recipient_possessive] [damaged_targets]を [damaged_past]。</Combat_RangedDamage.rulePack.rulesStrings.14>
+        <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[initiator_definite]の [originalTarget_definite]を狙って [weapon_projectile_label]を [missed]、しかし [recipient_definite]の [destroyed_targets]を [destroyed_present]、 [recipient_possessive] [damaged_targets]を [damaged_present].</Combat_RangedDamage.rulePack.rulesStrings.15>
 
         <!-- don't mention damage or destruction; uncommon, but intended as a fallback -->
         <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite]は [recipient_definite]に [weapon_projectile_label]を当てた。</Combat_RangedDamage.rulePack.rulesStrings.16>
@@ -424,14 +424,14 @@
         <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix]は [recipient_definite]の [destroyed_targets] [destroyed_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.14>
         <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix]は [recipient_definite]の [destroyed_targets] [flavortextadverb] [destroyed_past].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
         <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix]は [recipient_definite]の [destroyed_targets]を [flavortextadverb] [destroyed_past] .</Combat_ExplosionImpact.rulePack.rulesStrings.16>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix]は [recipient_definite]の [destroyed_targets]を [destroyed_past]、そして [recipient_possessive]の [damaged_targets]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.17>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix]は [recipient_definite]の [destroyed_targets]を [destroyed_past]、そして [recipient_possessive] [damaged_targets]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.17>
         <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
         <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [flavortextadverb] [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.19>
         <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix]は [recipient_definite]の [damaged_targets]を [flavortextadverb] [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
 
         <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[initiator_definite]は [recipient_definite]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.21>
         <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[initiator_definite]は [recipient_definite]を [flavortextadverb] [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.22>
-        <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite]は [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.23>
+        <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite]を [damaged_past]。</Combat_ExplosionImpact.rulePack.rulesStrings.23>
 
         <!-- final fallbacks -->
         <Combat_ExplosionImpact.rulePack.rulesStrings.24>logentry(p=0.001)->[recipient_definite]は爆風に巻かれた。</Combat_ExplosionImpact.rulePack.rulesStrings.24>

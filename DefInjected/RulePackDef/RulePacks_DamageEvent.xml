@@ -1,74 +1,76 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <DamageEvent_Include.rulePack.rulesStrings.0>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets].</DamageEvent_Include.rulePack.rulesStrings.0>
-    <DamageEvent_Include.rulePack.rulesStrings.1>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.1>
-    <DamageEvent_Include.rulePack.rulesStrings.2>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
-    <DamageEvent_Include.rulePack.rulesStrings.3>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</DamageEvent_Include.rulePack.rulesStrings.3>
+    <DamageEvent_Include.rulePack.rulesStrings.0>logentry->[recipient_nameShortDef][damageSource], [recipient_possessive][destroyed_targets]を [destroyed_present].</DamageEvent_Include.rulePack.rulesStrings.0>
+    <DamageEvent_Include.rulePack.rulesStrings.1>logentry->[recipient_nameShortDef][damageSource], [recipient_possessive][destroyed_targets]を [destroyed_present],[recipient_possessive][damaged_targets]は[damaged_present].</DamageEvent_Include.rulePack.rulesStrings.1>
+    <DamageEvent_Include.rulePack.rulesStrings.2>logentry(recipient_part_destroyed_count==0)->[recipient_nameShortDef][damageSource],[recipient_possessive][damaged_targets]を [damaged_present].</DamageEvent_Include.rulePack.rulesStrings.2>
+    <DamageEvent_Include.rulePack.rulesStrings.3>logentry(p=0.1)->[recipient_nameShortDef][damageSource].</DamageEvent_Include.rulePack.rulesStrings.3>
 
-    <DamageEvent_Ceiling.rulePack.rulesStrings.0>roof->roof</DamageEvent_Ceiling.rulePack.rulesStrings.0>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->roofing</DamageEvent_Ceiling.rulePack.rulesStrings.1>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->ceiling</DamageEvent_Ceiling.rulePack.rulesStrings.2>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.3>collapsed->collapsed</DamageEvent_Ceiling.rulePack.rulesStrings.3>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.4>collapsed->fell</DamageEvent_Ceiling.rulePack.rulesStrings.4>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.5>collapsed->caved in</DamageEvent_Ceiling.rulePack.rulesStrings.5>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.6>damaged_present->smashing</DamageEvent_Ceiling.rulePack.rulesStrings.6>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.7>damaged_present->bashing</DamageEvent_Ceiling.rulePack.rulesStrings.7>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.8>damaged_present->clobbering</DamageEvent_Ceiling.rulePack.rulesStrings.8>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.9>damaged_present->bruising</DamageEvent_Ceiling.rulePack.rulesStrings.9>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.10>damaged_present->lacerating</DamageEvent_Ceiling.rulePack.rulesStrings.10>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.11>destroyed_present->shattering</DamageEvent_Ceiling.rulePack.rulesStrings.11>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.12>destroyed_present->crushing</DamageEvent_Ceiling.rulePack.rulesStrings.12>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.13>destroyed_present->obliterating</DamageEvent_Ceiling.rulePack.rulesStrings.13>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.14>destroyed_present->annihilating</DamageEvent_Ceiling.rulePack.rulesStrings.14>
-    <DamageEvent_Ceiling.rulePack.rulesStrings.15>destroyed_present->breaking</DamageEvent_Ceiling.rulePack.rulesStrings.15>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.0>damageSource->の上に[roof]が[collapsed]</DamageEvent_Ceiling.rulePack.rulesStrings.0>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->天板</DamageEvent_Ceiling.rulePack.rulesStrings.1>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->屋根</DamageEvent_Ceiling.rulePack.rulesStrings.2>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.3>roof->天井</DamageEvent_Ceiling.rulePack.rulesStrings.3>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.4>collapsed->潰れて落ちた</DamageEvent_Ceiling.rulePack.rulesStrings.4>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.5>collapsed->落ちた</DamageEvent_Ceiling.rulePack.rulesStrings.5>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.6>collapsed->崩れ落ちた</DamageEvent_Ceiling.rulePack.rulesStrings.6>
 
-    <DamageEvent_Fire.rulePack.rulesStrings.0>damageSource->[fire] burned</DamageEvent_Fire.rulePack.rulesStrings.0>
-    <DamageEvent_Fire.rulePack.rulesStrings.1>fire(p=3)->fire</DamageEvent_Fire.rulePack.rulesStrings.1>
-    <DamageEvent_Fire.rulePack.rulesStrings.2>fire(p=3)->a fire</DamageEvent_Fire.rulePack.rulesStrings.2>
-    <DamageEvent_Fire.rulePack.rulesStrings.3>fire(p=3)->the fire</DamageEvent_Fire.rulePack.rulesStrings.3>
-    <DamageEvent_Fire.rulePack.rulesStrings.4>fire->heat</DamageEvent_Fire.rulePack.rulesStrings.4>
-    <DamageEvent_Fire.rulePack.rulesStrings.5>fire->a conflagration</DamageEvent_Fire.rulePack.rulesStrings.5>
-    <DamageEvent_Fire.rulePack.rulesStrings.6>fire->an inferno</DamageEvent_Fire.rulePack.rulesStrings.6>
-    <DamageEvent_Fire.rulePack.rulesStrings.7>damaged_present->scorching</DamageEvent_Fire.rulePack.rulesStrings.7>
-    <DamageEvent_Fire.rulePack.rulesStrings.8>damaged_present->broiling</DamageEvent_Fire.rulePack.rulesStrings.8>
-    <DamageEvent_Fire.rulePack.rulesStrings.9>damaged_present->searing</DamageEvent_Fire.rulePack.rulesStrings.9>
-    <DamageEvent_Fire.rulePack.rulesStrings.10>damaged_present->singeing</DamageEvent_Fire.rulePack.rulesStrings.10>
-    <DamageEvent_Fire.rulePack.rulesStrings.11>destroyed_present->charring</DamageEvent_Fire.rulePack.rulesStrings.11>
-    <DamageEvent_Fire.rulePack.rulesStrings.12>destroyed_present->roasting</DamageEvent_Fire.rulePack.rulesStrings.12>
-    <DamageEvent_Fire.rulePack.rulesStrings.13>destroyed_present->cooking</DamageEvent_Fire.rulePack.rulesStrings.13>
-    <DamageEvent_Fire.rulePack.rulesStrings.14>destroyed_present->cremating</DamageEvent_Fire.rulePack.rulesStrings.14>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.7>damaged_present->強打している</DamageEvent_Ceiling.rulePack.rulesStrings.7>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.8>damaged_present->殴っている</DamageEvent_Ceiling.rulePack.rulesStrings.8>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.9>damaged_present->叩きのめしている</DamageEvent_Ceiling.rulePack.rulesStrings.9>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.10>damaged_present->傷つけている</DamageEvent_Ceiling.rulePack.rulesStrings.10>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.11>damaged_present->引き裂いている</DamageEvent_Ceiling.rulePack.rulesStrings.11>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.12>destroyed_present->打ち砕いている</DamageEvent_Ceiling.rulePack.rulesStrings.12>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.13>destroyed_present->砕いている</DamageEvent_Ceiling.rulePack.rulesStrings.13>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.14>destroyed_present->完全に破壊している</DamageEvent_Ceiling.rulePack.rulesStrings.14>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.15>destroyed_present->ダメにしている</DamageEvent_Ceiling.rulePack.rulesStrings.15>
+    <DamageEvent_Ceiling.rulePack.rulesStrings.16>destroyed_present->壊している</DamageEvent_Ceiling.rulePack.rulesStrings.16>
 
-
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.0>damageSource->The [sky] opened up on</DamageEvent_PowerBeam.rulePack.rulesStrings.0>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.1>damageSource->A beam of incredible [power] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.1>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.2>damageSource->A column of [light] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.2>
-
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.3>sky->sky</DamageEvent_PowerBeam.rulePack.rulesStrings.3>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.4>sky->clouds</DamageEvent_PowerBeam.rulePack.rulesStrings.4>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.5>sky->heavens</DamageEvent_PowerBeam.rulePack.rulesStrings.5>
-
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.6>power->power</DamageEvent_PowerBeam.rulePack.rulesStrings.6>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.7>power->energy</DamageEvent_PowerBeam.rulePack.rulesStrings.7>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.8>power->heat</DamageEvent_PowerBeam.rulePack.rulesStrings.8>
-        
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.9>light->light</DamageEvent_PowerBeam.rulePack.rulesStrings.9>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.10>light->heat</DamageEvent_PowerBeam.rulePack.rulesStrings.10>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.11>light->flame</DamageEvent_PowerBeam.rulePack.rulesStrings.11>
-        <DamageEvent_PowerBeam.rulePack.rulesStrings.12>light(p=0.2)->incandescence</DamageEvent_PowerBeam.rulePack.rulesStrings.12>
+    <DamageEvent_Fire.rulePack.rulesStrings.0>damageSource->は[fire]で燃え上がった</DamageEvent_Fire.rulePack.rulesStrings.0>
+    <DamageEvent_Fire.rulePack.rulesStrings.1>fire(p=3)->炎</DamageEvent_Fire.rulePack.rulesStrings.1>
+    <DamageEvent_Fire.rulePack.rulesStrings.2>fire(p=3)->火</DamageEvent_Fire.rulePack.rulesStrings.2>
+    <DamageEvent_Fire.rulePack.rulesStrings.3>fire(p=3)->火災</DamageEvent_Fire.rulePack.rulesStrings.3>
+    <DamageEvent_Fire.rulePack.rulesStrings.4>fire->熱風</DamageEvent_Fire.rulePack.rulesStrings.4>
+    <DamageEvent_Fire.rulePack.rulesStrings.5>fire->大火</DamageEvent_Fire.rulePack.rulesStrings.5>
+    <DamageEvent_Fire.rulePack.rulesStrings.6>fire->劫火</DamageEvent_Fire.rulePack.rulesStrings.6>
+    <DamageEvent_Fire.rulePack.rulesStrings.7>damaged_present->焼き焦がしている</DamageEvent_Fire.rulePack.rulesStrings.7>
+    <DamageEvent_Fire.rulePack.rulesStrings.8>damaged_present->直火で焼いている</DamageEvent_Fire.rulePack.rulesStrings.8>
+    <DamageEvent_Fire.rulePack.rulesStrings.9>damaged_present->火傷で傷を負わせている</DamageEvent_Fire.rulePack.rulesStrings.9>
+    <DamageEvent_Fire.rulePack.rulesStrings.10>damaged_present->こんがりと焼いている</DamageEvent_Fire.rulePack.rulesStrings.10>
+    <DamageEvent_Fire.rulePack.rulesStrings.11>destroyed_present->黒焦げにしている</DamageEvent_Fire.rulePack.rulesStrings.11>
+    <DamageEvent_Fire.rulePack.rulesStrings.12>destroyed_present->炙ぶっている</DamageEvent_Fire.rulePack.rulesStrings.12>
+    <DamageEvent_Fire.rulePack.rulesStrings.13>destroyed_present->焼いている</DamageEvent_Fire.rulePack.rulesStrings.13>
+    <DamageEvent_Fire.rulePack.rulesStrings.14>destroyed_present->燃やしている</DamageEvent_Fire.rulePack.rulesStrings.14>
 
 
-        <DamageEvent_Tornado.rulePack.rulesStrings.0>damageSource->A [spiraling] tornado [enveloped]</DamageEvent_Tornado.rulePack.rulesStrings.0>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.0>damageSource->の上に[sky]が開けた</DamageEvent_PowerBeam.rulePack.rulesStrings.0>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.1>damageSource->は信じられない位の[power]ビームで[damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.1>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.2>damageSource->は柱状の[light]の束で[damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.2>
 
-        <DamageEvent_Tornado.rulePack.rulesStrings.1>destroyed_present(p=3)->tearing off</DamageEvent_Tornado.rulePack.rulesStrings.1>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.3>sky->空</DamageEvent_PowerBeam.rulePack.rulesStrings.3>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.4>sky->曇り空</DamageEvent_PowerBeam.rulePack.rulesStrings.4>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.5>sky->天国</DamageEvent_PowerBeam.rulePack.rulesStrings.5>
 
-        <DamageEvent_Tornado.rulePack.rulesStrings.2>spiraling->spiraling</DamageEvent_Tornado.rulePack.rulesStrings.2>
-        <DamageEvent_Tornado.rulePack.rulesStrings.3>spiraling->whirling</DamageEvent_Tornado.rulePack.rulesStrings.3>
-        <DamageEvent_Tornado.rulePack.rulesStrings.4>spiraling->spinning</DamageEvent_Tornado.rulePack.rulesStrings.4>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.6>power->パワー</DamageEvent_PowerBeam.rulePack.rulesStrings.6>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.7>power->エネルギー</DamageEvent_PowerBeam.rulePack.rulesStrings.7>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.8>power->熱収束</DamageEvent_PowerBeam.rulePack.rulesStrings.8>
+
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.9>light->光</DamageEvent_PowerBeam.rulePack.rulesStrings.9>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.10>light->高熱</DamageEvent_PowerBeam.rulePack.rulesStrings.10>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.11>light->炎</DamageEvent_PowerBeam.rulePack.rulesStrings.11>
+        <DamageEvent_PowerBeam.rulePack.rulesStrings.12>light(p=0.2)->白熱した光</DamageEvent_PowerBeam.rulePack.rulesStrings.12>
+
+
+        <DamageEvent_Tornado.rulePack.rulesStrings.0>damageSource->の上に[spiraling]竜巻が[enveloped]</DamageEvent_Tornado.rulePack.rulesStrings.0>
+
+        <DamageEvent_Tornado.rulePack.rulesStrings.1>destroyed_present(p=3)->引き剥がす</DamageEvent_Tornado.rulePack.rulesStrings.1>
+
+        <DamageEvent_Tornado.rulePack.rulesStrings.2>spiraling->螺旋状の</DamageEvent_Tornado.rulePack.rulesStrings.2>
+        <DamageEvent_Tornado.rulePack.rulesStrings.3>spiraling->渦を巻いた</DamageEvent_Tornado.rulePack.rulesStrings.3>
+        <DamageEvent_Tornado.rulePack.rulesStrings.4>spiraling->グルグルと回る</DamageEvent_Tornado.rulePack.rulesStrings.4>
         <DamageEvent_Tornado.rulePack.rulesStrings.5>spiraling(p=10)-></DamageEvent_Tornado.rulePack.rulesStrings.5>
 
-        <DamageEvent_Tornado.rulePack.rulesStrings.6>enveloped(p=8)->enveloped</DamageEvent_Tornado.rulePack.rulesStrings.6>
-        <DamageEvent_Tornado.rulePack.rulesStrings.7>enveloped->engulfed</DamageEvent_Tornado.rulePack.rulesStrings.7>
-        <DamageEvent_Tornado.rulePack.rulesStrings.8>enveloped->surrounded</DamageEvent_Tornado.rulePack.rulesStrings.8>
+        <DamageEvent_Tornado.rulePack.rulesStrings.6>enveloped(p=8)->覆い被さった</DamageEvent_Tornado.rulePack.rulesStrings.6>
+        <DamageEvent_Tornado.rulePack.rulesStrings.7>enveloped->飲み込んだ</DamageEvent_Tornado.rulePack.rulesStrings.7>
+        <DamageEvent_Tornado.rulePack.rulesStrings.8>enveloped->取り囲んだ</DamageEvent_Tornado.rulePack.rulesStrings.8>
 
 </LanguageData>

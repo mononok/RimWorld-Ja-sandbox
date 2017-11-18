@@ -21,7 +21,7 @@
         <Maneuver_Slash.rulePack.rulesStrings.17>damaged_present->引き裂いている</Maneuver_Slash.rulePack.rulesStrings.17>
         <Maneuver_Slash.rulePack.rulesStrings.18>woundname->傷口</Maneuver_Slash.rulePack.rulesStrings.18>
         <Maneuver_Slash.rulePack.rulesStrings.19>woundname(p=0.3)->裂け目</Maneuver_Slash.rulePack.rulesStrings.19>
-        <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->[woundname]から 血を滴らせながら</Maneuver_Slash.rulePack.rulesStrings.20>
+        <Maneuver_Slash.rulePack.rulesStrings.20>flavortextsituation(recipient_flesh!=Mechanoid)->[woundname]から血を滴らせながら</Maneuver_Slash.rulePack.rulesStrings.20>
         <Maneuver_Slash.rulePack.rulesStrings.21>flavortextsituation->[woundname]から血を流して</Maneuver_Slash.rulePack.rulesStrings.21>
         <Maneuver_Slash.rulePack.rulesStrings.22>flavortextconsequence(recipient_flesh!=Mechanoid)->皮下組織が露わになったまま</Maneuver_Slash.rulePack.rulesStrings.22>
         <Maneuver_Slash.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh==Mechanoid)->内部機器をさらけ出して</Maneuver_Slash.rulePack.rulesStrings.23>
@@ -102,8 +102,8 @@
 
         <Maneuver_Smash.rulePack.rulesStrings.0>flavortextconsequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</Maneuver_Smash.rulePack.rulesStrings.0>
         <Maneuver_Smash.rulePack.rulesStrings.1>flavortextconsequence->形が変更したままで</Maneuver_Smash.rulePack.rulesStrings.1>
-        <Maneuver_Smash.rulePack.rulesStrings.2>flavortextconsequence->knocking [recipient_objective] off balance</Maneuver_Smash.rulePack.rulesStrings.2>
-        <Maneuver_Smash.rulePack.rulesStrings.3>flavortextconsequence->knocking [recipient_objective] to the side</Maneuver_Smash.rulePack.rulesStrings.3>
+        <Maneuver_Smash.rulePack.rulesStrings.2>flavortextconsequence->[recipient_objective]殴ってバランスを崩させ</Maneuver_Smash.rulePack.rulesStrings.2>
+        <Maneuver_Smash.rulePack.rulesStrings.3>flavortextconsequence->[recipient_objective]殴って横ずらしながら</Maneuver_Smash.rulePack.rulesStrings.3>
 
         <Maneuver_Smash.rulePack.rulesStrings.4>destroyed_suffix->一片[to]</Maneuver_Smash.rulePack.rulesStrings.4>
         <Maneuver_Smash.rulePack.rulesStrings.5>destroyed_suffix->小片[to]</Maneuver_Smash.rulePack.rulesStrings.5>
@@ -169,8 +169,8 @@
 
         <Poke.rulePack.rulesStrings.15>flavortextconsequence(recipient_flesh!=Mechanoid)->大きな打撲傷を負ったままで</Poke.rulePack.rulesStrings.15>
         <Poke.rulePack.rulesStrings.16>flavortextconsequence->形が変更したままで</Poke.rulePack.rulesStrings.16>
-        <Poke.rulePack.rulesStrings.17>flavortextconsequence->knocking [recipient_objective] off balance</Poke.rulePack.rulesStrings.17>
-        <Poke.rulePack.rulesStrings.18>flavortextconsequence->knocking [recipient_objective] to the side</Poke.rulePack.rulesStrings.18>
+        <Poke.rulePack.rulesStrings.17>flavortextconsequence->[recipient_objective]殴ってバランスを崩させ</Poke.rulePack.rulesStrings.17>
+        <Poke.rulePack.rulesStrings.18>flavortextconsequence->[recipient_objective]殴って横ずらしながら</Poke.rulePack.rulesStrings.18>
 
         <Poke.rulePack.rulesStrings.19>destroyed_past->打ち砕いた</Poke.rulePack.rulesStrings.19>
         <Poke.rulePack.rulesStrings.20>destroyed_past->砕いた</Poke.rulePack.rulesStrings.20>

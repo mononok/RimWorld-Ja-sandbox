@@ -253,7 +253,7 @@
   <Dead>死亡</Dead>
   <Unconscious>意識不明</Unconscious>
   <PainShock>痛みでショック</PainShock>
-	<PainShockShort>Pain shock</PainShockShort>
+<PainShockShort>激痛</PainShockShort>
 <Incapacitated>倒れている</Incapacitated>
 <InRestraints>拘束中 （移動速度減）</InRestraints>
 <Carrying>運搬中</Carrying>
@@ -434,7 +434,7 @@
 	<Mood_Happy>幸せ</Mood_Happy>
 
 	<!-- Game over -->
-	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして すべての人が 居なくなり、 この物語は 終わりをとげます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるでしょう。</GameOverEveryoneDead>
+	<GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして全ての人が居なくなり、 この物語は終わりを告げます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません。</GameOverEveryoneDead>
 	<GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
     <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、亜光速まで加速した対惑星兵器が、惑星表面に激しく打ち込まれました。水風船をライフル弾が撃ち抜いたごとく、この世界は激しい衝撃と共に液状化し、溶けた惑星の中心核は宇宙空間に吹き出しました。\n\n{0}の一部分は、いま、小さなアステロイドベルトとなっています。溶岩があふれだし、放射能にまみれたの地獄のようになった残りの部分は、絶えず巨大な惑星全体の振動とともに キロメートル級の波紋を起こしています。\n\n あなたは、生き残ることができません。</GameOverPlanetkillerImpact>
   <GameOverArrivedAtJourneyDestination>あなたが、船に乗り込むとき、クルーから心からの歓迎を受けました。みんな嬉しそうです。\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\nAIコアが、宇宙船を安全な惑星まで、誘導するでしょう。あなたの為に繁栄した惑星を、このAIが見つけられるかもしれませんが、他の星雲への数世紀に及ぶ旅への始まりかもしれません。何千年も、小惑星の氷原下に船体を隠す決断をするかもしれませんし、誰かが新しいGlitterworldを建設するまで、待たなければならないかもしれません。\n\nあなたが、冷凍睡眠ポッドに身を沈めるとき、この入植者達を信じることができるかどうか、わずかな疑いを感じて、ちょっとためらいます。\n\nその結果は、次に、あなたが目覚めた時に、きっと判るのでしょう。</GameOverArrivedAtJourneyDestination>

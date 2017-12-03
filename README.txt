@@ -1,8 +1,8 @@
 RimWorld-Ja-sandbox
 ===========
-Ver:18.05
+Ver:18.06
 Original: beta18.1722 rev1198
-Description: 【確認済】beta 18 翻訳作業は完了です。エラーが起きないことは確認しています。TalesDefも完了しました。
+Description: 【確認済】beta 18 翻訳作業は完了です。エラーが起きないことは確認しています。TalesDefも完了しました、マラリブロックをペノキシリンに修正しました。
 ToDo:
 Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを"削除"してからコピーします。上書きすると起動しなくなります。
 

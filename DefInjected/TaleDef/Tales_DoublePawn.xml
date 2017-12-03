@@ -5,19 +5,19 @@
     <Captured.label>person captured</Captured.label>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[prisoner_nameShortDef]の逮捕</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]を逮捕</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[1]</path>
-		<trans>image->[capturer_nameFull]は、[circumstance_group]、[prisoner_nameFull]を捕まえている。</trans>
+		<trans>image->[capturer_nameFull]は、[circumstance_group] [prisoner_nameFull]を捕まえている</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[2]</path>
-		<trans>image->[capturer_nameFull]は、[circumstance_group]、[prisoner_nameFull]の手を縛っている。</trans>
+		<trans>image->[capturer_nameFull]は、[circumstance_group] [prisoner_nameFull]の手を縛っている</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[3]</path>
-		<trans>image->[prisoner_objective]を奪っている間、[capturer_nameFull]をぴしゃりと手で打つ。</trans>
+		<trans>image->[prisoner_objective]を奪っている間、[capturer_nameFull]をぴしゃりと手で打つ</trans>
 	</rep>
 	<rep>
 		<path>Captured.rulePack.rulesStrings[4]</path>
@@ -97,15 +97,15 @@
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[1]</path>
-		<trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]を勧誘している。</trans>
+		<trans>image->[recruiter_nameFull]は、[circumstance_group] [joiner_nameFull]を勧誘している</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[2]</path>
-		<trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]が、[joiner_pronoun]として入植者になることを歓迎している。</trans>
+		<trans>image->[recruiter_nameFull]は、[circumstance_group] [joiner_nameFull]が、[joiner_pronoun]として入植者になることを歓迎している</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[3]</path>
-        <trans>image->[recruiter_nameFull]は、[circumstance_group]、[joiner_nameFull]が納得のいくように話している。</trans>
+        <trans>image->[recruiter_nameFull]は、[circumstance_group] [joiner_nameFull]が納得のいくように話している</trans>
 	</rep>
 	<rep>
 		<path>Recruited.rulePack.rulesStrings[4]</path>
@@ -149,15 +149,15 @@
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[1]</path>
-        <trans>image->[prey_nameFull]は、[circumstance_group]、[hunter_nameFull]によって狩られる。 </trans>
+        <trans>image->[prey_nameFull]は、[circumstance_group] [hunter_nameFull]によって狩られる</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[2]</path>
-        <trans>image->[hunter_nameFull]は、[circumstance_group]、[prey_nameFull]に遠くからこっそりと忍び寄る。</trans>
+        <trans>image->[hunter_nameFull]は、[circumstance_group] [prey_nameFull]に遠くからこっそりと忍び寄る</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[3]</path>
-        <trans>image->[hunter_nameFull]は、[circumstance_group]、[prey_nameFull]を狩っている。</trans>
+        <trans>image->[hunter_nameFull]は、[circumstance_group] [prey_nameFull]を狩っている</trans>
 	</rep>
 	<rep>
 		<path>Hunted.rulePack.rulesStrings[4]</path>
@@ -189,19 +189,19 @@
     <DidSurgery.label>surgery perfomed</DidSurgery.label>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[patient_nameShortDef]の外科手術</trans>
+		<trans>tale_noun->[patient_nameShortDef]を外科手術</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[1]</path>
-		<trans>image->[surgeon_nameFull]は、[circumstance_group]、[patient_nameFull]を麻酔で眠らせている。</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group] [patient_nameFull]を麻酔で眠らせている</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[2]</path>
-		<trans>image->[surgeon_nameFull]は、[circumstance_group]、手術中に肘まで深く[patient_nameFull]の中に差し込んでいる。</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group] 手術中に肘まで深く[patient_nameFull]の中に差し込んでいる</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[3]</path>
-		<trans>image->[surgeon_nameFull]は、[circumstance_group]、手術中に[patient_nameFull]を切り刻んでいる。</trans>
+		<trans>image->[surgeon_nameFull]は、[circumstance_group] 手術中に[patient_nameFull]を切り刻んでいる</trans>
 	</rep>
 	<rep>
 		<path>DidSurgery.rulePack.rulesStrings[4]</path>
@@ -240,27 +240,27 @@
     <ExecutedPrisoner.label>prisoner executed</ExecutedPrisoner.label>
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[prisoner_nameShortDef]の処刑</trans>
+		<trans>tale_noun->[prisoner_nameShortDef]を処刑</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  1]</path>
-		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]を処刑している。 </trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group] [prisoner_nameFull]を処刑している</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  2]</path>
-		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]を死の淵においやっている。</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group] [prisoner_nameFull]を死の淵においやっている</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  3]</path>
-		<trans>image->[warden_nameFull]は、[circumstance_group]、[prisoner_nameFull]の処刑の準備をしている。</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group] [prisoner_nameFull]の処刑の準備をしている</trans>
 	</rep>
 
     <rep>
 		<path>ExecutedPrisoner.rulePack.rulesStrings[  4]</path>
-		<trans>image->[warden_nameFull]は、[circumstance_group]、牢獄に入り[prisoner_nameFull]を処刑するために連れ出している。</trans>
+		<trans>image->[warden_nameFull]は、[circumstance_group] 牢獄に入り[prisoner_nameFull]を処刑するために連れ出している</trans>
 	</rep>
 
     <rep>
@@ -368,22 +368,22 @@
     <KidnappedColonist.label>colonist kidnapped</KidnappedColonist.label>
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[victim_nameShortDef]の拉致</trans>
+		<trans>tale_noun->[victim_nameShortDef]を拉致</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  1]</path>
-		<trans>image->[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を、[kidnapper_factionName]に連れ去る。</trans>
+		<trans>image->[kidnapper_nameFull]は、[circumstance_group] [victim_nameFull]を、[kidnapper_factionName]に連れ去る</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  2]</path>
-		<trans>image->[kidnapper_factionName]の[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を誘拐する。</trans>
+		<trans>image->[kidnapper_factionName]の[kidnapper_nameFull]は、[circumstance_group] [victim_nameFull]を誘拐する</trans>
 	</rep>
 
     <rep>
 		<path>KidnappedColonist.rulePack.rulesStrings[  3]</path>
-		<trans>image->[kidnapper_nameFull]は、[circumstance_group]、[victim_nameFull]を誘拐する。 </trans>
+		<trans>image->[kidnapper_nameFull]は、[circumstance_group] [victim_nameFull]を誘拐する</trans>
 	</rep>
 
     <rep>
@@ -456,27 +456,27 @@
     <TamedAnimal.label>animal tamed</TamedAnimal.label>
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[human_nameShortDef]が飼い慣らす、[animal_nameShortDef]たち</trans>
+		<trans>tale_noun->[human_nameShortDef]、[animal_nameShortDef]を飼い慣らす</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]を飼い慣らす。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]を飼い慣らす</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]にご馳走を与えている。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]にご馳走を与えている</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  3]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、驚きやすい[animal_nameFull]に小声で話しかける。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] 驚きやすい[animal_nameFull]に小声で話しかける</trans>
 	</rep>
 
     <rep>
 		<path>TamedAnimal.rulePack.rulesStrings[  4]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、野性の[animal_nameFull]をなだめている。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] 野性の[animal_nameFull]をなだめている</trans>
 	</rep>
 
     <rep>
@@ -527,15 +527,17 @@
     <!-- KilledBy -->
         <!-- note that killer may not be filled in, so this has to be resolvable without any killer_ symbols -->
     <KilledBy.label>death</KilledBy.label>
-    <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]の、[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.0>
-    <KilledBy.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]による、[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.1>
-	<KilledBy.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef]が、[killer_nameShortDef]によって殺された</KilledBy.rulePack.rulesStrings.2>
+    <KilledBy.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]の[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.0>
+    <KilledBy.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]による[victim_nameShortDef]殺し</KilledBy.rulePack.rulesStrings.1>
+	<KilledBy.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef]によって殺された[victim_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
 	<KilledBy.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]が殺された</KilledBy.rulePack.rulesStrings.3>
-	<KilledBy.rulePack.rulesStrings.4>image->[victim_nameFull]は、[circumstance_group]、[killer_nameFull]に殺された。 </KilledBy.rulePack.rulesStrings.4>
-	<KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]を殺す。</KilledBy.rulePack.rulesStrings.5>
-	<KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull]は、[circumstance_group]、[victim_nameFull]の人生を終わらせる。</KilledBy.rulePack.rulesStrings.6>
-	<KilledBy.rulePack.rulesStrings.7>image->[killer_nameFull]は、[circumstance_group]、残忍に[victim_nameFull]を殺す。</KilledBy.rulePack.rulesStrings.7>
-	<KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull]は、[circumstance_group]、殺された。</KilledBy.rulePack.rulesStrings.8>
+
+	<KilledBy.rulePack.rulesStrings.4>image->[victim_nameFull]は、[circumstance_group] [killer_nameFull]に殺される</KilledBy.rulePack.rulesStrings.4>
+	<KilledBy.rulePack.rulesStrings.5>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]を殺す</KilledBy.rulePack.rulesStrings.5>
+	<KilledBy.rulePack.rulesStrings.6>image->[killer_nameFull]は、[circumstance_group] [victim_nameFull]の人生を終わらせる</KilledBy.rulePack.rulesStrings.6>
+	<KilledBy.rulePack.rulesStrings.7>image->[killer_nameFull]は、[circumstance_group] 残忍に[victim_nameFull]を殺す</KilledBy.rulePack.rulesStrings.7>
+	<KilledBy.rulePack.rulesStrings.8>image->[victim_nameFull]は、[circumstance_group] 殺される</KilledBy.rulePack.rulesStrings.8>
+
 	<KilledBy.rulePack.rulesStrings.9>circumstance_phrase->一見したところ無慈悲に</KilledBy.rulePack.rulesStrings.9>
 	<KilledBy.rulePack.rulesStrings.10>circumstance_phrase->冷酷に</KilledBy.rulePack.rulesStrings.10>
 	<KilledBy.rulePack.rulesStrings.11>circumstance_phrase->激しい怒りと共に</KilledBy.rulePack.rulesStrings.11>
@@ -543,6 +545,7 @@
 	<KilledBy.rulePack.rulesStrings.13>circumstance_phrase->感情を表に出さずに</KilledBy.rulePack.rulesStrings.13>
 	<KilledBy.rulePack.rulesStrings.14>circumstance_phrase->希望も無しに</KilledBy.rulePack.rulesStrings.14>
 	<KilledBy.rulePack.rulesStrings.15>circumstance_phrase->卑劣で、冷淡な方法で</KilledBy.rulePack.rulesStrings.15>
+
 	<KilledBy.rulePack.rulesStrings.16>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</KilledBy.rulePack.rulesStrings.16>
 	<KilledBy.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]の[animal]が、傍らで見ている。</KilledBy.rulePack.rulesStrings.17>
 	<KilledBy.rulePack.rulesStrings.18>desc_sentence->[side_position]の[outlander]が、静かに見張っている。</KilledBy.rulePack.rulesStrings.18>
@@ -563,12 +566,12 @@
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  1]</path>
-		<trans>image->[trader_nameFull]は、[circumstance_group]、[prisoner_nameFull]を、[seller_nameFull]から買った。</trans>
+		<trans>image->[trader_nameFull]は、[circumstance_group] [prisoner_nameFull]を、[seller_nameFull]から買った</trans>
 	</rep>
 
     <rep>
 		<path>SoldPrisoner.rulePack.rulesStrings[  2]</path>
-		<trans>image->[seller_nameFull]は、[circumstance_group] 、[prisoner_nameFull]を、[trader_nameFull]に売る。</trans>
+		<trans>image->[seller_nameFull]は、[circumstance_group] 、[prisoner_nameFull]を、[trader_nameFull]に売る</trans>
 	</rep>
 
     <rep>
@@ -651,22 +654,22 @@
     <TrainedAnimal.label>animal trained</TrainedAnimal.label>
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[animal_nameShortDef]の調教</trans>
+		<trans>tale_noun->[animal_nameShortDef]を調教</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]に[trainable_label]を[train_syn]する。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]に[trainable_label]を[train_syn]する</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]に[trainable_label]を教える。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]に[trainable_label]を教える</trans>
 	</rep>
 
     <rep>
 		<path>TrainedAnimal.rulePack.rulesStrings[  3]</path>
-		<trans>image->[human_nameFull]、[circumstance_group]、[animal_nameFull]と[trainable_label]を練習する。</trans>
+		<trans>image->[human_nameFull]、[circumstance_group] [animal_nameFull]と[trainable_label]を練習する</trans>
 	</rep>
 
     <rep>
@@ -802,15 +805,18 @@
 	<KilledColonist.label>colonist killed</KilledColonist.label>
 
 	<KilledColonyAnimal.label>colony animal killed</KilledColonyAnimal.label>
-	
+
 	<KilledMajorColonyEnemy.label>major enymy killed</KilledMajorColonyEnemy.label>
-	
+
 	<TradedWith.label>traded with someone</TradedWith.label>
-    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_nameFull]と [buyer_nameFull]との間で 取引が行なわれる。</TradedWith.rulePack.rulesStrings.0>
-    <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group]、 [seller_nameFull]からアイテムを買い取る。</TradedWith.rulePack.rulesStrings.1>
-    <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull]は、  [circumstance_group]、 [buyer_nameFull]にアイテムを売りつける。</TradedWith.rulePack.rulesStrings.2>
+    <TradedWith.rulePack.rulesStrings.0>tale_noun->[seller_nameFull]、[buyer_nameFull]間での商取引</TradedWith.rulePack.rulesStrings.0>
+
+    <TradedWith.rulePack.rulesStrings.1>image->[buyer_nameFull]は、 [circumstance_group] [seller_nameFull]からアイテムを買い取る</TradedWith.rulePack.rulesStrings.1>
+    <TradedWith.rulePack.rulesStrings.2>image->[seller_nameFull]は、  [circumstance_group] [buyer_nameFull]にアイテムを売りつける</TradedWith.rulePack.rulesStrings.2>
+
     <TradedWith.rulePack.rulesStrings.3>circumstance_phrase->貪欲な目つきで一心に</TradedWith.rulePack.rulesStrings.3>
     <TradedWith.rulePack.rulesStrings.4>circumstance_phrase->その間、[seller_nameShortDef]が、 [buyer_shortNameDef]にニヤニヤ笑みを浮かべながら</TradedWith.rulePack.rulesStrings.4>
+
     <TradedWith.rulePack.rulesStrings.5>desc_sentence->[buyer_nameShortDef]は、 [seller_nameShortDef]の商品を品定めしている。</TradedWith.rulePack.rulesStrings.5>
     <TradedWith.rulePack.rulesStrings.6>desc_sentence->[seller_nameShortDef]はアイテムを検討している。</TradedWith.rulePack.rulesStrings.6>
     <TradedWith.rulePack.rulesStrings.7>desc_sentence->[seller_nameShortDef]は値切り始める。</TradedWith.rulePack.rulesStrings.7>

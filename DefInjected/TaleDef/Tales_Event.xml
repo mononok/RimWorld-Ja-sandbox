@@ -1,73 +1,86 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<LaunchedShip.label>launched ship</LaunchedShip.label>
-        <LaunchedShip.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] escaping the planet</LaunchedShip.rulePack.rulesStrings.0>
-        <LaunchedShip.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] taking off in a spaceship</LaunchedShip.rulePack.rulesStrings.1>
-        <LaunchedShip.rulePack.rulesStrings.2>image->[pawn_nameFull] being launched towards the stars [circumstance_group]</LaunchedShip.rulePack.rulesStrings.2>
-        <LaunchedShip.rulePack.rulesStrings.3>image->[pawn_nameFull] racing towards the heavens [circumstance_group]</LaunchedShip.rulePack.rulesStrings.3>
-        <LaunchedShip.rulePack.rulesStrings.4>image->[pawn_nameFull] accelerating to escape velocity [circumstance_group]</LaunchedShip.rulePack.rulesStrings.4>
-        <LaunchedShip.rulePack.rulesStrings.5>image->[pawn_nameFull] piloting a rocket [circumstance_group]</LaunchedShip.rulePack.rulesStrings.5>
-        <LaunchedShip.rulePack.rulesStrings.6>circumstance_phrase->in front of a [terrainfeature]</LaunchedShip.rulePack.rulesStrings.6>
-        <LaunchedShip.rulePack.rulesStrings.7>circumstance_phrase->with incredible force</LaunchedShip.rulePack.rulesStrings.7>
-        <LaunchedShip.rulePack.rulesStrings.8>circumstance_phrase->in a plume of dust and rocks</LaunchedShip.rulePack.rulesStrings.8>
-        <LaunchedShip.rulePack.rulesStrings.9>circumstance_phrase->with rockets firing dramatically</LaunchedShip.rulePack.rulesStrings.9>
-        <LaunchedShip.rulePack.rulesStrings.10>circumstance_phrase->in a precision takeoff</LaunchedShip.rulePack.rulesStrings.10>
-        <LaunchedShip.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is concentrating intently on the controls.</LaunchedShip.rulePack.rulesStrings.11>
-        <LaunchedShip.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] has [pawn_possessive] eyes closed and looks confident.</LaunchedShip.rulePack.rulesStrings.12>
-        <LaunchedShip.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is sleeping, [pawn_possessive] eyes closed peacefully.</LaunchedShip.rulePack.rulesStrings.13>
-        <LaunchedShip.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] is smiling with grim joy.</LaunchedShip.rulePack.rulesStrings.14>
-        <LaunchedShip.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] seems to be fully in control of the situation.</LaunchedShip.rulePack.rulesStrings.15>
-        <LaunchedShip.rulePack.rulesStrings.16>desc_sentence->There is a flame trail licking off the back of the ship.</LaunchedShip.rulePack.rulesStrings.16>
-        <LaunchedShip.rulePack.rulesStrings.17>desc_sentence->A nearby [animal] is looking up, startled.</LaunchedShip.rulePack.rulesStrings.17>
-        <LaunchedShip.rulePack.rulesStrings.18>desc_sentence->A [animal] is fleeing the launch in fear.</LaunchedShip.rulePack.rulesStrings.18>
-        <LaunchedShip.rulePack.rulesStrings.19>desc_sentence->There is a [terrainfeature] in the background.</LaunchedShip.rulePack.rulesStrings.19>
-        <LaunchedShip.rulePack.rulesStrings.20>desc_sentence->A [outlander] watches silently from afar.</LaunchedShip.rulePack.rulesStrings.20>
+        <LaunchedShip.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、惑星から脱出する</LaunchedShip.rulePack.rulesStrings.0>
+        <LaunchedShip.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]、宇宙への旅立ち</LaunchedShip.rulePack.rulesStrings.1>
 
-        <SocialFight.rulePack.rulesStrings.0>tale_noun->[pawna_nameShortDef] [fight_name_present] [pawnb_nameShortDef]</SocialFight.rulePack.rulesStrings.0>
-        <SocialFight.rulePack.rulesStrings.1>image->[pawna_nameFull] insulting [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.1>
-        <SocialFight.rulePack.rulesStrings.2>image->[pawna_nameFull] taunting [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.2>
-        <SocialFight.rulePack.rulesStrings.3>image->[pawna_nameFull] threatening [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.3>
-        <SocialFight.rulePack.rulesStrings.4>image->[pawna_nameFull] intimidating [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.4>
-        <SocialFight.rulePack.rulesStrings.5>image->[pawna_nameFull] attacking [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.5>
-        <SocialFight.rulePack.rulesStrings.6>image->[pawna_nameFull] assaulting [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.6>
-        <SocialFight.rulePack.rulesStrings.7>image->[pawna_nameFull] punching [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.7>
-        <SocialFight.rulePack.rulesStrings.8>image->[pawna_nameFull] kicking [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.8>
-        <SocialFight.rulePack.rulesStrings.9>image->[pawna_nameFull] cowering from [pawnb_nameFull] [circumstance_group]</SocialFight.rulePack.rulesStrings.9>
-        <SocialFight.rulePack.rulesStrings.10>fight_name_present->assaulting</SocialFight.rulePack.rulesStrings.10>
-        <SocialFight.rulePack.rulesStrings.11>fight_name_present->attacking</SocialFight.rulePack.rulesStrings.11>
-        <SocialFight.rulePack.rulesStrings.12>fight_name_present->fighting</SocialFight.rulePack.rulesStrings.12>
-        <SocialFight.rulePack.rulesStrings.13>circumstance_phrase->while [pawnb_nameShortDef] insults [pawna_objective]</SocialFight.rulePack.rulesStrings.13>
-        <SocialFight.rulePack.rulesStrings.14>circumstance_phrase->while [pawnb_nameShortDef] taunts [pawna_objective]</SocialFight.rulePack.rulesStrings.14>
-        <SocialFight.rulePack.rulesStrings.15>circumstance_phrase->while [pawnb_nameShortDef] threatens [pawna_objective]</SocialFight.rulePack.rulesStrings.15>
-        <SocialFight.rulePack.rulesStrings.16>circumstance_phrase->while [pawnb_nameShortDef] intimidates [pawna_objective]</SocialFight.rulePack.rulesStrings.16>
-        <SocialFight.rulePack.rulesStrings.17>circumstance_phrase->while [pawnb_nameShortDef] attacks [pawna_objective]</SocialFight.rulePack.rulesStrings.17>
-        <SocialFight.rulePack.rulesStrings.18>circumstance_phrase->while [pawnb_nameShortDef] assaults [pawna_objective]</SocialFight.rulePack.rulesStrings.18>
-        <SocialFight.rulePack.rulesStrings.19>circumstance_phrase->while [pawnb_nameShortDef] punches [pawna_objective]</SocialFight.rulePack.rulesStrings.19>
-        <SocialFight.rulePack.rulesStrings.20>circumstance_phrase->while [pawnb_nameShortDef] kicks [pawna_objective]</SocialFight.rulePack.rulesStrings.20>
-        <SocialFight.rulePack.rulesStrings.21>circumstance_phrase->while [pawnb_nameShortDef] cowers from [pawna_objective]</SocialFight.rulePack.rulesStrings.21>
-        <SocialFight.rulePack.rulesStrings.22>desc_sentence->[target] appears without remorse.</SocialFight.rulePack.rulesStrings.22>
-        <SocialFight.rulePack.rulesStrings.23>desc_sentence->[target] is consumed with passionate rage.</SocialFight.rulePack.rulesStrings.23>
-        <SocialFight.rulePack.rulesStrings.24>desc_sentence->[target] has no emotion or expression.</SocialFight.rulePack.rulesStrings.24>
-        <SocialFight.rulePack.rulesStrings.25>desc_sentence->[target]'s body is covered in [gore].</SocialFight.rulePack.rulesStrings.25>
-        <SocialFight.rulePack.rulesStrings.26>desc_sentence->[target] is screaming furiously.</SocialFight.rulePack.rulesStrings.26>
-        <SocialFight.rulePack.rulesStrings.27>desc_sentence->[target] is visibly wounded.</SocialFight.rulePack.rulesStrings.27>
-        <SocialFight.rulePack.rulesStrings.28>desc_sentence->[target]'s eyes are glowing [color].</SocialFight.rulePack.rulesStrings.28>
+        <LaunchedShip.rulePack.rulesStrings.2>image->[pawn_nameFull]は、[circumstance_group] 宇宙へと打ち上げられている</LaunchedShip.rulePack.rulesStrings.2>
+        <LaunchedShip.rulePack.rulesStrings.3>image->[pawn_nameFull]は、[circumstance_group] 天に向かっている</LaunchedShip.rulePack.rulesStrings.3>
+        <LaunchedShip.rulePack.rulesStrings.4>image->[pawn_nameFull]は、[circumstance_group] 重力圏離脱速度に向けて加速している</LaunchedShip.rulePack.rulesStrings.4>
+        <LaunchedShip.rulePack.rulesStrings.5>image->[pawn_nameFull]は、[circumstance_group] ロケットを操縦している</LaunchedShip.rulePack.rulesStrings.5>
+
+        <LaunchedShip.rulePack.rulesStrings.6>circumstance_phrase->[terrainfeature]を前にして</LaunchedShip.rulePack.rulesStrings.6>
+        <LaunchedShip.rulePack.rulesStrings.7>circumstance_phrase->途方もない力を使って</LaunchedShip.rulePack.rulesStrings.7>
+        <LaunchedShip.rulePack.rulesStrings.8>circumstance_phrase->塵や岩を吹き飛ばしている中で</LaunchedShip.rulePack.rulesStrings.8>
+        <LaunchedShip.rulePack.rulesStrings.9>circumstance_phrase->ロケットの劇的な噴射と共に</LaunchedShip.rulePack.rulesStrings.9>
+        <LaunchedShip.rulePack.rulesStrings.10>circumstance_phrase->正確な離陸をして</LaunchedShip.rulePack.rulesStrings.10>
+
+        <LaunchedShip.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun]は、宇宙船の制御を一心不乱に集中している。</LaunchedShip.rulePack.rulesStrings.11>
+        <LaunchedShip.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]は、自身に満ち溢れた様子で目を閉じている。</LaunchedShip.rulePack.rulesStrings.12>
+        <LaunchedShip.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun]は眠っている、[pawn_possessive]目は穏やかに閉じられている。</LaunchedShip.rulePack.rulesStrings.13>
+        <LaunchedShip.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun]は、薄気味悪い笑みをうかべている。</LaunchedShip.rulePack.rulesStrings.14>
+        <LaunchedShip.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun]は、置かれている状況を完璧に把握しているようだ。</LaunchedShip.rulePack.rulesStrings.15>
+        <LaunchedShip.rulePack.rulesStrings.16>desc_sentence->宇宙船の後部には噴射流の跡を残している。</LaunchedShip.rulePack.rulesStrings.16>
+        <LaunchedShip.rulePack.rulesStrings.17>desc_sentence->近くにいる[animal]はギョッとして見上げている。</LaunchedShip.rulePack.rulesStrings.17>
+        <LaunchedShip.rulePack.rulesStrings.18>desc_sentence->[animal]は発射の恐怖で逃げ出している。</LaunchedShip.rulePack.rulesStrings.18>
+        <LaunchedShip.rulePack.rulesStrings.19>desc_sentence->背景には[terrainfeature]がある。</LaunchedShip.rulePack.rulesStrings.19>
+        <LaunchedShip.rulePack.rulesStrings.20>desc_sentence->[outlander]が遠くから無言で眺めている。</LaunchedShip.rulePack.rulesStrings.20>
+
+	<!-- SocialFight -->
+        <SocialFight.rulePack.rulesStrings.0>tale_noun->[pawna_nameShortDef]、[pawnb_nameShortDef]に暴行する</SocialFight.rulePack.rulesStrings.0>
+
+        <SocialFight.rulePack.rulesStrings.1>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を侮辱している</SocialFight.rulePack.rulesStrings.1>
+        <SocialFight.rulePack.rulesStrings.2>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を罵っている</SocialFight.rulePack.rulesStrings.2>
+        <SocialFight.rulePack.rulesStrings.3>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を脅している</SocialFight.rulePack.rulesStrings.3>
+        <SocialFight.rulePack.rulesStrings.4>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を怖がらせている</SocialFight.rulePack.rulesStrings.4>
+        <SocialFight.rulePack.rulesStrings.5>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を攻撃している</SocialFight.rulePack.rulesStrings.5>
+        <SocialFight.rulePack.rulesStrings.6>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を暴行している</SocialFight.rulePack.rulesStrings.6>
+        <SocialFight.rulePack.rulesStrings.7>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を殴っている</SocialFight.rulePack.rulesStrings.7>
+        <SocialFight.rulePack.rulesStrings.8>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を蹴っている</SocialFight.rulePack.rulesStrings.8>
+        <SocialFight.rulePack.rulesStrings.9>image->[pawna_nameFull]は、[circumstance_group] [pawnb_nameFull]を委縮させる</SocialFight.rulePack.rulesStrings.9>
+
+        <SocialFight.rulePack.rulesStrings.10>fight_name_present->に暴行する</SocialFight.rulePack.rulesStrings.10>
+        <SocialFight.rulePack.rulesStrings.11>fight_name_present->に攻撃する</SocialFight.rulePack.rulesStrings.11>
+        <SocialFight.rulePack.rulesStrings.12>fight_name_present->と闘う</SocialFight.rulePack.rulesStrings.12>
+
+        <SocialFight.rulePack.rulesStrings.13>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を侮辱しつつ</SocialFight.rulePack.rulesStrings.13>
+        <SocialFight.rulePack.rulesStrings.14>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を罵りつつ</SocialFight.rulePack.rulesStrings.14>
+        <SocialFight.rulePack.rulesStrings.15>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を脅しつつ</SocialFight.rulePack.rulesStrings.15>
+        <SocialFight.rulePack.rulesStrings.16>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を怖がらせつつ</SocialFight.rulePack.rulesStrings.16>
+        <SocialFight.rulePack.rulesStrings.17>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を攻撃しつつ</SocialFight.rulePack.rulesStrings.17>
+        <SocialFight.rulePack.rulesStrings.18>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を暴行しつつ</SocialFight.rulePack.rulesStrings.18>
+        <SocialFight.rulePack.rulesStrings.19>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を殴りつつ</SocialFight.rulePack.rulesStrings.19>
+        <SocialFight.rulePack.rulesStrings.20>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を蹴りつつ</SocialFight.rulePack.rulesStrings.20>
+        <SocialFight.rulePack.rulesStrings.21>circumstance_phrase->[pawnb_nameShortDef]は[pawna_objective]を委縮させつつ</SocialFight.rulePack.rulesStrings.21>
+
+        <SocialFight.rulePack.rulesStrings.22>desc_sentence->[target]は公開していないように見える。</SocialFight.rulePack.rulesStrings.22>
+        <SocialFight.rulePack.rulesStrings.23>desc_sentence->[target]は怒りの矛先を向けられる。</SocialFight.rulePack.rulesStrings.23>
+        <SocialFight.rulePack.rulesStrings.24>desc_sentence->[target]には何の感情も表情もない。</SocialFight.rulePack.rulesStrings.24>
+        <SocialFight.rulePack.rulesStrings.25>desc_sentence->[target]の身体を[gore]が覆う。</SocialFight.rulePack.rulesStrings.25>
+        <SocialFight.rulePack.rulesStrings.26>desc_sentence->[target]は猛烈に叫び声をあげる。</SocialFight.rulePack.rulesStrings.26>
+        <SocialFight.rulePack.rulesStrings.27>desc_sentence->[target]は目に見える程の傷を負った。</SocialFight.rulePack.rulesStrings.27>
+        <SocialFight.rulePack.rulesStrings.28>desc_sentence->[target]の両目が[color]に染まる。</SocialFight.rulePack.rulesStrings.28>
+
         <SocialFight.rulePack.rulesStrings.29>target->[pawna_nameShortDef]</SocialFight.rulePack.rulesStrings.29>
         <SocialFight.rulePack.rulesStrings.30>target->[pawnb_nameShortDef]</SocialFight.rulePack.rulesStrings.30>
 
-        <CollapseDodged.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] dodging a cavein</CollapseDodged.rulePack.rulesStrings.0>
-        <CollapseDodged.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] nearly crushed by falling objects</CollapseDodged.rulePack.rulesStrings.1>
-        <CollapseDodged.rulePack.rulesStrings.2>image->[pawn_nameFull] leaping away from a collapse of debris [circumstance_group]</CollapseDodged.rulePack.rulesStrings.2>
-        <CollapseDodged.rulePack.rulesStrings.3>image->[pawn_nameFull] narrowly avoiding a cavein [circumstance_group]</CollapseDodged.rulePack.rulesStrings.3>
-        <CollapseDodged.rulePack.rulesStrings.4>image->[pawn_nameFull] avoiding a falling ceiling [circumstance_group]</CollapseDodged.rulePack.rulesStrings.4>
-        <CollapseDodged.rulePack.rulesStrings.5>image->[pawn_nameFull] avoiding certain death by a falling rock [circumstance_group]</CollapseDodged.rulePack.rulesStrings.5>
-        <CollapseDodged.rulePack.rulesStrings.6>circumstance_phrase->that vanishes behind a curtain of debris and dust</CollapseDodged.rulePack.rulesStrings.6>
-        <CollapseDodged.rulePack.rulesStrings.7>circumstance_phrase->that pulverizes everything beneath it</CollapseDodged.rulePack.rulesStrings.7>
-        <CollapseDodged.rulePack.rulesStrings.8>circumstance_phrase->which impacts with incredible force</CollapseDodged.rulePack.rulesStrings.8>
-        <CollapseDodged.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] is sweating with exertion.</CollapseDodged.rulePack.rulesStrings.9>
-        <CollapseDodged.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] appears to be terrified.</CollapseDodged.rulePack.rulesStrings.10>
-        <CollapseDodged.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is scratched and bleeding.</CollapseDodged.rulePack.rulesStrings.11>
-        <CollapseDodged.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] has lost [pawn_possessive] balance.</CollapseDodged.rulePack.rulesStrings.12>
+	<!-- CollapsedDodged -->
+        <CollapseDodged.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、崩落事故から身を躱す</CollapseDodged.rulePack.rulesStrings.0>
+        <CollapseDodged.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]の近くに落下物</CollapseDodged.rulePack.rulesStrings.1>
+
+        <CollapseDodged.rulePack.rulesStrings.2>image->[pawn_nameFull]は、[circumstance_group] 崩落してきた岩のかけらを飛び跳ねて避ける</CollapseDodged.rulePack.rulesStrings.2>
+        <CollapseDodged.rulePack.rulesStrings.3>image->[pawn_nameFull]は、[circumstance_group] なんとか崩落事故を避ける</CollapseDodged.rulePack.rulesStrings.3>
+        <CollapseDodged.rulePack.rulesStrings.4>image->[pawn_nameFull]は、[circumstance_group] 落ちてきた天井を避ける</CollapseDodged.rulePack.rulesStrings.4>
+        <CollapseDodged.rulePack.rulesStrings.5>image->[pawn_nameFull]は、[circumstance_group] 落石で死ぬところを免れる</CollapseDodged.rulePack.rulesStrings.5>
+
+        <CollapseDodged.rulePack.rulesStrings.6>circumstance_phrase->一面の塵と粉塵の中に消えるよう</CollapseDodged.rulePack.rulesStrings.6>
+        <CollapseDodged.rulePack.rulesStrings.7>circumstance_phrase->近くにある物全てを粉々にする程の規模の中</CollapseDodged.rulePack.rulesStrings.7>
+        <CollapseDodged.rulePack.rulesStrings.8>circumstance_phrase->尋常では無い力による衝撃で起きた中</CollapseDodged.rulePack.rulesStrings.8>
+
+        <CollapseDodged.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun]は激しい身体活動で汗をかいている。</CollapseDodged.rulePack.rulesStrings.9>
+        <CollapseDodged.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun]はゾッとしているように見える。</CollapseDodged.rulePack.rulesStrings.10>
+        <CollapseDodged.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun]は、引っ掛けられ血を流している。</CollapseDodged.rulePack.rulesStrings.11>
+        <CollapseDodged.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]はバランスを失う。</CollapseDodged.rulePack.rulesStrings.12>
 
 </LanguageData>

@@ -1,102 +1,122 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-        <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] departing for adventure</CaravanFormed.rulePack.rulesStrings.0>
-        <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] forming a caravan</CaravanFormed.rulePack.rulesStrings.1>
-        <CaravanFormed.rulePack.rulesStrings.2>image->[pawn_nameFull] striding forward purposefully [circumstance_group]</CaravanFormed.rulePack.rulesStrings.2>
-        <CaravanFormed.rulePack.rulesStrings.3>image->[pawn_nameFull] looking towards the horizon [circumstance_group]</CaravanFormed.rulePack.rulesStrings.3>
-        <CaravanFormed.rulePack.rulesStrings.4>image->[pawn_nameFull] packing supplies for a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.4>
-        <CaravanFormed.rulePack.rulesStrings.5>image->[pawn_nameFull] planning a journey [circumstance_group]</CaravanFormed.rulePack.rulesStrings.5>
-        <CaravanFormed.rulePack.rulesStrings.6>circumstance_phrase->and equipped for a fight</CaravanFormed.rulePack.rulesStrings.6>
-        <CaravanFormed.rulePack.rulesStrings.7>circumstance_phrase->and equipped for survival</CaravanFormed.rulePack.rulesStrings.7>
-        <CaravanFormed.rulePack.rulesStrings.8>circumstance_phrase->and equipped for exploration</CaravanFormed.rulePack.rulesStrings.8>
-        <CaravanFormed.rulePack.rulesStrings.9>circumstance_phrase->with an eager look in [pawn_possessive] eyes</CaravanFormed.rulePack.rulesStrings.9>
-        <CaravanFormed.rulePack.rulesStrings.10>circumstance_phrase->with a [adjective] look in [pawn_possessive] eyes</CaravanFormed.rulePack.rulesStrings.10>
-        <CaravanFormed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally]s watch the preparations.</CaravanFormed.rulePack.rulesStrings.11>
-        <CaravanFormed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [ally]s help with the preparations.</CaravanFormed.rulePack.rulesStrings.12>
-        <CaravanFormed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy]s shrink away from the scene.</CaravanFormed.rulePack.rulesStrings.13>
-        <CaravanFormed.rulePack.rulesStrings.14>desc_sentence->A [terrainfeature] is visible in the distance.</CaravanFormed.rulePack.rulesStrings.14>
-        <CaravanFormed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [outlander]s watch from a distance.</CaravanFormed.rulePack.rulesStrings.15>
-        <CaravanFormed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal]s wander peacefully.</CaravanFormed.rulePack.rulesStrings.16>
+	<!-- CaravanFormed -->
+        <CaravanFormed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、冒険に旅立つ</CaravanFormed.rulePack.rulesStrings.0>
+        <CaravanFormed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]、キャラバン隊を編成する</CaravanFormed.rulePack.rulesStrings.1>
 
-        <CaravanFled.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] fleeing for [pawn_possessive] life</CaravanFled.rulePack.rulesStrings.0>
-        <CaravanFled.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] escaping danger</CaravanFled.rulePack.rulesStrings.1>
-        <CaravanFled.rulePack.rulesStrings.2>tale_noun->[pawn_nameShortDef] narrowly escaping danger</CaravanFled.rulePack.rulesStrings.2>
-        <CaravanFled.rulePack.rulesStrings.3>tale_noun->[pawn_nameShortDef] chased away by enemies</CaravanFled.rulePack.rulesStrings.3>
-        <CaravanFled.rulePack.rulesStrings.4>image->[pawn_nameFull] running frantically [circumstance_group]</CaravanFled.rulePack.rulesStrings.4>
-        <CaravanFled.rulePack.rulesStrings.5>image->[pawn_nameFull] sprinting [circumstance_group]</CaravanFled.rulePack.rulesStrings.5>
-        <CaravanFled.rulePack.rulesStrings.6>image->[pawn_nameFull] tucked behind a [terrainfeature], hiding [circumstance_group]</CaravanFled.rulePack.rulesStrings.6>
-        <CaravanFled.rulePack.rulesStrings.7>image->[pawn_nameFull] putting up a fighting retreat [circumstance_group]</CaravanFled.rulePack.rulesStrings.7>
-        <CaravanFled.rulePack.rulesStrings.8>image->[pawn_nameFull] casually strolling away [circumstance_group]</CaravanFled.rulePack.rulesStrings.8>
-        <CaravanFled.rulePack.rulesStrings.9>circumstance_phrase->as [quantity_adjphrase] [enemy]s chase</CaravanFled.rulePack.rulesStrings.9>
-        <CaravanFled.rulePack.rulesStrings.10>circumstance_phrase->while [quantity_adjphrase] [enemy]s search</CaravanFled.rulePack.rulesStrings.10>
-        <CaravanFled.rulePack.rulesStrings.11>circumstance_phrase->from [quantity_adjphrase] [enemy]s</CaravanFled.rulePack.rulesStrings.11>
-        <CaravanFled.rulePack.rulesStrings.12>circumstance_phrase->from [quantity_adjphrase] enemy [animal]s</CaravanFled.rulePack.rulesStrings.12>
-        <CaravanFled.rulePack.rulesStrings.13>circumstance_phrase->from a [huge] [enemy]</CaravanFled.rulePack.rulesStrings.13>
-        <CaravanFled.rulePack.rulesStrings.14>desc_sentence->[pawn_nameShortDef]'s pursuers are brandishing [weapon]s.</CaravanFled.rulePack.rulesStrings.14>
-        <CaravanFled.rulePack.rulesStrings.15>desc_sentence->[pawn_nameShortDef]'s pursuers are wreathed in [color] smoke.</CaravanFled.rulePack.rulesStrings.15>
-        <CaravanFled.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef]'s pursuers wear [angstyadjective] expressions.</CaravanFled.rulePack.rulesStrings.16>
-        <CaravanFled.rulePack.rulesStrings.17>desc_sentence->[pawn_nameShortDef]'s pursuers are brandishing [weapon]s.</CaravanFled.rulePack.rulesStrings.17>
-        <CaravanFled.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef] is sweating.</CaravanFled.rulePack.rulesStrings.18>
-        <CaravanFled.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] is gasping for breath.</CaravanFled.rulePack.rulesStrings.19>
+        <CaravanFormed.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 目的を持って大股で歩き出す</CaravanFormed.rulePack.rulesStrings.2>
+        <CaravanFormed.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] 水平線の向こうへ視線をやる</CaravanFormed.rulePack.rulesStrings.3>
+        <CaravanFormed.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 旅の準備のために荷造りをする</CaravanFormed.rulePack.rulesStrings.4>
+        <CaravanFormed.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 旅の計画を練る</CaravanFormed.rulePack.rulesStrings.5>
 
-        <CaravanAmbushDefeated.rulePack.rulesStrings.0>tale_noun->a successful defense of [pawn_nameShortDef]'s caravan</CaravanAmbushDefeated.rulePack.rulesStrings.0>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef] fighting off an ambush</CaravanAmbushDefeated.rulePack.rulesStrings.1>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.2>image->[pawn_nameFull] organizing resistance while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.2>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.3>image->[pawn_nameFull] wielding a [weapon] defensively while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.3>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.4>image->[pawn_nameFull] retaliating with [pawn_possessive] [weapon] while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.4>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.5>image->[pawn_nameFull] standing as tall as a building while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.5>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.6>image->[pawn_nameFull] wearing a [badassadjective] expression while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.6>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.7>image->[pawn_nameFull] wearing a [angstyadjective] expression while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.7>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.8>circumstance_phrase->bracing against the advancing horde</CaravanAmbushDefeated.rulePack.rulesStrings.8>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.9>circumstance_phrase->circling the wagons</CaravanAmbushDefeated.rulePack.rulesStrings.9>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.10>circumstance_phrase->roaring in victory</CaravanAmbushDefeated.rulePack.rulesStrings.10>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.11>circumstance_phrase->brandishing [weapon]s</CaravanAmbushDefeated.rulePack.rulesStrings.11>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.12>circumstance_phrase->covered in [gore]</CaravanAmbushDefeated.rulePack.rulesStrings.12>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase] [enemy]s advance, brandishing [weapon]s.</CaravanAmbushDefeated.rulePack.rulesStrings.13>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.14>desc_sentence->A huge [enemy] advances, brandishing a [weapon].</CaravanAmbushDefeated.rulePack.rulesStrings.14>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [enemy]s advance with a [badassadjective] look in their eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.15>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [enemy]s advance with a [angstyadjective] look in their eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.16>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal]s advance with glowing [color] eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.17>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase] [animal]s advance, covered in [gore].</CaravanAmbushDefeated.rulePack.rulesStrings.18>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.19>desc_sentence->The ground is coated in [gore].</CaravanAmbushDefeated.rulePack.rulesStrings.19>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.20>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</CaravanAmbushDefeated.rulePack.rulesStrings.20>
-        <CaravanAmbushDefeated.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</CaravanAmbushDefeated.rulePack.rulesStrings.21>
+        <CaravanFormed.rulePack.rulesStrings.6>circumstance_phrase->戦いの準備をしつつ</CaravanFormed.rulePack.rulesStrings.6>
+        <CaravanFormed.rulePack.rulesStrings.7>circumstance_phrase->サバイバルに備え</CaravanFormed.rulePack.rulesStrings.7>
+        <CaravanFormed.rulePack.rulesStrings.8>circumstance_phrase->探検の装備を整えつつ</CaravanFormed.rulePack.rulesStrings.8>
+        <CaravanFormed.rulePack.rulesStrings.9>circumstance_phrase->[pawn_possessive]両目に情熱の炎をたぎらせながら</CaravanFormed.rulePack.rulesStrings.9>
+        <CaravanFormed.rulePack.rulesStrings.10>circumstance_phrase->[pawn_possessive]両目に情熱の炎をたぎらせながら</CaravanFormed.rulePack.rulesStrings.10>
 
-        <CaravanRemoteMining.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] mining a rich vein of [material_label] in a foreign land</CaravanRemoteMining.rulePack.rulesStrings.0>
-        <CaravanRemoteMining.rulePack.rulesStrings.1>image->[pawn_nameFull] working a [material_label] wall with mining tools, [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.1>
-        <CaravanRemoteMining.rulePack.rulesStrings.2>image->[pawn_nameFull] holding up a chunk of [material_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.2>
-        <CaravanRemoteMining.rulePack.rulesStrings.3>image->[pawn_nameFull] resting against a wall of [material_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.3>
-        <CaravanRemoteMining.rulePack.rulesStrings.4>image->[pawn_nameFull] coordinating an excavation team against a rich vein of [material_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.4>
-        <CaravanRemoteMining.rulePack.rulesStrings.5>image->[pawn_nameFull] carefully inspecting a rich vein of [material_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.5>
-        <CaravanRemoteMining.rulePack.rulesStrings.6>circumstance_phrase->sweating heavily</CaravanRemoteMining.rulePack.rulesStrings.6>
-        <CaravanRemoteMining.rulePack.rulesStrings.7>circumstance_phrase->wearing a [friendlyadjective] expression</CaravanRemoteMining.rulePack.rulesStrings.7>
-        <CaravanRemoteMining.rulePack.rulesStrings.8>circumstance_phrase->smiling proudly</CaravanRemoteMining.rulePack.rulesStrings.8>
-        <CaravanRemoteMining.rulePack.rulesStrings.9>circumstance_phrase->a satisfied expression on [pawn_possessive] face</CaravanRemoteMining.rulePack.rulesStrings.9>
-        <CaravanRemoteMining.rulePack.rulesStrings.10>circumstance_phrase->looking around warily for danger</CaravanRemoteMining.rulePack.rulesStrings.10>
-        <CaravanRemoteMining.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [ally]s assist.</CaravanRemoteMining.rulePack.rulesStrings.11>
-        <CaravanRemoteMining.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase] [animal]s wander the area.</CaravanRemoteMining.rulePack.rulesStrings.12>
-        <CaravanRemoteMining.rulePack.rulesStrings.13>desc_sentence->There is a makeshift shelter in the background.</CaravanRemoteMining.rulePack.rulesStrings.13>
-        <CaravanRemoteMining.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase] further veins are visible in the distance.</CaravanRemoteMining.rulePack.rulesStrings.14>
-        <CaravanRemoteMining.rulePack.rulesStrings.15>desc_sentence->A [terrainfeature] is visible in the distance.</CaravanRemoteMining.rulePack.rulesStrings.15>
-        <CaravanRemoteMining.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</CaravanRemoteMining.rulePack.rulesStrings.16>
+        <CaravanFormed.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase]の[ally]達が準備支度を見守っている。</CaravanFormed.rulePack.rulesStrings.11>
+        <CaravanFormed.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase]の[ally]達が身支度を手伝っている。</CaravanFormed.rulePack.rulesStrings.12>
+        <CaravanFormed.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase]の[enemy]達が、この場面を嫌がっている。</CaravanFormed.rulePack.rulesStrings.13>
+        <CaravanFormed.rulePack.rulesStrings.14>desc_sentence->遠くの[terrainfeature]が目に入る。</CaravanFormed.rulePack.rulesStrings.14>
+        <CaravanFormed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase]の[outlander]達が、遠くから見張っている。</CaravanFormed.rulePack.rulesStrings.15>
+        <CaravanFormed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase]の[animal]達が穏やかに歩いている。</CaravanFormed.rulePack.rulesStrings.16>
 
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s caravan defeating an enemy stronghold</CaravanAssaultSuccessful.rulePack.rulesStrings.0>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.1>image->[pawn_nameFull] running towards a [enemy], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.1>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.2>image->[pawn_nameFull] wielding a [weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.2>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.3>image->[pawn_nameFull] swinging a [weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.3>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.4>image->[pawn_nameFull] standing as tall as a building, [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.4>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.5>circumstance_phrase->wearing a [badassadjective] look in [pawn_possessive] eyes</CaravanAssaultSuccessful.rulePack.rulesStrings.5>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.6>circumstance_phrase->wearing a [angstyadjective] look in [pawn_possessive] eyes</CaravanAssaultSuccessful.rulePack.rulesStrings.6>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.7>circumstance_phrase->roaring in victory</CaravanAssaultSuccessful.rulePack.rulesStrings.7>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.8>circumstance_phrase->covered in [gore]</CaravanAssaultSuccessful.rulePack.rulesStrings.8>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.9>desc_sentence->[quantity_adjphrase] [enemy]s cower from the assault.</CaravanAssaultSuccessful.rulePack.rulesStrings.9>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase] [enemy]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.10>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase] [enemy]s are visibly wounded.</CaravanAssaultSuccessful.rulePack.rulesStrings.11>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.12>desc_sentence->A [community] burns in the distance.</CaravanAssaultSuccessful.rulePack.rulesStrings.12>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.13>desc_sentence->A [community] smokes in the distance.</CaravanAssaultSuccessful.rulePack.rulesStrings.13>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.14>desc_sentence->The ground is coated in [gore].</CaravanAssaultSuccessful.rulePack.rulesStrings.14>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.15>
-        <CaravanAssaultSuccessful.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.16>
+	<!-- CaravanFled -->
+        <CaravanFled.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]の生死を賭けた脱出</CaravanFled.rulePack.rulesStrings.0>
+        <CaravanFled.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]危機からの脱出</CaravanFled.rulePack.rulesStrings.1>
+        <CaravanFled.rulePack.rulesStrings.2>tale_noun->[pawn_nameShortDef]危機一髪</CaravanFled.rulePack.rulesStrings.2>
+        <CaravanFled.rulePack.rulesStrings.3>tale_noun->[pawn_nameShortDef]、敵に追われる身となる</CaravanFled.rulePack.rulesStrings.3>
+
+        <CaravanFled.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 必死に走る</CaravanFled.rulePack.rulesStrings.4>
+        <CaravanFled.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 全速力で走る</CaravanFled.rulePack.rulesStrings.5>
+        <CaravanFled.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] 逃げようと[terrainfeature]の影に身体を滑りこませて隠れる</CaravanFled.rulePack.rulesStrings.6>
+        <CaravanFled.rulePack.rulesStrings.7>image->[pawn_nameFull]、[circumstance_group] 逃げ隠れせずに抵抗する</CaravanFled.rulePack.rulesStrings.7>
+        <CaravanFled.rulePack.rulesStrings.8>image->[pawn_nameFull]、[circumstance_group] それでも呑気にぶらぶら歩く</CaravanFled.rulePack.rulesStrings.8>
+
+        <CaravanFled.rulePack.rulesStrings.9>circumstance_phrase->[quantity_adjphrase]の[enemy]達に追われ</CaravanFled.rulePack.rulesStrings.9>
+        <CaravanFled.rulePack.rulesStrings.10>circumstance_phrase->[quantity_adjphrase]の[enemy]達に行方を探されている中</CaravanFled.rulePack.rulesStrings.10>
+        <CaravanFled.rulePack.rulesStrings.11>circumstance_phrase->[quantity_adjphrase]の[enemy]達の追手がいる中</CaravanFled.rulePack.rulesStrings.11>
+        <CaravanFled.rulePack.rulesStrings.12>circumstance_phrase->[quantity_adjphrase]の[enemy]達の[animal]らが追っているなか</CaravanFled.rulePack.rulesStrings.12>
+        <CaravanFled.rulePack.rulesStrings.13>circumstance_phrase->[huge][enemy]から追われ</CaravanFled.rulePack.rulesStrings.13>
+`
+        <CaravanFled.rulePack.rulesStrings.14>desc_sentence->[pawn_nameShortDef]を追う追跡者は[weapon]を振りかざす。</CaravanFled.rulePack.rulesStrings.14>
+        <CaravanFled.rulePack.rulesStrings.15>desc_sentence->[pawn_nameShortDef]を追う追跡者は[color]発煙信号を打ち上げる。</CaravanFled.rulePack.rulesStrings.15>
+        <CaravanFled.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef]を追う追跡者の顔に[angstyadjective]表情が浮かぶ。</CaravanFled.rulePack.rulesStrings.16>
+        <CaravanFled.rulePack.rulesStrings.17>desc_sentence->[pawn_nameShortDef]を追う追跡者は[weapon]を振りかざす。</CaravanFled.rulePack.rulesStrings.17>
+        <CaravanFled.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef]が汗をかく。</CaravanFled.rulePack.rulesStrings.18>
+        <CaravanFled.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef]の息が上がりアップアップしている。</CaravanFled.rulePack.rulesStrings.19>
+
+	<!-- CaravanAmbushDefeated -->
+        <CaravanAmbushDefeated.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]キャラバン隊の鉄壁防御</CaravanAmbushDefeated.rulePack.rulesStrings.0>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]、待ち伏せを返り討ちにする</CaravanAmbushDefeated.rulePack.rulesStrings.1>
+
+        <CaravanAmbushDefeated.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 組織的に抵抗する</CaravanAmbushDefeated.rulePack.rulesStrings.2>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] 防衛的に[weapon]を振るう</CaravanAmbushDefeated.rulePack.rulesStrings.3>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] [pawn_possessive] [weapon]を持って報復する</CaravanAmbushDefeated.rulePack.rulesStrings.4>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 仁王立ちして立ちはだかる</CaravanAmbushDefeated.rulePack.rulesStrings.5>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] [badassadjective]表情を浮かべる</CaravanAmbushDefeated.rulePack.rulesStrings.6>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.7>image->[pawn_nameFull]、[circumstance_group] [angstydjective]表情を浮かべる</CaravanAmbushDefeated.rulePack.rulesStrings.7>
+
+        <CaravanAmbushDefeated.rulePack.rulesStrings.8>circumstance_phrase->前進してくる大群に立ち向かうなか</CaravanAmbushDefeated.rulePack.rulesStrings.8>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.9>circumstance_phrase->回りを囲まれるなか</CaravanAmbushDefeated.rulePack.rulesStrings.9>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.10>circumstance_phrase->勝利への雄叫びをあげるなか</CaravanAmbushDefeated.rulePack.rulesStrings.10>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.11>circumstance_phrase->[weapon]を振り回すなか</CaravanAmbushDefeated.rulePack.rulesStrings.11>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.12>circumstance_phrase->[gore]に覆われるなか</CaravanAmbushDefeated.rulePack.rulesStrings.12>
+
+        <CaravanAmbushDefeated.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase]の[enemy]達が[weapon]を大げさに振り回しながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.13>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.14>desc_sentence->巨大な[enemy]が[weapon]を大げさに振り回しながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.14>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase]の[enemy]達の両目に[badassadjective]光をたぎらせながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.15>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase]の[enemy]達の両目に[angstyadjective]光をたぎらせながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.16>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]の[animal]達の両目に[color]光をたぎらせながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.17>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase]の[animal]達は全身[gore]まみれになりながら向かってくる。</CaravanAmbushDefeated.rulePack.rulesStrings.18>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.19>desc_sentence->辺り一面[gore]まみれになる</CaravanAmbushDefeated.rulePack.rulesStrings.19>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.20>desc_sentence->[quantity_adjphrase]の[outlander]達はこの場から逃げる</CaravanAmbushDefeated.rulePack.rulesStrings.20>
+        <CaravanAmbushDefeated.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase]の[animal]達は、この場から逃げる</CaravanAmbushDefeated.rulePack.rulesStrings.21>
+
+	<!-- CaravanAmbushDefeated -->
+        <CaravanRemoteMining.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、よその豊富な[material_label]鉱脈を掘る</CaravanRemoteMining.rulePack.rulesStrings.0>
+
+        <CaravanRemoteMining.rulePack.rulesStrings.1>image->[pawn_nameFull]は、[circumstance_group] 掘削ツールを使い[material_label]岩肌で作業する</CaravanRemoteMining.rulePack.rulesStrings.1>
+        <CaravanRemoteMining.rulePack.rulesStrings.2>image->[pawn_nameFull]は、[circumstance_group] [material_label]の鉱石を持ち上げる</CaravanRemoteMining.rulePack.rulesStrings.2>
+        <CaravanRemoteMining.rulePack.rulesStrings.3>image->[pawn_nameFull]は、[circumstance_group] [material_label]岩肌の前で休憩する</CaravanRemoteMining.rulePack.rulesStrings.3>
+        <CaravanRemoteMining.rulePack.rulesStrings.4>image->[pawn_nameFull]は、[circumstance_group] 豊富な[material_label]鉱脈を前にし、掘削チームの調整をする</CaravanRemoteMining.rulePack.rulesStrings.4>
+        <CaravanRemoteMining.rulePack.rulesStrings.5>image->[pawn_nameFull]は、[circumstance_group] 注意深く豊富な[material_label]鉱脈を探査する</CaravanRemoteMining.rulePack.rulesStrings.5>
+
+        <CaravanRemoteMining.rulePack.rulesStrings.6>circumstance_phrase->汗だくになりながら</CaravanRemoteMining.rulePack.rulesStrings.6>
+        <CaravanRemoteMining.rulePack.rulesStrings.7>circumstance_phrase->[friendlyadjective]表情を浮かべながら</CaravanRemoteMining.rulePack.rulesStrings.7>
+        <CaravanRemoteMining.rulePack.rulesStrings.8>circumstance_phrase->誇らしげに微笑みながら</CaravanRemoteMining.rulePack.rulesStrings.8>
+        <CaravanRemoteMining.rulePack.rulesStrings.9>circumstance_phrase->[pawn_possessive]顔に満足げな笑みを浮かべながら</CaravanRemoteMining.rulePack.rulesStrings.9>
+        <CaravanRemoteMining.rulePack.rulesStrings.10>circumstance_phrase->危険に用心しながら</CaravanRemoteMining.rulePack.rulesStrings.10>
+
+        <CaravanRemoteMining.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase]の[ally]達も協力している。</CaravanRemoteMining.rulePack.rulesStrings.11>
+        <CaravanRemoteMining.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase]の[animal]らは辺りをうろついている。</CaravanRemoteMining.rulePack.rulesStrings.12>
+        <CaravanRemoteMining.rulePack.rulesStrings.13>desc_sentence->一時しのぎの隠れ家としての思惑もある。</CaravanRemoteMining.rulePack.rulesStrings.13>
+        <CaravanRemoteMining.rulePack.rulesStrings.14>desc_sentence->[quantity_adjphrase]の、さらなる鉱脈も遠くに見える。</CaravanRemoteMining.rulePack.rulesStrings.14>
+        <CaravanRemoteMining.rulePack.rulesStrings.15>desc_sentence->遠くに[terrainfeature]が見える。</CaravanRemoteMining.rulePack.rulesStrings.15>
+        <CaravanRemoteMining.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef]は汗にまみれて働いている。</CaravanRemoteMining.rulePack.rulesStrings.16>
+
+	<!-- CaravanAssaultSuccessful -->
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]キャラバン隊、敵要塞を陥落</CaravanAssaultSuccessful.rulePack.rulesStrings.0>
+
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.1>image->[pawn_nameFull]、[circumstance_group] [enemy]に向かう</CaravanAssaultSuccessful.rulePack.rulesStrings.1>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] [weapon]を振り回す</CaravanAssaultSuccessful.rulePack.rulesStrings.2>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] [weapon]を振り下ろす</CaravanAssaultSuccessful.rulePack.rulesStrings.3>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 仁王立ちして立ちはだかる</CaravanAssaultSuccessful.rulePack.rulesStrings.4>
+
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.5>circumstance_phrase->[pawn_possessive]両目に[badassadjective]表情を浮かべながら</CaravanAssaultSuccessful.rulePack.rulesStrings.5>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.6>circumstance_phrase->[pawn_possessive]両目に[angstyadjective]表情を浮かべながら</CaravanAssaultSuccessful.rulePack.rulesStrings.6>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.7>circumstance_phrase->勝利への雄叫びをあげ</CaravanAssaultSuccessful.rulePack.rulesStrings.7>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.8>circumstance_phrase->[gore]に覆われつつ</CaravanAssaultSuccessful.rulePack.rulesStrings.8>
+
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.9>desc_sentence->[quantity_adjphrase]の[enemy]達は戦いの腰が引けている。</CaravanAssaultSuccessful.rulePack.rulesStrings.9>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase]の[enemy]達はここから逃げ出している。</CaravanAssaultSuccessful.rulePack.rulesStrings.10>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.11>desc_sentence->[quantity_adjphrase]の[enemy]達は、明らかに怪我を負っている。</CaravanAssaultSuccessful.rulePack.rulesStrings.11>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.12>desc_sentence->はるか向こうの[community]が焼けている。</CaravanAssaultSuccessful.rulePack.rulesStrings.12>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.13>desc_sentence->はるか向こうの[community]は煙に包まれている。</CaravanAssaultSuccessful.rulePack.rulesStrings.13>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.14>desc_sentence->辺り一面[gore]まみれになる</CaravanAssaultSuccessful.rulePack.rulesStrings.14>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase]の[outlander]達はこの場から逃げる</CaravanAssaultSuccessful.rulePack.rulesStrings.15>
+        <CaravanAssaultSuccessful.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase]の[animal]達は、この場から逃げる</CaravanAssaultSuccessful.rulePack.rulesStrings.16>
 
 </LanguageData>

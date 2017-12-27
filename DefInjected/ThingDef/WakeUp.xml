@@ -3,5 +3,7 @@
 
 	<WakeUp.label>ウェイクアップ</WakeUp.label>
 	<WakeUp.description>中毒性の興奮剤です。ウェイクアップは認知能力を強調し、使用者に疲れることなく時間を延長させる優れた作用を与えます。薬物中毒は、精神的機能を低下させたり、ときどき精神異常を引き起こします。</WakeUp.description>
+    <WakeUp.ingestible.ingestCommandString>{0}を 飲む</WakeUp.ingestible.ingestCommandString>
+    <WakeUp.ingestible.ingestReportString>{0}を 飲んでいる</WakeUp.ingestible.ingestReportString>
 
 </LanguageData>

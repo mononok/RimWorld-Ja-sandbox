@@ -2,10 +2,10 @@
 <LanguageData>
 
 	<Mood.label>心情</Mood.label>
-	<Mood.description>どのくらい幸せか、ストレスを受けているかを表します。 もし心情が低すぎると、精神崩壊を起こす恐れがあります。</Mood.description>
+	<Mood.description>どのくらい幸せか、ストレスを受けているかを表します。 もし心情が低すぎると、精神崩壊を起こす恐れがあります。精神崩壊には重大性が違う幾つかの種類があります。</Mood.description>
 
 	<Food.label>食事</Food.label>
-	<Food.description>その生き物が直近に摂った栄養物の量です。 ゼロになると、そのうち飢えでダメージを受けます。</Food.description>
+	<Food.description>その生き物が直近に摂った栄養物の量です。 ゼロになるとだんだんと栄養失調になり、しまいには死にます。</Food.description>
 
 	<Rest.label>睡眠</Rest.label>
 	<Rest.description>その生き物が直近に得られた睡眠量です。</Rest.description>
@@ -39,7 +39,7 @@
 	<Chemical_GoJuice.description>ゴージュース中毒が原因で、この人は、禁断症状を避けるために、定期的にゴージュースを必要としています。</Chemical_GoJuice.description>
 	<!-- Luciferium.xml -->
 	<Chemical_Luciferium.label>ルシフェリウム</Chemical_Luciferium.label>
-	<Chemical_Luciferium.description>この人の身体は、ルシフェリウムナノマシンによって強化されています。\n\n一定分量のルシフェリウム無しだと、このナノマシン同士の結合が失われます。もしこれが起きると、常用者は、継続的に激しく気が狂い、ついには死を迎えます。\n\nこの中毒症状から逃れる手段はありません。</Chemical_Luciferium.description>
+	<Chemical_Luciferium.description>この人の身体は、ルシフェリウムナノマシンによって強化されています。\n\n一定分量のルシフェリウム無しだと、このナノマシン同士の結合が失われます。もしこれが起きると、常用者は継続的に激しく気が狂い、ついには死を迎えます。\n\nこの中毒症状から逃れる手段はありません。</Chemical_Luciferium.description>
 	<!--  Ambrosia.xml -->
 	<Chemical_Ambrosia.label>アンブロージア</Chemical_Ambrosia.label>
     <Chemical_Ambrosia.description>アンブロージア中毒が原因で、この人は、禁断症状を避けるために、定期的にアンブロージアを必要としています。</Chemical_Ambrosia.description>

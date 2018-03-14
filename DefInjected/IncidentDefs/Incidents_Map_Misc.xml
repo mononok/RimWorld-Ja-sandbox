@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+	<ResourcePodCrash.label>資源ポッド落下</ResourcePodCrash.label>
+	<PsychicSoothe.label>サイコスード</PsychicSoothe.label>
+	<SelfTame.label>新たなペット</SelfTame.label>
+
 	<AmbrosiaSprout.label>アンブロージアの発芽</AmbrosiaSprout.label>
 	<AmbrosiaSprout.letterLabel>アンブロージアの発芽</AmbrosiaSprout.letterLabel>
 	<AmbrosiaSprout.letterText>近くにある、ミステリアスなアンブロージアの林で新芽が発芽しました!。成長するまで待てば、美味しくて喜ばしい、プチ病みつきになるフルーツを収穫できるでしょう。</AmbrosiaSprout.letterText>
 
+	<FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
+
+	<WandererJoin.label>新たな入植者</WandererJoin.label>
+
+	<RefugeePodCrash.label>救命ポッド落下</RefugeePodCrash.label>
+
+	<!-- =========================== Neutral ============================-->
+	<RefugeeChased.label>亡命者</RefugeeChased.label>
+
+	<ThrumboPasses.label>スランボの群れ</ThrumboPasses.label>
+
+	<RansomDemand.label>身代金要求</RansomDemand.label>
+	<RansomDemand.letterLabel>身代金要求</RansomDemand.letterLabel>
+
     <CaravanRequest.label>キャラバン隊リクエスト</CaravanRequest.label>
+
+    <MeteoriteImpact.label>隕石衝突</MeteoriteImpact.label>
+    <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+    <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました。それは{0}の塊を残しました。</MeteoriteImpact.letterText>
+
+    <HerdMigration.label>大群の移動</HerdMigration.label>
+    <HerdMigration.letterLabel>大群の移動: {0}</HerdMigration.letterLabel>
+    <HerdMigration.letterText>{0}の大きな群れが、このエリアを通過しています。 彼らを怒らせ無ければ攻撃してこないでしょう。</HerdMigration.letterText>
+
+	<!--========================== Bad ===============================-->
+    <PsychicDrone.label>サイコドローン</PsychicDrone.label>
+
+    <ToxicFallout.label>死の灰</ToxicFallout.label>
+    <ToxicFallout.letterLabel>死の灰</ToxicFallout.letterLabel>
+    <ToxicFallout.letterText>少し遠い所で発生した、もくもくと立ち上がる有毒な塵が、ゆっくりと惑星全体を覆っています。\n\n屋根の無い所にいる人や動物はみな、大気圏外から降ってくる毒性がある塵にゆっくりと冒されます\n\n現象がなくなるまで数日から一ヶ月以上かかるでしょう。</ToxicFallout.letterText>
+
+    <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
+    <VolcanicWinter.letterLabel>火山の冬</VolcanicWinter.letterLabel>
+    <VolcanicWinter.letterText>遠くの火山が爆発し100万立方キロメートルの火山灰を大気中に放出しています。\n\n大気中の火山灰によって太陽光が遮られるでしょう。気温は下がり、日照量が少なくなれば作物の成長も悪くなるでしょう、影響が無くなるまで数週間から数ヶ月かかるでしょう。</VolcanicWinter.letterText>
+
+    <HeatWave.label>熱波</HeatWave.label>
+    <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
+    <HeatWave.letterText>異常な熱波が始まります。\n\nもし人々が熱中症に罹ると、熱波はいとも簡単に殺すことができます。クーラーを作るか、山奥深くに篭もって、冷温状態を維持してください。</HeatWave.letterText>
+
+    <ColdSnap.label>寒波</ColdSnap.label>
+    <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
+    <ColdSnap.letterText>異常な寒波が始まります。\n\n寒波は、低体温症を誘発していとも簡単に殺すことができます。生存する為の暖房施設があるか、適切な服を着ているか確認し、作物が枯れて死ぬ前に収穫します。</ColdSnap.letterText>
+
+    <Aurora.label>オーロラ</Aurora.label>
+    <Aurora.letterLabel>オーロラ</Aurora.letterLabel>
+    <Aurora.letterText>美しいオーロラが空を照らしています。\n\n波打つ色の帯が、外でそれを見ている者のムードを盛り上げ、夜空を明るくさせるでしょう。</Aurora.letterText>
+
+    <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+    <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>
+    <Flashstorm.letterText>ものすごい量のカミナリが局所的に落ちます。大規模な山火事を引き起こします。</Flashstorm.letterText>
+
+    <Tornado.label>竜巻</Tornado.label>
+    <Tornado.letterLabel>竜巻</Tornado.letterLabel>
+    <Tornado.letterText>竜巻が発生した!\n\nそれは、このエリアに破壊の道筋を切り開くでしょう。</Tornado.letterText>
+
+    <ShortCircuit.label>電力線ショート</ShortCircuit.label>
+
+    <CropBlight.label>農作物の疫病</CropBlight.label>
+
+    <Alphabeavers.label>アルファビーバー</Alphabeavers.label>
 
 </LanguageData>

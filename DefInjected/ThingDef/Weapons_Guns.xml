@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Bullet_Pistol.label>拳銃弾</Bullet_Pistol.label>
-    <Gun_Pistol.label>ピストル</Gun_Pistol.label>
-    <Gun_Pistol.description>古式拳銃、威力も弱く、射程も短いが、素早く動けます。</Gun_Pistol.description>
+	<Bullet_Revolver.label>リボルバー弾</Bullet_Revolver.label>
+    <Gun_Revolver.label>リボルバー</Gun_Revolver.label>
+    <Gun_Revolver.description>古式ダブルアクション拳銃、威力も弱く、中射程、素早く抜けます。</Gun_Revolver.description>
+
+	<Bullet_Autopistol.label>自動式銃弾</Bullet_Autopistol.label>
+    <Gun_Autopistol.label>自動式拳銃</Gun_Autopistol.label>
+    <Gun_Autopistol.description>古式自動式拳銃、威力も弱く、小射程、素早く抜けます。</Gun_Autopistol.description>
 
   <!-- ==================== T-9 incendiary launcher ========================== -->
   <Bullet_IncendiaryLauncher.label>火炎筒</Bullet_IncendiaryLauncher.label>
@@ -14,7 +18,6 @@
     <Gun_PumpShotgun.label>ポンプ式散弾銃</Gun_PumpShotgun.label>
     <Gun_PumpShotgun.description>旧式な設計、威力は高いが射程は短いです。</Gun_PumpShotgun.description>
 
-	<Bullet_ChainShotgun.label>散弾</Bullet_ChainShotgun.label>
     <Gun_ChainShotgun.label>自動式ショットガン</Gun_ChainShotgun.label>
     <Gun_ChainShotgun.description>マガジン給弾式の全自動ショットガン。短射程距離、非常に低い命中精度ですが、並外れて危険です。</Gun_ChainShotgun.description>
 

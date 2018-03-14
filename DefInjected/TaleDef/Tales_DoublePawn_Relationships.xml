@@ -4,19 +4,19 @@
 	<BondedWithAnimal.label>bond developed</BondedWithAnimal.label>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[human_nameShortDef]と[animal_nameShortDef]が絆で結ばれる</trans>
+		<trans>tale_noun->[human_nameShortDef]と[animal_nameShortDef]間の絆</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  1]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]と絆を結んだ。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]と絆を結んだ</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  2]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、[animal_nameFull]と、深い絆を結んだ。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group] [animal_nameFull]と深い絆を結んだ</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  3]</path>
-		<trans>image->[human_nameFull]は、[circumstance_group]、本当に[human_possessive]の真実の愛を[animal_nameFull]と結んだ。</trans>
+		<trans>image->[human_nameFull]は、[circumstance_group]本当に[human_possessive]の真実の愛を[animal_nameFull]と結んだ</trans>
 	</rep>
     <rep>
 		<path>BondedWithAnimal.rulePack.rulesStrings[  4]</path>
@@ -55,19 +55,19 @@
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]の耳に甘い言葉を囁いた。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]の耳に甘い言葉を囁いた</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]の手を取りベッドの中に潜り込んだ。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]の手を取りベッドの中に潜り込んだ</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]とベッドの上で飛び跳ねた。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]とベッドの上で飛び跳ねた</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]とディープキスをした。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]とディープキスをした</trans>
 	</rep>
     <rep>
 		<path>BecameLover.rulePack.rulesStrings[  5]</path>
@@ -119,19 +119,19 @@
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、嫌な話をするために[secondPawn_nameFull]のそばに腰を下ろす。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] 嫌な話をするために[secondPawn_nameFull]のそばに腰を下ろす</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]から距離をおいて立っている。 </trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]から距離をおいて立っている</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]をベッドから突き飛ばす。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]をベッドから突き飛ばす</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、抱き合う[secondPawn_nameFull]を振りほどく。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] 抱きつく[secondPawn_nameFull]を振りほどく</trans>
 	</rep>
     <rep>
 		<path>Breakup.rulePack.rulesStrings[  5]</path>
@@ -179,19 +179,19 @@
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  1]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と結婚する。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]と結婚する</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  2]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と結婚することを、[firstPawn_possessive]宣言する。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]と結婚することを[firstPawn_possessive]宣言する</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  3]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、[secondPawn_nameFull]と一緒にバージンロードを歩いている。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] [secondPawn_nameFull]と一緒にバージンロードを歩いている</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  4]</path>
-		<trans>image->[firstPawn_nameFull]は、[circumstance_group]、結婚式の間中、[secondPawn_nameFull]を離さない。</trans>
+		<trans>image->[firstPawn_nameFull]は、[circumstance_group] 結婚式のあいだ中[secondPawn_nameFull]を離さない</trans>
 	</rep>
     <rep>
 		<path>Marriage.rulePack.rulesStrings[  5]</path>

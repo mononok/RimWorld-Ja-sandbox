@@ -26,6 +26,7 @@
 	</rep>
 
 	<WoundInfection.label>傷からの感染症</WoundInfection.label>
+	<WoundInfection.labelNoun>傷感染症</WoundInfection.labelNoun>
 	<rep>
 		<path>WoundInfection.stages[0].label</path>
 		<trans>軽度</trans>
@@ -46,7 +47,7 @@
 	<Flu.label>インフルエンザ</Flu.label>
 	<rep>
 		<path>Flu.stages[0].label</path>
-		<trans>軽度(hidden)</trans>
+		<trans>軽度</trans>
 	</rep>
 	<rep>
 		<path>Flu.stages[1].label</path>
@@ -104,7 +105,7 @@
 	<SleepingSickness.label>眠り病</SleepingSickness.label>
 	<rep>
 		<path>SleepingSickness.stages[0].label</path>
-		<trans>軽度(hidden)</trans>
+		<trans>軽度</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.stages[1].label</path>

@@ -2,19 +2,23 @@
 <LanguageData>
 
 	<OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon_Blueprint_Install.label>貿易用 ビーコン(移動先)</OrbitalTradeBeacon_Blueprint_Install.label>
 	<OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを売却できます。室内でも利用可能です。</OrbitalTradeBeacon.description>
 	<OrbitalTradeBeacon_Blueprint.label>貿易用 ビーコン(設計)</OrbitalTradeBeacon_Blueprint.label>
 	<OrbitalTradeBeacon_Frame.label>貿易用 ビーコン(施工)</OrbitalTradeBeacon_Frame.label>
+	<OrbitalTradeBeacon_Frame.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを売却できます。室内でも利用可能です。</OrbitalTradeBeacon_Frame.description>
 
 	<CommsConsole.label>通信機</CommsConsole.label>
     <CommsConsole.description>軌道上にいる船や、 他の派閥と、貿易や交渉を行うために必要な通信機です。</CommsConsole.description>
 	<CommsConsole_Blueprint.label>通信機(設計)</CommsConsole_Blueprint.label>
 	<CommsConsole_Frame.label>通信機(施工)</CommsConsole_Frame.label>
+    <CommsConsole_Frame.description>軌道上にいる船や、 他の派閥と、貿易や交渉を行うために必要な通信機です。</CommsConsole_Frame.description>
 
     <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
     <GroundPenetratingScanner.description>ソナーと磁気映像装置を組み合わせた、下向きのレーダーで、地面より深いところに埋蔵されている鉱物を探知することができます(種類までは判別不能)。稼働させるには大量の電力を必要とします。</GroundPenetratingScanner.description>
     <GroundPenetratingScanner_Blueprint.label>地殻深部スキャナー(設計)</GroundPenetratingScanner_Blueprint.label>
     <GroundPenetratingScanner_Frame.label>地殻深部スキャナー(施工)</GroundPenetratingScanner_Frame.label>
+    <GroundPenetratingScanner_Frame.description>ソナーと磁気映像装置を組み合わせた、下向きのレーダーで、地面より深いところに埋蔵されている鉱物を探知することができます(種類までは判別不能)。稼働させるには大量の電力を必要とします。</GroundPenetratingScanner_Frame.description>
 
 	<FirefoamPopper.label>泡消火器</FirefoamPopper.label>
 	<FirefoamPopper_Blueprint_Install.label>泡消火器(移動先)</FirefoamPopper_Blueprint_Install.label>
@@ -22,26 +26,31 @@
 	<FirefoamPopper.comps.1.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.1.useLabel>
 	<FirefoamPopper_Blueprint.label>泡消火器(設計)</FirefoamPopper_Blueprint.label>
 	<FirefoamPopper_Frame.label>泡消火器(施工)</FirefoamPopper_Frame.label>
+	<FirefoamPopper_Frame.description>火災を検知するか、手動で操作したとき、この装置は消火剤をあたり一面にまき散らします。</FirefoamPopper_Frame.description>
 
 	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
 	<MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</MoisturePump.description>
 	<MoisturePump_Blueprint.label>土壌改良ポンプ(設計)</MoisturePump_Blueprint.label>
 	<MoisturePump_Frame.label>土壌改良ポンプ(施工)</MoisturePump_Frame.label>
+	<MoisturePump_Frame.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</MoisturePump_Frame.description>
 
     <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
 	<LongRangeMineralScanner.description>近隣エリアにある、金やヒスイなどの希少鉱物を自動で探知する、長距離鉱物探査スキャナーです(但し、まだスキャナーが出来た訳ではありません)。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner.description>
     <LongRangeMineralScanner_Blueprint.label>長距離鉱物探査スキャナー(設計)</LongRangeMineralScanner_Blueprint.label>
     <LongRangeMineralScanner_Frame.label>長距離鉱物探査スキャナー(施行)</LongRangeMineralScanner_Frame.label>
+	<LongRangeMineralScanner_Frame.description>近隣エリアにある、金やヒスイなどの希少鉱物を自動で探知する、長距離鉱物探査スキャナーです(但し、まだスキャナーが出来た訳ではありません)。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner_Frame.description>
 
     <PodLauncher.label>ポッドランチャー</PodLauncher.label>
     <PodLauncher.description>一機の輸送ポッドを射出するための燃料を使用した射出機です。ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合、ランチャーはお互いに隣接して配置しなければなりません。</PodLauncher.description>
     <PodLauncher_Blueprint.label>ポッドランチャー(設計)</PodLauncher_Blueprint.label>
     <PodLauncher_Frame.label>ポッドランチャー(施工)</PodLauncher_Frame.label>
+    <PodLauncher_Frame.description>一機の輸送ポッドを射出するための燃料を使用した射出機です。ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合、ランチャーはお互いに隣接して配置しなければなりません。</PodLauncher_Frame.description>
 
     <TransportPod.label>輸送ポッド</TransportPod.label>
     <TransportPod.description>人や、動物、アイテムを乗せて運べる、打ち上げ可能な大気圏外輸送カーゴポッドです。物資の輸送、大気圏外からの奇襲降下や、増援などを行うことができます。</TransportPod.description>
     <TransportPod_Blueprint.label>輸送ポッド(設計)</TransportPod_Blueprint.label>
     <TransportPod_Frame.label>輸送ポッド(施工)</TransportPod_Frame.label>
+    <TransportPod_Frame.description>人や、動物、アイテムを乗せて運べる、打ち上げ可能な大気圏外輸送カーゴポッドです。物資の輸送、大気圏外からの奇襲降下や、増援などを行うことができます。</TransportPod_Frame.description>
 
   <!--========================== Facilities ============================-->
 	<MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
@@ -49,35 +58,41 @@
 	<MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置する必要があります。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</MultiAnalyzer.description>
 	<MultiAnalyzer_Blueprint.label>マルチ アナライザ(設計)</MultiAnalyzer_Blueprint.label>
 	<MultiAnalyzer_Frame.label>マルチ アナライザ(施工)</MultiAnalyzer_Frame.label>
+	<MultiAnalyzer_Frame.description>研究速度が上がります、研究設備のそばに配置する必要があります。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</MultiAnalyzer_Frame.description>
 
 	<VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
 	<VitalsMonitor_Blueprint_Install.label>バイタル モニター(移動先)</VitalsMonitor_Blueprint_Install.label>
 	<VitalsMonitor.description>患者に対しての処置品質が上がります、医療用ベッドのそばに配置する必要があります。一つの医療用ベッドは、一つのバイタルモニターとだけ接続できます。</VitalsMonitor.description>
 	<VitalsMonitor_Blueprint.label>バイタル モニター(設計)</VitalsMonitor_Blueprint.label>
 	<VitalsMonitor_Frame.label>バイタル モニター(施工)</VitalsMonitor_Frame.label>
+	<VitalsMonitor_Frame.description>患者に対しての処置品質が上がります、医療用ベッドのそばに配置する必要があります。一つの医療用ベッドは、一つのバイタルモニターとだけ接続できます。</VitalsMonitor_Frame.description>
 
 	<ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
 	<ToolCabinet_Blueprint_Install.label>ツール キャビネット(移動先)</ToolCabinet_Blueprint_Install.label>
 	<ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</ToolCabinet.description>
 	<ToolCabinet_Blueprint.label>ツール キャビネット(設計)</ToolCabinet_Blueprint.label>
 	<ToolCabinet_Frame.label>ツール キャビネット(施工)</ToolCabinet_Frame.label>
+	<ToolCabinet_Frame.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</ToolCabinet_Frame.description>
 
   <!--=========================== Graves ============================-->
 	<Grave.label>墓</Grave.label>
     <Grave.description>死者に安らかな眠りを与える場所です。</Grave.description>
 	<Grave_Blueprint.label>墓(設計)</Grave_Blueprint.label>
 	<Grave_Frame.label>墓(施工)</Grave_Frame.label>
+    <Grave_Frame.description>死者に安らかな眠りを与える場所です。</Grave_Frame.description>
 
 	<Sarcophagus.label>石棺</Sarcophagus.label>
 	<Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Sarcophagus.description>
 	<Sarcophagus_Blueprint.label>石棺(設計)</Sarcophagus_Blueprint.label>
 	<Sarcophagus_Frame.label>石棺(施工)</Sarcophagus_Frame.label>
+	<Sarcophagus_Frame.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Sarcophagus_Frame.description>
 
   <!--======================= Cryptosleep caskets ===========================-->
   <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
   <CryptosleepCasket.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</CryptosleepCasket.description>
   <CryptosleepCasket_Blueprint.label>冬眠カプセル(設計)</CryptosleepCasket_Blueprint.label>
   <CryptosleepCasket_Frame.label>冬眠カプセル(施工)</CryptosleepCasket_Frame.label>
+  <CryptosleepCasket_Frame.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</CryptosleepCasket_Frame.description>
 
   <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです。中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
@@ -87,68 +102,88 @@
 	<MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</MarriageSpot.description>
 	<MarriageSpot_Blueprint.label>結婚を誓う場(設計)</MarriageSpot_Blueprint.label>
 	<MarriageSpot_Frame.label>結婚を誓う場(施工)</MarriageSpot_Frame.label>
+	<MarriageSpot_Frame.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</MarriageSpot_Frame.description>
 
 	<PartySpot.label>パーティ スポット</PartySpot.label>
 	<PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</PartySpot.description>
 	<PartySpot_Blueprint.label>パーティ スポット(設計)</PartySpot_Blueprint.label>
 	<PartySpot_Frame.label>パーティ スポット(施工)</PartySpot_Frame.label>
+	<PartySpot_Frame.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</PartySpot_Frame.description>
 
     <CaravanPackingSpot.label>キャラバン隊物流拠点</CaravanPackingSpot.label>
     <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します。</CaravanPackingSpot.description>
     <CaravanPackingSpot_Blueprint.label>キャラバン物流拠点(設計)</CaravanPackingSpot_Blueprint.label>
     <CaravanPackingSpot_Frame.label>キャラバン隊物流拠点(施行)</CaravanPackingSpot_Frame.label>
+    <CaravanPackingSpot_Frame.description>キャラバン隊を編成する場所を指示します。</CaravanPackingSpot_Frame.description>
 
 	<!-- Floor -->
 	<MetalTile_Blueprint.label>鉄製タイル(設計)</MetalTile_Blueprint.label>
 	<MetalTile_Frame.label>鉄製タイル(施工)</MetalTile_Frame.label>
+	<MetalTile_Frame.description>施工中</MetalTile_Frame.description>
 
 	<SilverTile_Blueprint.label>銀製タイル(設計)</SilverTile_Blueprint.label>
 	<SilverTile_Frame.label>銀製タイル(施工)</SilverTile_Frame.label>
+	<SilverTile_Frame.description>施工中</SilverTile_Frame.description>
 
 	<GoldTile_Blueprint.label>黄金タイル(設計)</GoldTile_Blueprint.label>
 	<GoldTile_Frame.label>黄金タイル(施工)</GoldTile_Frame.label>
+	<GoldTile_Frame.description>施工中</GoldTile_Frame.description>
 
 	<SterileTile_Blueprint.label>抗菌タイル(設計)</SterileTile_Blueprint.label>
 	<SterileTile_Frame.label>抗菌タイル(施工)</SterileTile_Frame.label>
+	<SterileTile_Frame.description>施工中</SterileTile_Frame.description>
 
 	<PavedTile_Blueprint.label>コンクリ 舗装タイル(設計)</PavedTile_Blueprint.label>
 	<PavedTile_Frame.label>コンクリ 舗装タイル(施工)</PavedTile_Frame.label>
+	<PavedTile_Frame.description>施工中</PavedTile_Frame.description>
 
 	<Concrete_Blueprint.label>コンクリート打ちっ放し(設計)</Concrete_Blueprint.label>
 	<Concrete_Frame.label>コンクリート打ちっ放し(施工)</Concrete_Frame.label>
+	<Concrete_Frame.description>施工中</Concrete_Frame.description>
 
 	<WoodPlankFloor_Blueprint.label>フローリング(設計)</WoodPlankFloor_Blueprint.label>
 	<WoodPlankFloor_Frame.label>フローリング(施工)</WoodPlankFloor_Frame.label>
+	<WoodPlankFloor_Frame.description>施工中</WoodPlankFloor_Frame.description>
 
 	<CarpetRed_Blueprint.label>赤の絨毯(設計)</CarpetRed_Blueprint.label>
 	<CarpetRed_Frame.label>赤の絨毯(施工)</CarpetRed_Frame.label>
+	<CarpetRed_Frame.description>施工中</CarpetRed_Frame.description>
 
 	<CarpetGreen_Blueprint.label>緑の絨毯(設計)</CarpetGreen_Blueprint.label>
 	<CarpetGreen_Frame.label>緑の絨毯(施工)</CarpetGreen_Frame.label>
+	<CarpetGreen_Frame.description>施工中</CarpetGreen_Frame.description>
 
 	<CarpetBlue_Blueprint.label>青の絨毯(設計)</CarpetBlue_Blueprint.label>
 	<CarpetBlue_Frame.label>青の絨毯(施工)</CarpetBlue_Frame.label>
+	<CarpetBlue_Frame.description>施工中</CarpetBlue_Frame.description>
 
 	<CarpetCream_Blueprint.label>クリーム色絨毯(設計)</CarpetCream_Blueprint.label>
 	<CarpetCream_Frame.label>クリーム色絨毯(施工)</CarpetCream_Frame.label>
+	<CarpetCream_Frame.description>施工中</CarpetCream_Frame.description>
 
 	<CarpetDark_Blueprint.label>シックな絨毯(設計)</CarpetDark_Blueprint.label>
 	<CarpetDark_Frame.label>シックな絨毯(施工)</CarpetDark_Frame.label>
+	<CarpetDark_Frame.description>施工中</CarpetDark_Frame.description>
 
 	<TileSandstone_Blueprint.label>砂岩タイル(設計)</TileSandstone_Blueprint.label>
 	<TileSandstone_Frame.label>砂岩タイル(施工)</TileSandstone_Frame.label>
+	<TileSandstone_Frame.description>施工中</TileSandstone_Frame.description>
 
 	<TileGranite_Blueprint.label>花崗岩タイル(設計)</TileGranite_Blueprint.label>
 	<TileGranite_Frame.label>花崗岩タイル(施工)</TileGranite_Frame.label>
+	<TileGranite_Frame.description>施工中</TileGranite_Frame.description>
 
 	<TileLimestone_Blueprint.label>石灰岩タイル(設計)</TileLimestone_Blueprint.label>
 	<TileLimestone_Frame.label>石灰岩タイル(施工)</TileLimestone_Frame.label>
+	<TileLimestone_Frame.description>施工中</TileLimestone_Frame.description>
 
 	<TileSlate_Blueprint.label>粘板岩タイル(設計)</TileSlate_Blueprint.label>
 	<TileSlate_Frame.label>粘板岩タイル(施工)</TileSlate_Frame.label>
+	<TileSlate_Frame.description>施工中</TileSlate_Frame.description>
 
 	<TileMarble_Blueprint.label>大理石タイル(設計)</TileMarble_Blueprint.label>
 	<TileMarble_Frame.label>大理石タイル(施工)</TileMarble_Frame.label>
+	<TileMarble_Frame.description>施工中</TileMarble_Frame.description>
 
 	<FlagstoneSandstone_Blueprint.label>砂岩の敷石(設計)</FlagstoneSandstone_Blueprint.label>
 	<FlagstoneSandstone_Frame.label>砂岩の敷石(施行)</FlagstoneSandstone_Frame.label>

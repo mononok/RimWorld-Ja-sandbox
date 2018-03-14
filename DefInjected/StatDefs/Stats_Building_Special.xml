@@ -28,4 +28,7 @@
 	<EntertainmentStrengthFactor.label>エンターテイメント発生効果</EntertainmentStrengthFactor.label>
 	<EntertainmentStrengthFactor.description>このアイテムが、どのくらいの娯楽性をもって、人々を楽しませることができるかを表す値です。</EntertainmentStrengthFactor.description>
 
+    <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
+    <SurgerySuccessChanceFactor.description>ここで手術をした時の成功率に掛ける倍率です。手術成功率は、外科医の腕や医薬品の使用によっても影響を受けます。</SurgerySuccessChanceFactor.description>
+
 </LanguageData>

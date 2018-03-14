@@ -45,13 +45,12 @@
 
   <DesignatorAreaBuildRoofExpand>屋根ゾーン</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します。</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>屋根ゾーン 取消</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>作成した 屋根のゾーンを 取り消します。すでに ある 屋根は 残ります。屋根をこれ以上作成しなくなります。</DesignatorAreaBuildRoofClearDesc>
 
   <DesignatorAreaNoRoofExpand>屋根取り外し</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>屋根取り外し 撤回</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>作成した　屋根を作成しないゾーンを 取り消します。すでに ある 屋根は とりはずしません。</DesignatorAreaNoRoofClearDesc>
+
+  <DesignatorAreaIgnoreRoofExpand>屋根の無視ゾーン</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>入植者は このゾーンの 屋根を 無視するでしょう。</DesignatorAreaIgnoreRoofExpandDesc>
 
   <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
@@ -86,7 +85,7 @@
   <DesignatorRearmTrapDesc>バネ式の罠をリセットすると、再び罠を作動させることができます。</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>開ける</DesignatorOpen>
-  <DesignatorOpenDesc>墓を曝いたり、コンテナを開けます。</DesignatorOpenDesc>
+  <DesignatorOpenDesc>箱を開ける。</DesignatorOpenDesc>
 
   <DesignatorSlaughter>屠殺</DesignatorSlaughter>
   <DesignatorSlaughterDesc>家畜を屠殺します。</DesignatorSlaughterDesc>
@@ -119,8 +118,8 @@
 <CreateNewZone>新しく {0}を作ります。</CreateNewZone>
 
 
-<!-- desc helpers -->
-<TransmitsPower>送電します。</TransmitsPower>
-
+  <!-- desc helpers -->
+  <TransmitsPower>送電します。</TransmitsPower>
+  <ConstructionNeeded>建設を必要とします。</ConstructionNeeded>
 
 </LanguageData>

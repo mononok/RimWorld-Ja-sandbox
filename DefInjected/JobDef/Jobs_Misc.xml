@@ -10,7 +10,7 @@
 
     <Wait.reportString>ぼんやりしている</Wait.reportString>
 
-    <WaitMaintainPosture.reportString>standing.</WaitMaintainPosture.reportString>
+    <WaitMaintainPosture.reportString>立っている</WaitMaintainPosture.reportString>
 
     <WaitDowned.reportString>倒れている</WaitDowned.reportString>
 
@@ -31,14 +31,14 @@
     <Equip.reportString>TargetA を装備中</Equip.reportString>
 
 	<TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
-	
+
 	<GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
 
     <!--============= Misc ============-->
     <Wear.reportString>TargetA 着ている</Wear.reportString>
 
 	<RemoveApparel.reportString>TargetA 脱いでいる</RemoveApparel.reportString>
-	
+
 	<DropEquipment.reportString>TargetA を除装している</DropEquipment.reportString>
 
     <Strip.reportString>TargetA を剥がしている</Strip.reportString>
@@ -61,6 +61,7 @@
     <EnterCryptosleepCasket.reportString>冬眠カプセルに乗り込む</EnterCryptosleepCasket.reportString>
     <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
     <UseArtifact.reportString>アーティファクト を作動中</UseArtifact.reportString>
+    <UseItem.reportString>TargetA を使用中</UseItem.reportString>
 
 	<TriggerFirefoamPopper.reportString>泡消火剤を作動中</TriggerFirefoamPopper.reportString>
 
@@ -77,6 +78,11 @@
 	<FleeAndCower.reportString>逃走中</FleeAndCower.reportString>
 
     <EnterTransporter.reportString>TargetA に乗り込んでいる</EnterTransporter.reportString>
+
+    <Resurrect.reportString>TargetA を蘇生している</Resurrect.reportString>
+    <Insult.reportString>TargetA を侮辱している</Insult.reportString>
+    <HaulCorpseToPublicPlace.reportString>TargetA を運んでいる</HaulCorpseToPublicPlace.reportString>
+    <InducePrisonerToEscape.reportString>TargetA に脱走をそそのかしている</InducePrisonerToEscape.reportString>
 
     <!--============ Fire ============-->
     <Ignite.reportString>TargetA に着火中</Ignite.reportString>

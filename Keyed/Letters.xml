@@ -30,6 +30,8 @@
 <RecruitSuccess>{0}は {1}を コロニーに 迎え入れました。 (成功率 {2})</RecruitSuccess>
 <RecruitFail>{0}は {1}の 説得に 失敗しました。 (成功率 {2})</RecruitFail>
 
+  <RelatedPawnInvolvedInQuest>NAMEは {0}の{1}です。もし NAMEが死ねば、{0}は、長期に渡る悲しみに苦しむでしょう。けれども、もしなんとか NAMEを救うことができれば、 {0}は、長い間、幸せに包まれているでしょう。</RelatedPawnInvolvedInQuest>
+
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
   <BirthdayChronological>今日は、{0}の誕生日です!、生物学的には {1}は {3}才になります。\n\n暦上では、{1}は、{2}になりました。\n\nノート:冷凍睡眠中は老化しないので、暦上の年齢は、生物学的年齢とは別になります。</BirthdayChronological>
 <BirthdayBiologicalAgeInjuries>今日は、{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました。</BirthdayBiologicalAgeInjuries>
@@ -37,6 +39,10 @@
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
     <NewDisease>{0}は 病に倒れました({1})。\n\n医療用ベッドとドクターを確保してください。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewDisease>
     <NewPartDisease>{0}は HIS{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
+
+  <PawnWasFormerlyColonist>{0}は、かつて貴方の派閥の一員でした。</PawnWasFormerlyColonist>
+  <PawnHasTheseRelationshipsWithColonists>{0}は、入植者達と、これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>キャンプは {0}日後に消滅するでしょう。この機会を逸すれば、{1}の声を、二度と聞くことは無いかもしれません。</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
 <AncientShrineWarning>予感が、近くにある古代建造物に {0}を 引き寄せました。なぜだか解りませんが、この塵と埃にまみれた廃墟は、大きな危険をはらんでいると HE は感じています。</AncientShrineWarning>
@@ -153,5 +159,28 @@
   <!-- Found lump of precious resources -->
   <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
   <LetterFoundPreciousLump>長距離資源探査スキャナーが、近くに稀少鉱物の塊を探知しました。\n\nそれが、誰の物で、何かは不明ですが、なんとしても、保護すべきです。</LetterFoundPreciousLump>
+
+  <!-- Sleeping mechanoids -->
+  <LetterLabelSleepingMechanoids>スリープ状態のメカノイド</LetterLabelSleepingMechanoids>
+  <LetterSleepingMechanoids>これは、このエリアにいる、幾つかのスリープ状態にある敵性メカノイドです。\nこのメカノイドに接触したとき、起きるかもしれないし、起きないかもしれません。気をつけて。</LetterSleepingMechanoids>
+  <!-- Ambush -->
+  <LetterLabelAmbushInExistingMap>待ち伏せ</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>{0}は待ち伏せされた!</LetterAmbushInExistingMap>
+  <!-- Peace talks -->
+  <LetterLabelPeaceTalks_Disaster>和平交渉 決裂</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>交渉は決裂した。代表団は、協議が、侮辱と非難のなすり合いで決裂する前に、かろうじて冒頭の挨拶をやり過ごしたに過ぎなかった。\n\n早々と貴方のキャラバン隊が出発した後、{1}からの {0}は追って来て、攻撃してきた!\n\n {1}との関係: {2}</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>和平交渉 逆効果</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>交渉は裏目に出た。いくつかの嘲笑と引き換えたにも関わらず、代表団は、実質的な問題に対して進展が無く、複数の声明は侮辱とみなされた。\n\n {0}との関係: {1}</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>和平交渉 難航</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>交渉は難航している。代表団は、基本的な敬意を払って、かろうじて明確に伝えることができたが、主となる問題について親展を得ることは出来なかった。\n\n {0}との関係: 変化無し</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>和平交渉 成功</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>交渉は成功した。代表団は、幾つかの実質的な問題に対して、新しい相互理解に達した。\n\n {0}との関係は {1}によって改善した。</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>和平交渉 大勝利</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>交渉は大勝利に終わった! 代表団は、迅速に個人レベルでお互いに理解し合い、最も難しい問題に対する、お互いの展望のため、心から集まった。\n\n {0}との関係は {1}によって改善した。\n\n 貴方のキャラバン隊が出発のとき、{0}は贈り物を申し出た: {2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>交渉人 {0}は {1}経験値をためた。</PeaceTalksSocialXPGain>
+  <!-- Run wild mental break -->
+  <LetterRunWildMentalBreak>{0}は、貴方の派閥を離れて、動物たちと共に生きることに決めた。</LetterRunWildMentalBreak>
+  <!-- Catatonic mental break -->
+  <LetterCatatonicMentalBreak>{0}は、何日か続くであろう緊張性精神崩壊を起こした。</LetterCatatonicMentalBreak>
 
 </LanguageData>

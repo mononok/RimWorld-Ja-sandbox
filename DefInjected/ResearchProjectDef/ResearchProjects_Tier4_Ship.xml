@@ -2,18 +2,21 @@
 <LanguageData>
 
 	<ShipBasics.label>宇宙船建造</ShipBasics.label>
-	<ShipBasics.description>より先進の宇宙船建造技術を研究すれば、惑星から脱出する船を作れるようになります。</ShipBasics.description>
+	<ShipBasics.description>より先進の宇宙船建造技術を研究すれば、最終的に惑星から脱出する船を作れるようになります。</ShipBasics.description>
 
 	<ShipCryptosleep.label>冬眠カプセル</ShipCryptosleep.label>
-	<ShipCryptosleep.description>惑星間航行に使う冬眠カプセルを作れるようになります。</ShipCryptosleep.description>
+	<ShipCryptosleep.description>擬似冬眠恒星間航行に使う、冬眠カプセルの作成を可能にします。</ShipCryptosleep.description>
 
 	<ShipReactor.label>反物質炉</ShipReactor.label>
-	<ShipReactor.description>船の動力となる、反物質炉を作れるようになります。</ShipReactor.description>
+	<ShipReactor.description>船の動力となる、反物質炉の作成を可能にします。</ShipReactor.description>
 
 	<ShipEngine.label>反物質エンジン</ShipEngine.label>
-	<ShipEngine.description>船の推進力となる、エンジンを作れるようになります。</ShipEngine.description>
+	<ShipEngine.description>船の推進力となる、エンジンの作成を可能にします。</ShipEngine.description>
 
 	<ShipComputerCore.label>コンピュータコア</ShipComputerCore.label>
-	<ShipComputerCore.description>航路計画用の既存の人工知能(AI)を強化する、コンピュータコアを作れるようになります。</ShipComputerCore.description>
+	<ShipComputerCore.description>航路計画用の既存の人工知能(AI)を強化する、コンピュータコアの作成を可能にします。</ShipComputerCore.description>
+
+    <ShipSensorCluster.label>船殻センサー束</ShipSensorCluster.label>
+    <ShipSensorCluster.description>船に付ける長距離センサーの作成を可能にします。</ShipSensorCluster.description>
 
 </LanguageData>

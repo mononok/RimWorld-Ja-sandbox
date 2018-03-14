@@ -46,4 +46,17 @@
 	<DesignatorRotateLeft.label>反時計回りに回転</DesignatorRotateLeft.label>
 	<DesignatorRotateRight.label>時計回りに回転</DesignatorRotateRight.label>
 
+    <!-- Modifiers -->
+    <ModifierIncrement10x.label>x10 増加</ModifierIncrement10x.label>
+    <ModifierIncrement100x.label>x100 増加</ModifierIncrement100x.label>
+    <QueueOrder.label>行列順序</QueueOrder.label>
+    <TickOnce.label>tick once</TickOnce.label>
+
+    <ToggleGodMode.label>god modeを切り替える</ToggleGodMode.label>
+    <ToggleDebugLog.label>debug logを切り替える</ToggleDebugLog.label>
+    <ToggleDebugActionsMenu.label>debug actions menuを切り替える</ToggleDebugActionsMenu.label>
+    <ToggleDebugLogMenu.label>debug log menuを切り替える</ToggleDebugLogMenu.label>
+    <ToggleDebugInspector.label>debug inspectorを切り替える</ToggleDebugInspector.label>
+    <ToggleDebugSettingsMenu.label>debug settings menuを切り替える</ToggleDebugSettingsMenu.label>
+
 </LanguageData>

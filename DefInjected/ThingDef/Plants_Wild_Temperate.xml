@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
-	<PlantRaspberry.label>野苺</PlantRaspberry.label>
-	<PlantRaspberry.description>赤いおいしい実をつける低木です。</PlantRaspberry.description>
-
-	<PlantBush.label>低木</PlantBush.label>
-	<PlantBush.description>低い灌木です。</PlantBush.description>
-
-    <PlantWildHealroot.label>野ヒールルート</PlantWildHealroot.label>
-    <PlantWildHealroot.description>摘み取ると、薬草として効果があり、成長速度がゆっくりとした植物です。\n\nこのヒールルートの野生種を栽培するのは難しく、寒冷地の部族民では尊重されています。</PlantWildHealroot.description>
-	<!--======================= Wild plants - carpets ========================-->
-	<PlantGrass.label>雑草</PlantGrass.label>
-	<PlantGrass.description>雑草は、わずかな明かりと栄養があれば、どこにでも繁茂します。</PlantGrass.description>
-
 	<PlantDandelion.label>タンポポ</PlantDandelion.label>
 	<PlantDandelion.description>どこにでもある花、あまりによく見かけるので、雑草のようでもある花です。</PlantDandelion.description>
 
@@ -22,6 +9,10 @@
 
 	<PlantMoss.label>コケ</PlantMoss.label>
 	<PlantMoss.description>弱い光と湿度が高い所で繁茂する野生のコケ。非常に丈夫で霜耐性があります。</PlantMoss.description>
+
+    <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
+    <PlantRaspberry.label>野苺</PlantRaspberry.label>
+    <PlantRaspberry.description>赤いおいしい実をつける低木です。</PlantRaspberry.description>
 
     <!--============================ Wild - Trees ============================-->
 	<PlantTreeOak.label>オーク</PlantTreeOak.label>

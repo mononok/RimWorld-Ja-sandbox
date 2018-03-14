@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Bullet_Shell_HighExplosive.label>高性能炸薬弾</Bullet_Shell_HighExplosive.label>
+<!--
+    <Shell_HighExplosive.label>high-explosive shell</Shell_HighExplosive.label>
+    <Shell_HighExplosive.description>A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_HighExplosive.description>
+-->
+
+	<Bullet_Shell_Incendiary.label>焼夷弾</Bullet_Shell_Incendiary.label>
+    <Shell_Incendiary.label>焼夷弾</Shell_Incendiary.label>
+    <Shell_Incendiary.description>満たされた可燃性のゲルと信管からなる装弾です。起爆されれば燃焼を開始します。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_Incendiary.description>
+
+	<Bullet_Shell_EMP.label>EMP弾</Bullet_Shell_EMP.label>
+    <Shell_EMP.label>EMP弾</Shell_EMP.label>
+    <Shell_EMP.description>起爆された時にEMPパルスを発生するように、バッテリーとアンテナが詰め込まれた装弾です。電磁波パルスが一時的に電子回路を使用不能にします。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_EMP.description>
+
+  <!-- Firefoam -->
+    <Shell_Firefoam.label>消化剤弾</Shell_Firefoam.label>
+    <Shell_Firefoam.description>消化剤を加圧充填した装弾です。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_Firefoam.description>
+
+    <Bullet_Shell_Firefoam.label>消化剤弾</Bullet_Shell_Firefoam.label>
+
+    <Shell_AntigrainWarhead.label>反物質弾</Shell_AntigrainWarhead.label>
+    <Shell_AntigrainWarhead.description>非常に小さい超テクノロジーの弾頭は、ほとんどの場合宇宙船かGlitterworldの戦闘機械で使用されます。反物質粒子からパワーを取り出して、非常に大きな爆発とその周りに延焼を作り出します。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_AntigrainWarhead.description>
+    <Bullet_Shell_AntigrainWarhead.label>反物質弾</Bullet_Shell_AntigrainWarhead.label>
+
+</LanguageData>

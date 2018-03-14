@@ -4,13 +4,35 @@
 	<!-- Added body parts -->
 
 	<PegLeg.label>木製義足</PegLeg.label>
+	<PegLeg.labelNoun>木製義足</PegLeg.labelNoun>
+
 	<Denture.label>入れ歯</Denture.label>
+	<Denture.labelNoun>入れ歯</Denture.labelNoun>
+
 	<SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.labelNoun>人造下肢</SimpleProstheticLeg.labelNoun>
+
 	<SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
+	<SimpleProstheticArm.labelNoun>人造上肢</SimpleProstheticArm.labelNoun>
+    <SimpleProstheticArm.comps.0.tools.0.label>拳</SimpleProstheticArm.comps.0.tools.0.label>
+
 	<BionicEye.label>強化視覚センサー</BionicEye.label>
+	<BionicEye.labelNoun>強化視覚センサー</BionicEye.labelNoun>
+
 	<BionicArm.label>強化上肢</BionicArm.label>
+	<BionicArm.labelNoun>強化上肢</BionicArm.labelNoun>
+    <BionicArm.comps.0.tools.0.label>拳</BionicArm.comps.0.tools.0.label>
+
 	<BionicLeg.label>強化下肢</BionicLeg.label>
+	<BionicLeg.labelNoun>強化下肢</BionicLeg.labelNoun>
+
 	<PowerClaw.label>機械化かぎ爪</PowerClaw.label>
+	<PowerClaw.labelNoun>機械化かぎ爪</PowerClaw.labelNoun>
+    <PowerClaw.comps.0.tools.0.label>爪</PowerClaw.comps.0.tools.0.label>
+
 	<ScytherBlade.label>機械化鎌状刃</ScytherBlade.label>
+	<ScytherBlade.labelNoun>機械化鎌状刃</ScytherBlade.labelNoun>
+    <ScytherBlade.comps.0.tools.0.label>刃</ScytherBlade.comps.0.tools.0.label>
+    <ScytherBlade.comps.0.tools.1.label>突起</ScytherBlade.comps.0.tools.1.label>
 
 </LanguageData>

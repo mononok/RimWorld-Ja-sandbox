@@ -12,9 +12,10 @@
 
     <DrugProductionSpeed.label>薬物生成・速度</DrugProductionSpeed.label>
     <DrugProductionSpeed.description>薬物を調合して生成する速度です。</DrugProductionSpeed.description>
-
+<!--
     <StonecuttingSpeed.label>石材加工・速度</StonecuttingSpeed.label>
     <StonecuttingSpeed.description>ストーンカットする速度です。</StonecuttingSpeed.description>
+-->
 
     <SmeltingSpeed.label>精錬・速度</SmeltingSpeed.label>
     <SmeltingSpeed.description>溶解、精錬する速度です。</SmeltingSpeed.description>
@@ -41,6 +42,6 @@
     <ButcheryMechanoidEfficiency.description>メカノイドを解体する時に、得られる収量への倍率です。</ButcheryMechanoidEfficiency.description>
 
 	<MechanoidOperationSuccessChance.label>メカノイド・解体成功率</MechanoidOperationSuccessChance.label>
-	<MechanoidOperationSuccessChance.description>メカノイドを解体する時の成功率です。失敗は、時間のムダと、メカノイドへの致命的なダメージという結果を招きます。</MechanoidOperationSuccessChance.description>
+	<MechanoidOperationSuccessChance.description>この人物が、メカノイドの解体を成功裏に終わらせる確率です。失敗すると取り出す部品を失ったり、損なったりします。</MechanoidOperationSuccessChance.description>
 
 </LanguageData>

@@ -109,7 +109,7 @@
     </rep>
     <rep>
         <path>NightOwl.degreeDatas[0].description</path>
-        <trans>NAME は夜起きて、昼寝るのが好きです。\n\nHECAP は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。</trans>
+        <trans>NAMEは夜起きて、昼寝るのが好きです。\n\nHECAP は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。</trans>
     </rep>
 
     <rep>
@@ -193,7 +193,16 @@
 		<trans>NAMEは、火が大好きです。HECAPは、ちょくちょく火をつけようとしますが、決して消そうとはしません。</trans>
 	</rep>
 
-	<Wimp.degreeDatas.0.label>いくじなし</Wimp.degreeDatas.0.label>
+	<Wimp.degreeDatas.0.label>弱虫</Wimp.degreeDatas.0.label>
 	<Wimp.degreeDatas.0.description>NAMEは、弱くて臆病です。ちょっとした痛みでさえ、へたってしまいます。</Wimp.degreeDatas.0.description>
+
+    <Nimble.degreeDatas.0.label>敏捷</Nimble.degreeDatas.0.label>
+    <Nimble.degreeDatas.0.description>NAMEは並外れた運動感覚野知性の持ち主です。HECAPは超常的な神の恩寵を受けて危険と隣り合わせにダンスをしているようです。</Nimble.degreeDatas.0.description>
+
+    <FastLearner.degreeDatas.0.label>物覚えが良い</FastLearner.degreeDatas.0.label>
+    <FastLearner.degreeDatas.0.description>NAMEは物覚えのコツを持っています。HECAPは他の人より早く物事を覚えます。</FastLearner.degreeDatas.0.description>
+
+    <SuperImmune.degreeDatas.0.label>超免疫力</SuperImmune.degreeDatas.0.label>
+    <SuperImmune.degreeDatas.0.description>NAMEは生まれつき、強力な免疫システムを備えています。HECAPは普通の人が得られる速度より早く免疫を得られるでしょう、そして他の人は死んでしまうような疾病でも生き残ることができます。</SuperImmune.degreeDatas.0.description>
 
 </LanguageData>

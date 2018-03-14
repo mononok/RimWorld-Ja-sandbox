@@ -41,4 +41,7 @@
 	<MinimumHandlingSkill.label>生き物スキル必要量</MinimumHandlingSkill.label>
 	<MinimumHandlingSkill.description>この必要量より生き物スキルが低い人は、この生物を手なずけたり、調教したり、命令することができません。</MinimumHandlingSkill.description>
 
+    <PainShockThreshold.label>痛みへの限界値</PainShockThreshold.label>
+    <PainShockThreshold.description>痛みによって倒れてしまう値です。</PainShockThreshold.description>
+
 </LanguageData>

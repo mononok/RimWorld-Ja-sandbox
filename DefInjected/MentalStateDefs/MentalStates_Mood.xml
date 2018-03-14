@@ -9,8 +9,8 @@
 
 	<FireStartingSpree.label>放火魔</FireStartingSpree.label>
 	<FireStartingSpree.beginLetterLabel>放火魔</FireStartingSpree.beginLetterLabel>
-	<FireStartingSpree.beginLetter>{0}は やたらめったら放火してします。</FireStartingSpree.beginLetter>
-	<FireStartingSpree.recoveryMessage>{0}は もう放火することはありません。</FireStartingSpree.recoveryMessage>
+	<FireStartingSpree.beginLetter>{0}は やたらめったら放火しようとしている。</FireStartingSpree.beginLetter>
+	<FireStartingSpree.recoveryMessage>{0}は もう放火しなくなった。</FireStartingSpree.recoveryMessage>
 	<FireStartingSpree.baseInspectLine>精神状態: 放火魔</FireStartingSpree.baseInspectLine>
 
 	<GiveUpExit.label>ギブアップ</GiveUpExit.label>
@@ -23,6 +23,24 @@
   <BingingDrugExtreme.label>薬物中毒</BingingDrugExtreme.label>
   <BingingDrugExtreme.baseInspectLine>精神状態: {0}薬物中毒</BingingDrugExtreme.baseInspectLine>
 
+    <Jailbreaker.label>脱走をそそのかす</Jailbreaker.label>
+    <Jailbreaker.beginLetterLabel>脱獄</Jailbreaker.beginLetterLabel>
+    <Jailbreaker.beginLetter>{0}は 重度のストレスから 他の囚人に脱走をそそのかそうとしている。</Jailbreaker.beginLetter>
+    <Jailbreaker.recoveryMessage>{0}は もう脱走をそそのかすつもりは無くなった。</Jailbreaker.recoveryMessage>
+    <Jailbreaker.baseInspectLine>精神状態: 脱獄</Jailbreaker.baseInspectLine>
+
+    <Slaughterer.label>屠殺者</Slaughterer.label>
+    <Slaughterer.beginLetterLabel>屠殺者</Slaughterer.beginLetterLabel>
+    <Slaughterer.beginLetter>{0}は 重度のストレスから HIS怒りのはけ口を 動物に向けようとしている。</Slaughterer.beginLetter>
+    <Slaughterer.recoveryMessage>{0}は もうやたらめったら 動物を屠殺するのを止めた。</Slaughterer.recoveryMessage>
+    <Slaughterer.baseInspectLine>精神状態: 屠殺者</Slaughterer.baseInspectLine>
+
+    <MurderousRage.label>激情の殺意</MurderousRage.label>
+    <MurderousRage.beginLetterLabel>激情の殺意</MurderousRage.beginLetterLabel>
+    <MurderousRage.beginLetter>{0}は 激情して殺意のなかにある HECAPは {1}を殺そうとしている。</MurderousRage.beginLetter>
+    <MurderousRage.recoveryMessage>{0}は もう激情した殺意はない。</MurderousRage.recoveryMessage>
+    <MurderousRage.baseInspectLine>精神状態: 激情の殺意</MurderousRage.baseInspectLine>
+
   <BingingDrugMajor.label>薬物に溺れる</BingingDrugMajor.label>
   <BingingDrugMajor.baseInspectLine>精神状態: {0}薬物依存</BingingDrugMajor.baseInspectLine>
 
@@ -32,11 +50,42 @@
 	<WanderPsychotic.recoveryMessage>{0}は 病んで フラフラすることはありません。</WanderPsychotic.recoveryMessage>
 	<WanderPsychotic.baseInspectLine>精神状態: 精神衰弱</WanderPsychotic.baseInspectLine>
 
+    <Tantrum.label>癇癪持ち</Tantrum.label>
+    <Tantrum.beginLetterLabel>癇癪持ち</Tantrum.beginLetterLabel>
+    <Tantrum.beginLetter>{0}は 癇癪をおこした。</Tantrum.beginLetter>
+    <Tantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</Tantrum.recoveryMessage>
+    <Tantrum.baseInspectLine>精神状態: 癇癪持ち</Tantrum.baseInspectLine>
+
+    <TargetedTantrum.label>癇癪(人)</TargetedTantrum.label>
+    <TargetedTantrum.beginLetterLabel>癇癪(人)</TargetedTantrum.beginLetterLabel>
+    <TargetedTantrum.beginLetter>{0}は 癇癪をおこして {1}を壊そうとしている</TargetedTantrum.beginLetter>
+    <TargetedTantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</TargetedTantrum.recoveryMessage>
+    <TargetedTantrum.baseInspectLine>精神状態: 癇癪持ち(人)</TargetedTantrum.baseInspectLine>
+
+
+    <BedroomTantrum.label>癇癪(寝室)</BedroomTantrum.label>
+    <BedroomTantrum.beginLetterLabel>癇癪(寝室)</BedroomTantrum.beginLetterLabel>
+    <BedroomTantrum.beginLetter>{0}は 癇癪をおこして HIS部屋の家具を壊そうとしている</BedroomTantrum.beginLetter>
+    <BedroomTantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</BedroomTantrum.recoveryMessage>
+    <BedroomTantrum.baseInspectLine>精神状態: 癇癪持ち(寝室)</BedroomTantrum.baseInspectLine>
+
+    <SadisticRage.label>サディスティックな激情</SadisticRage.label>
+    <SadisticRage.beginLetterLabel>サディスティックな激情</SadisticRage.beginLetterLabel>
+    <SadisticRage.beginLetter>{0}は 激情して虐待的感情を吹き出させている HECAPは HISの怒りのはけ口を 囚人に向けようとしている。</SadisticRage.beginLetter>
+    <SadisticRage.recoveryMessage>{0}には もう虐待的感情は無くなった。</SadisticRage.recoveryMessage>
+    <SadisticRage.baseInspectLine>精神状態: 虐待</SadisticRage.baseInspectLine>
+
+    <CorpseObsession.label>死体への執着</CorpseObsession.label>
+    <CorpseObsession.beginLetterLabel>死体への執着</CorpseObsession.beginLetterLabel>
+    <CorpseObsession.beginLetter>{0}は 死体に執着しています HECAPは死体を掘り起こそうとしている。</CorpseObsession.beginLetter>
+    <CorpseObsession.recoveryMessage>{0}は もう死体には執着しなくなった。</CorpseObsession.recoveryMessage>
+    <CorpseObsession.baseInspectLine>精神状態: 死体への執着</CorpseObsession.baseInspectLine>
+
 	<!-- Mental breaks: minor -->
 
 	<BingingFood.label>食べずにはいられない</BingingFood.label>
 	<BingingFood.beginLetterLabel>過食症</BingingFood.beginLetterLabel>
-	<BingingFood.beginLetter>{0}は ブタのように ガツガツと食べています。</BingingFood.beginLetter>
+	<BingingFood.beginLetter>{0}は ブタのように ガツガツと食べずにいられない。</BingingFood.beginLetter>
 	<BingingFood.recoveryMessage>{0}は もうブタのように ガツガツと食べることはありません。</BingingFood.recoveryMessage>
 	<BingingFood.baseInspectLine>精神状態: 過食症</BingingFood.baseInspectLine>
 
@@ -51,6 +100,17 @@
 	<WanderOwnRoom.beginLetter>{0}は HISの部屋に隠れて 出てきません。</WanderOwnRoom.beginLetter>
 	<WanderOwnRoom.recoveryMessage>{0}は もうHIM部屋に ひきこもることはありません。</WanderOwnRoom.recoveryMessage>
 	<WanderOwnRoom.baseInspectLine>精神状態: ひきこもり</WanderOwnRoom.baseInspectLine>
+
+    <InsultingSpree.label>侮辱・放言</InsultingSpree.label>
+    <InsultingSpree.beginLetterLabel>侮辱・放言</InsultingSpree.beginLetterLabel>
+    <InsultingSpree.beginLetter>{0}は 侮辱、放言の限りを尽くしています。</InsultingSpree.beginLetter>
+    <InsultingSpree.recoveryMessage>{0}は もう侮辱、放言をやめました。</InsultingSpree.recoveryMessage>
+    <InsultingSpree.baseInspectLine>精神状態: 侮辱放言</InsultingSpree.baseInspectLine>
+
+    <TargetedInsultingSpree.label>侮辱・放言(人物)</TargetedInsultingSpree.label>
+    <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>
+    <TargetedInsultingSpree.beginLetter>{0}は {1}へ侮辱、放言のし放題</TargetedInsultingSpree.beginLetter>
+    <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
 
   <ManhunterPermanent.label>殺人鬼</ManhunterPermanent.label>
   <ManhunterPermanent.beginLetterLabel>殺人鬼</ManhunterPermanent.beginLetterLabel>

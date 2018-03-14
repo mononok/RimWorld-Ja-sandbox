@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <FeelingRandom.stages.0.label>気分は最高</FeelingRandom.stages.0.label>
+    <FeelingRandom.stages.0.description>はっきりした理由もないけど、気分は最高。</FeelingRandom.stages.0.description>
+
+    <FeelingRandom.stages.1.label>気分は上々</FeelingRandom.stages.1.label>
+    <FeelingRandom.stages.1.description>はっきりした理由もないけど、気分は上々。</FeelingRandom.stages.1.description>
+
+    <FeelingRandom.stages.2.label>気分は沈みがち</FeelingRandom.stages.2.label>
+    <FeelingRandom.stages.2.description>はっきりした理由もないのに、気分が落ち込む。</FeelingRandom.stages.2.description>
+
+    <FeelingRandom.stages.3.label>気分はどん底</FeelingRandom.stages.3.label>
+    <FeelingRandom.stages.3.description>はっきりした理由もないのに、気分がどん底まで落ち込む。</FeelingRandom.stages.3.description>
+
 	<rep>
 		<path>Imprisoned.stages[0].label</path>
 		<trans>監禁された</trans>
@@ -70,5 +82,23 @@
 		<path>Pain.stages[3].description</path>
 		<trans>痛い!!!、今すぐ殺して!!!</trans>
 	</rep>
+
+    <PsychicEmanatorSoothe.stages.0.label>サイコスード波動器</PsychicEmanatorSoothe.stages.0.label>
+    <PsychicEmanatorSoothe.stages.0.description>サイコスード波動器は私を力づけて、とてもリラックスさせる。</PsychicEmanatorSoothe.stages.0.description>
+
+    <!-- Psychic drone -->
+    <PsychicDrone.stages.0.label>サイコスード(中度)</PsychicDrone.stages.0.label>
+    <PsychicDrone.stages.0.description>それは心の裏側に穏やかな声が囁くようです、私をなだめて、精神を安定させてくれます。</PsychicDrone.stages.0.description>
+    <PsychicDrone.stages.1.label>サイコドローン(低度)</PsychicDrone.stages.1.label>
+    <PsychicDrone.stages.1.description>それは心の裏側を、爪で引っ掻かれるようなものです。声、ささやくような声が、いくつかの、私が嫌いな言葉だけを、かろうじて聞き分けられます。</PsychicDrone.stages.1.description>
+    <PsychicDrone.stages.2.label>サイコドローン(中度)</PsychicDrone.stages.2.label>
+    <PsychicDrone.stages.2.description>私は視線の外にいる誰かに、話しかけられている気がしています。声は変わってもメッセージが変わらない。このままでは、私はそいつを傷つけてしまう、そいつをどっかにやって欲しい。</PsychicDrone.stages.2.description>
+    <PsychicDrone.stages.3.label>サイコドローン(重度)</PsychicDrone.stages.3.label>
+    <PsychicDrone.stages.3.description>我慢できない程の怒鳴り声がする、集中力を維持するのが難しい。そいつに向かって大声で話しかけている自分自身に気がついた。そして、私は大声で叫んでいる。</PsychicDrone.stages.3.description>
+    <PsychicDrone.stages.4.label>サイコドローン(極度)</PsychicDrone.stages.4.label>
+    <PsychicDrone.stages.4.description>私は、心臓がドキドキ鳴り、汗をかいている。私が考えられる全ては、痛み、悩み、そして私の周りにいる悪い奴らの事だ。奴らは、私の悪夢だ…私の悪夢だ…私の悪夢だ…。</PsychicDrone.stages.4.description>
+
+    <Joywire.stages.0.label>ジョイワイヤー</Joywire.stages.0.label>
+    <Joywire.stages.0.description>すごいよ!</Joywire.stages.0.description>
 
 </LanguageData>

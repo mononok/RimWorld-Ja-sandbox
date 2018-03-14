@@ -17,15 +17,15 @@
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  3]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」の話について 触れている。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]「[tale_noun]」の話について触れている。</trans>
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  4]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]の、 「[tale_noun]」の出来事に 関連している。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]「[tale_noun]」の出来事に関連している。</trans>
 	</rep>
     <rep>
 		<path>ArtDescriptionRoot_HasTale.rulePack.rulesStrings[  5]</path>
-		<trans>context_sentence->この[depiction]は、 星暦:[date]に起きた、 「[tale_noun]」の話を 今に 伝えている。</trans>
+		<trans>context_sentence->この[depiction]は、 星暦:[date]に起きた、「[tale_noun]」の話を今に伝えている。</trans>
 	</rep>
 
 
@@ -53,12 +53,12 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  2]</path>
-		<trans>style_group->[artextra_clause]、    そして、[style_clause]。</trans>
+		<trans>style_group->[artextra_clause]。 そして[style_clause]。</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  3]</path>
-		<trans>style_group->[artextra_clause]、そのうえ、[style_clause]。</trans>
+		<trans>style_group->[artextra_clause]。その上[style_clause]。</trans>
 	</rep>
 
 	<rep>
@@ -68,17 +68,17 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  5]</path>
-		<trans>artextra_clause->[side_position]に[community]がある</trans>
+		<trans>artextra_clause->[side_position]には[community]がある</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  6]</path>
-		<trans>artextra_clause->[side_position]に[terrainfeature]がある</trans>
+		<trans>artextra_clause->[side_position]には[terrainfeature]がある</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[  7]</path>
-		<trans>artextra_clause->[side_position]に[animal]がいる</trans>
+		<trans>artextra_clause->[side_position]には[animal]がいる</trans>
 	</rep>
 
 	<rep>
@@ -118,22 +118,22 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 15]</path>
-		<trans>artextra_clause->[side_position]に[outlander]が[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]には[outlander]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 16]</path>
-		<trans>artextra_clause->[side_position]に[animal]が[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]には[animal]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 17]</path>
-		<trans>artextra_clause->[side_position]に死んだ[animal]が[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]には死んだ[animal]が[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 18]</path>
-		<trans>artextra_clause->[side_position]の[concept]を擬人化して表現したものが[idle_verb_progressive]いる</trans>
+		<trans>artextra_clause->[side_position]には[concept]を擬人化して表現したものが[idle_verb_progressive]いる</trans>
 	</rep>
 
 	<rep>
@@ -148,7 +148,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 21]</path>
-		<trans>artextra_clause->貴方が眼を細め見ると、[composition]イメージで [animal]の輪郭を浮き彫りにしている</trans>
+		<trans>artextra_clause->眼を細めて見ると、[composition]イメージが [animal]の輪郭を浮き彫りにしている</trans>
 	</rep>
 
 	<rep>
@@ -158,7 +158,7 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 23]</path>
-		<trans>style_clause->この作品には、[concept]のアイデアが吹き込まれ、[artstyle_adj]様式となっている</trans>
+		<trans>style_clause->この作品は、[concept]のアイデアが吹き込まれ、[artstyle_adj]様式となっている</trans>
 	</rep>
 
 	<rep>
@@ -208,12 +208,12 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 33]</path>
-		<trans>style_clause->この作品の色相が、[color]から[color]へと次第に変化している</trans>
+		<trans>style_clause->この作品の色相は、[color]から[color]へと次第に変化している</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 34]</path>
-		<trans>style_clause->イメージの中の、ほとんどすべての形状は、[composition]構造になっているように見える</trans>
+		<trans>style_clause->そのほとんど全ての形状は、[composition]構造になっているように見える</trans>
 	</rep>
 
 	<rep>
@@ -283,17 +283,17 @@
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 48]</path>
-		<trans>composition->三角形</trans>
+		<trans>composition->三角形状の</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 49]</path>
-		<trans>composition->長方形</trans>
+		<trans>composition->長方形状の</trans>
 	</rep>
 
 	<rep>
 		<path>ArtDescriptionUtility_Global.rulePack.rulesStrings[ 50]</path>
-		<trans>composition->正方形</trans>
+		<trans>composition->正方形状の</trans>
 	</rep>
 
 	<rep>

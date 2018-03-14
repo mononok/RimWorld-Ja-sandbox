@@ -8,17 +8,32 @@
 
 	<!--=============== Neurotrainer ====================-->
 
-	<Neurotrainer.label>ニューロトレイナー </Neurotrainer.label>
-	<Neurotrainer.description>使い捨てのナノテク学習デバイスで、視覚を通してナノマシーンを直接、大脳へ送り込みます。簡単にその分野のスキルを得られます。</Neurotrainer.description>
+	<MechSerumNeurotrainer.label>ニューロトレイナー </MechSerumNeurotrainer.label>
+	<MechSerumNeurotrainer.description>使い捨てのナノテク学習デバイスで、視覚を通してナノマシーンを直接、大脳へ送り込みます。簡単にその分野のスキルを得られます。</MechSerumNeurotrainer.description>
+    <MechSerumNeurotrainer.comps.1.useLabel>{0}を学ぶためにニューロトレイナーを使う</MechSerumNeurotrainer.comps.1.useLabel>
 
+    <MechSerumHealer.label>シーラムヒーラー</MechSerumHealer.label>
+    <MechSerumHealer.description>使い捨て大容量ナノマシーンを健康状態を回復させる機能に特化させてあります。ナノマシーンは、誰にでも一カ所の最も悪い部位に絞って回復させる。他の方法で不治であったとしても健康になるよう作用する。ナノマシーンは有機質の中で変形すらでき、必要であれば新しい手足や内臓にも形作れる。</MechSerumHealer.description>
+    <MechSerumHealer.comps.1.useLabel>シーラムヒーラーを使う</MechSerumHealer.comps.1.useLabel>
+
+    <MechSerumResurrector.label>シーラムリザレクト</MechSerumResurrector.label>
+    <MechSerumResurrector.description>使い捨て大容量ナノマシーンを蘇生させる機能に特化させてあります。絶命後すぐに投与すれば、ナノマシーンは損傷した部位を修復し、肉体に生を呼び戻します。これらは常に成功するとは限りません - たまに、蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります。ナノマシーンを直ぐに投与すれば、成果もよくなります。</MechSerumResurrector.description>
+    <MechSerumResurrector.comps.1.useLabel>シーラムリザレクトを使う</MechSerumResurrector.comps.1.useLabel>
+
+	<TechprofSubpersonaCore.label>techprof subpersona core</TechprofSubpersonaCore.label>
+	<TechprofSubpersonaCore.description>低グレードのサブペルソナに覆われた小型のAIコアは教育用テクノロジーに特化しています。使用すると、AIは貴方の未収得なテクノロジー一つを即座に習得させます、一度限りしか使用できません。</TechprofSubpersonaCore.description>
 	<!--=============== Thrumbo horn ====================-->
 
 	<ThrumboHorn.label>スランボの角</ThrumboHorn.label>
 	<ThrumboHorn.description>スランボの角、非常に鋭く、とても貴重な為、ほとんどのマーケットで値がつきません。真の意味でのトロフィーです。</ThrumboHorn.description>
+    <ThrumboHorn.tools.0.label>突起</ThrumboHorn.tools.0.label>
+    <ThrumboHorn.tools.1.label>基部</ThrumboHorn.tools.1.label>
 
 	<!--=============== Elephant tusk ====================-->
 
 	<ElephantTusk.label>象の牙</ElephantTusk.label>
 	<ElephantTusk.description>象の牙、とても丈夫で貴重です。破壊的ですが、使いづらい武器にもなります。</ElephantTusk.description>
+    <ElephantTusk.tools.0.label>突起</ElephantTusk.tools.0.label>
+    <ElephantTusk.tools.1.label>基部</ElephantTusk.tools.1.label>
 
 </LanguageData>

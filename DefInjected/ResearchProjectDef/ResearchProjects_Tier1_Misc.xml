@@ -2,6 +2,9 @@
 <LanguageData>
 
     <!--=============================== Tier 1: pre-electricity ===================================-->
+    <RecurveBow.label>リカーブボウ</RecurveBow.label>
+    <RecurveBow.description>進化した製造技術がリカーブボウの製造を可能にします。効果的で費用の掛からない遠距離兵器です。</RecurveBow.description>
+
     <Pemmican.label>ペミカン</Pemmican.label>
     <Pemmican.description>干し肉とドライフルーツを腐らないように加工し保存食にしたペミカンの製造を可能にします。旅行時の持ち歩きに最適です。</Pemmican.description>
 
@@ -9,16 +12,25 @@
     <PassiveCooler.description>電気を使わずに、屋内空間を冷やすことができる、放熱器の製造を可能にします。</PassiveCooler.description>
 
 	<Devilstrand.label>デビルストランド</Devilstrand.label>
-	<Devilstrand.description>植物から取れる繊維を生み出す、育ちの遅いマッシュルームである、デビルストランドの栽培を可能にします。</Devilstrand.description>
+	<Devilstrand.description>貴重な植物繊維を生み出す、育ちの遅いマッシュルーム、デビルストランドの栽培を可能にします。</Devilstrand.description>
+
+    <PsychoidBrewing.label>サイコイド醸造</PsychoidBrewing.label>
+    <PsychoidBrewing.description>サイコイドの葉を水で煮立て、穏やかな多幸感を産み出す中毒性のあるお茶です。</PsychoidBrewing.description>
 
 	<Brewing.label>醸造</Brewing.label>
 	<Brewing.description>ホップを、とても旨いビールにする、醸造器の製造を可能にします。</Brewing.description>
+
+    <Bedrolls.label>寝袋</Bedrolls.label>
+    <Bedrolls.description>寝袋の製作を可能にします。</Bedrolls.description>
+
+    <Beds.label>ベッド</Beds.label>
+    <Beds.description>ベッドの製作を可能にします。</Beds.description>
 
 	<CarpetMaking.label>織機</CarpetMaking.label>
 	<CarpetMaking.description>住環境を改善する絨毯の製造を可能にします。</CarpetMaking.description>
 
 	<Smithing.label>鍛冶</Smithing.label>
-	<Smithing.description>ツールや武器を作れるようになります。</Smithing.description>
+	<Smithing.description>ツールや武器を作れるようになります。\n\nAllows you to craft simple weapons like knives, gladii, and maces.</Smithing.description>
 
 	<Stonecutting.label>ストーンカッター</Stonecutting.label>
 	<Stonecutting.description>ガレキを建設資材として使えるように削り直せる、ストーンカッターの製造を可能にします。</Stonecutting.description>
@@ -27,7 +39,7 @@
 	<ComplexClothing.description>パンツ、ダスターコート、カウボーイハットのような、複雑な衣類の縫製を可能にします。</ComplexClothing.description>
 
 	<DrugProduction.label>ドラッグ製造</DrugProduction.label>
-	<DrugProduction.description>ドラッグ製剤と合成の基礎を学びます。ドラッグラボの製造を可能にします。このドラッグを作るには、より研究が必要となります。</DrugProduction.description>
+	<DrugProduction.description>ドラッグ製剤と合成の基礎を学びます。ドラッグラボの製造を可能にします。特定のドラッグを作るには、より研究が必要となります。</DrugProduction.description>
 
 	<Electricity.label>電気工学 基礎</Electricity.label>
 	<Electricity.description>電気を使った製品を作れるようになります。</Electricity.description>

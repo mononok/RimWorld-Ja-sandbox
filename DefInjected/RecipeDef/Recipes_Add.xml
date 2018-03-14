@@ -17,6 +17,10 @@
     <Make_Apparel_CowboyHat.description>カウボーイハットを縫う。</Make_Apparel_CowboyHat.description>
     <Make_Apparel_CowboyHat.jobString>カウボーイハットを縫製中</Make_Apparel_CowboyHat.jobString>
 
+	<Make_Apparel_BowlerHat.label>山高帽を作る</Make_Apparel_BowlerHat.label>
+    <Make_Apparel_BowlerHat.description>山高帽を縫う。</Make_Apparel_BowlerHat.description>
+	<Make_Apparel_BowlerHat.jobString>山高帽を製作中</Make_Apparel_BowlerHat.jobString>
+
     <Make_Apparel_Tuque.label>ニット帽を縫う</Make_Apparel_Tuque.label>
     <Make_Apparel_Tuque.description>ニット帽を縫う。</Make_Apparel_Tuque.description>
     <Make_Apparel_Tuque.jobString>ニット帽を縫製中</Make_Apparel_Tuque.jobString>
@@ -49,6 +53,18 @@
     <Make_Apparel_TribalA.description>一枚布を縫う。</Make_Apparel_TribalA.description>
     <Make_Apparel_TribalA.jobString>一枚布を縫製中</Make_Apparel_TribalA.jobString>
 
+    <Make_Apparel_TribalHeaddress.label>部族の髪飾りを作る</Make_Apparel_TribalHeaddress.label>
+    <Make_Apparel_TribalHeaddress.description>部族の髪飾りを作る</Make_Apparel_TribalHeaddress.description>
+    <Make_Apparel_TribalHeaddress.jobString>部族の髪飾りを製作中</Make_Apparel_TribalHeaddress.jobString>
+
+    <Make_Apparel_WarMask.label>ウォーマスクを作る</Make_Apparel_WarMask.label>
+    <Make_Apparel_WarMask.description>ウォーマスクを作る</Make_Apparel_WarMask.description>
+    <Make_Apparel_WarMask.jobString>ウォーマスクを製作中</Make_Apparel_WarMask.jobString>
+
+    <Make_Apparel_WarVeil.label>ウォーヴェイルを作る</Make_Apparel_WarVeil.label>
+    <Make_Apparel_WarVeil.description>ウォーヴェイルを作る</Make_Apparel_WarVeil.description>
+    <Make_Apparel_WarVeil.jobString>ウォーヴェイルを製作中</Make_Apparel_WarVeil.jobString>
+
     <Make_MeleeWeapon_Gladius.label>グラディウスを作る</Make_MeleeWeapon_Gladius.label>
     <Make_MeleeWeapon_Gladius.description>グラディウスを作る</Make_MeleeWeapon_Gladius.description>
     <Make_MeleeWeapon_Gladius.jobString>グラディウスを製作中</Make_MeleeWeapon_Gladius.jobString>
@@ -77,6 +93,10 @@
     <Make_MeleeWeapon_Club.description>クラブを作る。</Make_MeleeWeapon_Club.description>
     <Make_MeleeWeapon_Club.jobString>クラブを製作中</Make_MeleeWeapon_Club.jobString>
 
+    <Make_MeleeWeapon_Ikwa.label>ikwaを作る</Make_MeleeWeapon_Ikwa.label>
+    <Make_MeleeWeapon_Ikwa.description>ikwaを作る</Make_MeleeWeapon_Ikwa.description>
+    <Make_MeleeWeapon_Ikwa.jobString>ikwaを製作中</Make_MeleeWeapon_Ikwa.jobString>
+
     <Make_Bow_Short.label>ショートボウを作る</Make_Bow_Short.label>
     <Make_Bow_Short.description>ショートボウを作る。</Make_Bow_Short.description>
     <Make_Bow_Short.jobString>ショートボウを製作中</Make_Bow_Short.jobString>
@@ -84,6 +104,10 @@
     <Make_Pila.label>投槍を作る</Make_Pila.label>
     <Make_Pila.description>投槍を作る。</Make_Pila.description>
     <Make_Pila.jobString>投槍を製作中</Make_Pila.jobString>
+
+    <Make_Bow_Recurve.label>recuve bowを作る</Make_Bow_Recurve.label>
+    <Make_Bow_Recurve.description>recuve bowを作る</Make_Bow_Recurve.description>
+    <Make_Bow_Recurve.jobString>recuve bowを製作中</Make_Bow_Recurve.jobString>
 
     <Make_Bow_Great.label>グレートボウを作る</Make_Bow_Great.label>
     <Make_Bow_Great.description>グレートボウを作る。</Make_Bow_Great.description>
@@ -109,24 +133,26 @@
 	<Make_Apparel_PowerArmor.label>パワーアーマーを作る</Make_Apparel_PowerArmor.label>
 	<Make_Apparel_PowerArmor.description>パワーアーマーを作る。</Make_Apparel_PowerArmor.description>
 	<Make_Apparel_PowerArmor.jobString>パワーアーマーを製作中</Make_Apparel_PowerArmor.jobString>
-	
+
 	<Make_Apparel_ShieldBelt.label>シールドベルトを作る</Make_Apparel_ShieldBelt.label>
 	<Make_Apparel_ShieldBelt.jobString>シールドベルトを製作中</Make_Apparel_ShieldBelt.jobString>
-	
+
 	<Make_Apparel_SmokepopBelt.label>スモークポップベルトを作る</Make_Apparel_SmokepopBelt.label>
 	<Make_Apparel_SmokepopBelt.jobString>スモークポップベルトを製作中</Make_Apparel_SmokepopBelt.jobString>
-	
-	<Make_Apparel_BowlerHat.label>ボウラーハットを作る</Make_Apparel_BowlerHat.label>
-	<Make_Apparel_BowlerHat.jobString>ボウラーハットを製作中</Make_Apparel_BowlerHat.jobString>
 
-    <Make_Gun_Pistol.label>ピストルを作る</Make_Gun_Pistol.label>
-    <Make_Gun_Pistol.description>ピストルを作る。</Make_Gun_Pistol.description>
-    <Make_Gun_Pistol.jobString>ピストルを製作中</Make_Gun_Pistol.jobString>
+
+    <Make_Gun_Revolver.label>リボルバーを作る</Make_Gun_Revolver.label>
+    <Make_Gun_Revolver.description>リボルバーを作る。</Make_Gun_Revolver.description>
+    <Make_Gun_Revolver.jobString>リボルバーを製作中</Make_Gun_Revolver.jobString>
+
+    <Make_Gun_Autopistol.label>自動式拳銃を作る</Make_Gun_Autopistol.label>
+    <Make_Gun_Autopistol.description>自動式拳銃を作る。</Make_Gun_Autopistol.description>
+    <Make_Gun_Autopistol.jobString>自動式拳銃を製作中</Make_Gun_Autopistol.jobString>
 
     <Make_Gun_PumpShotgun.label>ポンプ式散弾銃を作る</Make_Gun_PumpShotgun.label>
     <Make_Gun_PumpShotgun.description>ポンプ式散弾銃を作る。</Make_Gun_PumpShotgun.description>
     <Make_Gun_PumpShotgun.jobString>ポンプ式散弾銃を製作中</Make_Gun_PumpShotgun.jobString>
-    
+
     <Make_Gun_ChainShotgun.label>自動式散弾銃を作る</Make_Gun_ChainShotgun.label>
     <Make_Gun_ChainShotgun.jobString>自動式散弾銃を製作中</Make_Gun_ChainShotgun.jobString>
 
@@ -166,6 +192,22 @@
     <Make_Gun_Minigun.description>ガトリング銃を作る。</Make_Gun_Minigun.description>
     <Make_Gun_Minigun.jobString>ガトリング銃を製作中</Make_Gun_Minigun.jobString>
 
+    <Make_Shell_HighExplosive.label>高性能炸薬弾(HE)を作る</Make_Shell_HighExplosive.label>
+    <Make_Shell_HighExplosive.description>高性能炸薬弾(HE)を作る。</Make_Shell_HighExplosive.description>
+    <Make_Shell_HighExplosive.jobString>高性能炸薬弾(HE)を製作中</Make_Shell_HighExplosive.jobString>
+
+    <Make_Shell_Incendiary.label>焼夷弾を作る</Make_Shell_Incendiary.label>
+    <Make_Shell_Incendiary.description>焼夷弾を作る。</Make_Shell_Incendiary.description>
+    <Make_Shell_Incendiary.jobString>焼夷弾を制作中</Make_Shell_Incendiary.jobString>
+
+    <Make_Shell_EMP.label>EMP弾を作る</Make_Shell_EMP.label>
+    <Make_Shell_EMP.description>EMP弾を作る。</Make_Shell_EMP.description>
+    <Make_Shell_EMP.jobString>EMP弾を制作中</Make_Shell_EMP.jobString>
+
+   <Make_Shell_Firefoam.label>fireform弾を作る</Make_Shell_Firefoam.label>
+   <Make_Shell_Firefoam.description>fireform弾を作る。</Make_Shell_Firefoam.description>
+   <Make_Shell_Firefoam.jobString>fireform弾を制作中</Make_Shell_Firefoam.jobString>
+
 	<Make_GoJuice.label>ゴージュースを調合する</Make_GoJuice.label>
 	<Make_GoJuice.description>ゴージュースを調合する。</Make_GoJuice.description>
 	<Make_GoJuice.jobString>ゴージュースを調合中</Make_GoJuice.jobString>
@@ -189,6 +231,10 @@
 	<Make_SmokeleafJoint.label>ジョイントを調合する</Make_SmokeleafJoint.label>
 	<Make_SmokeleafJoint.description>ジョイントを調合する。</Make_SmokeleafJoint.description>
 	<Make_SmokeleafJoint.jobString>ジョイントを調合中</Make_SmokeleafJoint.jobString>
+
+    <Make_PsychoidPekoe.label>サイコイドペコーを調合する</Make_PsychoidPekoe.label>
+    <Make_PsychoidPekoe.description>サイコイドペコーを調合する。</Make_PsychoidPekoe.description>
+    <Make_PsychoidPekoe.jobString>サイコイドペコーを調合中</Make_PsychoidPekoe.jobString>
 
     <MakeStoneBlocksSandstone.label>砂岩ブロックを作る</MakeStoneBlocksSandstone.label>
     <MakeStoneBlocksSandstone.description>砂岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksSandstone.description>

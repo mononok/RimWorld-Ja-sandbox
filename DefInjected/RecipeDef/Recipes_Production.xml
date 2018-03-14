@@ -17,10 +17,6 @@
     <DestroyWeapon.description>不要な武器を高温で熱して破壊します。溶解するより早く、溶解できないアイテムにも可能ですが、何の資源も得られません。</DestroyWeapon.description>
     <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
 
-	<MakeMortarShell.label>砲弾を作成する</MakeMortarShell.label>
-	<MakeMortarShell.description>砲弾を作成します。</MakeMortarShell.description>
-	<MakeMortarShell.jobString>砲弾を作成中</MakeMortarShell.jobString>
-
     <MakeChemfuelFromWood.label>液化燃料を精製(木材)</MakeChemfuelFromWood.label>
     <MakeChemfuelFromWood.description>木材をガス化することでバイオ液化燃料を作成します。</MakeChemfuelFromWood.description>
     <MakeChemfuelFromWood.jobString>木材を精製中</MakeChemfuelFromWood.jobString>
@@ -33,5 +29,8 @@
 	<MakeComponent.description>コンポーネントを作成します。</MakeComponent.description>
 	<MakeComponent.jobString>コンポーネントを作成中</MakeComponent.jobString>
 
+    <MakeAdvancedComponent.label>先進コンポーネントを作成する</MakeAdvancedComponent.label>
+    <MakeAdvancedComponent.description>先進コンポーネントを作成する。</MakeAdvancedComponent.description>
+    <MakeAdvancedComponent.jobString>先進コンポーネントを作成中</MakeAdvancedComponent.jobString>
 
 </LanguageData>

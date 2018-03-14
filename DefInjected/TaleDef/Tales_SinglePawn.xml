@@ -5,23 +5,23 @@
     <LandedInPod.label>landed in pod</LandedInPod.label>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]が 着陸船で 着陸する</trans>
+		<trans>tale_noun->[pawn_nameShortDef]、着陸船での着陸</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 着陸しようと している。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 着陸しようと している</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 地上に 降り立たとうと している。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルで 地上に 降り立たとうと している</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルごと 地表に 叩き つけられようと している。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルごと 地表に 叩き つけられようと している</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[4]</path>
-		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルの 中で 目を 覚まそうと している。</trans>
+		<trans>image->[circumstance_group]、 [pawn_nameFull]は 脱出カプセルの 中で 目を 覚まそうと している</trans>
 	</rep>
 	<rep>
 		<path>LandedInPod.rulePack.rulesStrings[5]</path>
@@ -97,19 +97,19 @@
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は床に吐いている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は床に吐いている</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、床一面を覆う乾いてカピカピになったゲロを見てうんざりしている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、床一面を覆う乾いてカピカピになったゲロを見てうんざりしている</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、吐き気が二倍になっている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、吐き気が二倍になっている</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[4]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は床に膝をついて吐いている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は床に膝をついて吐いている</trans>
 	</rep>
 	<rep>
 		<path>Vomited.rulePack.rulesStrings[5]</path>
@@ -169,19 +169,19 @@
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、飲みすぎて千鳥足になっている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、飲みすぎて千鳥足になっている</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、頭を後ろにたおし、大きな口を開けてリキュールをガブガブと飲んでいる。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、頭を後ろにたおし、大きな口を開けてリキュールをガブガブと飲んでいる</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、貪欲にリキュールの瓶を集めている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、貪欲にリキュールの瓶を集めている</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[4]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、酒を飲みすぎている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、酒を飲みすぎている</trans>
 	</rep>
 	<rep>
 		<path>Drunk.rulePack.rulesStrings[5]</path>
@@ -289,19 +289,19 @@
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は 気も狂わんばかりに [pawn_possessive]身体についた炎を叩き消している。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 気も狂わんばかりに [pawn_possessive]身体についた炎を叩き消している</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は 炎に包まれている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 炎に包まれている</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は膝をついて、両手で頭に降りかかった火の粉を消そうとしている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は膝をついて、両手で頭に降りかかった火の粉を消そうとしている</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[4]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は 床のうえで燃えながらゴロゴロと転がっている。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 床のうえで燃えながらゴロゴロと転がっている</trans>
 	</rep>
 	<rep>
 		<path>WasOnFire.rulePack.rulesStrings[5]</path>
@@ -364,15 +364,15 @@
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[1]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は 烈火のごとく怒り凶暴になる。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は 烈火のごとく怒り凶暴になる</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[2]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は気が狂い、狂ったように乱暴になる。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は気が狂い、狂ったように乱暴になる</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[3]</path>
-		<trans>image->[circumstance_group]、[pawn_nameFull]は、病的な顔つきで、よろよろと前に進んでいる。</trans>
+		<trans>image->[circumstance_group]、[pawn_nameFull]は、病的な顔つきで、よろよろと前に進んでいる</trans>
 	</rep>
 	<rep>
 		<path>MentalStateBerserk.rulePack.rulesStrings[4]</path>
@@ -459,19 +459,19 @@
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、最終的にはストレスに押しつぶされてあきらめる。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、最終的にはストレスに押しつぶされてあきらめる</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[2]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、抑えきれずにすすり泣いている。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、抑えきれずにすすり泣いている</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[3]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[pawn_possessive]顔をくちゃくちゃにしながら、あたりをよろめいている。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、[pawn_possessive]顔をくちゃくちゃにしながら、あたりをよろめいている</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[4]</path>
-		<trans>circumstance_phrase->服を脱ぎ捨てるふりをしつつwhile attempting to disrobe</trans>
+		<trans>circumstance_phrase->服を脱ぎ捨てるふりをしつつ</trans>
 	</rep>
 	<rep>
 		<path>MentalStateGaveUp.rulePack.rulesStrings[5]</path>
@@ -535,23 +535,23 @@
     <WalkedNaked.label>walked naked</WalkedNaked.label>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  0]</path>
-		<trans>tale_noun->[pawn_nameShortDef]が素っ裸で歩き回っている</trans>
+		<trans>tale_noun->[pawn_nameShortDef]の素っ裸</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、ありのままの姿で[nude_action]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、ありのままの姿で[nude_action]</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、ヌードで[nude_action]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、ヌードで[nude_action]</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、 裸で[nude_action]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、 裸で[nude_action]</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  4]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、 一糸まとわぬ姿で[nude_action]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group]、 一糸まとわぬ姿で[nude_action]</trans>
 	</rep>
     <rep>
 		<path>WalkedNaked.rulePack.rulesStrings[  5]</path>
@@ -636,15 +636,15 @@
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、同じヒューマノイドの肉を[eat_gerund]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] 同じヒューマノイドの肉を[eat_gerund]</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、人の腕のような肉を[eat_gerund]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] 人の腕のような肉を[eat_gerund]</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、ヒューマノイドの新鮮な肉を[eat_gerund]。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] ヒューマノイドの新鮮な肉を[eat_gerund]</trans>
 	</rep>
     <rep>
 		<path>AteRawHumanlikeMeat.rulePack.rulesStrings[  4]</path>
@@ -735,19 +735,19 @@
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]を製作している。[quality_sentence] [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [thing_labelIndefinite]を製作している。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]の[pawn_possessive]作業を完成させている。[quality_sentence] [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [thing_labelIndefinite]の[pawn_possessive]作業を完成させている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]の作業をしている。[quality_sentence] [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [thing_labelIndefinite]の作業をしている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  4]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_labelIndefinite]を作っている。[quality_sentence] [title_sentence]</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [thing_labelIndefinite]を作っている。[quality_sentence] [title_sentence]</trans>
 	</rep>
     <rep>
 		<path>CraftedArt.rulePack.rulesStrings[  5]</path>
@@ -839,7 +839,7 @@
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[thing_label]を掘り当てる。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [thing_label]を掘り当てる</trans>
 	</rep>
     <rep>
 		<path>StruckMineable.rulePack.rulesStrings[  2]</path>
@@ -899,15 +899,15 @@
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  1]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]研究プロジェクトの作業を続けている。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [project_label]研究プロジェクトの作業を続けている</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  2]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]の秘訣を学習している。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [project_label]の秘訣を学習している</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  3]</path>
-		<trans>image->[pawn_nameFull]は、[circumstance_group]、[project_label]を研究している。</trans>
+		<trans>image->[pawn_nameFull]は、[circumstance_group] [project_label]を研究している</trans>
 	</rep>
     <rep>
 		<path>FinishedResearchProject.rulePack.rulesStrings[  4]</path>

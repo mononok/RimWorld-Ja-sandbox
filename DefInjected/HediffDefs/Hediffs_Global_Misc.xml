@@ -24,8 +24,12 @@
 	</rep>
 
 	<Anesthetic.label>麻酔</Anesthetic.label>
+    <CatatonicBreakdown.label>緊張性衰弱</CatatonicBreakdown.label>
+    <CatatonicBreakdown.labelNoun>緊張性衰弱</CatatonicBreakdown.labelNoun>
 
 	<PsychicShock.label>サイキックショック</PsychicShock.label>
+	<PsychicShock.labelNoun>サイキックショック</PsychicShock.labelNoun>
+
 	<CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>
 
 	<FoodPoisoning.label>食中毒</FoodPoisoning.label>
@@ -57,9 +61,10 @@
 	</rep>
 
 	<Pregnant.label>妊娠</Pregnant.label>
+	<Pregnant.labelNoun>妊娠</Pregnant.labelNoun>
 	<rep>
 		<path>Pregnant.stages[0].label</path>
-		<trans>自覚なし</trans>
+		<trans>初期</trans>
 	</rep>
 	<rep>
 		<path>Pregnant.stages[1].label</path>
@@ -71,6 +76,7 @@
 	</rep>
 
 	<HeartAttack.label>心筋梗塞</HeartAttack.label>
+	<HeartAttack.labelNoun>心筋梗塞</HeartAttack.labelNoun>
 	<rep>
 		<path>HeartAttack.stages[0].label</path>
 		<trans>苦痛</trans>
@@ -85,10 +91,13 @@
 	</rep>
 
 	<DrugOverdose.label>ドラッグの過剰摂取</DrugOverdose.label>
+	<DrugOverdose.labelNoun>ドラッグ過剰摂取</DrugOverdose.labelNoun>
 	<DrugOverdose.comps.1.discoverLetterLabel>過剰摂取: {0}</DrugOverdose.comps.1.discoverLetterLabel>
 	<DrugOverdose.comps.1.discoverLetterText>{0} は過剰に摂取している！</DrugOverdose.comps.1.discoverLetterText>
 	<DrugOverdose.stages.0.label>(Hidden)</DrugOverdose.stages.0.label>
 	<DrugOverdose.stages.1.label>軽度</DrugOverdose.stages.1.label>
 	<DrugOverdose.stages.2.label>重度</DrugOverdose.stages.2.label>
+
+    <ResurrectionSickness.label>蘇生後遺症</ResurrectionSickness.label>
 
 </LanguageData>

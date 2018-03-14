@@ -7,15 +7,15 @@
 
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この[sculpture]には 「[image]」様子を[depicts]。 [desc_sentence_group]</trans>
+		<trans>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]。 [desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この[sculpture]には 「[image]」[depiction]が記載されている。 [desc_sentence_group]</trans>
+		<trans>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている。 [desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->[sculpture]の上には 「[image]」[depiction]がある。 [desc_sentence_group]</trans>
+		<trans>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある。 [desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  3]</path>
@@ -27,7 +27,7 @@
 	</rep>
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  5]</path>
-		<trans>sculpture->ピース</trans>
+		<trans>sculpture->一篇の作品</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  6]</path>
@@ -37,59 +37,59 @@
 
     <rep>
 		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この武器には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この武器には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この武器には、「[image]」[depiction]が記載されている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この武器には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->武器の上には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->武器の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
 
 
     <rep>
 		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この銃には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この銃には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この銃には、「[image]」[depiction]が記載されている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この銃には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->銃の上には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->銃の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
 
 
     <rep>
 		<path>ArtDescription_Furniture.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この家具には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この家具には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Furniture.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この家具には、「[image]」[depiction]が記載されている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この家具には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
 	</rep>
     <rep>
 		<path>ArtDescription_Furniture.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->家具の上には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->家具の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
 
 
     <rep>
 		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この石棺には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
 
     <rep>
 		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この石棺には、「[image]」[depiction]が記載されている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->この石棺には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
 	</rep>
 
     <rep>
 		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->石棺の上には、「[image]」[depiction]が彫られている。[desc_sentence_group]</trans>
+		<trans>physical_description_root->石棺の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
 	</rep>
 
 </LanguageData>

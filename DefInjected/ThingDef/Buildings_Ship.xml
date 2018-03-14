@@ -6,29 +6,41 @@
         <Ship_Beam.description>宇宙船構造物を組み立てる為の、船体の主要骨格になります。</Ship_Beam.description>
         <Ship_Beam_Blueprint.label>船体骨格(設計)</Ship_Beam_Blueprint.label>
         <Ship_Beam_Frame.label>船体骨格(施工)</Ship_Beam_Frame.label>
+		<Ship_Beam_Frame.description>宇宙船構造物を組み立てる為の、船体の主要骨格になります。</Ship_Beam_Frame.description>
 
     <!-- Beam -->
         <Ship_CryptosleepCasket.label>宇宙船用冬眠カプセル</Ship_CryptosleepCasket.label>
         <Ship_CryptosleepCasket.description>宇宙空間で何世紀も乗組員を保護し、大気圏突入も可能です。船体骨格に繋げられます。</Ship_CryptosleepCasket.description>
         <Ship_CryptosleepCasket_Blueprint.label>宇宙船用冬眠カプセル(設計)</Ship_CryptosleepCasket_Blueprint.label>
         <Ship_CryptosleepCasket_Frame.label>宇宙船用冬眠カプセル(施工)</Ship_CryptosleepCasket_Frame.label>
+		<Ship_CryptosleepCasket_Frame.description>宇宙空間で何世紀も乗組員を保護し、大気圏突入も可能です。船体骨格に繋げられます。</Ship_CryptosleepCasket_Frame.description>
 
     <!-- Computer core -->
 		<Ship_ComputerCore.label>コンピュータコア</Ship_ComputerCore.label>
         <Ship_ComputerCore.description>航路計画用の既存の人工知能(AI)を強化したコンピュータコアです。</Ship_ComputerCore.description>
 		<Ship_ComputerCore_Blueprint.label>コンピュータコア(設計)</Ship_ComputerCore_Blueprint.label>
 		<Ship_ComputerCore_Frame.label>コンピュータコア(施工)</Ship_ComputerCore_Frame.label>
+		<Ship_ComputerCore_Frame.description>いかなる難問もくぐり抜ける事ができる、超人間的な思考を持ったコンピュータコアです。</Ship_ComputerCore_Frame.description>
 
 		<!-- Reactor -->
 		<Ship_Reactor.label>反物質炉</Ship_Reactor.label>
         <Ship_Reactor.description>船の動力となる、反物質炉です。</Ship_Reactor.description>
 		<Ship_Reactor_Blueprint.label>反物質炉(設計)</Ship_Reactor_Blueprint.label>
 		<Ship_Reactor_Frame.label>反物質炉(施工)</Ship_Reactor_Frame.label>
+		<Ship_Reactor_Frame.description>船を宇宙空間へと送り出す動力です。</Ship_Reactor_Frame.description>
 
 		<!-- Engine -->
 		<Ship_Engine.label>反物質エンジン</Ship_Engine.label>
-        <Ship_Engine.description>船の推進力となる、反物質エンジンです。</Ship_Engine.description>
+        <Ship_Engine.description>船を惑星軌道や恒星間起動に乗せる能力があるエンジンです。</Ship_Engine.description>
 		<Ship_Engine_Blueprint.label>反物質エンジン(設計)</Ship_Engine_Blueprint.label>
 		<Ship_Engine_Frame.label>反物質エンジン(施工)</Ship_Engine_Frame.label>
+		<Ship_Engine_Frame.description>船を惑星軌道や恒星間起動に乗せる能力があるエンジンです。</Ship_Engine_Frame.description>
+
+  <!-- Sensor cluster -->
+    <Ship_SensorCluster.label>船殻センサー束</Ship_SensorCluster.label>
+    <Ship_SensorCluster.description>センサーモジュール、空間における危険を探し出します。</Ship_SensorCluster.description>
+    <Ship_SensorCluster_Blueprint.label>船殻センサー束(設計)</Ship_SensorCluster_Blueprint.label>
+    <Ship_SensorCluster_Frame.label>船殻センサー束(施工)</Ship_SensorCluster_Frame.label>
+	<Ship_SensorCluster_Frame.description>センサーモジュール、空間における危険を探し出します。</Ship_SensorCluster_Frame.description>
 
 </LanguageData>

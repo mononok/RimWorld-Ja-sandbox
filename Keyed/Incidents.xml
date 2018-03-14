@@ -7,7 +7,7 @@
 	<AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました。\n\n入植者は 大丈夫です。 しかし... 多くの {0} は 正気を 失い 暴れだした ようです。</AnimalInsanityMultiple>
 
 	<LetterLabelCropBlight>疫病</LetterLabelCropBlight>
-	<CropBlight>謎の疫病で 農作物が 根こそぎ 枯れました。</CropBlight>
+	<LetterCropBlight>ひとりの入植者が、作物が疫病に冒されている事に気がついた! 疫病が蔓延する前に、疫病に冒された作物を、刈り取るか焼却するべきです。</LetterCropBlight>
 
 	<LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>
 	<MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
@@ -31,7 +31,9 @@
   <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>
 
 <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
-<ShortCircuit>{0}が故障し、 ショートしました。\n\n{1} Wd もの電気が放電され 爆発しました。</ShortCircuit>
+<ShortCircuit>{0}が故障し、 ショートしました。</ShortCircuit>
+  <ShortCircuitStartedFire>{0}が故障し、ショートした結果、火災が発生しました。</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>電気的爆発で バッテリーと繋がっていた {0} Wdのエネルギーが放電しました。</ShortCircuitDischargedEnergy>
 <ShortCircuitWasLarge>とても多くの電気が放電された結果 、 かなり大きな 爆発が 起きました。</ShortCircuitWasLarge>
 <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です。</ShortCircuitWasHuge>
 
@@ -97,7 +99,7 @@
   <LetterAnimalSelfTameAndName>{0}は人なつっこく寄ってきた。入植者達は {1}と名付けた</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0} は加わった</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0}が加わりました</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>放棄されたか、迷子になった {0}のグループが、 迷い込んできました。\n\n彼らは、ヒトには慣れていそうで、コロニーに加わりたそうです。</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
@@ -119,7 +121,11 @@
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 
     <!-- Journey -->
-    <JourneyOffer>何者かが無線であなたに接触し、彼らと共に、あなたも彼らの宇宙船に乗るよう申し出がありました。彼らは、あなたに正確な座標を送ってきました。</JourneyOffer>
+    <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars.</JourneyOffer>
+    <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
+    <EscapeShipFound>Charlon Whitestoneから送られた地点に到着し、秘匿された宇宙船を発見した。\n宇宙船の反応炉は、まだ深い休止状態にあるので、飛ぶことができない。コンピュータコアを使えば起動させることができる。\nCharlon Whitestoneは警告する。再起動シーケンスはおよそ15日程かかり、その間に発生するエネルギー波紋は、かなり遠くからでも探知されてしまうだろう。</EscapeShipFound>
+    <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
+    <EscapeShipLost>Charlon Whitestoneがメッセージを送ってきた。\n彼は、貴方が着陸船での姿勢制御を失っているところを見ている。船が悪人の手に落ちるのを防ぐために、彼は、宇宙船の自爆装置の引き金を引いた結果、船は今やクレーターとなった。\nこの惑星から出る、別の手段を見つける必要があるだろう。</EscapeShipLost>
 
     <!-- Caravan meeting -->
 	<CaravanMeetingTitle>キャラバン隊は、{0}と会いました。</CaravanMeetingTitle>
@@ -127,6 +133,7 @@
     <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
     <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
     <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
+    <CaravanMeeting_TradeIncapable>商取引できるメンバーがいない</CaravanMeeting_TradeIncapable>
 
   <!-- Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
@@ -145,9 +152,8 @@
   <ItemStashQuest_Reject>拒否</ItemStashQuest_Reject>
   <ItemStashQuestFeeDemand>{0}は、隠された埋蔵物の位置を伝える代わりに、{1}シルバーと交換したがっています。</ItemStashQuestFeeDemand>
   <ItemStashSitePart_Unknown>残念ながら、{0}は、誰の物で、何かはわかりませんが、なんとしても、保護すべきです。</ItemStashSitePart_Unknown>
-  <ItemStashSitePart_Nothing>{0}は、未保護であると言っています。</ItemStashSitePart_Nothing>
-  <ItemStashSitePart_Outpost>{0}は、近くに敵の前哨基地があると言っています。</ItemStashSitePart_Outpost>
-  <ItemStashSitePart_Turrets>{0}は、敵のタレットによって囲まれていると言っています。</ItemStashSitePart_Turrets>
-  <ItemStashSitePart_Manhunters>{0}は、人狩り野生生物のグループが居ると言っています。</ItemStashSitePart_Manhunters>
+  <ItemStashSitePart_Nothing>{0}は、無防備であると言っています。</ItemStashSitePart_Nothing>
+  <ItemStashSitePart_Part>{1} と{0}は言います。</ItemStashSitePart_Part>
+
 
 </LanguageData>

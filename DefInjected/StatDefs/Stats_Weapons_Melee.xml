@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MeleeWeapon_DamageAmount.label>攻撃力(白兵戦)</MeleeWeapon_DamageAmount.label>
-	<MeleeWeapon_DamageAmount.description>白兵戦における一発のダメージ量です。</MeleeWeapon_DamageAmount.description>
+	<MeleeWeapon_AverageDPS.label>攻撃力(白兵戦)/秒</MeleeWeapon_AverageDPS.label>
+	<MeleeWeapon_AverageDPS.description>白兵戦における一秒あたりのダメージ量です。</MeleeWeapon_AverageDPS.description>
 
-	<MeleeWeapon_Cooldown.label>クールダウン時間(近接武器)</MeleeWeapon_Cooldown.label>
-	<MeleeWeapon_Cooldown.description>この武器を一度使った後に必要な、待たなければならない時間です。</MeleeWeapon_Cooldown.description>
-	<MeleeWeapon_Cooldown.formatString>{0} 秒</MeleeWeapon_Cooldown.formatString>
+    <MeleeWeapon_DamageMultiplier.label>近接武器でのダメージ倍率です。</MeleeWeapon_DamageMultiplier.label>
+    <MeleeWeapon_DamageMultiplier.description>ダメージ倍率は近接戦闘時に適用されます。</MeleeWeapon_DamageMultiplier.description>
+
+	<MeleeWeapon_CooldownMultiplier.label>クールダウン時間(近接武器)</MeleeWeapon_CooldownMultiplier.label>
+	<MeleeWeapon_CooldownMultiplier.description>この武器を一度使った後に必要な、待たなければならない時間です。</MeleeWeapon_CooldownMultiplier.description>
+	<MeleeWeapon_CooldownMultiplier.formatString>{0} 秒</MeleeWeapon_CooldownMultiplier.formatString>
 
   <!-- Damage multipliers should be stats on stuffs only-->
 

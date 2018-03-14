@@ -24,7 +24,8 @@
     <WorkToBuild.description>作成に必要な、素材やツールが用意されたのちに、構造物を作成するのにかかる工数です。</WorkToBuild.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
-	<DeteriorationRate.description>屋外に放置された時の壊れやすさ、一日毎に、HPから引かれる値です。なんでもない天気よりも、雨天の方が早く劣化します。</DeteriorationRate.description>
+	<DeteriorationRate.description>野外に放置された時の壊れやすさ、一日単位でのHPに与えるダメージ値の平均です。普通の天気よりも、雨天の方が早く劣化します。</DeteriorationRate.description>
+
 	<DeteriorationRate.formatString>{0}/日</DeteriorationRate.formatString>
 
     <Beauty.label>美しさ</Beauty.label>

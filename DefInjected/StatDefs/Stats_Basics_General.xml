@@ -17,11 +17,11 @@
     <Flammability.label>燃えやすさ</Flammability.label>
     <Flammability.description>火の点きやすさ、どのくらい激しく燃えるかを表します。</Flammability.description>
 
-	<WorkToMake.label>製作費</WorkToMake.label>
-	<WorkToMake.description>これを作成するときに、一旦集められる、素材やツールの総量です。</WorkToMake.description>
+	<WorkToMake.label>工数</WorkToMake.label>
+	<WorkToMake.description>作成に必要な、素材やツールが用意されたのちに、物を作成するのにかかる時間です。</WorkToMake.description>
 
-    <WorkToBuild.label>工数</WorkToBuild.label>
-    <WorkToBuild.description>作成に必要な、素材やツールが用意されたのちに、構造物を作成するのにかかる工数です。</WorkToBuild.description>
+    <WorkToBuild.label>建築工数</WorkToBuild.label>
+    <WorkToBuild.description>作成に必要な、素材やツールが用意されたのちに、構造物を建設するのにかかる時間です。</WorkToBuild.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
 	<DeteriorationRate.description>野外に放置された時の壊れやすさ、一日単位でのHPに与えるダメージ値の平均です。普通の天気よりも、雨天の方が早く劣化します。</DeteriorationRate.description>

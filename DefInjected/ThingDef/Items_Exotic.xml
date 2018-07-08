@@ -4,12 +4,12 @@
 	<!--=============== AI persona core ====================-->
 
 	<AIPersonaCore.label>AI人格コア</AIPersonaCore.label>
-	<AIPersonaCore.description>高度な人工知能を納めた、非常に進んだコンピュータコア。本体より分離されて休止状態にありますが、しかるべき所へインストールされれば驚くべき力を発揮します。</AIPersonaCore.description>
+	<AIPersonaCore.description>天才と同等な高度な人工知能を納めた、非常に進んだコンピュータコア。本体より分離されて休止状態にありますが、しかるべき所へインストールされれば驚くべき力を発揮します。</AIPersonaCore.description>
 
 	<!--=============== Neurotrainer ====================-->
 
 	<MechSerumNeurotrainer.label>ニューロトレイナーシーラム</MechSerumNeurotrainer.label>
-	<MechSerumNeurotrainer.description>使い捨てのナノテク学習デバイスで、視覚を通してナノマシーンを直接、大脳へ送り込みます。簡単にその分野のスキルを得られます。</MechSerumNeurotrainer.description>
+	<MechSerumNeurotrainer.description>A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed.</MechSerumNeurotrainer.description>
     <MechSerumNeurotrainer.comps.1.useLabel>{0}を学ぶためにニューロトレイナーシーラムを使う</MechSerumNeurotrainer.comps.1.useLabel>
 
     <MechSerumHealer.label>ヒーラーシーラム</MechSerumHealer.label>
@@ -17,7 +17,7 @@
     <MechSerumHealer.comps.1.useLabel>ヒーラーシーラムを使う</MechSerumHealer.comps.1.useLabel>
 
     <MechSerumResurrector.label>リザレクトシーラム</MechSerumResurrector.label>
-    <MechSerumResurrector.description>使い捨て大容量ナノマシーンを蘇生させる機能に特化させてあります。絶命後すぐに投与すれば、ナノマシーンは損傷した部位を修復し、肉体に生を呼び戻します。これらは常に成功するとは限りません - たまに、蘇生機能は脳にダメージ(盲目や進行性精神病)を与える恐れがあります。ナノマシーンを直ぐに投与すれば、成果もよくなります。</MechSerumResurrector.description>
+    <MechSerumResurrector.description>A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse soon after death, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. Well-preserved bodies can be resurrected, even long after death.</MechSerumResurrector.description>
     <MechSerumResurrector.comps.1.useLabel>リザレクトシーラムを使う</MechSerumResurrector.comps.1.useLabel>
 
 	<TechprofSubpersonaCore.label>研究AI亜人格コア</TechprofSubpersonaCore.label>
@@ -26,14 +26,14 @@
 	<!--=============== Thrumbo horn ====================-->
 
 	<ThrumboHorn.label>スランボの角</ThrumboHorn.label>
-	<ThrumboHorn.description>スランボの角、非常に鋭く、とても貴重な為、ほとんどのマーケットで値がつきません。真の意味でのトロフィーです。</ThrumboHorn.description>
+	<ThrumboHorn.description>A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.</ThrumboHorn.description>
     <ThrumboHorn.tools.0.label>突起</ThrumboHorn.tools.0.label>
     <ThrumboHorn.tools.1.label>基部</ThrumboHorn.tools.1.label>
 
 	<!--=============== Elephant tusk ====================-->
 
 	<ElephantTusk.label>象の牙</ElephantTusk.label>
-	<ElephantTusk.description>象の牙、とても丈夫で貴重です。破壊的ですが、使いづらい武器にもなります。</ElephantTusk.description>
+	<ElephantTusk.description>An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly.</ElephantTusk.description>
     <ElephantTusk.tools.0.label>突起</ElephantTusk.tools.0.label>
     <ElephantTusk.tools.1.label>基部</ElephantTusk.tools.1.label>
 

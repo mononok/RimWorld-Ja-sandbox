@@ -1,16 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MakeKibble.label>ペットフードを作る</MakeKibble.label>
-	<MakeKibble.description>生肉と植物繊維からペットフードを作ります。</MakeKibble.description>
-	<MakeKibble.jobString>ペットフードを作成中</MakeKibble.jobString>
+	<Make_Kibble.label>ペットフードを作る</Make_Kibble.label>
+	<Make_Kibble.description>生肉と植物繊維からペットフードを作ります。</Make_Kibble.description>
+	<Make_Kibble.jobString>ペットフードを作成中</Make_Kibble.jobString>
 
-	<MakePemmican.label>ペミカンを作る</MakePemmican.label>
-	<MakePemmican.description>生肉と植物繊維を組み合わせた保存食です。とても美味しいものではないですが、常温で数年間は保存できます。</MakePemmican.description>
-	<MakePemmican.jobString>ペミカンを調理中</MakePemmican.jobString>
-
-	<MakePemmicanCampfire.label>ペミカンを作る</MakePemmicanCampfire.label>
-	<MakePemmicanCampfire.description>ペミカンを作る。</MakePemmicanCampfire.description>
-	<MakePemmicanCampfire.jobString>ペミカンを調理中</MakePemmicanCampfire.jobString>
+	<Make_Pemmican.label>ペミカンを作る</Make_Pemmican.label>
+	<Make_Pemmican.description>生肉と植物繊維を組み合わせた保存食です。とても美味しいものではないですが、常温で長期間の保存ができます。</Make_Pemmican.description>
+	<Make_Pemmican.jobString>ペミカンを調理中</Make_Pemmican.jobString>
 
 </LanguageData>

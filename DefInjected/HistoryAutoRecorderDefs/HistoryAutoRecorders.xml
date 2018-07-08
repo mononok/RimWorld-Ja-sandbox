@@ -1,12 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WealthTotal.label>総資産</WealthTotal.label>
-	<WealthItems.label>資産(アイテム)</WealthItems.label>
-	<WealthBuildings.label>資産(建物)</WealthBuildings.label>
+	<Wealth_Total.label>総資産</Wealth_Total.label>
+	<Wealth_Total.graphLabelY>総量</Wealth_Total.graphLabelY>
+	<Wealth_Items.label>資産(アイテム)</Wealth_Items.label>
+	<Wealth_Items.graphLabelY>総量</Wealth_Items.graphLabelY>
+	<Wealth_Buildings.label>資産(建物)</Wealth_Buildings.label>
+	<Wealth_Buildings.graphLabelY>総量</Wealth_Buildings.graphLabelY>
+	<Wealth_TameAnimals.label>資産(動物)</Wealth_TameAnimals.label>
+	<Wealth_TameAnimals.graphLabelY>総数</Wealth_TameAnimals.graphLabelY>
 	<FreeColonists.label>入植者</FreeColonists.label>
+	<FreeColonists.graphLabelY>人数</FreeColonists.graphLabelY>
 	<Prisoners.label>囚人</Prisoners.label>
+	<Prisoners.graphLabelY>人数</Prisoners.graphLabelY>
 	<ColonistMood.label>入植者ムード</ColonistMood.label>
+	<ColonistMood.graphLabelY>パーセント</ColonistMood.graphLabelY>
 
 	<!-->
 	<ColonistFear.label>入植者恐怖度</ColonistFear.label>

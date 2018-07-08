@@ -25,7 +25,7 @@
   </rep>
   <rep>
     <path>NewColonyOptimism.stages[0].description</path>
-    <trans>我々は今降り立った。苦しい状況だが、これから新しいコロニーを創立することに興奮している。</trans>
+    <trans>It's a tough situation, but I'm excited to be founding a new settlement.</trans>
   </rep>
 
   <rep>
@@ -119,15 +119,6 @@
   </rep>
 
   <rep>
-    <path>GreenThumbHappy.stages[0].label</path>
-    <trans>豊かな園芸の才能</trans>
-  </rep>
-  <rep>
-    <path>GreenThumbHappy.stages[0].description</path>
-    <trans>この世界にはもっと緑が必要だ！</trans>
-  </rep>
-
-  <rep>
     <path>Catharsis.stages[0].label</path>
     <trans>カタルシス</trans>
   </rep>
@@ -153,6 +144,9 @@
     <path>KnowBuriedInSarcophagus.stages[0].description</path>
     <trans>ここでは、このコロニーの誰かを装飾付きの石棺に埋葬していた。彼の魂に安らぎを</trans>
   </rep>
+
+    <SoakingWet.stages.0.label>soaking wet</SoakingWet.stages.0.label>
+    <SoakingWet.stages.0.description>I'm soaking wet.</SoakingWet.stages.0.description>
 
   <!-- ============== Human corpse butchering ===============-->
 
@@ -243,8 +237,7 @@
     <DefeatedHostileFactionLeader.stages.0.label>敵性リーダー{0}を打ち負かした</DefeatedHostileFactionLeader.stages.0.label>
     <DefeatedHostileFactionLeader.stages.0.description>奴らは我々を滅ぼそうと試みていたが、返り討ちにしてやった!</DefeatedHostileFactionLeader.stages.0.description>
 
-    <DefeatedMajorEnemy.stages.0.label>{0}を打ち負かした</DefeatedMajorEnemy.stages.0.label>
-    <DefeatedMajorEnemy.stages.0.description>大きな脅威を倒した！俺はヒーローだ！</DefeatedMajorEnemy.stages.0.description>
+    <DefeatedHostileFactionLeaderOpinion.stages.0.label>defeated hostile leader</DefeatedHostileFactionLeaderOpinion.stages.0.label>
 
     <ColonistBanished.stages.0.label>入植者を見放した</ColonistBanished.stages.0.label>
     <ColonistBanished.stages.0.description>私たちは誰かをこっそりと置き去りにした。うまくいくことを望んでいるが、心配だ。</ColonistBanished.stages.0.description>
@@ -260,9 +253,12 @@
 
     <!-- Rescue quest -->
     <FailedToRescueRelative.stages.0.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.0.label>
-    <FailedToRescueRelative.stages.0.description>私と関係がある人の蘇生に失敗した。私が彼を助けられたかもしれない事は、私の愛する人の死を受け入れることを更に辛くさせた</FailedToRescueRelative.stages.0.description>
+    <FailedToRescueRelative.stages.0.description>We had a chance to rescue my relative, and failed. I could have helped!</FailedToRescueRelative.stages.0.description>
 
     <RescuedRelative.stages.0.label>{0}を蘇生した</RescuedRelative.stages.0.label>
-    <RescuedRelative.stages.0.description>私と関係のある人が蘇生した。彼が助かったことを知り、私はようやく安堵のため息をついた。</RescuedRelative.stages.0.description>
+    <RescuedRelative.stages.0.description>We rescued one of my relatives. Finally, I can breathe a sigh of relief.</RescuedRelative.stages.0.description>
+
+    <Rescued.stages.0.label>rescued</Rescued.stages.0.label>
+    <Rescued.stages.0.description>I was rescued! I almost thought I was done for back there. I'm so thankful.</Rescued.stages.0.description>
 
 </LanguageData>

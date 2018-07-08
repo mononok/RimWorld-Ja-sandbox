@@ -9,10 +9,6 @@
         <Euthanize.description>安楽死させます。</Euthanize.description>
         <Euthanize.jobString>安楽死</Euthanize.jobString>
 
-        <ShutDownMechanoid.label>シャットダウン</ShutDownMechanoid.label>
-        <ShutDownMechanoid.description>シャットダウンします。</ShutDownMechanoid.description>
-        <ShutDownMechanoid.jobString>シャットダウン</ShutDownMechanoid.jobString>
-
 	<ExciseCarcinoma.label>腫瘍摘出</ExciseCarcinoma.label>
 	<ExciseCarcinoma.description>腫瘍を摘出します。</ExciseCarcinoma.description>
 	<ExciseCarcinoma.jobString>腫瘍の摘出中</ExciseCarcinoma.jobString>
@@ -21,10 +17,6 @@
         <RemoveBodyPart.label>器官を外す</RemoveBodyPart.label>
         <RemoveBodyPart.description>器官を外します。</RemoveBodyPart.description>
         <RemoveBodyPart.jobString>器官を外しています</RemoveBodyPart.jobString>
-
-        <RemoveMechanoidBodyPart.label>部品を外す</RemoveMechanoidBodyPart.label>
-        <RemoveMechanoidBodyPart.description>部品を外します。</RemoveMechanoidBodyPart.description>
-        <RemoveMechanoidBodyPart.jobString>部品を外している</RemoveMechanoidBodyPart.jobString>
 
 	<AdministerMechSerumHealer.label>ニューロヒーラーを投与する</AdministerMechSerumHealer.label>
 	<AdministerMechSerumHealer.description>ニューロヒーラーを投与します。</AdministerMechSerumHealer.description>

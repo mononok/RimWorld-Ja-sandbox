@@ -13,7 +13,7 @@
 
 	<Bullet_Shell_EMP.label>EMP弾</Bullet_Shell_EMP.label>
     <Shell_EMP.label>EMP弾</Shell_EMP.label>
-    <Shell_EMP.description>起爆された時にEMPパルスを発生するように、バッテリーとアンテナが詰め込まれた装弾です。電磁波パルスが一時的に電子回路を使用不能にします。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_EMP.description>
+    <Shell_EMP.description>起爆された時に電磁パルスを発生するように、バッテリーとアンテナが詰め込まれた装弾です。電磁波パルスが一時的に電子回路を使用不能にします。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_EMP.description>
 
   <!-- Firefoam -->
     <Shell_Firefoam.label>消化剤弾</Shell_Firefoam.label>
@@ -22,7 +22,7 @@
     <Bullet_Shell_Firefoam.label>消化剤弾</Bullet_Shell_Firefoam.label>
 
     <Shell_AntigrainWarhead.label>反物質弾</Shell_AntigrainWarhead.label>
-    <Shell_AntigrainWarhead.description>非常に小さい超テクノロジーの弾頭は、ほとんどの場合宇宙船かGlitterworldの戦闘機械で使用されます。反物質粒子からパワーを取り出して、非常に大きな爆発とその周りに延焼を作り出します。迫撃砲弾やトラップに装填して発火させます。ダメージを受ければ爆発します。</Shell_AntigrainWarhead.description>
+    <Shell_AntigrainWarhead.description>An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_AntigrainWarhead.description>
     <Bullet_Shell_AntigrainWarhead.label>反物質弾</Bullet_Shell_AntigrainWarhead.label>
 
 </LanguageData>

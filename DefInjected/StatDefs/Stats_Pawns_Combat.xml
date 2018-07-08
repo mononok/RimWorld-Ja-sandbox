@@ -4,16 +4,19 @@
     <MeleeDPS.label>DPS(白兵戦)</MeleeDPS.label>
     <MeleeDPS.description>白兵戦で与えられる、1秒あたりのダメージ量の平均値です。この数値には、防御側の回避率やアーマーを考慮に入れていません。</MeleeDPS.description>
 
+    <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
+    <MeleeArmorPenetration.description>Average armor penetration of all attacks in melee combat. This stat includes currently used weapon.</MeleeArmorPenetration.description>
+
     <MeleeHitChance.label>命中率(白兵戦)</MeleeHitChance.label>
-    <MeleeHitChance.description>白兵戦時の基本命中率です。</MeleeHitChance.description>
+    <MeleeHitChance.description>Chance to hit a target in melee. The target can still dodge even if we would've hit.</MeleeHitChance.description>
 
 	<MeleeDodgeChance.label>回避率(白兵戦)</MeleeDodgeChance.label>
 	<MeleeDodgeChance.description>他からの近接攻撃を回避する確率です。遠距離射撃を回避することはできません。</MeleeDodgeChance.description>
 
     <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
-    <ShootingAccuracy.description>射撃距離毎の基本成功率です。命中率も、目標、カバーの有無、周囲の環境によって影響を受け、射手を選択してから目標にマウスポインターをホバーすることで命中率を見られます。</ShootingAccuracy.description>
+    <ShootingAccuracy.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracy.description>
 
     <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
-    <AimingDelayFactor.description>照準にかかる時間です。</AimingDelayFactor.description>
+    <AimingDelayFactor.description>How long it takes to shoot after choosing a target.</AimingDelayFactor.description>
 
 </LanguageData>

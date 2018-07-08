@@ -1,33 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
     <!-- ================= Misc ================= -->
-	<Concrete.label>コンクリート打ちっ放し</Concrete.label>
-	<Concrete.description>早く造成されたコンクリート床。早く歩けて、安価ですが、急いで造成するので、見た目が悪いです。</Concrete.description>
+    <Concrete.label>コンクリート打ちっ放し</Concrete.label>
+    <Concrete.description>表面が荒いコンクリート床。その上は早く歩けて、安価で、造成も早いですが、見た目は悪いです。</Concrete.description>
 
-	<PavedTile.label>コンクリ 舗装タイル</PavedTile.label>
-	<PavedTile.description>実用本位のコンクリートタイル。安価で人が動きやすく、見た目も普通ですが、作るのはゆっくりです。</PavedTile.description>
+    <PavedTile.label>コンクリ 舗装タイル</PavedTile.label>
+    <PavedTile.description>コンクリートタイル。安価で人が動きやすく、見た目も普通ですが、作るのはゆっくりです。</PavedTile.description>
 
-	<WoodPlankFloor.label>フローリング</WoodPlankFloor.label>
-    <WoodPlankFloor.description>木のフローリング。暖かで自宅に居る気分になります。</WoodPlankFloor.description>
+    <WoodPlankFloor.label>フローリング</WoodPlankFloor.label>
+    <WoodPlankFloor.description>木のフローリング。暖かで自宅に居る気分になります。敷き詰めるのも早いですが、非常に燃えやすいです。</WoodPlankFloor.description>
 
-	<MetalTile.label>鉄製タイル</MetalTile.label>
-	<MetalTile.description>鉄製タイルの見た目は宇宙船のようですが、やっかいなことに、資源と労力を集中的に必要とします。</MetalTile.description>
+    <MetalTile.label>鉄製タイル</MetalTile.label>
+    <MetalTile.description>Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
 
-	<SilverTile.label>銀製タイル</SilverTile.label>
-	<SilverTile.description>高価で、作るのに時間がかかるが、とても美しい。豪華な部屋にも完璧に似合います。</SilverTile.description>
+    <SilverTile.label>銀製タイル</SilverTile.label>
+    <SilverTile.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness.</SilverTile.description>
 
-	<GoldTile.label>黄金タイル</GoldTile.label>
-	<GoldTile.description>床の素材の中では、もっとも美しく深い感銘を与えます。非常に高価で、製作にはたくさんの資源と労力を必要とします。</GoldTile.description>
+    <GoldTile.label>黄金タイル</GoldTile.label>
+    <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
 
-	<SterileTile.label>抗菌タイル</SterileTile.label>
-	<SterileTile.description>抗菌タイルは部屋を清潔に保つのに役立ちます。病院において患者を日和見感染から防ぐのに非常に有効です。見た目は普通ですが、作るのはとてもゆっくりです。</SterileTile.description>
+    <SterileTile.label>抗菌タイル</SterileTile.label>
+    <SterileTile.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.</SterileTile.description>
 
-	<!-- ================= Carpets ================= -->
+    <!-- ================= Carpets ================= -->
     <CarpetRed.label>赤の絨毯</CarpetRed.label>
     <CarpetRed.description>美しいバラ色の豪華なカーペットです。</CarpetRed.description>
 
     <CarpetGreen.label>緑の絨毯</CarpetGreen.label>
-    <CarpetGreen.description>自然な色合いの緑のカーペットです。</CarpetGreen.description>
+    <CarpetGreen.description>自然な色合いの緑のカーペットです。Earth tones, dude.</CarpetGreen.description>
 
     <CarpetBlue.label>青の絨毯</CarpetBlue.label>
     <CarpetBlue.description>涼しい青い色のつま先にぴったりな豪華なカーペットです。</CarpetBlue.description>
@@ -38,42 +39,5 @@
     <CarpetDark.label>シックな 絨毯</CarpetDark.label>
     <CarpetDark.description>プロフェッショナルな質感の濃い灰色絨毯です。</CarpetDark.description>
 
-    <!-- ================= Foundation solids ================= -->
-  <!-- Special: Floors from stones -->
-
-  <Sandstone_Rough.label>荒い砂岩</Sandstone_Rough.label>
-  <Sandstone_Rough.description>粗く自然な砂岩</Sandstone_Rough.description>
-  <Sandstone_RoughHewn.label>荒削りな砂岩</Sandstone_RoughHewn.label>
-  <Sandstone_RoughHewn.description>ざっくりとカットされた自然な砂岩</Sandstone_RoughHewn.description>
-  <Sandstone_Smooth.label>滑らかな砂岩</Sandstone_Smooth.label>
-  <Sandstone_Smooth.description>滑らかで自然な砂岩</Sandstone_Smooth.description>
-
-  <Granite_Rough.label>荒い花崗岩</Granite_Rough.label>
-  <Granite_Rough.description>粗く自然な花崗岩</Granite_Rough.description>
-  <Granite_RoughHewn.label>荒削りな花崗岩</Granite_RoughHewn.label>
-  <Granite_RoughHewn.description>ざっくりとカットされた自然な花崗岩</Granite_RoughHewn.description>
-  <Granite_Smooth.label>滑らかな花崗岩</Granite_Smooth.label>
-  <Granite_Smooth.description>滑らかで自然な花崗岩</Granite_Smooth.description>
-
-  <Limestone_Rough.label>荒い石灰岩</Limestone_Rough.label>
-  <Limestone_Rough.description>粗く自然な石灰岩</Limestone_Rough.description>
-  <Limestone_RoughHewn.label>荒削りな石灰岩</Limestone_RoughHewn.label>
-  <Limestone_RoughHewn.description>ざっくりとカットされた自然な石灰岩</Limestone_RoughHewn.description>
-  <Limestone_Smooth.label>滑らかな石灰岩</Limestone_Smooth.label>
-  <Limestone_Smooth.description>滑らかで自然な石灰岩</Limestone_Smooth.description>
-
-  <Slate_Rough.label>荒い粘板岩</Slate_Rough.label>
-  <Slate_Rough.description>粗く自然な粘板岩</Slate_Rough.description>
-  <Slate_RoughHewn.label>荒削りな粘板岩</Slate_RoughHewn.label>
-  <Slate_RoughHewn.description>ざっくりとカットされた自然な粘板岩</Slate_RoughHewn.description>
-  <Slate_Smooth.label>滑らかな粘板岩</Slate_Smooth.label>
-  <Slate_Smooth.description>滑らかで自然な粘板岩</Slate_Smooth.description>
-
-  <Marble_Rough.label>荒い大理石</Marble_Rough.label>
-  <Marble_Rough.description>粗く自然な大理石</Marble_Rough.description>
-  <Marble_RoughHewn.label>荒削りな大理石</Marble_RoughHewn.label>
-  <Marble_RoughHewn.description>ざっくりとカットされた自然な大理石</Marble_RoughHewn.description>
-  <Marble_Smooth.label>滑らかな大理石</Marble_Smooth.label>
-  <Marble_Smooth.description>滑らかで自然な大理石</Marble_Smooth.description>
 
 </LanguageData>

@@ -4,20 +4,20 @@
   <Caravan.label>キャラバン隊</Caravan.label>
   <Caravan.description>移動している人達のグループ</Caravan.description>
 
-  <FactionBase.label>派閥の本拠地</FactionBase.label>
-  <FactionBase.description>ある一つの派閥の、本拠地</FactionBase.description>
+  <Settlement.label>Settlement</Settlement.label>
+  <Settlement.description>ある一つの派閥の、本拠地</Settlement.description>
 
-  <AbandonedFactionBase.label>放棄された派閥の本拠地</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>ある一つの派閥の、放棄された本拠地</AbandonedFactionBase.description>
+  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
+  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
 
-  <DestroyedFactionBase.label>破壊された派閥の本拠地</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>ある一つの派閥の、破壊された本拠地</DestroyedFactionBase.description>
+  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
+  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
 
   <EscapeShip.label>着陸した宇宙船</EscapeShip.label>
   <EscapeShip.description>あなたをこの惑星から脱出させることのできる秘匿された宇宙船の位置座標</EscapeShip.description>
 
-  <AttackedCaravan.label>戦闘中のキャラバン隊</AttackedCaravan.label>
-  <AttackedCaravan.description>キャラバン戦闘中</AttackedCaravan.description>
+  <AttackedNonPlayerCaravan.label>戦闘中のキャラバン隊</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>キャラバン戦闘中</AttackedNonPlayerCaravan.description>
 
 
   <TravelingTransportPods.label>輸送ポッド</TravelingTransportPods.label>
@@ -27,7 +27,7 @@
   <RoutePlannerWaypoint.description>一時的なウェイポイント</RoutePlannerWaypoint.description>
 
   <PeaceTalks.label>和平交渉</PeaceTalks.label>
-  <PeaceTalks.description>	和平交渉を行う場所</PeaceTalks.description>
+  <PeaceTalks.description>和平交渉を行う場所</PeaceTalks.description>
 
   <Ambush.label>待ち伏せ</Ambush.label>
   <Ambush.description>待ち伏せによる戦闘が継続中</Ambush.description>

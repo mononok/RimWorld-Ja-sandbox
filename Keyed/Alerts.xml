@@ -16,7 +16,7 @@
   <ColonistsNeedRescueDesc>つぎの入植者は 一歩も動けません。\n\n{0}\n他の入植者に救助を指示して、 ベッドまで運ばせましょう。\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
 
 <NeedDefenses>侵略にそなえる</NeedDefenses>
-<NeedDefensesDesc>宙賊が この村を 品定め しています。 いつ 襲撃を はじめても おかしくありません。\n\n備えあれば 憂いなし です。\n\n彼らに 効果があるかどうかは 別にして、罠、土のう、タレットを いくつか 作りましょう。</NeedDefensesDesc>
+<NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
 
 <NeedDoctor>医者が必要</NeedDoctor>
 <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています。 患者には 治療が 必要ですが、 医者の 作業をする 健常な入植者が いません。\n\n{0}\n健常な 入植者に 医者の 作業を 割り振りましょう。もし、治療せずに ほおっておくと 慢性化して治らなくなるでしょう。</NeedDoctorDesc>
@@ -61,8 +61,15 @@
 <NeedMealSource>食材の調理</NeedMealSource>
 <NeedMealSourceDesc>あなたは、生の食材を ちゃんとした料理にする 手段を持っていません。\n\nペースト ディスペンサー、 カマド、焚き火、または 電気コンロを 作りましょう。\n\n（入植者は囚人ゾーンの調理器を、 使用できません。）</NeedMealSourceDesc>
 
-  <NeedJoySource>娯楽が必要</NeedJoySource>
-  <NeedJoySourceDesc>入植者は、自身の娯楽への欲求を満たす必要がありますが、あなた少しも娯楽施設を建てていません。\n\n輪投げのピン、チェス盤など他の娯楽設備を作って手助けしてあげましょう。</NeedJoySourceDesc>
+  <NeedJoySource>Need recreation variety</NeedJoySource>
+  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
+  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <bored>bored</bored>
+
+  <Boredom>Boredom</Boredom>
+  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
 
 <NeedBatteries>電気をためる</NeedBatteries>
   <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが、バッテリーがありません。 これでは、風が止まったり、太陽が沈んだときに電力を喪失することを意味します。\n\n継続して電力を保証するために、バッテリーを１つないし２つ作りましょう。</NeedBatteriesDesc>
@@ -91,7 +98,7 @@
   <FireInHomeArea>火災発生!</FireInHomeArea>
   <FireInHomeAreaDesc>コロニー内にて火災が発生しています。</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってるひとがいます。\n\n{0}\nできるかぎりの治療が 受けられるか確認しましょう。</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってるひとがいます。\n\n{0}\nもし可能なら、入植者を生かしつづけるためにも、感染部位の切断手術や、移植手術も、検討しましょう。</PawnsWithLifeThreateningDiseaseAmputationDesc>
 

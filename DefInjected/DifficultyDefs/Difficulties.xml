@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Peaceful.label>穏やか(Peace)</Peaceful.label>
-	<Peaceful.description>箱庭的環境で、リラックスしてコロニーを建設できます。\n\n大きな脅威は発生しません、しかし依然として入植者達は気難しく、動物達は気が狂うことがあります。</Peaceful.description>
+    <Peaceful.label>Peaceful</Peaceful.label>
+    <Peaceful.description>Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
 
-	<VeryEasy.label>基地建設(VeryEasy)</VeryEasy.label>
-	<VeryEasy.description>脅威を味わいながらコロニーを建造したいと思う方\n\n危機はありますが、極めて軽微なものです。いくつかの危険なイベントは起きないようになっています。</VeryEasy.description>
+	<Easy.label>Base builder</Easy.label>
+	<Easy.description>Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to relax.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled.</Easy.description>
 
-	<Easy.label>挑戦(Easy)</Easy.label>
-	<Easy.description>初めてゲームをする方や、カジュアルプレイヤーが挑戦するならこれです。危機の規模は、危険が無いぐらいに縮小してあります。</Easy.description>
+	<Medium.label>Medium</Medium.label>
+	<Medium.description>Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.</Medium.description>
 
-	<Medium.label>荒涼とした大地(Medium)</Medium.label>
-	<Medium.description>荒々しい惑星です。\n\n危機はかなり危険なものになります。あなたが、ゲーム内で様々な経験を積むまで、おすすめしません。</Medium.description>
+	<Hard.label>Hard</Hard.label>
+	<Hard.description>Struggle to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play an intense story requiring significant skill to survive.\n\nThere is no perfect game here - some challenges will be impossible to overcome without losses, so you'll have to fight wounded, sacrifice to survive, and recover.</Hard.description>
 
-	<Hard.label>強烈(Hard)</Hard.label>
-	<Hard.description>重大な難問です。\n\nこのレベルで成功するためには、しっかりとした包括的なサバイバル戦略が求められます、それと多少の運も。</Hard.description>
+	<ExtraHard.label>Extra hard</ExtraHard.label>
+	<ExtraHard.description>Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Players with a lot of experience who want to push themselves beyond Hard mode.\n\nSucceeding at this level requires a well-rounded understanding of diverse strategies, an eye towards preparation, and some luck. Threats can spike and combine in vicious ways, so sometimes you'll have to accept serious losses to survive.</ExtraHard.description>
 
-	<VeryHard.label>過激(Extreme)</VeryHard.label>
-	<VeryHard.description>ダイヤモンドの刃先ぐらいの硬派なモードです。\n\n敵は強く、価値は低く、食料は足りず、植民者は気難しい。ヤマイな人々に贈ります。</VeryHard.description>
+	<Extreme.label>Extreme</Extreme.label>
+	<Extreme.description>Apply mastery of every RimWorld skill to survive a harrowing trial against a cruel, unfair world.\n\nRecommended for: Players who want to face brutal, unfair situations that require the deployment of fluent and well-rounded skills just to avoid losing everything.\n\nThere is no clean game here. You'll spend a lot of time fighting wounded and recovering, you'll need to prepare carefully, and you'll need to sacrifice things you love to avoid death.</Extreme.description>
 
 </LanguageData>

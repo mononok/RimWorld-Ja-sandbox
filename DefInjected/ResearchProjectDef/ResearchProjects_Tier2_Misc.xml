@@ -1,40 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--================================ Tier 2: Non-electric ====================================-->
-  <PsychiteRefining.label>サイカイト精製</PsychiteRefining.label>
-  <PsychiteRefining.description>サイコイドの葉を、多幸感を引き起こすサイカイトの異なった形状のドラッグ、フレークやイェイョに精製する方法を学びます。</PsychiteRefining.description>
+    <Electricity.label>電気工学 基礎</Electricity.label>
+    <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
 
-  <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
-  <WakeUpProduction.description>作業効率を上げるドラッグ、ウェイクアップ全合成の手法と製法を学びます。</WakeUpProduction.description>
-
-  <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
-  <GoJuiceProduction.description>戦闘能力を上げる合成ドラッグ、ゴージュース全合成の手法と製法を学びます。</GoJuiceProduction.description>
-
-  <PenoxycylineProduction.label>ペノキシリン製造</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>病気予防ドラッグ、ペノキシリン全合成の手法と製法を学びます。</PenoxycylineProduction.description>
-
-    <LongBlades.label>長剣</LongBlades.label>
-    <LongBlades.description>ロングソード、スピアを作れます。</LongBlades.description>
-
-    <Greatbows.label>グレートボウ</Greatbows.label>
-    <Greatbows.description>高威力なグレートボウの作り方を学びます。</Greatbows.description>
-
-    <!--================================ Tier 2: Basic electricity ====================================-->
     <Batteries.label>バッテリー</Batteries.label>
     <Batteries.description>電気を貯めるバッテリーを作れるようになります。</Batteries.description>
 
-    <Refining.label>製油施設</Refining.label>
-    <Refining.description>木材からバイオ液化燃料を精製する、製油施設を作れるようになります。</Refining.description>
+    <BiofuelRefining.label>biofuel refining</BiofuelRefining.label>
+    <BiofuelRefining.description>Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs.</BiofuelRefining.description>
+
+    <Waterproofing.label>waterproof conduit</Waterproofing.label>
+    <Waterproofing.description>Build underwater electrical conduits.</Waterproofing.description>
 
     <NutrientPaste.label>ペーストディスペンサー</NutrientPaste.label>
-    <NutrientPaste.description>生の栄養のある食材から 効率よく食品を産み出す、ペーストディスペンサーを作れるようになります。</NutrientPaste.description>
+    <NutrientPaste.description>生の栄養のある食材から 効率よく食品を産み出す、ペーストディスペンサーを作れるようになります。, while requiring no labor at all.</NutrientPaste.description>
 
 	<SolarPanels.label>太陽光発電</SolarPanels.label>
 	<SolarPanels.description>太陽光発電装置を作れるようになります。</SolarPanels.description>
 
 	<AirConditioning.label>クーラー</AirConditioning.label>
-	<AirConditioning.description>部屋を冷やしたり、冷凍庫にすることができる、クーラーを作れるようになります。</AirConditioning.description>
+	<AirConditioning.description>Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods.</AirConditioning.description>
 
 	<Autodoors.label>自動ドア</Autodoors.label>
 	<Autodoors.description>出入りに手間取らない、自動ドアを作れるようになります。</Autodoors.description>
@@ -54,41 +40,47 @@
 	<ColoredLights.label>彩色灯</ColoredLights.label>
 	<ColoredLights.description>装飾目的の色つき電球を作れるようになります。</ColoredLights.description>
 
-	<Machining.label>精密工作機械</Machining.label>
-	<Machining.description>動作停止した機械生命体を分解し利用可能な金属を回収したり、銃を加工する精密工作機械を作れるようになります。</Machining.description>
-
 	<IEDs.label>爆発物 IED</IEDs.label>j
 	<IEDs.description>入植者達が、榴弾、EMP、消火器、反物質弾から爆発物を作成できるようになります。</IEDs.description>
 
-	<IEDIncendiary.label>焼夷 IED</IEDIncendiary.label>
-	<IEDIncendiary.description>入植者達が、榴弾から焼夷物を作成できるようになります。</IEDIncendiary.description>
+	<GeothermalPower.label>地熱発電</GeothermalPower.label>
+	<GeothermalPower.description>間欠泉の上部に、24時間発電する地熱発電装置を建設できるようになります。</GeothermalPower.description>
 
-  <Mortars.label>迫撃砲</Mortars.label>
-  <Mortars.description>壁を飛び越え遠くを砲撃できる、迫撃砲を作れるようになります。</Mortars.description>
+	<!--===================== Machining and its children sub-tier ======================-->
+	<Machining.label>精密工作機械</Machining.label>
+	<Machining.description>動作停止した機械生命体を分解し利用可能な金属を回収したり、銃を加工する精密工作機械を作れるようになります。</Machining.description>
+
+	<Mortars.label>迫撃砲</Mortars.label>
+	<Mortars.description>壁を飛び越え遠くを砲撃できる、迫撃砲を作れるようになります。</Mortars.description>
+
+    <SmokepopBelt.label>スモークポップベルト</SmokepopBelt.label>
+    <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた、スモークポップベルトの作成方法を学びます。</SmokepopBelt.description>
+
+	<Prosthetics.label>prosthetics</Prosthetics.label>
+	<Prosthetics.description>Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach.</Prosthetics.description>
 
     <Gunsmithing.label>ガンスミス</Gunsmithing.label>
     <Gunsmithing.description>リボルバー、ライフル、火炎筒投射機のようなシンプルな銃が作れます。</Gunsmithing.description>
 
     <BlowbackOperation.label>ブローバック作動式</BlowbackOperation.label>
-    <BlowbackOperation.description>オートピストル、マシンピストル、SMGのようなシンプルな自動、半自動銃が作れます。</BlowbackOperation.description>
+    <BlowbackOperation.description>Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs.</BlowbackOperation.description>
 
     <GasOperation.label>ガス作動式</GasOperation.label>
-    <GasOperation.description>自動式ショットガン、LMGのような、より進化した自動、半自動銃が作れます。</GasOperation.description>
+    <GasOperation.description>Craft high-power guns like chain shotguns and LMGs.</GasOperation.description>
+
+	<GunTurrets.label>タレット</GunTurrets.label>
+	<GunTurrets.description>全自動のタレットを作ることが可能になります。</GunTurrets.description>
 
     <PrecisionRifling.label>精密なライフリング</PrecisionRifling.label>
     <PrecisionRifling.description>軍用ライフル、スナイパーライフルが作れます。</PrecisionRifling.description>
 
-    <SmokepopBelt.label>スモークポップベルト</SmokepopBelt.label>
-    <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた、スモークポップベルトの作成方法を学びます。</SmokepopBelt.description>
+	<HeavyTurrets.label>autocannon turret</HeavyTurrets.label>
+	<HeavyTurrets.description>Produce the heavy, long-ranged autocannon turret.</HeavyTurrets.description>
 
-	<MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
-	<MicroelectronicsBasics.description>微細で複雑な電子工学の基礎です。これによって、ハイテクリサーチベンチ、通信機器、そして、ブラウン管テレビや疑似冷凍睡眠機など、他の研究プロジェクトをアンロックします。</MicroelectronicsBasics.description>
+	<MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
+	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>
 
-	<!--=============================== Tier 2.5 Microelectronics ===================================-->
-	<TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
-	<TubeTelevision.description>ブラウン管テレビを作ることが可能になります。</TubeTelevision.description>
-
-	<GunTurrets.label>タレット</GunTurrets.label>
-	<GunTurrets.description>全自動のタレットを作ることが可能になります。</GunTurrets.description>
+    <SniperTurret.label>sniper turret</SniperTurret.label>
+    <SniperTurret.description>Produce the extremely long-ranged sniper turret.</SniperTurret.description>
 
 </LanguageData>

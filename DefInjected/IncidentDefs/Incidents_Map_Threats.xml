@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<RaidEnemy.label>敵襲!!</RaidEnemy.label>
+    <RaidEnemy.label>enemy raid</RaidEnemy.label>
 
-	<Infestation.label>虫の襲撃</Infestation.label>
-	<Infestation.letterLabel>虫の襲撃!!</Infestation.letterLabel>
-	<Infestation.letterText>虫の巣が現れた!!\n\nそこから、ゆっくりと、虫が湧くだけでなく、巣も増えていきます。そのエリア一帯に、虫を蔓延させたくないなら、あなたの兵士を召集して、それを退治させます。しかし、気をつけてください。やつらも彼らの巣を守ろうとするでしょう。</Infestation.letterText>
+	<Infestation.label>infestation</Infestation.label>
+	<Infestation.letterText>Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
+	<Infestation.letterLabel>Infestation</Infestation.letterLabel>
 
-	<ManhunterPack.label>マンハンター</ManhunterPack.label>
+    <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
+    <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
+    <DeepDrillInfestation.letterText>You've accidentally drilled a hole in a cave full of insects and now they're tunneling towards you to seek revenge! Beware - the bugs have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
 
-    <PsychicEmanatorShipPartCrash.label>サイキック船</PsychicEmanatorShipPartCrash.label>
-    <PsychicEmanatorShipPartCrash.letterLabel>サイキック船</PsychicEmanatorShipPartCrash.letterLabel>
-    <PsychicEmanatorShipPartCrash.letterText>古代の船の大きなパーツが近くに墜落しました。\n\n入植者達は、いいようのない不安を口々にしています。それは船に搭載された、サイキック照射能力を持ったAIによるものに違いありません。そしてAIは友好的ではありません。\n\nできる限り速やかに破壊してください。</PsychicEmanatorShipPartCrash.letterText>
+    <ManhunterPack.label>manhunter pack</ManhunterPack.label>
 
-    <PoisonShipPartCrash.label>汚染された船</PoisonShipPartCrash.label>
-    <PoisonShipPartCrash.letterLabel>汚染された船</PoisonShipPartCrash.letterLabel>
-    <PoisonShipPartCrash.letterText>古代の船の大きなパーツが近くに墜落しました。\n\nそこから漏れた酸性の物質が、同心円状に広がって植物を枯らして行くでしょう。\n\nできる限り速やかに破壊してください。</PoisonShipPartCrash.letterText>
+    <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
+    <PsychicEmanatorShipPartCrash.letterLabel>Psychic ship</PsychicEmanatorShipPartCrash.letterLabel>
+    <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
 
-    <AnimalInsanityMass.label>野性生物の大暴走</AnimalInsanityMass.label>
-	<AnimalInsanitySingle.label>野生生物の暴走(単体)</AnimalInsanitySingle.label>
+    <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
+    <PoisonShipPartCrash.letterLabel>Poison ship</PoisonShipPartCrash.letterLabel>
+    <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PoisonShipPartCrash.letterText>
+
+    <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+
+    <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
 
 </LanguageData>

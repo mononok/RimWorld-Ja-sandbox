@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<!--Underwall - always at the bottom-->
-		<Underwall.label>地底</Underwall.label>
+	<!--Underwall - always at the bottom-->
+	<Underwall.label>地底</Underwall.label>
+
+	<Bridge.label>橋</Bridge.label>
+	<Bridge.description>A flat wooden surface on supportive beams which can be built over water. You can build non-heavy structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well.</Bridge.description>
 
 </LanguageData>

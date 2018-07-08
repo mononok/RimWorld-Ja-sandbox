@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Meditative -->
 	<Skygaze.reportString>空を眺めている</Skygaze.reportString>
 
 	<Meditate.reportString>瞑想している</Meditate.reportString>
@@ -13,20 +14,24 @@
 
 	<VisitGrave.reportString>墓を訪れている</VisitGrave.reportString>
 	<ViewArt.reportString>アートを鑑賞している</ViewArt.reportString>
+	
+	<!-- Social -->
 	<SocialRelax.reportString>くつろいでいる</SocialRelax.reportString>
 
-	<PlayHorseshoes.reportString>輪投げをして遊んでいる</PlayHorseshoes.reportString>
-    <PlayHoopstone.reportString>フープストーンをして遊んでいる</PlayHoopstone.reportString>
+	<!-- Building interaction -->
+	<Play_Horseshoes.reportString>輪投げをして遊んでいる</Play_Horseshoes.reportString>
+    <Play_Hoopstone.reportString>フープストーンをして遊んでいる</Play_Hoopstone.reportString>
+    <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
+	<Play_Chess.reportString>チェスをして遊んでいる</Play_Chess.reportString>
 
-	<PlayChess.reportString>チェスをして遊んでいる</PlayChess.reportString>
+	<Play_Billiards.reportString>ビリヤードをして遊んでいる</Play_Billiards.reportString>
 
-	<PlayBilliards.reportString>ビリヤードをして遊んでいる</PlayBilliards.reportString>
-
-    <PlayPoker.reportString>ポーカーをして遊んでいる</PlayPoker.reportString>
+    <Play_Poker.reportString>ポーカーをして遊んでいる</Play_Poker.reportString>
 
 	<WatchTelevision.reportString>テレビを見ている</WatchTelevision.reportString>
 
 	<UseTelescope.reportString>望遠鏡で観察している</UseTelescope.reportString>
+
 
     <VisitSickPawn.reportString>TargetA を励ましている</VisitSickPawn.reportString>
 

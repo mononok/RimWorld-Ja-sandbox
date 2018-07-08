@@ -7,7 +7,7 @@
 	</rep>
 	<rep>
 		<path>Nudist.degreeDatas[0].description</path>
-		<trans>NAMEは裸でいた方が、自由でいられる気がして楽しい気分になれます。HECAPは服を着ても構いませんが、着ていないほうがより幸せになれます。</trans>
+		<trans>[PAWN_nameDef]は裸でいた方が、自由でいられる気がして楽しい気分になれます。[PAWN_pronoun]は服を着ても構いませんが、着ていないほうがより幸せになれます。</trans>
 	</rep>
 
 	<rep>
@@ -16,11 +16,11 @@
 	</rep>
 	<rep>
 		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>NAMEは、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 HECAPは、人より倍ほど喧嘩っぱやいです。</trans>
+		<trans>[PAWN_nameDef]は、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 [PAWN_pronoun]は、人より4倍ほど喧嘩っぱやいです。</trans>
 	</rep>
 
 	<Kind.degreeDatas.0.label>善人</Kind.degreeDatas.0.label>
-	<Kind.degreeDatas.0.description>NAMEはイイ人です。HECAPは、いつも皆の心を明るくさせ、他の人を侮辱することはありません。</Kind.degreeDatas.0.description>
+	<Kind.degreeDatas.0.description>[PAWN_nameDef]はイイ人です。[PAWN_pronoun]は、いつも皆の心を明るくさせ、他の人を侮辱することはありません。</Kind.degreeDatas.0.description>
 
 	<rep>
 		<path>Psychopath.degreeDatas[0].label</path>
@@ -28,7 +28,7 @@
 	</rep>
 	<rep>
 		<path>Psychopath.degreeDatas[0].description</path>
-		<trans>NAMEは、人と共感を持ちません。他人の悩みが、HIMを悩ますことは全くありません。他人が殺戮されようが、死体が野ざらしであろうが、奴隷として売られていこうが、 HECAPは、それが自分の身に及ばなければ気にしません。HECAPは、他人と会話しても気分は良くなりません。</trans>
+		<trans>[PAWN_nameDef]は、人と共感を持ちません。他人の悩みが、[PAWN_objective]を悩ますことは全くありません。他人が殺戮されようが、死体が野ざらしであろうが、奴隷として売られていこうが、 [PAWN_pronoun]は、それが自分の身に及ばなければ気にしません。[PAWN_pronoun]は、他人と会話しても気分は良くなりません。</trans>
 	</rep>
 
 	<rep>
@@ -37,7 +37,7 @@
 	</rep>
 	<rep>
 		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>NAMEにとって、人肉を食べることは、身の毛もよだつような悪い事だと思っていました。けれども、はるか遠い昔のある日、HEは、それを試してみた事がありました。。。それから、HEは、その行為が好きになったようです。</trans>
+		<trans>[PAWN_nameDef]にとって、人肉を食べることは、身の毛もよだつような悪い事だと思っていました。けれども、はるか遠い昔のある日、[PAWN_pronoun]は、それを試してみた事がありました。。。それから、[PAWN_pronoun]は、その行為が好きになったようです。</trans>
 	</rep>
 
 	<rep>
@@ -46,7 +46,7 @@
 	</rep>
 	<rep>
 		<path>Abrasive.degreeDatas[0].description</path>
-		<trans>NAMEは、常に気持ちの思うままを口にします、とりわけ、イライラしているときは人々の感情を逆撫でする傾向があります。</trans>
+		<trans>[PAWN_nameDef]は、常に気持ちの思うままを口にします、とりわけ、イライラしているときは人々の感情を逆撫でする傾向があります。</trans>
 	</rep>
 
 	<rep>
@@ -55,7 +55,7 @@
 	</rep>
 	<rep>
 		<path>TooSmart.degreeDatas[0].description</path>
-		<trans>NAMEは、HIS才能以上に 自分自身を利口だと思っています。 HECAPはなんでも他人より早く覚えますが、 かなりの変わり者です。</trans>
+		<trans>[PAWN_nameDef]は、[PAWN_possessive]才能以上に 自分自身を利口だと思っています。 [PAWN_pronoun]はなんでも他人より早く覚えますが、 かなりの変わり者です。</trans>
 	</rep>
 
 	<rep>
@@ -64,7 +64,7 @@
 	</rep>
 	<rep>
 		<path>Brawler.degreeDatas[0].description</path>
-		<trans>NAMEは、殴り合いが好きです。HISCAP格闘での正確さは非常に高くなります。 だから遠距離武器を持たされた時は、とても不機嫌になります。</trans>
+		<trans>[PAWN_nameDef]は、殴り合いが好きです。[PAWN_possessive]格闘での正確さは非常に高くなります。 だから遠距離武器を持たされた時は、とても不機嫌になります。</trans>
 	</rep>
 
 	<rep>
@@ -73,34 +73,7 @@
 	</rep>
 	<rep>
 		<path>Masochist.degreeDatas[0].description</path>
-		<trans>NAMEは痛めつけられる事で興奮します。HECAPが何故そうなのか？は知られていないけれども、変人だということは、よく知られています。</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophile.degreeDatas[0].label</path>
-		<trans>義体化願望</trans>
-	</rep>
-	<rep>
-		<path>Prosthophile.degreeDatas[0].description</path>
-		<trans>NAMEは、弱々しい人間の身体に限界を感じています。HECAPは、しばしば自分が義体化する夢をみます。</trans>
-	</rep>
-
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].label</path>
-		<trans>自然体主義</trans>
-	</rep>
-	<rep>
-		<path>Prosthophobe.degreeDatas[0].description</path>
-		<trans>NAMEは、故あって人体には限界があると信じているので、HEにとって、義体化は倫理に反する事と捉えています。</trans>
-	</rep>
-
-	<rep>
-		<path>GreenThumb.degreeDatas[0].label</path>
-		<trans>庭師の才能</trans>
-	</rep>
-	<rep>
-		<path>GreenThumb.degreeDatas[0].description</path>
-		<trans>NAMEは、ガーディニングへの情熱を持っています。HECAPは、HEが植物を見るたびに気分にボーナスを得ます。</trans>
+		<trans>[PAWN_nameDef]は痛めつけられる事で興奮します。[PAWN_pronoun]が何故そうなのか？は知られていないけれども、変人だということは、よく知られています。</trans>
 	</rep>
 
     <rep>
@@ -109,7 +82,7 @@
     </rep>
     <rep>
         <path>NightOwl.degreeDatas[0].description</path>
-        <trans>NAMEは夜起きて、昼寝るのが好きです。\n\nHECAP は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。</trans>
+        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</trans>
     </rep>
 
     <rep>
@@ -118,7 +91,7 @@
     </rep>
     <rep>
         <path>Greedy.degreeDatas[0].description</path>
-        <trans>NAMEは、豪華な寝室を求めています。HECAPは、HEの望みの寝室が与えられないと気分が悪くなります。</trans>
+        <trans>[PAWN_nameDef]は、豪華な寝室を求めています。[PAWN_pronoun]は、[PAWN_pronoun]の望みの寝室が与えられないと気分が悪くなります。</trans>
     </rep>
 
     <rep>
@@ -127,7 +100,7 @@
     </rep>
     <rep>
         <path>Jealous.degreeDatas[0].description</path>
-        <trans>NAMEは、他の人より見劣りする寝室を持つと自尊心が傷つきます。 HECAPは、他の誰よりも寝室が豪華でないと、気分が悪くなります。</trans>
+        <trans>[PAWN_nameDef]は、他の人より見劣りする寝室を持つと自尊心が傷つきます。 [PAWN_pronoun]は、他の誰よりも寝室が豪華でないと、気分が悪くなります。</trans>
     </rep>
 
     <rep>
@@ -136,7 +109,7 @@
     </rep>
     <rep>
         <path>Ascetic.degreeDatas[0].description</path>
-        <trans>NAMEは 禁欲生活をより好みます。HEの寝室が豪華だったりすると、 HECAPの ムードにマイナスがつきます。HECAPは また手の込んだ食事を嫌い、生のまま食べることを好みます。</trans>
+        <trans>[PAWN_nameDef]は 禁欲生活をより好みます。[PAWN_pronoun]の寝室が豪華だったりすると、 [PAWN_pronoun]の ムードにマイナスがつきます。[PAWN_pronoun]は また手の込んだ食事を嫌い、生のまま食べることを好みます。</trans>
     </rep>
 
 	<rep>
@@ -145,25 +118,7 @@
 	</rep>
 	<rep>
 		<path>Gay.degreeDatas[0].description</path>
-		<trans>NAMEは、HIS同性から 誘惑されることを空想しています。</trans>
-	</rep>
-
-	<rep>
-		<path>DislikesMen.degreeDatas[0].label</path>
-		<trans>男嫌い</trans>
-	</rep>
-	<rep>
-		<path>DislikesMen.degreeDatas[0].description</path>
-		<trans>NAMEは、男嫌いで まったく男性を信用しません。</trans>
-	</rep>
-
-	<rep>
-		<path>DislikesWomen.degreeDatas[0].label</path>
-		<trans>女嫌い</trans>
-	</rep>
-	<rep>
-		<path>DislikesWomen.degreeDatas[0].description</path>
-		<trans>NAMEは、女嫌いで まったく女性を信用しません。</trans>
+		<trans>[PAWN_nameDef]は、[PAWN_possessive]同性から 誘惑されることを空想しています。</trans>
 	</rep>
 
 	<rep>
@@ -172,7 +127,7 @@
 	</rep>
 	<rep>
 		<path>AnnoyingVoice.degreeDatas[0].description</path>
-		<trans>NAMEの声は、とりわけ人をイライラさせる鼻声のよう、HEの、言葉のフレーズは不明瞭で、叫び声のように話しがちです。この事が、HIM 嫌われやすくしています。</trans>
+		<trans>[PAWN_nameDef]の声は、とりわけ人をイライラさせる鼻声のよう、[PAWN_pronoun]の、言葉のフレーズは不明瞭で、叫び声のように話しがちです。この事が、[PAWN_objective] 嫌われやすくしています。</trans>
 	</rep>
 
 	<rep>
@@ -181,7 +136,7 @@
 	</rep>
 	<rep>
 		<path>CreepyBreathing.degreeDatas[0].description</path>
-		<trans>NAMEの息づかいは、いつでも激しく、常に汗をかいているので、人々は気持ち悪がっています。</trans>
+		<trans>[PAWN_nameDef]の息づかいは、いつでも激しく、常に汗をかいているので、人々は気持ち悪がっています。</trans>
 	</rep>
 
 	<rep>
@@ -190,19 +145,44 @@
 	</rep>
 	<rep>
 		<path>Pyromaniac.degreeDatas[0].description</path>
-		<trans>NAMEは、火が大好きです。HECAPは、ちょくちょく火をつけようとしますが、決して消そうとはしません。</trans>
+		<trans>[PAWN_nameDef]は、火が大好きです。[PAWN_pronoun]は、ちょくちょく火をつけようとしますが、決して消そうとはしません。</trans>
 	</rep>
 
 	<Wimp.degreeDatas.0.label>弱虫</Wimp.degreeDatas.0.label>
-	<Wimp.degreeDatas.0.description>NAMEは、弱くて臆病です。ちょっとした痛みでさえ、へたってしまいます。</Wimp.degreeDatas.0.description>
+	<Wimp.degreeDatas.0.description>[PAWN_nameDef]は、弱くて臆病です。ちょっとした痛みでさえ、へたってしまいます。</Wimp.degreeDatas.0.description>
 
     <Nimble.degreeDatas.0.label>敏捷</Nimble.degreeDatas.0.label>
-    <Nimble.degreeDatas.0.description>NAMEは並外れた運動感覚野知性の持ち主です。HECAPは超常的な神の恩寵を受けて危険と隣り合わせにダンスをしているようです。</Nimble.degreeDatas.0.description>
+    <Nimble.degreeDatas.0.description>[PAWN_nameDef]は並外れた運動感覚野知性の持ち主です。[PAWN_pronoun]は超常的な神の恩寵を受けて危険と隣り合わせにダンスをしているようです。</Nimble.degreeDatas.0.description>
 
     <FastLearner.degreeDatas.0.label>物覚えが良い</FastLearner.degreeDatas.0.label>
-    <FastLearner.degreeDatas.0.description>NAMEは物覚えのコツを持っています。HECAPは他の人より早く物事を覚えます。</FastLearner.degreeDatas.0.description>
+    <FastLearner.degreeDatas.0.description>[PAWN_nameDef]は物覚えのコツを持っています。[PAWN_pronoun]は他の人より早く物事を覚えます。</FastLearner.degreeDatas.0.description>
 
-    <SuperImmune.degreeDatas.0.label>超免疫力</SuperImmune.degreeDatas.0.label>
-    <SuperImmune.degreeDatas.0.description>NAMEは生まれつき、強力な免疫システムを備えています。HECAPは普通の人が得られる速度より早く免疫を得られるでしょう、そして他の人は死んでしまうような疾病でも生き残ることができます。</SuperImmune.degreeDatas.0.description>
+    <Indoorsman.degreeDatas.0.label>Indoorsman</Indoorsman.degreeDatas.0.label>
+    <Indoorsman.degreeDatas.0.description>[PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside.</Indoorsman.degreeDatas.0.description>
+
+    <!-- The below really probably should've been spectrum traits -->
+    <Transhumanist.degreeDatas.0.label>transhumanist</Transhumanist.degreeDatas.0.label>
+    <Transhumanist.degreeDatas.0.description>[PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.0.description>
+
+    <BodyPurist.degreeDatas.0.label>body purist</BodyPurist.degreeDatas.0.label>
+    <BodyPurist.degreeDatas.0.description>[PAWN_nameDef] believes the human body is limited for a reason. To [PAWN_objective], artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.0.description>
+
+    <DislikesMen.degreeDatas.0.label>男嫌い</DislikesMen.degreeDatas.0.label>
+    <DislikesMen.degreeDatas.0.description>[PAWN_nameDef]は、男嫌いで まったく男性を信用しません。</DislikesMen.degreeDatas.0.description>
+
+    <DislikesWomen.degreeDatas.0.label>女嫌い</DislikesWomen.degreeDatas.0.label>
+    <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef]は、女嫌いで まったく女性を信用しません。</DislikesWomen.degreeDatas.0.description>
+
+    <GreatMemory.degreeDatas.0.label>great memory</GreatMemory.degreeDatas.0.label>
+    <GreatMemory.degreeDatas.0.description>[PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
+
+    <Tough.degreeDatas.0.label>tough</Tough.degreeDatas.0.label>
+    <Tough.degreeDatas.0.description>[PAWN_nameDef] has thick skin, dense flesh, and durable bones. [PAWN_pronoun] takes much less damage than other people from the same blows. [PAWN_pronoun] is extremely hard to kill.</Tough.degreeDatas.0.description>
+
+    <Gourmand.degreeDatas.0.label>gourmand</Gourmand.degreeDatas.0.label>
+    <Gourmand.degreeDatas.0.description>[PAWN_nameDef]'s life revolves around food. [PAWN_pronoun] gets hungry quickly, and if [PAWN_pronoun] is in a bad mood, [PAWN_pronoun] will often satisfy [PAWN_objective]self by eating.</Gourmand.degreeDatas.0.description>
+
+    <QuickSleeper.degreeDatas.0.label>quick sleeper</QuickSleeper.degreeDatas.0.label>
+    <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef] doesn't need as much sleep as the average person. Whether [PAWN_pronoun]'s sleeping on a bed or on the ground, [PAWN_pronoun] will be fully rested in about two thirds the usual time.</QuickSleeper.degreeDatas.0.description>
 
 </LanguageData>

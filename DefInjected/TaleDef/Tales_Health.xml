@@ -2,421 +2,433 @@
 <LanguageData>
 
 	<!-- Wounded -->
-        <Wounded.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は[victim_nameShortDef]に[wound_name_present]</Wounded.rulePack.rulesStrings.0>
-        <Wounded.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]が[victim_nameShortDef]に[weapon_label]で[wound_name_present]</Wounded.rulePack.rulesStrings.1>
-        <Wounded.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef]に[wound_name_present]、[killer_nameShortDef]</Wounded.rulePack.rulesStrings.2>
-        <Wounded.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]に[weapon_label]で[wound_name_present]、[killer_nameShortDef]</Wounded.rulePack.rulesStrings.3>
-        <Wounded.rulePack.rulesStrings.4>tale_noun->[victim_nameShortDef]に[wound_name_present]</Wounded.rulePack.rulesStrings.4>
+	<Wounded.label>wounded</Wounded.label>
+    <Wounded.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は[VICTIM_nameDef]に[wound_name_present]</Wounded.rulePack.rulesStrings.0>
+    <Wounded.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]が[VICTIM_nameDef]に[WEAPON_label]で[wound_name_present]</Wounded.rulePack.rulesStrings.1>
+    <Wounded.rulePack.rulesStrings.2>tale_noun->[VICTIM_nameDef]に[wound_name_present]、[KILLER_nameDef]</Wounded.rulePack.rulesStrings.2>
+    <Wounded.rulePack.rulesStrings.3>tale_noun->[VICTIM_nameDef]に[WEAPON_label]で[wound_name_present]、[KILLER_nameDef]</Wounded.rulePack.rulesStrings.3>
+    <Wounded.rulePack.rulesStrings.4>tale_noun->[VICTIM_nameDef]に[wound_name_present]</Wounded.rulePack.rulesStrings.4>
 
-        <Wounded.rulePack.rulesStrings.5>image->[killer_nameFull]の[weapon_optional]、[victim_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.5>
-        <Wounded.rulePack.rulesStrings.6>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.6>
-        <Wounded.rulePack.rulesStrings.7>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]に残忍な[wound_name_past]</Wounded.rulePack.rulesStrings.7>
-        <Wounded.rulePack.rulesStrings.8>image->[weapon_optional]、[victim_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.8>
+    <Wounded.rulePack.rulesStrings.5>image->[KILLER_nameFull]の[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.5>
+    <Wounded.rulePack.rulesStrings.6>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.6>
+    <Wounded.rulePack.rulesStrings.7>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]に残忍な[wound_name_past]</Wounded.rulePack.rulesStrings.7>
+    <Wounded.rulePack.rulesStrings.8>image->[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_past]</Wounded.rulePack.rulesStrings.8>
 
-        <Wounded.rulePack.rulesStrings.9>wound_name_past->傷をつけた</Wounded.rulePack.rulesStrings.9>
-        <Wounded.rulePack.rulesStrings.10>wound_name_past->害した</Wounded.rulePack.rulesStrings.10>
-        <Wounded.rulePack.rulesStrings.11>wound_name_past->苦痛を与えた</Wounded.rulePack.rulesStrings.11>
-        <Wounded.rulePack.rulesStrings.12>wound_name_past->暴行をした</Wounded.rulePack.rulesStrings.12>
-        <Wounded.rulePack.rulesStrings.13>wound_name_past->攻撃をした</Wounded.rulePack.rulesStrings.13>
+    <Wounded.rulePack.rulesStrings.9>wound_name_past->傷をつけた</Wounded.rulePack.rulesStrings.9>
+    <Wounded.rulePack.rulesStrings.10>wound_name_past->害した</Wounded.rulePack.rulesStrings.10>
+    <Wounded.rulePack.rulesStrings.11>wound_name_past->苦痛を与えた</Wounded.rulePack.rulesStrings.11>
+    <Wounded.rulePack.rulesStrings.12>wound_name_past->暴行をした</Wounded.rulePack.rulesStrings.12>
+    <Wounded.rulePack.rulesStrings.13>wound_name_past->攻撃をした</Wounded.rulePack.rulesStrings.13>
 
-        <Wounded.rulePack.rulesStrings.14>wound_name_present->傷をつける</Wounded.rulePack.rulesStrings.14>
-        <Wounded.rulePack.rulesStrings.15>wound_name_present->害する</Wounded.rulePack.rulesStrings.15>
-        <Wounded.rulePack.rulesStrings.16>wound_name_present->苦痛を与える</Wounded.rulePack.rulesStrings.16>
-        <Wounded.rulePack.rulesStrings.17>wound_name_present->暴行をする</Wounded.rulePack.rulesStrings.17>
-        <Wounded.rulePack.rulesStrings.18>wound_name_present->攻撃をする</Wounded.rulePack.rulesStrings.18>
+    <Wounded.rulePack.rulesStrings.14>wound_name_present->傷をつける</Wounded.rulePack.rulesStrings.14>
+    <Wounded.rulePack.rulesStrings.15>wound_name_present->害する</Wounded.rulePack.rulesStrings.15>
+    <Wounded.rulePack.rulesStrings.16>wound_name_present->苦痛を与える</Wounded.rulePack.rulesStrings.16>
+    <Wounded.rulePack.rulesStrings.17>wound_name_present->暴行をする</Wounded.rulePack.rulesStrings.17>
+    <Wounded.rulePack.rulesStrings.18>wound_name_present->攻撃をする</Wounded.rulePack.rulesStrings.18>
 
-        <Wounded.rulePack.rulesStrings.19>weapon_optional->[circumstance_group][weapon_label]を使い</Wounded.rulePack.rulesStrings.19>
-        <Wounded.rulePack.rulesStrings.20>weapon_optional->[circumstance_group]</Wounded.rulePack.rulesStrings.20>
+    <Wounded.rulePack.rulesStrings.19>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</Wounded.rulePack.rulesStrings.19>
+    <Wounded.rulePack.rulesStrings.20>with_weapon_optional->[circumstance_group]</Wounded.rulePack.rulesStrings.20>
 
-        <Wounded.rulePack.rulesStrings.21>circumstance_phrase->良心の呵責の欠片もなく</Wounded.rulePack.rulesStrings.21>
-        <Wounded.rulePack.rulesStrings.22>circumstance_phrase->冷淡に</Wounded.rulePack.rulesStrings.22>
-        <Wounded.rulePack.rulesStrings.23>circumstance_phrase->怒りでカッとなり</Wounded.rulePack.rulesStrings.23>
-        <Wounded.rulePack.rulesStrings.24>circumstance_phrase->素早く無駄がなく</Wounded.rulePack.rulesStrings.24>
-        <Wounded.rulePack.rulesStrings.25>circumstance_phrase->無感情で無表情のまま</Wounded.rulePack.rulesStrings.25>
-        <Wounded.rulePack.rulesStrings.26>circumstance_phrase->必要もないのに</Wounded.rulePack.rulesStrings.26>
-        <Wounded.rulePack.rulesStrings.27>circumstance_phrase->卑劣で冷淡なやり方で</Wounded.rulePack.rulesStrings.27>
+    <Wounded.rulePack.rulesStrings.21>circumstance_phrase->良心の呵責の欠片もなく</Wounded.rulePack.rulesStrings.21>
+    <Wounded.rulePack.rulesStrings.22>circumstance_phrase->冷淡に</Wounded.rulePack.rulesStrings.22>
+    <Wounded.rulePack.rulesStrings.23>circumstance_phrase->怒りでカッとなり</Wounded.rulePack.rulesStrings.23>
+    <Wounded.rulePack.rulesStrings.24>circumstance_phrase->素早く無駄がなく</Wounded.rulePack.rulesStrings.24>
+    <Wounded.rulePack.rulesStrings.25>circumstance_phrase->無感情で無表情のまま</Wounded.rulePack.rulesStrings.25>
+    <Wounded.rulePack.rulesStrings.26>circumstance_phrase->必要もないのに</Wounded.rulePack.rulesStrings.26>
+    <Wounded.rulePack.rulesStrings.27>circumstance_phrase->卑劣で冷淡なやり方で</Wounded.rulePack.rulesStrings.27>
 
-        <Wounded.rulePack.rulesStrings.28>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</Wounded.rulePack.rulesStrings.28>
-        <Wounded.rulePack.rulesStrings.29>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</Wounded.rulePack.rulesStrings.29>
-        <Wounded.rulePack.rulesStrings.30>desc_sentence->血の池が[victim_nameShortDef]の身体の周りにある。</Wounded.rulePack.rulesStrings.30>
-        <Wounded.rulePack.rulesStrings.31>desc_sentence->[victim_nameShortDef]が[gore]に覆われている。</Wounded.rulePack.rulesStrings.31>
-        <Wounded.rulePack.rulesStrings.32>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</Wounded.rulePack.rulesStrings.32>
-        <Wounded.rulePack.rulesStrings.33>desc_sentence->[victim_nameShortDef]は痛みで顔をしかめている。</Wounded.rulePack.rulesStrings.33>
-        <Wounded.rulePack.rulesStrings.34>desc_sentence->[victim_nameShortDef]は激しい苦痛で顔をしかめている。</Wounded.rulePack.rulesStrings.34>
-        <Wounded.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef]は[killer_possessive]歯を剥きだしている。</Wounded.rulePack.rulesStrings.35>
-        <Wounded.rulePack.rulesStrings.36>desc_sentence->[killer_nameShortDef]は満足気だ。</Wounded.rulePack.rulesStrings.36>
-        <Wounded.rulePack.rulesStrings.37>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</Wounded.rulePack.rulesStrings.37>
-        <Wounded.rulePack.rulesStrings.38>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</Wounded.rulePack.rulesStrings.38>
-        <Wounded.rulePack.rulesStrings.39>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</Wounded.rulePack.rulesStrings.39>
+    <Wounded.rulePack.rulesStrings.28>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</Wounded.rulePack.rulesStrings.28>
+    <Wounded.rulePack.rulesStrings.29>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</Wounded.rulePack.rulesStrings.29>
+    <Wounded.rulePack.rulesStrings.30>desc_sentence->血の池が[VICTIM_nameDef]の身体の周りにある。</Wounded.rulePack.rulesStrings.30>
+    <Wounded.rulePack.rulesStrings.31>desc_sentence->[VICTIM_nameDef]が[Gore]に覆われている。</Wounded.rulePack.rulesStrings.31>
+    <Wounded.rulePack.rulesStrings.32>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</Wounded.rulePack.rulesStrings.32>
+    <Wounded.rulePack.rulesStrings.33>desc_sentence->[VICTIM_nameDef]は痛みで顔をしかめている。</Wounded.rulePack.rulesStrings.33>
+    <Wounded.rulePack.rulesStrings.34>desc_sentence->[VICTIM_nameDef]は激しい苦痛で顔をしかめている。</Wounded.rulePack.rulesStrings.34>
+    <Wounded.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef]は[KILLER_possessive]歯を剥きだしている。</Wounded.rulePack.rulesStrings.35>
+    <Wounded.rulePack.rulesStrings.36>desc_sentence->[KILLER_nameDef]は満足気だ。</Wounded.rulePack.rulesStrings.36>
+    <Wounded.rulePack.rulesStrings.37>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</Wounded.rulePack.rulesStrings.37>
+    <Wounded.rulePack.rulesStrings.38>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</Wounded.rulePack.rulesStrings.38>
+    <Wounded.rulePack.rulesStrings.39>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</Wounded.rulePack.rulesStrings.39>
 
 	<!-- Downed -->
-        <Downed.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は[victim_nameShortDef]に[wound_name_present]</Downed.rulePack.rulesStrings.0>
-        <Downed.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]は[victim_nameShortDef]に[weapon_label]で[wound_name_present]</Downed.rulePack.rulesStrings.1>
-        <Downed.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef]は[killer_nameShortDef]によって[wound_name_present]</Downed.rulePack.rulesStrings.2>
-        <Downed.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]は[killer_nameShortDef]に[weapon_label]で[wound_name_present]、[killer_nameShortDef]</Downed.rulePack.rulesStrings.3>
-        <Downed.rulePack.rulesStrings.4>tale_noun->[victim_nameShortDef]は[wound_name_present]</Downed.rulePack.rulesStrings.4>
+	<Downed.label>downed</Downed.label>
+    <Downed.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は[VICTIM_nameDef]に[wound_name_present]</Downed.rulePack.rulesStrings.0>
+    <Downed.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]は[VICTIM_nameDef]に[WEAPON_label]で[wound_name_present]</Downed.rulePack.rulesStrings.1>
+    <Downed.rulePack.rulesStrings.2>tale_noun->[VICTIM_nameDef]は[KILLER_nameDef]によって[wound_name_present]</Downed.rulePack.rulesStrings.2>
+    <Downed.rulePack.rulesStrings.3>tale_noun->[VICTIM_nameDef]は[KILLER_nameDef]に[WEAPON_label]で[wound_name_present]、[KILLER_nameDef]</Downed.rulePack.rulesStrings.3>
+    <Downed.rulePack.rulesStrings.4>tale_noun->[VICTIM_nameDef]は[wound_name_present]</Downed.rulePack.rulesStrings.4>
 
-        <Downed.rulePack.rulesStrings.5>image->[killer_nameFull]の[weapon_optional]、[victim_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.5>
-        <Downed.rulePack.rulesStrings.6>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.6>
-        <Downed.rulePack.rulesStrings.7>image->残忍に[killer_nameFull]は[weapon_optional]、[victim_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.7>
-        <Downed.rulePack.rulesStrings.8>image->[weapon_optional]、[victim_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.8>
+    <Downed.rulePack.rulesStrings.5>image->[KILLER_nameFull]の[with_weapon_optional]、[VICTIM_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.5>
+    <Downed.rulePack.rulesStrings.6>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.6>
+    <Downed.rulePack.rulesStrings.7>image->残忍に[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.7>
+    <Downed.rulePack.rulesStrings.8>image->[with_weapon_optional]、[VICTIM_nameFull]は[wound_name_past]</Downed.rulePack.rulesStrings.8>
 
-        <Downed.rulePack.rulesStrings.9>wound_name_past->動けなくなった</Downed.rulePack.rulesStrings.9>
-        <Downed.rulePack.rulesStrings.10>wound_name_past->手足の自由が効かなくなった</Downed.rulePack.rulesStrings.10>
-        <Downed.rulePack.rulesStrings.11>wound_name_past->意識不明になった</Downed.rulePack.rulesStrings.11>
-        <Downed.rulePack.rulesStrings.12>wound_name_past->不自由になった</Downed.rulePack.rulesStrings.12>
+    <Downed.rulePack.rulesStrings.9>wound_name_past->動けなくなった</Downed.rulePack.rulesStrings.9>
+    <Downed.rulePack.rulesStrings.10>wound_name_past->手足の自由が効かなくなった</Downed.rulePack.rulesStrings.10>
+    <Downed.rulePack.rulesStrings.11>wound_name_past->意識不明になった</Downed.rulePack.rulesStrings.11>
+    <Downed.rulePack.rulesStrings.12>wound_name_past->不自由になった</Downed.rulePack.rulesStrings.12>
 
-        <Downed.rulePack.rulesStrings.13>wound_name_present->動けなくなる</Downed.rulePack.rulesStrings.13>
-        <Downed.rulePack.rulesStrings.14>wound_name_present->傷を負う</Downed.rulePack.rulesStrings.14>
-        <Downed.rulePack.rulesStrings.15>wound_name_present->意識不明になる</Downed.rulePack.rulesStrings.15>
-        <Downed.rulePack.rulesStrings.16>wound_name_present->不自由になる</Downed.rulePack.rulesStrings.16>
+    <Downed.rulePack.rulesStrings.13>wound_name_present->動けなくなる</Downed.rulePack.rulesStrings.13>
+    <Downed.rulePack.rulesStrings.14>wound_name_present->傷を負う</Downed.rulePack.rulesStrings.14>
+    <Downed.rulePack.rulesStrings.15>wound_name_present->意識不明になる</Downed.rulePack.rulesStrings.15>
+    <Downed.rulePack.rulesStrings.16>wound_name_present->不自由になる</Downed.rulePack.rulesStrings.16>
 
-        <Downed.rulePack.rulesStrings.17>weapon_optional->[circumstance_group][weapon_label]を使い</Downed.rulePack.rulesStrings.17>
-        <Downed.rulePack.rulesStrings.18>weapon_optional->[circumstance_group]</Downed.rulePack.rulesStrings.18>
+    <Downed.rulePack.rulesStrings.17>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</Downed.rulePack.rulesStrings.17>
+    <Downed.rulePack.rulesStrings.18>with_weapon_optional->[circumstance_group]</Downed.rulePack.rulesStrings.18>
 
-        <Downed.rulePack.rulesStrings.19>circumstance_phrase->良心の呵責の欠片もなく</Downed.rulePack.rulesStrings.19>
-        <Downed.rulePack.rulesStrings.20>circumstance_phrase->冷淡に</Downed.rulePack.rulesStrings.20>
-        <Downed.rulePack.rulesStrings.21>circumstance_phrase->怒りでカッとなり</Downed.rulePack.rulesStrings.21>
-        <Downed.rulePack.rulesStrings.22>circumstance_phrase->素早く無駄がなく</Downed.rulePack.rulesStrings.22>
-        <Downed.rulePack.rulesStrings.23>circumstance_phrase->無感情で無表情のまま</Downed.rulePack.rulesStrings.23>
-        <Downed.rulePack.rulesStrings.24>circumstance_phrase->必要もないのに</Downed.rulePack.rulesStrings.24>
-        <Downed.rulePack.rulesStrings.25>circumstance_phrase->卑劣で冷淡なやり方で</Downed.rulePack.rulesStrings.25>
+    <Downed.rulePack.rulesStrings.19>circumstance_phrase->良心の呵責の欠片もなく</Downed.rulePack.rulesStrings.19>
+    <Downed.rulePack.rulesStrings.20>circumstance_phrase->冷淡に</Downed.rulePack.rulesStrings.20>
+    <Downed.rulePack.rulesStrings.21>circumstance_phrase->怒りでカッとなり</Downed.rulePack.rulesStrings.21>
+    <Downed.rulePack.rulesStrings.22>circumstance_phrase->素早く無駄がなく</Downed.rulePack.rulesStrings.22>
+    <Downed.rulePack.rulesStrings.23>circumstance_phrase->無感情で無表情のまま</Downed.rulePack.rulesStrings.23>
+    <Downed.rulePack.rulesStrings.24>circumstance_phrase->必要もないのに</Downed.rulePack.rulesStrings.24>
+    <Downed.rulePack.rulesStrings.25>circumstance_phrase->卑劣で冷淡なやり方で</Downed.rulePack.rulesStrings.25>
 
-        <Downed.rulePack.rulesStrings.26>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</Downed.rulePack.rulesStrings.26>
-        <Downed.rulePack.rulesStrings.27>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</Downed.rulePack.rulesStrings.27>
-        <Downed.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</Downed.rulePack.rulesStrings.28>
-        <Downed.rulePack.rulesStrings.29>desc_sentence->[victim_nameShortDef]は両目を閉じている。</Downed.rulePack.rulesStrings.29>
-        <Downed.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef]は[killer_possessive]歯を剥きだしている。</Downed.rulePack.rulesStrings.30>
-        <Downed.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef]は満足気だ。</Downed.rulePack.rulesStrings.31>
-        <Downed.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</Downed.rulePack.rulesStrings.32>
-        <Downed.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</Downed.rulePack.rulesStrings.33>
-        <Downed.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</Downed.rulePack.rulesStrings.34>
+    <Downed.rulePack.rulesStrings.26>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</Downed.rulePack.rulesStrings.26>
+    <Downed.rulePack.rulesStrings.27>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</Downed.rulePack.rulesStrings.27>
+    <Downed.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</Downed.rulePack.rulesStrings.28>
+    <Downed.rulePack.rulesStrings.29>desc_sentence->[VICTIM_nameDef]は両目を閉じている。</Downed.rulePack.rulesStrings.29>
+    <Downed.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef]は[KILLER_possessive]歯を剥きだしている。</Downed.rulePack.rulesStrings.30>
+    <Downed.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef]は満足気だ。</Downed.rulePack.rulesStrings.31>
+    <Downed.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</Downed.rulePack.rulesStrings.32>
+    <Downed.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</Downed.rulePack.rulesStrings.33>
+    <Downed.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</Downed.rulePack.rulesStrings.34>
 
 	<!-- KilledLongRange -->
-        <KilledLongRange.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は長距離から[victim_nameShortDef]を[wound_name_present]</KilledLongRange.rulePack.rulesStrings.0>
-        <KilledLongRange.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]は長距離から[weapon_label]で[victim_nameShortDef]を[wound_name_present]</KilledLongRange.rulePack.rulesStrings.1>
-        <KilledLongRange.rulePack.rulesStrings.2>tale_noun->[victim_nameShortDef]を長距離から[wound_name_present]、[killer_nameShortDef]</KilledLongRange.rulePack.rulesStrings.2>
-        <KilledLongRange.rulePack.rulesStrings.3>tale_noun->[victim_nameShortDef]を[weapon_label]で長距離から[wound_name_present]、[killer_nameShortDef]</KilledLongRange.rulePack.rulesStrings.3>
+	<KilledLongRange.label>killed at distance</KilledLongRange.label>
+    <KilledLongRange.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は長距離から[VICTIM_nameDef]を[wound_name_present]</KilledLongRange.rulePack.rulesStrings.0>
+    <KilledLongRange.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]は長距離から[WEAPON_label]で[VICTIM_nameDef]を[wound_name_present]</KilledLongRange.rulePack.rulesStrings.1>
+    <KilledLongRange.rulePack.rulesStrings.2>tale_noun->[VICTIM_nameDef]を長距離から[wound_name_present]、[KILLER_nameDef]</KilledLongRange.rulePack.rulesStrings.2>
+    <KilledLongRange.rulePack.rulesStrings.3>tale_noun->[VICTIM_nameDef]を[WEAPON_label]で長距離から[wound_name_present]、[KILLER_nameDef]</KilledLongRange.rulePack.rulesStrings.3>
 
-        <KilledLongRange.rulePack.rulesStrings.4>image->[killer_nameFull]は[victim_nameFull]に[weapon_optional]、狙いをつけた</KilledLongRange.rulePack.rulesStrings.4>
-        <KilledLongRange.rulePack.rulesStrings.5>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]に[wound_name_present]</KilledLongRange.rulePack.rulesStrings.5>
-        <KilledLongRange.rulePack.rulesStrings.6>image->[killer_nameFull]は冷淡に[weapon_optional]、[victim_nameFull]に[wound_name_present]</KilledLongRange.rulePack.rulesStrings.6>
+    <KilledLongRange.rulePack.rulesStrings.4>image->[KILLER_nameFull]は[VICTIM_nameFull]に[with_weapon_optional]、狙いをつけた</KilledLongRange.rulePack.rulesStrings.4>
+    <KilledLongRange.rulePack.rulesStrings.5>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_present]</KilledLongRange.rulePack.rulesStrings.5>
+    <KilledLongRange.rulePack.rulesStrings.6>image->[KILLER_nameFull]は冷淡に[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_present]</KilledLongRange.rulePack.rulesStrings.6>
 
-        <KilledLongRange.rulePack.rulesStrings.7>wound_name_past->殺害した</KilledLongRange.rulePack.rulesStrings.7>
-        <KilledLongRange.rulePack.rulesStrings.8>wound_name_past->殺した</KilledLongRange.rulePack.rulesStrings.8>
-        <KilledLongRange.rulePack.rulesStrings.9>wound_name_past->打ちのめした</KilledLongRange.rulePack.rulesStrings.9>
-        <KilledLongRange.rulePack.rulesStrings.10>wound_name_past->排除した</KilledLongRange.rulePack.rulesStrings.10>
+    <KilledLongRange.rulePack.rulesStrings.7>wound_name_past->殺害した</KilledLongRange.rulePack.rulesStrings.7>
+    <KilledLongRange.rulePack.rulesStrings.8>wound_name_past->殺した</KilledLongRange.rulePack.rulesStrings.8>
+    <KilledLongRange.rulePack.rulesStrings.9>wound_name_past->打ちのめした</KilledLongRange.rulePack.rulesStrings.9>
+    <KilledLongRange.rulePack.rulesStrings.10>wound_name_past->排除した</KilledLongRange.rulePack.rulesStrings.10>
 
-        <KilledLongRange.rulePack.rulesStrings.11>wound_name_present->殺害する</KilledLongRange.rulePack.rulesStrings.11>
-        <KilledLongRange.rulePack.rulesStrings.12>wound_name_present->殺す</KilledLongRange.rulePack.rulesStrings.12>
-        <KilledLongRange.rulePack.rulesStrings.13>wound_name_present->打ちのめす</KilledLongRange.rulePack.rulesStrings.13>
-        <KilledLongRange.rulePack.rulesStrings.14>wound_name_present->排除する</KilledLongRange.rulePack.rulesStrings.14>
+    <KilledLongRange.rulePack.rulesStrings.11>wound_name_present->殺害する</KilledLongRange.rulePack.rulesStrings.11>
+    <KilledLongRange.rulePack.rulesStrings.12>wound_name_present->殺す</KilledLongRange.rulePack.rulesStrings.12>
+    <KilledLongRange.rulePack.rulesStrings.13>wound_name_present->打ちのめす</KilledLongRange.rulePack.rulesStrings.13>
+    <KilledLongRange.rulePack.rulesStrings.14>wound_name_present->排除する</KilledLongRange.rulePack.rulesStrings.14>
 
-        <KilledLongRange.rulePack.rulesStrings.15>weapon_optional->[circumstance_group][weapon_label]を使い</KilledLongRange.rulePack.rulesStrings.15>
-        <KilledLongRange.rulePack.rulesStrings.16>weapon_optional->[circumstance_group]</KilledLongRange.rulePack.rulesStrings.16>
+    <KilledLongRange.rulePack.rulesStrings.15>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</KilledLongRange.rulePack.rulesStrings.15>
+    <KilledLongRange.rulePack.rulesStrings.16>with_weapon_optional->[circumstance_group]</KilledLongRange.rulePack.rulesStrings.16>
 
-        <KilledLongRange.rulePack.rulesStrings.17>circumstance_phrase->良心の呵責の欠片もなく</KilledLongRange.rulePack.rulesStrings.17>
-        <KilledLongRange.rulePack.rulesStrings.18>circumstance_phrase->冷淡に</KilledLongRange.rulePack.rulesStrings.18>
-        <KilledLongRange.rulePack.rulesStrings.19>circumstance_phrase->長距離から</KilledLongRange.rulePack.rulesStrings.19>
-        <KilledLongRange.rulePack.rulesStrings.20>circumstance_phrase->高い所から</KilledLongRange.rulePack.rulesStrings.20>
-        <KilledLongRange.rulePack.rulesStrings.21>circumstance_phrase->無感情で無表情のまま</KilledLongRange.rulePack.rulesStrings.21>
-        <KilledLongRange.rulePack.rulesStrings.22>circumstance_phrase->卑劣で冷淡なやり方で</KilledLongRange.rulePack.rulesStrings.22>
+    <KilledLongRange.rulePack.rulesStrings.17>circumstance_phrase->良心の呵責の欠片もなく</KilledLongRange.rulePack.rulesStrings.17>
+    <KilledLongRange.rulePack.rulesStrings.18>circumstance_phrase->冷淡に</KilledLongRange.rulePack.rulesStrings.18>
+    <KilledLongRange.rulePack.rulesStrings.19>circumstance_phrase->長距離から</KilledLongRange.rulePack.rulesStrings.19>
+    <KilledLongRange.rulePack.rulesStrings.20>circumstance_phrase->高い所から</KilledLongRange.rulePack.rulesStrings.20>
+    <KilledLongRange.rulePack.rulesStrings.21>circumstance_phrase->無感情で無表情のまま</KilledLongRange.rulePack.rulesStrings.21>
+    <KilledLongRange.rulePack.rulesStrings.22>circumstance_phrase->卑劣で冷淡なやり方で</KilledLongRange.rulePack.rulesStrings.22>
 
-        <KilledLongRange.rulePack.rulesStrings.23>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</KilledLongRange.rulePack.rulesStrings.23>
-        <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</KilledLongRange.rulePack.rulesStrings.24>
-        <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</KilledLongRange.rulePack.rulesStrings.25>
-        <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef]は両目を閉じている。</KilledLongRange.rulePack.rulesStrings.26>
-        <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef]が[gore]に覆われている。</KilledLongRange.rulePack.rulesStrings.27>
-        <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[killer_nameShortDef]は[killer_possessive]歯を剥きだしている。</KilledLongRange.rulePack.rulesStrings.28>
-        <KilledLongRange.rulePack.rulesStrings.29>desc_sentence->[killer_nameShortDef]は満足気だ。</KilledLongRange.rulePack.rulesStrings.29>
-        <KilledLongRange.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</KilledLongRange.rulePack.rulesStrings.30>
-        <KilledLongRange.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</KilledLongRange.rulePack.rulesStrings.31>
-        <KilledLongRange.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</KilledLongRange.rulePack.rulesStrings.32>
+    <KilledLongRange.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</KilledLongRange.rulePack.rulesStrings.23>
+    <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</KilledLongRange.rulePack.rulesStrings.24>
+    <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</KilledLongRange.rulePack.rulesStrings.25>
+    <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef]は両目を閉じている。</KilledLongRange.rulePack.rulesStrings.26>
+    <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef]が[Gore]に覆われている。</KilledLongRange.rulePack.rulesStrings.27>
+    <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef]は[KILLER_possessive]歯を剥きだしている。</KilledLongRange.rulePack.rulesStrings.28>
+    <KilledLongRange.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef]は満足気だ。</KilledLongRange.rulePack.rulesStrings.29>
+    <KilledLongRange.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</KilledLongRange.rulePack.rulesStrings.30>
+    <KilledLongRange.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</KilledLongRange.rulePack.rulesStrings.31>
+    <KilledLongRange.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</KilledLongRange.rulePack.rulesStrings.32>
 
 	<!-- KilledMelee -->
-        <KilledMelee.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]白兵戦中、[victim_nameShortDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.0>
-        <KilledMelee.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]、[weapon_label]による格闘中、[victim_nameShortDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.1>
-        <KilledMelee.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef]格闘戦で、[victim_nameShortDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.2>
-        <KilledMelee.rulePack.rulesStrings.3>tale_noun->[weapon_label]を使った[killer_nameShortDef]の白兵戦、[victim_nameShortDef]の[wound_name_present]</KilledMelee.rulePack.rulesStrings.3>
+	<KilledMelee.label>killed in melee</KilledMelee.label>
+    <KilledMelee.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]白兵戦中、[VICTIM_nameDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.0>
+    <KilledMelee.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]、[WEAPON_label]による格闘中、[VICTIM_nameDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.1>
+    <KilledMelee.rulePack.rulesStrings.2>tale_noun->[KILLER_nameDef]格闘戦で、[VICTIM_nameDef]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.2>
+    <KilledMelee.rulePack.rulesStrings.3>tale_noun->[WEAPON_label]を使った[KILLER_nameDef]の白兵戦、[VICTIM_nameDef]の[wound_name_present]</KilledMelee.rulePack.rulesStrings.3>
 
-        <KilledMelee.rulePack.rulesStrings.4>image->[weapon_optional]、[killer_nameFull]は[victim_nameFull]に[wound_name_past]</KilledMelee.rulePack.rulesStrings.4>
-        <KilledMelee.rulePack.rulesStrings.5>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.5>
-        <KilledMelee.rulePack.rulesStrings.6>image->[killer_nameFull]は[weapon_optional]、残忍に[victim_nameFull]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.6>
-        <KilledMelee.rulePack.rulesStrings.7>image->[weapon_optinal]で[victim_nameFull]は[wound_name_past]</KilledMelee.rulePack.rulesStrings.7>
+    <KilledMelee.rulePack.rulesStrings.4>image->[with_weapon_optional]、[KILLER_nameFull]は[VICTIM_nameFull]に[wound_name_past]</KilledMelee.rulePack.rulesStrings.4>
+    <KilledMelee.rulePack.rulesStrings.5>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.5>
+    <KilledMelee.rulePack.rulesStrings.6>image->[KILLER_nameFull]は[with_weapon_optional]、残忍に[VICTIM_nameFull]に[wound_name_present]</KilledMelee.rulePack.rulesStrings.6>
+    <KilledMelee.rulePack.rulesStrings.7>image->[weapon_optinal]で[VICTIM_nameFull]は[wound_name_past]</KilledMelee.rulePack.rulesStrings.7>
 
-        <KilledMelee.rulePack.rulesStrings.8>wound_name_past->殺害した</KilledMelee.rulePack.rulesStrings.8>
-        <KilledMelee.rulePack.rulesStrings.9>wound_name_past->殺した</KilledMelee.rulePack.rulesStrings.9>
-        <KilledMelee.rulePack.rulesStrings.10>wound_name_past->打ちのめした</KilledMelee.rulePack.rulesStrings.10>
-        <KilledMelee.rulePack.rulesStrings.11>wound_name_past->バラバラにした</KilledMelee.rulePack.rulesStrings.11>
+    <KilledMelee.rulePack.rulesStrings.8>wound_name_past->殺害した</KilledMelee.rulePack.rulesStrings.8>
+    <KilledMelee.rulePack.rulesStrings.9>wound_name_past->殺した</KilledMelee.rulePack.rulesStrings.9>
+    <KilledMelee.rulePack.rulesStrings.10>wound_name_past->打ちのめした</KilledMelee.rulePack.rulesStrings.10>
+    <KilledMelee.rulePack.rulesStrings.11>wound_name_past->バラバラにした</KilledMelee.rulePack.rulesStrings.11>
 
-        <KilledMelee.rulePack.rulesStrings.12>wound_name_present->殺害する</KilledMelee.rulePack.rulesStrings.12>
-        <KilledMelee.rulePack.rulesStrings.13>wound_name_present->殺す</KilledMelee.rulePack.rulesStrings.13>
-        <KilledMelee.rulePack.rulesStrings.14>wound_name_present->打ちのめす</KilledMelee.rulePack.rulesStrings.14>
-        <KilledMelee.rulePack.rulesStrings.15>wound_name_present->バラバラにする</KilledMelee.rulePack.rulesStrings.15>
+    <KilledMelee.rulePack.rulesStrings.12>wound_name_present->殺害する</KilledMelee.rulePack.rulesStrings.12>
+    <KilledMelee.rulePack.rulesStrings.13>wound_name_present->殺す</KilledMelee.rulePack.rulesStrings.13>
+    <KilledMelee.rulePack.rulesStrings.14>wound_name_present->打ちのめす</KilledMelee.rulePack.rulesStrings.14>
+    <KilledMelee.rulePack.rulesStrings.15>wound_name_present->バラバラにする</KilledMelee.rulePack.rulesStrings.15>
 
-        <KilledMelee.rulePack.rulesStrings.16>weapon_optional->[circumstance_group][weapon_label]を使い</KilledMelee.rulePack.rulesStrings.16>
-        <KilledMelee.rulePack.rulesStrings.17>weapon_optional->[circumstance_group]</KilledMelee.rulePack.rulesStrings.17>
+    <KilledMelee.rulePack.rulesStrings.16>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</KilledMelee.rulePack.rulesStrings.16>
+    <KilledMelee.rulePack.rulesStrings.17>with_weapon_optional->[circumstance_group]</KilledMelee.rulePack.rulesStrings.17>
 
-        <KilledMelee.rulePack.rulesStrings.18>circumstance_phrase->良心の呵責の欠片もなく</KilledMelee.rulePack.rulesStrings.18>
-        <KilledMelee.rulePack.rulesStrings.19>circumstance_phrase->冷淡に</KilledMelee.rulePack.rulesStrings.19>
-        <KilledMelee.rulePack.rulesStrings.20>circumstance_phrase->素早く無駄がなく</KilledMelee.rulePack.rulesStrings.20>
-        <KilledMelee.rulePack.rulesStrings.21>circumstance_phrase->無感情で無表情のまま</KilledMelee.rulePack.rulesStrings.21>
-        <KilledMelee.rulePack.rulesStrings.22>circumstance_phrase->卑劣で冷淡なやり方で</KilledMelee.rulePack.rulesStrings.22>
+    <KilledMelee.rulePack.rulesStrings.18>circumstance_phrase->良心の呵責の欠片もなく</KilledMelee.rulePack.rulesStrings.18>
+    <KilledMelee.rulePack.rulesStrings.19>circumstance_phrase->冷淡に</KilledMelee.rulePack.rulesStrings.19>
+    <KilledMelee.rulePack.rulesStrings.20>circumstance_phrase->素早く無駄がなく</KilledMelee.rulePack.rulesStrings.20>
+    <KilledMelee.rulePack.rulesStrings.21>circumstance_phrase->無感情で無表情のまま</KilledMelee.rulePack.rulesStrings.21>
+    <KilledMelee.rulePack.rulesStrings.22>circumstance_phrase->卑劣で冷淡なやり方で</KilledMelee.rulePack.rulesStrings.22>
 
-        <KilledMelee.rulePack.rulesStrings.23>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</KilledMelee.rulePack.rulesStrings.23>
-        <KilledMelee.rulePack.rulesStrings.24>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</KilledMelee.rulePack.rulesStrings.24>
-        <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</KilledMelee.rulePack.rulesStrings.25>
-        <KilledMelee.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef]は両目を閉じている。</KilledMelee.rulePack.rulesStrings.26>
-        <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef]が[gore]に覆われている。</KilledMelee.rulePack.rulesStrings.27>
-        <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef]と[killer_nameShortDef]の双方ともに[gore]に覆われている。</KilledMelee.rulePack.rulesStrings.28>
-        <KilledMelee.rulePack.rulesStrings.29>desc_sentence->[killer_nameShortDef]が[gore]に覆われている。</KilledMelee.rulePack.rulesStrings.29>
-        <KilledMelee.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef]は[killer_possessive]歯を剥きだしている。</KilledMelee.rulePack.rulesStrings.30>
-        <KilledMelee.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef]は満足気だ。</KilledMelee.rulePack.rulesStrings.31>
-        <KilledMelee.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</KilledMelee.rulePack.rulesStrings.32>
-        <KilledMelee.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</KilledMelee.rulePack.rulesStrings.33>
-        <KilledMelee.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</KilledMelee.rulePack.rulesStrings.34>
-        <KilledMelee.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef]は野獣のような表情をしている。</KilledMelee.rulePack.rulesStrings.35>
+    <KilledMelee.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</KilledMelee.rulePack.rulesStrings.23>
+    <KilledMelee.rulePack.rulesStrings.24>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</KilledMelee.rulePack.rulesStrings.24>
+    <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</KilledMelee.rulePack.rulesStrings.25>
+    <KilledMelee.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef]は両目を閉じている。</KilledMelee.rulePack.rulesStrings.26>
+    <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef]が[Gore]に覆われている。</KilledMelee.rulePack.rulesStrings.27>
+    <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に覆われている。</KilledMelee.rulePack.rulesStrings.28>
+    <KilledMelee.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef]が[Gore]に覆われている。</KilledMelee.rulePack.rulesStrings.29>
+    <KilledMelee.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef]は[KILLER_possessive]歯を剥きだしている。</KilledMelee.rulePack.rulesStrings.30>
+    <KilledMelee.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef]は満足気だ。</KilledMelee.rulePack.rulesStrings.31>
+    <KilledMelee.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</KilledMelee.rulePack.rulesStrings.32>
+    <KilledMelee.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</KilledMelee.rulePack.rulesStrings.33>
+    <KilledMelee.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</KilledMelee.rulePack.rulesStrings.34>
+    <KilledMelee.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef]は野獣のような表情をしている。</KilledMelee.rulePack.rulesStrings.35>
 
 	<!-- KilledMajorThreat -->
-        <KilledMajorThreat.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は[victim_nameShortDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.0>
-        <KilledMajorThreat.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]は[weapon_label]で[victim_nameShortDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.1>
-        <KilledMajorThreat.rulePack.rulesStrings.2>tale_noun->[killer_nameShortDef]、[victim_nameShortDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.2>
-        <KilledMajorThreat.rulePack.rulesStrings.3>tale_noun->[killer_nameShortDef][weapon_label]で、[victim_nameShortDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.3>
+	<KilledMajorThreat.label>killed major threat</KilledMajorThreat.label>
+    <KilledMajorThreat.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は[VICTIM_nameDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.0>
+    <KilledMajorThreat.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]は[WEAPON_label]で[VICTIM_nameDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.1>
+    <KilledMajorThreat.rulePack.rulesStrings.2>tale_noun->[KILLER_nameDef]、[VICTIM_nameDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.2>
+    <KilledMajorThreat.rulePack.rulesStrings.3>tale_noun->[KILLER_nameDef][WEAPON_label]で、[VICTIM_nameDef]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.3>
 
-        <KilledMajorThreat.rulePack.rulesStrings.4>image->[weapon_optional]、[killer_nameFull]は[victim_nameFull]に[wound_name_past]</KilledMajorThreat.rulePack.rulesStrings.4>
-        <KilledMajorThreat.rulePack.rulesStrings.5>image->[killer_nameFull]は[weapon_optional]、[victim_nameFull]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.5>
-        <KilledMajorThreat.rulePack.rulesStrings.6>image->[killer_nameFull]は[weapon_optional]、残忍に[victim_nameFull]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.6>
-        <KilledMajorThreat.rulePack.rulesStrings.7>image->[weapon_optinal]で[victim_nameFull]は[wound_name_past]</KilledMajorThreat.rulePack.rulesStrings.7>
+    <KilledMajorThreat.rulePack.rulesStrings.4>image->[with_weapon_optional]、[KILLER_nameFull]は[VICTIM_nameFull]に[wound_name_past]</KilledMajorThreat.rulePack.rulesStrings.4>
+    <KilledMajorThreat.rulePack.rulesStrings.5>image->[KILLER_nameFull]は[with_weapon_optional]、[VICTIM_nameFull]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.5>
+    <KilledMajorThreat.rulePack.rulesStrings.6>image->[KILLER_nameFull]は[with_weapon_optional]、残忍に[VICTIM_nameFull]に[wound_name_present]</KilledMajorThreat.rulePack.rulesStrings.6>
+    <KilledMajorThreat.rulePack.rulesStrings.7>image->[weapon_optinal]で[VICTIM_nameFull]は[wound_name_past]</KilledMajorThreat.rulePack.rulesStrings.7>
 
-        <KilledMajorThreat.rulePack.rulesStrings.8>wound_name_past->殺した</KilledMajorThreat.rulePack.rulesStrings.8>
-        <KilledMajorThreat.rulePack.rulesStrings.9>wound_name_past->負かした</KilledMajorThreat.rulePack.rulesStrings.9>
-        <KilledMajorThreat.rulePack.rulesStrings.10>wound_name_past->打ち勝った</KilledMajorThreat.rulePack.rulesStrings.10>
-        <KilledMajorThreat.rulePack.rulesStrings.11>wound_name_present->殺す</KilledMajorThreat.rulePack.rulesStrings.11>
-        <KilledMajorThreat.rulePack.rulesStrings.12>wound_name_present->負かす</KilledMajorThreat.rulePack.rulesStrings.12>
-        <KilledMajorThreat.rulePack.rulesStrings.13>wound_name_present->打ち勝つ</KilledMajorThreat.rulePack.rulesStrings.13>
-        <KilledMajorThreat.rulePack.rulesStrings.14>weapon_optional->[circumstance_group][weapon_label]を使い</KilledMajorThreat.rulePack.rulesStrings.14>
-        <KilledMajorThreat.rulePack.rulesStrings.15>weapon_optional->[circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.15>
+    <KilledMajorThreat.rulePack.rulesStrings.8>wound_name_past->殺した</KilledMajorThreat.rulePack.rulesStrings.8>
+    <KilledMajorThreat.rulePack.rulesStrings.9>wound_name_past->負かした</KilledMajorThreat.rulePack.rulesStrings.9>
+    <KilledMajorThreat.rulePack.rulesStrings.10>wound_name_past->打ち勝った</KilledMajorThreat.rulePack.rulesStrings.10>
+    <KilledMajorThreat.rulePack.rulesStrings.11>wound_name_present->殺す</KilledMajorThreat.rulePack.rulesStrings.11>
+    <KilledMajorThreat.rulePack.rulesStrings.12>wound_name_present->負かす</KilledMajorThreat.rulePack.rulesStrings.12>
+    <KilledMajorThreat.rulePack.rulesStrings.13>wound_name_present->打ち勝つ</KilledMajorThreat.rulePack.rulesStrings.13>
+    <KilledMajorThreat.rulePack.rulesStrings.14>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</KilledMajorThreat.rulePack.rulesStrings.14>
+    <KilledMajorThreat.rulePack.rulesStrings.15>with_weapon_optional->[circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.15>
 
-        <KilledMajorThreat.rulePack.rulesStrings.16>circumstance_phrase->冷淡に</KilledMajorThreat.rulePack.rulesStrings.16>
-        <KilledMajorThreat.rulePack.rulesStrings.17>circumstance_phrase->素早く無駄がなく</KilledMajorThreat.rulePack.rulesStrings.17>
-        <KilledMajorThreat.rulePack.rulesStrings.18>circumstance_phrase->無感情で無表情のまま</KilledMajorThreat.rulePack.rulesStrings.18>
-        <KilledMajorThreat.rulePack.rulesStrings.19>circumstance_phrase->優れた英雄的行為で</KilledMajorThreat.rulePack.rulesStrings.19>
-        <KilledMajorThreat.rulePack.rulesStrings.20>circumstance_phrase->信じがたい力で</KilledMajorThreat.rulePack.rulesStrings.20>
+    <KilledMajorThreat.rulePack.rulesStrings.16>circumstance_phrase->冷淡に</KilledMajorThreat.rulePack.rulesStrings.16>
+    <KilledMajorThreat.rulePack.rulesStrings.17>circumstance_phrase->素早く無駄がなく</KilledMajorThreat.rulePack.rulesStrings.17>
+    <KilledMajorThreat.rulePack.rulesStrings.18>circumstance_phrase->無感情で無表情のまま</KilledMajorThreat.rulePack.rulesStrings.18>
+    <KilledMajorThreat.rulePack.rulesStrings.19>circumstance_phrase->優れた英雄的行為で</KilledMajorThreat.rulePack.rulesStrings.19>
+    <KilledMajorThreat.rulePack.rulesStrings.20>circumstance_phrase->信じがたい力で</KilledMajorThreat.rulePack.rulesStrings.20>
 
-        <KilledMajorThreat.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</KilledMajorThreat.rulePack.rulesStrings.21>
-        <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</KilledMajorThreat.rulePack.rulesStrings.22>
-        <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</KilledMajorThreat.rulePack.rulesStrings.23>
-        <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->[victim_nameShortDef]は両目を閉じている。</KilledMajorThreat.rulePack.rulesStrings.24>
-        <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[victim_nameShortDef]が[gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.25>
-        <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[victim_nameShortDef]と[killer_nameShortDef]の双方ともに[gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.26>
-        <KilledMajorThreat.rulePack.rulesStrings.27>desc_sentence->[victim_nameShortDef]の骸がそびえ立つ、[killer_nameShortDef]。</KilledMajorThreat.rulePack.rulesStrings.27>
-        <KilledMajorThreat.rulePack.rulesStrings.28>desc_sentence->[victim_nameShortDef]の大量の屍骸が[terrainfeature]を埋め尽くす。</KilledMajorThreat.rulePack.rulesStrings.28>
-        <KilledMajorThreat.rulePack.rulesStrings.29>desc_sentence->[victim_nameShortDef]の両目が[color]に染まる。</KilledMajorThreat.rulePack.rulesStrings.29>
-        <KilledMajorThreat.rulePack.rulesStrings.30>desc_sentence->[killer_nameShortDef]が[gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.30>
-        <KilledMajorThreat.rulePack.rulesStrings.31>desc_sentence->[killer_nameShortDef]は[killer_possessive]歯を剥きだしている。</KilledMajorThreat.rulePack.rulesStrings.31>
-        <KilledMajorThreat.rulePack.rulesStrings.32>desc_sentence->[killer_nameShortDef]は満足気だ。</KilledMajorThreat.rulePack.rulesStrings.32>
-        <KilledMajorThreat.rulePack.rulesStrings.33>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</KilledMajorThreat.rulePack.rulesStrings.33>
-        <KilledMajorThreat.rulePack.rulesStrings.34>desc_sentence->[killer_nameShortDef]は[badassadjective]のようだ。</KilledMajorThreat.rulePack.rulesStrings.34>
-        <KilledMajorThreat.rulePack.rulesStrings.35>desc_sentence->[killer_nameShortDef]は雄々しいオーラを放っている。</KilledMajorThreat.rulePack.rulesStrings.35>
+    <KilledMajorThreat.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</KilledMajorThreat.rulePack.rulesStrings.21>
+    <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</KilledMajorThreat.rulePack.rulesStrings.22>
+    <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</KilledMajorThreat.rulePack.rulesStrings.23>
+    <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef]は両目を閉じている。</KilledMajorThreat.rulePack.rulesStrings.24>
+    <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef]が[Gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.25>
+    <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef]と[KILLER_nameDef]の双方ともに[Gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.26>
+    <KilledMajorThreat.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef]の骸がそびえ立つ、[KILLER_nameDef]。</KilledMajorThreat.rulePack.rulesStrings.27>
+    <KilledMajorThreat.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef]の大量の屍骸が[TerrainFeature]を埋め尽くす。</KilledMajorThreat.rulePack.rulesStrings.28>
+    <KilledMajorThreat.rulePack.rulesStrings.29>desc_sentence->[VICTIM_nameDef]の両目が[Color]に染まる。</KilledMajorThreat.rulePack.rulesStrings.29>
+    <KilledMajorThreat.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef]が[Gore]に覆われている。</KilledMajorThreat.rulePack.rulesStrings.30>
+    <KilledMajorThreat.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef]は[KILLER_possessive]歯を剥きだしている。</KilledMajorThreat.rulePack.rulesStrings.31>
+    <KilledMajorThreat.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef]は満足気だ。</KilledMajorThreat.rulePack.rulesStrings.32>
+    <KilledMajorThreat.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</KilledMajorThreat.rulePack.rulesStrings.33>
+    <KilledMajorThreat.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef]は[AdjectiveBadass]のようだ。</KilledMajorThreat.rulePack.rulesStrings.34>
+    <KilledMajorThreat.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef]は雄々しいオーラを放っている。</KilledMajorThreat.rulePack.rulesStrings.35>
 
 	<!-- KilledCapacity -->
-        <KilledCapacity.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は[victim_nameShortDef]に[wound_name_present]</KilledCapacity.rulePack.rulesStrings.0>
-        <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]は[weapon_label]で[victim_nameShortDef]に[wound_name_present]</KilledCapacity.rulePack.rulesStrings.1>
+	<KilledCapacity.label>killed</KilledCapacity.label>
+    <KilledCapacity.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は[VICTIM_nameDef]に[wound_name_present]</KilledCapacity.rulePack.rulesStrings.0>
+    <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef]は[WEAPON_label]で[VICTIM_nameDef]に[wound_name_present]</KilledCapacity.rulePack.rulesStrings.1>
 
-        <KilledCapacity.rulePack.rulesStrings.2>image->[killer_nameFull]は[victim_nameFull]の[capacity_label] [weapon_optional]、[cap_removal]</KilledCapacity.rulePack.rulesStrings.2>
-        <KilledCapacity.rulePack.rulesStrings.3>image->[killer_nameFull] [wound_name_present] [victim_nameFull] by [cap_removal] their [capacity_label] [weapon_optional]</KilledCapacity.rulePack.rulesStrings.3>
+    <KilledCapacity.rulePack.rulesStrings.2>image->[KILLER_nameFull]は[VICTIM_nameFull]の[CAPACITY_label] [with_weapon_optional]、[cap_removal]</KilledCapacity.rulePack.rulesStrings.2>
+    <KilledCapacity.rulePack.rulesStrings.3>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] by [cap_removal] their [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.3>
 
-        <KilledCapacity.rulePack.rulesStrings.4>cap_removal->破壊している</KilledCapacity.rulePack.rulesStrings.4>
-        <KilledCapacity.rulePack.rulesStrings.5>cap_removal->除去している</KilledCapacity.rulePack.rulesStrings.5>
-        <KilledCapacity.rulePack.rulesStrings.6>cap_removal->絶っている</KilledCapacity.rulePack.rulesStrings.6>
+    <KilledCapacity.rulePack.rulesStrings.4>cap_removal->破壊している</KilledCapacity.rulePack.rulesStrings.4>
+    <KilledCapacity.rulePack.rulesStrings.5>cap_removal->除去している</KilledCapacity.rulePack.rulesStrings.5>
+    <KilledCapacity.rulePack.rulesStrings.6>cap_removal->絶っている</KilledCapacity.rulePack.rulesStrings.6>
 
-        <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->殺した</KilledCapacity.rulePack.rulesStrings.7>
-        <KilledCapacity.rulePack.rulesStrings.8>wound_name_past->処刑した</KilledCapacity.rulePack.rulesStrings.8>
-        <KilledCapacity.rulePack.rulesStrings.9>wound_name_past->暗殺した</KilledCapacity.rulePack.rulesStrings.9>
-        <KilledCapacity.rulePack.rulesStrings.10>wound_name_past->排除した</KilledCapacity.rulePack.rulesStrings.10>
-        <KilledCapacity.rulePack.rulesStrings.11>wound_name_present->殺す</KilledCapacity.rulePack.rulesStrings.11>
-        <KilledCapacity.rulePack.rulesStrings.12>wound_name_present->処刑する</KilledCapacity.rulePack.rulesStrings.12>
-        <KilledCapacity.rulePack.rulesStrings.13>wound_name_present->暗殺する</KilledCapacity.rulePack.rulesStrings.13>
-        <KilledCapacity.rulePack.rulesStrings.14>wound_name_present->排除する</KilledCapacity.rulePack.rulesStrings.14>
+    <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->殺した</KilledCapacity.rulePack.rulesStrings.7>
+    <KilledCapacity.rulePack.rulesStrings.8>wound_name_past->処刑した</KilledCapacity.rulePack.rulesStrings.8>
+    <KilledCapacity.rulePack.rulesStrings.9>wound_name_past->暗殺した</KilledCapacity.rulePack.rulesStrings.9>
+    <KilledCapacity.rulePack.rulesStrings.10>wound_name_past->排除した</KilledCapacity.rulePack.rulesStrings.10>
+    <KilledCapacity.rulePack.rulesStrings.11>wound_name_present->殺す</KilledCapacity.rulePack.rulesStrings.11>
+    <KilledCapacity.rulePack.rulesStrings.12>wound_name_present->処刑する</KilledCapacity.rulePack.rulesStrings.12>
+    <KilledCapacity.rulePack.rulesStrings.13>wound_name_present->暗殺する</KilledCapacity.rulePack.rulesStrings.13>
+    <KilledCapacity.rulePack.rulesStrings.14>wound_name_present->排除する</KilledCapacity.rulePack.rulesStrings.14>
 
-        <KilledCapacity.rulePack.rulesStrings.15>weapon_optional->[circumstance_group][weapon_label]を使い</KilledCapacity.rulePack.rulesStrings.15>
-        <KilledCapacity.rulePack.rulesStrings.16>weapon_optional->[circumstance_group]</KilledCapacity.rulePack.rulesStrings.16>
+    <KilledCapacity.rulePack.rulesStrings.15>with_weapon_optional->[circumstance_group][WEAPON_label]を使い</KilledCapacity.rulePack.rulesStrings.15>
+    <KilledCapacity.rulePack.rulesStrings.16>with_weapon_optional->[circumstance_group]</KilledCapacity.rulePack.rulesStrings.16>
 
-        <KilledCapacity.rulePack.rulesStrings.17>circumstance_phrase->良心の呵責の欠片もなく</KilledCapacity.rulePack.rulesStrings.17>
-        <KilledCapacity.rulePack.rulesStrings.18>circumstance_phrase->冷淡に</KilledCapacity.rulePack.rulesStrings.18>
-        <KilledCapacity.rulePack.rulesStrings.19>circumstance_phrase->素早く無駄がなく</KilledCapacity.rulePack.rulesStrings.19>
-        <KilledCapacity.rulePack.rulesStrings.20>circumstance_phrase->無感情で無表情のまま</KilledCapacity.rulePack.rulesStrings.20>
+    <KilledCapacity.rulePack.rulesStrings.17>circumstance_phrase->良心の呵責の欠片もなく</KilledCapacity.rulePack.rulesStrings.17>
+    <KilledCapacity.rulePack.rulesStrings.18>circumstance_phrase->冷淡に</KilledCapacity.rulePack.rulesStrings.18>
+    <KilledCapacity.rulePack.rulesStrings.19>circumstance_phrase->素早く無駄がなく</KilledCapacity.rulePack.rulesStrings.19>
+    <KilledCapacity.rulePack.rulesStrings.20>circumstance_phrase->無感情で無表情のまま</KilledCapacity.rulePack.rulesStrings.20>
 
-        <KilledCapacity.rulePack.rulesStrings.21>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</KilledCapacity.rulePack.rulesStrings.21>
-        <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</KilledCapacity.rulePack.rulesStrings.22>
-        <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</KilledCapacity.rulePack.rulesStrings.23>
-        <KilledCapacity.rulePack.rulesStrings.24>desc_sentence->[victim_nameShortDef]は両目を閉じている。</KilledCapacity.rulePack.rulesStrings.24>
-        <KilledCapacity.rulePack.rulesStrings.25>desc_sentence->[killer_nameShortDef]は満足気だ。</KilledCapacity.rulePack.rulesStrings.25>
-        <KilledCapacity.rulePack.rulesStrings.26>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</KilledCapacity.rulePack.rulesStrings.26>
-        <KilledCapacity.rulePack.rulesStrings.27>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</KilledCapacity.rulePack.rulesStrings.27>
-        <KilledCapacity.rulePack.rulesStrings.28>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</KilledCapacity.rulePack.rulesStrings.28>
+    <KilledCapacity.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</KilledCapacity.rulePack.rulesStrings.21>
+    <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</KilledCapacity.rulePack.rulesStrings.22>
+    <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</KilledCapacity.rulePack.rulesStrings.23>
+    <KilledCapacity.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef]は両目を閉じている。</KilledCapacity.rulePack.rulesStrings.24>
+    <KilledCapacity.rulePack.rulesStrings.25>desc_sentence->[KILLER_nameDef]は満足気だ。</KilledCapacity.rulePack.rulesStrings.25>
+    <KilledCapacity.rulePack.rulesStrings.26>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</KilledCapacity.rulePack.rulesStrings.26>
+    <KilledCapacity.rulePack.rulesStrings.27>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</KilledCapacity.rulePack.rulesStrings.27>
+    <KilledCapacity.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</KilledCapacity.rulePack.rulesStrings.28>
 
 	<!-- KilledMortar -->
-        <KilledMortar.rulePack.rulesStrings.0>tale_noun->[killer_nameShortDef]は迫撃砲で[victim_nameShortDef]に[wound_name_present]</KilledMortar.rulePack.rulesStrings.0>
-        <KilledMortar.rulePack.rulesStrings.1>tale_noun->[killer_nameShortDef]、[victim_nameShortDef]を砲で殺す</KilledMortar.rulePack.rulesStrings.1>
+	<KilledMortar.label>killed with mortar</KilledMortar.label>
+    <KilledMortar.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef]は迫撃砲で[VICTIM_nameDef]に[wound_name_present]</KilledMortar.rulePack.rulesStrings.0>
+    <KilledMortar.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef]、[KILLER_nameDef]の砲で殺される</KilledMortar.rulePack.rulesStrings.1>
 
-        <KilledMortar.rulePack.rulesStrings.2>image->[killer_nameFull]、[circumstance_group] 慎重に照準を合わせる</KilledMortar.rulePack.rulesStrings.2>
-        <KilledMortar.rulePack.rulesStrings.3>image->[killer_nameFull]、[circumstance_group] 遠くに目をやる</KilledMortar.rulePack.rulesStrings.3>
-        <KilledMortar.rulePack.rulesStrings.4>image->[killer_nameFull]、[circumstance_group] 砲撃諸元値を求めている</KilledMortar.rulePack.rulesStrings.4>
-        <KilledMortar.rulePack.rulesStrings.5>image->[killer_nameFull]、[circumstance_group] 風向きを確認している</KilledMortar.rulePack.rulesStrings.5>
+    <KilledMortar.rulePack.rulesStrings.2>image->[KILLER_nameFull]、[circumstance_group] 慎重に照準を合わせる</KilledMortar.rulePack.rulesStrings.2>
+    <KilledMortar.rulePack.rulesStrings.3>image->[KILLER_nameFull]、[circumstance_group] 遠くに目をやる</KilledMortar.rulePack.rulesStrings.3>
+    <KilledMortar.rulePack.rulesStrings.4>image->[KILLER_nameFull]、[circumstance_group] 砲撃諸元値を求めている</KilledMortar.rulePack.rulesStrings.4>
+    <KilledMortar.rulePack.rulesStrings.5>image->[KILLER_nameFull]、[circumstance_group] 風向きを確認している</KilledMortar.rulePack.rulesStrings.5>
 
-        <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->[victim_nameFull]が大量の爆発に曝されている中</KilledMortar.rulePack.rulesStrings.6>
-        <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->砲弾が放物線を描いて[victim_nameFull]に向かう</KilledMortar.rulePack.rulesStrings.7>
-        <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->[victim_nameFull]が辺り構わず歩き回っている中</KilledMortar.rulePack.rulesStrings.8>
-        <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->[victim_nameFull]は走ったまま</KilledMortar.rulePack.rulesStrings.9>
+    <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->[VICTIM_nameFull]が大量の爆発に曝されている中</KilledMortar.rulePack.rulesStrings.6>
+    <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->砲弾が放物線を描いて[VICTIM_nameFull]に向かう</KilledMortar.rulePack.rulesStrings.7>
+    <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->[VICTIM_nameFull]が辺り構わず歩き回っている中</KilledMortar.rulePack.rulesStrings.8>
+    <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->[VICTIM_nameFull]は走ったまま</KilledMortar.rulePack.rulesStrings.9>
 
-        <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[quantity_adjphrase]の[animal]達が傍観している。</KilledMortar.rulePack.rulesStrings.10>
-        <KilledMortar.rulePack.rulesStrings.11>desc_sentence->[outlander]が[side_position]で静かに注意を向けている。</KilledMortar.rulePack.rulesStrings.11>
-        <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[victim_nameShortDef]は[angstyadjective]人のようだ。</KilledMortar.rulePack.rulesStrings.12>
-        <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[victim_nameShortDef]が[gore]に覆われている。</KilledMortar.rulePack.rulesStrings.13>
-        <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[victim_nameShortDef]は爆発に包まれている。</KilledMortar.rulePack.rulesStrings.14>
-        <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[victim_nameShortDef]は爆発痕に囲まれている。</KilledMortar.rulePack.rulesStrings.15>
-        <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[killer_nameShortDef]は満足げだ。</KilledMortar.rulePack.rulesStrings.16>
-        <KilledMortar.rulePack.rulesStrings.17>desc_sentence->[killer_nameShortDef]は[killer_pronoun]がしたことに悩んでいるようだ。</KilledMortar.rulePack.rulesStrings.17>
-        <KilledMortar.rulePack.rulesStrings.18>desc_sentence->[killer_nameShortDef]は現状に満足しているようだ。</KilledMortar.rulePack.rulesStrings.18>
-        <KilledMortar.rulePack.rulesStrings.19>desc_sentence->[killer_nameShortDef]は勝ち誇っているかのようだ。</KilledMortar.rulePack.rulesStrings.19>
+    <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase]の[Animal]達が傍観している。</KilledMortar.rulePack.rulesStrings.10>
+    <KilledMortar.rulePack.rulesStrings.11>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている。</KilledMortar.rulePack.rulesStrings.11>
+    <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ。</KilledMortar.rulePack.rulesStrings.12>
+    <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[VICTIM_nameDef]が[Gore]に覆われている。</KilledMortar.rulePack.rulesStrings.13>
+    <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[VICTIM_nameDef]は爆発に包まれている。</KilledMortar.rulePack.rulesStrings.14>
+    <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[VICTIM_nameDef]は爆発痕に囲まれている。</KilledMortar.rulePack.rulesStrings.15>
+    <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[KILLER_nameDef]は満足げだ。</KilledMortar.rulePack.rulesStrings.16>
+    <KilledMortar.rulePack.rulesStrings.17>desc_sentence->[KILLER_nameDef]は[KILLER_pronoun]がしたことに悩んでいるようだ。</KilledMortar.rulePack.rulesStrings.17>
+    <KilledMortar.rulePack.rulesStrings.18>desc_sentence->[KILLER_nameDef]は現状に満足しているようだ。</KilledMortar.rulePack.rulesStrings.18>
+    <KilledMortar.rulePack.rulesStrings.19>desc_sentence->[KILLER_nameDef]は勝ち誇っているかのようだ。</KilledMortar.rulePack.rulesStrings.19>
 
 	<!-- Exhausted -->
-        <Exhausted.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、過労でぶっ倒れる</Exhausted.rulePack.rulesStrings.0>
+	<Exhausted.label>exhausted</Exhausted.label>
+    <Exhausted.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]、過労でぶっ倒れる</Exhausted.rulePack.rulesStrings.0>
 
-        <Exhausted.rulePack.rulesStrings.1>image->[pawn_nameFull]、[circumstance_group] 過労で地面に倒れこむ</Exhausted.rulePack.rulesStrings.1>
-        <Exhausted.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 地面にへたりこむ</Exhausted.rulePack.rulesStrings.2>
-        <Exhausted.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] ベッドに横たわる</Exhausted.rulePack.rulesStrings.3>
-        <Exhausted.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] イスに倒れこむ</Exhausted.rulePack.rulesStrings.4>
-        <Exhausted.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 穏やかに眠る</Exhausted.rulePack.rulesStrings.5>
+    <Exhausted.rulePack.rulesStrings.1>image->[PAWN_nameFull]、[circumstance_group] 過労で地面に倒れこむ</Exhausted.rulePack.rulesStrings.1>
+    <Exhausted.rulePack.rulesStrings.2>image->[PAWN_nameFull]、[circumstance_group] 地面にへたりこむ</Exhausted.rulePack.rulesStrings.2>
+    <Exhausted.rulePack.rulesStrings.3>image->[PAWN_nameFull]、[circumstance_group] ベッドに横たわる</Exhausted.rulePack.rulesStrings.3>
+    <Exhausted.rulePack.rulesStrings.4>image->[PAWN_nameFull]、[circumstance_group] イスに倒れこむ</Exhausted.rulePack.rulesStrings.4>
+    <Exhausted.rulePack.rulesStrings.5>image->[PAWN_nameFull]、[circumstance_group] 穏やかに眠る</Exhausted.rulePack.rulesStrings.5>
 
-        <Exhausted.rulePack.rulesStrings.6>circumstance_phrase->両目を閉じて</Exhausted.rulePack.rulesStrings.6>
-        <Exhausted.rulePack.rulesStrings.7>circumstance_phrase->目に見える程の過労で</Exhausted.rulePack.rulesStrings.7>
-        <Exhausted.rulePack.rulesStrings.8>circumstance_phrase->大汗にまみれながら</Exhausted.rulePack.rulesStrings.8>
-        <Exhausted.rulePack.rulesStrings.9>circumstance_phrase->身体も動かせずに</Exhausted.rulePack.rulesStrings.9>
+    <Exhausted.rulePack.rulesStrings.6>circumstance_phrase->両目を閉じて</Exhausted.rulePack.rulesStrings.6>
+    <Exhausted.rulePack.rulesStrings.7>circumstance_phrase->目に見える程の過労で</Exhausted.rulePack.rulesStrings.7>
+    <Exhausted.rulePack.rulesStrings.8>circumstance_phrase->大汗にまみれながら</Exhausted.rulePack.rulesStrings.8>
+    <Exhausted.rulePack.rulesStrings.9>circumstance_phrase->身体も動かせずに</Exhausted.rulePack.rulesStrings.9>
 
-        <Exhausted.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef]が直前までしていたプロジェクトが完了して傍らにある。</Exhausted.rulePack.rulesStrings.10>
-        <Exhausted.rulePack.rulesStrings.11>desc_sentence->驚嘆に値する建造物が[pawn_nameShortDef]を囲んでいる。</Exhausted.rulePack.rulesStrings.11>
-        <Exhausted.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase]の[outlander]達が、[pawn_nameShortDef]の英雄的努力を感謝して見ている。</Exhausted.rulePack.rulesStrings.12>
-        <Exhausted.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase]の[outlander]達は、同じような状況に近いまま置かれている。</Exhausted.rulePack.rulesStrings.13>
-        <Exhausted.rulePack.rulesStrings.14>desc_sentence->新しくできた[community]の中に作られている。</Exhausted.rulePack.rulesStrings.14>
+    <Exhausted.rulePack.rulesStrings.10>desc_sentence->[PAWN_nameDef]が直前までしていたプロジェクトが完了して傍らにある。</Exhausted.rulePack.rulesStrings.10>
+    <Exhausted.rulePack.rulesStrings.11>desc_sentence->驚嘆に値する建造物が[PAWN_nameDef]を囲んでいる。</Exhausted.rulePack.rulesStrings.11>
+    <Exhausted.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が、[PAWN_nameDef]の英雄的努力を感謝して見ている。</Exhausted.rulePack.rulesStrings.12>
+    <Exhausted.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase]の[PersonJob]達は、同じような状況に近いまま置かれている。</Exhausted.rulePack.rulesStrings.13>
+    <Exhausted.rulePack.rulesStrings.14>desc_sentence->新しくできた[Community]の中に作られている。</Exhausted.rulePack.rulesStrings.14>
 
 	<!-- IllnessRevealed -->
+	<IllnessRevealed.label>illness revealed</IllnessRevealed.label>
+    <IllnessRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]が[ILLNESS_label]に襲われる</IllnessRevealed.rulePack.rulesStrings.0>
 
-        <IllnessRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]が[illness_label]に襲われる</IllnessRevealed.rulePack.rulesStrings.0>
+    <IllnessRevealed.rulePack.rulesStrings.1>image->[PAWN_nameFull]、[circumstance_group] 外でふらつく</IllnessRevealed.rulePack.rulesStrings.1>
+    <IllnessRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull]、[circumstance_group] 地面に横たわる</IllnessRevealed.rulePack.rulesStrings.2>
+    <IllnessRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull]、[circumstance_group] ベッドに横たわる</IllnessRevealed.rulePack.rulesStrings.3>
+    <IllnessRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull]、[circumstance_group] 病院用ベッドに横たわる</IllnessRevealed.rulePack.rulesStrings.4>
+    <IllnessRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull]、[circumstance_group] イスに倒れこむ</IllnessRevealed.rulePack.rulesStrings.5>
+    <IllnessRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull]、[circumstance_group] 暖のそばにうずくまる</IllnessRevealed.rulePack.rulesStrings.6>
 
-        <IllnessRevealed.rulePack.rulesStrings.1>image->[pawn_nameFull]、[circumstance_group] 外でふらつく</IllnessRevealed.rulePack.rulesStrings.1>
-        <IllnessRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 地面に横たわる</IllnessRevealed.rulePack.rulesStrings.2>
-        <IllnessRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] ベッドに横たわる</IllnessRevealed.rulePack.rulesStrings.3>
-        <IllnessRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 病院用ベッドに横たわる</IllnessRevealed.rulePack.rulesStrings.4>
-        <IllnessRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] イスに倒れこむ</IllnessRevealed.rulePack.rulesStrings.5>
-        <IllnessRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] 暖のそばにうずくまる</IllnessRevealed.rulePack.rulesStrings.6>
+    <IllnessRevealed.rulePack.rulesStrings.7>circumstance_phrase->止めどもなく汗をかきながら</IllnessRevealed.rulePack.rulesStrings.7>
+    <IllnessRevealed.rulePack.rulesStrings.8>circumstance_phrase->ガタガタと震えが止まらない</IllnessRevealed.rulePack.rulesStrings.8>
+    <IllnessRevealed.rulePack.rulesStrings.9>circumstance_phrase->汗と震えの両方が止まらない中</IllnessRevealed.rulePack.rulesStrings.9>
+    <IllnessRevealed.rulePack.rulesStrings.10>circumstance_phrase->乾いた唇にはひび割れができ</IllnessRevealed.rulePack.rulesStrings.10>
+    <IllnessRevealed.rulePack.rulesStrings.11>circumstance_phrase->吐きながら</IllnessRevealed.rulePack.rulesStrings.11>
+    <IllnessRevealed.rulePack.rulesStrings.12>circumstance_phrase->発疹が表れ</IllnessRevealed.rulePack.rulesStrings.12>
+    <IllnessRevealed.rulePack.rulesStrings.13>circumstance_phrase->医者に手当され</IllnessRevealed.rulePack.rulesStrings.13>
 
-        <IllnessRevealed.rulePack.rulesStrings.7>circumstance_phrase->止めどもなく汗をかきながら</IllnessRevealed.rulePack.rulesStrings.7>
-        <IllnessRevealed.rulePack.rulesStrings.8>circumstance_phrase->ガタガタと震えが止まらない</IllnessRevealed.rulePack.rulesStrings.8>
-        <IllnessRevealed.rulePack.rulesStrings.9>circumstance_phrase->汗と震えの両方が止まらない中</IllnessRevealed.rulePack.rulesStrings.9>
-        <IllnessRevealed.rulePack.rulesStrings.10>circumstance_phrase->乾いた唇にはひび割れができ</IllnessRevealed.rulePack.rulesStrings.10>
-        <IllnessRevealed.rulePack.rulesStrings.11>circumstance_phrase->吐きながら</IllnessRevealed.rulePack.rulesStrings.11>
-        <IllnessRevealed.rulePack.rulesStrings.12>circumstance_phrase->発疹が表れ</IllnessRevealed.rulePack.rulesStrings.12>
-        <IllnessRevealed.rulePack.rulesStrings.13>circumstance_phrase->医者に手当され</IllnessRevealed.rulePack.rulesStrings.13>
-
-        <IllnessRevealed.rulePack.rulesStrings.14>desc_sentence->ハエだらけな[quantity_adjphrase]の[animal]の屍骸が辺りを囲んでいる。</IllnessRevealed.rulePack.rulesStrings.14>
-        <IllnessRevealed.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase]の、ひん曲がった[color][terrainfeature]が周りを囲んでいる。</IllnessRevealed.rulePack.rulesStrings.15>
-        <IllnessRevealed.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase]の[outlander]達が同じ苦しみに襲われている。</IllnessRevealed.rulePack.rulesStrings.16>
-        <IllnessRevealed.rulePack.rulesStrings.17>desc_sentence->[tree]の森の中で起きている。</IllnessRevealed.rulePack.rulesStrings.17>
-        <IllnessRevealed.rulePack.rulesStrings.18>desc_sentence->[quantity_adjphrase]の[animal]達の屍骸が散らばっている。</IllnessRevealed.rulePack.rulesStrings.18>
+    <IllnessRevealed.rulePack.rulesStrings.14>desc_sentence->ハエだらけな[Quantity_adjphrase]の[Animal]の屍骸が辺りを囲んでいる。</IllnessRevealed.rulePack.rulesStrings.14>
+    <IllnessRevealed.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase]の、ひん曲がった[Color][TerrainFeature]が周りを囲んでいる。</IllnessRevealed.rulePack.rulesStrings.15>
+    <IllnessRevealed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が同じ苦しみに襲われている。</IllnessRevealed.rulePack.rulesStrings.16>
+    <IllnessRevealed.rulePack.rulesStrings.17>desc_sentence->[TreeType]の森の中で起きている。</IllnessRevealed.rulePack.rulesStrings.17>
+    <IllnessRevealed.rulePack.rulesStrings.18>desc_sentence->[Quantity_adjphrase]の[Animal]達の屍骸が散らばっている。</IllnessRevealed.rulePack.rulesStrings.18>
 
 	<!-- HeatstrokeReveled -->
-        <HeatstrokeRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]熱中症になる</HeatstrokeRevealed.rulePack.rulesStrings.0>
-        <HeatstrokeRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]オーバーヒート</HeatstrokeRevealed.rulePack.rulesStrings.1>
+	<HeatstrokeRevealed.label>heatstroke revealed</HeatstrokeRevealed.label>
+    <HeatstrokeRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]熱中症になる</HeatstrokeRevealed.rulePack.rulesStrings.0>
+    <HeatstrokeRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]オーバーヒート</HeatstrokeRevealed.rulePack.rulesStrings.1>
 
-        <HeatstrokeRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 砂の上をトボトボと歩いている</HeatstrokeRevealed.rulePack.rulesStrings.2>
-        <HeatstrokeRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] [terrainfeature]の日陰に群がっている</HeatstrokeRevealed.rulePack.rulesStrings.3>
-        <HeatstrokeRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 水を探し求めている</HeatstrokeRevealed.rulePack.rulesStrings.4>
-        <HeatstrokeRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 日陰を求めている</HeatstrokeRevealed.rulePack.rulesStrings.5>
-        <HeatstrokeRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] 焼けた大地をノロノロ進んでいる</HeatstrokeRevealed.rulePack.rulesStrings.6>
+    <HeatstrokeRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull]、[circumstance_group] 砂の上をトボトボと歩いている</HeatstrokeRevealed.rulePack.rulesStrings.2>
+    <HeatstrokeRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull]、[circumstance_group] [TerrainFeature]の日陰に群がっている</HeatstrokeRevealed.rulePack.rulesStrings.3>
+    <HeatstrokeRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull]、[circumstance_group] 水を探し求めている</HeatstrokeRevealed.rulePack.rulesStrings.4>
+    <HeatstrokeRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull]、[circumstance_group] 日陰を求めている</HeatstrokeRevealed.rulePack.rulesStrings.5>
+    <HeatstrokeRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull]、[circumstance_group] 焼けた大地をノロノロ進んでいる</HeatstrokeRevealed.rulePack.rulesStrings.6>
 
-        <HeatstrokeRevealed.rulePack.rulesStrings.7>circumstance_phrase->肌は日焼けしながら</HeatstrokeRevealed.rulePack.rulesStrings.7>
-        <HeatstrokeRevealed.rulePack.rulesStrings.8>circumstance_phrase->汗をかきながら</HeatstrokeRevealed.rulePack.rulesStrings.8>
-        <HeatstrokeRevealed.rulePack.rulesStrings.9>circumstance_phrase->乾いた唇にはひび割れができ</HeatstrokeRevealed.rulePack.rulesStrings.9>
-        <HeatstrokeRevealed.rulePack.rulesStrings.10>circumstance_phrase->吐きながら</HeatstrokeRevealed.rulePack.rulesStrings.10>
+    <HeatstrokeRevealed.rulePack.rulesStrings.7>circumstance_phrase->肌は日焼けしながら</HeatstrokeRevealed.rulePack.rulesStrings.7>
+    <HeatstrokeRevealed.rulePack.rulesStrings.8>circumstance_phrase->汗をかきながら</HeatstrokeRevealed.rulePack.rulesStrings.8>
+    <HeatstrokeRevealed.rulePack.rulesStrings.9>circumstance_phrase->乾いた唇にはひび割れができ</HeatstrokeRevealed.rulePack.rulesStrings.9>
+    <HeatstrokeRevealed.rulePack.rulesStrings.10>circumstance_phrase->吐きながら</HeatstrokeRevealed.rulePack.rulesStrings.10>
 
-        <HeatstrokeRevealed.rulePack.rulesStrings.11>desc_sentence->カラカラに乾いた[quantity_adjphrase]の[animal]の屍骸が辺りを囲んでいる。</HeatstrokeRevealed.rulePack.rulesStrings.11>
-        <HeatstrokeRevealed.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef]の衣服はボロボロに敗れたり裂けたりしている。</HeatstrokeRevealed.rulePack.rulesStrings.12>
-        <HeatstrokeRevealed.rulePack.rulesStrings.13>desc_sentence->背景に灼熱の太陽がぼんやりと姿を現す。</HeatstrokeRevealed.rulePack.rulesStrings.13>
-        <HeatstrokeRevealed.rulePack.rulesStrings.14>desc_sentence->これは灼熱の砂漠の中で起きている。</HeatstrokeRevealed.rulePack.rulesStrings.14>
-        <HeatstrokeRevealed.rulePack.rulesStrings.15>desc_sentence->これは熱源の近くで起きている。</HeatstrokeRevealed.rulePack.rulesStrings.15>
-        <HeatstrokeRevealed.rulePack.rulesStrings.16>desc_sentence->動かなくなった[quantity_adjphrase]の[animal]の屍骸が辺りを囲んでいる。</HeatstrokeRevealed.rulePack.rulesStrings.16>
-        <HeatstrokeRevealed.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]の[animal]達の屍骸が散らばっている。</HeatstrokeRevealed.rulePack.rulesStrings.17>
+    <HeatstrokeRevealed.rulePack.rulesStrings.11>desc_sentence->カラカラに乾いた[Quantity_adjphrase]の[Animal]の屍骸が辺りを囲んでいる。</HeatstrokeRevealed.rulePack.rulesStrings.11>
+    <HeatstrokeRevealed.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef]の衣服はボロボロに敗れたり裂けたりしている。</HeatstrokeRevealed.rulePack.rulesStrings.12>
+    <HeatstrokeRevealed.rulePack.rulesStrings.13>desc_sentence->背景に灼熱の太陽がぼんやりと姿を現す。</HeatstrokeRevealed.rulePack.rulesStrings.13>
+    <HeatstrokeRevealed.rulePack.rulesStrings.14>desc_sentence->これは灼熱の砂漠の中で起きている。</HeatstrokeRevealed.rulePack.rulesStrings.14>
+    <HeatstrokeRevealed.rulePack.rulesStrings.15>desc_sentence->これは熱源の近くで起きている。</HeatstrokeRevealed.rulePack.rulesStrings.15>
+    <HeatstrokeRevealed.rulePack.rulesStrings.16>desc_sentence->動かなくなった[Quantity_adjphrase]の[Animal]の屍骸が辺りを囲んでいる。</HeatstrokeRevealed.rulePack.rulesStrings.16>
+    <HeatstrokeRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase]の[Animal]達の屍骸が散らばっている。</HeatstrokeRevealed.rulePack.rulesStrings.17>
 
 	<!-- HypothermiaRevealed -->
-        <HypothermiaRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]低体温症になる</HypothermiaRevealed.rulePack.rulesStrings.0>
-        <HypothermiaRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]凍死する</HypothermiaRevealed.rulePack.rulesStrings.1>
+	<HypothermiaRevealed.label>hypothermia revealed</HypothermiaRevealed.label>
+    <HypothermiaRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]低体温症になる</HypothermiaRevealed.rulePack.rulesStrings.0>
+    <HypothermiaRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]凍死する</HypothermiaRevealed.rulePack.rulesStrings.1>
 
-        <HypothermiaRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 雪の中をトボトボ歩く</HypothermiaRevealed.rulePack.rulesStrings.2>
-        <HypothermiaRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] [terrainfeature]の傍らに群がっている</HypothermiaRevealed.rulePack.rulesStrings.3>
-        <HypothermiaRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] 暖かい[apparel]を探し回っている</HypothermiaRevealed.rulePack.rulesStrings.4>
-        <HypothermiaRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 暖の傍にうずくまる</HypothermiaRevealed.rulePack.rulesStrings.5>
-        <HypothermiaRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] 火を起こそうとしている</HypothermiaRevealed.rulePack.rulesStrings.6>
+    <HypothermiaRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull]、[circumstance_group] 雪の中をトボトボ歩く</HypothermiaRevealed.rulePack.rulesStrings.2>
+    <HypothermiaRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull]、[circumstance_group] [TerrainFeature]の傍らに群がっている</HypothermiaRevealed.rulePack.rulesStrings.3>
+    <HypothermiaRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull]、[circumstance_group] 暖かい[Apparel]を探し回っている</HypothermiaRevealed.rulePack.rulesStrings.4>
+    <HypothermiaRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull]、[circumstance_group] 暖の傍にうずくまる</HypothermiaRevealed.rulePack.rulesStrings.5>
+    <HypothermiaRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull]、[circumstance_group] 火を起こそうとしている</HypothermiaRevealed.rulePack.rulesStrings.6>
 
-        <HypothermiaRevealed.rulePack.rulesStrings.7>circumstance_phrase->顔色がゆっくりと青ざめていく中</HypothermiaRevealed.rulePack.rulesStrings.7>
-        <HypothermiaRevealed.rulePack.rulesStrings.8>circumstance_phrase->ガタガタと震えが止まらず</HypothermiaRevealed.rulePack.rulesStrings.8>
-        <HypothermiaRevealed.rulePack.rulesStrings.9>circumstance_phrase->寒気に包まれつつ</HypothermiaRevealed.rulePack.rulesStrings.9>
-        <HypothermiaRevealed.rulePack.rulesStrings.10>circumstance_phrase->白い息を口から吐きながら</HypothermiaRevealed.rulePack.rulesStrings.10>
+    <HypothermiaRevealed.rulePack.rulesStrings.7>circumstance_phrase->顔色がゆっくりと青ざめていく中</HypothermiaRevealed.rulePack.rulesStrings.7>
+    <HypothermiaRevealed.rulePack.rulesStrings.8>circumstance_phrase->ガタガタと震えが止まらず</HypothermiaRevealed.rulePack.rulesStrings.8>
+    <HypothermiaRevealed.rulePack.rulesStrings.9>circumstance_phrase->寒気に包まれつつ</HypothermiaRevealed.rulePack.rulesStrings.9>
+    <HypothermiaRevealed.rulePack.rulesStrings.10>circumstance_phrase->白い息を口から吐きながら</HypothermiaRevealed.rulePack.rulesStrings.10>
 
-        <HypothermiaRevealed.rulePack.rulesStrings.11>desc_sentence->凍った[quantity_adjphrase]の[animal]の屍骸が周りを囲んでいる。</HypothermiaRevealed.rulePack.rulesStrings.11>
-        <HypothermiaRevealed.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef]の衣服はボロボロに敗れたりすり減っている。</HypothermiaRevealed.rulePack.rulesStrings.12>
-        <HypothermiaRevealed.rulePack.rulesStrings.13>desc_sentence->背景に凍てついた月がぼんやりと姿を現す。</HypothermiaRevealed.rulePack.rulesStrings.13>
-        <HypothermiaRevealed.rulePack.rulesStrings.14>desc_sentence->樹氷となった[tree]の森で起きている。</HypothermiaRevealed.rulePack.rulesStrings.14>
-        <HypothermiaRevealed.rulePack.rulesStrings.15>desc_sentence->冷凍庫の中で起きている。</HypothermiaRevealed.rulePack.rulesStrings.15>
-        <HypothermiaRevealed.rulePack.rulesStrings.16>desc_sentence->ガタガタ震えている[quantity_adjphrase]の[animal]達が周りを囲んでいる。</HypothermiaRevealed.rulePack.rulesStrings.16>
-        <HypothermiaRevealed.rulePack.rulesStrings.17>desc_sentence->死んだ[quantity_adjphrase]の[animal]達の屍骸が散らばっている。</HypothermiaRevealed.rulePack.rulesStrings.17>
+    <HypothermiaRevealed.rulePack.rulesStrings.11>desc_sentence->凍った[Quantity_adjphrase]の[Animal]の屍骸が周りを囲んでいる。</HypothermiaRevealed.rulePack.rulesStrings.11>
+    <HypothermiaRevealed.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef]の衣服はボロボロに敗れたりすり減っている。</HypothermiaRevealed.rulePack.rulesStrings.12>
+    <HypothermiaRevealed.rulePack.rulesStrings.13>desc_sentence->背景に凍てついた月がぼんやりと姿を現す。</HypothermiaRevealed.rulePack.rulesStrings.13>
+    <HypothermiaRevealed.rulePack.rulesStrings.14>desc_sentence->樹氷となった[TreeType]の森で起きている。</HypothermiaRevealed.rulePack.rulesStrings.14>
+    <HypothermiaRevealed.rulePack.rulesStrings.15>desc_sentence->冷凍庫の中で起きている。</HypothermiaRevealed.rulePack.rulesStrings.15>
+    <HypothermiaRevealed.rulePack.rulesStrings.16>desc_sentence->ガタガタ震えている[Quantity_adjphrase]の[Animal]達が周りを囲んでいる。</HypothermiaRevealed.rulePack.rulesStrings.16>
+    <HypothermiaRevealed.rulePack.rulesStrings.17>desc_sentence->死んだ[Quantity_adjphrase]の[Animal]達の屍骸が散らばっている。</HypothermiaRevealed.rulePack.rulesStrings.17>
 
 	<!-- ToxicityRevealed -->
-        <ToxicityRevealed.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]、身体が毒に侵される</ToxicityRevealed.rulePack.rulesStrings.0>
-        <ToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[pawn_nameShortDef]、外界の毒を取り込む</ToxicityRevealed.rulePack.rulesStrings.1>
+	<ToxicityRevealed.label>toxicity revealed</ToxicityRevealed.label>
+    <ToxicityRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]、身体が毒に侵される</ToxicityRevealed.rulePack.rulesStrings.0>
+    <ToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]、外界の毒を取り込む</ToxicityRevealed.rulePack.rulesStrings.1>
 
-        <ToxicityRevealed.rulePack.rulesStrings.2>image->[pawn_nameFull]、[circumstance_group] 外でふらつく</ToxicityRevealed.rulePack.rulesStrings.2>
-        <ToxicityRevealed.rulePack.rulesStrings.3>image->[pawn_nameFull]、[circumstance_group] 地面に横たわる</ToxicityRevealed.rulePack.rulesStrings.3>
-        <ToxicityRevealed.rulePack.rulesStrings.4>image->[pawn_nameFull]、[circumstance_group] ベッドに横たわる</ToxicityRevealed.rulePack.rulesStrings.4>
-        <ToxicityRevealed.rulePack.rulesStrings.5>image->[pawn_nameFull]、[circumstance_group] 暖のそばにうずくまる</ToxicityRevealed.rulePack.rulesStrings.5>
-        <ToxicityRevealed.rulePack.rulesStrings.6>image->[pawn_nameFull]、[circumstance_group] 火を起こそうとしている</ToxicityRevealed.rulePack.rulesStrings.6>
-        <ToxicityRevealed.rulePack.rulesStrings.7>image->[pawn_nameFull]、[circumstance_group] 愚かにも[pawn_possessive]衣服を外そうとしている</ToxicityRevealed.rulePack.rulesStrings.7>
+    <ToxicityRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull]、[circumstance_group] 外でふらつく</ToxicityRevealed.rulePack.rulesStrings.2>
+    <ToxicityRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull]、[circumstance_group] 地面に横たわる</ToxicityRevealed.rulePack.rulesStrings.3>
+    <ToxicityRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull]、[circumstance_group] ベッドに横たわる</ToxicityRevealed.rulePack.rulesStrings.4>
+    <ToxicityRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull]、[circumstance_group] 暖のそばにうずくまる</ToxicityRevealed.rulePack.rulesStrings.5>
+    <ToxicityRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull]、[circumstance_group] 火を起こそうとしている</ToxicityRevealed.rulePack.rulesStrings.6>
+    <ToxicityRevealed.rulePack.rulesStrings.7>image->[PAWN_nameFull]、[circumstance_group] 愚かにも[PAWN_possessive]衣服を外そうとしている</ToxicityRevealed.rulePack.rulesStrings.7>
 
-        <ToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->止めどもなく汗をかきながら</ToxicityRevealed.rulePack.rulesStrings.8>
-        <ToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->ガタガタと震えが止まらない</ToxicityRevealed.rulePack.rulesStrings.9>
-        <ToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->汗と震えの両方が止まらない中</ToxicityRevealed.rulePack.rulesStrings.10>
-        <ToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->乾いた唇にはひび割れができ</ToxicityRevealed.rulePack.rulesStrings.11>
-        <ToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->吐きながら</ToxicityRevealed.rulePack.rulesStrings.12>
-        <ToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->発疹が表れ</ToxicityRevealed.rulePack.rulesStrings.13>
+    <ToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->止めどもなく汗をかきながら</ToxicityRevealed.rulePack.rulesStrings.8>
+    <ToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->ガタガタと震えが止まらない</ToxicityRevealed.rulePack.rulesStrings.9>
+    <ToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->汗と震えの両方が止まらない中</ToxicityRevealed.rulePack.rulesStrings.10>
+    <ToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->乾いた唇にはひび割れができ</ToxicityRevealed.rulePack.rulesStrings.11>
+    <ToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->吐きながら</ToxicityRevealed.rulePack.rulesStrings.12>
+    <ToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->発疹が表れ</ToxicityRevealed.rulePack.rulesStrings.13>
 
-        <ToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->身をよじった[quantity_adjphrase]の[animal]の屍骸が周りを囲んでいる。</ToxicityRevealed.rulePack.rulesStrings.14>
-        <ToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->[pawn_nameShortDef]の衣服がバラバラに落ちている。</ToxicityRevealed.rulePack.rulesStrings.15>
-        <ToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->空は濁った[color]。</ToxicityRevealed.rulePack.rulesStrings.16>
-        <ToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase]、ひん曲がった[color][terrainfeature]が周りを囲んでいる。</ToxicityRevealed.rulePack.rulesStrings.17>
-        <ToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->よじれた[tree]の森の中で起きている。</ToxicityRevealed.rulePack.rulesStrings.18>
-        <ToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->死んだ[quantity_adjphrase]の[animal]達の屍骸が散らばっている。</ToxicityRevealed.rulePack.rulesStrings.19>
+    <ToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->身をよじった[Quantity_adjphrase]の[Animal]の屍骸が周りを囲んでいる。</ToxicityRevealed.rulePack.rulesStrings.14>
+    <ToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef]の衣服がバラバラに落ちている。</ToxicityRevealed.rulePack.rulesStrings.15>
+    <ToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->空は濁った[Color]。</ToxicityRevealed.rulePack.rulesStrings.16>
+    <ToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase]、ひん曲がった[Color][TerrainFeature]が周りを囲んでいる。</ToxicityRevealed.rulePack.rulesStrings.17>
+    <ToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->よじれた[TreeType]の森の中で起きている。</ToxicityRevealed.rulePack.rulesStrings.18>
+    <ToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->死んだ[Quantity_adjphrase]の[Animal]達の屍骸が散らばっている。</ToxicityRevealed.rulePack.rulesStrings.19>
 
 	<!-- GaveBirth -->
-        <GaveBirth.rulePack.rulesStrings.0>tale_noun->[mother_nameShortDef]、[child_nameShortDef]を出産</GaveBirth.rulePack.rulesStrings.0>
+	<GaveBirth.label>gave birth</GaveBirth.label>
+    <GaveBirth.rulePack.rulesStrings.0>tale_noun->[MOTHER_nameDef]、[CHILD_nameDef]を出産</GaveBirth.rulePack.rulesStrings.0>
 
-        <GaveBirth.rulePack.rulesStrings.1>image->[mother_nameFull]、[circumstance_group]を出産する。</GaveBirth.rulePack.rulesStrings.1>
-        <GaveBirth.rulePack.rulesStrings.2>image->[mother_nameFull]、[circumstance_group]、 [mother_possessive]の[baby]を抱きかかえる</GaveBirth.rulePack.rulesStrings.2>
-        <GaveBirth.rulePack.rulesStrings.3>image->[mother_nameFull]、[circumstance_group]、 [mother_possessive]の[baby]をベッドに寝かしつける。</GaveBirth.rulePack.rulesStrings.3>
-        <GaveBirth.rulePack.rulesStrings.4>image->[mother_nameFull]、[circumstance_group]、 [mother_possessive]の[baby]と共に椅子に座り込む。</GaveBirth.rulePack.rulesStrings.4>
+    <GaveBirth.rulePack.rulesStrings.1>image->[MOTHER_nameFull]、[circumstance_group]を出産する。</GaveBirth.rulePack.rulesStrings.1>
+    <GaveBirth.rulePack.rulesStrings.2>image->[MOTHER_nameFull]、[circumstance_group]、 [MOTHER_possessive]の[baby]を抱きかかえる</GaveBirth.rulePack.rulesStrings.2>
+    <GaveBirth.rulePack.rulesStrings.3>image->[MOTHER_nameFull]、[circumstance_group]、 [MOTHER_possessive]の[baby]をベッドに寝かしつける。</GaveBirth.rulePack.rulesStrings.3>
+    <GaveBirth.rulePack.rulesStrings.4>image->[MOTHER_nameFull]、[circumstance_group]、 [MOTHER_possessive]の[baby]と共に椅子に座り込む。</GaveBirth.rulePack.rulesStrings.4>
 
-        <GaveBirth.rulePack.rulesStrings.5>baby->赤ちゃん</GaveBirth.rulePack.rulesStrings.5>
-        <GaveBirth.rulePack.rulesStrings.6>baby->新生児</GaveBirth.rulePack.rulesStrings.6>
-        <GaveBirth.rulePack.rulesStrings.7>baby->赤ん坊</GaveBirth.rulePack.rulesStrings.7>
+    <GaveBirth.rulePack.rulesStrings.5>baby->赤ちゃん</GaveBirth.rulePack.rulesStrings.5>
+    <GaveBirth.rulePack.rulesStrings.6>baby->新生児</GaveBirth.rulePack.rulesStrings.6>
+    <GaveBirth.rulePack.rulesStrings.7>baby->赤ん坊</GaveBirth.rulePack.rulesStrings.7>
 
-        <GaveBirth.rulePack.rulesStrings.8>circumstance_phrase->血まみれで良く泣く子[child_nameFull]</GaveBirth.rulePack.rulesStrings.8>
-        <GaveBirth.rulePack.rulesStrings.9>circumstance_phrase->柔らかい[color]の子[child_nameFull]</GaveBirth.rulePack.rulesStrings.9>
-        <GaveBirth.rulePack.rulesStrings.10>circumstance_phrase->もう既に周りにある物を引っ張ろうとする子[child_nameFull]</GaveBirth.rulePack.rulesStrings.10>
-        <GaveBirth.rulePack.rulesStrings.11>circumstance_phrase->穏やかな表情を浮かべて周りを見る子[child_nameFull]</GaveBirth.rulePack.rulesStrings.11>
+    <GaveBirth.rulePack.rulesStrings.8>circumstance_phrase->血まみれで良く泣く子[CHILD_nameFull]</GaveBirth.rulePack.rulesStrings.8>
+    <GaveBirth.rulePack.rulesStrings.9>circumstance_phrase->柔らかい[Color]の子[CHILD_nameFull]</GaveBirth.rulePack.rulesStrings.9>
+    <GaveBirth.rulePack.rulesStrings.10>circumstance_phrase->もう既に周りにある物を引っ張ろうとする子[CHILD_nameFull]</GaveBirth.rulePack.rulesStrings.10>
+    <GaveBirth.rulePack.rulesStrings.11>circumstance_phrase->穏やかな表情を浮かべて周りを見る子[CHILD_nameFull]</GaveBirth.rulePack.rulesStrings.11>
 
-        <GaveBirth.rulePack.rulesStrings.12>desc_sentence->[quantity_adjphrase]の[animal]達も近くで静かに寝ている。</GaveBirth.rulePack.rulesStrings.12>
-        <GaveBirth.rulePack.rulesStrings.13>desc_sentence->[quantity_adjphrase]の[outlander]達も覗き込んでいる。</GaveBirth.rulePack.rulesStrings.13>
-        <GaveBirth.rulePack.rulesStrings.14>desc_sentence->[outlander]達は遠巻きに見ている。</GaveBirth.rulePack.rulesStrings.14>
-        <GaveBirth.rulePack.rulesStrings.15>desc_sentence->新しくできた[community]で起きている。</GaveBirth.rulePack.rulesStrings.15>
+    <GaveBirth.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase]の[Animal]達も近くで静かに寝ている。</GaveBirth.rulePack.rulesStrings.12>
+    <GaveBirth.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase]の[PersonJob]達も覗き込んでいる。</GaveBirth.rulePack.rulesStrings.13>
+    <GaveBirth.rulePack.rulesStrings.14>desc_sentence->[PersonJob]達は遠巻きに見ている。</GaveBirth.rulePack.rulesStrings.14>
+    <GaveBirth.rulePack.rulesStrings.15>desc_sentence->新しくできた[Community]で起きている。</GaveBirth.rulePack.rulesStrings.15>
 
 </LanguageData>

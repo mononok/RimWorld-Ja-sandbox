@@ -10,6 +10,8 @@
 <LoadGame>ロード</LoadGame>
 <Options>オプション</Options>
 <Mods>MOD</Mods>
+  <SaveTranslationReport>Save translation report</SaveTranslationReport>
+  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
 <Credits>クレジット</Credits>
 <QuitToMainMenu>タイトルに もどる</QuitToMainMenu>
 <SaveAndQuitToMainMenu>ゲームを保存して タイトルに もどる</SaveAndQuitToMainMenu>
@@ -24,6 +26,11 @@
 <HelpTranslate>Help translate RimWorld</HelpTranslate>
 <BuySoundtrack>Buy soundtrack</BuySoundtrack>
   <CreateWorld>惑星を創造</CreateWorld>
+
+  <!--=========== Main menu translations info window ===========-->
+  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers.</TranslationThanks>
+  <TranslationHowToContribute>You can contribute too. Click below to learn more (opens web browser).</TranslationHowToContribute>
+  <LearnMore>Learn more</LearnMore>
 
 <!--=========== Create/review world ================-->
 <ReviewWorld>惑星を確認</ReviewWorld>
@@ -62,6 +69,7 @@
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
+    <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
   <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。よろしいですか？</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
@@ -125,8 +133,6 @@
   <Elevation>高度</Elevation>
   <Fertility>豊穣</Fertility>
   <AvgTemp>年平均気温</AvgTemp>
-  <AvgSummerTemp>年平均気温(夏期)</AvgSummerTemp>
-  <AvgWinterTemp>年平均気温(冬季)</AvgWinterTemp>
   <Rainfall>降雨量</Rainfall>
   <SpecialFeatures>特徴</SpecialFeatures>
   <HasCoast0>北海岸</HasCoast0>
@@ -137,12 +143,13 @@
   <FactionBase>本拠地</FactionBase>
   <StoneTypesHere>主な地層</StoneTypesHere>
     <TimeZone>タイムゾーン</TimeZone>
-    <MovementTimeNow>現在の移動時間</MovementTimeNow>
-    <MovementTimeSummer>夏期 移動時間</MovementTimeSummer>
-    <MovementTimeWinter>冬期 移動時間</MovementTimeWinter>
+    <MovementDifficulty>Movement difficulty</MovementDifficulty>
   <AnimalsCanGrazeNow>家畜は草を食む事ができるか</AnimalsCanGrazeNow>
   <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
   <PerYear>/年</PerYear>
+  <Forageability>Forageability</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+
 
 <!--=========== Character chooser ==========-->
 <CreateCharacters>キャラクターの 作成</CreateCharacters>
@@ -159,6 +166,7 @@
 <NoneLower>なし</NoneLower>
 <Adulthood>成年期</Adulthood>
 <Childhood>幼年期</Childhood>
+  <Current>Current</Current>
 <Male>男性</Male>
 <Female>女性</Female>
 <Pain>痛み</Pain>
@@ -175,6 +183,7 @@
 <Gameplay>ゲームの設定</Gameplay>
 <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます。</ConfirmQuit>
 <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
   <Quit>Quit</Quit>
   <Ignore>Ignore</Ignore>
 

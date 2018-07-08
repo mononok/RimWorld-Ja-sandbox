@@ -2,19 +2,19 @@
 <LanguageData>
 
     <WorkSpeedGlobal.label>基本的な作業速度</WorkSpeedGlobal.label>
-    <WorkSpeedGlobal.description>基本的な作業スピードです。</WorkSpeedGlobal.description>
+    <WorkSpeedGlobal.description>A multiplier on a character's speed at doing any kind of work.</WorkSpeedGlobal.description>
 
     <MiningSpeed.label>掘削・速度</MiningSpeed.label>
     <MiningSpeed.description>この人が壁を掘削したり、深部にある資源をドリルで掘削する速度です。</MiningSpeed.description>
     
     <MiningYield.label>掘削・収率</MiningYield.label>
-    <MiningYield.description>掘削した時に鉱物を得られる量のパーセンテージです。これは、採掘とボーリングの両方に影響します。掘削スラグの発生には影響を及ぼしません。</MiningYield.description>
+    <MiningYield.description>The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks.</MiningYield.description>
 
 	<SmoothingSpeed.label>地面をならす速度</SmoothingSpeed.label>
-	<SmoothingSpeed.description>この人が荒れた地面を滑らかにする速度です。</SmoothingSpeed.description>
+	<SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
 
     <ResearchSpeed.label>研究・速度</ResearchSpeed.label>
-    <ResearchSpeed.description>研究速度です。</ResearchSpeed.description>
+    <ResearchSpeed.description>How fast this person performs research.</ResearchSpeed.description>
 
 	<AnimalGatherSpeed.label>家畜・収穫速度</AnimalGatherSpeed.label>
 	<AnimalGatherSpeed.description>この人が、乳絞り、毛刈り等、家畜からリソースを収穫する速度です。</AnimalGatherSpeed.description>

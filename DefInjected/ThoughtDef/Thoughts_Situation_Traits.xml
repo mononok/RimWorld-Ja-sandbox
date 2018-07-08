@@ -11,7 +11,7 @@
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[1].label</path>
-		<trans>マゾの適度な痛み</trans>
+		<trans>マゾの深刻な痛み</trans>
 	</rep>
 	<rep>
 		<path>MasochistPain.stages[1].description</path>
@@ -35,34 +35,46 @@
 	</rep>
 
 
-	<rep>
-		<path>ProsthophileNoProsthetic.stages[0].label</path>
-		<trans>未強化な肉体</trans>
-	</rep>
-	<rep>
-		<path>ProsthophileNoProsthetic.stages[0].description</path>
-		<trans>生身の身体には限界がある。もっと人工的な身体になりたい。</trans>
-	</rep>
-
-	<rep>
-		<path>ProsthophileHappy.stages[0].label</path>
-		<trans>強化された肉体</trans>
-	</rep>
-	<rep>
-		<path>ProsthophileHappy.stages[0].description</path>
-		<trans>私は近未来科学の落とし子、何でもよりうまくやれる!</trans>
-	</rep>
+    <ProsthophileNoProsthetic.stages.0.label>transhumanist frustrated</ProsthophileNoProsthetic.stages.0.label>
+    <ProsthophileNoProsthetic.stages.0.description>生身の身体には限界がある。もっと人工的な身体になりたい。</ProsthophileNoProsthetic.stages.0.description>
 
 
-	<rep>
-		<path>ProsthophobeUnhappy.stages[0].label</path>
-		<trans>失われた自然な肉体</trans>
-	</rep>
-	<rep>
-		<path>ProsthophobeUnhappy.stages[0].description</path>
-		<trans>否応なしに、身体を改造されてしまった。もし私に選択させてくれたのなら…</trans>
-	</rep>
+    <ProsthophileHappy.stages.0.label>transhumanist pleased</ProsthophileHappy.stages.0.label>
+    <ProsthophileHappy.stages.0.description>This artificial part is cool. I want more.</ProsthophileHappy.stages.0.description>
+    <ProsthophileHappy.stages.1.label>transhumanist quite pleased</ProsthophileHappy.stages.1.label>
+    <ProsthophileHappy.stages.1.description>Two artificial parts are better than one. I wish I had more.</ProsthophileHappy.stages.1.description>
+    <ProsthophileHappy.stages.2.label>transhumanist delighted</ProsthophileHappy.stages.2.label>
+    <ProsthophileHappy.stages.2.description>Three artificial parts, and my weak human flesh is receding. But I still want more machine power.</ProsthophileHappy.stages.2.description>
+    <ProsthophileHappy.stages.3.label>transhumanist enchanted</ProsthophileHappy.stages.3.label>
+    <ProsthophileHappy.stages.3.description>Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing.</ProsthophileHappy.stages.3.description>
+    <ProsthophileHappy.stages.4.label>transhumanist overjoyed</ProsthophileHappy.stages.4.label>
+    <ProsthophileHappy.stages.4.description>Five artificial body parts! How could an enhanced being like me ever feel sad?</ProsthophileHappy.stages.4.description>
+    <ProsthophileHappy.stages.5.label>mahine body is complete</ProsthophileHappy.stages.5.label>
+    <ProsthophileHappy.stages.5.description>I asked for this.</ProsthophileHappy.stages.5.description>
 
+    <ProsthophobeUnhappy.stages.0.label>body purist squeamish</ProsthophobeUnhappy.stages.0.label>
+    <ProsthophobeUnhappy.stages.0.description>I hate having this unnatural thing attached to me. It feels so filthy!</ProsthophobeUnhappy.stages.0.description>
+    <ProsthophobeUnhappy.stages.1.label>body purist disgusted</ProsthophobeUnhappy.stages.1.label>
+    <ProsthophobeUnhappy.stages.1.description>Two artificial parts are sullying my natural, pure body. It makes me sick to think of it.</ProsthophobeUnhappy.stages.1.description>
+    <ProsthophobeUnhappy.stages.2.label>body purist violated</ProsthophobeUnhappy.stages.2.label>
+    <ProsthophobeUnhappy.stages.2.description>Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me.</ProsthophobeUnhappy.stages.2.description>
+    <ProsthophobeUnhappy.stages.3.label>body purist horrified</ProsthophobeUnhappy.stages.3.label>
+    <ProsthophobeUnhappy.stages.3.description>I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation.</ProsthophobeUnhappy.stages.3.description>
+    <ProsthophobeUnhappy.stages.4.label>body purist nightmare</ProsthophobeUnhappy.stages.4.label>
+    <ProsthophobeUnhappy.stages.4.description>Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human?</ProsthophobeUnhappy.stages.4.description>
+    <ProsthophobeUnhappy.stages.5.label>I have become what I hate</ProsthophobeUnhappy.stages.5.label>
+    <ProsthophobeUnhappy.stages.5.description>I asked for the exact opposite of this!</ProsthophobeUnhappy.stages.5.description>
+
+    <NonProsthophileHasAddedBodyParts.stages.1.label>artificial body uneasiness</NonProsthophileHasAddedBodyParts.stages.1.label>
+    <NonProsthophileHasAddedBodyParts.stages.1.description>Two artificial body parts were okay, but having three is bothersome. I miss my natural, clean body.</NonProsthophileHasAddedBodyParts.stages.1.description>
+    <NonProsthophileHasAddedBodyParts.stages.2.label>artificial body squeamishness</NonProsthophileHasAddedBodyParts.stages.2.label>
+    <NonProsthophileHasAddedBodyParts.stages.2.description>I have four artificial body parts. Even if they're necessary, I still wish I could be natural again.</NonProsthophileHasAddedBodyParts.stages.2.description>
+    <NonProsthophileHasAddedBodyParts.stages.3.label>artificial body discomfort</NonProsthophileHasAddedBodyParts.stages.3.label>
+    <NonProsthophileHasAddedBodyParts.stages.3.description>Five artificial body parts. It's like I click and creak when I move. I wish I could just be a healthy again, without these reminders of pain.</NonProsthophileHasAddedBodyParts.stages.3.description>
+    <NonProsthophileHasAddedBodyParts.stages.4.label>artificial body disgust</NonProsthophileHasAddedBodyParts.stages.4.label>
+    <NonProsthophileHasAddedBodyParts.stages.4.description>Six artificial body parts is too much. It's like I'm becoming an android.</NonProsthophileHasAddedBodyParts.stages.4.description>
+    <NonProsthophileHasAddedBodyParts.stages.5.label>artificial body horror</NonProsthophileHasAddedBodyParts.stages.5.label>
+    <NonProsthophileHasAddedBodyParts.stages.5.description>I never asked for this.</NonProsthophileHasAddedBodyParts.stages.5.description>
 
 	<rep>
 		<path>BrawlerUnhappy.stages[0].label</path>
@@ -73,6 +85,8 @@
 		<trans>私は離れたところから射撃したくない。近距離から攻撃させてほしい。</trans>
 	</rep>
 
+    <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>pyromaniac has incendiary weapon</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+    <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>It makes me think of flame and fire. I'm so happy.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
 
 	<rep>
 		<path>ClothedNudist.stages[0].label</path>

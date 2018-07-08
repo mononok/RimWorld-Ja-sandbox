@@ -4,21 +4,25 @@
     <!--========= General ============-->
     <Goto.reportString>移動中</Goto.reportString>
 
+	<Follow.reportString>following TargetA.</Follow.reportString>
+
+	<FollowClose.reportString>following TargetA.</FollowClose.reportString>
+
     <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
 
     <GotoWander.reportString>うろうろしている</GotoWander.reportString>
 
     <Wait.reportString>ぼんやりしている</Wait.reportString>
 
-    <WaitMaintainPosture.reportString>立っている</WaitMaintainPosture.reportString>
+    <Wait_MaintainPosture.reportString>立っている</Wait_MaintainPosture.reportString>
 
-    <WaitDowned.reportString>倒れている</WaitDowned.reportString>
+    <Wait_Downed.reportString>倒れている</Wait_Downed.reportString>
 
-    <WaitSafeTemperature.reportString>適温な場所でぼんやりしている</WaitSafeTemperature.reportString>
+    <Wait_SafeTemperature.reportString>適温な場所でぼんやりしている</Wait_SafeTemperature.reportString>
 
-    <WaitWander.reportString>うろうろしている</WaitWander.reportString>
+    <Wait_Wander.reportString>うろうろしている</Wait_Wander.reportString>
 
-    <WaitCombat.reportString>対象を観察している</WaitCombat.reportString>
+    <Wait_Combat.reportString>対象を観察している</Wait_Combat.reportString>
 
     <AttackStatic.reportString>TargetA を攻撃中</AttackStatic.reportString>
 
@@ -45,8 +49,11 @@
 
     <Open.reportString>TargetA を開封中</Open.reportString>
     <RearmTrap.reportString>TargetA を再セット中</RearmTrap.reportString>
+    <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
+    <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
 
 	<Refuel.reportString>TargetA 給油中</Refuel.reportString>
+	<RefuelAtomic.reportString>TargetA 給油中</RefuelAtomic.reportString>
 
 	<FillFermentingBarrel.reportString>TargetA 詰めている</FillFermentingBarrel.reportString>
 

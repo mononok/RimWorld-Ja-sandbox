@@ -1,29 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!--=============================== Tier 3: Hi-tech research bench ===================================-->
+    <MicroelectronicsBasics.label>マイクロエレクトロニクス 基礎</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>微細で複雑な電子工学の基礎です。これによって、ハイテクリサーチベンチ、通信機器、そして、ブラウン管テレビや疑似冷凍睡眠機など、他の研究プロジェクトをアンロックします。</MicroelectronicsBasics.description>
+
+    <TubeTelevision.label>ブラウン管テレビ</TubeTelevision.label>
+    <TubeTelevision.description>ブラウン管テレビを作ることが可能になります。</TubeTelevision.description>
+
+    <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
+    <FlatscreenTelevision.description>Produce high-resolution flatscreen televisions for greater enjoyment.</FlatscreenTelevision.description>
+
 	<Firefoam.label>泡消火器</Firefoam.label>
-	<Firefoam.description>火事を検知して、延焼を食い止めるための、泡消火器を作れるようになります。</Firefoam.description>
+	<Firefoam.description>Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
 
 	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
-	<MoisturePump.description>水気の多い土地を、乾燥した土地に変える土壌改良ポンプを作れるようになります。</MoisturePump.description>
+	<MoisturePump.description>Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand.</MoisturePump.description>
 
-	<GeothermalPower.label>地熱発電</GeothermalPower.label>
-	<GeothermalPower.description>間欠泉の上部に、24時間発電する地熱発電装置を建設できるようになります。</GeothermalPower.description>
+	<SterileMaterials.label>sterile materials</SterileMaterials.label>
+	<SterileMaterials.description>Construct sterile tiles to make cleanrooms for more effective medical treatment and research.</SterileMaterials.description>
 
 	<HospitalBed.label>病院用ベッド</HospitalBed.label>
-	<HospitalBed.description>治療の成功率が良くなる病院用ベッドを作成できるようになります。</HospitalBed.description>
+	<HospitalBed.description>Construct hospital beds which improve medical outcomes.</HospitalBed.description>
 
     <TransportPod.label>輸送ポッド</TransportPod.label>
-    <TransportPod.description>惑星上の長距離２点間輸送が可能になる、輸送ポッドを作成できるようになります。</TransportPod.description>
+    <TransportPod.description>Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more.</TransportPod.description>
 
 	<MedicineProduction.label>製薬</MedicineProduction.label>
-	<MedicineProduction.description>薬草、ニュートロアミン、生地から医薬品を作成できるようになります。</MedicineProduction.description>
-
-	<MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
-	<MultiAnalyzer.description>より高度な研究プロジェクトや、研究設備のそばに置くことで研究速度を高めるための、マルチアナライザーを作成できるようになります。</MultiAnalyzer.description>
+	<MedicineProduction.description>Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
 
 	<LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
-	<LongRangeMineralScanner.description>近隣エリアにある、金やヒスイなどの希少鉱物を自動で探知する、長距離鉱物探査スキャナーを作成できるようになります(但し、まだスキャナーが出来た訳ではありません)。\n\n岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。\n\nすぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner.description>
+	<LongRangeMineralScanner.description>Construct long-range mineral scanners to detect precious minerals like gold or jade in across the planet. Requires advanced components to construct.</LongRangeMineralScanner.description>
+
+	<ShieldBelt.label>シールドベルト</ShieldBelt.label>
+	<ShieldBelt.description>モーメンタム-リパルジョンフィールド技術が、内から外からの遠距離射撃をブロックする、シールドベルトの製造を可能にします。</ShieldBelt.description>
 
 </LanguageData>

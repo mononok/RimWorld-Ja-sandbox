@@ -1,41 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<!-- mechanical -->
-		<MechanicalThorax.label>胸腔</MechanicalThorax.label>
-		<LeftBlade.label>左刃</LeftBlade.label>
-		<RightBlade.label>右刃</RightBlade.label>
-		<MechanicalNeck.label>頚部</MechanicalNeck.label>
-		<MechanicalHead.label>頭部</MechanicalHead.label>
-		<LeftSightSensor.label>左視覚センサ</LeftSightSensor.label>
-		<RightSightSensor.label>右視覚センサ</RightSightSensor.label>
-		<LeftHearingSensor.label>左聴覚センサ</LeftHearingSensor.label>
-		<RightHearingSensor.label>右聴覚センサ</RightHearingSensor.label>
-		<SmellSensor.label>臭覚センサ</SmellSensor.label>
-		<LeftMechanicalShoulder.label>左肩</LeftMechanicalShoulder.label>
-		<LeftMechanicalArm.label>左腕</LeftMechanicalArm.label>
-		<LeftMechanicalHand.label>左手</LeftMechanicalHand.label>
-		<LeftHandMechanicalPinky.label>左小指</LeftHandMechanicalPinky.label>
-		<LeftHandMechanicalMiddleFinger.label>左中指</LeftHandMechanicalMiddleFinger.label>
-		<LeftHandMechanicalIndexFinger.label>左人差指</LeftHandMechanicalIndexFinger.label>
-		<LeftHandMechanicalThumb.label>左母指</LeftHandMechanicalThumb.label>
-		<RightMechanicalShoulder.label>右肩</RightMechanicalShoulder.label>
-		<RightMechanicalArm.label>右腕</RightMechanicalArm.label>
-		<RightMechanicalHand.label>右手</RightMechanicalHand.label>
-		<RightHandMechanicalPinky.label>右小指</RightHandMechanicalPinky.label>
-		<RightHandMechanicalMiddleFinger.label>右中指</RightHandMechanicalMiddleFinger.label>
-		<RightHandMechanicalIndexFinger.label>右人差指</RightHandMechanicalIndexFinger.label>
-		<RightHandMechanicalThumb.label>右母指</RightHandMechanicalThumb.label>
-		<LeftMechanicalLeg.label>左脚</LeftMechanicalLeg.label>
-		<LeftMechanicalFoot.label>左足</LeftMechanicalFoot.label>
-		<RightMechanicalLeg.label>右脚</RightMechanicalLeg.label>
-		<RightMechanicalFoot.label>右足</RightMechanicalFoot.label>
-		<MechanicalCentipedeBodyFirstRing.label>第一節</MechanicalCentipedeBodyFirstRing.label>
-		<MechanicalCentipedeBodySecondRing.label>第二節</MechanicalCentipedeBodySecondRing.label>
-		<MechanicalCentipedeBodyThirdRing.label>第三節</MechanicalCentipedeBodyThirdRing.label>
-		<MechanicalCentipedeBodyFourthRing.label>第四節</MechanicalCentipedeBodyFourthRing.label>
-		<MechanicalCentipedeBodyFifthRing.label>第五節</MechanicalCentipedeBodyFifthRing.label>
-		<MechanicalCentipedeBodySixthRing.label>第六節</MechanicalCentipedeBodySixthRing.label>
-		<ArtificialBrain.label>機械化頭脳</ArtificialBrain.label>
+  <!--======== Common to various mechanoids ========-->
+	<MechanicalNeck.label>頚部</MechanicalNeck.label>
+	<MechanicalHead.label>頭部</MechanicalHead.label>
+	<ArtificialBrain.label>人工頭脳</ArtificialBrain.label>
+	<SightSensor.label>視覚センサ</SightSensor.label>
+	<HearingSensor.label>聴覚センサ</HearingSensor.label>
+	<SmellSensor.label>臭覚センサ</SmellSensor.label>
+	<MechanicalShoulder.label>肩</MechanicalShoulder.label>
+	<MechanicalArm.label>腕</MechanicalArm.label>
+	<MechanicalHand.label>手</MechanicalHand.label>
+	<MechanicalFinger.label>指</MechanicalFinger.label>
+	<MechanicalLeg.label>脚</MechanicalLeg.label>
+	<MechanicalFoot.label>足</MechanicalFoot.label>
+
+  <!--===================== Human-like specific (lancer, scyther) ====================-->
+    <MechanicalThorax.label>胸腔</MechanicalThorax.label>
+
+  <!--===================== Scyther specific ====================-->
+    <Blade.label>刃</Blade.label>
+
+  <!--===================== Centipede specific ====================-->
+    <MechanicalCentipedeBodyFirstRing.label>第一節</MechanicalCentipedeBodyFirstRing.label>
+    <MechanicalCentipedeBodyFirstRing.labelShort>一節</MechanicalCentipedeBodyFirstRing.labelShort>
+    <MechanicalCentipedeBodySecondRing.label>第二節</MechanicalCentipedeBodySecondRing.label>
+    <MechanicalCentipedeBodySecondRing.labelShort>二節</MechanicalCentipedeBodySecondRing.labelShort>
+	<MechanicalCentipedeBodyThirdRing.label>第三節</MechanicalCentipedeBodyThirdRing.label>
+	<MechanicalCentipedeBodyThirdRing.labelShort>三節</MechanicalCentipedeBodyThirdRing.labelShort>
+	<MechanicalCentipedeBodyFourthRing.label>第四節</MechanicalCentipedeBodyFourthRing.label>
+	<MechanicalCentipedeBodyFourthRing.labelShort>四節</MechanicalCentipedeBodyFourthRing.labelShort>
+	<MechanicalCentipedeBodyFifthRing.label>第五節</MechanicalCentipedeBodyFifthRing.label>
+	<MechanicalCentipedeBodyFifthRing.labelShort>五節</MechanicalCentipedeBodyFifthRing.labelShort>
+	<MechanicalCentipedeBodySixthRing.label>第六節</MechanicalCentipedeBodySixthRing.label>
+	<MechanicalCentipedeBodySixthRing.labelShort>六節</MechanicalCentipedeBodySixthRing.labelShort>
 
 </LanguageData>

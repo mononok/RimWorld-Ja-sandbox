@@ -1,25 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MapDollyUp.label>カメラを上に</MapDollyUp.label>
-	<MapDollyDown.label>カメラを下に</MapDollyDown.label>
-	<MapDollyLeft.label>カメラを左に</MapDollyLeft.label>
-	<MapDollyRight.label>カメラを右に</MapDollyRight.label>
-	<MapZoomIn.label>ズームイン</MapZoomIn.label>
-	<MapZoomOut.label>ズームアウト</MapZoomOut.label>
+	<MapDolly_Up.label>カメラを上に</MapDolly_Up.label>
+	<MapDolly_Down.label>カメラを下に</MapDolly_Down.label>
+	<MapDolly_Left.label>カメラを左に</MapDolly_Left.label>
+	<MapDolly_Right.label>カメラを右に</MapDolly_Right.label>
+	<MapZoom_In.label>ズームイン</MapZoom_In.label>
+	<MapZoom_Out.label>ズームアウト</MapZoom_Out.label>
 
 	<!-- Map play -->
 <!--	<ArchitectMode.label>アーキテクトメニューを表示</ArchitectMode.label> -->
-	<ToggleScreenshotMode.label>スクリーンショットモード</ToggleScreenshotMode.label>
+	<Accept.label>accept</Accept.label>
+	<Cancel.label>cancel</Cancel.label>
 	<TakeScreenshot.label>スクリーンショットを撮る</TakeScreenshot.label>
+    <ToggleScreenshotMode.label>toggle screenshot mode</ToggleScreenshotMode.label>
 	<SelectNextInCell.label>次のセルを選択</SelectNextInCell.label>
-	<TogglePause.label>一時停止</TogglePause.label>
-	<TimeSpeedNormal.label>ゲーム速度：普通</TimeSpeedNormal.label>
-	<TimeSpeedFast.label>ゲーム速度：x2</TimeSpeedFast.label>
-	<TimeSpeedSuperfast.label>ゲーム速度：x3</TimeSpeedSuperfast.label>
-	<TimeSpeedUltrafast.label>ゲーム速度：x4(開発中)</TimeSpeedUltrafast.label>
+    <TogglePause.label>pause/resume game</TogglePause.label>
+	<TimeSpeed_Normal.label>ゲーム速度：普通</TimeSpeed_Normal.label>
+	<TimeSpeed_Fast.label>ゲーム速度：x2</TimeSpeed_Fast.label>
+	<TimeSpeed_Superfast.label>ゲーム速度：x3</TimeSpeed_Superfast.label>
+	<TimeSpeed_Ultrafast.label>ゲーム速度：x4(開発中)</TimeSpeed_Ultrafast.label>
 	<PreviousColonist.label>前の入植者を選択</PreviousColonist.label>
 	<NextColonist.label>次の入植者を選択</NextColonist.label>
+	<ToggleRoomStatsDisplay.label>toggle room stats display</ToggleRoomStatsDisplay.label>
+	<ToggleBeautyDisplay.label>toggle beauty display</ToggleBeautyDisplay.label>
 
 	<!-- Misc (re-used) -->
 	<Misc1.label>その他１</Misc1.label>
@@ -36,27 +40,26 @@
 	<Misc12.label>その他１２</Misc12.label>
 
 	<!-- Selection special -->
-	<CommandTogglePower.label>電源スイッチ</CommandTogglePower.label>
-	<CommandItemForbid.label>禁止スイッチ</CommandItemForbid.label>
-	<CommandColonistDraft.label>徴兵</CommandColonistDraft.label>
+	<Command_TogglePower.label>toggle power</Command_TogglePower.label>
+	<Command_ItemForbid.label>禁止スイッチ</Command_ItemForbid.label>
+	<Command_ColonistDraft.label>徴兵</Command_ColonistDraft.label>
 
 	<!-- Architect: Common -->
-	<DesignatorCancel.label>中止</DesignatorCancel.label>
-	<DesignatorDeconstruct.label>破壊</DesignatorDeconstruct.label>
-	<DesignatorRotateLeft.label>反時計回りに回転</DesignatorRotateLeft.label>
-	<DesignatorRotateRight.label>時計回りに回転</DesignatorRotateRight.label>
+	<Designator_Cancel.label>中止</Designator_Cancel.label>
+	<Designator_Deconstruct.label>破壊</Designator_Deconstruct.label>
+	<Designator_RotateLeft.label>反時計回りに回転</Designator_RotateLeft.label>
+	<Designator_RotateRight.label>時計回りに回転</Designator_RotateRight.label>
 
     <!-- Modifiers -->
-    <ModifierIncrement10x.label>x10 増加</ModifierIncrement10x.label>
-    <ModifierIncrement100x.label>x100 増加</ModifierIncrement100x.label>
+    <ModifierIncrement_10x.label>x10 増加</ModifierIncrement_10x.label>
+    <ModifierIncrement_100x.label>x100 増加</ModifierIncrement_100x.label>
     <QueueOrder.label>行列順序</QueueOrder.label>
-    <TickOnce.label>tick once</TickOnce.label>
-
-    <ToggleGodMode.label>god modeを切り替える</ToggleGodMode.label>
-    <ToggleDebugLog.label>debug logを切り替える</ToggleDebugLog.label>
-    <ToggleDebugActionsMenu.label>debug actions menuを切り替える</ToggleDebugActionsMenu.label>
-    <ToggleDebugLogMenu.label>debug log menuを切り替える</ToggleDebugLogMenu.label>
-    <ToggleDebugInspector.label>debug inspectorを切り替える</ToggleDebugInspector.label>
-    <ToggleDebugSettingsMenu.label>debug settings menuを切り替える</ToggleDebugSettingsMenu.label>
+    <Dev_TickOnce.label>tick once</Dev_TickOnce.label>
+    <Dev_ToggleGodMode.label>god modeを切り替える</Dev_ToggleGodMode.label>
+    <Dev_ToggleDebugLog.label>debug logを切り替える</Dev_ToggleDebugLog.label>
+    <Dev_ToggleDebugActionsMenu.label>debug actions menuを切り替える</Dev_ToggleDebugActionsMenu.label>
+    <Dev_ToggleDebugLogMenu.label>debug log menuを切り替える</Dev_ToggleDebugLogMenu.label>
+    <Dev_ToggleDebugInspector.label>debug inspectorを切り替える</Dev_ToggleDebugInspector.label>
+    <Dev_ToggleDebugSettingsMenu.label>debug settings menuを切り替える</Dev_ToggleDebugSettingsMenu.label>
 
 </LanguageData>

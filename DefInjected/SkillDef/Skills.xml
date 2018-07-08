@@ -2,51 +2,51 @@
 <LanguageData>
 
     <Shooting.label>射撃</Shooting.label>
-    <Shooting.description>遠距離武器を扱うスキルです。</Shooting.description>
+    <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
     <Shooting.skillLabel>射撃</Shooting.skillLabel>
 
     <Melee.label>格闘</Melee.label>
-    <Melee.description>近接武器と格闘のスキルです。</Melee.description>
+    <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
     <Melee.skillLabel>格闘</Melee.skillLabel>
 
-    <Social.label>社交</Social.label>
-    <Social.description>交渉、説得、扇動、他に勇気を与えるスキルです。</Social.description>
-    <Social.skillLabel>社交</Social.skillLabel>
-
-    <Animals.label>動物</Animals.label>
-    <Animals.description>飼いならし、調教、動物を扱うスキルです。</Animals.description>
-    <Animals.skillLabel>動物</Animals.skillLabel>
-
-    <Medicine.label>医学</Medicine.label>
-    <Medicine.description>怪我や病気を治し手術を行うスキルです。</Medicine.description>
-    <Medicine.skillLabel>医学</Medicine.skillLabel>
-
-    <Cooking.label>料理</Cooking.label>
-    <Cooking.description>料理の素材から食事を作るスキルです。</Cooking.description>
-    <Cooking.skillLabel>料理</Cooking.skillLabel>
-
     <Construction.label>建築</Construction.label>
-    <Construction.description>品質の高い家具や建物を、早く作成するスキルです。</Construction.description>
+    <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
     <Construction.skillLabel>建築</Construction.skillLabel>
 
-    <Growing.label>栽培</Growing.label>
-    <Growing.description>種を蒔き、育てて収穫するスキルです。</Growing.description>
-    <Growing.skillLabel>栽培</Growing.skillLabel>
-
     <Mining.label>採掘</Mining.label>
-    <Mining.description>トンネルを掘り、鉱物や埋もれていた資源を採掘するスキルです。</Mining.description>
+    <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
     <Mining.skillLabel>採掘</Mining.skillLabel>
+
+    <Cooking.label>料理</Cooking.label>
+    <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
+    <Cooking.skillLabel>料理</Cooking.skillLabel>
+
+    <Plants.label>栽培</Plants.label>
+    <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
+    <Plants.skillLabel>栽培</Plants.skillLabel>
+
+    <Animals.label>動物</Animals.label>
+    <Animals.description>Taming, training, and controlling animals.</Animals.description>
+    <Animals.skillLabel>動物</Animals.skillLabel>
+
+    <Crafting.label>工芸</Crafting.label>
+    <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
+    <Crafting.skillLabel>工芸</Crafting.skillLabel>
 
     <Artistic.label>芸術</Artistic.label>
     <Artistic.description>芸術作品を作るスキルです。</Artistic.description>
     <Artistic.skillLabel>芸術</Artistic.skillLabel>
 
-    <Crafting.label>工芸</Crafting.label>
-    <Crafting.description>工具や武器なども含めたアイテムを作成するスキルです。</Crafting.description>
-    <Crafting.skillLabel>工芸</Crafting.skillLabel>
+    <Medicine.label>医学</Medicine.label>
+    <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
+    <Medicine.skillLabel>医学</Medicine.skillLabel>
+
+    <Social.label>社交</Social.label>
+    <Social.description>交渉、説得、扇動、他に勇気を与えるスキルです。</Social.description>
+    <Social.skillLabel>社交</Social.skillLabel>
 
 	<Intellectual.label>知力</Intellectual.label>
-	<Intellectual.description>証拠を詳細に調べる事や、人間関係の構築、計算や、論理的思考といったスキルです。</Intellectual.description>
+	<Intellectual.description>Researching and drug synthesis.</Intellectual.description>
 	<Intellectual.skillLabel>知力</Intellectual.skillLabel>
 
 </LanguageData>

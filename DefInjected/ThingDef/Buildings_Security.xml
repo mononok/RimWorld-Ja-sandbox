@@ -2,93 +2,120 @@
 <LanguageData>
 
     <Sandbags.label>土のう</Sandbags.label>
-    <Sandbags.description>銃撃から身を隠せます。</Sandbags.description>
-    <Sandbags_Blueprint.label>土のう(設計)</Sandbags_Blueprint.label>
-    <Sandbags_Frame.label>土のう(施工)</Sandbags_Frame.label>
-    <Sandbags_Frame.description>銃撃から身を隠せます。</Sandbags_Frame.description>
+    <Sandbags.description>Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks.</Sandbags.description>
+    <Blueprint_Sandbags.label>土のう(設計)</Blueprint_Sandbags.label>
+    <Frame_Sandbags.label>土のう(施工)</Frame_Sandbags.label>
+    <Frame_Sandbags.description>銃撃から身を隠せます。</Frame_Sandbags.description>
 
 	<!--=============== Improvised turret ===============-->
-	<TurretGun.label>タレット</TurretGun.label>
-	<TurretGun_Blueprint_Install.label>タレット(移動先)</TurretGun_Blueprint_Install.label>
-    <TurretGun.description>近寄ってきた敵へ自動的に射撃を行う、即席でもろい自動銃座です。</TurretGun.description>
-	<TurretGun_Blueprint.label>タレット(設計)</TurretGun_Blueprint.label>
-	<TurretGun_Frame.label>タレット(施工)</TurretGun_Frame.label>
-	<TurretGun_Frame.description>近寄ってきた敵へ自動的に射撃を行う即席のタレット。ダメージを受けると爆発します。AI頭脳はとてもバカなので、直接制御ができず、フレンドリーファイアーに注意してください。</TurretGun_Frame.description>
+	<Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
+	<Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>
+    <Turret_MiniTurret.description>An small, short-ranged automatic turret. Requires steel to replace its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
+	<Blueprint_Turret_MiniTurret.label>タレット(設計)</Blueprint_Turret_MiniTurret.label>
+	<Frame_Turret_MiniTurret.label>タレット(施工)</Frame_Turret_MiniTurret.label>
+	<Frame_Turret_MiniTurret.description>An small, short-ranged automatic turret. Requires steel to replace its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Frame_Turret_MiniTurret.description>
+    <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Shots until barrel change</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+    <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+    <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
 
-	<Bullet_TurretImprovised.label>タレット弾</Bullet_TurretImprovised.label>
-	<Gun_TurretImprovised.label>タレット</Gun_TurretImprovised.label>
-	<Gun_TurretImprovised.description>タレットに銃を取り付けただけの応急装備</Gun_TurretImprovised.description>
+	<Bullet_MiniTurret.label>ミニ-タレット弾</Bullet_MiniTurret.label>
+	<Gun_MiniTurret.label>ミニ-タレット銃</Gun_MiniTurret.label>
+	<Gun_MiniTurret.description>タレットに銃を取り付けただけのシンプルな自動銃です。</Gun_MiniTurret.description>
+	<Gun_MiniTurret.verbs.Verb_Shoot.label>mini-turret gun</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  <!--=============== Autocannon turret ===============-->
+	<Turret_Autocannon.label>autocannon turret</Turret_Autocannon.label>
+	<Turret_Autocannon.description>A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but it requires frequent and expensive barrel changes. It cannot fire at close-up targets, and may explode when damaged.</Turret_Autocannon.description>
+    <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Shots until barrel change</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+    <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+    <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+
+	<Bullet_AutocannonTurret.label>autocannon shell</Bullet_AutocannonTurret.label>
+	<Gun_AutocannonTurret.label>autocannon</Gun_AutocannonTurret.label>
+	<Gun_AutocannonTurret.description>A self-loading large-bore cannon designed to attach to a turret.</Gun_AutocannonTurret.description>
+	<Gun_AutocannonTurret.verbs.Verb_Shoot.label>autocannon</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+
+    <Turret_Sniper.label>sniper turret</Turret_Sniper.label>
+    <Turret_Sniper.description>A very long-ranged automatic sniper turret. Its high-velocity shells do heavy damage over very long ranges, but it requires frequent and expensive barrel changes. It cannot fire at close-up targets, and may explode when damaged.</Turret_Sniper.description>
+    <Turret_Sniper.comps.CompRefuelable.fuelLabel>Shots until barrel change</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+    <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+    <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+
+    <Bullet_TurretSniper.label>sniper shell</Bullet_TurretSniper.label>
+    <Gun_TurretSniper.label>sniper cannon</Gun_TurretSniper.label>
+    <Gun_TurretSniper.description>A self-loading sniper cannon designed to attach to a turret.</Gun_TurretSniper.description>
+    <Gun_TurretSniper.verbs.Verb_Shoot.label>sniper cannon</Gun_TurretSniper.verbs.Verb_Shoot.label>
 
   <!--=============== Mortar bomb turret ===============-->
 	<Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
-	<Turret_Mortar_Blueprint_Install.label>溜弾迫撃砲(移動先)</Turret_Mortar_Blueprint_Install.label>
-    <Turret_Mortar.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_Mortar.description>
-	<Turret_Mortar_Blueprint.label>榴弾迫撃砲(設計)</Turret_Mortar_Blueprint.label>
-	<Turret_Mortar_Frame.label>榴弾迫撃砲(施工)</Turret_Mortar_Frame.label>
-	<Turret_Mortar_Frame.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Turret_Mortar_Frame.description>
+	<Blueprint_Install_Turret_Mortar.label>溜弾迫撃砲(移動先)</Blueprint_Install_Turret_Mortar.label>
+    <Turret_Mortar.description>A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field.</Turret_Mortar.description>
+	<Blueprint_Turret_Mortar.label>榴弾迫撃砲(設計)</Blueprint_Turret_Mortar.label>
+	<Frame_Turret_Mortar.label>榴弾迫撃砲(施工)</Frame_Turret_Mortar.label>
+	<Frame_Turret_Mortar.description>手動でのみ榴弾を投射できます、ダメージを受けると爆発します。</Frame_Turret_Mortar.description>
 
     <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
 	<Artillery_Mortar.description>榴弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_Mortar.description>
+	<Artillery_Mortar.verbs.Verb_Shoot.label>mortar</Artillery_Mortar.verbs.Verb_Shoot.label>
 
   <!--==================== Traps ======================== -->
 
 	<TrapDeadfall.label>デッドフォール</TrapDeadfall.label>
 	<TrapDeadfall.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall.description>
-	<TrapDeadfall_Blueprint.label>デッドフォール(設計)</TrapDeadfall_Blueprint.label>
-	<TrapDeadfall_Frame.label>デッドフォール(施工)</TrapDeadfall_Frame.label>
-	<TrapDeadfall_Frame.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</TrapDeadfall_Frame.description>
+	<Blueprint_TrapDeadfall.label>デッドフォール(設計)</Blueprint_TrapDeadfall.label>
+	<Frame_TrapDeadfall.label>デッドフォール(施工)</Frame_TrapDeadfall.label>
+	<Frame_TrapDeadfall.description>吊された重しを、繊細な引き金によって留めた罠です。犠牲者となる者が引き金に触れた時、彼の頭上から重しが降ってきます。</Frame_TrapDeadfall.description>
 
 	<TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
-	<TrapIED_HighExplosive.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</TrapIED_HighExplosive.description>
-	<TrapIED_HighExplosive_Blueprint.label>IED trap(設計)</TrapIED_HighExplosive_Blueprint.label>
-	<TrapIED_HighExplosive_Frame.label>IED trap(施工)</TrapIED_HighExplosive_Frame.label>
-	<TrapIED_HighExplosive_Frame.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</TrapIED_HighExplosive_Frame.description>
+	<TrapIED_HighExplosive.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. Wild animals will avoid these.</TrapIED_HighExplosive.description>
+	<Blueprint_TrapIED_HighExplosive.label>IED trap(設計)</Blueprint_TrapIED_HighExplosive.label>
+	<Frame_TrapIED_HighExplosive.label>IED trap(施工)</Frame_TrapIED_HighExplosive.label>
+	<Frame_TrapIED_HighExplosive.description>自家製の引き金をつけた迫撃砲弾。引き金に触れるた時、炸裂します。即席で作ったトリガーなのでランダムな遅延があり、素早い敵には逃げる余裕を与えてしまうかもしれません。</Frame_TrapIED_HighExplosive.description>
 
 	<TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
-	<TrapIED_Incendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIED_Incendiary.description>
-	<TrapIED_Incendiary_Blueprint.label>IED 焼夷トラップ(設計)</TrapIED_Incendiary_Blueprint.label>
-	<TrapIED_Incendiary_Frame.label>IED 焼夷トラップ(施工)</TrapIED_Incendiary_Frame.label>
-	<TrapIED_Incendiary_Frame.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</TrapIED_Incendiary_Frame.description>
+	<TrapIED_Incendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Wild animals will avoid these.</TrapIED_Incendiary.description>
+	<Blueprint_TrapIED_Incendiary.label>IED 焼夷トラップ(設計)</Blueprint_TrapIED_Incendiary.label>
+	<Frame_TrapIED_Incendiary.label>IED 焼夷トラップ(施工)</Frame_TrapIED_Incendiary.label>
+	<Frame_TrapIED_Incendiary.description>自家製の引き金をつけた焼夷弾。犠牲者となる者が引き金に触れた時、炸裂します。</Frame_TrapIED_Incendiary.description>
 
     <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
-    <TrapIED_EMP.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</TrapIED_EMP.description>
-	<TrapIED_EMP_Blueprint.label>IED EMPトラップ(設計)</TrapIED_EMP_Blueprint.label>
-	<TrapIED_EMP_Frame.label>IED EMPトラップ(施工)</TrapIED_EMP_Frame.label>
-	<TrapIED_EMP_Frame.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</TrapIED_EMP_Frame.description>
+    <TrapIED_EMP.description>A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions. Wild animals will avoid these.</TrapIED_EMP.description>
+	<Blueprint_TrapIED_EMP.label>IED EMPトラップ(設計)</Blueprint_TrapIED_EMP.label>
+	<Frame_TrapIED_EMP.label>IED EMPトラップ(施工)</Frame_TrapIED_EMP.label>
+	<Frame_TrapIED_EMP.description>自家製の引き金をつけたEMP弾。炸裂すると数秒間、機械生命体を麻痺させることができます。EMP爆発には影響を受けない者によって引き金が引かれることもあります。</Frame_TrapIED_EMP.description>
 
 	<TrapIED_Firefoam.label>IED 消化剤トラップ</TrapIED_Firefoam.label>
-	<TrapIED_Firefoam.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</TrapIED_Firefoam.description>
-	<TrapIED_Firefoam_Blueprint.label>IED 消化剤トラップ(設計)</TrapIED_Firefoam_Blueprint.label>
-	<TrapIED_Firefoam_Frame.label>IED 消化剤トラップ(施工)</TrapIED_Firefoam_Frame.label>
-	<TrapIED_Firefoam_Frame.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</TrapIED_Firefoam_Frame.description>
+	<TrapIED_Firefoam.description>When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. Wild animals will avoid these.</TrapIED_Firefoam.description>
+	<Blueprint_TrapIED_Firefoam.label>IED 消化剤トラップ(設計)</Blueprint_TrapIED_Firefoam.label>
+	<Frame_TrapIED_Firefoam.label>IED 消化剤トラップ(施工)</Frame_TrapIED_Firefoam.label>
+	<Frame_TrapIED_Firefoam.description>誰かが引き金に触れた時、トラップは爆発して、辺りに消化剤をまき散らします。</Frame_TrapIED_Firefoam.description>
 
     <TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ</TrapIED_AntigrainWarhead.label>
-    <TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます。</TrapIED_AntigrainWarhead.description>
-	<TrapIED_AntigrainWarhead_Blueprint.label>IED 反物質弾トラップ(設計)</TrapIED_AntigrainWarhead_Blueprint.label>
-	<TrapIED_AntigrainWarhead_Frame.label>IED 反物質弾トラップ(施工)</TrapIED_AntigrainWarhead_Frame.label>
-	<TrapIED_AntigrainWarhead_Frame.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます。</TrapIED_AntigrainWarhead_Frame.description>
+    <TrapIED_AntigrainWarhead.description>A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion. Wild animals will avoid these.</TrapIED_AntigrainWarhead.description>
+	<Blueprint_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(設計)</Blueprint_TrapIED_AntigrainWarhead.label>
+	<Frame_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(施工)</Frame_TrapIED_AntigrainWarhead.label>
+	<Frame_TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭。トリガーに触れた時、大規模爆発と火災を発生させます。</Frame_TrapIED_AntigrainWarhead.description>
 
 <!--
 	<Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>
     <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できます、ダメージを受けると爆発します。</Turret_MortarIncendiary.description>
-	<Turret_MortarIncendiary_Blueprint.label>焼夷迫撃砲(設計)</Turret_MortarIncendiary_Blueprint.label>
-	<Turret_MortarIncendiary_Frame.label>焼夷迫撃砲(施工)</Turret_MortarIncendiary_Frame.label>
+	<Turret_Blueprint_MortarIncendiary.label>焼夷迫撃砲(設計)</Turret_Blueprint_MortarIncendiary.label>
+	<Turret_Frame_MortarIncendiary.label>焼夷迫撃砲(施工)</Turret_Frame_MortarIncendiary.label>
     <Artillery_MortarIncendiary.label>迫撃砲(焼夷弾)</Artillery_MortarIncendiary.label>
 	<Artillery_MortarIncendiary.description>焼夷弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_MortarIncendiary.description>
     <Bullet_MortarIncendiary.label>焼夷弾(迫撃砲用)</Bullet_MortarIncendiary.label>
 
 	<Turret_MortarEMP.label>EMP迫撃砲</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>手動でのみEMP弾を投射できます、ダメージを受けると爆発します。</Turret_MortarEMP.description>
-	<Turret_MortarEMP_Blueprint.label>EMP迫撃砲(設計)</Turret_MortarEMP_Blueprint.label>
-	<Turret_MortarEMP_Frame.label>EMP迫撃砲(施工)</Turret_MortarEMP_Frame.label>
+	<Turret_Blueprint_MortarEMP.label>EMP迫撃砲(設計)</Turret_Blueprint_MortarEMP.label>
+	<Turret_Frame_MortarEMP.label>EMP迫撃砲(施工)</Turret_Frame_MortarEMP.label>
     <Artillery_MortarEMP.label>迫撃砲(EMP)</Artillery_MortarEMP.label>
 	<Artillery_MortarEMP.description>EMP弾を打ち出す迫撃砲。壁を越えて曲射弾道を描きます、長距離兵器ですが命中精度に欠けます。</Artillery_MortarEMP.description>
 	<Bullet_MortarEMP.label>EMP(迫撃砲用)</Bullet_MortarEMP.label>
 
 	<TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
 	<TrapIEDBomb.description>自家製の引き金をつけた迫撃砲弾。犠牲者となる者が引き金に触れた時、炸裂します。即興で作った引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります。</TrapIEDBomb.description>
-	<TrapIEDBomb_Blueprint.label>IED トラップ(設計)</TrapIEDBomb_Blueprint.label>
-	<TrapIEDBomb_Frame.label>IED トラップ(施工)</TrapIEDBomb_Frame.label>
+	<Blueprint_TrapIEDBomb.label>IED トラップ(設計)</Blueprint_TrapIEDBomb.label>
+	<Frame_TrapIEDBomb.label>IED トラップ(施工)</Frame_TrapIEDBomb.label>
 -->
 
 </LanguageData>

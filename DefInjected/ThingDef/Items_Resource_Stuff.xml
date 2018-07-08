@@ -1,28 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+	
+	<!--========== Basic leathers ============-->
+	<Leather_Plain.label>plain leather</Leather_Plain.label>
+	<Leather_Plain.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Plain.description>
+
+	<Leather_Dog.label>犬の革</Leather_Dog.label>
+	<Leather_Dog.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Dog.description>
+
+	<Leather_Wolf.label>狼の革</Leather_Wolf.label>
+	<Leather_Wolf.description>A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold.</Leather_Wolf.description>
+	<Leather_Panthera.label>パンサーの毛皮</Leather_Panthera.label>
+	<Leather_Panthera.description>A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat.</Leather_Panthera.description>
+	<Leather_Camel.label>ラクダの革</Leather_Camel.label>
+	<Leather_Camel.description>Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates.</Leather_Camel.description>
+	<Leather_Bluefur.label>bulefur</Leather_Bluefur.label>
+	<Leather_Bluefur.description>The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates.</Leather_Bluefur.description>
+	<Leather_Bear.label>熊の革</Leather_Bear.label>
+	<Leather_Bear.description>The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_Bear.description>
+
+	<!--========== Thin leathers ============-->
+	<Leather_Light.label>light leather</Leather_Light.label>
+	<Leather_Light.description>Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers.</Leather_Light.description>
+	<Leather_Bird.label>鳥の皮</Leather_Bird.label>
+	<Leather_Bird.description>Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_Bird.description>
+	<Leather_Chinchilla.label>チンチラの毛皮</Leather_Chinchilla.label>
+	<Leather_Chinchilla.description>Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable.</Leather_Chinchilla.description>
+	<Leather_Fox.label>狐の毛皮</Leather_Fox.label>
+	<Leather_Fox.description>The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price.</Leather_Fox.description>
+	<Leather_Lizard.label>トカゲの皮</Leather_Lizard.label>
+	<Leather_Lizard.description>The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all.</Leather_Lizard.description>
+
+	<!--========== Skin leathers ============-->
+	<Leather_Human.label>人皮</Leather_Human.label>
+	<Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
+	<Leather_Pig.label>豚の皮</Leather_Pig.label>
+	<Leather_Pig.description>Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_Pig.description>
+
+	<!--========== Tough leathers ============-->
+	<Leather_Elephant.label>象の皮</Leather_Elephant.label>
+	<Leather_Elephant.description>Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator.</Leather_Elephant.description>
+
+	<Leather_Heavy.label>heavy fur</Leather_Heavy.label>
+	<Leather_Heavy.description>Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well.</Leather_Heavy.description>
+
+	<Leather_Rhinoceros.label>サイの皮</Leather_Rhinoceros.label>
+	<Leather_Rhinoceros.description>Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Rhinoceros.description>
+
+	<!--========== Super leathers ============-->
+	<Leather_Thrumbo.label>スランボの毛皮</Leather_Thrumbo.label>
+	<Leather_Thrumbo.description>Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_Thrumbo.description>
+
+	<!--========== Awful leathers ============-->
+	<Leather_Patch.label>パッチレザー</Leather_Patch.label>
+	<Leather_Patch.description>A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather.</Leather_Patch.description>
 
 	<!--=============== Currency ====================-->
 	<Silver.label>シルバー</Silver.label>
-	<Silver.description>この金属は主に通貨として使われます。また、魅力的な装飾物を作る為にも使われます。</Silver.description>
+	<Silver.description>この金属は主に通貨として使われます。また、装飾物を作る為にも使われます。</Silver.description>
 	<Silver.stuffProps.stuffAdjective>銀製</Silver.stuffProps.stuffAdjective>
 
 	<Gold.label>ゴールド</Gold.label>
-	<Gold.description>それら全ての中でもっとも誘惑的な金属。何百万人もの人間が、金を手に入れようと飽くなき欲望の果てに死んでいきました。この弱い金属は単体では使いませんが、とても美しく非常にまれです。</Gold.description>
+	<Gold.description>The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold.</Gold.description>
 	<Gold.stuffProps.stuffAdjective>金製</Gold.stuffProps.stuffAdjective>
 
 	<Steel.label>スチール</Steel.label>
-	<Steel.description>この金属は、建築、工作機械、兵器等、広い用途に使われています。</Steel.description>
+	<Steel.description>An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines.</Steel.description>
 	<Steel.stuffProps.stuffAdjective>鉄製</Steel.stuffProps.stuffAdjective>
 
 	<Plasteel.label>プラスチール</Plasteel.label>
 	<Plasteel.description>ユニークな分子構造により 極めて強い高度な航宙艦構造素材です。</Plasteel.description>
 
 	<WoodLog.label>木材</WoodLog.label>
-	<WoodLog.description>木から作られ、建築、兵器、松葉杖などに使われます。</WoodLog.description>
+	<WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
 	<WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
 
 	<Uranium.label>ウラン</Uranium.label>
-	<Uranium.description>放射性核燃料です。</Uranium.description>
+	<Uranium.description>An dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain primitive weapons and armor.</Uranium.description>
 	<Uranium.stuffProps.stuffAdjective>ウラニウム製</Uranium.stuffProps.stuffAdjective>
 
 	<Jade.label>ヒスイ</Jade.label>
@@ -37,21 +91,21 @@
 	<Synthread.description>進んだテクノロジーは、適した衣服を作る合成繊維を開発しました、それは柔らかで、軽く、強く、熱を逃がしません。</Synthread.description>
 
 	<DevilstrandCloth.label>デビルストランド</DevilstrandCloth.label>
-	<DevilstrandCloth.description>デビルストランドマッシュルームから、直接取り出した、非常に強い繊維です。</DevilstrandCloth.description>
+	<DevilstrandCloth.description>Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects well against flame.</DevilstrandCloth.description>
 
 	<Hyperweave.label>ハイパーウィーブ </Hyperweave.label>
-	<Hyperweave.description>ナノ繊維を編み込んだハイテク衣服、非常に強く、引き裂く事はできません。</Hyperweave.description>
+	<Hyperweave.description>Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
 
-	<MegaslothWool.label>メガスロス毛</MegaslothWool.label>
-	<MegaslothWool.description>若干、ざらざらしているのに、メガスロスの長い毛足は非常に上部で、とても暖かいです。</MegaslothWool.description>
+	<WoolMegasloth.label>メガスロス毛</WoolMegasloth.label>
+	<WoolMegasloth.description>若干、ざらざらしているのに、メガスロスの長い毛足は非常に上部で、とくに暖かいです。</WoolMegasloth.description>
 
-    <MuffaloWool.label>マッファロ毛</MuffaloWool.label>
-    <MuffaloWool.description>柔らかく、軽い、とても良い断熱材です。毛で編んだ服は、どんな過酷な状況でも身体を温めておくことができます。</MuffaloWool.description>
+    <WoolMuffalo.label>マッファロ毛</WoolMuffalo.label>
+    <WoolMuffalo.description>柔らかく、軽い、とても良い断熱材です。毛で編んだ服は、どんな過酷な状況でも身体を温めておくことができます。</WoolMuffalo.description>
 
-    <CamelHair.label>ラクダ毛</CamelHair.label>
-    <CamelHair.description>砂漠を旅する者たちは、熱波から自分を守るために、ラクダの毛で編んだ服をたいてい着ています。それは、毛のもつ自動温度調節機能によって素晴らしい遮熱効果をもたらすからです。</CamelHair.description>
+    <WoolCamel.label>ラクダ毛</WoolCamel.label>
+    <WoolCamel.description>砂漠を旅する者たちは、熱波から自分を守るために、ラクダの毛で編んだ服をたいてい着ています。それは、毛のもつ自動温度調節機能によって素晴らしい遮熱効果をもたらすからです。</WoolCamel.description>
 
-    <AlpacaWool.label>アルパカ毛</AlpacaWool.label>
-    <AlpacaWool.description>注目に値する程柔らかいアルパカの毛です。</AlpacaWool.description>
+    <WoolAlpaca.label>アルパカ毛</WoolAlpaca.label>
+    <WoolAlpaca.description>注目に値する程柔らかいアルパカの毛です。</WoolAlpaca.description>
 
 </LanguageData>

@@ -41,25 +41,19 @@
 
   <!-- Quality category -->
   <QualityCategory_Awful>壊れかけ</QualityCategory_Awful>
-  <QualityCategory_Shoddy>粗悪品</QualityCategory_Shoddy>
   <QualityCategory_Poor>低品質</QualityCategory_Poor>
   <QualityCategory_Normal>標準品</QualityCategory_Normal>
   <QualityCategory_Good>良品</QualityCategory_Good>
-  <QualityCategory_Superior>優品</QualityCategory_Superior>
   <QualityCategory_Excellent>秀品</QualityCategory_Excellent>
   <QualityCategory_Masterwork>名品</QualityCategory_Masterwork>
   <QualityCategory_Legendary>幻の一品</QualityCategory_Legendary>
-
   <QualityCategoryShort_Awful>半壊</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>粗悪</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>劣</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>並</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>良</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>優</QualityCategoryShort_Superior>
   <QualityCategoryShort_Excellent>秀</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>名</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>幻</QualityCategoryShort_Legendary>
-
 
   <!-- Hunger -->
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
@@ -98,8 +92,8 @@
   <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>看護する(薬品は不使用)</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>看護する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>看護する(医薬品まで投与)</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>最善の治療をする</MedicalCareCategory_Best>
+  <MedicalCareCategory_NormalOrWorse>Industrial-tech medicine or worse</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Best quality medicine</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>
@@ -118,7 +112,7 @@
   <TechLevel_Industrial>産業革命</TechLevel_Industrial>
   <TechLevel_Spacer>宇宙世紀</TechLevel_Spacer>
   <TechLevel_Ultra>最先端の技術力</TechLevel_Ultra>
-  <TechLevel_Transcendent>超越した技術力</TechLevel_Transcendent>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>立ったまま</PlayerPawnsArriveMethod_Standing>
@@ -148,5 +142,25 @@
   <Direction8Way_SouthWest_Short>南西</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>西</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>北西</Direction8Way_NorthWest_Short>
+
+  <!-- Diet category -->
+  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <FoodPoisonCause_IncompetentCook>incompetent cook</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>dirty cooking area</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
 
 </LanguageData>

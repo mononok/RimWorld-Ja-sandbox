@@ -2,27 +2,27 @@
 <LanguageData>
 
     <!--=============== Medicine ====================-->
-    <HerbalMedicine.label>薬草</HerbalMedicine.label>
-    <HerbalMedicine.description>主としてヒールルートから抽出した薬草の調合物です。医薬品より効能は劣りますが、なにも使わないよりはマシです。</HerbalMedicine.description>
+    <MedicineHerbal.label>薬草</MedicineHerbal.label>
+    <MedicineHerbal.description>主としてヒールルートから抽出した薬草の調合物です。医薬品より効能は劣りますが、なにも使わないよりはマシです。</MedicineHerbal.description>
 
-    <Medicine.label>医薬品</Medicine.label>
-    <Medicine.description>医療スタッフが、怪我の手当をするのに、この品を使います。</Medicine.description>
+    <MedicineIndustrial.label>医薬品</MedicineIndustrial.label>
+    <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
 
-    <GlitterworldMedicine.label>最先端医薬品</GlitterworldMedicine.label>
-    <GlitterworldMedicine.description>先端科学を持つグリッターワールドからもたらされた、最先端医薬品です。</GlitterworldMedicine.description>
+    <MedicineUltratech.label>最先端医薬品</MedicineUltratech.label>
+    <MedicineUltratech.description>A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools.</MedicineUltratech.description>
 
     <!--=============== Shells ====================-->
 
-    <MortarShell.label>迫撃砲弾</MortarShell.label>
-    <MortarShell.description>迫撃砲の砲弾です。</MortarShell.description>
+    <Shell_HighExplosive.label>迫撃砲弾</Shell_HighExplosive.label>
+    <Shell_HighExplosive.description>迫撃砲の砲弾です。</Shell_HighExplosive.description>
 
   <!--=============== Component ====================-->
 
-    <Component.label>コンポーネント</Component.label>
-    <Component.description>ギア、コンデンサ、回路、管、回転盤、センサー、ワイヤー、チップ、プロセッサおよび他の電子部品や工業部品。複雑な機械や電器製品を組み立てる際に必要です。</Component.description>
+    <ComponentIndustrial.label>コンポーネント</ComponentIndustrial.label>
+    <ComponentIndustrial.description>ギア、コンデンサ、回路、管、回転盤、センサー、ワイヤー、チップ、プロセッサおよび他の電子部品や工業部品。複雑な機械や電器製品を組み立てる際に必要です。</ComponentIndustrial.description>
 
-    <AdvancedComponent.label>先進コンポーネント</AdvancedComponent.label>
-    <AdvancedComponent.description>高品質電子機器、小型化された大抵のストレスのかかるアプリケーションを強固にします。</AdvancedComponent.description>
+    <ComponentSpacer.label>先進コンポーネント</ComponentSpacer.label>
+    <ComponentSpacer.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentSpacer.description>
 
   <!--=============== Neutroamine ====================-->
 
@@ -30,6 +30,6 @@
   <Neutroamine.description>合成されたケミカル前駆物質。単独では使い道がないが、多くのドラッグが構成要素として必要としている。</Neutroamine.description>
 
   <Chemfuel.label>バイオ液化燃料</Chemfuel.label>
-  <Chemfuel.description>不安定な液体の化学物質です。ロケットの打ち上げや、機械の燃料として使用します。</Chemfuel.description>
+  <Chemfuel.description>A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon.</Chemfuel.description>
 
 </LanguageData>

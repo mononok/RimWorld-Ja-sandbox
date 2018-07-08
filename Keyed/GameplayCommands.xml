@@ -44,6 +44,7 @@
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
   <BuildingAssign>指定</BuildingAssign>
+    <BuildingReassign>Reassign</BuildingReassign>
   <BuildingUnassign>解除</BuildingUnassign>
 	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
 	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
@@ -82,6 +83,8 @@
 <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
 <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
 <CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
 <MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
 <MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
   <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません。</MessageTurretWontFireBecauseHoldFire>
@@ -189,6 +192,14 @@
     <CommandCancelFormingCaravan>キャラバン隊編成の中止</CommandCancelFormingCaravan>
     <CommandCancelFormingCaravanDesc>編成作業を中止させる。</CommandCancelFormingCaravanDesc>
 
+  <!-- Remove from caravan -->
+  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
+  
     <!-- Show map -->
     <CommandShowMap>ズームイン</CommandShowMap>
     <CommandShowMapDesc>このエリアを拡大表示する。</CommandShowMapDesc>
@@ -197,6 +208,10 @@
     <CommandTrade>貿易</CommandTrade>
     <CommandTradeDesc>この派閥と商売する。</CommandTradeDesc>
     <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
+
+  <!-- Offer gifts -->
+  <CommandOfferGifts>Offer gifts</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Offer gifts to this faction.</CommandOfferGiftsDesc>
 
       <!-- Fulfill request -->
   <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
@@ -249,5 +264,17 @@
   <!-- Remove waypoint -->
   <CommandRemoveWaypointLabel>削除</CommandRemoveWaypointLabel>
   <CommandRemoveWaypointDesc>ウェイポイントを削除</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <CommandPauseCaravan>Rest</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>Stop the caravan for a moment. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}\n  - Sick people can rest in bedrolls</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <CommandAttackSettlement>Attack</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
 
 </LanguageData>

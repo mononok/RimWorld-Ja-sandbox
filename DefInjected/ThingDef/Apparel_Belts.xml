@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<Apparel_ShieldBelt.label>シールドベルト</Apparel_ShieldBelt.label>
+	<Apparel_ShieldBelt.description>A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack. It does nothing against melee attacks or shots from point-blank range. It prevents firing out the same as it prevents firing in.</Apparel_ShieldBelt.description>
+
     <Apparel_SmokepopBelt.label>スモークポップベルト</Apparel_SmokepopBelt.label>
-    <Apparel_SmokepopBelt.description>自動展張するスモークスクリーンです。着用者が撃たれると、敵の視線を防ぎ、タレットのロックオンを防止する、一度限りの厚い煙幕を展張します。</Apparel_SmokepopBelt.description>
+    <Apparel_SmokepopBelt.description>An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
 
 </LanguageData>

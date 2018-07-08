@@ -2,13 +2,16 @@
 <LanguageData>
 
 	<AllowCorpsesColonist.label>入植者の死骸を許可</AllowCorpsesColonist.label>
-	<AllowCorpsesColonist.description>死んだ元入植者を許可する</AllowCorpsesColonist.description>
+	<AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
 
 	<AllowCorpsesStranger.label>不審者の死骸を許可</AllowCorpsesStranger.label>
-	<AllowCorpsesStranger.description>死んだ元不審者や敵を許可します。</AllowCorpsesStranger.description>
+	<AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
 
 	<AllowRotten.label>腐乱死体を許可 </AllowRotten.label>
 	<AllowRotten.description>腐りかけの有機体も許可します。</AllowRotten.description>
+
+    <AllowFresh.label>allow fresh</AllowFresh.label>
+    <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
 
     <AllowPlantFood.label>飼料を許可</AllowPlantFood.label>
     <AllowPlantFood.description>干し草のような、食物同然な価値を持つ植物を許可します。</AllowPlantFood.description>
@@ -17,6 +20,10 @@
 
     <AllowNonSmeltableWeapons.label>不溶解な武器を許可</AllowNonSmeltableWeapons.label>
 
-    <AllowNonDeadmansApparel.label>死者の着衣,以外を許可</AllowNonDeadmansApparel.label>
+    <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
+    <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+
+    <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
+    <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
 
 </LanguageData>

@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <FeelingRandom.stages.0.label>気分は最高</FeelingRandom.stages.0.label>
-    <FeelingRandom.stages.0.description>はっきりした理由もないけど、気分は最高。</FeelingRandom.stages.0.description>
-
-    <FeelingRandom.stages.1.label>気分は上々</FeelingRandom.stages.1.label>
-    <FeelingRandom.stages.1.description>はっきりした理由もないけど、気分は上々。</FeelingRandom.stages.1.description>
-
-    <FeelingRandom.stages.2.label>気分は沈みがち</FeelingRandom.stages.2.label>
-    <FeelingRandom.stages.2.description>はっきりした理由もないのに、気分が落ち込む。</FeelingRandom.stages.2.description>
-
-    <FeelingRandom.stages.3.label>気分はどん底</FeelingRandom.stages.3.label>
-    <FeelingRandom.stages.3.description>はっきりした理由もないのに、気分がどん底まで落ち込む。</FeelingRandom.stages.3.description>
-
 	<rep>
 		<path>Imprisoned.stages[0].label</path>
 		<trans>監禁された</trans>
@@ -49,45 +37,20 @@
 		<trans>私は裸。屈辱的だ。</trans>
 	</rep>
 
-
-	<rep>
-		<path>Pain.stages[0].label</path>
-		<trans>わずかな痛み</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[0].description</path>
-		<trans>ん？なにか痛い。</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[1].label</path>
-		<trans>中程度の痛み</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[1].description</path>
-		<trans>ううう、いつ痛みが止むのだろう?</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[2].label</path>
-		<trans>激痛</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[2].description</path>
-		<trans>痛みを止めてくれ、痛みを止めてくれ、痛みを止めてくれ。</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[3].label</path>
-		<trans>ショック状態</trans>
-	</rep>
-	<rep>
-		<path>Pain.stages[3].description</path>
-		<trans>痛い!!!、今すぐ殺して!!!</trans>
-	</rep>
+    <Pain.stages.0.label>minor pain</Pain.stages.0.label>
+    <Pain.stages.0.description>ん？なにか痛い。</Pain.stages.0.description>
+    <Pain.stages.1.label>serious pain</Pain.stages.1.label>
+	<Pain.stages.1.description>ううう、いつ痛みが止むのだろう?</Pain.stages.1.description>
+    <Pain.stages.2.label>intense pain</Pain.stages.2.label>
+	<Pain.stages.2.description>痛みを止めてくれ、痛みを止めてくれ、痛みを止めてくれ。</Pain.stages.2.description>
+    <Pain.stages.3.label>mind-shattering pain</Pain.stages.3.label>
+	<Pain.stages.3.description>うぁぁぁぁぁ</Pain.stages.3.description>
 
     <PsychicEmanatorSoothe.stages.0.label>サイコスード波動器</PsychicEmanatorSoothe.stages.0.label>
     <PsychicEmanatorSoothe.stages.0.description>サイコスード波動器は私を力づけて、とてもリラックスさせる。</PsychicEmanatorSoothe.stages.0.description>
 
     <!-- Psychic drone -->
-    <PsychicDrone.stages.0.label>サイコスード(中度)</PsychicDrone.stages.0.label>
+    <PsychicDrone.stages.0.label>サイコスード</PsychicDrone.stages.0.label>
     <PsychicDrone.stages.0.description>それは心の裏側に穏やかな声が囁くようです、私をなだめて、精神を安定させてくれます。</PsychicDrone.stages.0.description>
     <PsychicDrone.stages.1.label>サイコドローン(低度)</PsychicDrone.stages.1.label>
     <PsychicDrone.stages.1.description>それは心の裏側を、爪で引っ掻かれるようなものです。声、ささやくような声が、いくつかの、私が嫌いな言葉だけを、かろうじて聞き分けられます。</PsychicDrone.stages.1.description>
@@ -101,8 +64,12 @@
     <Joywire.stages.0.label>ジョイワイヤー</Joywire.stages.0.label>
     <Joywire.stages.0.description>すごいよ!</Joywire.stages.0.description>
 
-　　<Aurora.stages.0.label>美しいオーロラ</Aurora.stages.0.label>
+    <Aurora.stages.0.label>美しいオーロラ</Aurora.stages.0.label>
     <Aurora.stages.0.description>とても見事な景色だ。</Aurora.stages.0.description>
 
+    <DoingPassionateWork.stages.0.label>minor passion for my work</DoingPassionateWork.stages.0.label>
+    <DoingPassionateWork.stages.0.description>I enjoy my work.</DoingPassionateWork.stages.0.description>
+    <DoingPassionateWork.stages.1.label>burning passion for my work</DoingPassionateWork.stages.1.label>
+    <DoingPassionateWork.stages.1.description>I love my work. I could do this all day, every day.</DoingPassionateWork.stages.1.description>
 	
 </LanguageData>

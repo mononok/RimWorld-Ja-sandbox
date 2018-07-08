@@ -19,7 +19,8 @@
 	<TabRecords>記録</TabRecords>
 	<TabArt>芸術</TabArt>
 	<TabSocial>社交</TabSocial>
-    <TabCombat>戦闘</TabCombat>
+  <TabLog>Log</TabLog>
+  <TabFormingCaravan>Caravan</TabFormingCaravan>
 
 
 	<!-- Bills tab  -->
@@ -29,6 +30,14 @@
 	<SuspendedCaps>中止</SuspendedCaps>
     <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
 	<PlantVerb>植物</PlantVerb>
+  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
+  <ReorderBillUpTip>Move up</ReorderBillUpTip>
+  <ReorderBillDownTip>Move down</ReorderBillDownTip>
+  <DeleteBillTip>Delete</DeleteBillTip>
+  <CopyBillTip>Copy to the clipboard</CopyBillTip>
+  <SuspendBillTip>Suspend</SuspendBillTip>
+  <PasteBillTip>Paste</PasteBillTip>
+  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
 
 
   <!-- Guest/prisoner tab -->
@@ -53,7 +62,7 @@
 	<InPain>痛み</InPain>
 	<PainLevel>痛みの強さ</PainLevel>
 	<Injured>怪我</Injured>
-	<NoInjuries>(目立った怪我無し)</NoInjuries>
+  <NoHealthConditions>no health conditions</NoHealthConditions>
 	<WholeBody>全身</WholeBody>
 	<DataProcessing>データ処理</DataProcessing>
 	<Communication>コミュニケーション</Communication>
@@ -66,7 +75,7 @@
 	<MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
 	<MedicalOperations>外科手術</MedicalOperations>
 	<Amputate>切断手術</Amputate>
-	<Harvest>摘出</Harvest>
+	<HarvestOrgan>摘出</HarvestOrgan>
     <RemoveOrgan>摘出</RemoveOrgan>
 	<MemoryLower>記憶</MemoryLower>
 	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
@@ -76,6 +85,7 @@
   <PreventsInfection>感染予防</PreventsInfection>
   <SelfTend>自己治療</SelfTend>
   <SelfTendTip>{0}の自己治療を有効にすると、通常の{1}の効率で、自動的にその場において、彼ら自身を治療します。</SelfTendTip>
+
 
 	<!-- Medical - Body and activities condition -->
 	<None>なし</None>
@@ -95,8 +105,8 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>賢さ</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>必要とする賢さ {0}</CannotTrainNotSmartEnough>
+  <Trainability>Trainability</Trainability>
+  <CannotTrainNotSmartEnough>Requires trainability {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます。</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
@@ -112,15 +122,36 @@
 <IAmDead>私は死んだ</IAmDead>
 <IAmPsychopath>私はサイコパス</IAmPsychopath>
 
-
-
   <!-- Gear tab -->
-  <AverageArmor>アーマー平均値</AverageArmor>
+  <OverallArmor>Overall armor</OverallArmor>
   <MassCarried>積載重量: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
   <ArmorBlunt>打撲系</ArmorBlunt>
   <ArmorSharp>突刺系</ArmorSharp>
   <ArmorHeat>熱系</ArmorHeat>
-  <ArmorElectric>電磁系</ArmorElectric>
+
+  <!-- Log tab -->
+  <ShowAll>Show all</ShowAll>
+  <ShowCombat>Show combat</ShowCombat>
+  <ShowSocial>Show social</ShowSocial>
+  <NoRecentEntries>no recent entries</NoRecentEntries>
+  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_Leaving>Leaving</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving_Pause>Leaving (waiting)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
+  <CaravanMembers>Members</CaravanMembers>
+  <CaravanAnimals>Animals</CaravanAnimals>
+  <ItemsToLoad>Items to load</ItemsToLoad>
+  <LoadedItems>Loaded items</LoadedItems>
+  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
+  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
 
 </LanguageData>

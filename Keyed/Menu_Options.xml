@@ -24,7 +24,8 @@
   <ResetModsConfigOnCrash>クラッシュ時に、MODをリセットする</ResetModsConfigOnCrash>
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>ゲーム中に 登場させたい 名前:</NamesYouWantToSee>
+  <ShowSaveGameDataLocation>Show save data location</ShowSaveGameDataLocation>
+  <NamesYouWantToSee>Preferred player-created characters. These characters will be more likely to randomly appear during play:</NamesYouWantToSee>
   <AddName>名前を追加</AddName>
   <TypeFirstNickOrLastName>姓、ニックネーム、名前を入力してください。</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>この名前は既に使われています。</MessageAlreadyPreferredName>
@@ -32,10 +33,12 @@
   <AutosaveInterval>自動保存間隔</AutosaveInterval>
   <TemperatureMode>気候モード</TemperatureMode>
 <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>コロニーの最大数: {0}</MaxNumberOfPlayerHomes>
+  <MaxNumberOfPlayerSettlements>コロニーの最大数: {0}</MaxNumberOfPlayerSettlements>
   <PlantWindSway>風に木がなびく効果</PlantWindSway>
+    <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
 <MaxPermadeathAutosaveIntervalInfo>Permadeathモードでの、オートセーブ間隔は  {0}日です。</MaxPermadeathAutosaveIntervalInfo>
   <ModSettings>Mod 設定</ModSettings>
+  <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <Resolution>解像度</Resolution>
@@ -50,4 +53,9 @@
   <!-- Mods -->
   <SelectMod>MODを選択...</SelectMod>
   <NoConfigurableMods>設定可能なMODがロードされていません。</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
+  <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
+  
 </LanguageData>

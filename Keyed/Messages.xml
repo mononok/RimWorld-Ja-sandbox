@@ -25,7 +25,7 @@
 
 	<MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました。</MessageShipHasLeftCommsRange>
 
-	<MessageNeedBeaconToTradeWithShip>商船との取り引きには、貿易ビーコンが必要です。\n\n貿易ビーコンは電力を必要とします。</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>商船との取り引きには、電源の入った貿易ビーコンが必要です。</MessageNeedBeaconToTradeWithShip>
 
 	<MessageBillComplete>作業終了：{0}</MessageBillComplete>
 
@@ -35,13 +35,13 @@
 
 	<MessageOutOfNearbyShellsFor>{0}は {1}に 使う弾薬を見つけていません。</MessageOutOfNearbyShellsFor>
 
-	<MessageAnimalsGoPsychoHunted>【警告】{0}は 危害を加えられると、しばしば逆襲することがあります。</MessageAnimalsGoPsychoHunted>
-	<MessageAnimalManhuntsOnTameFailed>【警告】{0}は 手なずけるのに失敗したときに、襲ってくるかもしれません。(確率 {1})</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>Warning: {0} often attack when harmed ({1} chance at rifle range, more if closer).</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Warning: {0} often attack upon failed taming attempts ({1} chance).</MessageAnimalManhuntsOnTameFailed>
 
 	<LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
 	<MessageRecruitSuccess>{0}は 囚人{1}を 迎え入れました(成功率 {2})。</MessageRecruitSuccess>
 	<MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2})。</MessageTameSuccess>
-	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして HIM {3}と名づけました。</MessageTameAndNameSuccess>
+	<MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2})。 そして [PAWN_objective] {3}と名づけました。</MessageTameAndNameSuccess>
 
 	<MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません。</MessageColonyCannotAfford>
 	<MessageColonyNotEnoughSilver>取引するのに十分な量の、シルバーを準備できていません。</MessageColonyNotEnoughSilver>
@@ -56,12 +56,14 @@
 	<MessageMustDesignateHuntable>狩猟対象になる 動物を 指定してください。</MessageMustDesignateHuntable>
 	<MessageMustDesignateTameable>手なずける 動物を 指定してください。</MessageMustDesignateTameable>
 	<MessageMustDesignateClaimable>放棄された 構造物を 指定してください。</MessageMustDesignateClaimable>
-	<MessageMustDesignateSmoothableFloor>荒い岩の地面を 指定してください。</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
 	<MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません。</MessageNothingCanRemoveThickRoofs>
 	<MessageAlreadyInStorage>既に保管庫になっています、必要ならより優先度を高くすることができます。</MessageAlreadyInStorage>
 	<MessageMustDesignateStrippable>衣服を着た、死体や心肺停止のキャラクターを指定してください。</MessageMustDesignateStrippable>
 	<MessageMustDesignateSlaughterable>手なずけてある動物を指定してください。</MessageMustDesignateSlaughterable>
 	<MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください。</MessageMustDesignateOpenable>
+  <MessageMustDesignateForbiddable>Must designate unforbidden items.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateUnforbiddable>Must designate forbidden items.</MessageMustDesignateUnforbiddable>
 
 	<MessageRefusedArrest>{0} は逮捕されるのを拒否した。</MessageRefusedArrest>
 
@@ -69,7 +71,8 @@
 	<MessageNoAnimalBeds>動物用ベッドがありません。</MessageNoAnimalBeds>
   <MessageTooLowMedCare>処置には {0}より上が必要ですが、{1}の治療レベルは "{2}"となっています。</MessageTooLowMedCare>
 
-	<PawnDiedBecauseOf>{1}によって、{0}は命を落とした。</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{0} has died. Cause: {1}.</PawnDiedBecauseOf>
+  <PawnDied>{0} has died.</PawnDied>
 
 	<MessageNoLongerDowned>{0}は 自由に歩き回れるようになった。</MessageNoLongerDowned>
 
@@ -78,10 +81,9 @@
     <MessageMedicalOperationFailureMinor>{0}は {1}の手術中に わずかなミスを犯した。</MessageMedicalOperationFailureMinor>
 	<MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスを犯した。</MessageMedicalOperationFailureCatastrophic>
     <MessageMedicalOperationFailureRidiculous>{0}は {1}の手術中に とんでもない事をして失敗した。</MessageMedicalOperationFailureRidiculous>
-    <MessageMedicalOperationFailureFatal>{0}は {1}の手術中に 特別な挑戦に挑んだ結果、致命的なミスを犯した。: {2}</MessageMedicalOperationFailureFatal>
-	<MessageMedicalOperationWillAngerFaction>この手術は、{0}を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
+    <MessageMedicalOperationFailureFatal>{0} has committed a fatal error while operating on {1} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
 
-	<MessagePawnExitMapRelationsGain>{0}は 元気になって出ていきました。{1}との関係は良くなりました。{2}</MessagePawnExitMapRelationsGain>
+	<MessageMedicalOperationWillAngerFaction>この手術は、{0}を怒らせるだろう。</MessageMedicalOperationWillAngerFaction>
 
 	<MessageMiscarriedStarvation>{0}は 飢えにより流産した。</MessageMiscarriedStarvation>
 	<MessageMiscarriedPoorHealth>{0}は 体調不良により流産した。</MessageMiscarriedPoorHealth>
@@ -101,7 +103,7 @@
 	<MessageCantSelectDeadPawn>{0} は死んだ。</MessageCantSelectDeadPawn>
 	<MessageCantSelectOffMapPawn>{0} はマップから出た。</MessageCantSelectOffMapPawn>
 
-	<MessageSocialFight>{0}は {1}とケンカを始めた。(理由: {2})</MessageSocialFight>
+	<MessageSocialFight>{0}は {1}とケンカを始めた。</MessageSocialFight>
 
 	<MessageNewMarriageCeremony>入植者たちは、{0}と {1}の 結婚式を祝うために集った。</MessageNewMarriageCeremony>
 	<MessageMarriageCeremonyStarts>{0}と {1}の 結婚式が始まった!</MessageMarriageCeremonyStarts>
@@ -110,7 +112,7 @@
 	<MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は、すべて無事に執り行われた。</MessageMarriageCeremonyAfterPartyFinished>
 
 	<MessageNewBondRelation>{0}と {1}は絆で結ばれた。</MessageNewBondRelation>
-	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。HIM の姓は、{2}となります。</MessageNewBondRelationNewName>
+	<MessageNewBondRelationNewName>{0}と {1}は絆で結ばれた。[PAWN_objective] の姓は、{2}となります。</MessageNewBondRelationNewName>
 
 	<MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけにして、精神崩壊を起こした。</MessageBondedAnimalMentalBreak>
 	<MessageNamedBondedAnimalMentalBreak>{1}と名づけられた {0}は {2}の死をきっかけにして、精神崩壊を起こした。</MessageNamedBondedAnimalMentalBreak>
@@ -118,7 +120,7 @@
 
 	<MessageSuccessfullyRemovedHediff>{0}は、{1}の{2}を 取り除くのに成功した。</MessageSuccessfullyRemovedHediff>
 
-	<MessageShipChunkDrop>宇宙船の残骸が、空から、この近辺に落ちてきます。</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.</MessageShipChunkDrop>
 
 	<MessagePartyCalledOff>パーティは中止になった。</MessagePartyCalledOff>
 	<MessagePartyFinished>パーティが終わった。</MessagePartyFinished>
@@ -137,10 +139,11 @@
 
   <MessageRottedAwayInStorage>{0}は、 備蓄ゾーンのなかで腐敗しました。</MessageRottedAwayInStorage>
 
-  <MessageFoodPoisoning>{0}は、 {1}の食中毒を起こしました。</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{0}は、{1}の食中毒を起こしました。発生原因: {2}</MessageFoodPoisoning>
 
-    <MessageFailedToSendCaravanBecausePawnLost>入植者、囚人、家畜のうちの一人が迷子になったので、キャラバン隊の派遣は失敗に終わりました。</MessageFailedToSendCaravanBecausePawnLost>
-    <MessageCaravanFormationPaused>全員が精神崩壊から回復すれば、キャラバン隊は行動を続けるでしょう。</MessageCaravanFormationPaused>
+  <MessagePawnLostWhileFormingCaravan>{0} has been removed from the caravan.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan_AllLost>The caravan formation process has been terminated.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from their mental break.</MessageCaravanFormationPaused>
     <MessageCaravanFormationUnpaused>入植者達は、キャラバン隊編成を、続けようとしています。</MessageCaravanFormationUnpaused>
 
     <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊した。</MessageCaravanMemberHasExtremeMentalBreak>
@@ -165,20 +168,13 @@
     <MessageCaravanEnteredWorldObject>{0}は {1}に到着した</MessageCaravanEnteredWorldObject>
 
     <MessagePawnLeftMapAndCreatedCaravan>{0}は、キャラバン隊を組んで、このエリアを後にした</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Your animals are moving to join it.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 
     <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功した</MessageSettledInExistingMap>
 
-    <MessageAmbushVictory>勝利! あなたはキャラバン隊が出発する前の、{0} でアイテムを集められた</MessageAmbushVictory>
+    <MessagePermanentWoundHealed>{1}'s {2} has healed. Cause: {0}</MessagePermanentWoundHealed>
 
-    <MessageAutomaticallyReformedCaravan>キャラバン隊を再編成した</MessageAutomaticallyReformedCaravan>
-
-    <MessageOldWoundHealed>{0}により, {1}の {2}は 治癒された</MessageOldWoundHealed>
-
-    <MessageRescueeJoined>HIMを救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
-
-    <MessageAttackedCaravanIsNowHostile>あなたが、キャラバン隊{0} を攻撃したことにより、今から、この派閥は、あなたの敵となります。</MessageAttackedCaravanIsNowHostile>
-  <MessageFactionPawnCrushed>落盤事故により {0}が消息不明となりました。派閥関係: {1}</MessageFactionPawnCrushed>
-  <MessageFactionPawnLost>{1} {0}が消息不明となりました。派閥関係: {2}</MessageFactionPawnLost>
+    <MessageRescueeJoined>[PAWN_objective]を救出したことで、{0}が あなたのグループに加わった!</MessageRescueeJoined>
 
     <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません</MessageTransporterUnreachable>
     <MessageTransportersNotAdjacent>全てのポッドランチャーは、輸送ポッドの隣に配置してください。</MessageTransportersNotAdjacent>
@@ -190,8 +186,7 @@
 
     <MessageTransportPodsArrived>輸送ポッドは到着しました。</MessageTransportPodsArrived>
     <MessageTransportPodsArrivedAndLost>輸送ポッドは、いま到着しましたが、入植者が一人も乗っていないため、荷物は失われました。</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>輸送ボッドが、いま到着しました。積み荷は、キャラバン隊に補給されます。</MessageTransportPodsArrivedAndAddedToCaravan>
-    <MessageTransportPodsArrived_BecameHostile>{0}は、いまから、あなたの敵となります。</MessageTransportPodsArrived_BecameHostile>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
 
     <MessageFailedToLoadTransportersBecauseColonistLost>搭乗者のひとりを失ったので、荷積み作業は中止されました。</MessageFailedToLoadTransportersBecauseColonistLost>
 
@@ -209,7 +204,7 @@
 
     <MessageSlaughteringBondedAnimal>絆がある為、{0}を屠殺しようとすると、{1}を不満にさせるでしょう。</MessageSlaughteringBondedAnimal>
 
-    <MessageCaravanRunOutOfFood>{0}の食料が尽きました({1})。</MessageCaravanRunOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} has run out of food ({1}).</MessageCaravanRanOutOfFood>
 
 	<MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには、自身の入植者を選択してください。</MessageSelectOwnBaseToFormCaravan>
 
@@ -232,21 +227,83 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>貴方は、すべての敵を倒しました。{0}、キャラバン隊は自動的に編成されます。</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>{0}、キャラバン隊は自動的に再編成されます。「World」画面で、直ぐに再編成を行わせることができます。</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-   <MessageCantBanishDownedPawn>{0}は歩けないので、追放できません。</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Cannot banish {0} since [PAWN_pronoun] cannot walk.</MessageCantBanishDownedPawn>
+
    <MessageSleepingPawnsWokenUp>{0}は目を覚ました。</MessageSleepingPawnsWokenUp>
+
    <MessageCompSpawnerSpawnedItem>アイテムを生産した: {0}</MessageCompSpawnerSpawnedItem>
+
    <MessageHediffCuredByItem>健康を回復した: {0}</MessageHediffCuredByItem>
    <MessageBodyPartCuredByItem>身体パーツを修復した: {0}</MessageBodyPartCuredByItem>
    <MessageResearchProjectFinishedByItem>テクノロジーが与えられた: {0}</MessageResearchProjectFinishedByItem>
+
    <MessagePawnResurrected>{0}は息を吹き返した!</MessagePawnResurrected>
+
    <MessageFailedToRescueRelative>{0}の命を救えなかった。{1}を悲しませるだろう。</MessageFailedToRescueRelative>
    <MessageRescuedRelative>{0}を救えた。{1}を喜ばせるだろう。</MessageRescuedRelative>
-   <MessagePrisonerRescued>NAMEを救い、HEはコロニーに加わった。</MessagePrisonerRescued>
+
    <MessageTornadoLeftMap>竜巻が去った。</MessageTornadoLeftMap>
    <MessageTornadoDissipated>竜巻が散り散りになった。</MessageTornadoDissipated>
+
    <MessagePeaceTalksNoDiplomat>意識も、外交能力も無い</MessagePeaceTalksNoDiplomat>
+
    <MessageWarningCavePlantsExposedToLight>警告: {0}は陽に当たると生きていけません。</MessageWarningCavePlantsExposedToLight>
-   <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedTantrumChangedTarget>
-   <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so HE decided to redirect HIS anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedTantrumChangedTarget>
+
+  <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <MessageMurderousRageChangedTarget>{0} has decided to redirect [PAWN_possessive] anger at {1}.</MessageMurderousRageChangedTarget>
+
+  <MessagePlantIncompatibleWithRoof>{0} cannot grow underneath a roof.</MessagePlantIncompatibleWithRoof>
+  <MessageRoofIncompatibleWithPlant>Cannot build a roof over {0}.</MessageRoofIncompatibleWithPlant>
+
+  <MessageChoseRoute>Caravan will automatically travel to the first waypoint.</MessageChoseRoute>
+
+  <MessageBlockedHediff>{0} blocked {1} on: {2}.</MessageBlockedHediff>
+
+  <MessageCraftedMasterwork>{0} has created a {1}.</MessageCraftedMasterwork>
+
+  <MessagePlayerTriedToLeaveMapViaExitGrid>To leave the area, use the 'reform caravan' button in the world view.</MessagePlayerTriedToLeaveMapViaExitGrid>
+
+  <MessageGoodwillChanged>Relations with {0} have changed from {1} to {2}.</MessageGoodwillChanged>
+  <MessageGoodwillChangedWithReason>Relations with {0} have changed from {1} to {2} ({3}).</MessageGoodwillChangedWithReason>
+  <GoodwillChangedReason_AttackedPawn>attacked {0}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>used {0} on {1}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_RemovedBodyPart>harvested {0}</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_CapturedPawn>captured {0}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{0} crushed</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{0} died</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_Traded>traded</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_AttackedCaravan>attacked a caravan</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_NaturallyOverTime>natural tendency to reach {0} over time</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_ExitedMapHealthy>{0} exited the map healthy</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>tended to {0}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ReceivedGift>received a gift</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_FulfilledTradeRequest>fulfilled a trade offer</GoodwillChangedReason_FulfilledTradeRequest>
+
+  <MessageGiftGivenButNotAppreciated>{0} accept your gift but they don't appreciate it.</MessageGiftGivenButNotAppreciated>
+
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>The caravan is already encumbered and can't carry anything else.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarry>The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more.</MessageCantGiveGiftBecauseCantCarry>
+
+  <MessageFormedCaravan>{0} has formed and is now traveling on the world map.</MessageFormedCaravan>
+  <MessageFormedCaravan_Orders>Orders</MessageFormedCaravan_Orders>
+
+  <MessageBillValidationStoreZoneDeleted>{1}'s "{0}" can no longer deliver to deleted stockpile {2}.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>{1}'s "{0}" can no longer deliver to unavailable stockpile {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} can no longer work on "{1}" at {2}. The restriction has been removed.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>{1}'s "{0}" can no longer count items in deleted stockpile {2}.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" can no longer count items in unavailable stockpile {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" can no longer deliver all products to stockpile {2}.</MessageBillValidationStoreZoneInsufficient>
+
+  <MessageAnimalReturnedWild>Because of a lack of taming maintenance, {0} has returned to the wild.</MessageAnimalReturnedWild>
+  <MessageAnimalLostSkill>Due to a lack of maintenance training, {0} has lost a skill: {1}</MessageAnimalLostSkill>
+
+  <MessageTranslationReportSaved>Translation report written to {0}</MessageTranslationReportSaved>
+
+  <MessageCaravanArrivalActionNoLongerValid>{0} couldn't reach its destination.</MessageCaravanArrivalActionNoLongerValid>
+
+  <MessageEnterCooldownBlocksEntering>You can't re-enter for another {0} days.</MessageEnterCooldownBlocksEntering>
 
 </LanguageData>

@@ -1,95 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Different physical description roots for different kinds of artworks.
-      Added to artworks with tales and taleless art.-->
+    <!-- Different physical description roots for different kinds of artworks.
+        Added to artworks with tales and taleless art.-->
+    <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]。 [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている。 [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある。 [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.3>sculpture->彫塑</ArtDescription_Sculpture.rulePack.rulesStrings.3>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture->作品</ArtDescription_Sculpture.rulePack.rulesStrings.4>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture->一篇の作品</ArtDescription_Sculpture.rulePack.rulesStrings.5>
+    <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture->彫刻</ArtDescription_Sculpture.rulePack.rulesStrings.6>
 
+    <!-- ArtDescription_WeaponMelee -->
+    <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root->この武器には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
+    <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root->この武器には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
+    <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root->武器の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
 
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]。 [desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている。 [desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある。 [desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  3]</path>
-		<trans>sculpture->彫塑</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  4]</path>
-		<trans>sculpture->作品</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  5]</path>
-		<trans>sculpture->一篇の作品</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Sculpture.rulePack.rulesStrings[  6]</path>
-		<trans>sculpture->彫刻</trans>
-	</rep>
+    <!-- ArtDescription_WeaponGun -->
+    <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root->この銃には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
+    <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root->この銃には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
+    <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root->銃の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
 
+    <!-- ArtDescription_Furniture -->
+    <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root->この家具には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
+    <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root->この家具には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
+    <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root->家具の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
 
-    <rep>
-		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この武器には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この武器には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_WeaponMelee.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->武器の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-
-
-    <rep>
-		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この銃には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この銃には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_WeaponGun.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->銃の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-
-
-    <rep>
-		<path>ArtDescription_Furniture.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この家具には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Furniture.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この家具には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
-	</rep>
-    <rep>
-		<path>ArtDescription_Furniture.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->家具の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-
-
-    <rep>
-		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  0]</path>
-		<trans>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
-
-    <rep>
-		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  1]</path>
-		<trans>physical_description_root->この石棺には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</trans>
-	</rep>
-
-    <rep>
-		<path>ArtDescription_SarcophagusPlate.rulePack.rulesStrings[  2]</path>
-		<trans>physical_description_root->石棺の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</trans>
-	</rep>
+    <!-- ArtDescription_SarcophagusPlate -->
+    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
+    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root->この石棺には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
+    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
+    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.3>physical_description_root->石棺の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.3>
 
 </LanguageData>

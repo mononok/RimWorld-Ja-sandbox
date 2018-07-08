@@ -14,7 +14,6 @@
   <Gun_IncendiaryLauncher.label>火炎筒投射機</Gun_IncendiaryLauncher.label>
   <Gun_IncendiaryLauncher.description>火炎筒投射機</Gun_IncendiaryLauncher.description>
 
-    <Bullet_PumpShotgun.label>散弾</Bullet_PumpShotgun.label>
     <Gun_PumpShotgun.label>ポンプ式散弾銃</Gun_PumpShotgun.label>
     <Gun_PumpShotgun.description>旧式な設計、威力は高いが射程は短いです。</Gun_PumpShotgun.description>
 
@@ -36,11 +35,11 @@
   <!-- ===================== L-15 LMG ========================= -->
   <Bullet_LMG.label>機関銃装弾</Bullet_LMG.label>
   <Gun_LMG.label>軽機関銃</Gun_LMG.label>
-  <Gun_LMG.description>軽機関銃</Gun_LMG.description>
+  <Gun_LMG.description>A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies.</Gun_LMG.description>
 
     <Bullet_AssaultRifle.label>軍用ライフル装弾</Bullet_AssaultRifle.label>
     <Gun_AssaultRifle.label>軍用ライフル</Gun_AssaultRifle.label>
-    <Gun_AssaultRifle.description>汎用の市街戦用軍用ライフル、3点バースト射撃ができ、射程、威力、発射頻度に優れます。</Gun_AssaultRifle.description>
+    <Gun_AssaultRifle.description>A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy.</Gun_AssaultRifle.description>
 
   <!-- ===================== R-4 charge rifle ========================= -->
   <Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>

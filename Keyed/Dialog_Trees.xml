@@ -2,31 +2,39 @@
 <LanguageData>
 
 <FactionGreetingHostile>{0} 代表は、 マイク越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
-<FactionGreetingWary>{0} 代表は、 用心深く {1} を迎え、HISビジネスに 応えました。</FactionGreetingWary>
-<FactionGreetingWarm>{0} 代表は、 こころよく {1} を迎え、 コロニーの 暮らしについて たずねました。</FactionGreetingWarm>
+  <FactionGreetingHostileAppreciative>{0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects.</FactionGreetingHostileAppreciative>
+<FactionGreetingWary>{0} greets {1} warily asks what business you want to handle.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} greets {1} warmly and asks what [PAWN_pronoun] can do to help you.</FactionGreetingWarm>
 
 <Disconnect>切断</Disconnect>
 
   <!-- gift offer -->
     <OfferGift>贈り物</OfferGift>
+<MustBeAlly>must be ally</MustBeAlly>
+<NeedGoodwill>need {0} goodwill</NeedGoodwill>
     <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です。</NeedSilverLaunchable>
     <NotEnoughSilver>シルバーが 足りない。</NotEnoughSilver>
     <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
-    <SilverGiftSent>{0}代表が ありがとう を伝えています。\n\n（友好度が{1}上昇）。</SilverGiftSent>
+  <SilverGiftSent>{0} thanks you.\n\n(Goodwill improved by {1})</SilverGiftSent>
 
   <!-- trade caravan request -->
-  <RequestTrader>トレーダーキャラバンの派遣を要請します。 (経費: {0}シルバー)</RequestTrader>
+  <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
   <ChooseTraderKind>{0}は、あなたが必要としているトレーダーキャラバンの種別を聞いています。</ChooseTraderKind>
   <TraderSent>{0}は、 あなたにトレーダーキャラバンを送ることに承諾しました。2～3日以内には到着するでしょう。</TraderSent>
   <WaitTime>待ち時間 {0}</WaitTime>
 
+  <!-- AI core request -->
+  <RequestAICoreInformation>Request the location of an {0} (cost: {1} silver)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} sends the requested information and wishes you good luck.</RequestAICoreInformationResult>
+  <NoKnownAICore>no more locations known</NoKnownAICore>
 
   <!-- military aid request -->
-    <RequestMilitaryAid>いますぐ 軍事援助を 要請します (友好度 {0})</RequestMilitaryAid>
+  <RequestMilitaryAid>Request immediate military aid (cost: {0} goodwill)</RequestMilitaryAid>
     <MilitaryAidConfirmMutualEnemy>{0}は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
     <CallConfirm>はい、 とにかく 来てください。</CallConfirm>
     <CallCancel>いや、 気に しないでくれ。</CallCancel>
     <MilitaryAidSent>{0} 代表は、 あなたを 助けるために 戦士を 送ると 約束しました。</MilitaryAidSent>
+<CantSendMilitaryAidInTime>{0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods)</CantSendMilitaryAidInTime>
 
 
 </LanguageData>

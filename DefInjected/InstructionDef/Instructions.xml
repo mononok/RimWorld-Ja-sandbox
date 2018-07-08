@@ -12,10 +12,10 @@
     <RandomizeCharacter.rejectInputMessage>最初に、ランダムなキャラクターで試してみて下さい。</RandomizeCharacter.rejectInputMessage>
 
 	<AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし、完璧なキャラクターを求めようとしないで下さい。誰しも欠点を持っていますし、そうした登場人物がいることで、ストーリーがより面白くなるからです!。\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます。\n\n準備ができたら、"スタート"をクリックします。</AcceptStartingPawns.text>
-	<MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう。\n\n{Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}キーを使うか、MOUSE BUTTON 3を押したままドラッグします。\n\nやってみましょう!</MapCameraDolly.text>
-	<MapCameraZoom.text>素晴らしい!\n\nマウスホイールか、{Key:MapZoomIn} and {Key:MapZoomOut}キーで、 ズームイン、ズームアウトが出来ます。\n\n試してみましょう!</MapCameraZoom.text>
+	<MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう。\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか、MOUSE BUTTON 3を押したままドラッグします。\n\nやってみましょう!</MapCameraDolly.text>
+	<MapCameraZoom.text>素晴らしい!\n\nマウスホイールか、{Key:MapZoom_In} and {Key:MapZoom_Out}キーで、 ズームイン、ズームアウトが出来ます。\n\n試してみましょう!</MapCameraZoom.text>
 	<Pause.text>ゲーム時間を、一時停止することもできます。\n\nこれはつまり、あなたは慌てる必要が無い、ということです。あなたはいつでも、一時停止をしてから、ゆっくりと命令を下すことができます。\n\n{Key:TogglePause}キーか、右下のアイコンを試しましょう</Pause.text>
-	<TimeControls.text>あなたは、時間の進みをスピードアップすることも出来ます。\n\n{Key:TimeSpeedNormal},{Key:TimeSpeedFast},{Key:TimeSpeedSuperfast}キーか、右下のアイコンを試してみましょう。</TimeControls.text>
+	<TimeControls.text>あなたは、時間の進みをスピードアップすることも出来ます。\n\n{Key:TimeSpeed_Normal},{Key:TimeSpeed_Fast},{Key:TimeSpeed_Superfast}キーか、右下のアイコンを試してみましょう。</TimeControls.text>
 
     <MakeStockpile.text>素晴らしい!\n\nさて、あなたの入植者達が、アイテムを保管する場所としてわかるように、備蓄ゾーンを作ります。\n\n1.左下の「アーキテクト」タブをクリックします。\n2.「ゾーン」カテゴリーをクリックします。\n3.「備蓄ゾーン」ツールを選びます。\n4.マップ上に表示された四角い範囲を、クリックしてドラッグします。</MakeStockpile.text>
     <MakeStockpile.rejectInputMessage>指示された領域に備蓄ゾーンを作ってみましょう。</MakeStockpile.rejectInputMessage>

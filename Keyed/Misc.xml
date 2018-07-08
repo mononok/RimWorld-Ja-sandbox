@@ -2,13 +2,9 @@
 <LanguageData>
 
   <Autosaving>自動保存中</Autosaving>
-
 <GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ、 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました。\n\nごらんのとおり、 あなたたちの 周囲に 船の残骸が ちらばっています。 さあ、 それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
-
 <Colony>あなたのコロニー</Colony>
-
 <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます。</ChangeLanguageFromMainMenu>
-
 <AndLower>と</AndLower>
 <DisabledLower>スキル無し</DisabledLower>
 
@@ -33,21 +29,27 @@
   <repeat>繰り返し</repeat>
   <default>初期値</default>
   <distance>距離</distance>
+  <YesUppercase>YES</YesUppercase>
+  <NoUppercase>NO</NoUppercase>
+  <kg>kg</kg>
+  <Day>Day</Day>
+  <day>day</day>
+  <Default>Default</Default>
+  <Average>Average</Average>
 
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
   <MeatDesc>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</MeatDesc>
-
-<LeatherLabel>{0} の革</LeatherLabel>
-  <LeatherDesc>なめされて、乾燥した切り抜かれた皮。バッグや衣服を作るのに適した伝統的な素材です。</LeatherDesc>
+  <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
+  <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
 <DeadLabel>{0} (死亡)</DeadLabel>
 
 <RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
-<RoughStoneTerrainDesc>粗く自然な {0} </RoughStoneTerrainDesc>
+<RoughStoneTerrainDesc>粗く自然な {0}</RoughStoneTerrainDesc>
 <RoughHewnStoneTerrainLabel>荒けずりの {0}</RoughHewnStoneTerrainLabel>
 <RoughHewnStoneTerrainDesc>ざっくりとカットされた 自然な {0} の床</RoughHewnStoneTerrainDesc>
 <SmoothStoneTerrainLabel>滑らかな {0}</SmoothStoneTerrainLabel>
@@ -55,6 +57,8 @@
 
 <BlueprintLabelExtra>(設計)</BlueprintLabelExtra>
 <FrameLabelExtra>(施工)</FrameLabelExtra>
+
+  <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->

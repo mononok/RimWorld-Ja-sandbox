@@ -1,20 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <WorkToBuild.label>建築工数</WorkToBuild.label>
+    <WorkToBuild.description>作成に必要な、素材やツールが用意されたのちに、構造物を建設するのにかかる時間です。</WorkToBuild.description>
+
     <DoorOpenSpeed.label>ドア開閉速度</DoorOpenSpeed.label>
-    <DoorOpenSpeed.description>ドアの開閉速度です。</DoorOpenSpeed.description>
+    <DoorOpenSpeed.description>The speed at which the door opens. Slow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
 
     <BedRestEffectiveness.label>眠りの質</BedRestEffectiveness.label>
     <BedRestEffectiveness.description>ここで寝ることで得られる、時間あたりに得られる睡眠量です。</BedRestEffectiveness.description>
 
 	<TrapMeleeDamage.label>罠のダメージ量</TrapMeleeDamage.label>
-	<TrapMeleeDamage.description>主として与えるダメージ量です。実際のダメージはいくらか変化するでしょう。</TrapMeleeDamage.description>
+	<TrapMeleeDamage.description>How much damage this trap does on average. The actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
 
 	<TrapSpringChance.label>発動率</TrapSpringChance.label>
 	<TrapSpringChance.description>罠に気がつかない生き物が通過した時に、罠が発動する確率です。</TrapSpringChance.description>
 
 	<ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>
-	<ResearchSpeedFactor.description>研究をする時の、研究速度への倍率です。</ResearchSpeedFactor.description>
+	<ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
+	<ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Room cleanliness</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
 
 	<MedicalTendQualityOffset.label>治療品質オフセット</MedicalTendQualityOffset.label>
 	<MedicalTendQualityOffset.description>治療品質の傾向を決めるオフセットです。</MedicalTendQualityOffset.description>
@@ -25,10 +29,14 @@
 	<WorkTableWorkSpeedFactor.label>工作台速度係数</WorkTableWorkSpeedFactor.label>
 	<WorkTableWorkSpeedFactor.description>工作速度に掛ける倍率です。</WorkTableWorkSpeedFactor.description>
 
-	<EntertainmentStrengthFactor.label>エンターテイメント発生効果</EntertainmentStrengthFactor.label>
-	<EntertainmentStrengthFactor.description>このアイテムが、どのくらいの娯楽性をもって、人々を楽しませることができるかを表す値です。</EntertainmentStrengthFactor.description>
+	<WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
+	<WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
+
+	<JoyGainFactor.label>recreation power</JoyGainFactor.label>
+	<JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
 
     <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
-    <SurgerySuccessChanceFactor.description>ここで手術をした時の成功率に掛ける倍率です。手術成功率は、外科医の腕や医薬品の使用によっても影響を受けます。</SurgerySuccessChanceFactor.description>
+    <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
+    <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
 
 </LanguageData>

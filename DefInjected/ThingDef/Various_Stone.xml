@@ -3,12 +3,13 @@
 
 	<!-- =========== Misc chunks =========== -->
 	<ChunkSlagSteel.label>鉄くずの塊</ChunkSlagSteel.label>
-	<ChunkSlagSteel.description>鉄くずの塊です。このままでは全く使えない代物ですが、鋼鉄を精錬することができます。</ChunkSlagSteel.description>
-
+	<ChunkSlagSteel.description>A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel.</ChunkSlagSteel.description>
 
 	<!-- =========== Stone solids, chunks, and blocks =========== -->
 	<Sandstone.label>砂岩</Sandstone.label>
 	<Sandstone.description>砂粒が圧縮されてできた堆積岩です。</Sandstone.description>
+	<SmoothedSandstone.label>磨かれた砂岩</SmoothedSandstone.label>
+	<SmoothedSandstone.description>A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface.</SmoothedSandstone.description>
 	<ChunkSandstone.label>砂岩の塊</ChunkSandstone.label>
 	<ChunkSandstone.description>岩の塊です。これを使用可能なブロックに切り分ける事ができます。</ChunkSandstone.description>
 	<BlocksSandstone.label>砂岩のブロック</BlocksSandstone.label>
@@ -17,6 +18,8 @@
 
 	<Granite.label>花崗岩</Granite.label>
 	<Granite.description>非常に硬い火成岩です。</Granite.description>
+	<SmoothedGranite.label>磨かれた花崗岩</SmoothedGranite.label>
+	<SmoothedGranite.description>A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles.</SmoothedGranite.description>
 	<ChunkGranite.label>花崗岩の塊</ChunkGranite.label>
 	<ChunkGranite.description>岩の塊です。これを使用可能なブロックに切り分ける事ができます。</ChunkGranite.description>
 	<BlocksGranite.label>花崗岩のブロック</BlocksGranite.label>
@@ -25,6 +28,8 @@
 
 	<Limestone.label>石灰岩</Limestone.label>
 	<Limestone.description>古代の貝殻が圧縮されてできた堆積岩です。</Limestone.description>
+	<SmoothedLimestone.label>磨かれた石灰岩</SmoothedLimestone.label>
+	<SmoothedLimestone.description>A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within.</SmoothedLimestone.description>
 	<ChunkLimestone.label>石灰岩の塊</ChunkLimestone.label>
 	<ChunkLimestone.description>岩の塊です。これを使用可能なブロックに切り分ける事ができます。</ChunkLimestone.description>
 	<BlocksLimestone.label>石灰岩のブロック</BlocksLimestone.label>
@@ -33,6 +38,8 @@
 
 	<Slate.label>粘板岩</Slate.label>
 	<Slate.description>スレート劈開 という層からなる 色が暗い粘板岩</Slate.description>
+	<SmoothedSlate.label>磨かれた粘板岩</SmoothedSlate.label>
+	<SmoothedSlate.description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface.</SmoothedSlate.description>
 	<ChunkSlate.label>粘板岩の塊</ChunkSlate.label>
 	<ChunkSlate.description>岩の塊です。これを使用可能なブロックに切り分ける事ができます。</ChunkSlate.description>
 	<BlocksSlate.label>粘板岩のブロック</BlocksSlate.label>
@@ -41,6 +48,8 @@
 
 	<Marble.label>大理石</Marble.label>
 	<Marble.description>弱い変成岩です。</Marble.description>
+	<SmoothedMarble.label>磨かれた大理石</SmoothedMarble.label>
+	<SmoothedMarble.description>A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light.</SmoothedMarble.description>
 	<ChunkMarble.label>大理石の塊</ChunkMarble.label>
 	<ChunkMarble.description>岩の塊です。これを使用可能なブロックに切り分ける事ができます。</ChunkMarble.description>
 	<BlocksMarble.label>大理石のブロック</BlocksMarble.label>

@@ -1,32 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
+    <MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Build multi-analyzers which increase research speed and allow higher-level research projects. Requires advanced components to construct.</MultiAnalyzer.description>
+
     <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
-    <GroundPenetratingScanner.description>地面より深いところにある掘削可能な鉱物資源を探知する、地殻深部スキャナーを作成できるようになります。</GroundPenetratingScanner.description>
+    <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
 
 	<DeepDrilling.label>深部ドリルマシン</DeepDrilling.label>
-	<DeepDrilling.description>地殻深部から鉱物資源を掘削するための深部ドリルマシンを作成できるようになります。鉱物資源を探査するために、地殻深部スキャナーも必要になるでしょう。</DeepDrilling.description>
+	<DeepDrilling.description>Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
 
 	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
-	<VitalsMonitor.description>医療用ベッドのそばに置くと、患者の治療を改善するバイタルモニターを作成できるようになります。</VitalsMonitor.description>
+	<VitalsMonitor.description>Build vitals monitors which improve medical outcomes when placed next to hospital beds.</VitalsMonitor.description>
 
-	<ComponentAssembly.label>コンポーネント作成卓</ComponentAssembly.label>
-	<ComponentAssembly.description>シンプルな素材からコンポーネントの作成を可能にする、コンポーネント作成卓を作成できるようになります。</ComponentAssembly.description>
-
-	<MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
-	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>
-
+	<Fabrication.label>fabrication</Fabrication.label>
+	<Fabrication.description>Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction.</Fabrication.description>
+	
+	<AdvancedFabrication.label>advanced fabrication</AdvancedFabrication.label>
+	<AdvancedFabrication.description>Fabricate advanced components from standard components and other materials.</AdvancedFabrication.description>
+	
 	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
-	<Cryptosleep.description>仮死状態のまま長い期間を疑似冬眠で過ごせる機械を作成できるようになります。</Cryptosleep.description>
+	<Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
 
 	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
-    <PoweredArmor.description>ニューロミーム的ロボット工学と先進のプラスチールが織りなすテクノロジーは、パワーアーマーとヘルメットの製造を可能にします。</PoweredArmor.description>
-
-	<ShieldBelt.label>シールドベルト</ShieldBelt.label>
-	<ShieldBelt.description>モーメンタム-リパルジョンフィールド技術が、内から外からの遠距離射撃をブロックする、シールドベルトの製造を可能にします。</ShieldBelt.description>
+    <PoweredArmor.description>description>Build the power armor and power armor helmets. Note that these also require advanced components.</PoweredArmor.description>
 
     <ChargedShot.label>チャージライフル</ChargedShot.label>
-    <ChargedShot.description>チャージパルスエネルギーを照射する、鍵となる仕組みを理解して、チャージライフルの製造を可能にします。</ChargedShot.description>
+    <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
+
+	<Bionics.label>bionics</Bionics.label>
+	<Bionics.description>Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach.</Bionics.description>
 
 </LanguageData>

@@ -26,8 +26,8 @@
 <DesignatorHunt>狩猟</DesignatorHunt>
 <DesignatorHuntDesc>ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
 
- <DesignatorSmoothFloor>地面をならす</DesignatorSmoothFloor>
- <DesignatorSmoothFloorDesc>指定した 荒れた地面を 滑らかにします。</DesignatorSmoothFloorDesc>
+<DesignatorSmoothSurface>表面をならす</DesignatorSmoothSurface>
+<DesignatorSmoothSurfaceDesc>Designate rough stone terrain and walls to be smoothed.</DesignatorSmoothSurfaceDesc>
 
 <DesignatorMine>採掘</DesignatorMine>
 <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
@@ -37,6 +37,12 @@
 
 <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
+
+  <DesignatorForbid>Forbid</DesignatorForbid>
+  <DesignatorForbidDesc>Mark items as forbidden. Colonists will not be able to interact with the designated items.</DesignatorForbidDesc>
+
+  <DesignatorUnforbid>Unforbid</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>Mark items as unforbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し、 床を掃除し、火災を消そうとします。</DesignatorAreaHomeExpandDesc>
@@ -69,14 +75,21 @@
 
 <DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 作成します。\nこのツールは、 すでにある廃棄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageDumpingDesc>
 
-<DesignatorZoneDelete>ゾーン削除</DesignatorZoneDelete>
+<DesignatorZoneDelete>Shrink zones</DesignatorZoneDelete>
+<DesignatorZoneDeleteSingular>Shrink zone</DesignatorZoneDeleteSingular>
 <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
+
+  <DesignatorZoneExpand>Expand zone</DesignatorZoneExpand>
+
 
   <DesignatorClaim>領有を主張</DesignatorClaim>
   <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます。</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
+
+  <DesignatorRemoveBridge>Remove bridge</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>Remove bridges to reveal the terrain underneath.</DesignatorRemoveBridgeDesc>
 
   <DesignatorStrip>剥ぐ</DesignatorStrip>
   <DesignatorStripDesc>死体や、けが人から 衣類を剥がします。</DesignatorStripDesc>
@@ -104,13 +117,14 @@
     <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです。</InteractionSpotWillBeBlocked>
     <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう。</WouldBlockInteractionSpot>
     <TerrainIsAlready>ここの地面は、 すでに {0} です。</TerrainIsAlready>
-    <TerrainBeingSmoothed>地面を 滑らかにするよう すでに指示されています。</TerrainBeingSmoothed>
+<SurfaceBeingSmoothed>The surface is already marked for smoothing.</SurfaceBeingSmoothed>
     <IdenticalThingExists>まったく同じものが すでにあります。</IdenticalThingExists>
     <IdenticalBlueprintExists>まったく同じ設計図が すでにあります。</IdenticalBlueprintExists>
     <TerrainCannotSupport>ここの地面は、 これをサポートすることが できません。</TerrainCannotSupport>
     <SpaceAlreadyOccupied>この場所は すでに ふさがっています。</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>ここの地面は、滑らかにされています。</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
+<MustBeOnMovingWater>The waterwheel must be on moving water.</MustBeOnMovingWater>
 
 
 <!-- placement of zones -->
@@ -121,5 +135,7 @@
   <!-- desc helpers -->
   <TransmitsPower>送電します。</TransmitsPower>
   <ConstructionNeeded>建設を必要とします。</ConstructionNeeded>
+<NoColonistWithConstructionSkillTip>None of your {0} have this skill.</NoColonistWithConstructionSkillTip>
+<AllColonistsWithConstructionSkillHaveDisaledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

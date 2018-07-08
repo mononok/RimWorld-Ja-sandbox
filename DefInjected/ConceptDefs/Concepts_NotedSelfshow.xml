@@ -3,13 +3,13 @@
 
   <!--===================== Concepts taught through the learning readout, with no opportunity needed ===================-->
   <CameraDolly.label>カメラを動かす</CameraDolly.label>
-  <CameraDolly.helpText>カメラを動かすには、MOUSE BUTTON 3を押したままドラッグするか、{Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}キーを使います。</CameraDolly.helpText>
+  <CameraDolly.helpText>カメラを動かすには、MOUSE BUTTON 3を押したままドラッグするか、{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使います。</CameraDolly.helpText>
 
   <CameraZoom.label>ズームイン・アウトを覚える</CameraZoom.label>
-  <CameraZoom.helpText>カメラをズームイン・アウトさせるには、 MOUSEWHEELか {Key:MapZoomIn}、{Key:MapZoomOut}キー を使います。</CameraZoom.helpText>
+  <CameraZoom.helpText>カメラをズームイン・アウトさせるには、 MOUSEWHEELか {Key:MapZoom_In}、{Key:MapZoom_Out}キー を使います。</CameraZoom.helpText>
 
   <TimeControls.label>倍速を覚える</TimeControls.label>
-  <TimeControls.helpText>ゲーム時間を、早くする、遅くするには、画面右下のアイコンをクリックするか、{Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, {Key:TimeSpeedSuperfast} キーを使います。</TimeControls.helpText>
+  <TimeControls.helpText>ゲーム時間を、早くする、遅くするには、画面右下のアイコンをクリックするか、{Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, {Key:TimeSpeed_Superfast} キーを使います。</TimeControls.helpText>
 
   <Pause.label>一時停止</Pause.label>
   <Pause.helpText>{Key:TogglePause}キーで、ゲームを止めたり、再開できます。\n\n止めている間でも、あなたは指示できます。\n\nたくさんの出来事が起きて慌てる前に {Key:TogglePause}キー を押すことを忘れないでください。</Pause.helpText>

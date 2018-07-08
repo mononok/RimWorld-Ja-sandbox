@@ -7,6 +7,8 @@
 
 	<UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
 
+	<UnfinishedArmor.label>アーマー(未完成)</UnfinishedArmor.label>
+
     <UnfinishedTechArmor.label>アーマー(未完成)</UnfinishedTechArmor.label>
     
     <UnfinishedMetallicTechArmor.label>unfinished armor</UnfinishedMetallicTechArmor.label>
@@ -19,8 +21,6 @@
 
   <!-- ======================= Minified things ========================= -->
 
-	<MinifiedSculpture.label>彫刻(梱包)</MinifiedSculpture.label>
-
-	<MinifiedFurniture.label>家具(梱包)</MinifiedFurniture.label>
+	<MinifiedThing.label>(梱包)</MinifiedThing.label>
 
 </LanguageData>

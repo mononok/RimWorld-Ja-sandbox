@@ -2,35 +2,20 @@
 <LanguageData>
 
     <!--=============================== Tier 1: pre-electricity ===================================-->
-    <RecurveBow.label>リカーブボウ</RecurveBow.label>
-    <RecurveBow.description>進化した製造技術がリカーブボウの製造を可能にします。効果的で費用の掛からない遠距離兵器です。</RecurveBow.description>
-
-    <Pemmican.label>ペミカン</Pemmican.label>
-    <Pemmican.description>干し肉とドライフルーツを腐らないように加工し保存食にしたペミカンの製造を可能にします。旅行時の持ち歩きに最適です。</Pemmican.description>
-
-    <PassiveCooler.label>放熱器</PassiveCooler.label>
-    <PassiveCooler.description>電気を使わずに、屋内空間を冷やすことができる、放熱器の製造を可能にします。</PassiveCooler.description>
-
-	<Devilstrand.label>デビルストランド</Devilstrand.label>
-	<Devilstrand.description>貴重な植物繊維を生み出す、育ちの遅いマッシュルーム、デビルストランドの栽培を可能にします。</Devilstrand.description>
-
     <PsychoidBrewing.label>サイコイド醸造</PsychoidBrewing.label>
     <PsychoidBrewing.description>サイコイドの葉を水で煮立て、穏やかな多幸感を産み出す中毒性のあるお茶です。</PsychoidBrewing.description>
 
-	<Brewing.label>醸造</Brewing.label>
+	<TreeSowing.label>tree sowing</TreeSowing.label>
+	<TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
+
+	<Brewing.label>ビール醸造</Brewing.label>
 	<Brewing.description>ホップを、とても旨いビールにする、醸造器の製造を可能にします。</Brewing.description>
 
-    <Bedrolls.label>寝袋</Bedrolls.label>
-    <Bedrolls.description>寝袋の製作を可能にします。</Bedrolls.description>
+	<ComplexFurniture.label>complex furniture</ComplexFurniture.label>
+	<ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
 
-    <Beds.label>ベッド</Beds.label>
-    <Beds.description>ベッドの製作を可能にします。</Beds.description>
-
-	<CarpetMaking.label>織機</CarpetMaking.label>
-	<CarpetMaking.description>住環境を改善する絨毯の製造を可能にします。</CarpetMaking.description>
-
-	<Smithing.label>鍛冶</Smithing.label>
-	<Smithing.description>ツールや武器を作れるようになります。\n\nAllows you to craft simple weapons like knives, gladii, and maces.</Smithing.description>
+    <PassiveCooler.label>放熱器</PassiveCooler.label>
+    <PassiveCooler.description>電気を使わずに、屋内空間を冷やすことができる、放熱器の製造を可能にします。</PassiveCooler.description>
 
 	<Stonecutting.label>ストーンカッター</Stonecutting.label>
 	<Stonecutting.description>ガレキを建設資材として使えるように削り直せる、ストーンカッターの製造を可能にします。</Stonecutting.description>
@@ -38,10 +23,51 @@
 	<ComplexClothing.label>手の込んだ衣類</ComplexClothing.label>
 	<ComplexClothing.description>パンツ、ダスターコート、カウボーイハットのような、複雑な衣類の縫製を可能にします。</ComplexClothing.description>
 
+	<!--====== Column 2 ======-->
 	<DrugProduction.label>ドラッグ製造</DrugProduction.label>
 	<DrugProduction.description>ドラッグ製剤と合成の基礎を学びます。ドラッグラボの製造を可能にします。特定のドラッグを作るには、より研究が必要となります。</DrugProduction.description>
 
-	<Electricity.label>電気工学 基礎</Electricity.label>
-	<Electricity.description>電気を使った製品を作れるようになります。</Electricity.description>
+    <Cocoa.label>ココア</Cocoa.label>
+    <Cocoa.description>Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too.</Cocoa.description>
+
+	<Devilstrand.label>デビルストランド</Devilstrand.label>
+	<Devilstrand.description>貴重な植物繊維を生み出す、育ちの遅いマッシュルーム、デビルストランドの栽培を可能にします。</Devilstrand.description>
+
+	<CarpetMaking.label>織機</CarpetMaking.label>
+	<CarpetMaking.description>住環境を改善する絨毯の製造を可能にします。</CarpetMaking.description>
+
+    <Pemmican.label>ペミカン</Pemmican.label>
+    <Pemmican.description>干し肉とドライフルーツを腐らないように加工し保存食にしたペミカンの製造を可能にします。旅行時の持ち歩きに最適です。</Pemmican.description>
+
+	<!--====== Column 3+ ======-->
+	<Smithing.label>鍛冶</Smithing.label>
+	<Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
+
+    <RecurveBow.label>リカーブボウ</RecurveBow.label>
+    <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
+
+    <!--====== Drugs ======-->
+    <PsychiteRefining.label>サイカイト精製</PsychiteRefining.label>
+    <PsychiteRefining.description>サイコイドの葉を、多幸感を引き起こすサイカイトの異なった形状のドラッグ、フレークやイェイョに精製する方法を学びます。</PsychiteRefining.description>
+
+    <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
+    <WakeUpProduction.description>Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep.</WakeUpProduction.description>
+
+    <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
+    <GoJuiceProduction.description>Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain.</GoJuiceProduction.description>
+
+    <PenoxycylineProduction.label>ペノキシリン製造</PenoxycylineProduction.label>
+    <PenoxycylineProduction.description>Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start.</PenoxycylineProduction.description>
+
+    <!--====== Medieval weapons ======-->
+
+    <LongBlades.label>長剣</LongBlades.label>
+    <LongBlades.description>ロングソード、スピアを作れます。</LongBlades.description>
+
+    <PlateArmor.label>plate armor</PlateArmor.label>
+    <PlateArmor.description>Smith suits of plate armor from metal or wood.</PlateArmor.description>
+
+    <Greatbow.label>グレートボウ</Greatbow.label>
+    <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>
 
 </LanguageData>

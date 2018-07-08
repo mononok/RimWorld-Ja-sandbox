@@ -4,6 +4,7 @@
   <Confirm>了承</Confirm>
   <GoBack>戻る</GoBack>
   <OK>[OK]</OK>
+  <Close>Close</Close>
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。</GameUpdatedToNewVersionInitial>
@@ -43,7 +44,7 @@
   <LoadingWorld>惑星をロード中</LoadingWorld>
   <LoadingMap>地図をロード中</LoadingMap>
   <InitializingGame>ゲームを初期化中</InitializingGame>
-  <SpawningAllThings>全キャラクタを配置中</SpawningAllThings>
+  <SpawningAllThings>キャラクタを配置中</SpawningAllThings>
   <SpawningColonists>入植者を配置中</SpawningColonists>
 
 <!-- Save/load -->
@@ -86,7 +87,8 @@
   <ZoneGainsName>このゾーンを {0} という名前に 決めました。</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>ニックネームを {0} と決めました。</PawnGainsName>
+<PawnGainsName>This person's nickname is now {0}. [PAWN_possessive] title is {1}.</PawnGainsName>
+<AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
 
 <!-- Save game incompatible warning -->
   <VersionMismatch>バージョンの不一致</VersionMismatch>
@@ -100,6 +102,9 @@
 <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
 <ResolutionKeep>決定</ResolutionKeep>
 <ResolutionRevert>戻す</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?</ConfirmPermanentlyDisableDevMode>
 
 <!-- Research -->
 <Research>研究</Research>
@@ -115,15 +120,16 @@
 
 <!-- Advanced game start options -->
 <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
-<MapSizePerformanceWarning>警告：ハイスペックな コンピュータで なければ、 大きなマップでは パフォーマンスが 低下します。\n\nもし、 あなたの コンピューターの 性能が 低ければ 小マップを 選択して ください。\n\nルデオニコラスは 未調整のため 動作は 一切 保証しません。</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
 <MapSize>マップサイズ</MapSize>
 <MapSizeDesc>{0}x{0} ({1}の正方形)</MapSizeDesc>
 <MapSizeSmall>小</MapSizeSmall>
 <MapSizeMedium>中</MapSizeMedium>
 <MapSizeLarge>大</MapSizeLarge>
-<MapSizeExtreme>ルデオニコラス</MapSizeExtreme>
-  <MapStartSeason>開始時の季節</MapStartSeason>
+  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
+  <MapStartSeason>Starting season</MapStartSeason>
   <MapStartSeasonDefault>自動</MapStartSeasonDefault>
+  <Notice>Notice</Notice>
   <PermadeathMode>Permadeath モード</PermadeathMode>
   <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
 
@@ -131,7 +137,7 @@
 <Suspended>再開する</Suspended>
 <NotSuspended>中止する</NotSuspended>
 <SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
-<RepeatCount>{0} 作る</RepeatCount>
+  <RepeatCount>Repeat:</RepeatCount>
 <Forever>常時</Forever>
 	<Details>概略</Details>
 <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
@@ -139,13 +145,16 @@
   <CountingProducts>計測</CountingProducts>
 <Infinite>無限に</Infinite>
   <AllowedSkillRange>{0} スキル範囲:</AllowedSkillRange>
+  <IncompatibleLower>incompatible</IncompatibleLower>
+  <AnyWorker>Any worker</AnyWorker>
+  <Unlimited>Unlimited</Unlimited>
 
 <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
   <WorkAmount>作業工数</WorkAmount>
 <MinimumSkills>必要スキル：</MinimumSkills>
   <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
   <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
-  <BillRequiresMayVary>ノート：金のような稀少な材料は、{0}倍必要です。</BillRequiresMayVary>
+  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
   <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
   <UsableIngredients>材料</UsableIngredients>
 <BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
@@ -155,8 +164,16 @@
   <Paused>一時停止</Paused>
   <Unpause>停止解除</Unpause>
 
+  <IncludeEquipped>Count equipped</IncludeEquipped>
+  <IncludeTainted>Count tainted</IncludeTainted>
+  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
+  <IncludeFromAll>Look everywhere</IncludeFromAll>
+  <IncludeSpecific>Look in {0}</IncludeSpecific>
+  
   <!-- Info card -->
 <Damage>ダメージ</Damage>
+<ArmorPenetration>Armor penetration</ArmorPenetration>
+<ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
 <Accuracy>命中度</Accuracy>
 <BurstShotCount>一回の弾数</BurstShotCount>
 <WarmupTime>準備時間</WarmupTime>
@@ -164,10 +181,15 @@
 <CooldownTime>排出時間</CooldownTime>
 <BurstShotFireRate>Fire rate</BurstShotFireRate>
 <Range>射程</Range>
+  <StoppingPower>Stopping power</StoppingPower>
+  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
+  <DirectHitChance>Direct hit chance</DirectHitChance>
+  <MissRadius>Miss radius</MissRadius>
 <GrowsWild>野生の植物</GrowsWild>
 <Harvestable>収穫可能</Harvestable>
 <LimitedLifespan>寿命がある</LimitedLifespan>
 <GrowingTime>成長時間</GrowingTime>
+  <HarvestYield>Harvest yield</HarvestYield>
   <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
 <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
@@ -182,16 +204,20 @@
 <WalkSpeedProperty>移動速度</WalkSpeedProperty>
 <MinFoodQuality>食べられる最低食材</MinFoodQuality>
 <Diet>食性</Diet>
+  <LeatherType>Leather type</LeatherType>
   <BodySize>身体の大きさ</BodySize>
 <RecruitDifficulty>説得の難度</RecruitDifficulty>
   <MarketValue>標準小売価格</MarketValue>
   <Covers>カバー</Covers>
+  <Layer>Layer</Layer>
   <CoverEffectiveness>カバー効力</CoverEffectiveness>
   <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
   <MoodChange>心情変化</MoodChange>
   <Wildness>野性</Wildness>
   <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
+  <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
+  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
   <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
   <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
   <TimeRecordsCategory>時</TimeRecordsCategory>
@@ -199,7 +225,6 @@
   <Addictiveness>中毒</Addictiveness>
   <PackAnimal>駄載獣</PackAnimal>
   <PackAnimalExplanation>この動物は、キャラバン隊が長い距離、アイテムを運ぶのに適しています。</PackAnimalExplanation>
-
   <Skill>スキル</Skill>
   <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
   <SurgeryRequireBed>ベッドが必要</SurgeryRequireBed>
@@ -207,12 +232,20 @@
   <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
   <ConstructionSkillRequired>建築スキルが必要</ConstructionSkillRequired>
   <ConstructionSkillRequiredExplanation>建てるには、この建築レベルが必要</ConstructionSkillRequiredExplanation>
+  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
+  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>Revenge chance on harm</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
+  <TerrainRequirement>Terrain requirement</TerrainRequirement>
+  <Supports>Supports</Supports>
+
 <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
   <BuyPriceDesc>買い取り金額</BuyPriceDesc>
   <SellPriceDesc>売却金額</SellPriceDesc>
   <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
-  <ColonyCount>コロニーが 貿易できるアイテム数\n\n 貿易ビーコンの そばにあるアイテムだけを 売却することができます</ColonyCount>
+  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
   <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
   <AcceptButton>受諾</AcceptButton>
   <ResetButton>リセット</ResetButton>
@@ -222,7 +255,7 @@
 <YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
   <TraderHasNoMore>品切れ</TraderHasNoMore>
   <ColonyHasNoMore>品切れ</ColonyHasNoMore>
-  <TraderWillNotTrade>トレーダーは売り買いしません。</TraderWillNotTrade>
+  <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
   <Negotiator>交渉者</Negotiator>
   <NegotiatorTalkingImpaired>交渉人 {0}は病弱のため きちんと話す事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
   <NegotiatorHearingImpaired>交渉人 {0}は病弱のため きちんと聞く事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorHearingImpaired>
@@ -239,61 +272,81 @@
 	<TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
 	<minimum>最小値</minimum>
 	<FinalPrice>最終価格</FinalPrice>
-  <TradeMassUsageTooltip>結果としての、使用重量と、受け入れ重量</TradeMassUsageTooltip>
+  <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
+  <TradeModeTip>Return to trade mode.</TradeModeTip>
+
+  <!-- Sellable items -->
+  <SellableItemsTitle>Things this trader will buy</SellableItemsTitle>
+  <PawnsTabShort>Creatures</PawnsTabShort>
 
     <!-- Form caravan -->
     <FormCaravan>キャラバン隊を編成</FormCaravan>
-    <FormCaravanColonyThingCountTip>コロニーがキャラバン隊に持たすことができる、このアイテムの数</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
     <PawnsTab>メンバー</PawnsTab>
     <ItemsTab>物資</ItemsTab>
-    <CaravanConfigTab>設定</CaravanConfigTab>
     <CaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</CaravanMustHaveAtLeastOneColonist>
     <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません。{0}</CaravanCouldNotFindExitSpot>
     <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません。出発エリア({0})に到達できるか確認してください。</CaravanCouldNotFindPackingSpot>
-    <CaravanCouldNotFindReachableExitSpot>警告: 一部の指示された入植者は、出発エリアまで到達できません。{0}</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Warning: Some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
     <CaravanPawnIsUnreachable>指示した入植者は、{0}に 到達できません。</CaravanPawnIsUnreachable>
     <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableSingle>
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>
-    <TooBigCaravanMassUsage>キャラバン隊は充分に運ぶ事が出来ません。</TooBigCaravanMassUsage>
-    <CaravanMassUsageTooltip>現在の積載量と、最大積載量を表します。\n\n積載量は、入植者が運んでいる物資だけではなく、本人が身につけている物も含んでいます。\n\nもしも積載量が最大積載量に達っした場合は、キャラバン隊を送る事が出来なくなります。</CaravanMassUsageTooltip>
-    <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-    <DaysWorthOfFoodInfo>食料 {0}日分</DaysWorthOfFoodInfo>
-    <DaysWorthOfFoodInfoRot>食料 {0}日分、消費期限 {1}日</DaysWorthOfFoodInfoRot>
-    <InfiniteDaysWorthOfFoodInfo>食料不足にはならないでしょう。</InfiniteDaysWorthOfFoodInfo>
-    <DaysWorthOfFoodTooltip>キャラバン隊の食料が尽きてしまう概算の日数を表します。\n\n最悪のケースを考えたときの、ヒトか家畜、両方の食料事情を計算してあります。これはつまり、日数が経ち、少なくても一人か一匹の食料が無くなるまでの日数です。</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>現在の季節、気温、環境を元に憶測すると、草食動物は現地の草を食べることが 可能 でしょう。しかし、これはいつでも変えることが出来ます。</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>現在の季節、気温、環境を元に憶測すると、草食動物は現地の草を食べることが 不可能 でしょう。しかし、これはいつでも変えることが出来ます。</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-    <DaysWorthOfFoodWarningDialog>キャラバン隊は {0}日分の食料しかないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog>
-    <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
-    <CaravanFoodWillRotSoonWarningDialog>指示された食料の大部分は、直ぐに腐敗してしまうでしょう。\n\n本当にキャラバン隊を行かせますか？</CaravanFoodWillRotSoonWarningDialog>
+  <TooBigCaravanMassUsage>The caravan can't carry that much.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus.</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan.</CaravanVisibilityTip>
+  <DaysWorthOfFood>Days of food</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>rot in {0}</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Unlimited</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry quickly.</DaysWorthOfFoodWarningDialog>
+   <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
+  <CaravanFoodWillRotSoonWarningDialog>A large part of the caravan's food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
     <CaravanIncapableOfSocial>キャラバン隊の中に、外交や商取引ができるメンバーがいません。</CaravanIncapableOfSocial>
     <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
-    <NoExitDirectionForCaravanChosen>キャラバン隊の、出発方向を決めなければなりません。</NoExitDirectionForCaravanChosen>
-    <NoCaravanExitDirectionAvailable>(出発方向が無い)</NoCaravanExitDirectionAvailable>
-    <ExitDirection>出発方向</ExitDirection>
-    <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <MessageMustChooseRouteFirst>You must choose a route for the caravan first.</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
     <MarketValueTip>小売価格</MarketValueTip>
   <DaysUntilRotTip>この地域における平均気温を元にした、このアイテムが腐敗し始めるまでの日数。</DaysUntilRotTip>
+  <ItemNutritionTip>How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day.</ItemNutritionTip>
+  <AnimalCanGrazeTip>This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges.</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}.</NutritionEatenPerDayTip>
+  <MassCarriedSimple>Mass carried</MassCarriedSimple>
     <MassCapacity>最大積載量</MassCapacity>
     <Mass>重さ</Mass>
     <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
     <InventoryMass>持ち物の重さ</InventoryMass>
-    <CaravanFormationProcessStarted>入植者は、指示されたアイテムを持って、できるだけ早く、このエリアを離れようとしています。</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>Your colonists will now gather the items and leave the area.</CaravanFormationProcessStarted>
     <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
     <ColonistsSection>入植者</ColonistsSection>
     <PrisonersSection>囚人</PrisonersSection>
+  <CaptureSection>Capture</CaptureSection>
     <AnimalsSection>動物</AnimalsSection>
-  <EstimatedTimeToDestinationButton>目的地までの推定時間</EstimatedTimeToDestinationButton>
+  <ChooseRouteButton>Choose route</ChooseRouteButton>
     <AbandonButton>放棄</AbandonButton>
+  <CaravanMovementSpeed>Movement speed</CaravanMovementSpeed>
+  <TilesPerDay>tiles/day</TilesPerDay>
+  <CaravanMovementSpeedTip>Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty.</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>Animals will be able to graze</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>Animals can graze</AnimalsCanGraze>
+  <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
+  <PossibleToGrazeForever>(forever)</PossibleToGrazeForever>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfTemp>(too cold for {0} more days)</CantGrazeBecauseOfTemp>
+  <TotalNutrition>Total nutrition</TotalNutrition>
+  <CaravanNotMoving>Not moving</CaravanNotMoving>
+  <ForagedNutritionPerDay>Foraged nutrition per day</ForagedNutritionPerDay>
+  <FactionType>Faction type</FactionType>
+  <TotalBodySize>Total body size</TotalBodySize>
 
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
     <SourceCaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</SourceCaravanMustHaveAtLeastOneColonist>
-    <CaravanSplitSourceLabel>現在</CaravanSplitSourceLabel>
-    <CaravanSplitDestLabel>新規</CaravanSplitDestLabel>
     <SplitCaravanThingCountTip>元のキャラバンが、分割先のキャラバン隊に持たすことができる、このアイテムの数</SplitCaravanThingCountTip>
-    <SplitCaravanMassUsageTooltip>現在の、積載量と、最大積載量</SplitCaravanMassUsageTooltip>
 
     <!-- Load transporters -->
     <LoadTransporters>{0}を荷積み</LoadTransporters>
@@ -302,7 +355,6 @@
     <PawnCantReachTransporters>{0}は、輸送ポッドまでたどり着く事ができません。</PawnCantReachTransporters>
     <TransporterItemIsUnreachableSingle>{0}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableSingle>
     <TransporterItemIsUnreachableMulti>{0}x {1}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableMulti>
-    <TransportersMassUsageTooltip>現在の、積載量と、最大積載量\n\nもしも積載量が最大積載量に達っした場合は、輸送ポッドを送る事が出来なくなります。</TransportersMassUsageTooltip>
 
 <!-- Comms -->
 <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
@@ -379,12 +431,12 @@
   <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>このエリアを離れる、一部の囚人と家畜が、まだおり、ここにいる唯一のキャラバン隊に加わろうとしています。\n\nもしこのキャラバン隊を移動させると、帰ってくるまで、彼らはキャラバン隊に加わる事が出来なくなってしまいます。囚人は脱走しはじめ、家畜は待ち続けるでしょう。\n\nもし待つと決めたのなら、できるだけ、彼らをキャラバン隊に加えるようにしてください。\n\n本当にキャラバン隊を移動させますか？</ConfirmLeavePrisonersOrAnimalsBehind>
+  <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
 
   <!-- Abandon pawn -->
   <ConfirmBanishPawnDialog>ほんとうに {0} を追放しますか?</ConfirmBanishPawnDialog>
   <ConfirmBanishPawnDialog_LeftToDie>{0} は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{0} は次のアイテムを [PAWN_objective]と共に持っていきます:</ConfirmBanishPawnDialog_Items>
   <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <ConfirmBanishPawnDialog_IndividualThoughts>{0}を追放することで、次の人たちに、このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
@@ -392,4 +444,7 @@
   <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
 
+  <!-- Settle near a faction base -->
+  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+  
 </LanguageData>

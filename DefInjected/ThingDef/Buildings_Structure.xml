@@ -3,22 +3,22 @@
 
   <!--========================= Doors =============================-->
     <Door.label>ドア</Door.label>
-    <Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</Door.description>
-    <Door_Blueprint.label>ドア(設計)</Door_Blueprint.label>
-    <Door_Frame.label>ドア(施工)</Door_Frame.label>
-    <Door_Frame.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</Door_Frame.description>
+    <Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。The amount of slowdown depends on what the door is made of.</Door.description>
+    <Blueprint_Door.label>ドア(設計)</Blueprint_Door.label>
+    <Frame_Door.label>ドア(施工)</Frame_Door.label>
+    <Frame_Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</Frame_Door.description>
 
 	<Autodoor.label>自動ドア</Autodoor.label>
 	<Autodoor.description>部屋を隔てる自動扉です。自動で開閉するので通過はスムーズになります。</Autodoor.description>
-	<Autodoor_Blueprint.label>自動ドア(設計)</Autodoor_Blueprint.label>
-	<Autodoor_Frame.label>自動ドア(施工)</Autodoor_Frame.label>
-	<Autodoor_Frame.description>部屋を隔てる自動扉です。自動で開閉するので通過はスムーズになります。</Autodoor_Frame.description>
+	<Blueprint_Autodoor.label>自動ドア(設計)</Blueprint_Autodoor.label>
+	<Frame_Autodoor.label>自動ドア(施工)</Frame_Autodoor.label>
+	<Frame_Autodoor.description>部屋を隔てる自動扉です。自動で開閉するので通過はスムーズになります。</Frame_Autodoor.description>
 
   <!--========================= Walls =============================-->
 	<Wall.label>壁</Wall.label>
 	<Wall.description>壁です。屋根を支えます。</Wall.description>
-	<Wall_Blueprint.label>壁(設計)</Wall_Blueprint.label>
-	<Wall_Frame.label>壁(施工)</Wall_Frame.label>
-	<Wall_Frame.description>壁です。屋根を支えます。</Wall_Frame.description>
+	<Blueprint_Wall.label>壁(設計)</Blueprint_Wall.label>
+	<Frame_Wall.label>壁(施工)</Frame_Wall.label>
+	<Frame_Wall.description>壁です。屋根を支えます。</Frame_Wall.description>
 
 </LanguageData>

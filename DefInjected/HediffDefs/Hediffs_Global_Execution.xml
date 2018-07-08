@@ -1,6 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Euthanasia.label>安楽死</Euthanasia.label>
+<!-- 
+    <AlcoholHigh.label>alcohol</AlcoholHigh.label>
+    <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
+
+    <Hangover.label>hangover</Hangover.label>
+    <Hangover.labelNoun>a hangover</Hangover.labelNoun>
+
+    <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+
+    <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
+
+    <AmbrosiaHigh.label>ambrosia warmth</AmbrosiaHigh.label>
+    <AmbrosiaTolerance.label>ambrosia tolerance</AmbrosiaTolerance.label>
+    <AmbrosiaAddiction.label>ambrosia addiction</AmbrosiaAddiction.label>
+
+    <GoJuiceHigh.labelNoun>a go-juice high</GoJuiceHigh.labelNoun>
+    <GoJuiceHigh.label>high on go-juice</GoJuiceHigh.label>
+    <GoJuiceTolerance.label>go-juice tolerance</GoJuiceTolerance.label>
+    <GoJuiceAddiction.label>go-juice addiction</GoJuiceAddiction.label>
+
+    <LuciferiumHigh.label>luciferium</LuciferiumHigh.label>
+    <LuciferiumAddiction.label>luciferium need</LuciferiumAddiction.label>
+
+    <PenoxycylineHigh.label>penoxycyline</PenoxycylineHigh.label>
+
+    <FlakeHigh.labelNoun>a flake high</FlakeHigh.labelNoun>
+    <FlakeHigh.label>high on flake</FlakeHigh.label>
+
+    <PsychiteTeaHigh.labelNoun>a psychite tea high</PsychiteTeaHigh.labelNoun>
+    <PsychiteTeaHigh.label>high on psychite tea</PsychiteTeaHigh.label>
+
+    <YayoHigh.labelNoun>a yayo high</YayoHigh.labelNoun>
+    <YayoHigh.label>high on yayo</YayoHigh.label>
+
+    <PsychiteTolerance.label>psychite tolerance</PsychiteTolerance.label>
+    <PsychiteAddiction.label>psychite addiction</PsychiteAddiction.label>
+
+    <SmokeleafHigh.labelNoun>a smokeleaf high</SmokeleafHigh.labelNoun>
+    <SmokeleafHigh.label>stoned on smokeleaf</SmokeleafHigh.label>
+
+    <SmokeleafTolerance.label>smokeleaf tolerance</SmokeleafTolerance.label>
+    <SmokeleafAddiction.label>smokeleaf dependence</SmokeleafAddiction.label>
+
+    <WakeUpHigh.labelNoun>a wake-up high</WakeUpHigh.labelNoun>
+    <WakeUpHigh.label>high on wake-up</WakeUpHigh.label>
+    <WakeUpTolerance.label>wake-up tolerance</WakeUpTolerance.label>
+    <WakeUpAddiction.label>wake-up addiction</WakeUpAddiction.label>
+
+    <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} pregnant</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} is pregnant!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+
+    <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+
+    <Animal_Flu.label>flu</Animal_Flu.label>
+    <Animal_Plague.label>plague</Animal_Plague.label>
+    <MissingBodyPart.labelNounPretty>missing a {1}</MissingBodyPart.labelNounPretty>
+    <Misc.labelNounPretty>{0} in the {1}</Misc.labelNounPretty>
+    <Burn.comps.HediffComp_GetsPermanent.permanentLabel>burn scar</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Burn.labelNounPretty>{0} in the {1}</Burn.labelNounPretty>
+    <Crush.labelNounPretty>{0} in the {1}</Crush.labelNounPretty>
+    <Crack.labelNounPretty>{0} in the {1}</Crack.labelNounPretty>
+    <Cut.comps.HediffComp_GetsPermanent.permanentLabel>cut scar</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Cut.labelNounPretty>{0} in the {1}</Cut.labelNounPretty>
+    <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>cut scar</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+    <SurgicalCut.labelNounPretty>{0} in the {1}</SurgicalCut.labelNounPretty>
+    <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>scratch scar</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Scratch.labelNounPretty>{0} in the {1}</Scratch.labelNounPretty>
+    <Bite.comps.HediffComp_GetsPermanent.permanentLabel>bite scar</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Bite.labelNounPretty>{0} in the {1}</Bite.labelNounPretty>
+    <Stab.comps.HediffComp_GetsPermanent.permanentLabel>stab scar</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Stab.labelNounPretty>{0} in the {1}</Stab.labelNounPretty>
+    <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>old gunshot</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent gunshot injury</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+    <Gunshot.labelNounPretty>{0} in the {1}</Gunshot.labelNounPretty>
+    <Shredded.labelNounPretty>{0} in the {1}</Shredded.labelNounPretty>
+    <Bruise.labelNounPretty>{0} in the {1}</Bruise.labelNounPretty>
+    <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>frostbite scar</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Frostbite.labelNounPretty>{0} in the {1}</Frostbite.labelNounPretty>
+-->
 
 </LanguageData>

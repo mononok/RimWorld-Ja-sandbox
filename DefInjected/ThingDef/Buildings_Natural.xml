@@ -24,17 +24,17 @@
 	<MineableJade.label>ヒスイ鉱脈</MineableJade.label>
 	<MineableJade.description>わずかなヒスイを含んだ岩石です。</MineableJade.description>
 
-	<MineableComponents.label>潰れた機械</MineableComponents.label>
-    <MineableComponents.description>長い間に押しつぶされた古代の機械。使えそうなコンポーネントがとれます。</MineableComponents.description>
+	<MineableComponentsIndustrial.label>潰れた機械</MineableComponentsIndustrial.label>
+    <MineableComponentsIndustrial.description>長い間に押しつぶされた古代の機械。使えそうなコンポーネントがとれます。</MineableComponentsIndustrial.description>
 
 	<SteamGeyser.label>間欠泉</SteamGeyser.label>
-	<SteamGeyser.description>地底から蒸気が噴出しています。</SteamGeyser.description>
+	<SteamGeyser.description>A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook.</SteamGeyser.description>
 
 	<Hive.label>巣</Hive.label>
-	<Hive.description>虫の巣。そのうち、虫が湧き、巣が増えます。</Hive.description>
+	<Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
 
 	<GlowPod.label>発光ポッド</GlowPod.label>
-	<GlowPod_Blueprint_Install.label>発光ポッド(移動先)</GlowPod_Blueprint_Install.label>
+	<Blueprint_Install_GlowPod.label>発光ポッド(移動先)</Blueprint_Install_GlowPod.label>
 	<GlowPod.description>巨大な虫が作り出した生物発光ポッド。虫が死んだとき、自身の周りを長い時間照らします。</GlowPod.description>
 
 </LanguageData>

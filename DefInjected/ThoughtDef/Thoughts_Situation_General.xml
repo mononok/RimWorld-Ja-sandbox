@@ -1,39 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>LowExpectations.stages[0].label</path>
-		<trans>将来への意気込み</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[0].description</path>
-		<trans>この土地はまったく豊かとはいえない。私の思い通りには、いかないということか。</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[1].label</path>
-		<trans>希望が低い将来への意気込み</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[1].description</path>
-		<trans>この土地には、多くの満足をもたらす富があるとは思えない。だからこそ、心を強く保たなければ…</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[2].label</path>
-		<trans>希望が非常に低い将来への意気込み</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[2].description</path>
-		<trans>この土地は非常に貧しい、ここで豊かに暮らせるとは期待できない。だからこそ、心を強く持たなければ…</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[3].label</path>
-		<trans>希望が極めて低い将来への意気込み</trans>
-	</rep>
-	<rep>
-		<path>LowExpectations.stages[3].description</path>
-		<trans>私は避難設備なしでここに降りた。だからこそ、生きのびるには、鋼の心でとりかからないと..</trans>
-	</rep>
-
+    <LowExpectations.stages.0.label>sky-high expectations</LowExpectations.stages.0.label>
+    <LowExpectations.stages.0.description>This place is really rich. I should be made very comfortable here.</LowExpectations.stages.0.description>
+    <LowExpectations.stages.1.label>high expectations</LowExpectations.stages.1.label>
+    <LowExpectations.stages.1.description>This place is almost rich. There's no reason I shouldn't have the things I want.</LowExpectations.stages.1.description>
+    <LowExpectations.stages.2.label>moderate expectations</LowExpectations.stages.2.label>
+    <LowExpectations.stages.2.description>This place isn't quite rich. I can't expect to be totally pampered.</LowExpectations.stages.2.description>
+    <LowExpectations.stages.3.label>low expectations</LowExpectations.stages.3.label>
+    <LowExpectations.stages.3.description>This place doesn't have the wealth for many luxuries. I can't expect great comforts.</LowExpectations.stages.3.description>
+    <LowExpectations.stages.4.label>very low expectaions</LowExpectations.stages.4.label>
+    <LowExpectations.stages.4.description>This place is poverty-stricken. I need to keep myself strong to survive.</LowExpectations.stages.4.description>
+    <LowExpectations.stages.extremely_low_expectations.label>extremely low expectations</LowExpectations.stages.extremely_low_expectations.label>
+    <LowExpectations.stages.extremely_low_expectations.description>There's nothing here to make me comfortable. I'd better steel myself to survive.</LowExpectations.stages.extremely_low_expectations.description>
 
 	<rep>
 		<path>EnvironmentDark.stages[0].label</path>
@@ -43,25 +22,6 @@
 		<path>EnvironmentDark.stages[0].description</path>
 		<trans>一時の間、暗闇の中にいた。きにくわない。</trans>
 	</rep>
-
-
-	<rep>
-		<path>CabinFever.stages[0].label</path>
-		<trans>キャビンフィーバー(軽度)</trans>
-	</rep>
-	<rep>
-		<path>CabinFever.stages[0].description</path>
-		<trans>もう何日も室内にいる。私は外に出たい。</trans>
-	</rep>
-	<rep>
-		<path>CabinFever.stages[1].label</path>
-		<trans>キャビンフィーバー(重大)</trans>
-	</rep>
-	<rep>
-		<path>CabinFever.stages[1].description</path>
-		<trans>もうかなり長いこと、ネズミの様に捕らえられたままだ。外に出してくれ！気が狂いそうだ。</trans>
-	</rep>
-
 
 	<rep>
 		<path>ApparelDamaged.stages[0].label</path>
@@ -117,31 +77,14 @@
 	</rep>
 
 
-	<rep>
-		<path>EnvironmentCold.stages[0].label</path>
-		<trans>寒い</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCold.stages[0].description</path>
-		<trans>寒くて不快だ。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCold.stages[1].label</path>
-		<trans>とても寒い</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCold.stages[1].description</path>
-		<trans>とても寒いうえに、暖房が無くガタガタ震えている。</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCold.stages[2].label</path>
-		<trans>凍ってしまう！</trans>
-	</rep>
-	<rep>
-		<path>EnvironmentCold.stages[2].description</path>
-		<trans>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房を用意して。</trans>
-	</rep>
-
+	<EnvironmentCold.stages.0.label>寒い</EnvironmentCold.stages.0.label>
+	<EnvironmentCold.stages.0.description>寒くて不快だ。</EnvironmentCold.stages.0.description>
+	<EnvironmentCold.stages.1.label>とても寒い</EnvironmentCold.stages.1.label>
+	<EnvironmentCold.stages.1.description>とても寒いうえに、暖房が無くガタガタ震えている。</EnvironmentCold.stages.1.description>
+	<EnvironmentCold.stages.2.label>凍ってしまう！</EnvironmentCold.stages.2.label>
+	<EnvironmentCold.stages.2.description>歯がガチガチと強く鳴っていて、ほとんど話すことができない、足の指先はかじかんでいる。直ぐに暖房を用意して。</EnvironmentCold.stages.2.description>
+    <EnvironmentCold.stages.absolutely_freezing.label>absolutely freezing</EnvironmentCold.stages.absolutely_freezing.label>
+    <EnvironmentCold.stages.absolutely_freezing.description>My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm.</EnvironmentCold.stages.absolutely_freezing.description>
 
 	<rep>
 		<path>EnvironmentHot.stages[0].label</path>

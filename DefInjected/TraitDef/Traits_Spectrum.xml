@@ -8,7 +8,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[0].description</path>
-		<trans>NAMEは、どこに行ったかと思えば、いつもグループから遅れた所にいます。</trans>
+		<trans>[PAWN_nameDef]は、どこに行ったかと思えば、いつもグループから遅れた所にいます。</trans>
 	</rep>
 
 	<rep>
@@ -17,7 +17,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[1].description</path>
-		<trans>NAMEは、好きな所へ行きたがります。HECAPはほとんどの人より早く歩きます。</trans>
+		<trans>[PAWN_nameDef]は、好きな所へ行きたがります。[PAWN_pronoun]はほとんどの人より早く歩きます。</trans>
 	</rep>
 
 	<rep>
@@ -26,7 +26,7 @@
 	</rep>
 	<rep>
 		<path>SpeedOffset.degreeDatas[2].description</path>
-		<trans>NAMEは、常に切迫感をもって移動するので、他の人が、遅れずについて行けなくなることが、よく起こります。</trans>
+		<trans>[PAWN_nameDef]は、常に切迫感をもって移動するので、他の人が、遅れずについて行けなくなることが、よく起こります。</trans>
 	</rep>
 
 	<!--> DrugDesire <-->
@@ -36,7 +36,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[0].description</path>
-		<trans>NAMEは、薬物で楽しむことに強く惹かれています。HECAPは、それらをより多く浪費し、頻繁にイッてしまうようになります。HECAPは、娯楽用のドラッグを禁止されても知らんぷりをするようになるでしょう。</trans>
+		<trans>[PAWN_nameDef]は、薬物で楽しむことに強く惹かれています。[PAWN_pronoun]は、それらをより多く浪費し、頻繁にイッてしまうようになります。[PAWN_pronoun]は、娯楽用のドラッグを禁止されても知らんぷりをするようになるでしょう。</trans>
 	</rep>
 
 	<rep>
@@ -45,7 +45,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[1].description</path>
-		<trans>NAMEは、薬物で楽しむことに並々ならぬ程惹かれています。HECAPは、それらをより多く浪費し、頻繁にイッてしまうようになります。HECAPは、娯楽用のドラッグを禁止されても知らんぷりをするようになるでしょう。</trans>
+		<trans>[PAWN_nameDef]は、薬物で楽しむことに並々ならぬ程惹かれています。[PAWN_pronoun]は、それらをより多く浪費し、頻繁にイッてしまうようになります。[PAWN_pronoun]は、娯楽用のドラッグを禁止されても知らんぷりをするようになるでしょう。</trans>
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].label</path>
@@ -53,7 +53,7 @@
 	</rep>
 	<rep>
 		<path>DrugDesire.degreeDatas[2].description</path>
-		<trans>NAMEは、安易に薬物から喜びを得る発想を、ひどく嫌い、ドラッグやアルコールを避けます。</trans>
+		<trans>[PAWN_nameDef]は、安易に薬物から喜びを得る発想を、ひどく嫌い、ドラッグやアルコールを避けます。</trans>
 	</rep>
 
 
@@ -64,7 +64,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[0].description</path>
-		<trans>NAMEは、HIS立場について、 ほとんど意にかえすことは無い、生まれつき陽気な人です。</trans>
+		<trans>[PAWN_nameDef]は、[PAWN_possessive]立場について、 ほとんど意にかえすことは無い、生まれつき陽気な人です。</trans>
 	</rep>
 
 	<rep>
@@ -73,7 +73,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[1].description</path>
-		<trans>NAMEは、人生における生まれつきの楽観主義者です。HIS気分を落ち込ませることは難しいです。</trans>
+		<trans>[PAWN_nameDef]は、人生における生まれつきの楽観主義者です。[PAWN_possessive]気分を落ち込ませることは難しいです。</trans>
 	</rep>
 
 	<rep>
@@ -82,7 +82,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[2].description</path>
-		<trans>NAMEは、人生を悪い方悪い方へと見てしまいがちです。</trans>
+		<trans>[PAWN_nameDef]は、人生を悪い方悪い方へと見てしまいがちです。</trans>
 	</rep>
 
 	<rep>
@@ -91,7 +91,7 @@
 	</rep>
 	<rep>
 		<path>NaturalMood.degreeDatas[3].description</path>
-		<trans>NAMEは絶え間なく不幸です。HECAPは、全てがうまくいってるときでさえ、この良い気分が続くことの心配しています。</trans>
+		<trans>[PAWN_nameDef]は絶え間なく不幸です。[PAWN_pronoun]は、全てがうまくいってるときでさえ、この良い気分が続くことの心配しています。</trans>
 	</rep>
 
 	<!--> Nerves <-->
@@ -101,7 +101,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[0].description</path>
-		<trans>NAMEの意志は鉄でできた盾のようです。他の者がずっと前に諦めてしまったことでも、HECAPは、どんなことがあってもやりとげます。</trans>
+		<trans>[PAWN_nameDef]の意志は鉄でできた盾のようです。他の者がずっと前に諦めてしまったことでも、[PAWN_pronoun]は、どんなことがあってもやりとげます。</trans>
 	</rep>
 
 	<rep>
@@ -110,7 +110,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[1].description</path>
-		<trans>NAMEは、ほとんどの人がストレスで心折られる環境下でも、精神的に強く心がまいることはありません。</trans>
+		<trans>[PAWN_nameDef]は、ほとんどの人がストレスで心折られる環境下でも、精神的に強く心がまいることはありません。</trans>
 	</rep>
 
 	<rep>
@@ -119,7 +119,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[2].description</path>
-		<trans>NAMEは、プレッシャーがかかると心が折れる傾向があります。</trans>
+		<trans>[PAWN_nameDef]は、プレッシャーがかかると心が折れる傾向があります。</trans>
 	</rep>
 
 	<rep>
@@ -128,7 +128,7 @@
 	</rep>
 	<rep>
 		<path>Nerves.degreeDatas[3].description</path>
-		<trans>NAMEの精神は、常に脆く崩れやすく HECAPは、辛いことがあると 一番最初に精神崩壊する傾向があります。</trans>
+		<trans>[PAWN_nameDef]の精神は、常に脆く崩れやすく [PAWN_pronoun]は、辛いことがあると 一番最初に精神崩壊する傾向があります。</trans>
 	</rep>
 
 	<!--> Neurotic <-->
@@ -138,7 +138,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[0].description</path>
-		<trans>NAMEは、事態に備えることが好きです。 HECAPは物事を成し遂げるのに、 他の人より多くの苦労しますが、 HIS神経質なところは、 HIS良いところを引き出します。</trans>
+		<trans>[PAWN_nameDef]は、事態に備えることが好きです。 [PAWN_pronoun]は物事を成し遂げるのに、 他の人より多くの苦労しますが、 [PAWN_possessive]神経質なところは、 [PAWN_possessive]良いところを引き出します。</trans>
 	</rep>
 
  	<rep>
@@ -147,7 +147,7 @@
 	</rep>
 	<rep>
 		<path>Neurotic.degreeDatas[1].description</path>
-		<trans>NAMEは、やり遂げなければならないどんなことにも、常に気を使います。 HECAPは物事を成し遂げるのに、他の人より更に多くの苦労しますが HIS神経質なところが、彼の良いところをより簡単に引き出します。</trans>
+		<trans>[PAWN_nameDef]は、やり遂げなければならないどんなことにも、常に気を使います。 [PAWN_pronoun]は物事を成し遂げるのに、他の人より更に多くの苦労しますが [PAWN_possessive]神経質なところが、彼の良いところをより簡単に引き出します。</trans>
 	</rep>
 
 	<!--> Industriousness <-->
@@ -157,7 +157,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[0].description</path>
-		<trans>NAMEは作業場にいて集中し続ける作業が得意です。そして平均的な人よりも、より早く作業を終わらせることができます。</trans>
+		<trans>[PAWN_nameDef]は作業場にいて集中し続ける作業が得意です。そして平均的な人よりも、より早く作業を終わらせることができます。</trans>
 	</rep>
 
 	<rep>
@@ -166,7 +166,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[1].description</path>
-		<trans>NAMEは生まれつきの働き者です。ほとんどの人よりも早く作業ができます。</trans>
+		<trans>[PAWN_nameDef]は生まれつきの働き者です。ほとんどの人よりも早く作業ができます。</trans>
 	</rep>
 
 	<rep>
@@ -175,7 +175,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[2].description</path>
-		<trans>NAMEは、少したるんでいます。</trans>
+		<trans>[PAWN_nameDef]は、少したるんでいます。</trans>
 	</rep>
 
 	<rep>
@@ -184,7 +184,7 @@
 	</rep>
 	<rep>
 		<path>Industriousness.degreeDatas[3].description</path>
-		<trans>NAMEは、だらだらしてるのが好きです。物を作るのが嫌いです。 HIS歩みもゆっくりで、作業場で集中している姿を見ることは珍しいです。</trans>
+		<trans>[PAWN_nameDef]は、だらだらしてるのが好きです。物を作るのが嫌いです。 [PAWN_possessive]歩みもゆっくりで、作業場で集中している姿を見ることは珍しいです。</trans>
 	</rep>
 
 	<!--> PsychicSensitivity <-->
@@ -194,7 +194,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[0].description</path>
-		<trans>NAMEの心は精神波に共鳴する音叉のようです。HECAPは精神的現象に非常に敏感です。</trans>
+		<trans>[PAWN_nameDef]の心は精神波に共鳴する音叉のようです。[PAWN_pronoun]は精神的現象に非常に敏感です。</trans>
 	</rep>
 
 	<rep>
@@ -203,7 +203,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[1].description</path>
-		<trans>NAMEの心は精神的現象に著しく敏感です。</trans>
+		<trans>[PAWN_nameDef]の心は精神的現象に著しく敏感です。</trans>
 	</rep>
 
 	<rep>
@@ -212,7 +212,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[2].description</path>
-		<trans>NAMEの心の精神的感受性は人並み以下です。精神的現象がHECAPに影響を及ぼすことはありません。</trans>
+		<trans>[PAWN_nameDef]の心の精神的感受性は人並み以下です。精神的現象が[PAWN_pronoun]に影響を及ぼすことはありません。</trans>
 	</rep>
 
 	<rep>
@@ -221,7 +221,7 @@
 	</rep>
 	<rep>
 		<path>PsychicSensitivity.degreeDatas[3].description</path>
-		<trans>NAMEの心は、他人とは違う周波数に作用するようです。精神的現象がHECAPに影響を及ぼすことは全くありません。</trans>
+		<trans>[PAWN_nameDef]の心は、他人とは違う周波数に作用するようです。精神的現象が[PAWN_pronoun]に影響を及ぼすことは全くありません。</trans>
 	</rep>
 
 	<!--> Trriger-Happy <-->
@@ -231,7 +231,7 @@
 	</rep>
 	<rep>
 		<path>ShootingAccuracy.degreeDatas[0].description</path>
-		<trans>NAMEは、銃で狙いをつける時に、より時間をかけます。HECAPは、他の者より発砲頻度は低いですが、狙いはより正確です。</trans>
+		<trans>[PAWN_nameDef]は、銃で狙いをつける時に、より時間をかけます。[PAWN_pronoun]は、他の者より発砲頻度は低いですが、狙いはより正確です。</trans>
 	</rep>
 	<rep>
 		<path>ShootingAccuracy.degreeDatas[1].label</path>
@@ -239,7 +239,7 @@
 	</rep>
 	<rep>
 		<path>ShootingAccuracy.degreeDatas[1].description</path>
-		<trans>バン！バン！ NAMEは、トリガーを引くのが本当に好きです。HECAPは、他の者よりも発砲頻度は高いですが、狙いは甘いです。</trans>
+		<trans>バン！バン！ [PAWN_nameDef]は、トリガーを引くのが本当に好きです。[PAWN_pronoun]は、他の者よりも発砲頻度は高いですが、狙いは甘いです。</trans>
 	</rep>
 
 	<rep>
@@ -248,7 +248,7 @@
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[0].description</path>
-		<trans>NAMEは視線を釘付けにする魅惑的で親しみやすい顔を持ち、非常に美しいです。人々はHEが口を開く前からHEに魅了されています。</trans>
+		<trans>[PAWN_nameDef]は視線を釘付けにする魅惑的で親しみやすい顔を持ち、非常に美しいです。人々は[PAWN_pronoun]が口を開く前から[PAWN_pronoun]に魅了されています。</trans>
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[1].label</path>
@@ -256,7 +256,7 @@
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[1].description</path>
-		<trans>NAMEは、人々に好かれる可愛らしい顔を持っています.</trans>
+		<trans>[PAWN_nameDef]は、人々に好かれる可愛らしい顔を持っています.</trans>
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[2].label</path>
@@ -264,7 +264,7 @@
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[2].description</path>
-		<trans>NAMEは醜いです。これは人々の関わりの中で相手に多少の不快感を与えます。</trans>
+		<trans>[PAWN_nameDef]は醜いです。これは人々の関わりの中で相手に多少の不快感を与えます。</trans>
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[3].label</path>
@@ -272,7 +272,12 @@
 	</rep>
 	<rep>
 		<path>Beauty.degreeDatas[3].description</path>
-		<trans>NAMEは驚くほど醜いです。 HISCAP顔は才能のない子供が描いた絵、防腐剤入りの瓶に詰められた奇形の胎児、そして現代アートの作品らを足して割ったように見えます。会話の最中、相手はHEを見るのに意識して努力をしなければなりません。</trans>
+		<trans>[PAWN_nameDef]は驚くほど醜いです。 [PAWN_possessive]顔は才能のない子供が描いた絵、防腐剤入りの瓶に詰められた奇形の胎児、そして現代アートの作品らを足して割ったように見えます。会話の最中、相手は[PAWN_pronoun]を見るのに意識して努力をしなければなりません。</trans>
 	</rep>
+
+    <Immunity.degreeDatas.0.label>超免疫力</Immunity.degreeDatas.0.label>
+    <Immunity.degreeDatas.0.description>[PAWN_nameDef]は生まれつき、強力な免疫システムを備えています。[PAWN_pronoun]は普通の人が得られる速度より早く免疫を得られるでしょう、そして他の人は死んでしまうような疾病でも生き残ることができます。</Immunity.degreeDatas.0.description>
+    <Immunity.degreeDatas.1.label>免疫不全</Immunity.degreeDatas.1.label>
+    <Immunity.degreeDatas.1.description>[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.</Immunity.degreeDatas.1.description>
 
 </LanguageData>

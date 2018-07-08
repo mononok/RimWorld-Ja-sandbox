@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!--======================= Wild plants - carpets ========================-->
-    <PlantGrass.label>雑草</PlantGrass.label>
-    <PlantGrass.description>雑草は、わずかな明かりと栄養があれば、どこにでも繁茂します。</PlantGrass.description>
+    <!--======================= Wild Plant_s - carpets ========================-->
+    <Plant_Grass.label>雑草</Plant_Grass.label>
+    <Plant_Grass.description>雑草は、わずかな明かりと栄養があれば、どこにでも繁茂します。</Plant_Grass.description>
 
-	<PlantTallGrass.label>イネ科の草</PlantTallGrass.label>
-	<PlantTallGrass.description>背丈が高い植物です。この草が生い茂った中は歩きにくいです。</PlantTallGrass.description>
+	<Plant_TallGrass.label>イネ科の草</Plant_TallGrass.label>
+	<Plant_TallGrass.description>背丈が高い植物です。この草が生い茂った中は歩きにくいです。</Plant_TallGrass.description>
 
-	<PlantBush.label>低木</PlantBush.label>
-	<PlantBush.description>低い灌木です。</PlantBush.description>
+	<Plant_Bush.label>低木</Plant_Bush.label>
+	<Plant_Bush.description>低い灌木です。</Plant_Bush.description>
 
-	<PlantBrambles.label>イバラ</PlantBrambles.label>
-	<PlantBrambles.description>絡み合った、とげとげしい枝で覆われています。この上を歩くものは少しだけ遅くなります。</PlantBrambles.description>
+	<Plant_Brambles.label>イバラ</Plant_Brambles.label>
+	<Plant_Brambles.description>Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them.</Plant_Brambles.description>
 
-    <PlantWildHealroot.label>野ヒールルート</PlantWildHealroot.label>
-    <PlantWildHealroot.description>摘み取ると、薬草として効果があり、成長速度がゆっくりとした植物です。\n\nこのヒールルートの野生種を栽培するのは難しく、寒冷地の部族民では尊重されています。</PlantWildHealroot.description>
+    <Plant_HealrootWild.label>野ヒールルート</Plant_HealrootWild.label>
+    <Plant_HealrootWild.description>A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates.</Plant_HealrootWild.description>
 
 </LanguageData>

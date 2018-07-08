@@ -1,32 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ArmorRating_Blunt.label>アーマー(打撲系)</ArmorRating_Blunt.label>
-	<ArmorRating_Blunt.description>棍棒で殴られる、落石、爆発などの、打撲系のダメージに対するアーマー値です。</ArmorRating_Blunt.description>
+    <StuffEffectMultiplierInsulation_Cold.label>Insulation - Cold - Material effect multiplier</StuffEffectMultiplierInsulation_Cold.label>
+    <StuffEffectMultiplierInsulation_Heat.label>Insulation - Heat - Material effect multiplier</StuffEffectMultiplierInsulation_Heat.label>
+    <StuffEffectMultiplierArmor.label>Armor - Material effect multiplier</StuffEffectMultiplierArmor.label>
 
-	<ArmorRating_Sharp.label>アーマー(突刺系)</ArmorRating_Sharp.label>
-	<ArmorRating_Sharp.description>弾丸、ナイフ、咬み傷などの、切り裂くダメージに対するアーマー値です。</ArmorRating_Sharp.description>
+    <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
+    <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and converted into a half-damage blunt impact. Many attacks have armor penetration that will cancel part of this armor rating.</ArmorRating_Sharp.description>
+
+	<ArmorRating_Blunt.label>アーマー(打撲系)</ArmorRating_Blunt.label>
+	<ArmorRating_Blunt.description>Armor against blunt damage like fists, club impacts and rock falls.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and have damage reduced by half. Many attacks have armor penetration that will cancel part of this armor rating.</ArmorRating_Blunt.description>
 
 	<ArmorRating_Heat.label>アーマー(熱系)</ArmorRating_Heat.label>
-	<ArmorRating_Heat.description>熱傷などの、温度に関係するダメージに対するアーマー値です。</ArmorRating_Heat.description>
-
-	<ArmorRating_Electric.label>アーマー(電磁系)</ArmorRating_Electric.label>
-	<ArmorRating_Electric.description>EMPパルスなどの、電磁系ダメージに対するアーマー値です。</ArmorRating_Electric.description>
+	<ArmorRating_Heat.description>Armor against temperature-related damage like burns.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and have damage reduced by half. Some attacks may have armor penetration that will cancel part of this armor rating.</ArmorRating_Heat.description>
 
 	<Insulation_Cold.label>断熱材(低温)</Insulation_Cold.label>
-	<Insulation_Cold.description>身に付けたとき、快適でいられる最低温度への補正値です。</Insulation_Cold.description>
+	<Insulation_Cold.description>How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures.</Insulation_Cold.description>
 
 	<Insulation_Heat.label>断熱材(高温)</Insulation_Heat.label>
-	<Insulation_Heat.description>身に付けたとき、快適でいられる最高温度への補正値です。</Insulation_Heat.description>
+	<Insulation_Heat.description>How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures.</Insulation_Heat.description>
 
 	<EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
-	<EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です。エネルギーが多いほど、より多くのダメージを吸収します。</EnergyShieldEnergyMax.description>
+	<EnergyShieldEnergyMax.description>The maximum energy a shield belt can have at one time. More energy absorbs more damage.</EnergyShieldEnergyMax.description>
 
 	<EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
 	<EnergyShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ、単位時間あたりのリチャージ量です。</EnergyShieldRechargeRate.description>
+	<EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
 
 	<SmokepopBeltRadius.label>スモークポップベルト展張半径</SmokepopBeltRadius.label>
 	<SmokepopBeltRadius.description>スモークポップベルトが発動したときに、見えにくくする半径です。</SmokepopBeltRadius.description>
 	<SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+
+	<EquipDelay.label>equip delay</EquipDelay.label>
+	<EquipDelay.description>The time it takes to equip and unequip this item.</EquipDelay.description>
+	<EquipDelay.formatString>{0}秒</EquipDelay.formatString>
 
 </LanguageData>

@@ -10,7 +10,6 @@
 
 	<Burn.label>やけど</Burn.label>
 	<Burn.labelNoun>やけど</Burn.labelNoun>
-	<Burn.comps.2.oldLabel>やけどの跡</Burn.comps.2.oldLabel>
 	<Burn.comps.0.labelTendedWell>包帯</Burn.comps.0.labelTendedWell>
 	<Burn.comps.0.labelTendedWellInner>縫合</Burn.comps.0.labelTendedWellInner>
 	<Burn.comps.0.labelSolidTendedWell>セット</Burn.comps.0.labelSolidTendedWell>
@@ -19,7 +18,6 @@
 
 	<Crush.label>ひしゃげた</Crush.label>
 	<Crush.labelNoun>ひしゃげた</Crush.labelNoun>
-	<Crush.comps.2.oldLabel>傷跡</Crush.comps.2.oldLabel>
 	<Crush.comps.0.labelTendedWell>包帯</Crush.comps.0.labelTendedWell>
 	<Crush.comps.0.labelTendedWellInner>縫合</Crush.comps.0.labelTendedWellInner>
 	<Crush.comps.0.labelSolidTendedWell>セット</Crush.comps.0.labelSolidTendedWell>
@@ -34,7 +32,6 @@
 
 	<Cut.label>切創</Cut.label>
 	<Cut.labelNoun>切創</Cut.labelNoun>
-	<Cut.comps.2.oldLabel>切創</Cut.comps.2.oldLabel>
 	<Cut.comps.0.labelTendedWell>包帯</Cut.comps.0.labelTendedWell>
 	<Cut.comps.0.labelTendedWellInner>縫合</Cut.comps.0.labelTendedWellInner>
 	<Cut.comps.0.labelSolidTendedWell>セット</Cut.comps.0.labelSolidTendedWell>
@@ -46,14 +43,12 @@
 	<SurgicalCut.comps.0.labelTendedWell>包帯</SurgicalCut.comps.0.labelTendedWell>
 	<SurgicalCut.comps.0.labelTendedWellInner>縫合</SurgicalCut.comps.0.labelTendedWellInner>
 	<SurgicalCut.comps.0.labelSolidTendedWell>セット</SurgicalCut.comps.0.labelSolidTendedWell>
-	<SurgicalCut.comps.1.oldLabel>切創痕</SurgicalCut.comps.1.oldLabel>
 
 	<Scratch.label>ひっかき傷</Scratch.label>
 	<Scratch.labelNoun>ひっかき傷</Scratch.labelNoun>
 	<Scratch.comps.0.labelTendedWell>包帯</Scratch.comps.0.labelTendedWell>
 	<Scratch.comps.0.labelTendedWellInner>縫合</Scratch.comps.0.labelTendedWellInner>
 	<Scratch.comps.0.labelSolidTendedWell>セット</Scratch.comps.0.labelSolidTendedWell>
-	<Scratch.comps.2.oldLabel>傷跡</Scratch.comps.2.oldLabel>
 	<Scratch.injuryProps.destroyedLabel>千切れた</Scratch.injuryProps.destroyedLabel>
 	<Scratch.injuryProps.destroyedOutLabel>抉り取られた</Scratch.injuryProps.destroyedOutLabel>
 
@@ -62,7 +57,6 @@
 	<Bite.comps.0.labelTendedWell>包帯</Bite.comps.0.labelTendedWell>
 	<Bite.comps.0.labelTendedWellInner>縫合</Bite.comps.0.labelTendedWellInner>
 	<Bite.comps.0.labelSolidTendedWell>セット</Bite.comps.0.labelSolidTendedWell>
-	<Bite.comps.2.oldLabel>古傷</Bite.comps.2.oldLabel>
 	<Bite.injuryProps.destroyedLabel>齧りとられた</Bite.injuryProps.destroyedLabel>
 	<Bite.injuryProps.destroyedOutLabel>齧りとられた</Bite.injuryProps.destroyedOutLabel>
 
@@ -71,7 +65,6 @@
 	<Stab.comps.0.labelTendedWell>包帯</Stab.comps.0.labelTendedWell>
 	<Stab.comps.0.labelTendedWellInner>縫合</Stab.comps.0.labelTendedWellInner>
 	<Stab.comps.0.labelSolidTendedWell>セット</Stab.comps.0.labelSolidTendedWell>
-	<Stab.comps.2.oldLabel>刺跡</Stab.comps.2.oldLabel>
 	<Stab.injuryProps.destroyedLabel>切り落とされた</Stab.injuryProps.destroyedLabel>
 	<Stab.injuryProps.destroyedOutLabel>切り取られた</Stab.injuryProps.destroyedOutLabel>
 
@@ -80,8 +73,6 @@
 	<Gunshot.comps.0.labelTendedWell>包帯</Gunshot.comps.0.labelTendedWell>
 	<Gunshot.comps.0.labelTendedWellInner>縫合</Gunshot.comps.0.labelTendedWellInner>
 	<Gunshot.comps.0.labelSolidTendedWell>セット</Gunshot.comps.0.labelSolidTendedWell>
-	<Gunshot.comps.2.oldLabel>銃創</Gunshot.comps.2.oldLabel>
-	<Gunshot.comps.2.instantlyOldLabel>銃創(古傷)</Gunshot.comps.2.instantlyOldLabel>
 	<Gunshot.injuryProps.destroyedLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedLabel>
 	<Gunshot.injuryProps.destroyedOutLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedOutLabel>
 
@@ -90,7 +81,6 @@
 	<Shredded.comps.0.labelTendedWell>包帯</Shredded.comps.0.labelTendedWell>
 	<Shredded.comps.0.labelTendedWellInner>縫合</Shredded.comps.0.labelTendedWellInner>
 	<Shredded.comps.0.labelSolidTendedWell>セット</Shredded.comps.0.labelSolidTendedWell>
-	<Shredded.comps.2.oldLabel>傷跡</Shredded.comps.2.oldLabel>
 	<Shredded.injuryProps.destroyedLabel>千切れた</Shredded.injuryProps.destroyedLabel>
 	<Shredded.injuryProps.destroyedOutLabel>千切れた</Shredded.injuryProps.destroyedOutLabel>
 
@@ -105,7 +95,6 @@
 	<Frostbite.comps.0.labelTendedWell>包帯</Frostbite.comps.0.labelTendedWell>
 	<Frostbite.comps.0.labelTendedWellInner>縫合</Frostbite.comps.0.labelTendedWellInner>
 	<Frostbite.comps.0.labelSolidTendedWell>セット</Frostbite.comps.0.labelSolidTendedWell>
-	<Frostbite.comps.2.oldLabel>凍傷跡</Frostbite.comps.2.oldLabel>
 	<Frostbite.injuryProps.destroyedLabel>凍傷で失った</Frostbite.injuryProps.destroyedLabel>
 
 	<!-- Missing body part -->

@@ -2,37 +2,41 @@
 <LanguageData>
 
     <!--=========================== Crops ==============================-->
-	<PlantRice.label>米</PlantRice.label>
-    <PlantRice.description>肥沃な土地で早く育つ背の低い穀物、ただ生のまま食べるのはお勧めしません。</PlantRice.description>
+	<Plant_Rice.label>米</Plant_Rice.label>
+    <Plant_Rice.description>A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil.</Plant_Rice.description>
 
-    <PlantPotato.label>ジャガイモ</PlantPotato.label>
-    <PlantPotato.description>シンプルで、栄養価が高い塊茎、痩せた土地でも比較的に良く育ちます。</PlantPotato.description>
+    <Plant_Potato.label>ジャガイモ</Plant_Potato.label>
+    <Plant_Potato.description>A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil.</Plant_Potato.description>
 
-	<PlantCorn.label>トウモロコシ</PlantCorn.label>
-	<PlantCorn.description>美味しい黄色い実がなる大きな穀物です。相対的に、成長するのに時間が掛かりますが、たくさん収穫でき、長い時間保存がききます。肥沃な土地で良く育ちます。</PlantCorn.description>
+	<Plant_Corn.label>トウモロコシ</Plant_Corn.label>
+	<Plant_Corn.description>A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil.</Plant_Corn.description>
 
-    <PlantStrawberry.label>苺</PlantStrawberry.label>
-    <PlantStrawberry.description>傷みやすいが、生のままでも、おいしい果物です。</PlantStrawberry.description>
+    <Plant_Strawberry.label>苺</Plant_Strawberry.label>
+    <Plant_Strawberry.description>A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.</Plant_Strawberry.description>
 
-    <PlantHaygrass.label>牧草</PlantHaygrass.label>
-    <PlantHaygrass.description>一度で大量に収穫できる栄養豊富な牧草です。動物たちの餌になり、食用にはなりません。</PlantHaygrass.description>
+    <Plant_Haygrass.label>牧草</Plant_Haygrass.label>
+    <Plant_Haygrass.description>一度で大量に収穫できる栄養豊富な牧草です。動物たちの餌になり、食用にはなりません。</Plant_Haygrass.description>
 
-    <PlantCotton.label>木綿</PlantCotton.label>
-    <PlantCotton.description>衣服を作るのに使われる綿を産出します。</PlantCotton.description>
+    <Plant_Cotton.label>木綿</Plant_Cotton.label>
+    <Plant_Cotton.description>A mid-size crop that yields fine white cotton fibers. These are used to make cloth.</Plant_Cotton.description>
 
-    <PlantDevilstrand.label>デビルストランド</PlantDevilstrand.label>
-    <PlantDevilstrand.description>この脆弱なキノコは、最上級の絹のネットを作る為に遺伝子操作されました。長い間、神秘的な特性を持つと噂され、そこから、この名前がつけられました。</PlantDevilstrand.description>
+    <Plant_Devilstrand.label>デビルストランド</Plant_Devilstrand.label>
+    <Plant_Devilstrand.description>This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people.</Plant_Devilstrand.description>
 
-	<PlantHealroot.label>ヒールルート</PlantHealroot.label>
-	<PlantHealroot.description>薬草としての効能を持つ、成長の遅い植物です。\n\nヒールルートは、何世紀も入植者によって、選択的に栽培されてきました。原住民によって、ときには"癒しの手"とも呼ばれています。</PlantHealroot.description>
+	<Plant_Healroot.label>ヒールルート</Plant_Healroot.label>
+	<Plant_Healroot.description>薬草としての効能を持つ、成長の遅い植物です。\n\nヒールルートは、何世紀も入植者によって、選択的に栽培されてきました。原住民によって、ときには"癒しの手"とも呼ばれています。</Plant_Healroot.description>
 
-    <PlantHops.label>ホップ</PlantHops.label>
-    <PlantHops.description>ビールの原料のひとつ、ホップの実をつけます。</PlantHops.description>
+    <Plant_Hops.label>ホップ</Plant_Hops.label>
+    <Plant_Hops.description>ビールの原料のひとつ、ホップの実をつけます。</Plant_Hops.description>
 
-	<PlantSmokeleaf.label>スモークリーフの木</PlantSmokeleaf.label>
-	<PlantSmokeleaf.description>精神的効果が高められた葉の多い植物です。スモークリーフの葉な、加工台でジョイントに精製することができます。</PlantSmokeleaf.description>
+	<Plant_Smokeleaf.label>スモークリーフの木</Plant_Smokeleaf.label>
+	<Plant_Smokeleaf.description>A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.</Plant_Smokeleaf.description>
 
-	<PlantPsychoid.label>サイコイドの木</PlantPsychoid.label>
-	<PlantPsychoid.description>葉の多い植物です。木の葉を精製すると、様々なサイコイド性のドラッグになります。</PlantPsychoid.description>
+	<Plant_Psychoid.label>サイコイドの木</Plant_Psychoid.label>
+	<Plant_Psychoid.description>A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.</Plant_Psychoid.description>
+
+    <Plant_TreeCocoa.label>cocoa tree</Plant_TreeCocoa.label>
+    <Plant_TreeCocoa.description>A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates.</Plant_TreeCocoa.description>
+
 
 </LanguageData>

@@ -3,36 +3,30 @@
 
     <Chicken.label>ニワトリ</Chicken.label>
     <Chicken.description>もっとも伝統的な家禽です、鶏から、卵と肉が採れます。</Chicken.description>
-    <Chicken_Meat.label>ニワトリの肉</Chicken_Meat.label>
-    <Chicken_Meat.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Chicken_Meat.description>
-    <Chicken_Corpse.label>ニワトリの死骸</Chicken_Corpse.label>
-    <Chicken_Corpse.description>ニワトリの死骸</Chicken_Corpse.description>
+    <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
+    <Meat_Chicken.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。It grows very quickly and lays eggs very often.</Meat_Chicken.description>
+    <Corpse_Chicken.label>ニワトリの死骸</Corpse_Chicken.label>
+    <Corpse_Chicken.description>ニワトリの死骸</Corpse_Chicken.description>
 
     <Pig.label>ブタ</Pig.label>
-    <Pig.description>ブタは、人によって飼い馴らされた最初の動物の一つでした。豚からは、一般に肉と皮が採れます、そして肉でも野菜でも食べるので育てるのは簡単です。</Pig.description>
-    <Pig_Leather.label>ブタの皮</Pig_Leather.label>
-    <Pig_Leather.description>なめされて、乾燥した切り抜かれた革。バッグや衣服を作るのに適した伝統的な素材です。</Pig_Leather.description>
-    <Pig_Meat.label>ブタ肉</Pig_Meat.label>
-    <Pig_Meat.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Pig_Meat.description>
-    <Pig_Corpse.label>ブタの死骸</Pig_Corpse.label>
-    <Pig_Corpse.description>ブタの死骸</Pig_Corpse.description>
+    <Pig.description>ブタは、人によって飼い馴らされた最初の動物の一つでした。豚からは、一般に肉と皮が採れます、そして肉でも野菜でも食べるので育てるのは簡単です。Though pigs are self-serving by disposition, they can be trained in complex tasks.</Pig.description>
+    <Meat_Pig.label>ブタ肉</Meat_Pig.label>
+    <Meat_Pig.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Meat_Pig.description>
+    <Corpse_Pig.label>ブタの死骸</Corpse_Pig.label>
+    <Corpse_Pig.description>ブタの死骸</Corpse_Pig.description>
 
     <Cow.label>ウシ</Cow.label>
-    <Cow.description>とても一般的な家畜です。牛は、たくさんの牛乳を作りますし、おいしい肉もとれます。</Cow.description>
-    <Cow_Leather.label>ウシの皮</Cow_Leather.label>
-    <Cow_Leather.description>なめされて、乾燥した切り抜かれた革。バッグや衣服を作るのに適した伝統的な素材です。</Cow_Leather.description>
-    <Cow_Meat.label>ウシの肉</Cow_Meat.label>
-    <Cow_Meat.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Cow_Meat.description>
-    <Cow_Corpse.label>ウシの死骸</Cow_Corpse.label>
-    <Cow_Corpse.description>ウシの死骸</Cow_Corpse.description>
+    <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+    <Meat_Cow.label>ウシの肉</Meat_Cow.label>
+    <Meat_Cow.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Meat_Cow.description>
+    <Corpse_Cow.label>ウシの死骸</Corpse_Cow.label>
+    <Corpse_Cow.description>ウシの死骸</Corpse_Cow.description>
 
     <Alpaca.label>アルパカ</Alpaca.label>
-    <Alpaca.description>ラマと近縁の中型有蹄類です、アルパカからは、よく注目に値する毛糸がとれます。</Alpaca.description>
-    <Alpaca_Leather.label>アルパカの毛皮</Alpaca_Leather.label>
-    <Alpaca_Leather.description>なめされて、乾燥した切り抜かれた革。バッグや衣服を作るのに適した伝統的な素材です。</Alpaca_Leather.description>
-    <Alpaca_Meat.label>アルパカの肉</Alpaca_Meat.label>
-    <Alpaca_Meat.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Alpaca_Meat.description>
-    <Alpaca_Corpse.label>アルパカの死骸</Alpaca_Corpse.label>
-    <Alpaca_Corpse.description>アルパカの死骸</Alpaca_Corpse.description>
+    <Alpaca.description>A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America</Alpaca.description>
+    <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
+    <Meat_Alpaca.description>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</Meat_Alpaca.description>
+    <Corpse_Alpaca.label>アルパカの死骸</Corpse_Alpaca.label>
+    <Corpse_Alpaca.description>アルパカの死骸</Corpse_Alpaca.description>
 
 </LanguageData>

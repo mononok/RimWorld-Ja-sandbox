@@ -2,61 +2,82 @@
 <LanguageData>
 
     <!-- GlobalUtility -->
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[0]</path>
-		<trans>quantity_adjphrase->複数</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[1]</path>
-		<trans>quantity_adjphrase->多数</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[2]</path>
-		<trans>quantity_adjphrase->1ダース</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[3]</path>
-		<trans>quantity_adjphrase->二つ</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[4]</path>
-		<trans>quantity_adjphrase->三つ</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[5]</path>
-		<trans>quantity_adjphrase->四つ</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[6]</path>
-		<trans>quantity_adjphrase->五つ</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[7]</path>
-		<trans>quantity_adjphrase->六つ</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[8]</path>
-		<trans>quantity_adjphrase->数えきれない数</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[9]</path>
-		<trans>quantity_adjphrase->おびただしい数</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[10]</path>
-		<trans>trans->の</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[11]</path>
-		<trans>trans->と</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[12]</path>
-		<trans>trans->よって</trans>
-	</rep>
-	<rep>
-		<path>GlobalUtility.rulePack.rulesStrings[13]</path>
-		<trans>trans->と共に</trans>
-	</rep>
+    <GlobalUtility.rulePack.rulesStrings.0>trans->の</GlobalUtility.rulePack.rulesStrings.0>
+    <GlobalUtility.rulePack.rulesStrings.1>trans->と</GlobalUtility.rulePack.rulesStrings.1>
+    <GlobalUtility.rulePack.rulesStrings.2>trans->よって</GlobalUtility.rulePack.rulesStrings.2>
+    <GlobalUtility.rulePack.rulesStrings.3>trans->と共に</GlobalUtility.rulePack.rulesStrings.3>
+    <GlobalUtility.rulePack.rulesStrings.4>Character(p=6)->[PersonJob]</GlobalUtility.rulePack.rulesStrings.4>
+    <GlobalUtility.rulePack.rulesStrings.5>Character(p=4)->[Animal]</GlobalUtility.rulePack.rulesStrings.5>
+    <GlobalUtility.rulePack.rulesStrings.6>Character(p=3)->[Enemy]</GlobalUtility.rulePack.rulesStrings.6>
+    <GlobalUtility.rulePack.rulesStrings.7>Character->[Mechanoid]</GlobalUtility.rulePack.rulesStrings.7>
+	<GlobalUtility.rulePack.rulesStrings.8>Quantity_adjphrase->二つ</GlobalUtility.rulePack.rulesStrings.8>
+	<GlobalUtility.rulePack.rulesStrings.9>Quantity_adjphrase->三つ</GlobalUtility.rulePack.rulesStrings.9>
+	<GlobalUtility.rulePack.rulesStrings.10>Quantity_adjphrase->四つ</GlobalUtility.rulePack.rulesStrings.10>
+	<GlobalUtility.rulePack.rulesStrings.11>Quantity_adjphrase->五つ</GlobalUtility.rulePack.rulesStrings.11>
+	<GlobalUtility.rulePack.rulesStrings.12>Quantity_adjphrase->六つ</GlobalUtility.rulePack.rulesStrings.12>
+	<GlobalUtility.rulePack.rulesStrings.13>Quantity_adjphrase->七つ</GlobalUtility.rulePack.rulesStrings.13>
+	<GlobalUtility.rulePack.rulesStrings.14>Quantity_adjphrase->八つ</GlobalUtility.rulePack.rulesStrings.14>
+	<GlobalUtility.rulePack.rulesStrings.15>Quantity_adjphrase->九つ</GlobalUtility.rulePack.rulesStrings.15>
+	<GlobalUtility.rulePack.rulesStrings.16>Quantity_adjphrase->十個</GlobalUtility.rulePack.rulesStrings.16>
+	<GlobalUtility.rulePack.rulesStrings.17>Quantity_adjphrase->多数</GlobalUtility.rulePack.rulesStrings.17>
+	<GlobalUtility.rulePack.rulesStrings.18>Quantity_adjphrase->複数</GlobalUtility.rulePack.rulesStrings.18>
+	<GlobalUtility.rulePack.rulesStrings.19>Quantity_adjphrase->大多数</GlobalUtility.rulePack.rulesStrings.19>
+	<GlobalUtility.rulePack.rulesStrings.20>Quantity_adjphrase->1ダース</GlobalUtility.rulePack.rulesStrings.20>
+    <GlobalUtility.rulePack.rulesStrings.21>Quantity_adjphrase->百の</GlobalUtility.rulePack.rulesStrings.21>
+    <GlobalUtility.rulePack.rulesStrings.22>Quantity_adjphrase->千</GlobalUtility.rulePack.rulesStrings.22>
+    <GlobalUtility.rulePack.rulesStrings.23>Quantity_adjphrase->千の</GlobalUtility.rulePack.rulesStrings.23>
+    <GlobalUtility.rulePack.rulesStrings.24>Shape->triangle</GlobalUtility.rulePack.rulesStrings.24>
+    <GlobalUtility.rulePack.rulesStrings.25>Shape->square</GlobalUtility.rulePack.rulesStrings.25>
+    <GlobalUtility.rulePack.rulesStrings.26>Shape->rectangle</GlobalUtility.rulePack.rulesStrings.26>
+    <GlobalUtility.rulePack.rulesStrings.27>Shape->cone</GlobalUtility.rulePack.rulesStrings.27>
+    <GlobalUtility.rulePack.rulesStrings.28>Shape->line</GlobalUtility.rulePack.rulesStrings.28>
+    <GlobalUtility.rulePack.rulesStrings.29>Shape->heart</GlobalUtility.rulePack.rulesStrings.29>
+    <GlobalUtility.rulePack.rulesStrings.30>Shape->star</GlobalUtility.rulePack.rulesStrings.30>
+    <GlobalUtility.rulePack.rulesStrings.31>Shape->circle</GlobalUtility.rulePack.rulesStrings.31>
+    <GlobalUtility.rulePack.rulesStrings.32>Shape->ellipse</GlobalUtility.rulePack.rulesStrings.32>
+    <GlobalUtility.rulePack.rulesStrings.33>AdjectiveAny->[AdjectiveBadass]</GlobalUtility.rulePack.rulesStrings.33>
+    <GlobalUtility.rulePack.rulesStrings.34>AdjectiveAny->[AdjectiveAngsty]</GlobalUtility.rulePack.rulesStrings.34>
+    <GlobalUtility.rulePack.rulesStrings.35>AdjectiveAny->[AdjectiveFriendly]</GlobalUtility.rulePack.rulesStrings.35>
+    <GlobalUtility.rulePack.rulesStrings.36>AdjectiveAny->[AdjectiveNatural]</GlobalUtility.rulePack.rulesStrings.36>
+    <GlobalUtility.rulePack.rulesStrings.37>ConceptAny->[ConceptPositive]</GlobalUtility.rulePack.rulesStrings.37>
+    <GlobalUtility.rulePack.rulesStrings.38>ConceptAny->[ConceptBadass]</GlobalUtility.rulePack.rulesStrings.38>
+    <GlobalUtility.rulePack.rulesStrings.39>ConceptAny->[ConceptAngsty]</GlobalUtility.rulePack.rulesStrings.39>
+
+
+    <TalkTopicsUtility.rulePack.rulesStrings.0>TalkTopicAny->[TalkTopicLight]</TalkTopicsUtility.rulePack.rulesStrings.0>
+    <TalkTopicsUtility.rulePack.rulesStrings.1>TalkTopicAny->[TalkTopicHeavy]</TalkTopicsUtility.rulePack.rulesStrings.1>
+
+    <TalkTopicsUtility.rulePack.rulesStrings.2>TalkTopicHeavy->[talktopicheavyfile]</TalkTopicsUtility.rulePack.rulesStrings.2>
+    <TalkTopicsUtility.rulePack.rulesStrings.3>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</TalkTopicsUtility.rulePack.rulesStrings.3>
+    <TalkTopicsUtility.rulePack.rulesStrings.4>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</TalkTopicsUtility.rulePack.rulesStrings.4>
+    <TalkTopicsUtility.rulePack.rulesStrings.5>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</TalkTopicsUtility.rulePack.rulesStrings.5>
+
+    <TalkTopicsUtility.rulePack.rulesStrings.6>TalkTopicLight(p=25)->[talktopiclightfile]</TalkTopicsUtility.rulePack.rulesStrings.6>
+    <TalkTopicsUtility.rulePack.rulesStrings.7>TalkTopicLight->[Vegetable]s</TalkTopicsUtility.rulePack.rulesStrings.7>
+    <TalkTopicsUtility.rulePack.rulesStrings.8>TalkTopicLight->eating [Vegetable]s</TalkTopicsUtility.rulePack.rulesStrings.8>
+    <TalkTopicsUtility.rulePack.rulesStrings.9>TalkTopicLight->cooking with [Vegetable]s</TalkTopicsUtility.rulePack.rulesStrings.9>
+    <TalkTopicsUtility.rulePack.rulesStrings.10>TalkTopicLight->[Game]</TalkTopicsUtility.rulePack.rulesStrings.10>
+    <TalkTopicsUtility.rulePack.rulesStrings.11>TalkTopicLight->playing [Game]</TalkTopicsUtility.rulePack.rulesStrings.11>
+    <TalkTopicsUtility.rulePack.rulesStrings.12>TalkTopicLight->practicing [Game]</TalkTopicsUtility.rulePack.rulesStrings.12>
+    <TalkTopicsUtility.rulePack.rulesStrings.13>TalkTopicLight->learning [Game]</TalkTopicsUtility.rulePack.rulesStrings.13>
+    <TalkTopicsUtility.rulePack.rulesStrings.14>TalkTopicLight->[Animal]s</TalkTopicsUtility.rulePack.rulesStrings.14>
+    <TalkTopicsUtility.rulePack.rulesStrings.15>TalkTopicLight->training [Animal]s</TalkTopicsUtility.rulePack.rulesStrings.15>
+    <TalkTopicsUtility.rulePack.rulesStrings.16>TalkTopicLight->taming [Animal]s</TalkTopicsUtility.rulePack.rulesStrings.16>
+    <TalkTopicsUtility.rulePack.rulesStrings.17>TalkTopicLight->fighting [Animal]s</TalkTopicsUtility.rulePack.rulesStrings.17>
+    <TalkTopicsUtility.rulePack.rulesStrings.18>TalkTopicLight->crazy [Animal]s</TalkTopicsUtility.rulePack.rulesStrings.18>
+    <TalkTopicsUtility.rulePack.rulesStrings.19>TalkTopicLight->[Weapon]s</TalkTopicsUtility.rulePack.rulesStrings.19>
+    <TalkTopicsUtility.rulePack.rulesStrings.20>TalkTopicLight->using [Weapon]s</TalkTopicsUtility.rulePack.rulesStrings.20>
+    <TalkTopicsUtility.rulePack.rulesStrings.21>TalkTopicLight->practicing with [Weapon]s</TalkTopicsUtility.rulePack.rulesStrings.21>
+    <TalkTopicsUtility.rulePack.rulesStrings.22>TalkTopicLight->[TerrainFeature]s</TalkTopicsUtility.rulePack.rulesStrings.22>
+    <TalkTopicsUtility.rulePack.rulesStrings.23>TalkTopicLight->[NaturalObject]s</TalkTopicsUtility.rulePack.rulesStrings.23>
+    <TalkTopicsUtility.rulePack.rulesStrings.24>TalkTopicLight->[TreeType] trees</TalkTopicsUtility.rulePack.rulesStrings.24>
+    <TalkTopicsUtility.rulePack.rulesStrings.25>TalkTopicLight->[PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.25>
+    <TalkTopicsUtility.rulePack.rulesStrings.26>TalkTopicLight->friendly [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.26>
+    <TalkTopicsUtility.rulePack.rulesStrings.27>TalkTopicLight->hostile [PersonJob]s</TalkTopicsUtility.rulePack.rulesStrings.27>
+    <TalkTopicsUtility.rulePack.rulesStrings.28>TalkTopicLight->[Enemy]s</TalkTopicsUtility.rulePack.rulesStrings.28>
+    <TalkTopicsUtility.rulePack.rulesStrings.29>TalkTopicLight->fighting [Enemy]s</TalkTopicsUtility.rulePack.rulesStrings.29>
+    <TalkTopicsUtility.rulePack.rulesStrings.30>TalkTopicLight->[Apparel]s</TalkTopicsUtility.rulePack.rulesStrings.30>
+    <TalkTopicsUtility.rulePack.rulesStrings.31>TalkTopicLight->wearing [Apparel]s</TalkTopicsUtility.rulePack.rulesStrings.31>
+    <TalkTopicsUtility.rulePack.rulesStrings.32>TalkTopicLight->making [Apparel]s</TalkTopicsUtility.rulePack.rulesStrings.32>
 
 </LanguageData>

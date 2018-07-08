@@ -5,9 +5,9 @@
 <ProgressToNextLevel>次のレベルまで あと</ProgressToNextLevel>
   <Experience>経験値</Experience>
 <Passion>情熱</Passion>
-<PassionNone>なし （経験値 x{0}）</PassionNone>
-<PassionMinor>関心 （経験値 x{0}）</PassionMinor>
-<PassionMajor>熱心 （経験値 x{0}）</PassionMajor>
+  <PassionNone>None\n   -Learns {0}</PassionNone>
+  <PassionMinor>Interested\n   -Learns {0}</PassionMinor>
+  <PassionMajor>Burning\n   -Learns {0}</PassionMajor>
   <LearnedMaxToday>今日は最大限学んだ。({0}/{1},以降の学習速度係数 {2})</LearnedMaxToday>
   <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
   <SkillMax>最大</SkillMax>

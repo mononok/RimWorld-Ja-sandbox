@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <UnskilledLaborSpeed.label>unskilled labor speed</UnskilledLaborSpeed.label>
+    <UnskilledLaborSpeed.description>The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items.</UnskilledLaborSpeed.description>
+
 	<SculptingSpeed.label>彫刻・速度</SculptingSpeed.label>
-	<SculptingSpeed.description>彫刻を彫る速度です。【ノート】スキルは、作成した作品の「品質」に影響を及ぼし、速度には影響を与えません。</SculptingSpeed.description>
+	<SculptingSpeed.description>The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill.</SculptingSpeed.description>
 
     <TailoringSpeed.label>縫製・速度</TailoringSpeed.label>
-    <TailoringSpeed.description>衣服を縫う速度です。【ノート】スキルは、作成した衣料の「品質」に影響を及ぼし、速度には影響を与えません。</TailoringSpeed.description>
+    <TailoringSpeed.description>The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill.</TailoringSpeed.description>
 
 	<SmithingSpeed.label>鍛冶・速度</SmithingSpeed.label>
-	<SmithingSpeed.description>鍛冶や、武器製造、機械、銃弾やツールの作成速度です。【ノート】スキルは、作成したアイテムの「品質」に影響を及ぼし、速度には影響を与えません。</SmithingSpeed.description>
+	<SmithingSpeed.description>Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill.</SmithingSpeed.description>
 
-    <DrugProductionSpeed.label>薬物生成・速度</DrugProductionSpeed.label>
-    <DrugProductionSpeed.description>薬物を調合して生成する速度です。</DrugProductionSpeed.description>
+    <DrugSynthesisSpeed.label>薬物生成・速度</DrugSynthesisSpeed.label>
+    <DrugSynthesisSpeed.description>薬物を調合して生成する速度です。</DrugSynthesisSpeed.description>
 <!--
     <StonecuttingSpeed.label>石材加工・速度</StonecuttingSpeed.label>
     <StonecuttingSpeed.description>ストーンカットする速度です。</StonecuttingSpeed.description>
 -->
 
-    <SmeltingSpeed.label>精錬・速度</SmeltingSpeed.label>
-    <SmeltingSpeed.description>溶解、精錬する速度です。</SmeltingSpeed.description>
-
     <CookSpeed.label>調理・速度</CookSpeed.label>
     <CookSpeed.description>食事を作る速度です。</CookSpeed.description>
 
 	<FoodPoisonChance.label>食中毒・発生率</FoodPoisonChance.label>
-	<FoodPoisonChance.description>このキャラクターが料理したときに、うかつにも料理を汚染してしまう確率です。</FoodPoisonChance.description>
+	<FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes.</FoodPoisonChance.description>
 
-	<BrewingSpeed.label>醸造・速度</BrewingSpeed.label>
-	<BrewingSpeed.description>酒を醸造する速度です。</BrewingSpeed.description>
+	<DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
+	<DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
 
     <ButcheryFleshSpeed.label>食肉加工・速度</ButcheryFleshSpeed.label>
     <ButcheryFleshSpeed.description>食肉加工する速度です。</ButcheryFleshSpeed.description>
 
     <ButcheryFleshEfficiency.label>食肉加工・収率</ButcheryFleshEfficiency.label>
-    <ButcheryFleshEfficiency.description>食肉加工時の、加工後にできる食肉量への倍率です。</ButcheryFleshEfficiency.description>
+    <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
 
     <ButcheryMechanoidSpeed.label>メカノイド・解体速度</ButcheryMechanoidSpeed.label>
     <ButcheryMechanoidSpeed.description>メカノイドを解体する速度です。</ButcheryMechanoidSpeed.description>
 
     <ButcheryMechanoidEfficiency.label>メカノイド・解体収率</ButcheryMechanoidEfficiency.label>
-    <ButcheryMechanoidEfficiency.description>メカノイドを解体する時に、得られる収量への倍率です。</ButcheryMechanoidEfficiency.description>
+    <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
 
-	<MechanoidOperationSuccessChance.label>メカノイド・解体成功率</MechanoidOperationSuccessChance.label>
-	<MechanoidOperationSuccessChance.description>この人物が、メカノイドの解体を成功裏に終わらせる確率です。失敗すると取り出す部品を失ったり、損なったりします。</MechanoidOperationSuccessChance.description>
+    <SmeltingSpeed.label>精錬・速度</SmeltingSpeed.label>
+    <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
 
 </LanguageData>

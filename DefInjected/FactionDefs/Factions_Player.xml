@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <PlayerColony.label>入植者(新着)</PlayerColony.label>
+    <PlayerColony.label>入植者(新参者)</PlayerColony.label>
+    <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
+    <PlayerColony.pawnSingular>入植者</PlayerColony.pawnSingular>
     <PlayerColony.pawnsPlural>入植者達</PlayerColony.pawnsPlural>
-    <PlayerColony.description>あなた達の社会です</PlayerColony.description>
 
-    <PlayerTribe.label>部族民(新着)</PlayerTribe.label>
-    <PlayerTribe.pawnsPlural>部族民</PlayerTribe.pawnsPlural>
-    <PlayerTribe.description>あなたの村です</PlayerTribe.description>
+    <PlayerTribe.label>部族民(新参者)</PlayerTribe.label>
+    <PlayerTribe.pawnSingular>部族民</PlayerTribe.pawnSingular>
+    <PlayerTribe.pawnsPlural>部族民ら</PlayerTribe.pawnsPlural>
+    <PlayerTribe.description>A small tribe.</PlayerTribe.description>
 
 </LanguageData>

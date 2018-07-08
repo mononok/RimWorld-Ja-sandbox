@@ -81,10 +81,6 @@
     <Make_MeleeWeapon_Knife.description>ナイフを作る。</Make_MeleeWeapon_Knife.description>
     <Make_MeleeWeapon_Knife.jobString>ナイフを製作中</Make_MeleeWeapon_Knife.jobString>
 
-    <Make_MeleeWeapon_Shiv.label>即席ナイフを作る</Make_MeleeWeapon_Shiv.label>
-    <Make_MeleeWeapon_Shiv.description>即席ナイフを作る。</Make_MeleeWeapon_Shiv.description>
-    <Make_MeleeWeapon_Shiv.jobString>即席ナイフを製作中</Make_MeleeWeapon_Shiv.jobString>
-
     <Make_MeleeWeapon_Spear.label>スピアを作る</Make_MeleeWeapon_Spear.label>
     <Make_MeleeWeapon_Spear.description>スピアを作る。</Make_MeleeWeapon_Spear.description>
     <Make_MeleeWeapon_Spear.jobString>スピアを製作中</Make_MeleeWeapon_Spear.jobString>
@@ -125,10 +121,6 @@
 	<Make_Apparel_PowerArmorHelmet.label>パワーアーマヘルメットを作る</Make_Apparel_PowerArmorHelmet.label>
 	<Make_Apparel_PowerArmorHelmet.description>パワーアーマヘルメットを作る。</Make_Apparel_PowerArmorHelmet.description>
 	<Make_Apparel_PowerArmorHelmet.jobString>パワーアーマヘルメットを製作中</Make_Apparel_PowerArmorHelmet.jobString>
-
-	<Make_Apparel_VestPlate.label>防弾チョッキを作る</Make_Apparel_VestPlate.label>
-	<Make_Apparel_VestPlate.description>防弾チョッキを作る。</Make_Apparel_VestPlate.description>
-	<Make_Apparel_VestPlate.jobString>防弾チョッキを製作中</Make_Apparel_VestPlate.jobString>
 
 	<Make_Apparel_PowerArmor.label>パワーアーマーを作る</Make_Apparel_PowerArmor.label>
 	<Make_Apparel_PowerArmor.description>パワーアーマーを作る。</Make_Apparel_PowerArmor.description>
@@ -192,9 +184,9 @@
     <Make_Gun_Minigun.description>ガトリング銃を作る。</Make_Gun_Minigun.description>
     <Make_Gun_Minigun.jobString>ガトリング銃を製作中</Make_Gun_Minigun.jobString>
 
-    <Make_Shell_HighExplosive.label>高性能炸薬弾(HE)を作る</Make_Shell_HighExplosive.label>
-    <Make_Shell_HighExplosive.description>高性能炸薬弾(HE)を作る。</Make_Shell_HighExplosive.description>
-    <Make_Shell_HighExplosive.jobString>高性能炸薬弾(HE)を製作中</Make_Shell_HighExplosive.jobString>
+    <Make_Shell_HighExplosive.label>高性能炸薬弾([PAWN_pronoun])を作る</Make_Shell_HighExplosive.label>
+    <Make_Shell_HighExplosive.description>高性能炸薬弾([PAWN_pronoun])を作る。</Make_Shell_HighExplosive.description>
+    <Make_Shell_HighExplosive.jobString>高性能炸薬弾([PAWN_pronoun])を製作中</Make_Shell_HighExplosive.jobString>
 
     <Make_Shell_Incendiary.label>焼夷弾を作る</Make_Shell_Incendiary.label>
     <Make_Shell_Incendiary.description>焼夷弾を作る。</Make_Shell_Incendiary.description>
@@ -224,37 +216,33 @@
 	<Make_WakeUp.description>ウェイクアップを調合する。</Make_WakeUp.description>
 	<Make_WakeUp.jobString>ウェイクアップを調合中</Make_WakeUp.jobString>
 
-    <Make_Medicine.label>医薬品を調合する</Make_Medicine.label>
-    <Make_Medicine.description>医療品を調合する。</Make_Medicine.description>
-    <Make_Medicine.jobString>医療品を調合中</Make_Medicine.jobString>
-
 	<Make_SmokeleafJoint.label>ジョイントを調合する</Make_SmokeleafJoint.label>
 	<Make_SmokeleafJoint.description>ジョイントを調合する。</Make_SmokeleafJoint.description>
 	<Make_SmokeleafJoint.jobString>ジョイントを調合中</Make_SmokeleafJoint.jobString>
 
-    <Make_PsychoidPekoe.label>サイコイドペコーを調合する</Make_PsychoidPekoe.label>
-    <Make_PsychoidPekoe.description>サイコイドペコーを調合する。</Make_PsychoidPekoe.description>
-    <Make_PsychoidPekoe.jobString>サイコイドペコーを調合中</Make_PsychoidPekoe.jobString>
+    <Make_PsychiteTea.label>サイコイドペコーを調合する</Make_PsychiteTea.label>
+    <Make_PsychiteTea.description>サイコイドペコーを調合する。</Make_PsychiteTea.description>
+    <Make_PsychiteTea.jobString>サイコイドペコーを調合中</Make_PsychiteTea.jobString>
 
-    <MakeStoneBlocksSandstone.label>砂岩ブロックを作る</MakeStoneBlocksSandstone.label>
-    <MakeStoneBlocksSandstone.description>砂岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksSandstone.description>
-    <MakeStoneBlocksSandstone.jobString>塊をカット中</MakeStoneBlocksSandstone.jobString>
+    <Make_StoneBlocksSandstone.label>砂岩ブロックを作る</Make_StoneBlocksSandstone.label>
+    <Make_StoneBlocksSandstone.description>砂岩の塊をカットして役に立つブロックにする。</Make_StoneBlocksSandstone.description>
+    <Make_StoneBlocksSandstone.jobString>塊をカット中</Make_StoneBlocksSandstone.jobString>
 
-    <MakeStoneBlocksGranite.label>花崗岩ブロックを作る</MakeStoneBlocksGranite.label>
-    <MakeStoneBlocksGranite.description>花崗岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksGranite.description>
-    <MakeStoneBlocksGranite.jobString>塊をカット中</MakeStoneBlocksGranite.jobString>
+    <Make_StoneBlocksGranite.label>花崗岩ブロックを作る</Make_StoneBlocksGranite.label>
+    <Make_StoneBlocksGranite.description>花崗岩の塊をカットして役に立つブロックにする。</Make_StoneBlocksGranite.description>
+    <Make_StoneBlocksGranite.jobString>塊をカット中</Make_StoneBlocksGranite.jobString>
 
-    <MakeStoneBlocksLimestone.label>石灰岩ブロックを作る</MakeStoneBlocksLimestone.label>
-    <MakeStoneBlocksLimestone.description>石灰岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksLimestone.description>
-    <MakeStoneBlocksLimestone.jobString>塊をカット中</MakeStoneBlocksLimestone.jobString>
+    <Make_StoneBlocksLimestone.label>石灰岩ブロックを作る</Make_StoneBlocksLimestone.label>
+    <Make_StoneBlocksLimestone.description>石灰岩の塊をカットして役に立つブロックにする。</Make_StoneBlocksLimestone.description>
+    <Make_StoneBlocksLimestone.jobString>塊をカット中</Make_StoneBlocksLimestone.jobString>
 
-    <MakeStoneBlocksSlate.label>粘板岩ブロックを作る</MakeStoneBlocksSlate.label>
-    <MakeStoneBlocksSlate.description>粘板岩の塊をカットして役に立つブロックにする。</MakeStoneBlocksSlate.description>
-    <MakeStoneBlocksSlate.jobString>塊をカット中</MakeStoneBlocksSlate.jobString>
+    <Make_StoneBlocksSlate.label>粘板岩ブロックを作る</Make_StoneBlocksSlate.label>
+    <Make_StoneBlocksSlate.description>粘板岩の塊をカットして役に立つブロックにする。</Make_StoneBlocksSlate.description>
+    <Make_StoneBlocksSlate.jobString>塊をカット中</Make_StoneBlocksSlate.jobString>
 
-    <MakeStoneBlocksMarble.label>大理石ブロックを作る</MakeStoneBlocksMarble.label>
-    <MakeStoneBlocksMarble.description>大理石の塊をカットして役に立つブロックにする。</MakeStoneBlocksMarble.description>
-    <MakeStoneBlocksMarble.jobString>塊をカット中</MakeStoneBlocksMarble.jobString>
+    <Make_StoneBlocksMarble.label>大理石ブロックを作る</Make_StoneBlocksMarble.label>
+    <Make_StoneBlocksMarble.description>大理石の塊をカットして役に立つブロックにする。</Make_StoneBlocksMarble.description>
+    <Make_StoneBlocksMarble.jobString>塊をカット中</Make_StoneBlocksMarble.jobString>
 
 	<Make_Penoxycyline.label>ペノキシリンを作る</Make_Penoxycyline.label>
 	<Make_Penoxycyline.jobString>ペノキシリンを調合中</Make_Penoxycyline.jobString>

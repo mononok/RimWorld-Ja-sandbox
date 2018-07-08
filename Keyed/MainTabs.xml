@@ -29,12 +29,23 @@
   <!-- Animals tab -->
   <Master>主人</Master>
   <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
+  <BondedTo>Bonded to</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
 
 <!-- Factions tab -->
 <Hostile>敵対</Hostile>
+  <Ally>Ally</Ally>
   <DefeatedLower>敗退</DefeatedLower>
 <HostileTo>{0} と 敵対</HostileTo>
-<CurrentGoodwill>現在の 友好度</CurrentGoodwill>
+  <CurrentGoodwillTip>Current goodwill and relations status with this faction.</CurrentGoodwillTip>
+  <CurrentGoodwillTip_PermanentEnemy>This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_NaturalGoodwill>This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day.</CurrentGoodwillTip_NaturalGoodwill>
+  
 
   <!-- Social tab -->
   <Friend>友人</Friend>
@@ -43,6 +54,7 @@
 
   <!-- History tab - subtabs -->
   <Graph>グラフ</Graph>
+  <Messages>Messages</Messages>
   <Statistics>統計</Statistics>
 
   <!-- History tab - Graphs -->
@@ -51,9 +63,14 @@
 <Last100Days>直近の100日</Last100Days>
 <Last300Days>直近の300日</Last300Days>
 <AllDays>すべて</AllDays>
-<Day>日</Day>
 <Value>値</Value>
 <External>External</External>
+
+  <!-- History tab - Messages -->
+  <ShowLetters>Show letters</ShowLetters>
+  <ShowMessages>Show messages</ShowMessages>
+  <PinArchivableTip>Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages.</PinArchivableTip>
+  <NoMessages>no messages</NoMessages>
 
   <!-- History tab - Statistics -->
 <Playtime>プレイ時間</Playtime>
@@ -61,6 +78,7 @@
   <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
   <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthTameAnimals>Colony wealth (animals) (this map)</ThisMapColonyWealthTameAnimals>
 <NumThreatBigs>大きな脅威</NumThreatBigs>
 <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
   <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>

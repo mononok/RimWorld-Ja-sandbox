@@ -2,35 +2,51 @@
 <LanguageData>
 
     <!-- Sentence_SocialFightStarted -->
-    <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef]を怒りに駆り立て、[recipient_pronoun]はケンカを始めた!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+    <Sentence_SocialFightStarted.rulePack.rulesStrings>
+        <li>sent->[recipient_nameShortDef]を怒りに駆り立て、[recipient_pronoun]はケンカを始めた!</li>
+    </Sentence_SocialFightStarted.rulePack.rulesStrings>
 
     <!-- Sentence_RomanceAttemptAccepted -->
-    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
-    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.1>
-    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.2>
+    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+	    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+	    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+	    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+    </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
 
     <!-- Sentence_RomanceAttemptRejected -->
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] rejected the advance.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] ignored the advance.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.1>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.2>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] turned away.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.3>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] gave a minimal response.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.4>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] did not respond.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.5>
-    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.6>
+    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+	    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+	    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+	    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+	    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+	    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+	    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+	    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+    </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
 
     <!-- Sentence_MarriageProposalAccepted -->
-    <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef]は、プロポーズを受け入れて、二人は結ばれた。</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
+    <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+        <li>sent->[recipient_nameShortDef]は、プロポーズを受け入れて、二人は結ばれた。</li>
+    </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
 
     <!-- Sentence_MarriageProposalRejected -->
-    <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef]は、プロポーズを断った。</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
+    <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+        <li>sent->[recipient_nameShortDef]は、プロポーズを断った。</li>
+    </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
 
     <!-- Sentence_MarriageProposalRejectedBrokeUp -->
-    <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->二人の関係は、あまりにも長い間続いてきたが、いま、二人に別れが訪れた。</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
+    <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+        <li>sent->二人の関係は、あまりにも長い間続いてきたが、いま、二人に別れが訪れた。</li>
+    </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
 
     <!-- Sentence_RecruitAttemptAccepted -->
-    <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef]は、[initiator_nameShortDef]の社会に加わることを受け入れた。</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+    <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+        <li>sent->[recipient_nameShortDef]は、[initiator_nameShortDef]の社会に加わることを受け入れた。</li>
+    </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
 
     <!-- Sentence_RecruitAttemptRejected -->
-    <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef]は、申し出を断った。</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+    <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+        <li>sent->[recipient_nameShortDef]は、申し出を断った。</li>
+    </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
 
 </LanguageData>

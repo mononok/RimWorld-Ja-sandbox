@@ -7,8 +7,8 @@
 	<Frame_CraftingSpot.label>作業場(施工)</Frame_CraftingSpot.label>
     <Frame_CraftingSpot.description>ナイフや弓をつくる場所です。</Frame_CraftingSpot.description>
 
-    <ButcherSpot.label>butcher spot</ButcherSpot.label>
-    <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
+    <ButcherSpot.label>屠殺場</ButcherSpot.label>
+    <ButcherSpot.description>動物を屠殺する場所です。設備が欠けているため、ここで屠殺しても、肉や皮は70%しか取れません。</ButcherSpot.description>
 
   <!-- ========================= Work tables ==========================-->
 
@@ -73,7 +73,7 @@
 	<Frame_TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</Frame_TableStonecutter.description>
 
 	<Brewery.label>醸造器</Brewery.label>
-	<Brewery.description>A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer.</Brewery.description>
+	<Brewery.description>ビールを作る為の必要な全ての設備を備えた作業台は、混合麦汁を必要とします。麦汁は最終的にビールへの醸造されることになります。</Brewery.description>
 	<Blueprint_Brewery.label>醸造器(設計)</Blueprint_Brewery.label>
 	<Frame_Brewery.label>醸造器(施工)</Frame_Brewery.label>
 	<Frame_Brewery.description>ビールを醸造するための器具です。</Frame_Brewery.description>
@@ -107,7 +107,7 @@
 	<!-- ========== Non-standard work buildings ==============-->
 
 	<SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
-	<SimpleResearchBench.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench.description>
+	<SimpleResearchBench.description>物書きをするシンプルな卓と、単純な計測デバイスです。研究者はここで新しい発見をします。</SimpleResearchBench.description>
 	<Blueprint_SimpleResearchBench.label>研究設備(設計)</Blueprint_SimpleResearchBench.label>
 	<Frame_SimpleResearchBench.label>研究設備(施工)</Frame_SimpleResearchBench.label>
 	<Frame_SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</Frame_SimpleResearchBench.description>

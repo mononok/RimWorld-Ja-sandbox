@@ -28,16 +28,16 @@
     <CaravanPrisoners>囚人</CaravanPrisoners>
     <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
     <NoneCapable>能力なし</NoneCapable>
-  <GainingJoyBecauseCaravanNotMoving>Caravan not moving</GainingJoyBecauseCaravanNotMoving>
+    <GainingJoyBecauseCaravanNotMoving>キャラバン隊は動けません。</GainingJoyBecauseCaravanNotMoving>
 
     <!-- Caravan gear -->
     <DragToRearrange>再調整するにはドラッグ</DragToRearrange>
 
-  <!-- Caravan items -->
-  <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
+    <!-- Caravan items -->
+    <AssignDrugPolicies>ドラッグ適用方針を割り当てる。</AssignDrugPolicies>
   
-  <!-- Caravan health -->
-  <BeCarriedIfSickTip>Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down.</BeCarriedIfSickTip>
+    <!-- Caravan health -->
+    <BeCarriedIfSickTip>この人・動物は病気の時には、他のキャラバン隊員によって担がれていく必要があります。\n\n担がれている間は、キャラバン隊が移動中でも休息することができますが、隊の移動速度はゆっくりになります。</BeCarriedIfSickTip>
   
     <!-- Planet -->
     <PlanetSeed>シード値</PlanetSeed>

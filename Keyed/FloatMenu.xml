@@ -18,66 +18,66 @@
   <IsIncapableOfViolenceLower>{0}は 暴力行為ができない</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order characters you do not control</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
 
-<OrderManThing>{0}に配置</OrderManThing>
+    <OrderManThing>{0}に配置</OrderManThing>
 
-<MeleeAttack>{0}に近接攻撃</MeleeAttack>
-<MeleeAttackToDeath>{0}を 近接攻撃で殺害する</MeleeAttackToDeath>
-<NoPath>道順が無い</NoPath>
+    <MeleeAttack>{0}に近接攻撃</MeleeAttack>
+    <MeleeAttackToDeath>{0}を 近接攻撃で殺害する</MeleeAttackToDeath>
+    <NoPath>道順が無い</NoPath>
 
 	<ForbiddenLower>禁止</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>ホームエリアではない</NotInHomeArea>
-<BurningLower>炎上</BurningLower>
-<NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
-  <NoMergeTarget>no stack available to merge into</NoMergeTarget>
-<AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
-<MissingMaterials>資材がない</MissingMaterials>
-    <UnderRequiredSkill>under required skill {0}</UnderRequiredSkill>
-  <UnderAllowedSkill>under allowed skill {0}</UnderAllowedSkill>
-  <AboveAllowedSkill>above allowed skill {0}</AboveAllowedSkill>
-  <MissingRequiredSkillLevel>missing required skill level</MissingRequiredSkillLevel>
-  <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
-  <NoUsableFood>エサがない</NoUsableFood>
-  <NoFood>エサがない</NoFood>
-    <AnimalsSkillTooLow>animals skill too low - need {0}</AnimalsSkillTooLow>
-  <CantInteractAnimalDowned>animal downed</CantInteractAnimalDowned>
-  <CantInteractAnimalAsleep>animal sleeping</CantInteractAnimalAsleep>
-  <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
-  <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
+    <NotInHomeArea>ホームエリアではない</NotInHomeArea>
+    <BurningLower>炎上</BurningLower>
+    <NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
+<NoMergeTarget>no stack available to merge into</NoMergeTarget>
+    <AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
+    <MissingMaterials>資材がない</MissingMaterials>
+    <UnderRequiredSkill>要求するスキル以下 {0}</UnderRequiredSkill>
+    <UnderAllowedSkill>認められたスキル以下 {0}</UnderAllowedSkill>
+    <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
+    <MissingRequiredSkillLevel>要求するスキルレベルが無い</MissingRequiredSkillLevel>
+    <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
+    <NoUsableFood>エサがない</NoUsableFood>
+    <NoFood>エサがない</NoFood>
+    <AnimalsSkillTooLow>動物スキルが低すぎる - {0} 必要</AnimalsSkillTooLow>
+    <CantInteractAnimalDowned>動物は意識がない</CantInteractAnimalDowned>
+    <CantInteractAnimalAsleep>動物は寝ている</CantInteractAnimalAsleep>
+    <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
+    <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
 	<NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
 	<NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
-  <NoWort>麦汁が必要</NoWort>
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は、より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-  <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
-  <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
-  <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
-  <CannotReach>到達できない</CannotReach>
-  <NotSurgeryReady>手術の準備ができていない</NotSurgeryReady>
-  <SkillDisabled>skill incapable</SkillDisabled>
-  <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>屋根がない</CantSowCavePlantBecauseUnroofed>
-  <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
+    <NoWort>麦汁が必要</NoWort>
+    <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は、より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+    <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
+    <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
+    <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
+    <CannotReach>到達できない</CannotReach>
+    <NotSurgeryReady>手術の準備ができていない</NotSurgeryReady>
+    <SkillDisabled>スキル能力がない</SkillDisabled>
+    <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
+    <CantSowCavePlantBecauseUnroofed>屋根がない</CantSowCavePlantBecauseUnroofed>
+    <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
 
-  <ConsumeThing>{0}を口にする</ConsumeThing>
+    <ConsumeThing>{0}を口にする</ConsumeThing>
 
-<CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
-<GoHere>ここに移動する</GoHere>
+    <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
+    <GoHere>ここに移動する</GoHere>
 
-<Arrest>{0}を 逮捕する</Arrest>
-  <TryToArrest>{0}の逮捕を試みる</TryToArrest>
-<CannotArrest>逮捕できない</CannotArrest>
+    <Arrest>{0}を 逮捕する</Arrest>
+    <TryToArrest>{0}の逮捕を試みる</TryToArrest>
+    <CannotArrest>逮捕できない</CannotArrest>
 
-<Capture>{0}を 捕らえる</Capture>
-<CannotCapture>捕獲できない</CannotCapture>
+    <Capture>{0}を 捕らえる</Capture>
+    <CannotCapture>捕獲できない</CannotCapture>
 
-<Rescue>{0}を 救助する</Rescue>
-<CannotRescue>救助できない</CannotRescue>
+    <Rescue>{0}を 救助する</Rescue>
+    <CannotRescue>救助できない</CannotRescue>
 
-  <CarryToCryptosleepCasket>{0}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
+    <CarryToCryptosleepCasket>{0}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
+    <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
 <NoPrisonerBed>周囲と壁で遮断され。適温な、囚人用ベッドがない</NoPrisonerBed>
@@ -109,105 +109,105 @@
     <PickUpSome>{0}を拾う...</PickUpSome>
     <PickUpCount>{0} x{{0}}を拾う</PickUpCount>
 
-    <CannotGiveToPackAnimal>{0}を荷役の家畜に与えられない</CannotGiveToPackAnimal>
-    <CannotGiveToPackAnimalAll>{0}を荷役の家畜に与えられない (全て)</CannotGiveToPackAnimalAll>
-    <GiveToPackAnimal>{0}を荷役の家畜に与える</GiveToPackAnimal>
-    <GiveToPackAnimalAll>{0}を荷役の家畜に与える (全て)</GiveToPackAnimalAll>
-    <GiveToPackAnimalSome>{0}を荷役の家畜に与える</GiveToPackAnimalSome>
+    <CannotGiveToPackAnimal>{0}を駄載獣に与えられない</CannotGiveToPackAnimal>
+    <CannotGiveToPackAnimalAll>{0}を駄載獣に与えられない (全て)</CannotGiveToPackAnimalAll>
+    <GiveToPackAnimal>{0}を駄載獣に与える</GiveToPackAnimal>
+    <GiveToPackAnimalAll>{0}を駄載獣に与える (全て)</GiveToPackAnimalAll>
+    <GiveToPackAnimalSome>{0}を駄載獣に与える</GiveToPackAnimalSome>
     <GiveToPackAnimalCount>{0} x{{0}}を取る</GiveToPackAnimalCount>
 
-  <CannotLoadIntoCaravan>Cannot load {0} into caravan</CannotLoadIntoCaravan>
-  <CannotLoadIntoCaravanAll>Cannot load {0} (all) into caravan</CannotLoadIntoCaravanAll>
-  <LoadIntoCaravan>Load {0} into caravan</LoadIntoCaravan>
-  <LoadIntoCaravanAll>Load {0} (all) into caravan</LoadIntoCaravanAll>
-  <LoadIntoCaravanSome>Load {0} into caravan...</LoadIntoCaravanSome>
-  <LoadIntoCaravanCount>Load {0} x{{0}}</LoadIntoCaravanCount>
-  <OverweightLower>overweight</OverweightLower>
+    <CannotLoadIntoCaravan>{0}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
+    <CannotLoadIntoCaravanAll>{0}(all)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+    <LoadIntoCaravan>{0}をキャラバン隊に積載する</LoadIntoCaravan>
+    <LoadIntoCaravanAll>{0}(all)をキャラバン隊に積載する</LoadIntoCaravanAll>
+    <LoadIntoCaravanSome>{0}をキャラバン隊に積載する....</LoadIntoCaravanSome>
+    <LoadIntoCaravanCount>Load {0} x{{0}}</LoadIntoCaravanCount>
+    <OverweightLower>過積載</OverweightLower>
 
     <CannotCarryToExit>{0}を運んで、エリアを離れることができない</CannotCarryToExit>
     <CarryToExit>{0}を運んで、エリアを離れる</CarryToExit>
-  <CarryToExitAndCapture>Capture {0} and leave the area</CarryToExitAndCapture>
+    <CarryToExitAndCapture>{0}を捕獲して此処から離れる</CarryToExitAndCapture>
 
-<Strip>{0}を 剥ぐ</Strip>
-<CannotStrip>{0}を 脱げない</CannotStrip>
+    <Strip>{0}を 剥ぐ</Strip>
+    <CannotStrip>{0}を 脱げない</CannotStrip>
 
-  <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
+    <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
-<Drop>{0}を 手放す</Drop>
+    <Drop>{0}を 手放す</Drop>
 
-  <UseMedicalBed>完治するまで休む</UseMedicalBed>
-  <NotInjured>not injured</NotInjured>
-  <SomeoneElseSleeping>occupied by {0}</SomeoneElseSleeping>
+    <UseMedicalBed>完治するまで休む</UseMedicalBed>
+    <NotInjured>無傷</NotInjured>
+    <SomeoneElseSleeping>{0} が独占している</SomeoneElseSleeping>
 
-  <TradeWith>{0}と トレード</TradeWith>
-  <CannotTrade>トレードできない</CannotTrade>
+    <TradeWith>{0}と トレード</TradeWith>
+    <CannotTrade>トレードできない</CannotTrade>
 
-  <EnterMap>{0}に入る</EnterMap>
-  <VisitSettlement>{0}に訪れる</VisitSettlement>
-  <VisitPeaceTalks>{0}に訪れる</VisitPeaceTalks>
-  <VisitEscapeShip>{0}に訪れる</VisitEscapeShip>
-  <AttackSettlement>{0}を攻撃する</AttackSettlement>
-  <ApproachSite>Approach {0}</ApproachSite>
-  <ApproachingSite>Approaching {0}</ApproachingSite>
-  <OfferGifts>Offer gifts</OfferGifts>
+    <EnterMap>{0}に入る</EnterMap>
+    <VisitSettlement>{0}に訪れる</VisitSettlement>
+    <VisitPeaceTalks>{0}に訪れる</VisitPeaceTalks>
+    <VisitEscapeShip>{0}に訪れる</VisitEscapeShip>
+    <AttackSettlement>{0}を攻撃する</AttackSettlement>
+    <ApproachSite>{0}に接触</ApproachSite>
+    <ApproachingSite>{0}に接触中</ApproachingSite>
+    <OfferGifts>贈り物を提供する</OfferGifts>
 
-<!-- Specific thing interactions -->
+    <!-- Specific thing interactions -->
     <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
     <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
 
-<!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-<CannotGenericWork>{1}を {0}事ができない</CannotGenericWork>
-  <CannotGenericWorkCustom>Cannot {0}</CannotGenericWorkCustom>
+    <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+    <CannotGenericWork>{1}を {0}事ができない</CannotGenericWork>
+    <CannotGenericWorkCustom>{0}事ができない</CannotGenericWorkCustom>
 
-  <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
+    <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
-<!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-<CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
+    <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+    <CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
+    <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeWorkGiverDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkGiverDisabled>
-  <WillNever>will never {0}</WillNever>
+    <CannotPrioritizeWorkGiverDisabled>優先できない ({0}しない)</CannotPrioritizeWorkGiverDisabled>
+    <WillNever>{0}しない</WillNever>
 
-  <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}作業を割り当てていない)</CannotPrioritizeNotAssignedToWorkType>
-  <NotAssigned>not assigned</NotAssigned>
+    <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}作業を割り当てていない)</CannotPrioritizeNotAssignedToWorkType>
+    <NotAssigned>割り当てていない</NotAssigned>
 
-<CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
+    <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 
-<CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
-  <CannotPrioritizeCellForbidden>Cannot prioritize (forbidden)</CannotPrioritizeCellForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Outside allowed area</CannotPrioritizeForbiddenOutsideAllowedArea>
+    <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
+    <CannotPrioritizeCellForbidden>優先できない (禁止事項)</CannotPrioritizeCellForbidden>
+    <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-<!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-<PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
+    <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+    <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
 
-  <DropAtEdge>端に落とす</DropAtEdge>
-  <DropInCenter>真ん中に落とす</DropInCenter>
-  <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
-  <AttackAndDropInCenter>Attack {0}: Drop in center</AttackAndDropInCenter>
+    <DropAtEdge>端に落とす</DropAtEdge>
+    <DropInCenter>真ん中に落とす</DropInCenter>
+    <AttackAndDropAtEdge>{0} 攻撃: 端に落とす</AttackAndDropAtEdge>
+    <AttackAndDropInCenter>{0} 攻撃: 真ん中に落とす</AttackAndDropInCenter>
 
-  <VomitingLower>オェ</VomitingLower>
-  <NotInterruptibleLower>割り込めない</NotInterruptibleLower>
+    <VomitingLower>オェ</VomitingLower>
+    <NotInterruptibleLower>割り込めない</NotInterruptibleLower>
 
-  <AddWaypoint>ここにウェイポイントを追加</AddWaypoint>
-  <RemoveWaypoint>このウェイポイントを削除</RemoveWaypoint>
+    <AddWaypoint>ここにウェイポイントを追加</AddWaypoint>
+    <RemoveWaypoint>このウェイポイントを削除</RemoveWaypoint>
 
-  <RemoveAllDesignations>Cancel all designations</RemoveAllDesignations>
-  <DesignateAll>Designate all</DesignateAll>
-  <CountToDesignate>{0} affected</CountToDesignate>
-  <ForbidAllItems>Forbid all items</ForbidAllItems>
-  <UnforbidAllItems>Unforbid all items</UnforbidAllItems>
-  <RearmAllTraps>Rearm all traps</RearmAllTraps>
+    <RemoveAllDesignations>全ての指示を解除</RemoveAllDesignations>
+    <DesignateAll>全てを指示する</DesignateAll>
+    <CountToDesignate>{0} 影響下にある</CountToDesignate>
+    <ForbidAllItems>全アイテムを接触禁止</ForbidAllItems>
+    <UnforbidAllItems>全アイテムの接触禁止を解除</UnforbidAllItems>
+    <RearmAllTraps>全部の罠を最準備</RearmAllTraps>
 
-  <!-- Transport pods -->
-  <LandInExistingMap>Zoom in and choose a landing spot in {0}</LandInExistingMap>
-  <TransportPodsContentsWillBeLost>The contents will be lost</TransportPodsContentsWillBeLost>
-  <FormCaravanHere>Form caravan here</FormCaravanHere>
-  <GiveToCaravan>Give to {0}</GiveToCaravan>
-  <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
+    <!-- Transport pods -->
+    <LandInExistingMap>ズームインして、{0}の着陸地点を選択する</LandInExistingMap>
+    <TransportPodsContentsWillBeLost>内容物を失うだろう</TransportPodsContentsWillBeLost>
+    <FormCaravanHere>此処でキャラバン隊を編成する</FormCaravanHere>
+    <GiveToCaravan>{0}に与える</GiveToCaravan>
+    <GiveGiftViaTransportPods>贈り物として{0}に与える ({1})</GiveGiftViaTransportPods>
 
-  <!-- Rescue quest -->
-  <FreePrisoner>Free prisoner</FreePrisoner>
-  <OfferHelp>Offer help</OfferHelp>
+    <!-- Rescue quest -->
+    <FreePrisoner>Free prisoner</FreePrisoner>
+    <OfferHelp>Offer help</OfferHelp>
   
 </LanguageData>

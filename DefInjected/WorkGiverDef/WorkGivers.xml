@@ -20,7 +20,7 @@
 
     <!-- ============= Doctor ============= -->
 
-	<DoctorTendEmergency.label>tend to patients with urgent needs</DoctorTendEmergency.label>
+	<DoctorTendEmergency.label>急患の看護をする</DoctorTendEmergency.label>
 	<DoctorTendEmergency.verb>を看護治療</DoctorTendEmergency.verb>
 	<DoctorTendEmergency.gerund>を看護治療する</DoctorTendEmergency.gerund>
 
@@ -107,9 +107,9 @@
     <ChatWithPrisoner.gerund>と雑談する</ChatWithPrisoner.gerund>
 
     <!-- ============= Handling ============= -->
-    <HandlingFeedPatientAnimals.label>feed</HandlingFeedPatientAnimals.label>
-    <HandlingFeedPatientAnimals.verb>feeding</HandlingFeedPatientAnimals.verb>
-    <HandlingFeedPatientAnimals.gerund>feed animals</HandlingFeedPatientAnimals.gerund>
+    <HandlingFeedPatientAnimals.label>餌をやる</HandlingFeedPatientAnimals.label>
+    <HandlingFeedPatientAnimals.verb>に給餌する</HandlingFeedPatientAnimals.verb>
+    <HandlingFeedPatientAnimals.gerund>に給餌する</HandlingFeedPatientAnimals.gerund>
 
 	<Slaughter.label>動物を屠殺</Slaughter.label>
 	<Slaughter.verb>を屠殺</Slaughter.verb>
@@ -205,9 +205,9 @@
 	<ConstructSmoothFloors.verb>を床張替</ConstructSmoothFloors.verb>
 	<ConstructSmoothFloors.gerund>を床張替する</ConstructSmoothFloors.gerund>
 
-    <ConstructSmoothWalls.label>smooth walls</ConstructSmoothWalls.label>
-    <ConstructSmoothWalls.verb>smooth</ConstructSmoothWalls.verb>
-    <ConstructSmoothWalls.gerund>smoothing</ConstructSmoothWalls.gerund>
+    <ConstructSmoothWalls.label>壁を磨く</ConstructSmoothWalls.label>
+    <ConstructSmoothWalls.verb>を磨く</ConstructSmoothWalls.verb>
+    <ConstructSmoothWalls.gerund>を磨く</ConstructSmoothWalls.gerund>
 
     <!-- ============= Growing ============= -->
 
@@ -245,9 +245,9 @@
 	<DoBillsMachiningTable.verb>で機械加工する</DoBillsMachiningTable.verb>
 	<DoBillsMachiningTable.gerund>で機械加工する</DoBillsMachiningTable.gerund>
 
-    <DoBillsFabricationBench.label>fabricate things</DoBillsFabricationBench.label>
-    <DoBillsFabricationBench.verb>fabricating things</DoBillsFabricationBench.verb>
-    <DoBillsFabricationBench.gerund>fabricating things at</DoBillsFabricationBench.gerund>
+    <DoBillsFabricationBench.label>加工製造</DoBillsFabricationBench.label>
+    <DoBillsFabricationBench.verb>で加工製造する</DoBillsFabricationBench.verb>
+    <DoBillsFabricationBench.gerund>で加工製造する</DoBillsFabricationBench.gerund>
 
     <!-- ============= Tailoring ============= -->
 
@@ -346,13 +346,13 @@
 	<HaulGeneral.verb>を運ぶ</HaulGeneral.verb>
     <HaulGeneral.gerund>を運搬する</HaulGeneral.gerund>
 
-    <DeliverResourcesToFrames.label>deliver resources to frames</DeliverResourcesToFrames.label>
-    <DeliverResourcesToFrames.verb>deliver to</DeliverResourcesToFrames.verb>
-    <DeliverResourcesToFrames.gerund>delivering to</DeliverResourcesToFrames.gerund>
+    <DeliverResourcesToFrames.label>資源を運搬する(frame)</DeliverResourcesToFrames.label>
+    <DeliverResourcesToFrames.verb>に運搬する</DeliverResourcesToFrames.verb>
+    <DeliverResourcesToFrames.gerund>に運搬する</DeliverResourcesToFrames.gerund>
 
-    <DeliverResourcesToBlueprints.label>deliver resources to blueprints</DeliverResourcesToBlueprints.label>
-    <DeliverResourcesToBlueprints.verb>deliver to</DeliverResourcesToBlueprints.verb>
-    <DeliverResourcesToBlueprints.gerund>delivering to</DeliverResourcesToBlueprints.gerund>
+    <DeliverResourcesToBlueprints.label>資源を運搬する(blueprint)</DeliverResourcesToBlueprints.label>
+    <DeliverResourcesToBlueprints.verb>に運搬する</DeliverResourcesToBlueprints.verb>
+    <DeliverResourcesToBlueprints.gerund>に運搬する</DeliverResourcesToBlueprints.gerund>
 
     <HaulMerge.label>merge things</HaulMerge.label>
     <HaulMerge.verb>merge</HaulMerge.verb>

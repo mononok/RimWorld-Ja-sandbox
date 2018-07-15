@@ -8,8 +8,8 @@
 	<Frame_SleepingSpot.label>寝床(施工)</Frame_SleepingSpot.label>
 	<Frame_SleepingSpot.description>人が寝る場所を、地面の上に指示します。寝心地は良くはありません。</Frame_SleepingSpot.description>
 
-	<DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
-	<DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+	<DoubleSleepingSpot.label>二人用寝床</DoubleSleepingSpot.label>
+	<DoubleSleepingSpot.description>二人分の寝る場所を、地面の上に指示します。寝心地は良くはありません。</DoubleSleepingSpot.description>
 
 	<Bed.label>ベッド</Bed.label>
 	<Bed.description>フレームの上に心地よいマットレスとシーツが掛けてある、休息する為のベッドです。</Bed.description>
@@ -26,18 +26,18 @@
 	<Frame_DoubleBed.description>シンプルで、二人で寝るにはちょうど良いダブルベッドです。</Frame_DoubleBed.description>
 
 	<RoyalBed.label>豪華なベッド</RoyalBed.label>
-	<RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、it is a work of art in itself 二人で寝るのにぴったりです。</RoyalBed.description>
+	<RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、それ自体が工芸品です。二人で寝るのにぴったりです。</RoyalBed.description>
 	<Blueprint_Install_RoyalBed.label>豪華なベッド(移動先)</Blueprint_Install_RoyalBed.label>
 	<Blueprint_RoyalBed.label>豪華なベッド(設計)</Blueprint_RoyalBed.label>
 	<Frame_RoyalBed.label>豪華なベッド(施工)</Frame_RoyalBed.label>
-	<Frame_RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、二人で寝るのにぴったりです。</Frame_RoyalBed.description>
+	<Frame_RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです。非常に快適で美しく、それ自体が工芸品です。二人で寝るのにぴったりです。</Frame_RoyalBed.description>
 
 	<HospitalBed.label>病院用ベッド</HospitalBed.label>
-	<HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
+	<HospitalBed.description>病院で使うために特別に設計されたベッドです。患者に合わせて調整可能で、組み込まれた各種機能で飾られています。普通のベッドよりも医療成果が改善されています。</HospitalBed.description>
 	<Blueprint_Install_HospitalBed.label>病院用ベッド(移動先)</Blueprint_Install_HospitalBed.label>
 	<Blueprint_HospitalBed.label>病院用ベッド(設計)</Blueprint_HospitalBed.label>
 	<Frame_HospitalBed.label>病院用ベッド(施工)</Frame_HospitalBed.label>
-	<Frame_HospitalBed.description>怪我人の為に考えられた特製の病院用ベッドです。治療の成功率が良くなります。</Frame_HospitalBed.description>
+	<Frame_HospitalBed.description>病院で使うために特別に設計されたベッドです。患者に合わせて調整可能で、組み込まれた各種機能で飾られています。普通のベッドよりも医療成果が改善されています。</Frame_HospitalBed.description>
 
     <Bedroll.label>寝袋</Bedroll.label>
     <Bedroll.description>地面に置くシンプルな寝袋、大抵は布か革から、しばしば毛皮で作られる。とても軽く、簡単に持ち運びできるよう巻くことができるが、普通のベッドのような快適さはありません。Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
@@ -76,25 +76,25 @@
 
 	<!--======================= Basic domestic furniture ==============================-->
 	<Stool.label>スツール</Stool.label>
-	<Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.0</Stool.description>
+	<Stool.description>座るだけのシンプルな骨格です。とても快適とは言えませんが、何もないよりはマシです。テーブル、作業机などと使います。</Stool.description>
 	<Blueprint_Install_Stool.label>スツール(移動先)</Blueprint_Install_Stool.label>
 	<Blueprint_Stool.label>スツール(設計)</Blueprint_Stool.label>
 	<Frame_Stool.label>スツール(施工)</Frame_Stool.label>
-	<Frame_Stool.description>座るためだけのシンプルな骨格です。</Frame_Stool.description>
+	<Frame_Stool.description>座るだけのシンプルな骨格です。とても快適とは言えませんが、何もないよりはマシです。テーブル、作業机などと使います。</Frame_Stool.description>
 
 	<DiningChair.label>ダイニング チェア</DiningChair.label>
-	<DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
+	<DiningChair.description>快適で見栄えがいいイスです。テーブル、作業机などと使います。</DiningChair.description>
 	<Blueprint_Install_DiningChair.label>ダイニング チェア(移動先)</Blueprint_Install_DiningChair.label>
 	<Blueprint_DiningChair.label>ダイニング チェア(設計)</Blueprint_DiningChair.label>
 	<Frame_DiningChair.label>ダイニング チェア(施工)</Frame_DiningChair.label>
-	<Frame_DiningChair.description>心地よく魅力的な、ダイニングテーブルの為の椅子です。</Frame_DiningChair.description>
+	<Frame_DiningChair.description>快適で見栄えがいいイスです。テーブル、作業机などと使います。</Frame_DiningChair.description>
 
 	<Armchair.label>アームチェア</Armchair.label>
-	<Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
+	<Armchair.description>大きく、柔らかい、快適な座り心地。非常にリラックスできる。テーブル、作業机などと使います。</Armchair.description>
 	<Blueprint_Install_Armchair.label>アームチェア(移動先)</Blueprint_Install_Armchair.label>
 	<Blueprint_Armchair.label>アームチェア(設計)</Blueprint_Armchair.label>
 	<Frame_Armchair.label>アームチェア(施工)</Frame_Armchair.label>
-	<Frame_Armchair.description>大きく、やわらかで、心地よく座れるシートは、多くの安息をもたらすでしょう。</Frame_Armchair.description>
+	<Frame_Armchair.description>大きく、柔らかい、快適な座り心地。非常にリラックスできる。テーブル、作業机などと使います。</Frame_Armchair.description>
 
 	<!--======================= Tables ==============================-->
 	<EndTable.label>エンドテーブル</EndTable.label>

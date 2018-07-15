@@ -2,16 +2,16 @@
 <LanguageData>
 
     <Electricity.label>電気工学 基礎</Electricity.label>
-    <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
+    <Electricity.description>100もの異なる作業のための電気工学の知識を身につけます。</Electricity.description>
 
     <Batteries.label>バッテリー</Batteries.label>
     <Batteries.description>電気を貯めるバッテリーを作れるようになります。</Batteries.description>
 
-    <BiofuelRefining.label>biofuel refining</BiofuelRefining.label>
-    <BiofuelRefining.description>Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs.</BiofuelRefining.description>
+    <BiofuelRefining.label>バイオ液化燃料 精油</BiofuelRefining.label>
+    <BiofuelRefining.description>樹木や食材のような有機物からバイオ液化燃料を作れるようになります。</BiofuelRefining.description>
 
-    <Waterproofing.label>waterproof conduit</Waterproofing.label>
-    <Waterproofing.description>Build underwater electrical conduits.</Waterproofing.description>
+    <Waterproofing.label>防水仕様電力線</Waterproofing.label>
+    <Waterproofing.description>水中に敷設できる電力線を作れるようになります。</Waterproofing.description>
 
     <NutrientPaste.label>ペーストディスペンサー</NutrientPaste.label>
     <NutrientPaste.description>生の栄養のある食材から 効率よく食品を産み出す、ペーストディスペンサーを作れるようになります。, while requiring no labor at all.</NutrientPaste.description>
@@ -20,7 +20,7 @@
 	<SolarPanels.description>太陽光発電装置を作れるようになります。</SolarPanels.description>
 
 	<AirConditioning.label>クーラー</AirConditioning.label>
-	<AirConditioning.description>Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods.</AirConditioning.description>
+	<AirConditioning.description>暑い日でも人々が快適でいられたり、傷みやすい物を保存しておく冷凍庫となるクーラーを作れるようになります。</AirConditioning.description>
 
 	<Autodoors.label>自動ドア</Autodoors.label>
 	<Autodoors.description>出入りに手間取らない、自動ドアを作れるようになります。</Autodoors.description>
@@ -56,17 +56,17 @@
     <SmokepopBelt.label>スモークポップベルト</SmokepopBelt.label>
     <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた、スモークポップベルトの作成方法を学びます。</SmokepopBelt.description>
 
-	<Prosthetics.label>prosthetics</Prosthetics.label>
-	<Prosthetics.description>Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach.</Prosthetics.description>
+	<Prosthetics.label>人工装具</Prosthetics.label>
+	<Prosthetics.description>失われた身体機能を、安価な人工器官で置き換えられるようになります。医者のスキルが要求されます。</Prosthetics.description>
 
     <Gunsmithing.label>ガンスミス</Gunsmithing.label>
     <Gunsmithing.description>リボルバー、ライフル、火炎筒投射機のようなシンプルな銃が作れます。</Gunsmithing.description>
 
     <BlowbackOperation.label>ブローバック作動式</BlowbackOperation.label>
-    <BlowbackOperation.description>Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs.</BlowbackOperation.description>
+    <BlowbackOperation.description>オートピストル、マシンピストル、SMGのような低火力のブローバック銃を作れるようになります。</BlowbackOperation.description>
 
     <GasOperation.label>ガス作動式</GasOperation.label>
-    <GasOperation.description>Craft high-power guns like chain shotguns and LMGs.</GasOperation.description>
+    <GasOperation.description>チェインショットガン、LMGのような高火力の銃を作れるようになります。</GasOperation.description>
 
 	<GunTurrets.label>タレット</GunTurrets.label>
 	<GunTurrets.description>全自動のタレットを作ることが可能になります。</GunTurrets.description>
@@ -74,13 +74,13 @@
     <PrecisionRifling.label>精密なライフリング</PrecisionRifling.label>
     <PrecisionRifling.description>軍用ライフル、スナイパーライフルが作れます。</PrecisionRifling.description>
 
-	<HeavyTurrets.label>autocannon turret</HeavyTurrets.label>
-	<HeavyTurrets.description>Produce the heavy, long-ranged autocannon turret.</HeavyTurrets.description>
+	<HeavyTurrets.label>オートキャノンタレット</HeavyTurrets.label>
+	<HeavyTurrets.description>長射程、重火器のオートキャノンタレットを作れるようになります。</HeavyTurrets.description>
 
 	<MultibarrelWeapons.label>ガトリング砲</MultibarrelWeapons.label>
 	<MultibarrelWeapons.description>ガトリング砲を作成できるようになります。</MultibarrelWeapons.description>
 
-    <SniperTurret.label>sniper turret</SniperTurret.label>
-    <SniperTurret.description>Produce the extremely long-ranged sniper turret.</SniperTurret.description>
+    <SniperTurret.label>スナイパータレット</SniperTurret.label>
+    <SniperTurret.description>極めて長射程のスナイパータレットを作れるようになります。</SniperTurret.description>
 
 </LanguageData>

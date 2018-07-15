@@ -6,12 +6,12 @@
     <MedicalTendSpeed.description>怪我や病気を看護するときの速度です。</MedicalTendSpeed.description>
 
 	<MedicalTendQuality.label>看護・品質</MedicalTendQuality.label>
-	<MedicalTendQuality.description>The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on.</MedicalTendQuality.description>
+	<MedicalTendQuality.description>怪我や病気の看護をするときの基本的な品質です。実際の看護品質は、医薬品の使用、設備、部屋の清潔度、運などの影響も受けます。</MedicalTendQuality.description>
 
     <MedicalOperationSpeed.label>医療・処置速度</MedicalOperationSpeed.label>
     <MedicalOperationSpeed.description>治療処置を行う速度です。</MedicalOperationSpeed.description>
 
 	<MedicalSurgerySuccessChance.label>外科手術の成功率</MedicalSurgerySuccessChance.label>
-	<MedicalSurgerySuccessChance.description>The chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, and the difficulty of the surgery.</MedicalSurgerySuccessChance.description>
+	<MedicalSurgerySuccessChance.description>この人が外科手術を行った時の成功率です。実際の成功率は、医薬品の使用、設備、部屋の清潔度、手術の難易度などの影響も受けます。</MedicalSurgerySuccessChance.description>
 
 </LanguageData>

@@ -6,11 +6,11 @@
   <RejectLetter>拒否</RejectLetter>
 
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+  <FirstSummerWarning>夏が来た！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nパーカーを買うか、盗むか、作るかしておかないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
 
-  <LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again.</LetterRelationsChange_Hostile>
-  <LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostile>
-  <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_Hostile>{0}との関係が断絶しました。彼らは今や敵です。\n\n彼らは、あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう、さらにトレードを拒否します。あなたに関係改善の意思があるなら、キャラバン隊や輸送ポッドを使って、彼らに贈り物を申し出ることはできます。\n\nこれは誠意({1})が{2}以下の時に起きます。中立の関係に戻す目的なら、誠意を再び{3}に到達させなければなりません。</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました。もう彼らは、あなたを攻撃しようともせず、中立とみなしています。\n\nこれは誠意({1})が{2}を超えれば発生します。もし誠意が{3}を下回れば、{0}は再び敵対します。もし誠意が{4}を上回れば、彼らはあなたと同盟を組み、あなたの為に戦うでしょう。</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました。いまや彼らは、あなたを同盟ではなく中立とみなしています。\n\nあなたと円満な関係を続けますが、彼らは、貴方が脅威に晒されても援軍を送ってくることはありません。\n\nこれは誠意({1})が{2}を下回れば起きます。もし{3}を下回ると、{0}は敵対するでしょう。もし{4}を上回れば、彼らは再び、あなたと同盟を組むでしょう。</LetterRelationsChange_NeutralFromAlly>
   <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
 
   <goodwill>goodwill</goodwill>
@@ -223,6 +223,6 @@
 
   <!-- Player entered site (generic label) -->
   <LetterLabelPlayerEnteredNewSiteGeneric>Arrived at site</LetterLabelPlayerEnteredNewSiteGeneric>
-  <LetterPredatorHuntingColonist>text_todo</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{0}は {1}を餌として狩りをしている!</LetterPredatorHuntingColonist>
 
 </LanguageData>

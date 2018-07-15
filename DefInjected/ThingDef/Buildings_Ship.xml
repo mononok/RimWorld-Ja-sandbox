@@ -23,17 +23,18 @@
 		<Frame_Ship_ComputerCore.description>いかなる難問もくぐり抜ける事ができる、超人間的な思考を持ったコンピュータコアです。</Frame_Ship_ComputerCore.description>
 
 		<!-- Reactor -->
-		<Ship_Reactor.label>反物質炉</Ship_Reactor.label>
-        <Ship_Reactor.description>Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders.</Ship_Reactor.description>
-		<Blueprint_Ship_Reactor.label>反物質炉(設計)</Blueprint_Ship_Reactor.label>
-		<Frame_Ship_Reactor.label>反物質炉(施工)</Frame_Ship_Reactor.label>
+		<Ship_Reactor.label>反応炉</Ship_Reactor.label>
+        <Ship_Reactor.description>恒星間を旅する宇宙船の動力源。稼働には長い起動時間を必要とし、たいていはレイダー達の興味をそそります。</Ship_Reactor.description>
+		<Blueprint_Ship_Reactor.label>反応炉(設計)</Blueprint_Ship_Reactor.label>
+		<Frame_Ship_Reactor.label>反応炉(施工)</Frame_Ship_Reactor.label>
 		<Frame_Ship_Reactor.description>船を宇宙空間へと送り出す動力です。</Frame_Ship_Reactor.description>
 
 		<!-- Engine -->
-		<Ship_Engine.label>反物質エンジン</Ship_Engine.label>
-        <Ship_Engine.description>A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars.</Ship_Engine.description>
-		<Blueprint_Ship_Engine.label>反物質エンジン(設計)</Blueprint_Ship_Engine.label>
-		<Frame_Ship_Engine.label>反物質エンジン(施工)</Frame_Ship_Engine.label>
+		<Ship_Engine.label>核物質エンジン</Ship_Engine.label>
+        <Ship_Engine.description>
+A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars.</Ship_Engine.description>
+		<Blueprint_Ship_Engine.label>核物質エンジン(設計)</Blueprint_Ship_Engine.label>
+		<Frame_Ship_Engine.label>核物質エンジン(施工)</Frame_Ship_Engine.label>
 		<Frame_Ship_Engine.description>船を惑星軌道や恒星間起動に乗せる能力があるエンジンです。</Frame_Ship_Engine.description>
 
   <!-- Sensor cluster -->

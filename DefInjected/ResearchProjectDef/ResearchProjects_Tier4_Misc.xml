@@ -2,33 +2,33 @@
 <LanguageData>
 
     <MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Build multi-analyzers which increase research speed and allow higher-level research projects. Requires advanced components to construct.</MultiAnalyzer.description>
+    <MultiAnalyzer.description>高いレベルの研究プロジェクトで研究速度を上げるためのマルチアナライザーを作れるようになります。製造には先進コンポーネントが必要です。</MultiAnalyzer.description>
 
     <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
-    <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
+    <GroundPenetratingScanner.description>地表より深部にある掘削可能な資源を探知できる、地殻深部スキャナーを作成できるようになります。</GroundPenetratingScanner.description>
 
 	<DeepDrilling.label>深部ドリルマシン</DeepDrilling.label>
-	<DeepDrilling.description>Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
+	<DeepDrilling.description>地殻深部から資源を抽出するための深部ドリルマシンを作成できるようになります。資源を見つけるための地殻深部スキャナーが必要です。</DeepDrilling.description>
 
 	<VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
-	<VitalsMonitor.description>Build vitals monitors which improve medical outcomes when placed next to hospital beds.</VitalsMonitor.description>
+	<VitalsMonitor.description>病院用ベッドの横に置き、医療効果を改善するバイタルモニターを作成できるようになります。</VitalsMonitor.description>
 
-	<Fabrication.label>fabrication</Fabrication.label>
-	<Fabrication.description>Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction.</Fabrication.description>
+	<Fabrication.label>加工製造</Fabrication.label>
+	<Fabrication.description>コンポーネント組み立てから、パワーアーマーハ建造まで、ハイテク能力がある加工製造台を作成できるようになります。</Fabrication.description>
 	
-	<AdvancedFabrication.label>advanced fabrication</AdvancedFabrication.label>
-	<AdvancedFabrication.description>Fabricate advanced components from standard components and other materials.</AdvancedFabrication.description>
+	<AdvancedFabrication.label>先進加工製造</AdvancedFabrication.label>
+	<AdvancedFabrication.description>並コンポーネントや他の素材から、先進コンポーネントを加工できるようになります。</AdvancedFabrication.description>
 	
 	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
-	<Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
+	<Cryptosleep.description>生体活動を仮死状態にさせる、冬眠カプセルを作成できるようになります。</Cryptosleep.description>
 
 	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
-    <PoweredArmor.description>description>Build the power armor and power armor helmets. Note that these also require advanced components.</PoweredArmor.description>
+    <PoweredArmor.description>パワーアーマー、パワーヘルメットを作れるようになります。【ノート】先進コンポーネントが必要です。</PoweredArmor.description>
 
     <ChargedShot.label>チャージライフル</ChargedShot.label>
-    <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
+    <ChargedShot.description>追加ダメージを与えるパルスチャージされた弾丸を発射する武器を作成できるようになります。【ノート】これも先進コンポーネントが必要です。</ChargedShot.description>
 
-	<Bionics.label>bionics</Bionics.label>
-	<Bionics.description>Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach.</Bionics.description>
+	<Bionics.label>バイオニクス</Bionics.label>
+	<Bionics.description>失われた手足や眼の代わりとなるハイテク人造器官を作れるようになります。医者のスキルを必要とします。</Bionics.description>
 
 </LanguageData>

@@ -1,161 +1,161 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Forbid -->
-  <CommandForbid>禁止</CommandForbid>
-	<CommandForbiddenDesc>禁止 - 入植者は これを無視します。</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>許可 - 入植者は これと かかわれます。</CommandNotForbiddenDesc>
+    <!-- Forbid -->
+    <CommandForbid>禁止</CommandForbid>
+	<CommandForbiddenDesc>禁止 - 入植者は これと関われません。</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>許可 - 入植者は これと関われます。</CommandNotForbiddenDesc>
 
-  <!-- Power -->
-  <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
+    <!-- Power -->
+    <CommandTogglePowerLabel>電源 スイッチ</CommandTogglePowerLabel>
+    <CommandTogglePowerDesc>電源 スイッチ</CommandTogglePowerDesc>
 
-  <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入り切りします。</CommandDesignateTogglePowerDesc>
+    <CommandDesignateTogglePowerLabel>操作</CommandDesignateTogglePowerLabel>
+    <CommandDesignateTogglePowerDesc>スイッチを制御させて電源を入り切りします。</CommandDesignateTogglePowerDesc>
 
-  <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます。これは、送電されていない電力線に繋がっている場合に 近くにある活きた電力線に切り替えたいときに有効です。</CommandTryReconnectDesc>
+    <CommandTryReconnectLabel>配線替え</CommandTryReconnectLabel>
+    <CommandTryReconnectDesc>範囲内にある別の活きた電力線に切り替えます。これは、送電されていない電力線に繋がっている場合に 近くにある活きた電力線に切り替えたいときに有効です。</CommandTryReconnectDesc>
 
-<CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
-<CommandGatherSpotToggleDescActive>集合 - 入植者が、集まります。</CommandGatherSpotToggleDescActive>
-<CommandGatherSpotToggleDescInactive>通常 - 入植者は、集まりません。</CommandGatherSpotToggleDescInactive>
+    <CommandGatherSpotToggleLabel>集合 ポイント</CommandGatherSpotToggleLabel>
+    <CommandGatherSpotToggleDescActive>集合 - 入植者が、集まります。</CommandGatherSpotToggleDescActive>
+    <CommandGatherSpotToggleDescInactive>通常 - 入植者は、集まりません。</CommandGatherSpotToggleDescInactive>
 
 
-  <!-- Drafting -->
-<CommandDraftLabel>徴兵</CommandDraftLabel>
-<CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
-<CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
-  <IsIncapped>{0}は歩くことができない。</IsIncapped>
+    <!-- Drafting -->
+    <CommandDraftLabel>徴兵</CommandDraftLabel>
+    <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
+    <CommandToggleDraftDesc>入植者を徴兵します。\n\n徴兵中の入植者は、戦闘と与えられた指示のみを実行します。\n\n別の作業や、 食事、 睡眠などを与えたい時は 徴兵終了を選択してください。</CommandToggleDraftDesc>
+    <IsIncapped>{0}は歩くことができない。</IsIncapped>
 
-  <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
-  <CommandFireAtWillDesc>発砲許可を切り替えます。\n\n無効にすると、このキャラは自動的には発砲しなくなります。これは白兵戦には影響しません。</CommandFireAtWillDesc>
+    <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
+    <CommandFireAtWillDesc>発砲許可を切り替えます。\n\n無効にすると、このキャラは自動的には発砲しなくなります。これは白兵戦には影響しません。</CommandFireAtWillDesc>
 
-  <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
+    <CommandClearPrioritizedWork>優先作業をクリア</CommandClearPrioritizedWork>
+    <CommandClearPrioritizedWorkDesc>あなたが指示した優先作業をクリアします。この入植者は、自分で決めている、いつもの作業に戻ろうとします。</CommandClearPrioritizedWorkDesc>
 
-<CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
-<CommandCancelConstructionDesc>指示を 取り消します。</CommandCancelConstructionDesc>
+    <CommandCancelConstructionLabel>キャンセル</CommandCancelConstructionLabel>
+    <CommandCancelConstructionDesc>指示を 取り消します。</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>起きて布団から出ます。</CommandGetOutOfBedDesc>
+    <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
+    <CommandGetOutOfBedDesc>起きて布団から出ます。</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>ベッドの所有者を決めます。</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
-  <BuildingAssign>指定</BuildingAssign>
-    <BuildingReassign>Reassign</BuildingReassign>
-  <BuildingUnassign>解除</BuildingUnassign>
+    <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
+    <CommandBedSetOwnerDesc>ベッドの所有者を決めます。</CommandBedSetOwnerDesc>
+    <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
+    <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります。</CommandGraveAssignColonistDesc>
+    <BuildingAssign>指定</BuildingAssign>
+    <BuildingReassign>再指定</BuildingReassign>
+    <BuildingUnassign>解除</BuildingUnassign>
 	<CommandBedSetForPrisonersLabel>囚人用ベッドに設定</CommandBedSetForPrisonersLabel>
 	<CommandBedSetForPrisonersDesc>ベッドのある部屋も含めて、囚人用に割り当てます。</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが、囚人用ベッドに割り当てる事が出来ます。</CommandBedSetForPrisonersFailOutdoors>
+    <CommandBedSetForPrisonersFailOutdoors>閉ざされた空間にあるベッドだけが、囚人用ベッドに割り当てる事が出来ます。</CommandBedSetForPrisonersFailOutdoors>
 	<CommandBedSetAsMedicalLabel>医療用ベッドに設定</CommandBedSetAsMedicalLabel>
 	<CommandBedSetAsMedicalDesc>医療用ベッドとして割り当てます。</CommandBedSetAsMedicalDesc>
 	<TurningOnPrisonerBedWarning>部屋内の すべての ベッドが 囚人用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n入植者は ベッドの 所有権を 失います。</TurningOnPrisonerBedWarning>
 	<TurningOffPrisonerBedWarning>部屋内の すべての ベッドが 入植者用に なります。 （囚人と 入植者は 同じ部屋で 寝ません）\n\n囚人は ベッドの 所有権を 失います。</TurningOffPrisonerBedWarning>
-<AreYouSure>本当に よろしいですか？</AreYouSure>
+    <AreYouSure>本当に よろしいですか？</AreYouSure>
 
-<CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
-<CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
+    <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
+    <CommandDetonateDesc>起爆 カウントダウンを 開始します。</CommandDetonateDesc>
 
-<CommandRenameZoneDesc>このゾーンの 名前を 変更します。</CommandRenameZoneDesc>
-<CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
+    <CommandRenameZoneDesc>このゾーンの 名前を 変更します。</CommandRenameZoneDesc>
+    <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
 
-<CommandHideZoneDesc>ゾーンの 非表示 / 再表示。</CommandHideZoneDesc>
-<CommandHideZoneLabel>非表示</CommandHideZoneLabel>
-<CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
+    <CommandHideZoneDesc>ゾーンの 非表示 / 再表示。</CommandHideZoneDesc>
+    <CommandHideZoneLabel>非表示</CommandHideZoneLabel>
+    <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
 
-<CommandDeleteZoneDesc>ゾーンを 削除します。</CommandDeleteZoneDesc>
-<CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+    <CommandDeleteZoneDesc>ゾーンを 削除します。</CommandDeleteZoneDesc>
+    <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
 
-  <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定を、別のゾーンにペーストすることが出来るようになります。</CommandCopyZoneSettingsDesc>
+    <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
+    <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします。コピーした設定を、別のゾーンにペーストすることが出来るようになります。</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>既にコピーしてあるゾーン設定を、このゾーンの設定にペーストします。</CommandPasteZoneSettingsDesc>
+    <CommandPasteZoneSettingsLabel>ペースト</CommandPasteZoneSettingsLabel>
+    <CommandPasteZoneSettingsDesc>既にコピーしてあるゾーン設定を、このゾーンの設定にペーストします。</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>種蒔きの許可</CommandAllowSow>
-  <CommandAllowSowDesc>不許可なら、入植者はこのエリアに植物の種を蒔かなくなります。作物の収穫は従来通り行われます。</CommandAllowSowDesc>
+    <CommandAllowSow>種蒔きの許可</CommandAllowSow>
+    <CommandAllowSowDesc>不許可なら、入植者はこのエリアに植物の種を蒔かなくなります。作物の収穫は従来通り行われます。</CommandAllowSowDesc>
 
-<!-- Artillery -->
-<CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
-<CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します。</CommandSetForceAttackTargetDesc>
-<CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
-<CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
-<CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
-  <CommandExtractShell>Extract shell</CommandExtractShell>
-  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
-<MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
-<MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
-  <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません。</MessageTurretWontFireBecauseHoldFire>
+    <!-- Artillery -->
+    <CommandSetForceAttackTarget>集中攻撃の指定</CommandSetForceAttackTarget>
+    <CommandSetForceAttackTargetDesc>タレットが 可能なかぎり 攻撃する 対象を 指定します。</CommandSetForceAttackTargetDesc>
+    <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
+    <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます。</CommandStopForceAttackDesc>
+    <CommandStopAttackFailNotForceAttacking>集中攻撃できません。</CommandStopAttackFailNotForceAttacking>
+    <CommandExtractShell>弾を抜く</CommandExtractShell>
+    <CommandExtractShellDesc>弾頭の種類を変えるために装填されている弾を抜きます。</CommandExtractShellDesc>
+    <MessageTargetBeyondMaximumRange>最大射程より 離れています。</MessageTargetBeyondMaximumRange>
+    <MessageTargetBelowMinimumRange>最小射程より 近すぎます。</MessageTargetBelowMinimumRange>
+    <MessageTurretWontFireBecauseHoldFire>警告: "発砲禁止"になっている為 射撃できません。</MessageTurretWontFireBecauseHoldFire>
 
-<!-- Ship computer core -->
-<CommandShipLaunch>宇宙船を発進する</CommandShipLaunch>
-<CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
-<CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
-<CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
-<CommandShipStartup>宇宙船を起動</CommandShipStartup>
-<CommandShipStartupDesc>休止状態の船体コンポーネントを起動します。</CommandShipStartupDesc>
+    <!-- Ship computer core -->
+    <CommandShipLaunch>宇宙船を発進させる</CommandShipLaunch>
+    <CommandShipLaunchDesc>現在の 設定で 発進 シークエンスを はじめます。</CommandShipLaunchDesc>
+    <CommandShipLaunchReport>レポートを表示</CommandShipLaunchReport>
+    <CommandShipLaunchReportDesc>船が 発進できるかどうか、 性能レポートを 表示します。</CommandShipLaunchReportDesc>
+    <CommandShipStartup>宇宙船を起動</CommandShipStartup>
+    <CommandShipStartupDesc>休止状態の船体コンポーネントを起動します。</CommandShipStartupDesc>
 
-<!-- Pod -->
-<CommandPodEject>冬眠カプセルから出す</CommandPodEject>
-<CommandPodEjectDesc>冬眠者を 起こして カプセルから 出します。</CommandPodEjectDesc>
-<CommandPodEjectFailEmpty>中には 誰も いませんでした。</CommandPodEjectFailEmpty>
+    <!-- Pod -->
+    <CommandPodEject>冬眠カプセルから出す</CommandPodEject>
+    <CommandPodEjectDesc>冬眠者を 起こして カプセルから 出します。</CommandPodEjectDesc>
+    <CommandPodEjectFailEmpty>中には 誰も いませんでした。</CommandPodEjectFailEmpty>
 
-  <!-- Door -->
-  <CommandToggleDoorForbid>立入禁止</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません。</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります。</CommandToggleDoorHoldOpenDesc>
+    <!-- Door -->
+    <CommandToggleDoorForbid>立入禁止</CommandToggleDoorForbid>
+    <CommandToggleDoorForbidDesc>ドアの通行を禁止すると、入植者や仲間はドアを通りぬけなくなります。敵や動物には作用しません。</CommandToggleDoorForbidDesc>
+    <CommandToggleDoorHoldOpen>開放</CommandToggleDoorHoldOpen>
+    <CommandToggleDoorHoldOpenDesc>ドアを開放すると、ドアの種別に関係なく、入植者はドアを閉めなくなります。</CommandToggleDoorHoldOpenDesc>
 
-  <!-- Temperature control -->
-  <CommandResetTemp>リセット</CommandResetTemp>
-  <CommandResetTempDesc>設定温度をリセットします。</CommandResetTempDesc>
-  <CommandRaiseTempDesc>設定温度を上げます。</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>設定温度を下げます。</CommandLowerTempDesc>
+    <!-- Temperature control -->
+    <CommandResetTemp>リセット</CommandResetTemp>
+    <CommandResetTempDesc>設定温度をリセットします。</CommandResetTempDesc>
+    <CommandRaiseTempDesc>設定温度を上げます。</CommandRaiseTempDesc>
+    <CommandLowerTempDesc>設定温度を下げます。</CommandLowerTempDesc>
 
-  <!-- Install/reinstall -->
-  <CommandInstall>展示</CommandInstall>
-  <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます。</CommandInstallDesc>
-<CommandReinstall>再展示..</CommandReinstall>
-<CommandReinstallDesc>このアイテムを梱包したのちに、再展示する場所を指定します。</CommandReinstallDesc>
+    <!-- Install/reinstall -->
+    <CommandInstall>展示</CommandInstall>
+    <CommandInstallDesc>このアイテムは移動させる為に梱包されています。このコマンドを使って飾りたい場所に配置させます。</CommandInstallDesc>
+    <CommandReinstall>再展示..</CommandReinstall>
+    <CommandReinstallDesc>このアイテムを梱包したのちに、再展示する場所を指定します。</CommandReinstallDesc>
 
-  <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます。</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>集積地</CommandMakeBeaconStockpileLabel>
+    <!-- Trade beacon -->
+    <CommandMakeBeaconStockpileDesc>貿易用ビーコンの周りに集積地を設定します。ここに蓄積された物資を取引できます。</CommandMakeBeaconStockpileDesc>
+    <CommandMakeBeaconStockpileLabel>集積地</CommandMakeBeaconStockpileLabel>
 
-  <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>太陽灯が照らす範囲に合うように、農業ゾーンを作成し配置します。</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>農業ゾーンを作成し配置する</CommandSunLampMakeGrowingZoneLabel>
+    <!-- Sun lamp -->
+    <CommandSunLampMakeGrowingZoneDesc>太陽灯が照らす範囲に合うように、農業ゾーンを作成し配置します。</CommandSunLampMakeGrowingZoneDesc>
+    <CommandSunLampMakeGrowingZoneLabel>農業ゾーンを作成し配置する</CommandSunLampMakeGrowingZoneLabel>
 
-  <!-- Trap -->
-  <CommandAutoRearm>自動再装填</CommandAutoRearm>
-  <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます。</CommandAutoRearmDesc>
+    <!-- Trap -->
+    <CommandAutoRearm>自動再装填</CommandAutoRearm>
+    <CommandAutoRearmDesc>これが有効なときは、自動的に罠が仕掛けられます。</CommandAutoRearmDesc>
 
-  <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>これがオンになっている間、主人を持っている動物を、離れた獲物に向かわせることができます。これがオフの間は、動物は主人のそばを離れず守ります。</CommandReleaseAnimalsDesc>
+    <!-- Animal control -->
+    <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
+    <CommandReleaseAnimalsDesc>これがオンになっている間、主人を持っている動物を、離れた獲物に向かわせることができます。これがオフの間は、動物は主人のそばを離れず守ります。</CommandReleaseAnimalsDesc>
 
-  <!-- Squad attack -->
-<CommandSquadAttack>攻撃目標</CommandSquadAttack>
-<CommandSquadAttackDesc>選択した入植者達に攻撃目標を指示します。</CommandSquadAttackDesc>
+    <!-- Squad attack -->
+    <CommandSquadAttack>攻撃目標</CommandSquadAttack>
+    <CommandSquadAttackDesc>選択した入植者達に攻撃目標を指示します。</CommandSquadAttackDesc>
 
-  <!-- Melee attack -->
-  <CommandMeleeAttack>近接攻撃</CommandMeleeAttack>
-  <CommandMeleeAttackDesc>選択した入植者に、指示した攻撃目標を、拳や近接武器を使って攻撃するよう命令します。</CommandMeleeAttackDesc>
+    <!-- Melee attack -->
+    <CommandMeleeAttack>近接攻撃</CommandMeleeAttack>
+    <CommandMeleeAttackDesc>選択した入植者に、指示した攻撃目標を、拳や近接武器を使って攻撃するよう命令します。</CommandMeleeAttackDesc>
 
-  <!-- Hold fire -->
-  <CommandHoldFire>発砲禁止</CommandHoldFire>
-  <CommandHoldFireDesc>もう攻撃しなくなります。</CommandHoldFireDesc>
+    <!-- Hold fire -->
+    <CommandHoldFire>発砲禁止</CommandHoldFire>
+    <CommandHoldFireDesc>もう攻撃しなくなります。</CommandHoldFireDesc>
 
-  <!-- Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
+    <!-- Select plant to grow -->
+    <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
+    <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
+    <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
 
-  <!-- Build copy -->
-  <CommandBuildCopy>複製</CommandBuildCopy>
-  <CommandBuildCopyDesc>同じものの複製を建造する。</CommandBuildCopyDesc>
+    <!-- Build copy -->
+    <CommandBuildCopy>複製</CommandBuildCopy>
+    <CommandBuildCopyDesc>同じものの複製を建造する。</CommandBuildCopyDesc>
 
     <!-- Form caravan -->
     <CommandFormCaravan>キャラバン隊を編成</CommandFormCaravan>
@@ -192,13 +192,13 @@
     <CommandCancelFormingCaravan>キャラバン隊編成の中止</CommandCancelFormingCaravan>
     <CommandCancelFormingCaravanDesc>編成作業を中止させる。</CommandCancelFormingCaravanDesc>
 
-  <!-- Remove from caravan -->
-  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
-  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+    <!-- Remove from caravan -->
+    <CommandRemoveFromCaravan>キャラバン隊から外す</CommandRemoveFromCaravan>
+    <CommandRemoveFromCaravanDesc>この人・動物をキャラバン隊から外します。</CommandRemoveFromCaravanDesc>
   
-  <!-- Add to caravan -->
-  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
-  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
+    <!-- Add to caravan -->
+    <CommandAddToCaravan>キャラバン隊に入れる</CommandAddToCaravan>
+    <CommandAddToCaravanDesc>この人・動物をキャラバン隊に入れます。</CommandAddToCaravanDesc>
   
     <!-- Show map -->
     <CommandShowMap>ズームイン</CommandShowMap>
@@ -209,15 +209,15 @@
     <CommandTradeDesc>この派閥と商売する。</CommandTradeDesc>
     <CommandTradeFailNoNegotiator>意識のしっかりした、まともな交渉人が居ません。</CommandTradeFailNoNegotiator>
 
-  <!-- Offer gifts -->
-  <CommandOfferGifts>Offer gifts</CommandOfferGifts>
-  <CommandOfferGiftsDesc>Offer gifts to this faction.</CommandOfferGiftsDesc>
+    <!-- Offer gifts -->
+    <CommandOfferGifts>贈り物を申し出る</CommandOfferGifts>
+    <CommandOfferGiftsDesc>この派閥へ贈り物を申し出る</CommandOfferGiftsDesc>
 
-      <!-- Fulfill request -->
-  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
-  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
-  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
-  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
+    <!-- Fulfill request -->
+    <CommandFulfillTradeOffer>取り引きの申し出を受ける</CommandFulfillTradeOffer>
+    <CommandFulfillTradeOfferDesc>依頼を聞き入れて、謝礼を要求します。</CommandFulfillTradeOfferDesc>
+    <CommandFulfillTradeOfferFailInsufficient>この取り引きを叶えるには、キャラバン隊は{0}を持っていなければなりません。</CommandFulfillTradeOfferFailInsufficient>
+    <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
 
     <!-- Take off -->
     <CommandTakeOff>離陸</CommandTakeOff>
@@ -265,16 +265,16 @@
   <CommandRemoveWaypointLabel>削除</CommandRemoveWaypointLabel>
   <CommandRemoveWaypointDesc>ウェイポイントを削除</CommandRemoveWaypointDesc>
 
-  <!-- Pause caravan -->
-  <CommandPauseCaravan>Rest</CommandPauseCaravan>
-  <CommandToggleCaravanPauseDesc>Stop the caravan for a moment. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}\n  - Sick people can rest in bedrolls</CommandToggleCaravanPauseDesc>
+    <!-- Pause caravan -->
+    <CommandPauseCaravan>休息</CommandPauseCaravan>
+    <CommandToggleCaravanPauseDesc>しばらくキャラバンを止めます。これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます。\n- 食料調達が{0}倍早くなります。\n- 気付かれやすさが {1}倍になります。\n- 病気の隊員はベッドロールで休めます。</CommandToggleCaravanPauseDesc>
   
-  <!-- Show sellable items -->
-  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
-  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+    <!-- Show sellable items -->
+    <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>
+    <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せます。</CommandShowSellableItemsDesc>
 
-  <!-- Attack settlement -->
-  <CommandAttackSettlement>Attack</CommandAttackSettlement>
-  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
+    <!-- Attack settlement -->
+    <CommandAttackSettlement>攻撃</CommandAttackSettlement>
+    <CommandAttackSettlementDesc>この集落を攻撃せよ。</CommandAttackSettlementDesc>
 
 </LanguageData>

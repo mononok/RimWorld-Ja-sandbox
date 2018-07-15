@@ -2,21 +2,21 @@
 <LanguageData>
 
     <RecruitPrisonerChance.label>勧誘成功率</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>The base chance this person will recruit a prisoner on any given attempt. The actual chance is also affected by factors like prisoner mood, prisoner difficulty, and so on.</RecruitPrisonerChance.description>
+    <RecruitPrisonerChance.description>この人が囚人を勧誘する時の基本的な成功率です。実際の成功率は、囚人の心情、難易度、その他の影響も受けます。</RecruitPrisonerChance.description>
 
     <TameAnimalChance.label>手なずけ成功率</TameAnimalChance.label>
-    <TameAnimalChance.description>The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals.</TameAnimalChance.description>
+    <TameAnimalChance.description>この人が生き物を手懐ける時の基本的な成功率です。実際の成功率は、動物の野生度の影響も受けます。手懐けるのに失敗すると、動物からの攻撃を誘発する可能性があり、とくに凶暴な動物は、その傾向が強くなります。</TameAnimalChance.description>
 
     <TrainAnimalChance.label>調教成功率</TrainAnimalChance.label>
-    <TrainAnimalChance.description>The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on.</TrainAnimalChance.description>
+    <TrainAnimalChance.description>この人が生き物を調教する時の基本的な成功率です。実際の成功率は、動物の野生度、トレイナーとの絆、その他の影響も受けます。</TrainAnimalChance.description>
 
     <SocialImpact.label>政治力</SocialImpact.label>
-    <SocialImpact.description>A multiplier on how much other people are affected by this person's social interactions.</SocialImpact.description>
+    <SocialImpact.description>社交性を発揮した時に どれだけの影響を与えるかを表します。</SocialImpact.description>
 
     <DiplomacyPower.label>外交力</DiplomacyPower.label>
-    <DiplomacyPower.description>How effective this person is as a diplomat. This affects the impact on relations when giving gifts to another faction, and determines the outcome of peace talks.</DiplomacyPower.description>
+    <DiplomacyPower.description>この人が、どれだけ交渉人として効果があるかを表します。この人が他の派閥に贈り物をしたときに派閥に影響を及ぼします。 他の派閥との和平交渉にも影響を及ぼします。</DiplomacyPower.description>
 
     <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
-    <TradePriceImprovement.description>When this person acts as a trade negotiator, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
+    <TradePriceImprovement.description>価格について交渉した時に、どれだけ良い条件で売り買いできるかを表します。</TradePriceImprovement.description>
 
 </LanguageData>

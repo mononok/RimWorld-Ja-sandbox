@@ -19,13 +19,13 @@
 
 
 	<!--==================== Install artificial parts =======================-->
-        <InstallPegLeg.label>木製義足 移植</InstallPegLeg.label>
-        <InstallPegLeg.description>木製の義足を装着します。</InstallPegLeg.description>
-        <InstallPegLeg.jobString>木製義足を移植中</InstallPegLeg.jobString>
+        <InstallPegLeg.label>木製義足(杖) 移植</InstallPegLeg.label>
+        <InstallPegLeg.description>木製の義足(杖)を装着します。</InstallPegLeg.description>
+        <InstallPegLeg.jobString>木製義足(杖)を移植中</InstallPegLeg.jobString>
 
-	<InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
-	<InstallWoodenFoot.description>Install a  wooden foot.</InstallWoodenFoot.description>
-	<InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+	<InstallWoodenFoot.label>木製義足(足形) 移植</InstallWoodenFoot.label>
+	<InstallWoodenFoot.description>木製の義足(足形)を装着します。</InstallWoodenFoot.description>
+	<InstallWoodenFoot.jobString>木製義足(足形)を移植中</InstallWoodenFoot.jobString>
 
         <InstallDenture.label>入れ歯 移植</InstallDenture.label>
         <InstallDenture.description>入れ歯を移植します。</InstallDenture.description>
@@ -39,13 +39,13 @@
         <InstallSimpleProstheticArm.description>人造の上肢を移植します。</InstallSimpleProstheticArm.description>
         <InstallSimpleProstheticArm.jobString>人造上肢を移植中</InstallSimpleProstheticArm.jobString>
 
-	<InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
-	<InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
-	<InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+	<InstallSimpleProstheticHeart.label>人工心臓 移植</InstallSimpleProstheticHeart.label>
+	<InstallSimpleProstheticHeart.description>人工心臓を移植します。</InstallSimpleProstheticHeart.description>
+	<InstallSimpleProstheticHeart.jobString>人工心臓を移植中</InstallSimpleProstheticHeart.jobString>
 
-    <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
-    <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
-    <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+    <InstallCochlearImplant.label>人工耳 移植</InstallCochlearImplant.label>
+    <InstallCochlearImplant.description>人工耳を移植します。</InstallCochlearImplant.description>
+    <InstallCochlearImplant.jobString>人工耳を移植中</InstallCochlearImplant.jobString>
 
         <InstallBionicArm.label>強化上肢 移植</InstallBionicArm.label>
         <InstallBionicArm.description>機械化された上肢を移植します。</InstallBionicArm.description>
@@ -55,29 +55,29 @@
         <InstallBionicLeg.description>機械化された下肢を移植します。</InstallBionicLeg.description>
         <InstallBionicLeg.jobString>強化下肢を移植中</InstallBionicLeg.jobString>
 
-	<InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
-	<InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
-	<InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
+	<InstallBionicSpine.label>強化脊椎 移植</InstallBionicSpine.label>
+	<InstallBionicSpine.description>強化脊椎を移植します。</InstallBionicSpine.description>
+	<InstallBionicSpine.jobString>強化脊椎を移植中</InstallBionicSpine.jobString>
 
-	<InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
-	<InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
-	<InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
+	<InstallBionicHeart.label>強化心臓 移植</InstallBionicHeart.label>
+	<InstallBionicHeart.description>強化心臓を移植します。</InstallBionicHeart.description>
+	<InstallBionicHeart.jobString>強化心臓を移植中</InstallBionicHeart.jobString>
 
-	<InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
-	<InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
-	<InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
+	<InstallBionicStomach.label>強化胃 移植</InstallBionicStomach.label>
+	<InstallBionicStomach.description>強化胃を移植します。</InstallBionicStomach.description>
+	<InstallBionicStomach.jobString>強化胃を移植中</InstallBionicStomach.jobString>
 
-	<InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
-	<InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
-	<InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
+	<InstallBionicEar.label>強化耳 移植</InstallBionicEar.label>
+	<InstallBionicEar.description>強化耳を移植します。</InstallBionicEar.description>
+	<InstallBionicEar.jobString>強化耳を移植中</InstallBionicEar.jobString>
 
-	<InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
-	<InstallArchotechArm.description>Install a archtech arm</InstallArchotechArm.description>
-	<InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+	<InstallArchotechArm.label>アルコテック腕 移植</InstallArchotechArm.label>
+	<InstallArchotechArm.description>アルコテック腕を移植します。</InstallArchotechArm.description>
+	<InstallArchotechArm.jobString>アルコテック腕を移植中</InstallArchotechArm.jobString>
 
-	<InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
-	<InstallArchotechLeg.description>Install a archtech leg</InstallArchotechLeg.description>
-	<InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+	<InstallArchotechLeg.label>アルコテック脚 移植</InstallArchotechLeg.label>
+	<InstallArchotechLeg.description>アルコテック脚を移植します。</InstallArchotechLeg.description>
+	<InstallArchotechLeg.jobString>アルコテック脚を移植中</InstallArchotechLeg.jobString>
 
         <InstallPowerClaw.label>機械化かぎ爪 移植</InstallPowerClaw.label>
         <InstallPowerClaw.description>大きな機械化かぎ爪を移植します。</InstallPowerClaw.description>
@@ -87,9 +87,9 @@
         <InstallBionicEye.description>強化された視覚センサを移植します。</InstallBionicEye.description>
         <InstallBionicEye.jobString>強化視覚センサーを移植中</InstallBionicEye.jobString>
 
-	<InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
-	<InstallArchotechEye.description>Install a archtech eye.</InstallArchotechEye.description>
-	<InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+	<InstallArchotechEye.label>アルコテック眼 移植</InstallArchotechEye.label>
+	<InstallArchotechEye.description>アルコテック眼を移植します。</InstallArchotechEye.description>
+	<InstallArchotechEye.jobString>アルコテック眼を移植中</InstallArchotechEye.jobString>
 
 	<InstallJoywire.label>ジョイワイヤー移植する</InstallJoywire.label>
 	<InstallJoywire.description>ジョイワイヤーを移植します。</InstallJoywire.description>

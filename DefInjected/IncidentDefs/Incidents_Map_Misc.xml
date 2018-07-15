@@ -29,11 +29,11 @@
 
     <HerdMigration.label>大群の移動</HerdMigration.label>
     <HerdMigration.letterLabel>動物達の移動: {0}</HerdMigration.letterLabel>
-    <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+    <HerdMigration.letterText>{0}の群れが、このエリアを通り過ぎようとしています。\n\n彼らは挑発されない限り、攻撃してこないでしょう。</HerdMigration.letterText>
 
-	<WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
-	<WildManWandersIn.letterLabel>Wild man wanders in</WildManWandersIn.letterLabel>
-	<WildManWandersIn.letterText>A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective].</WildManWandersIn.letterText>
+	<WildManWandersIn.label>放浪の野蛮人</WildManWandersIn.label>
+	<WildManWandersIn.letterLabel>放浪の野蛮人</WildManWandersIn.letterLabel>
+	<WildManWandersIn.letterText>野生動物と暮らす人間が、このエリアに彷徨ってやって来ました。{0}と呼ばれています。\n\nあなたは[PAWN_objective]手懐けることができます。</WildManWandersIn.letterText>
 
 	<!--========================== Bad ===============================-->
     <PsychicDrone.label>サイコドローン</PsychicDrone.label>

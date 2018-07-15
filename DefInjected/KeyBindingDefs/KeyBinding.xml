@@ -10,10 +10,10 @@
 
 	<!-- Map play -->
 <!--	<ArchitectMode.label>アーキテクトメニューを表示</ArchitectMode.label> -->
-	<Accept.label>accept</Accept.label>
-	<Cancel.label>cancel</Cancel.label>
+	<Accept.label>承諾</Accept.label>
+	<Cancel.label>中止</Cancel.label>
 	<TakeScreenshot.label>スクリーンショットを撮る</TakeScreenshot.label>
-    <ToggleScreenshotMode.label>toggle screenshot mode</ToggleScreenshotMode.label>
+    <ToggleScreenshotMode.label>スクリーンショットモード切替</ToggleScreenshotMode.label>
 	<SelectNextInCell.label>次のセルを選択</SelectNextInCell.label>
     <TogglePause.label>pause/resume game</TogglePause.label>
 	<TimeSpeed_Normal.label>ゲーム速度：普通</TimeSpeed_Normal.label>
@@ -22,8 +22,8 @@
 	<TimeSpeed_Ultrafast.label>ゲーム速度：x4(開発中)</TimeSpeed_Ultrafast.label>
 	<PreviousColonist.label>前の入植者を選択</PreviousColonist.label>
 	<NextColonist.label>次の入植者を選択</NextColonist.label>
-	<ToggleRoomStatsDisplay.label>toggle room stats display</ToggleRoomStatsDisplay.label>
-	<ToggleBeautyDisplay.label>toggle beauty display</ToggleBeautyDisplay.label>
+	<ToggleRoomStatsDisplay.label>部屋ステータス表示切替</ToggleRoomStatsDisplay.label>
+	<ToggleBeautyDisplay.label>美しさ表示切替</ToggleBeautyDisplay.label>
 
 	<!-- Misc (re-used) -->
 	<Misc1.label>その他１</Misc1.label>
@@ -40,7 +40,7 @@
 	<Misc12.label>その他１２</Misc12.label>
 
 	<!-- Selection special -->
-	<Command_TogglePower.label>toggle power</Command_TogglePower.label>
+	<Command_TogglePower.label>電源スイッチ</Command_TogglePower.label>
 	<Command_ItemForbid.label>禁止スイッチ</Command_ItemForbid.label>
 	<Command_ColonistDraft.label>徴兵</Command_ColonistDraft.label>
 

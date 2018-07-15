@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ShipBasics.label>starflight basics</ShipBasics.label>
-	<ShipBasics.description>Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system.</ShipBasics.description>
+	<ShipBasics.label>宇宙船 基礎知識</ShipBasics.label>
+	<ShipBasics.description>宇宙船の構造、サポート部材を作れるようになります。この恒星系を離れるための宇宙船建造の第一歩となります。</ShipBasics.description>
 
 	<ShipCryptosleep.label>冬眠カプセル</ShipCryptosleep.label>
-	<ShipCryptosleep.description>Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars.</ShipCryptosleep.description>
+	<ShipCryptosleep.description>恒星間を年単位で旅するときにつかう、真空状態に露出しても大丈夫なように強化された冬眠カプセルを作れるようになります。</ShipCryptosleep.description>
 
-	<ShipReactor.label>starship reactor</ShipReactor.label>
-	<ShipReactor.description>Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders.</ShipReactor.description>
+	<ShipReactor.label>宇宙船 反応炉</ShipReactor.label>
+	<ShipReactor.description>宇宙船にパワーを供給する長寿命核物質反応炉を作れるようになります。【ノート】反応炉は長い起動時間を必要とするので、レイダー達の興味をそそります。</ShipReactor.description>
 
 	<ShipEngine.label>ジョンソン-タナカ ドライブ</ShipEngine.label>
-	<ShipEngine.description>Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere.</ShipEngine.description>
+	<ShipEngine.description>宇宙船用のジョンソン-タナカドライブを作れるようになります。JTドライブは、量子スケール効果を利用して遠い恒星系への推進力を発し、あなたを他の恒星系に送り出すことができます。もちろん、全ての宇宙船と同様に、何処に行くにしても多くの年月が掛かります。</ShipEngine.description>
 
-	<ShipComputerCore.label>AI persuasion</ShipComputerCore.label>
-	<ShipComputerCore.description>Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight.</ShipComputerCore.description>
+	<ShipComputerCore.label>AIコンピュータコア</ShipComputerCore.label>
+	<ShipComputerCore.description>既存の人工知能(AI)を宇宙船のAI船長として仕えさせるリワードシグナルシステムを作成できるようになります。船員が恒星間旅行で冬眠に入っている間、AIコアは、長期間の恒星間航行中に複雑な決定事項を裁くことが必要とされます。</ShipComputerCore.description>
 
-    <ShipSensorCluster.label>startship sensors</ShipSensorCluster.label>
-    <ShipSensorCluster.description>Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance.</ShipSensorCluster.description>
+    <ShipSensorCluster.label>宇宙船センサー</ShipSensorCluster.label>
+    <ShipSensorCluster.description>宇宙船用の長距離センサーを作れるようになります。このセンサーは、航法、通信、危機回避に絶対不可欠なものです。</ShipSensorCluster.description>
 
 </LanguageData>

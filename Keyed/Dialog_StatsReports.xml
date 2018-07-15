@@ -1,59 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<Tool>Tool</Tool>
-<DamageLower>damage</DamageLower>
-<SecondsPerAttackLower>seconds per attack</SecondsPerAttackLower>
+    <Tool>道具</Tool>
+    <DamageLower>ダメージ</DamageLower>
+    <SecondsPerAttackLower>seconds per attack</SecondsPerAttackLower>
 
-  <StatsReport_BaseValue>基本値</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
-  <StatsReport_Material>材料</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character 品質</StatsReport_CharacterQuality>
-  <StatsReport_Skills>スキル要素</StatsReport_Skills>
-  <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
-  <StatsReport_Health>身体要素 </StatsReport_Health>
-  <HealthFactorPercentImpact>重要度 {0}</HealthFactorPercentImpact>
-  <HealthOffsetScale>効果 {0}</HealthOffsetScale>
-  <HealthFactorMaxImpact>最大 {0}</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>もし {0} 未満なら</HealthFactorAllowedDefect>
-  <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は、 作るのに使用された材料と 作業工数で決まります。</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>ムード {0}による掛け率</StatsReport_MoodMultiplier>
-  <StatsReport_LightMultiplier>明るさ {0}による掛け率</StatsReport_LightMultiplier>
-  <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
-  <StatsReport_Facilities>設備</StatsReport_Facilities>
-  <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>近接ダメージ量</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
-  <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>欠損部位による掛け率</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>装備と所持品の総重量</StatsReport_GearAndInventoryMass>
-  <StatsReport_WornByCorpse>遺服への掛け率</StatsReport_WornByCorpse>
-  <AverageOfAllAttacks>平均値</AverageOfAllAttacks>
-  <StatsReport_ScenarioFactor>シナリオによる掛け率</StatsReport_ScenarioFactor>
-  <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>永久的な障害を負った</StatsReport_PermanentlyDisabled>
-  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <StatsReport_AddedBodyPartsMass>追加身体パーツ</StatsReport_AddedBodyPartsMass>
-<StatsReport_StuffEffectMultiplier>Material effect multiplier</StatsReport_StuffEffectMultiplier>
-<StatsReport_Resting>Resting</StatsReport_Resting>
-<StatsReport_JoyKind>recreation type</StatsReport_JoyKind>
-<StatsReport_WorkToUninstall>work to uninstall</StatsReport_WorkToUninstall>
+    <StatsReport_BaseValue>基本値</StatsReport_BaseValue>
+	<StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
+	<StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
+	<StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
+	<StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
+	<StatsReport_Material>材料</StatsReport_Material>
+    <StatsReport_CharacterQuality>Character 品質</StatsReport_CharacterQuality>
+    <StatsReport_Skills>スキル要素</StatsReport_Skills>
+    <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
+    <StatsReport_Health>身体要素 </StatsReport_Health>
+    <HealthFactorPercentImpact>重要度 {0}</HealthFactorPercentImpact>
+    <HealthOffsetScale>効果 {0}</HealthOffsetScale>
+    <HealthFactorMaxImpact>最大 {0}</HealthFactorMaxImpact>
+    <HealthFactorAllowedDefect>もし {0} 未満なら</HealthFactorAllowedDefect>
+    <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
+    <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
+    <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は、 作るのに使用された材料と 作業工数で決まります。</StatsReport_MarketValueFromStuffsAndWork>
+    <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
+    <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
+    <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
+    <StatsReport_MoodMultiplier>ムード {0}による掛け率</StatsReport_MoodMultiplier>
+    <StatsReport_LightMultiplier>明るさ {0}による掛け率</StatsReport_LightMultiplier>
+    <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
+    <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
+    <StatsReport_Facilities>設備</StatsReport_Facilities>
+    <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
+    <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
+    <StatsReport_MeleeDamage>近接ダメージ量</StatsReport_MeleeDamage>
+    <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
+    <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
+    <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
+    <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
+    <StatsReport_MissingBodyParts>欠損部位による掛け率</StatsReport_MissingBodyParts>
+    <StatsReport_GearAndInventoryMass>装備と所持品の総重量</StatsReport_GearAndInventoryMass>
+    <StatsReport_WornByCorpse>遺服への掛け率</StatsReport_WornByCorpse>
+    <AverageOfAllAttacks>平均値</AverageOfAllAttacks>
+    <StatsReport_ScenarioFactor>シナリオによる掛け率</StatsReport_ScenarioFactor>
+    <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
+    <StatsReport_PermanentlyDisabled>永久的な障害を負った</StatsReport_PermanentlyDisabled>
+    <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+    <StatsReport_AddedBodyPartsMass>追加身体パーツ</StatsReport_AddedBodyPartsMass>
+    <StatsReport_StuffEffectMultiplier>材質から派生する掛け率</StatsReport_StuffEffectMultiplier>
+    <StatsReport_Resting>休息</StatsReport_Resting>
+    <StatsReport_JoyKind>娯楽種別</StatsReport_JoyKind>
+    <StatsReport_WorkToUninstall>アンインストール作業</StatsReport_WorkToUninstall>
 <StatsReport_PlantGrowth>Multiplier for growth {0}</StatsReport_PlantGrowth>
 <StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
-<StatsReport_NotFlesh>Not flesh</StatsReport_NotFlesh>
-<StatsReport_NotFresh>Not fresh</StatsReport_NotFresh>
-<StatsReport_WildMan>Wild man</StatsReport_WildMan>
+    <StatsReport_NotFlesh>非食用</StatsReport_NotFlesh>
+    <StatsReport_NotFresh>陳腐</StatsReport_NotFresh>
+    <StatsReport_WildMan>野生</StatsReport_WildMan>
 
 </LanguageData>

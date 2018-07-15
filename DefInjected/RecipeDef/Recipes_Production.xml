@@ -6,7 +6,7 @@
     <Make_StoneBlocksAny.jobString>石を加工中</Make_StoneBlocksAny.jobString>
 
 	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、くず鉄から使える金属をextractします。</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、くず鉄から使える金属を抽出します。</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
@@ -33,8 +33,8 @@
     <Make_ComponentSpacer.description>先進コンポーネントを作成する。</Make_ComponentSpacer.description>
     <Make_ComponentSpacer.jobString>先進コンポーネントを作成中</Make_ComponentSpacer.jobString>
 
-	<Make_Patchleather.label>make patchleather</Make_Patchleather.label>
-	<Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
-	<Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
+	<Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
+	<Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します。</Make_Patchleather.description>
+	<Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
 
 </LanguageData>

@@ -4,9 +4,9 @@
     <!--========= General ============-->
     <Goto.reportString>移動中</Goto.reportString>
 
-	<Follow.reportString>following TargetA.</Follow.reportString>
+	<Follow.reportString>TargetAに追従中</Follow.reportString>
 
-	<FollowClose.reportString>following TargetA.</FollowClose.reportString>
+	<FollowClose.reportString>TargetAの後をついて行く</FollowClose.reportString>
 
     <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
 
@@ -49,8 +49,8 @@
 
     <Open.reportString>TargetA を開封中</Open.reportString>
     <RearmTrap.reportString>TargetA を再セット中</RearmTrap.reportString>
-    <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
-    <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
+    <RearmTurret.reportString>TargetA を再装填中</RearmTurret.reportString>
+    <RearmTurretAtomic.reportString>TargetA を再装填中</RearmTurretAtomic.reportString>
 
 	<Refuel.reportString>TargetA 給油中</Refuel.reportString>
 	<RefuelAtomic.reportString>TargetA 給油中</RefuelAtomic.reportString>

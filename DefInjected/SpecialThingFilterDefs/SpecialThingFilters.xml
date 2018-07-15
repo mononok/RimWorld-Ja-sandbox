@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<AllowCorpsesColonist.label>入植者の死骸を許可</AllowCorpsesColonist.label>
-	<AllowCorpsesColonist.description>Allow the dead bodies of colonists.</AllowCorpsesColonist.description>
+	<AllowCorpsesColonist.label>入植者の遺体を許可</AllowCorpsesColonist.label>
+	<AllowCorpsesColonist.description>入植者の遺体を許可します。</AllowCorpsesColonist.description>
 
 	<AllowCorpsesStranger.label>不審者の死骸を許可</AllowCorpsesStranger.label>
-	<AllowCorpsesStranger.description>Allow the dead bodies of strangers and enemies.</AllowCorpsesStranger.description>
+	<AllowCorpsesStranger.description>敵や不審者の死骸を許可します。</AllowCorpsesStranger.description>
 
 	<AllowRotten.label>腐乱死体を許可 </AllowRotten.label>
 	<AllowRotten.description>腐りかけの有機体も許可します。</AllowRotten.description>
 
-    <AllowFresh.label>allow fresh</AllowFresh.label>
-    <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
+    <AllowFresh.label>新鮮な有機体を許可</AllowFresh.label>
+    <AllowFresh.description>まだ腐り始めていない有機体を許可します。</AllowFresh.description>
 
     <AllowPlantFood.label>飼料を許可</AllowPlantFood.label>
     <AllowPlantFood.description>干し草のような、食物同然な価値を持つ植物を許可します。</AllowPlantFood.description>
@@ -20,10 +20,10 @@
 
     <AllowNonSmeltableWeapons.label>不溶解な武器を許可</AllowNonSmeltableWeapons.label>
 
-    <AllowNonDeadmansApparel.label>allow clean apparel</AllowNonDeadmansApparel.label>
-    <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
+    <AllowNonDeadmansApparel.label>穢れない衣服を許可</AllowNonDeadmansApparel.label>
+    <AllowNonDeadmansApparel.description>死体が、一度も着用したことの無い衣服を許可する。たいていの人間は死体が着ていた服を見ると不安になり、トレーダーも引き取りません。</AllowNonDeadmansApparel.description>
 
-    <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
-    <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
+    <AllowDeadmansApparel.label>穢れた衣服を許可</AllowDeadmansApparel.label>
+    <AllowDeadmansApparel.description>死体が、一度でも着用したことのある衣服を許可する。たいていの人間は死体が着ていた服を見ると不安になり、トレーダーも引き取りません。</AllowDeadmansApparel.description>
 
 </LanguageData>

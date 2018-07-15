@@ -2,25 +2,25 @@
 <LanguageData>
 
 	<Mood.label>心情</Mood.label>
-	<Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
+	<Mood.description>心情は、どのくらい幸せか、ストレスを受けているかを表しています。もし心情が低すぎると、精神崩壊を起こす恐れがあります。心情の低さによって数日程度部屋に引き籠るか、殺人鬼に変貌するかが決まります。</Mood.description>
 
 	<Food.label>食事</Food.label>
-	<Food.description>その生き物が直近に摂った栄養物の量です。 ゼロになるとだんだんと栄養失調になり、しまいには死にます。</Food.description>
+	<Food.description>食事は、その生き物が直近に摂った栄養物の量です。 ゼロになるとだんだんと栄養失調になり、しまいには死にます。</Food.description>
 
 	<Rest.label>睡眠</Rest.label>
-	<Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+	<Rest.description>睡眠は、その生物が直近に摂った睡眠量です。ゼロになると、その場で眠り込んでしまいます。</Rest.description>
 
 	<Joy.label>娯楽</Joy.label>
-	<Joy.description>Recreation is the need have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+	<Joy.description>娯楽は、楽しさへの欲求です。同じタイプのアクティビティを繰り返していると飽きが来るので、多様性が必要です。</Joy.description>
 
 	<Beauty.label>美しさ</Beauty.label>
-	<Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+	<Beauty.description>美しさは、直近に居た周りの環境から受けた視覚的な感じの良さを表しています。絵画のような美しいものを飾ると美しさは改善し、岩肌やゴミのような醜悪なものを低減させます。</Beauty.description>
 
 	<Comfort.label>快適性</Comfort.label>
-	<Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
+	<Comfort.description>快適性は、気持ちよい家具に座ったり、寝たりすることで値が大きくなります。値は、ベッドに横になっている、仕事中イスに座っている間じゅう得られます。</Comfort.description>
 
-	<Outdoors.label>outdoors</Outdoors.label>
-	<Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in tight underground bases.</Outdoors.description>
+	<Outdoors.label>アウトドア</Outdoors.label>
+	<Outdoors.description>アウトドアは、屋内に閉じこもっていたくない欲求を表します。長い期間屋内に居ることで、特に地下に居ることで悪影響を受けます。空の下にいる時間を増やすことで、とりわけ屋外に居ると改善します。部屋の大きさは関係なく、その時々に外に居たい欲求です。外にいる時間が無いことは、地下拠点に住む者への重大な難問となります。</Outdoors.description>
 
 	<RoomSize.label>間取り</RoomSize.label>
 
@@ -44,6 +44,6 @@
 	<Chemical_Luciferium.description>この人の身体は、ルシフェリウムナノマシンによって強化されています。\n\n一定分量のルシフェリウム無しだと、このナノマシン同士の結合が失われます。もしこれが起きると、常用者は継続的に激しく気が狂い、ついには死を迎えます。\n\nこの中毒症状から逃れる手段はありません。</Chemical_Luciferium.description>
 	<!--  Ambrosia.xml -->
 	<Chemical_Ambrosia.label>アンブロージア</Chemical_Ambrosia.label>
-    <Chemical_Ambrosia.description>Because of an ambrosia addiction, this person needs to regularly consume ambrosia to avoid withdrawal symptoms.</Chemical_Ambrosia.description>
+    <Chemical_Ambrosia.description>アンブロージア中毒が原因で、この人は、禁断症状を避けるために、定期的にアンブロージアを必要としています。</Chemical_Ambrosia.description>
 	
 </LanguageData>

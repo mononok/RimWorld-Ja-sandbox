@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<LetterLabelAnimalInsanitySingle>暴走</LetterLabelAnimalInsanitySingle>
-	<AnimalInsanitySingle>野生の {0} が暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
-	<LetterLabelAnimalInsanityMultiple>暴走群!!</LetterLabelAnimalInsanityMultiple>
+	<LetterLabelAnimalInsanitySingle>{0} 暴走</LetterLabelAnimalInsanitySingle>
+	<AnimalInsanitySingle>その地域の {0} が暴れだしました。 目にはいる 人を 攻撃します。</AnimalInsanitySingle>
+	<LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
 	<AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました。\n\n入植者は 大丈夫です。 しかし... 多くの {0} は 正気を 失い 暴れだした ようです。</AnimalInsanityMultiple>
 
 	<LetterLabelCropBlight>疫病</LetterLabelCropBlight>
@@ -53,13 +53,13 @@
 <WandererJoin>[PAWN_nameDef] という名前の {0} がやってきて  仲間になりました。彼は {1} です。</WandererJoin>
 
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
+  <ManhunterPackArrived>ヒト狩り{0}週団が、この地にやって来ました。やつらは地域をうろうろし、獲物のヒトを狩ります。\n\nやつらは、誰かがドアを通るところを見るまでは、ドアを攻撃することはありません。内側に潜んでいれば安全でしょう。また動作していないタレットを攻撃することもないので、残しておきたければ電源を落としましょう。\n\n{0}は、１?２日も経てば居なくなるでしょう。あなたは物陰に身を潜めて立ち去るのを待つことも、戦いを選ぶこともできます。</ManhunterPackArrived>
 
-<!-- Crashed ship part-->
-<MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました。</MessageAnimalInsanityPulse>
-<LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました。</LetterShipPartDroveColonistInsane>
-<AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
-<PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
+    <!-- Crashed ship part-->
+    <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました。</MessageAnimalInsanityPulse>
+    <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました。</LetterShipPartDroveColonistInsane>
+    <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
+    <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
 <PsychicDroneLevelLow>低い</PsychicDroneLevelLow>
 <PsychicDroneLevelMedium>高い</PsychicDroneLevelMedium>
 <PsychicDroneLevelHigh>危険</PsychicDroneLevelHigh>
@@ -73,7 +73,7 @@
 
 <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
-<LetterIncidentPsychicDrone>頭痛が 爪のように {0}の入植者の頭蓋骨に 食い込みます！\n\n少し離れたところにある 憎悪エンジンが 活発に活動しています。 それが この一帯に 強力な サイコドローンを 照射していますが、{0}だけに 影響をおよぼしているようです。 数日のうちに その人々のムードは ドン底まで 悪化 するでしょう。</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>{0}の入植者は満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています。 それは この一帯に 強力な サイコスードを 照射していますが、{0}だけに 影響をおよぼしているようです。数日のうちに その人々のムードは 天国まで昇天するでしょう。</LetterIncidentPsychicSoothe>
@@ -90,10 +90,10 @@
   <RefugeeChasedRejected>あなたが通信装置を切る間際、{0}の 絶望してパニックを起こした叫び声が、スピーカから聞こえてきた。</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0}は ひとなつっこく寄ってきた</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{0}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
   <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} は人なつっこく寄ってきた. 仮に {1}とした</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0}は人なつっこく寄ってきた。入植者達は {1}と名付けた</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた。仮に{1}とした</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた。入植者達は{1}と名付けた</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0}が加わりました</LetterLabelFarmAnimalsWanderIn>
@@ -120,13 +120,14 @@
     <!-- Journey -->
     <JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars.</JourneyOffer>
     <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
-  <EscapeShipFound>You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</EscapeShipFound>
+    <EscapeShipFound>Charlon Whitestoneが送ってきた座標に到着し、秘匿された宇宙船を発見した。\n\n宇宙船の反応炉は深い休止状態にあるので、まだ飛ぶことはできない。コンピュータコアを使って操作すれば起動させることができる。\n\nCharlon Whitestoneは警告する。再起動シーケンスはおよそ15日程かかり、発生するエネルギー波紋は、かなり遠くからでも探知されてしまうだろう。このエネルギー波紋の一種は、恒星間航行能力があることを示し、命知らずのギャング共や、最悪なメカノイドの群れを惹きつけるだろう。\n\nあなたは、今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想される。まずは最初に守りを確認すべきだ。</EscapeShipFound>
+
     <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
     <EscapeShipLost>Charlon Whitestoneがメッセージを送ってきた。\n彼は、貴方が着陸船での姿勢制御を失っているところを見ている。船が悪人の手に落ちるのを防ぐために、彼は、宇宙船の自爆装置の引き金を引いた結果、船は今やクレーターとなった。\nこの惑星から出る、別の手段を見つける必要があるだろう。</EscapeShipLost>
 
     <!-- Caravan meeting -->
 	<CaravanMeetingTitle>キャラバン隊は、{0}と会いました。</CaravanMeetingTitle>
-    <CaravanMeeting>{0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2}</CaravanMeeting>
+    <CaravanMeeting>{0}は {1}からきたキャラバン隊と平和的に出会いました。もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
    <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
     <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
     <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
@@ -136,19 +137,19 @@
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
   <LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
   <CaravanRequestInfo>要求: {0}、報酬: {1} (残り{2})</CaravanRequestInfo>
-  <NormalQualityOrBetter>normal quality or better</NormalQualityOrBetter>
+  <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
 
-  <!-- Caravan demand -->
-  <CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
-  <CaravanDemand>{0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3}</CaravanDemand>
-  <CaravanDemand_Give>渡して通る</CaravanDemand_Give>
-  <CaravanDemand_Fight>断固拒否、戦う</CaravanDemand_Fight>
+    <!-- Caravan demand -->
+    <CaravanDemandTitle>{0}からの ゆすり、たかり</CaravanDemandTitle>
+    <CaravanDemand>{0}は、{1}から来た{2} {4}グループから待ち伏せされました。次の品を渡さないと攻撃されます:\n\n{3}</CaravanDemand>
+    <CaravanDemand_Give>渡して通る</CaravanDemand_Give>
+    <CaravanDemand_Fight>断固拒否、戦う</CaravanDemand_Fight>
 
-  <!-- Site no longer hostile -->
-  <LetterLabelSiteNoLongerHostile>Quest no longer available</LetterLabelSiteNoLongerHostile>
-  <LetterLabelSiteNoLongerHostileMulti>Quests no longer available</LetterLabelSiteNoLongerHostileMulti>
-  <LetterSiteNoLongerHostile>Because you are no longer hostile with {0}, the {1} site is no longer available.</LetterSiteNoLongerHostile>
-  <LetterSiteNoLongerHostileMulti>Because you are no longer hostile with {0}, the following sites are no longer available</LetterSiteNoLongerHostileMulti>
+    <!-- Site no longer hostile -->
+    <LetterLabelSiteNoLongerHostile>もうクエストは存在しません</LetterLabelSiteNoLongerHostile>
+    <LetterLabelSiteNoLongerHostileMulti>もうクエストは存在しません</LetterLabelSiteNoLongerHostileMulti>
+    <LetterSiteNoLongerHostile>もう{0}とは敵対していないので、{1}は存在しません。</LetterSiteNoLongerHostile>
+    <LetterSiteNoLongerHostileMulti>もう{0}とは敵対していないので、下記の物は存在しません。</LetterSiteNoLongerHostileMulti>
 
 
 </LanguageData>

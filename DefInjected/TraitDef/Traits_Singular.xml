@@ -82,7 +82,7 @@
     </rep>
     <rep>
         <path>NightOwl.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きているとムードにボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</trans>
+        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きていると心情にボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</trans>
     </rep>
 
     <rep>
@@ -109,7 +109,7 @@
     </rep>
     <rep>
         <path>Ascetic.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は 禁欲生活をより好みます。[PAWN_pronoun]の寝室が豪華だったりすると、 [PAWN_pronoun]の ムードにマイナスがつきます。[PAWN_pronoun]は また手の込んだ食事を嫌い、生のまま食べることを好みます。</trans>
+        <trans>[PAWN_nameDef]は 禁欲生活をより好みます。[PAWN_pronoun]の寝室が豪華だったりすると、 [PAWN_pronoun]の 心情にマイナスがつきます。[PAWN_pronoun]は また手の込んだ食事を嫌い、生のまま食べることを好みます。</trans>
     </rep>
 
 	<rep>

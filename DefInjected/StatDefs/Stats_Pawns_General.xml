@@ -6,22 +6,22 @@
     <MoveSpeed.formatString>{0} セル/秒</MoveSpeed.formatString>
 
     <MentalBreakThreshold.label>精神的弱さ</MentalBreakThreshold.label>
-    <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
+    <MentalBreakThreshold.description>誰かの心情が、この値を下回っているなら精神崩壊する危険性があります。精神崩壊時の症状の大きさは、どのくらい閾値よりも下回っているかに依存します。</MentalBreakThreshold.description>
 
     <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
-    <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones.</PsychicSensitivity.description>
+    <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です。より敏感な人は、マイナスの精神影響はより苦しみますし、プラスの精神影響はより恩恵を受けます。</PsychicSensitivity.description>
 
 	<ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>
-	<ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+	<ToxicSensitivity.description>有毒なものの影響を受けやすい倍率を表します。</ToxicSensitivity.description>
 
     <GlobalLearningFactor.label>身につけやすさ</GlobalLearningFactor.label>
-    <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
+    <GlobalLearningFactor.description>全てのスキルにおいての身につけやすさを表します。</GlobalLearningFactor.description>
 
-	<HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
-	<HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
+	<HungerRateMultiplier.label>飢えやすさ</HungerRateMultiplier.label>
+	<HungerRateMultiplier.description>この生物が、どのくらい早く空腹になるかの掛け率です。</HungerRateMultiplier.description>
 
-	<RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
-	<RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
+	<RestRateMultiplier.label>休息しやすさ</RestRateMultiplier.label>
+	<RestRateMultiplier.description>どのくらい寝ている間に速く休息を得られるかの掛け率です。</RestRateMultiplier.description>
 
 	<EatingSpeed.label>食事の早さ</EatingSpeed.label>
 	<EatingSpeed.description>食事の早さに掛ける倍率です。</EatingSpeed.description>
@@ -36,7 +36,7 @@
 	<ImmunityGainSpeed.description>病気に対しての免疫を得るために掛かる時間です。 もしこの時間が遅ければ、この人物は免疫を得る前に病原菌に侵されて死ぬでしょう。</ImmunityGainSpeed.description>
 
 	<CarryingCapacity.label>輸送能力</CarryingCapacity.label>
-	<CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
+	<CarryingCapacity.description>この生物が、手や口、その他の器官を使って運べる物量です。これはワールドマップを縦断するときの運搬能力とは別です。</CarryingCapacity.description>
 
 	<MeatAmount.label>生肉の量</MeatAmount.label>
 	<MeatAmount.description>この生物を屠殺して捌いたときに得られる肉の量です。</MeatAmount.description>
@@ -50,7 +50,7 @@
     <PainShockThreshold.label>痛みへの限界値</PainShockThreshold.label>
     <PainShockThreshold.description>痛みによって倒れてしまう値です。</PainShockThreshold.description>
 
-	<ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
-	<ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
+	<ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>
+	<ForagedNutritionPerDay.description>このキャラクターが、キャラバン隊として旅行中に、一日に自動的に調達する食料の量です。</ForagedNutritionPerDay.description>
 
 </LanguageData>

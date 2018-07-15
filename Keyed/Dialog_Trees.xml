@@ -1,40 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<FactionGreetingHostile>{0} 代表は、 マイク越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
-  <FactionGreetingHostileAppreciative>{0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects.</FactionGreetingHostileAppreciative>
-<FactionGreetingWary>{0} greets {1} warily asks what business you want to handle.</FactionGreetingWary>
-  <FactionGreetingWarm>{0} greets {1} warmly and asks what [PAWN_pronoun] can do to help you.</FactionGreetingWarm>
+    <FactionGreetingHostile>{0} 代表は、 マイク越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
+    <FactionGreetingHostileAppreciative>あなが[PAWN_possessive]集落の一つに贈り物を持参したり、[PAWN_possessive]派閥の囚人を無傷で解放するような、誠意を見せるよう {0} 代表は要求しています。それまでは、[PAWN_pronoun]は話し合いを嫌がり。\n\n侮辱する言葉を述べ、[PAWN_pronoun]は切りました。</FactionGreetingHostileAppreciative>
+    <FactionGreetingWary>{0} 代表は用心しつつも {1}を歓迎し、あなたと取引する用意が有ることを伝えてきました。</FactionGreetingWary>
+    <FactionGreetingWarm>{0} 代表は暖かく {1}を歓迎し、あなたの力になる用意が有ることを伝えてきました。</FactionGreetingWarm>
 
-<Disconnect>切断</Disconnect>
+    <Disconnect>切断</Disconnect>
 
-  <!-- gift offer -->
+    <!-- gift offer -->
     <OfferGift>贈り物</OfferGift>
-<MustBeAlly>must be ally</MustBeAlly>
-<NeedGoodwill>need {0} goodwill</NeedGoodwill>
+    <MustBeAlly>同盟である必要</MustBeAlly>
+    <NeedGoodwill>{0} 誠意が必要</NeedGoodwill>
     <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です。</NeedSilverLaunchable>
     <NotEnoughSilver>シルバーが 足りない。</NotEnoughSilver>
     <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
-  <SilverGiftSent>{0} thanks you.\n\n(Goodwill improved by {1})</SilverGiftSent>
+    <SilverGiftSent>ありがとう {0}\n\n({1}により誠意上昇)</SilverGiftSent>
 
-  <!-- trade caravan request -->
-  <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
-  <ChooseTraderKind>{0}は、あなたが必要としているトレーダーキャラバンの種別を聞いています。</ChooseTraderKind>
-  <TraderSent>{0}は、 あなたにトレーダーキャラバンを送ることに承諾しました。2～3日以内には到着するでしょう。</TraderSent>
-  <WaitTime>待ち時間 {0}</WaitTime>
+    <!-- trade caravan request -->
+    <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}誠意)</RequestTrader>
+    <ChooseTraderKind>{0}は、あなたが必要としているトレーダーキャラバンの種別を聞いています。</ChooseTraderKind>
+    <TraderSent>{0}は、 あなたにトレーダーキャラバンを送ることに承諾しました。2～3日以内には到着するでしょう。</TraderSent>
+    <WaitTime>待ち時間 {0}</WaitTime>
 
-  <!-- AI core request -->
-  <RequestAICoreInformation>Request the location of an {0} (cost: {1} silver)</RequestAICoreInformation>
-  <RequestAICoreInformationResult>{0} sends the requested information and wishes you good luck.</RequestAICoreInformationResult>
-  <NoKnownAICore>no more locations known</NoKnownAICore>
+    <!-- AI core request -->
+    <RequestAICoreInformation>{0}のある位置を要求する(コスト: {1}シルバー)</RequestAICoreInformation>
+    <RequestAICoreInformationResult>{0}は要求された情報を伝え、あなたの成功を祈っています。</RequestAICoreInformationResult>
+    <NoKnownAICore>これ以上の情報は知らない</NoKnownAICore>
 
-  <!-- military aid request -->
-  <RequestMilitaryAid>Request immediate military aid (cost: {0} goodwill)</RequestMilitaryAid>
+    <!-- military aid request -->
+    <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}誠意)</RequestMilitaryAid>
     <MilitaryAidConfirmMutualEnemy>{0}は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
     <CallConfirm>はい、 とにかく 来てください。</CallConfirm>
     <CallCancel>いや、 気に しないでくれ。</CallCancel>
     <MilitaryAidSent>{0} 代表は、 あなたを 助けるために 戦士を 送ると 約束しました。</MilitaryAidSent>
-<CantSendMilitaryAidInTime>{0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods)</CantSendMilitaryAidInTime>
-
+    <CantSendMilitaryAidInTime>{0} 代表は、時間通りに到着できそうにないことを詫びています。\n\n(この派閥のテクノロジーレベルは、ポッド輸送を行うには低すぎます。)</CantSendMilitaryAidInTime>
 
 </LanguageData>

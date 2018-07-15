@@ -22,17 +22,17 @@
 
 	<FirefoamPopper.label>泡消火器</FirefoamPopper.label>
 	<Blueprint_Install_FirefoamPopper.label>泡消火器(移動先)</Blueprint_Install_FirefoamPopper.label>
-	<FirefoamPopper.description>When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually.</FirefoamPopper.description>
+	<FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</FirefoamPopper.description>
 	<FirefoamPopper.comps.1.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.1.useLabel>
 	<Blueprint_FirefoamPopper.label>泡消火器(設計)</Blueprint_FirefoamPopper.label>
 	<Frame_FirefoamPopper.label>泡消火器(施工)</Frame_FirefoamPopper.label>
-	<Frame_FirefoamPopper.description>火災を検知するか、手動で操作したとき、この装置は消火剤をあたり一面にまき散らします。</Frame_FirefoamPopper.description>
+	<Frame_FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</Frame_FirefoamPopper.description>
 
 	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
-	<MoisturePump.description>Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water.</MoisturePump.description>
+	<MoisturePump.description>非常にゆっくりと水分量を正常化し、沼地や浅瀬を乾いた土地に転換します、ソフトサンドをノーマルサンドにします。海には効果がありません。</MoisturePump.description>
 	<Blueprint_MoisturePump.label>土壌改良ポンプ(設計)</Blueprint_MoisturePump.label>
 	<Frame_MoisturePump.label>土壌改良ポンプ(施工)</Frame_MoisturePump.label>
-	<Frame_MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や、浅瀬を乾いた土地に転換します。深い海には対応しません。</Frame_MoisturePump.description>
+	<Frame_MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や浅瀬を乾いた土地に転換します。深い海には対応しません。</Frame_MoisturePump.description>
 
     <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
 	<LongRangeMineralScanner.description>惑星上にある、金やヒスイなどの希少鉱物を自動で探知します。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner.description>
@@ -62,14 +62,14 @@
 
 	<VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
 	<Blueprint_Install_VitalsMonitor.label>バイタル モニター(移動先)</Blueprint_Install_VitalsMonitor.label>
-	<VitalsMonitor.description>Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect.</VitalsMonitor.description>
+	<VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</VitalsMonitor.description>
 	<Blueprint_VitalsMonitor.label>バイタル モニター(設計)</Blueprint_VitalsMonitor.label>
 	<Frame_VitalsMonitor.label>バイタル モニター(施工)</Frame_VitalsMonitor.label>
-	<Frame_VitalsMonitor.description>患者に対しての処置品質が上がります、医療用ベッドのそばに配置する必要があります。一つの医療用ベッドは、一つのバイタルモニターとだけ接続できます。</Frame_VitalsMonitor.description>
+	<Frame_VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</Frame_VitalsMonitor.description>
 
 	<ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
 	<Blueprint_Install_ToolCabinet.label>ツール キャビネット(移動先)</Blueprint_Install_ToolCabinet.label>
-	<ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、二つまでのツールキャビネットとだけ接続できます。</ToolCabinet.description>
+	<ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</ToolCabinet.description>
 	<Blueprint_ToolCabinet.label>ツール キャビネット(設計)</Blueprint_ToolCabinet.label>
 	<Frame_ToolCabinet.label>ツール キャビネット(施工)</Frame_ToolCabinet.label>
 	<Frame_ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</Frame_ToolCabinet.description>
@@ -89,7 +89,7 @@
 
   <!--======================= Cryptosleep caskets ===========================-->
   <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
-  <CryptosleepCasket.description>A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>自家発電式の石棺は、人を何年間も仮死状態のままで保つために設計されました。</CryptosleepCasket.description>
   <Blueprint_CryptosleepCasket.label>冬眠カプセル(設計)</Blueprint_CryptosleepCasket.label>
   <Frame_CryptosleepCasket.label>冬眠カプセル(施工)</Frame_CryptosleepCasket.label>
   <Frame_CryptosleepCasket.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</Frame_CryptosleepCasket.description>
@@ -111,7 +111,7 @@
 	<Frame_PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</Frame_PartySpot.description>
 
     <CaravanPackingSpot.label>キャラバン隊物流拠点</CaravanPackingSpot.label>
-    <CaravanPackingSpot.description>Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process.</CaravanPackingSpot.description>
+    <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します。備蓄庫のそばに置くと荷積み作業がスピードアップします。</CaravanPackingSpot.description>
     <Blueprint_CaravanPackingSpot.label>キャラバン物流拠点(設計)</Blueprint_CaravanPackingSpot.label>
     <Frame_CaravanPackingSpot.label>キャラバン隊物流拠点(施行)</Frame_CaravanPackingSpot.label>
     <Frame_CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します。</Frame_CaravanPackingSpot.description>

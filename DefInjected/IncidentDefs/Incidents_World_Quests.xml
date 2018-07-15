@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <Quest_TradeRequest.label>trade request</Quest_TradeRequest.label>
+    <Quest_TradeRequest.label>貿易要求</Quest_TradeRequest.label>
 
-    <Quest_BanditCamp.label>bandit camp quest</Quest_BanditCamp.label>
-    <Quest_BanditCamp.letterLabel>Bandit camp quest</Quest_BanditCamp.letterLabel>
-    <Quest_BanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}</Quest_BanditCamp.letterText>
+    <Quest_BanditCamp.label>バンディットキャンプ クエスト</Quest_BanditCamp.label>
+    <Quest_BanditCamp.letterLabel>バンディットキャンプ クエスト</Quest_BanditCamp.letterLabel>
+    <Quest_BanditCamp.letterText>{0}、{2}の{1}が、我々に要請メッセージを送ってきました。\n\nどうやら、キャンプ地そばに陣取った襲撃者達が、彼らのキャラバン隊を襲撃し続けているらしく、彼らは、我々に襲撃者の排除を要請しています、これが意味することは、全ての敵とタレットの排除です。\n\nもし成功すれば、彼らとの関係は改善するでしょうし、彼らも報奨を送ってくるでしょう:\n\n{3}</Quest_BanditCamp.letterText>
 
-    <Quest_ItemStash.label>item stash quest</Quest_ItemStash.label>
-    <Quest_ItemStash.letterLabel>Item stash quest</Quest_ItemStash.letterLabel>
-    <Quest_ItemStash.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStash.letterText>
+    <Quest_ItemStash.label>宝探し クエスト</Quest_ItemStash.label>
+    <Quest_ItemStash.letterLabel>宝探し クエスト</Quest_ItemStash.letterLabel>
+    <Quest_ItemStash.letterText>{0}, {2}の{1}が、我々に、メッセージを送ってきました。\n\n彼らは、所得として貴重なアイテムのコレクションが、我々から遠くない所に放置されている事を突き止めました。コレクション内容:\n\n{3}\n\n残念なことに、気の長い話ではなく、我々がしなくとも、{4}日も経てば、他の何者かが、アイテムを回収してしまうでしょう。\n\n貴重な物資は危険と隣り合わせになりがちです、十分に注意を\n\n{5}</Quest_ItemStash.letterText>
 
-    <Quest_ItemStashAICore.label>item stash quest (AI core)</Quest_ItemStashAICore.label>
-    <Quest_ItemStashAICore.letterLabel>Item stash quest</Quest_ItemStashAICore.letterLabel>
-    <Quest_ItemStashAICore.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}.</Quest_ItemStashAICore.letterText>
+    <Quest_ItemStashAICore.label>宝探し クエスト(AIコア)</Quest_ItemStashAICore.label>
+    <Quest_ItemStashAICore.letterLabel>宝探し クエスト</Quest_ItemStashAICore.letterLabel>
+    <Quest_ItemStashAICore.letterText>{0}, {2}の{1}が、我々に、メッセージを送ってきました。\n\n彼らは、所得として貴重なアイテムのコレクションが、我々から遠くない所に放置されている事を突き止めました。コレクション内容:\n\n{3}\n\n残念なことに、気の長い話ではなく、我々がしなくとも、{4}日も経てば、他の何者かが、アイテムを回収してしまうでしょう。\n\n貴重な物資は危険と隣り合わせになりがちです、十分に注意を\n\n{5}</Quest_ItemStashAICore.letterText>
 
-    <Quest_DownedRefugee.label>incapacitated refugee quest</Quest_DownedRefugee.label>
-    <Quest_DownedRefugee.letterLabel>Incapacitated refugee quest</Quest_DownedRefugee.letterLabel>
-    <Quest_DownedRefugee.letterText>[PAWN_nameDef] contacts you and requests help. [PAWN_pronoun] is wounded and unable to move. Without your help, [PAWN_pronoun] will die in {0} days.\n\n[PAWN_nameDef] is a {1}-year-old {2}. [PAWN_pronoun] promises to join you if you rescue [PAWN_objective].\n\n[PAWN_nameDef] says that {3}.</Quest_DownedRefugee.letterText>
+    <Quest_DownedRefugee.label>行き倒れ難民 クエスト</Quest_DownedRefugee.label>
+    <Quest_DownedRefugee.letterLabel>行き倒れ難民 クエスト</Quest_DownedRefugee.letterLabel>
+    <Quest_DownedRefugee.letterText>[PAWN_nameDefは、我々に無線で助けを求めてきました。[PAWN_pronoun]は怪我をしていて動けません。貴方の助け無しには、[PAWN_pronoun]は{0}日以内に死んでしまうでしょう。\n\n[PAWN_nameDef]は、{1}歳の{2}です。もし[PAWN_objective]を助けてくれるなら、加わることを約束しました。\n\n{3}</Quest_DownedRefugee.letterText>
 
-    <Quest_PrisonerRescue.label>prisoner rescue quest</Quest_PrisonerRescue.label>
-    <Quest_PrisonerRescue.letterLabel>Prisoner rescue quest</Quest_PrisonerRescue.letterLabel>
-    <Quest_PrisonerRescue.letterText>A prisoner being held by {0} has managed to steal a radio and call you!\n\n[PAWN_nameDef] is being held at a camp nearby under armed guard. Rescue [PAWN_objective], and [PAWN_pronoun] will join your colony. [PAWN_pronoun] is a {1}-year-old {2}. [PAWN_pronoun] says that {3}.</Quest_PrisonerRescue.letterText>
+    <Quest_PrisonerRescue.label>囚人解放 クエスト</Quest_PrisonerRescue.label>
+    <Quest_PrisonerRescue.letterLabel>囚人解放 クエスト</Quest_PrisonerRescue.letterLabel>
+    <Quest_PrisonerRescue.letterText>{0}に捕まった囚人が、どうにか無線を盗んで貴方を呼び出しています!\n\n[PAWN_nameDef]は、近くのキャンプで武装した見張りの下に捕らえられています。[PAWN_objective]助ければ、[PAWN_pronoun]は貴方のコロニーに加わるでしょう。[PAWN_pronoun]は、{1}歳の{2}です。\n\n{3}</Quest_PrisonerRescue.letterText>
 
-    <Quest_PeaceTalks.label>peace talks quest</Quest_PeaceTalks.label>
-    <Quest_PeaceTalks.letterLabel>Peace talks quest</Quest_PeaceTalks.letterLabel>
-    <Quest_PeaceTalks.letterText>[PAWN_nameDef], {0} of {1}, has sent us a message. [PAWN_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction, but beware - a poor negotiator can cause more harm than good and even anger them.\n\nThe offer will expire after {2} days.</Quest_PeaceTalks.letterText>
+    <Quest_PeaceTalks.label>和平交渉 クエスト</Quest_PeaceTalks.label>
+    <Quest_PeaceTalks.letterLabel>和平交渉 クエスト</Quest_PeaceTalks.letterLabel>
+    <Quest_PeaceTalks.letterText>[PAWN_nameDef], {1}の{0}が、我々にメッセージを送ってきました。[PAWN_pronoun]は近くの場所で我々と会談したがっています。\n\nこれは、彼らの部族との関係を、改善させる素晴らしい機会となるかもしれませんが、用心して下さい - 下手な交渉人は好転するどころか、より悪影響を引き起こし、彼らが怒り出すことになります。\n\nこの提案は、{2}日後に時間切れとなります。</Quest_PeaceTalks.letterText>
 
   <!-- Main quests -->
-    <Quest_JourneyOffer.label>escape ship quest</Quest_JourneyOffer.label>
+    <Quest_JourneyOffer.label>脱出宇宙船 クエスト</Quest_JourneyOffer.label>
 
 </LanguageData>

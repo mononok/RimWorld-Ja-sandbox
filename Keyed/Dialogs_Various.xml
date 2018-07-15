@@ -1,267 +1,267 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>了承</Confirm>
-  <GoBack>戻る</GoBack>
-  <OK>[OK]</OK>
-  <Close>Close</Close>
+    <Confirm>了承</Confirm>
+    <GoBack>戻る</GoBack>
+    <OK>[OK]</OK>
+    <Close>閉じる</Close>
 
-  <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>旧バージョンでのセーブゲームやMODが、動作しなくなることが起きます。</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>旧バージョンでのセーブゲームは互換性がありますが、MODは動作しなくなることが起きます。</GameUpdatedToNewVersionSavesCompatible>
-  <GameUpdatedToNewVersionNonSteam>この"RimWorld"は、DRM-free copyなので、２箇所の違うフォルダー別々にゲームをインストールすることができ、旧バージョンと新バージョンの両方を遊ぶことができます。</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら、Steamの"Betas"機能を選択することができます。\n\n1.Sterm ライブラリー、RimWorldを右クリックする。\n2.プロパティをクリックする。\n3.ベータタブをクリックする。\n4.ドロップダウンメニューより、遊びたいバージョン番号を選択する。\n\nゆくゆくは、このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません。\n\n【ノート】MOD製作者が、彼らのMODを新バージョンに対応させたら、おそらく旧バージョンでは動作しなくなるでしょう。これを防ぐために、自動アップデート機能をオフにしてください。</GameUpdatedToNewVersionSteam>
+    <!-- Game updated to new version -->
+    <GameUpdatedToNewVersionInitial>"RimWorld"は、バージョン{0}から{1}にアップデートされました。</GameUpdatedToNewVersionInitial>
+    <GameUpdatedToNewVersionSavesIncompatible>旧バージョンでのセーブゲームやMODが、動作しなくなることが起きます。</GameUpdatedToNewVersionSavesIncompatible>
+    <GameUpdatedToNewVersionSavesCompatible>旧バージョンでのセーブゲームは互換性がありますが、MODは動作しなくなることが起きます。</GameUpdatedToNewVersionSavesCompatible>
+    <GameUpdatedToNewVersionNonSteam>この"RimWorld"は、DRM-free copyなので、２箇所の違うフォルダー別々にゲームをインストールすることができ、旧バージョンと新バージョンの両方を遊ぶことができます。</GameUpdatedToNewVersionNonSteam>
+    <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら、Steamの"Betas"機能を選択することができます。\n\n1.Sterm ライブラリー、RimWorldを右クリックする。\n2.プロパティをクリックする。\n3.ベータタブをクリックする。\n4.ドロップダウンメニューより、遊びたいバージョン番号を選択する。\n\nゆくゆくは、このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません。\n\n【ノート】MOD製作者が、彼らのMODを新バージョンに対応させたら、おそらく旧バージョンでは動作しなくなるでしょう。これを防ぐために、自動アップデート機能をオフにしてください。</GameUpdatedToNewVersionSteam>
 
-  <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました。</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました。\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています。\n\n全てのMODを一旦無効にしました、再びMODダイアログから有効にすることができます。 </RecoveredFromErrorsText>
+    <!-- Recovered from errors caused by mods -->
+    <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました。</RecoveredFromErrorsDialogTitle>
+    <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました。\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています。\n\n全てのMODを一旦無効にしました、再びMODダイアログから有効にすることができます。 </RecoveredFromErrorsText>
 
-  <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>エラー：ロード中</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>ロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>このゲームは、現在、カスタムMODと共に動作しています - この事が、問題を引き起こすかどうかはわかりません。</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>エラー：地図を作成中</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>地図を作成中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>エラー：地図をロード中</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>地図をロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingMap>
+    <!-- Errors during loading -->
+    <ErrorWhileLoadingAssetsTitle>エラー：ロード中</ErrorWhileLoadingAssetsTitle>
+    <ErrorWhileLoadingAssets>ロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingAssets>
+    <ErrorWhileLoadingAssets_ModsInfo>このゲームは、現在、カスタムMODと共に動作しています - この事が、問題を引き起こすかどうかはわかりません。</ErrorWhileLoadingAssets_ModsInfo>
+    <ErrorWhileGeneratingMapTitle>エラー：地図を作成中</ErrorWhileGeneratingMapTitle>
+    <ErrorWhileGeneratingMap>地図を作成中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileGeneratingMap>
+    <ErrorWhileLoadingMapTitle>エラー：地図をロード中</ErrorWhileLoadingMapTitle>
+    <ErrorWhileLoadingMap>地図をロード中にエラーが発生しました。エラーに関する詳細情報は、エラーログを見てください。</ErrorWhileLoadingMap>
 
-  <!-- Unloaded mod with an assembly -->
-  <ModsChanged>MODリストが変更されました。ゲームは自動的に再起動します。</ModsChanged>
-  <FailedToRestart>ゲーム再起動中に、何か不具合が発生しました。ゲームは、MODの無効化を完璧にはできませんでしたので、まだ、MODが有効になっています。\n\n一旦ゲームを終了させてから、起動してMODを一から読み込む事をお勧めします。</FailedToRestart>
-  <Restarting>再起動中</Restarting>
+    <!-- Unloaded mod with an assembly -->
+    <ModsChanged>MODリストが変更されました。ゲームは自動的に再起動します。</ModsChanged>
+    <FailedToRestart>ゲーム再起動中に、何か不具合が発生しました。ゲームは、MODの無効化を完璧にはできませんでしたので、まだ、MODが有効になっています。\n\n一旦ゲームを終了させてから、起動してMODを一から読み込む事をお勧めします。</FailedToRestart>
+    <Restarting>再起動中</Restarting>
 
-  <!-- Missing Steam -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+    <!-- Missing Steam -->
+    <SteamClientMissing>"Steam API"の初期化ができませんでした。可能性のある原因：\n\n -"Steam"が起動していない。\n - steam_appid.txtが無い、Steam以外の場所から起動しようとした。\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合、コンピュータの再起動でこの問題は解決するでしょう。\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
 
-  <!-- Long events -->
-  <InitializingInterface>インターフェースを初期化中</InitializingInterface>
-  <UnloadingUnusedAssets>使用しない要素を解放中</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>有効なMODをロード中</LoadingAllActiveMods>
-  <LoadingDefs>初期化データをロード中</LoadingDefs>
-  <LoadingAssets>構成要素をロード中</LoadingAssets>
-  <Initializing>初期化中</Initializing>
-  <LoadingWorld>惑星をロード中</LoadingWorld>
-  <LoadingMap>地図をロード中</LoadingMap>
-  <InitializingGame>ゲームを初期化中</InitializingGame>
-  <SpawningAllThings>キャラクタを配置中</SpawningAllThings>
-  <SpawningColonists>入植者を配置中</SpawningColonists>
+    <!-- Long events -->
+    <InitializingInterface>インターフェースを初期化中</InitializingInterface>
+    <UnloadingUnusedAssets>使用しない要素を解放中</UnloadingUnusedAssets>
+    <LoadingAllActiveMods>有効なMODをロード中</LoadingAllActiveMods>
+    <LoadingDefs>初期化データをロード中</LoadingDefs>
+    <LoadingAssets>構成要素をロード中</LoadingAssets>
+    <Initializing>初期化中</Initializing>
+    <LoadingWorld>惑星をロード中</LoadingWorld>
+    <LoadingMap>地図をロード中</LoadingMap>
+    <InitializingGame>ゲームを初期化中</InitializingGame>
+    <SpawningAllThings>キャラクタを配置中</SpawningAllThings>
+    <SpawningColonists>入植者を配置中</SpawningColonists>
 
-<!-- Save/load -->
-<SaveGameButton>保存</SaveGameButton>
-<LoadGameButton>ロード</LoadGameButton>
-<OverwriteButton>上書きする</OverwriteButton>
-<ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
-<DeleteThisSavegame>この セーブデータを 削除します。</DeleteThisSavegame>
-<SavedAs>{0}という 名前で 保存します。</SavedAs>
-<NeedAName>名前を 入力してください。</NeedAName>
-<LoadingLongEvent>データロード中です…</LoadingLongEvent>
-  <SavingLongEvent>セーブ中</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
-  <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
-  <LoadAnyway>強制ロード</LoadAnyway>
-  <ChangeLoadedMods>セーブデータから MODリストを読み込む</ChangeLoadedMods>
-  <MissingMods>いくつかのMODを利用できません、インストールが必要です。</MissingMods>
+    <!-- Save/load -->
+    <SaveGameButton>保存</SaveGameButton>
+    <LoadGameButton>ロード</LoadGameButton>
+    <OverwriteButton>上書きする</OverwriteButton>
+    <ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
+    <DeleteThisSavegame>この セーブデータを 削除します。</DeleteThisSavegame>
+    <SavedAs>{0}という 名前で 保存します。</SavedAs>
+    <NeedAName>名前を 入力してください。</NeedAName>
+    <LoadingLongEvent>データロード中です…</LoadingLongEvent>
+    <SavingLongEvent>セーブ中</SavingLongEvent>
+    <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
+    <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です。\n\nセーブデータは全く違うバージョン {1} で作成されました。\n\nセーブデータを読み込めたとしても、おそらく動作しないと思われます。</SaveIsFromDifferentGameVersion>
+    <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です。\n\nセーブデータは違うバージョン {1} で作成されました。\n\nセーブデータは動作します。</SaveIsFromDifferentGameBuild>
+    <SaveIsFromThisGameBuild>セーブデータは、このゲームバージョンでセーブされています。</SaveIsFromThisGameBuild>
+    <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています、おそらく読み込めないでしょう。</SaveIsUnknownFormat>
+    <ProblemSavingFile>不具合があるセーブデータ {0} です。\n\n {1}\n\n詳細な情報はエラーログを見てください。</ProblemSavingFile>
+    <LoadAnyway>強制ロード</LoadAnyway>
+    <ChangeLoadedMods>セーブデータから MODリストを読み込む</ChangeLoadedMods>
+    <MissingMods>いくつかのMODを利用できません、インストールが必要です。</MissingMods>
 
-  <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました。</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>その名前は適当ではありません。</PlayerFactionNameIsInvalid>
+    <!-- Player faction naming -->
+    <NamePlayerFactionMessage>{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+    <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました。</PlayerFactionGainsName>
+    <PlayerFactionNameIsInvalid>その名前は適当ではありません。</PlayerFactionNameIsInvalid>
 
-  <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>この共同体を {0}と名乗りました。</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません。</PlayerFactionBaseNameIsInvalid>
+    <!-- Player faction base naming -->
+    <NamePlayerFactionBaseMessage>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+    <PlayerFactionBaseGainsName>この共同体を {0}と名乗りました。</PlayerFactionBaseGainsName>
+    <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません。</PlayerFactionBaseNameIsInvalid>
 
-  <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {1}と名乗りました。</PlayerFactionAndBaseGainsName>
+    <!-- Player faction and faction base naming -->
+    <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+    <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {1}と名乗りました。</PlayerFactionAndBaseGainsName>
 
-  <!-- Renaming -->
-  <NameIsInvalid>正しい名前を入力してください。</NameIsInvalid>
-  <NameIsInUse>その名前は既に使われています。</NameIsInUse>
-  <ZoneGainsName>このゾーンを {0} という名前に 決めました。</ZoneGainsName>
+    <!-- Renaming -->
+    <NameIsInvalid>正しい名前を入力してください。</NameIsInvalid>
+    <NameIsInUse>その名前は既に使われています。</NameIsInUse>
+    <ZoneGainsName>このゾーンを {0} という名前に 決めました。</ZoneGainsName>
 
-  <!-- Pawn naming -->
-<PawnGainsName>This person's nickname is now {0}. [PAWN_possessive] title is {1}.</PawnGainsName>
-<AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
+    <!-- Pawn naming -->
+    <PawnGainsName>この人のニックネームは {0} に決めました。[PAWN_possessive]の肩書きは {1} です。</PawnGainsName>
+    <AnimalGainsName>この動物の名前は {0} に決めました。</AnimalGainsName>
 
-<!-- Save game incompatible warning -->
-  <VersionMismatch>バージョンの不一致</VersionMismatch>
-  <SaveGameIncompatibleWarningText>警告: このセーブファイルは バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのセーブファイルを読み込むとバグやクラッシュを引き起こす可能性があります。</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので、新規にいちから世界を作る事を強く勧めます。</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>警告: このファイルは バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性があります。</FileIncompatibleWarning>
-  <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>このファイルは、現在動作している MOD とは別の MODが有効になった状態でセーブされています。これは、MOD 次第によっては、問題を起こすかも、起こさないかもしれません。\n\nファイルにセーブされているMOD(ロード順):\n\n{0}\n\n動作しているMOD(ロード順):\n\n{1}</ModsMismatchWarningText>
+    <!-- Save game incompatible warning -->
+    <VersionMismatch>バージョンの不一致</VersionMismatch>
+    <SaveGameIncompatibleWarningText>警告: このセーブファイルは バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのセーブファイルを読み込むとバグやクラッシュを引き起こす可能性があります。</SaveGameIncompatibleWarningText>
+    <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので、新規にいちから世界を作る事を強く勧めます。</WorldFileVersionMismatch>
+    <FileIncompatibleWarning>警告: このファイルは バージョン {0} で保存されたものです。 現在のバージョンは {1} です。\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性があります。</FileIncompatibleWarning>
+    <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
+    <ModsMismatchWarningText>このファイルは、現在動作している MOD とは別の MODが有効になった状態でセーブされています。これは、MOD 次第によっては、問題を起こすかも、起こさないかもしれません。\n\nファイルにセーブされているMOD(ロード順):\n\n{0}\n\n動作しているMOD(ロード順):\n\n{1}</ModsMismatchWarningText>
 
-<!-- Resolution change dialog -->
-<ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
-<ResolutionKeep>決定</ResolutionKeep>
-<ResolutionRevert>戻す</ResolutionRevert>
+    <!-- Resolution change dialog -->
+    <ConfirmResolutionChange>画面解像度を 変更しました。 この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
+    <ResolutionKeep>決定</ResolutionKeep>
+    <ResolutionRevert>戻す</ResolutionRevert>
 
-  <!-- Confirm permanently disable dev mode -->
-  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?</ConfirmPermanentlyDisableDevMode>
+    <!-- Confirm permanently disable dev mode -->
+    <ConfirmPermanentlyDisableDevMode>本当に、このコンピュータ上で、開発者モードを永久に無効にするのですか？</ConfirmPermanentlyDisableDevMode>
 
-<!-- Research -->
-<Research>研究</Research>
-<Researched>研究済み</Researched>
-<Unresearched>未研究</Unresearched>
-<Finished>完成した</Finished>
-<InProgress>進行中</InProgress>
-<Locked>Locked</Locked>
-<ResearchMenuWithoutBench>研究設備を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
-  <ResearchPrerequisites>必要条件</ResearchPrerequisites>
-  <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
+    <!-- Research -->
+    <Research>研究</Research>
+    <Researched>研究済み</Researched>
+    <Unresearched>未研究</Unresearched>
+    <Finished>完成した</Finished>
+    <InProgress>進行中</InProgress>
+    <Locked>凍結</Locked>
+    <ResearchMenuWithoutBench>研究設備を作成し、 入植者に 研究を 割り振らないかぎり、 研究は はじまりません。\n\nしかし、 あらかじめ 研究計画を 指定することは できます。 </ResearchMenuWithoutBench>
+    <ResearchPrerequisites>必要条件</ResearchPrerequisites>
+    <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
+    <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
 
-<!-- Advanced game start options -->
-<MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
-<MapSize>マップサイズ</MapSize>
-<MapSizeDesc>{0}x{0} ({1}の正方形)</MapSizeDesc>
-<MapSizeSmall>小</MapSizeSmall>
-<MapSizeMedium>中</MapSizeMedium>
-<MapSizeLarge>大</MapSizeLarge>
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
-  <MapStartSeason>Starting season</MapStartSeason>
-  <MapStartSeasonDefault>自動</MapStartSeasonDefault>
-  <Notice>Notice</Notice>
-  <PermadeathMode>Permadeath モード</PermadeathMode>
-  <PermadeathModeInfo>Permadeathモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
+    <!-- Advanced game start options -->
+    <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています。それは自殺行為に等しいです。不可能な事に挑みたいのでなければ、着陸地点を変更するか、日付を変更してください</MapTemperatureDangerWarning>
+    <MapSizePerformanceWarning>このゲームはミディアムマップサイズで遊ぶように設計されています。この大きさは相当広いゲーム空間を提供します。\n\n大きなマップサイズは処理速度が低下するだけでなく - ゲームデザインの本質をも壊します。AIは、馬鹿な決断をしたり、様々な方面でゲームバランスに悪い結果をもたらします。このサイズは、テスト的な目的で、それを引き継いだ為に含まれているので、これらの状況を省みずには使用しないでください。</MapSizePerformanceWarning>
+    <MapSize>マップサイズ</MapSize>
+    <MapSizeDesc>{0}x{0} ({1}の正方形)</MapSizeDesc>
+    <MapSizeSmall>小</MapSizeSmall>
+    <MapSizeMedium>中</MapSizeMedium>
+    <MapSizeLarge>大</MapSizeLarge>
+    <MapSizeExtreme>巨大(テスト用)</MapSizeExtreme>
+    <MapStartSeason>開始時の季節</MapStartSeason>
+    <MapStartSeasonDefault>自動</MapStartSeasonDefault>
+    <Notice>通知</Notice>
+    <PermadeathMode>パーマデス モード</PermadeathMode>
+    <PermadeathModeInfo>パーマデスモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
 
-<!-- Bill config -->
-<Suspended>再開する</Suspended>
-<NotSuspended>中止する</NotSuspended>
-<SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
-  <RepeatCount>Repeat:</RepeatCount>
-<Forever>常時</Forever>
+    <!-- Bill config -->
+    <Suspended>再開する</Suspended>
+    <NotSuspended>中止する</NotSuspended>
+    <SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
+    <RepeatCount>繰り返し数:</RepeatCount>
+    <Forever>常時</Forever>
 	<Details>概略</Details>
-<IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
-  <CurrentlyHave>所持数</CurrentlyHave>
-  <CountingProducts>計測</CountingProducts>
-<Infinite>無限に</Infinite>
-  <AllowedSkillRange>{0} スキル範囲:</AllowedSkillRange>
-  <IncompatibleLower>incompatible</IncompatibleLower>
-  <AnyWorker>Any worker</AnyWorker>
-  <Unlimited>Unlimited</Unlimited>
+    <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
+    <CurrentlyHave>所持数</CurrentlyHave>
+    <CountingProducts>計測</CountingProducts>
+    <Infinite>無限に</Infinite>
+    <AllowedSkillRange>{0} スキル範囲:</AllowedSkillRange>
+    <IncompatibleLower>適合しない</IncompatibleLower>
+    <AnyWorker>Any worker</AnyWorker>
+    <Unlimited>無制限</Unlimited>
 
-<RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
-  <WorkAmount>作業工数</WorkAmount>
-<MinimumSkills>必要スキル：</MinimumSkills>
-  <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
-  <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
-  <UsableIngredients>材料</UsableIngredients>
-<BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
+    <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
+    <WorkAmount>作業工数</WorkAmount>
+    <MinimumSkills>必要スキル：</MinimumSkills>
+    <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
+    <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
+<BillRequiresMayVary>通知: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
+    <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
+    <UsableIngredients>材料</UsableIngredients>
+    <BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
 
-  <PauseWhenSatisfied>X個以上で一時停止</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>一時停止解除</UnpauseWhenYouHave>
-  <Paused>一時停止</Paused>
-  <Unpause>停止解除</Unpause>
+    <PauseWhenSatisfied>X個以上で一時停止</PauseWhenSatisfied>
+    <UnpauseWhenYouHave>一時停止解除</UnpauseWhenYouHave>
+    <Paused>一時停止</Paused>
+    <Unpause>停止解除</Unpause>
 
-  <IncludeEquipped>Count equipped</IncludeEquipped>
-  <IncludeTainted>Count tainted</IncludeTainted>
-  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
-  <IncludeFromAll>Look everywhere</IncludeFromAll>
-  <IncludeSpecific>Look in {0}</IncludeSpecific>
+<IncludeEquipped>Count equipped</IncludeEquipped>
+<IncludeTainted>Count tainted</IncludeTainted>
+<LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
+<IncludeFromAll>Look everywhere</IncludeFromAll>
+<IncludeSpecific>Look in {0}</IncludeSpecific>
   
-  <!-- Info card -->
-<Damage>ダメージ</Damage>
-<ArmorPenetration>Armor penetration</ArmorPenetration>
-<ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
-<Accuracy>命中度</Accuracy>
-<BurstShotCount>一回の弾数</BurstShotCount>
-<WarmupTime>準備時間</WarmupTime>
-  <MeleeWarmupTime>構える時間</MeleeWarmupTime>
-<CooldownTime>排出時間</CooldownTime>
-<BurstShotFireRate>Fire rate</BurstShotFireRate>
-<Range>射程</Range>
-  <StoppingPower>Stopping power</StoppingPower>
-  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
-  <DirectHitChance>Direct hit chance</DirectHitChance>
-  <MissRadius>Miss radius</MissRadius>
-<GrowsWild>野生の植物</GrowsWild>
-<Harvestable>収穫可能</Harvestable>
-<LimitedLifespan>寿命がある</LimitedLifespan>
-<GrowingTime>成長時間</GrowingTime>
-  <HarvestYield>Harvest yield</HarvestYield>
-  <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
-<Days>日</Days>
+    <!-- Info card -->
+    <Damage>ダメージ</Damage>
+    <ArmorPenetration>アーマー貫通力(AP)</ArmorPenetration>
+    <ArmorPenetrationExplanation>アーマー貫通力(AP)とは、この武器が命中する度に無視できるアーマーの値です。\n\nもしAP値がターゲットのアーマー値よりも大きい場合、そのターゲットは「非装甲」とみなせます。逆にそうでないときは、ターゲットのアーマー値からAP値を引き算します。</ArmorPenetrationExplanation>
+    <Accuracy>命中度</Accuracy>
+    <BurstShotCount>一回の弾数</BurstShotCount>
+    <WarmupTime>準備時間</WarmupTime>
+    <MeleeWarmupTime>構える時間</MeleeWarmupTime>
+    <CooldownTime>排出時間</CooldownTime>
+    <BurstShotFireRate>連射速度</BurstShotFireRate>
+    <Range>射程</Range>
+    <StoppingPower>威力</StoppingPower>
+    <StoppingPowerExplanation>この武器が命中すると、ターゲットをよろめかせ、数秒間ほど動作に支障がおきます。ターゲットの体格が「威力」よりも大きいと効果を示さなくなるでしょう。</StoppingPowerExplanation>
+    <DirectHitChance>命中率</DirectHitChance>
+    <MissRadius>収束半径</MissRadius>
+    <GrowsWild>野生の植物</GrowsWild>
+    <Harvestable>収穫可能</Harvestable>
+    <LimitedLifespan>寿命がある</LimitedLifespan>
+    <GrowingTime>成長時間</GrowingTime>
+    <HarvestYield>収量</HarvestYield>
+    <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
+    <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
-  <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
-  <FertilitySensitivity>肥沃度への感度係数</FertilitySensitivity>
-<LightRequirement>成長に必要な光源</LightRequirement>
-<Attributes>属性</Attributes>
-<LifeSpan>寿命</LifeSpan>
-<Nutrition>栄養</Nutrition>
-  <Joy>娯楽</Joy>
-<FoodQuality>食材タイプ</FoodQuality>
-<WalkSpeedProperty>移動速度</WalkSpeedProperty>
-<MinFoodQuality>食べられる最低食材</MinFoodQuality>
-<Diet>食性</Diet>
-  <LeatherType>Leather type</LeatherType>
-  <BodySize>身体の大きさ</BodySize>
-<RecruitDifficulty>説得の難度</RecruitDifficulty>
-  <MarketValue>標準小売価格</MarketValue>
-  <Covers>カバー</Covers>
-  <Layer>Layer</Layer>
-  <CoverEffectiveness>カバー効力</CoverEffectiveness>
-  <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
-  <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
-  <MoodChange>心情変化</MoodChange>
-  <Wildness>野性</Wildness>
-  <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
-  <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
-  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
-  <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
-  <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>時</TimeRecordsCategory>
-  <MiscRecordsCategory>その他</MiscRecordsCategory>
-  <Addictiveness>中毒</Addictiveness>
-  <PackAnimal>駄載獣</PackAnimal>
-  <PackAnimalExplanation>この動物は、キャラバン隊が長い距離、アイテムを運ぶのに適しています。</PackAnimalExplanation>
-  <Skill>スキル</Skill>
-  <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
-  <SurgeryRequireBed>ベッドが必要</SurgeryRequireBed>
-  <WorkSpeedStat>作業速度が規制されている</WorkSpeedStat>
-  <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
-  <ConstructionSkillRequired>建築スキルが必要</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>建てるには、この建築レベルが必要</ConstructionSkillRequiredExplanation>
-  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
-  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
-  <HarmedRevengeChance>Revenge chance on harm</HarmedRevengeChance>
-  <HarmedRevengeChanceExplanation>The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
-  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
-  <TerrainRequirement>Terrain requirement</TerrainRequirement>
-  <Supports>Supports</Supports>
+    <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
+    <FertilitySensitivity>肥沃度への感度係数</FertilitySensitivity>
+    <LightRequirement>成長に必要な光源</LightRequirement>
+    <Attributes>属性</Attributes>
+    <LifeSpan>寿命</LifeSpan>
+    <Nutrition>栄養</Nutrition>
+    <Joy>娯楽</Joy>
+    <FoodQuality>食材タイプ</FoodQuality>
+    <WalkSpeedProperty>移動速度</WalkSpeedProperty>
+    <MinFoodQuality>食べられる最低食材</MinFoodQuality>
+    <Diet>食性</Diet>
+    <LeatherType>Leather type</LeatherType>
+    <BodySize>体格</BodySize>
+    <RecruitDifficulty>説得の難度</RecruitDifficulty>
+    <MarketValue>標準小売価格</MarketValue>
+    <Covers>カバー</Covers>
+    <Layer>層</Layer>
+    <CoverEffectiveness>カバー効力</CoverEffectiveness>
+    <CoverEffectivenessExplanation>銃撃戦において、このカバーに身を隠したときの効力を表します。％の数値が高いほど、より銃弾をブロックします。</CoverEffectivenessExplanation>
+    <MedicineXpGainFactor>経験獲得倍率</MedicineXpGainFactor>
+    <MoodChange>心情変化</MoodChange>
+    <Wildness>野性</Wildness>
+    <WildnessExplanation>野性に近い動物は、手なずけたり、調教するのが、より難しくなります。</WildnessExplanation>
+    <TrainingDecayInterval>調教値減衰間隔</TrainingDecayInterval>
+    <TamenessWillNotDecay>一度懐くと忘れません</TamenessWillNotDecay>
+    <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
+    <AnimalFilthRateExplanation>動物は、作られた床の上を歩き回ると、床を汚してしまいます。この動物が床を汚す平均の量は {0}セルです。\n\n大きくて、ペットには向かない動物は、より汚すようになります。</AnimalFilthRateExplanation>
+    <TimeRecordsCategory>時</TimeRecordsCategory>
+    <MiscRecordsCategory>その他</MiscRecordsCategory>
+    <Addictiveness>中毒</Addictiveness>
+    <PackAnimal>駄載獣</PackAnimal>
+    <PackAnimalExplanation>この動物は、キャラバン隊が長い距離、アイテムを運ぶのに適しています。</PackAnimalExplanation>
+    <Skill>スキル</Skill>
+    <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
+    <SurgeryRequireBed>ベッドが必要</SurgeryRequireBed>
+    <WorkSpeedStat>作業速度が規制されている</WorkSpeedStat>
+    <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
+    <ConstructionSkillRequired>建築スキルが必要</ConstructionSkillRequired>
+    <ConstructionSkillRequiredExplanation>建てるために必要な建築レベル</ConstructionSkillRequiredExplanation>
+    <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
+    <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる頻度の平均です。\n\n「擦り寄り」は多くの動物種に見られる振る舞いで、愛情表現として親しい者に、鼻や口元を押し付けます。大抵の人間は、この可愛いい仕草を微笑み、しばらくこのままでいたいと思っています。</NuzzleIntervalExplanation>
+    <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
+    <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です。\n\n攻撃した者が近いほど発生率は上がります。近距離からの場合は３倍となります。\n\nダメージを受ける度に判定し、低発射頻度、高火力の武器は、発生しにくくなります。\n\n逆襲の発生率を極小にするには、遠距離から低発射頻度の武器で攻撃します。</HarmedRevengeChanceExplanation>
+    <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
+    <TerrainRequirement>必要な地形条件</TerrainRequirement>
+    <Supports>支援</Supports>
 
-<!-- Trade -->
-  <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
-  <BuyPriceDesc>買い取り金額</BuyPriceDesc>
-  <SellPriceDesc>売却金額</SellPriceDesc>
-  <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
-  <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
-  <AcceptButton>受諾</AcceptButton>
-  <ResetButton>リセット</ResetButton>
-  <CancelButton>中止</CancelButton>
-  <CloseButton>閉じる</CloseButton>
-<YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
-<YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
-  <TraderHasNoMore>品切れ</TraderHasNoMore>
-  <ColonyHasNoMore>品切れ</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to buy this.</TraderWillNotTrade>
-  <Negotiator>交渉者</Negotiator>
-  <NegotiatorTalkingImpaired>交渉人 {0}は病弱のため きちんと話す事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>交渉人 {0}は病弱のため きちんと聞く事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorHearingImpaired>
-  <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorCapacityImpaired>
+    <!-- Trade -->
+    <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
+    <BuyPriceDesc>買い取り金額</BuyPriceDesc>
+    <SellPriceDesc>売却金額</SellPriceDesc>
+    <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
+    <ColonyCount>コロニーが取引可能なこのアイテムの数です。\n\nトレードビーコン近くの、軌道上トレーダーにだけアイテムを売ることができます。</ColonyCount>
+    <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
+    <AcceptButton>受諾</AcceptButton>
+    <ResetButton>リセット</ResetButton>
+    <CancelButton>中止</CancelButton>
+    <CloseButton>閉じる</CloseButton>
+    <YourTradeableSilver>取り引きできるシルバー： {0}</YourTradeableSilver>
+    <YourTradeableSilverTip>貿易ビーコン 付近に 備蓄した シルバーを 取り引きに つかうことが できます。</YourTradeableSilverTip>
+    <TraderHasNoMore>品切れ</TraderHasNoMore>
+    <ColonyHasNoMore>品切れ</ColonyHasNoMore>
+    <TraderWillNotTrade>トレーダーは、これを買う気がありません。</TraderWillNotTrade>
+    <Negotiator>交渉者</Negotiator>
+    <NegotiatorTalkingImpaired>交渉人 {0}は病弱のため きちんと話す事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorTalkingImpaired>
+    <NegotiatorHearingImpaired>交渉人 {0}は病弱のため きちんと聞く事が出来ません。\n\nこのことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorHearingImpaired>
+    <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorCapacityImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
-  <SortBy>並び替え</SortBy>
+    <SortBy>並び替え</SortBy>
 	<TraderTypePrice>交易種別</TraderTypePrice>
 	<Selling>売り</Selling>
 	<Buying>買い</Buying>
@@ -272,42 +272,43 @@
 	<TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
 	<minimum>最小値</minimum>
 	<FinalPrice>最終価格</FinalPrice>
-  <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
-  <TradeModeTip>Return to trade mode.</TradeModeTip>
+    <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
+    <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
 
-  <!-- Sellable items -->
-  <SellableItemsTitle>Things this trader will buy</SellableItemsTitle>
-  <PawnsTabShort>Creatures</PawnsTabShort>
+    <!-- Sellable items -->
+    <SellableItemsTitle>トレーダーの買う気がある物</SellableItemsTitle>
+    <PawnsTabShort>生物</PawnsTabShort>
 
     <!-- Form caravan -->
     <FormCaravan>キャラバン隊を編成</FormCaravan>
-  <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
+    <FormCaravanColonyThingCountTip>Number available to send with the caravan.</FormCaravanColonyThingCountTip>
     <PawnsTab>メンバー</PawnsTab>
     <ItemsTab>物資</ItemsTab>
     <CaravanMustHaveAtLeastOneColonist>少なくとも、一人はしっかりとした入植者が必要です。</CaravanMustHaveAtLeastOneColonist>
     <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません。{0}</CaravanCouldNotFindExitSpot>
     <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません。出発エリア({0})に到達できるか確認してください。</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Warning: Some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
+    <CaravanCouldNotFindReachableExitSpot>警告: いくつかの割り当てられた入植者は、出ていけません。({0})</CaravanCouldNotFindReachableExitSpot>
     <CaravanPawnIsUnreachable>指示した入植者は、{0}に 到達できません。</CaravanPawnIsUnreachable>
     <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableSingle>
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>
-  <TooBigCaravanMassUsage>The caravan can't carry that much.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus.</CaravanMassUsageTooltip>
-  <CaravanVisibilityTip>Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan.</CaravanVisibilityTip>
-  <DaysWorthOfFood>Days of food</DaysWorthOfFood>
-  <DaysWorthOfFoodInfoRot>rot in {0}</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Unlimited</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry quickly.</DaysWorthOfFoodWarningDialog>
-   <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
-  <ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
-  <ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the caravan's food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
+    <TooBigCaravanMassUsage>キャラバン隊は、こんな多量は運べません。</TooBigCaravanMassUsage>
+    <CaravanMassUsageTooltip>運ぶアイテムと、身につけているアイテムの両方を含んでいます。最大積載量より少ないと移動速度にボーナスが与えられます。</CaravanMassUsageTooltip>
+    <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の気付かれ易さを表します。\n\n敵に見つかってしまう確率への掛率を表しています。\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません。\n\n「目立ちやすさ」の基本値は、キャラバン隊の全ての動物と人間の体格の和をもとにしています。</CaravanVisibilityTip>
+<!-- ここまで 07/10 -->
+    <DaysWorthOfFood>Days of food</DaysWorthOfFood>
+    <DaysWorthOfFoodInfoRot>腐敗 in {0}</DaysWorthOfFoodInfoRot>
+    <InfiniteDaysWorthOfFoodInfo>期限なし</InfiniteDaysWorthOfFoodInfo>
+<DaysWorthOfFoodTooltip>The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
+<DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(only the first waypoint is taken into account)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+<DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry quickly.</DaysWorthOfFoodWarningDialog>
+    <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
+<ForagedFoodPerDayTip>The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates.</ForagedFoodPerDayTip>
+<ForagedFoodPerDay>Forage per day</ForagedFoodPerDay>
+<CaravanFoodWillRotSoonWarningDialog>A large part of the caravan's food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
     <CaravanIncapableOfSocial>キャラバン隊の中に、外交や商取引ができるメンバーがいません。</CaravanIncapableOfSocial>
     <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
-  <MessageMustChooseRouteFirst>You must choose a route for the caravan first.</MessageMustChooseRouteFirst>
-  <MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
+<MessageMustChooseRouteFirst>You must choose a route for the caravan first.</MessageMustChooseRouteFirst>
+<MessageNoValidExitTile>Your caravan is unable to leave the area. Make sure that at least one side is reachable.</MessageNoValidExitTile>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
     <MarketValueTip>小売価格</MarketValueTip>
   <DaysUntilRotTip>この地域における平均気温を元にした、このアイテムが腐敗し始めるまでの日数。</DaysUntilRotTip>

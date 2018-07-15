@@ -10,8 +10,8 @@
 <LoadGame>ロード</LoadGame>
 <Options>オプション</Options>
 <Mods>MOD</Mods>
-  <SaveTranslationReport>Save translation report</SaveTranslationReport>
-  <GeneratingTranslationReport>Generating translation report</GeneratingTranslationReport>
+  <SaveTranslationReport>翻訳結果レポートを保存する。</SaveTranslationReport>
+  <GeneratingTranslationReport>翻訳結果レポートを生成中</GeneratingTranslationReport>
 <Credits>クレジット</Credits>
 <QuitToMainMenu>タイトルに もどる</QuitToMainMenu>
 <SaveAndQuitToMainMenu>ゲームを保存して タイトルに もどる</SaveAndQuitToMainMenu>
@@ -28,9 +28,9 @@
   <CreateWorld>惑星を創造</CreateWorld>
 
   <!--=========== Main menu translations info window ===========-->
-  <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers.</TranslationThanks>
-  <TranslationHowToContribute>You can contribute too. Click below to learn more (opens web browser).</TranslationHowToContribute>
-  <LearnMore>Learn more</LearnMore>
+  <TranslationThanks>Rimworldの、全ての多言語翻訳はファンが作った物です。次の素晴らしいボランティア達によって、ファン製の翻訳ファイルは作られました。</TranslationThanks>
+  <TranslationHowToContribute>あなたも貢献することができます。下記のボタンを押してもっと知りましょう(ブラウザが開きます)。</TranslationHowToContribute>
+  <LearnMore>もっと知る</LearnMore>
 
 <!--=========== Create/review world ================-->
 <ReviewWorld>惑星を確認</ReviewWorld>
@@ -69,7 +69,7 @@
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
-    <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
+    <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
   <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。よろしいですか？</ConfirmDeleteMod>
   <Unsubscribe>Unsubscribe</Unsubscribe>
@@ -148,7 +148,7 @@
   <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
   <PerYear>/年</PerYear>
   <Forageability>Forageability</Forageability>
-  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります。本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 
 <!--=========== Character chooser ==========-->
@@ -166,7 +166,7 @@
 <NoneLower>なし</NoneLower>
 <Adulthood>成年期</Adulthood>
 <Childhood>幼年期</Childhood>
-  <Current>Current</Current>
+  <Current>現在</Current>
 <Male>男性</Male>
 <Female>女性</Female>
 <Pain>痛み</Pain>
@@ -183,9 +183,9 @@
 <Gameplay>ゲームの設定</Gameplay>
 <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます。</ConfirmQuit>
 <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
-  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <RequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
+  <Quit>やめる</Quit>
+  <Ignore>無視</Ignore>
 
   <!--============ Progress bar==============-->
 <GeneratingWorld>世界を 生成しています</GeneratingWorld>

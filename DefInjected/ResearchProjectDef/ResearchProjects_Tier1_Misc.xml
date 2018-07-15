@@ -5,14 +5,14 @@
     <PsychoidBrewing.label>サイコイド醸造</PsychoidBrewing.label>
     <PsychoidBrewing.description>サイコイドの葉を水で煮立て、穏やかな多幸感を産み出す中毒性のあるお茶です。</PsychoidBrewing.description>
 
-	<TreeSowing.label>tree sowing</TreeSowing.label>
-	<TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
+	<TreeSowing.label>樹木伐採</TreeSowing.label>
+	<TreeSowing.description>あなたの土地の自然の樹木を伐採します。</TreeSowing.description>
 
 	<Brewing.label>ビール醸造</Brewing.label>
 	<Brewing.description>ホップを、とても旨いビールにする、醸造器の製造を可能にします。</Brewing.description>
 
-	<ComplexFurniture.label>complex furniture</ComplexFurniture.label>
-	<ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
+	<ComplexFurniture.label>複雑な家具</ComplexFurniture.label>
+	<ComplexFurniture.description>ベッドやテーブル、ダイニングチェア、アームチェア、タンス、ツールキャビネット、ビリヤードテーブル、ポーカーテーブル、換気口、棺桶、などのような複雑な家具を作ります。</ComplexFurniture.description>
 
     <PassiveCooler.label>放熱器</PassiveCooler.label>
     <PassiveCooler.description>電気を使わずに、屋内空間を冷やすことができる、放熱器の製造を可能にします。</PassiveCooler.description>
@@ -28,7 +28,7 @@
 	<DrugProduction.description>ドラッグ製剤と合成の基礎を学びます。ドラッグラボの製造を可能にします。特定のドラッグを作るには、より研究が必要となります。</DrugProduction.description>
 
     <Cocoa.label>ココア</Cocoa.label>
-    <Cocoa.description>Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too.</Cocoa.description>
+    <Cocoa.description>おいしいチョコレートを作る為にココアの樹を切り倒します。チョコを食べることで娯楽を満たし、市場でも貴重な品です。</Cocoa.description>
 
 	<Devilstrand.label>デビルストランド</Devilstrand.label>
 	<Devilstrand.description>貴重な植物繊維を生み出す、育ちの遅いマッシュルーム、デビルストランドの栽培を可能にします。</Devilstrand.description>
@@ -41,33 +41,33 @@
 
 	<!--====== Column 3+ ======-->
 	<Smithing.label>鍛冶</Smithing.label>
-	<Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
+	<Smithing.description>ナイフ、グラディ、メイスのような金属武器を鍛冶で作ります。金属は綺麗で美しいフロアタイルとしても役立ちます。</Smithing.description>
 
     <RecurveBow.label>リカーブボウ</RecurveBow.label>
-    <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
+    <RecurveBow.description>効果的で費用の掛からない遠距離武器のリカーブボウを作ります。</RecurveBow.description>
 
     <!--====== Drugs ======-->
     <PsychiteRefining.label>サイカイト精製</PsychiteRefining.label>
     <PsychiteRefining.description>サイコイドの葉を、多幸感を引き起こすサイカイトの異なった形状のドラッグ、フレークやイェイョに精製する方法を学びます。</PsychiteRefining.description>
 
     <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
-    <WakeUpProduction.description>Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep.</WakeUpProduction.description>
+    <WakeUpProduction.description>合成ウェイクアップは、睡眠欲求を打ち消し能率向上作用があるドラッグです。</WakeUpProduction.description>
 
     <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
-    <GoJuiceProduction.description>Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain.</GoJuiceProduction.description>
+    <GoJuiceProduction.description>ゴージュース製造は、射撃、格闘、運動能力、痛みへの耐性など、合成戦闘力向上ドラッグです。</GoJuiceProduction.description>
 
     <PenoxycylineProduction.label>ペノキシリン製造</PenoxycylineProduction.label>
-    <PenoxycylineProduction.description>Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start.</PenoxycylineProduction.description>
+    <PenoxycylineProduction.description>ペノキシリン製造は、マラリアなど疾病が発症する前にブロックする予防ドラッグです。</PenoxycylineProduction.description>
 
     <!--====== Medieval weapons ======-->
 
     <LongBlades.label>長剣</LongBlades.label>
     <LongBlades.description>ロングソード、スピアを作れます。</LongBlades.description>
 
-    <PlateArmor.label>plate armor</PlateArmor.label>
-    <PlateArmor.description>Smith suits of plate armor from metal or wood.</PlateArmor.description>
+    <PlateArmor.label>プレートアーマー</PlateArmor.label>
+    <PlateArmor.description>鋼や木からプレートアーマーを作ります。</PlateArmor.description>
 
     <Greatbow.label>グレートボウ</Greatbow.label>
-    <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>
+    <Greatbow.description>遠距離で敵を射殺すグレートボウを作ります。</Greatbow.description>
 
 </LanguageData>

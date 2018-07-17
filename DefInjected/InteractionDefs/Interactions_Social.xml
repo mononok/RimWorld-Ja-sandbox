@@ -6,8 +6,8 @@
     <!-- Chitchat -->
     <Chitchat.label>世間話</Chitchat.label>
     <Chitchat.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopic_light].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopic_light] with [RECIPIENT_nameIndef].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopicLight].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameIndef].</li>
 	    <li>talkedabout(p=4)->chatted about</li>
 	    <li>talkedabout->shared a word about</li>
 	    <li>talkedabout->spoke about</li>

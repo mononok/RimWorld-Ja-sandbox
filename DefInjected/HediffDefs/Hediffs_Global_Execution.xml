@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<!-- 
+    <Animal_Flu.label>インフルエンザ</Animal_Flu.label>
+
+    <Animal_Plague.label>ペスト</Animal_Plague.label>
+
+<!--
     <AlcoholHigh.label>alcohol</AlcoholHigh.label>
     <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
 
@@ -54,8 +58,6 @@
 
     <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
-    <Animal_Flu.label>flu</Animal_Flu.label>
-    <Animal_Plague.label>plague</Animal_Plague.label>
     <MissingBodyPart.labelNounPretty>missing a {1}</MissingBodyPart.labelNounPretty>
     <Misc.labelNounPretty>{0} in the {1}</Misc.labelNounPretty>
     <Burn.comps.HediffComp_GetsPermanent.permanentLabel>burn scar</Burn.comps.HediffComp_GetsPermanent.permanentLabel>

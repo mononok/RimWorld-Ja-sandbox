@@ -13,8 +13,8 @@
 	<MeleeDodgeChance.label>回避率(白兵戦)</MeleeDodgeChance.label>
 	<MeleeDodgeChance.description>他からの近接攻撃を回避する確率です。遠距離射撃を回避することはできません。</MeleeDodgeChance.description>
 
-    <ShootingAccuracy.label>命中率(射撃)</ShootingAccuracy.label>
-    <ShootingAccuracy.description>射撃距離毎の基本成功率です。命中率も他の要因の影響を受けます。射撃毎の命中率に関する説明は、射手を選択したあとに、ターゲットをマウスオーバーすることで見ることが出来ます。</ShootingAccuracy.description>
+    <ShootingAccuracyPawn.label>命中率(射撃)</ShootingAccuracyPawn.label>
+    <ShootingAccuracyPawn.description>射撃距離毎の基本成功率です。命中率も他の要因の影響を受けます。射撃毎の命中率に関する説明は、射手を選択したあとに、ターゲットをマウスオーバーすることで見ることが出来ます。</ShootingAccuracyPawn.description>
 
     <AimingDelayFactor.label>照準時間</AimingDelayFactor.label>
     <AimingDelayFactor.description>ターゲットを選んでから射撃するまでに掛かる時間です。</AimingDelayFactor.description>

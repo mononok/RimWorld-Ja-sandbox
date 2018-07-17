@@ -4,86 +4,87 @@
     <!-- RomanceAttempt -->
     <RomanceAttempt.label>誘惑する</RomanceAttempt.label>
     <RomanceAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] [wooed] [OTHER_nameIndef] by [wootactic].</li>
-	
-	    <li>wooed->tried to flirt with</li>
-	    <li>wooed->flirted with</li>
-	    <li>wooed->tried to attract</li>
-	    <li>wooed->tried to romance</li>
-	    <li>wooed->tried to woo</li>
-	    <li>wooed->wooed</li>
-	    <li>wooed->pursued</li>
-	    <li>wooed->charmed</li>
-	    <li>wooed->courted</li>
-	
-	    <li>wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic]</li>
-	    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
-	    <li>wootactic(p=2)->telling a story about [TalkTopic_light]</li>
-	    <li>wootactic(p=2)->telling a story about [TalkTopic_heavy]</li>
-	    <li>wootactic->comparing [OTHER_objective] to a [romantic_adj] [romantic_noun]</li>
-	    <li>wootactic->describing [OTHER_objective] as a [romantic_adj] [romantic_noun]</li>
-	
-	    <li>boasting->boasting about</li>
-	    <li>boasting->mentioning</li>
-	    <li>boasting->implying good things about</li>
-	    <li>boasting->exaggerating</li>
-	    <li>boasting->talking about</li>
-	    <li>boasting->drawing attention to</li>
-	
-	    <li>complimenting(p=3)->complimenting</li>
-	    <li>complimenting->subtly complimenting</li>
-	    <li>complimenting->lauding</li>
-	    <li>complimenting->commending</li>
-	    <li>complimenting->saying good things about</li>
-	    <li>complimenting(p=2)->playfully making fun of</li>
-	    <li>complimenting->jokingly poking at</li>
-	    <li>complimenting->jokingly half-complimenting</li>
-	    <li>complimenting->impishly questioning</li>
-	    <li>complimenting->cheerfully making fun of</li>
-	
-	    <li>romantic_adj->beautiful</li>
-	    <li>romantic_adj->shining</li>
-	    <li>romantic_adj->glimmering</li>
-	    <li>romantic_adj->heavenly</li>
-	    <li>romantic_adj->golden</li>
-	    <li>romantic_adj->bright</li>
-	    <li>romantic_adj->breathtaking</li>
-	    <li>romantic_adj->charming</li>
-	    <li>romantic_adj->dazzling</li>
-	    <li>romantic_adj->delicate</li>
-	    <li>romantic_adj->fine</li>
-	    <li>romantic_adj->magnificent</li>
-	    <li>romantic_adj->lovely</li>
-	    <li>romantic_adj->wonderful</li>
-	    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
-	
-	    <li>romantic_noun->flower</li>
-	    <li>romantic_noun->spring</li>
-	    <li>romantic_noun->river</li>
-	    <li>romantic_noun->star</li>
-	    <li>romantic_noun->moon</li>
-	    <li>romantic_noun->sun</li>
-	    <li>romantic_noun->house</li>
-	    <li>romantic_noun->aurora</li>
-	    <li>romantic_noun->[TreeType] tree</li>
-	    <li>romantic_noun(p=2)->[TerrainFeature]</li>
-	    <li>romantic_noun(p=2)->[NaturalObject]</li>
+        <li>r_logentry->[INITIATOR_nameIndef] [wooed] [OTHER_nameIndef] by [wootactic].</li>
+
+        <li>wooed->tried to flirt with</li>
+        <li>wooed->flirted with</li>
+        <li>wooed->tried to attract</li>
+        <li>wooed->tried to romance</li>
+        <li>wooed->tried to woo</li>
+        <li>wooed->wooed</li>
+        <li>wooed->pursued</li>
+        <li>wooed->charmed</li>
+        <li>wooed->courted</li>
+
+        <li>wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic]</li>
+        <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+        <li>wootactic(p=2)->telling a story about [TalkTopicLight]</li>
+        <li>wootactic(p=2)->telling a story about [TalkTopicHeavy]</li>
+        <li>wootactic->comparing [OTHER_objective] to a [romantic_adj] [romantic_noun]</li>
+        <li>wootactic->describing [OTHER_objective] as a [romantic_adj] [romantic_noun]</li>
+
+        <li>boasting->boasting about</li>
+        <li>boasting->mentioning</li>
+        <li>boasting->implying good things about</li>
+        <li>boasting->exaggerating</li>
+        <li>boasting->talking about</li>
+        <li>boasting->drawing attention to</li>
+
+        <li>complimenting(p=3)->complimenting</li>
+        <li>complimenting->subtly complimenting</li>
+        <li>complimenting->lauding</li>
+        <li>complimenting->commending</li>
+        <li>complimenting->saying good things about</li>
+        <li>complimenting(p=2)->playfully making fun of</li>
+        <li>complimenting->jokingly poking at</li>
+        <li>complimenting->jokingly half-complimenting</li>
+        <li>complimenting->impishly questioning</li>
+        <li>complimenting->cheerfully making fun of</li>
+
+        <li>romantic_adj->beautiful</li>
+        <li>romantic_adj->shining</li>
+        <li>romantic_adj->glimmering</li>
+        <li>romantic_adj->heavenly</li>
+        <li>romantic_adj->golden</li>
+        <li>romantic_adj->bright</li>
+        <li>romantic_adj->breathtaking</li>
+        <li>romantic_adj->charming</li>
+        <li>romantic_adj->dazzling</li>
+        <li>romantic_adj->delicate</li>
+        <li>romantic_adj->fine</li>
+        <li>romantic_adj->magnificent</li>
+        <li>romantic_adj->lovely</li>
+        <li>romantic_adj->wonderful</li>
+        <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+
+        <li>romantic_noun->flower</li>
+        <li>romantic_noun->spring</li>
+        <li>romantic_noun->river</li>
+        <li>romantic_noun->star</li>
+        <li>romantic_noun->moon</li>
+        <li>romantic_noun->sun</li>
+        <li>romantic_noun->house</li>
+        <li>romantic_noun->aurora</li>
+        <li>romantic_noun->[TreeType] tree</li>
+        <li>romantic_noun(p=2)->[TerrainFeature]</li>
+        <li>romantic_noun(p=2)->[NaturalObject]</li>
     </RomanceAttempt.logRulesInitiator.rulesStrings>
 
     <!-- MarriageProposal -->
+    <MarriageProposal.label>プロポーズ</MarriageProposal.label>
     <MarriageProposal.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] proposed marriage to [OTHER_nameIndef].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] proposed a lifelong commitment to [OTHER_nameIndef].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</li>
+        <li>r_logentry->[INITIATOR_nameIndef] proposed marriage to [OTHER_nameIndef].</li>
+        <li>r_logentry->[INITIATOR_nameIndef] proposed a lifelong commitment to [OTHER_nameIndef].</li>
+        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</li>
     </MarriageProposal.logRulesInitiator.rulesStrings>
 
     <!-- Breakup -->
     <Breakup.label>別れ</Breakup.label>
     <Breakup.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for a break.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for some space.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it's not working out.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it would be best to see other people.</li>
+        <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for a break.</li>
+        <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for some space.</li>
+        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it's not working out.</li>
+        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it would be best to see other people.</li>
     </Breakup.logRulesInitiator.rulesStrings>
 
 </LanguageData>

@@ -2,26 +2,11 @@
 <LanguageData>
 
 	<BloodLoss.label>失血</BloodLoss.label>
-	<rep>
-		<path>BloodLoss.stages[0].label</path>
-		<trans>微量</trans>
-	</rep>
-	<rep>
-		<path>BloodLoss.stages[1].label</path>
-		<trans>少量</trans>
-	</rep>
-	<rep>
-		<path>BloodLoss.stages[2].label</path>
-		<trans>中程度</trans>
-	</rep>
-	<rep>
-		<path>BloodLoss.stages[3].label</path>
-		<trans>多量</trans>
-	</rep>
-	<rep>
-		<path>BloodLoss.stages[4].label</path>
-		<trans>致死量</trans>
-	</rep>
+	<BloodLoss.stages.0.label>微量</BloodLoss.stages.0.label>
+	<BloodLoss.stages.1.label>少量</BloodLoss.stages.1.label>
+	<BloodLoss.stages.2.label>中程度</BloodLoss.stages.2.label>
+	<BloodLoss.stages.3.label>多量</BloodLoss.stages.3.label>
+	<BloodLoss.stages.4.label>致死量</BloodLoss.stages.4.label>
 
 	<Anesthetic.label>麻酔</Anesthetic.label>
     <CatatonicBreakdown.label>緊張性衰弱</CatatonicBreakdown.label>
@@ -38,60 +23,26 @@
 	<FoodPoisoning.stages.2.label>初期症状</FoodPoisoning.stages.2.label>
 
 	<ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
-	<rep>
-		<path>ToxicBuildup.stages[0].label</path>
-		<trans>症状なし</trans>
-	</rep>
-	<rep>
-		<path>ToxicBuildup.stages[1].label</path>
-		<trans>初期</trans>
-	</rep>
-	<rep>
-		<path>ToxicBuildup.stages[2].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>ToxicBuildup.stages[3].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>ToxicBuildup.stages[4].label</path>
-		<trans>重度</trans>
-	</rep>
-	<rep>
-		<path>ToxicBuildup.stages[5].label</path>
-		<trans>極度</trans>
-	</rep>
+	<ToxicBuildup.stages.0.label>症状なし</ToxicBuildup.stages.0.label>
+	<ToxicBuildup.stages.1.label>初期</ToxicBuildup.stages.1.label>
+	<ToxicBuildup.stages.2.label>軽度</ToxicBuildup.stages.2.label>
+	<ToxicBuildup.stages.3.label>中度</ToxicBuildup.stages.3.label>
+	<ToxicBuildup.stages.4.label>重度</ToxicBuildup.stages.4.label>
+	<ToxicBuildup.stages.5.label>極度</ToxicBuildup.stages.5.label>
 
 	<Pregnant.label>妊娠</Pregnant.label>
 	<Pregnant.labelNoun>妊娠</Pregnant.labelNoun>
-	<rep>
-		<path>Pregnant.stages[0].label</path>
-		<trans>初期</trans>
-	</rep>
-	<rep>
-		<path>Pregnant.stages[1].label</path>
-		<trans>中期</trans>
-	</rep>
-	<rep>
-		<path>Pregnant.stages[2].label</path>
-		<trans>臨月</trans>
-	</rep>
+	<Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} おめでた!!</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+	<Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0}は身籠もった</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+	<Pregnant.stages.0.label>初期</Pregnant.stages.0.label>
+	<Pregnant.stages.1.label>中期</Pregnant.stages.1.label>
+	<Pregnant.stages.2.label>臨月</Pregnant.stages.2.label>
 
 	<HeartAttack.label>心筋梗塞</HeartAttack.label>
 	<HeartAttack.labelNoun>心筋梗塞</HeartAttack.labelNoun>
-	<rep>
-		<path>HeartAttack.stages[0].label</path>
-		<trans>苦痛</trans>
-	</rep>
-	<rep>
-		<path>HeartAttack.stages[1].label</path>
-		<trans>衰弱</trans>
-	</rep>
-	<rep>
-		<path>HeartAttack.stages[2].label</path>
-		<trans>致命的</trans>
-	</rep>
+	<HeartAttack.stages.0.label>苦痛</HeartAttack.stages.0.label>
+	<HeartAttack.stages.1.label>衰弱</HeartAttack.stages.1.label>
+	<HeartAttack.stages.2.label>致命的</HeartAttack.stages.2.label>
 
 	<DrugOverdose.label>ドラッグの過剰摂取</DrugOverdose.label>
 	<DrugOverdose.labelNoun>ドラッグ過剰摂取</DrugOverdose.labelNoun>

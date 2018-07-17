@@ -11,11 +11,11 @@
   <LetterRelationsChange_Hostile>{0}との関係が断絶しました。彼らは今や敵です。\n\n彼らは、あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう、さらにトレードを拒否します。あなたに関係改善の意思があるなら、キャラバン隊や輸送ポッドを使って、彼らに贈り物を申し出ることはできます。\n\nこれは誠意({1})が{2}以下の時に起きます。中立の関係に戻す目的なら、誠意を再び{3}に到達させなければなりません。</LetterRelationsChange_Hostile>
   <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました。もう彼らは、あなたを攻撃しようともせず、中立とみなしています。\n\nこれは誠意({1})が{2}を超えれば発生します。もし誠意が{3}を下回れば、{0}は再び敵対します。もし誠意が{4}を上回れば、彼らはあなたと同盟を組み、あなたの為に戦うでしょう。</LetterRelationsChange_NeutralFromHostile>
   <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました。いまや彼らは、あなたを同盟ではなく中立とみなしています。\n\nあなたと円満な関係を続けますが、彼らは、貴方が脅威に晒されても援軍を送ってくることはありません。\n\nこれは誠意({1})が{2}を下回れば起きます。もし{3}を下回ると、{0}は敵対するでしょう。もし{4}を上回れば、彼らは再び、あなたと同盟を組むでしょう。</LetterRelationsChange_NeutralFromAlly>
-  <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
+    <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました。彼らは、あなたと同盟とみなしています。\n\n同盟を結ぶと、あなたが戦時下にあると、あなたの敵と戦う援軍が到着することがあります。あなたは、対価として誠意を費やすことで、いつでも彼らを呼び出すこともできます。\n\n誠意({1})が{2}を超えれば同盟となります。もし{3}を下回ると、関係は中立へと戻ります。</LetterRelationsChange_Ally>
 
-  <goodwill>goodwill</goodwill>
-<Neutral>中立</Neutral>
-  <Death>Death</Death>
+    <goodwill>誠意</goodwill>
+    <Neutral>中立</Neutral>
+    <Death>破滅</Death>
 
 <ShortCircuitRain>{0}は 雨で短絡し、発火しました。</ShortCircuitRain>
 
@@ -40,8 +40,8 @@
     <LetterLabelNewDisease>発症</LetterLabelNewDisease>
     <NewDisease>{0}は 病に倒れました({1})。\n\n医療用ベッドとドクターを確保してください。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewDisease>
     <NewPartDisease>{0}は [PAWN_possessive]{1}に {3}を確認しました。{2}が できる限りベッドのうえで過ごし 適切な治療を受けられているか確認してください。</NewPartDisease>
-  <NewDiseaseAnimal>{0} has developed an illness: {1}</NewDiseaseAnimal>
-  <NewPartDiseaseAnimal>{0} has developed an illness: {3} in [PAWN_possessive] {1}</NewPartDiseaseAnimal>
+  <NewDiseaseAnimal>{0}は 病気を発症しました: {1}</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>[PAWN_possessive] {1}の{0}は 病気を発症しました: {3}</NewPartDiseaseAnimal>
 
   <PawnWasFormerlyColonist>{0}は、かつて貴方の派閥の一員でした。</PawnWasFormerlyColonist>
   <PawnHasTheseRelationshipsWithColonists>{0}は、入植者達と、これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
@@ -73,11 +73,11 @@
   <LetterLeaderChanged>{1}の{3}は、もう{0}ではなく\n\n新しい{3}は {2}になった。</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
-  <FinalStraw>The final straw was: {0}</FinalStraw>
-  <LastFactionRelationsEvent>The last event was</LastFactionRelationsEvent>
+  <FinalStraw>不幸な出来事: {0}</FinalStraw>
+  <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
   <ReadMore>Read more</ReadMore>
-  <LastEventsInLife>The last events in {0}'s life</LastEventsInLife>
+  <LastEventsInLife>{0}の一生に起きた最後の出来事</LastEventsInLife>
 
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>

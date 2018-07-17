@@ -6,132 +6,45 @@
 	<MuscleParasites.label>せん毛虫</MuscleParasites.label>
 
 	<FibrousMechanites.label>筋繊維 機械化症</FibrousMechanites.label>
-	<rep>
-		<path>FibrousMechanites.stages[0].label</path>
-		<trans>弱い痛み</trans>
-	</rep>
-	<rep>
-		<path>FibrousMechanites.stages[1].label</path>
-		<trans>激しい痛み</trans>
-	</rep>
+	<FibrousMechanites.stages.0.label>弱い痛み</FibrousMechanites.stages.0.label>
+	<FibrousMechanites.stages.1.label>激しい痛み</FibrousMechanites.stages.1.label>
 
 	<SensoryMechanites.label>感覚器 機械化症</SensoryMechanites.label>
-	<rep>
-		<path>SensoryMechanites.stages[0].label</path>
-		<trans>弱い痛み</trans>
-	</rep>
-	<rep>
-		<path>SensoryMechanites.stages[1].label</path>
-		<trans>激しい痛み</trans>
-	</rep>
+	<SensoryMechanites.stages.0.label>弱い痛み</SensoryMechanites.stages.0.label>
+	<SensoryMechanites.stages.1.label>激しい痛み</SensoryMechanites.stages.1.label>
 
 	<WoundInfection.label>傷からの感染症</WoundInfection.label>
 	<WoundInfection.labelNoun>傷感染症</WoundInfection.labelNoun>
-	<rep>
-		<path>WoundInfection.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>WoundInfection.stages[1].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>WoundInfection.stages[2].label</path>
-		<trans>重度</trans>
-	</rep>
-	<rep>
-		<path>WoundInfection.stages[3].label</path>
-		<trans>重度</trans>
-	</rep>
+	<WoundInfection.stages.0.label>軽度</WoundInfection.stages.0.label>
+	<WoundInfection.stages.1.label>中度</WoundInfection.stages.1.label>
+	<WoundInfection.stages.2.label>重度</WoundInfection.stages.2.label>
+	<WoundInfection.stages.3.label>重度</WoundInfection.stages.3.label>
 
 	<Flu.label>インフルエンザ</Flu.label>
-	<rep>
-		<path>Flu.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Flu.stages[1].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Flu.stages[2].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>Flu.stages[3].label</path>
-		<trans>重度</trans>
-	</rep>
+	<Flu.stages.0.label>軽度</Flu.stages.0.label>
+	<Flu.stages.1.label>軽度</Flu.stages.1.label>
+	<Flu.stages.2.label>中度</Flu.stages.2.label>
+	<Flu.stages.3.label>重度</Flu.stages.3.label>
 
 	<Plague.label>ペスト</Plague.label>
-	<rep>
-		<path>Plague.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Plague.stages[1].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Plague.stages[2].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>Plague.stages[3].label</path>
-		<trans>重度</trans>
-	</rep>
-	<rep>
-		<path>Plague.stages[4].label</path>
-		<trans>重度</trans>
-	</rep>
+	<Plague.stages.0.label>軽度</Plague.stages.0.label>
+	<Plague.stages.1.label>軽度</Plague.stages.1.label>
+	<Plague.stages.2.label>中度</Plague.stages.2.label>
+	<Plague.stages.3.label>重度</Plague.stages.3.label>
+	<Plague.stages.4.label>重度</Plague.stages.4.label>
 
 	<Malaria.label>マラリア</Malaria.label>
-	<rep>
-		<path>Malaria.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Malaria.stages[1].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Malaria.stages[2].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>Malaria.stages[3].label</path>
-		<trans>重度</trans>
-	</rep>
+	<Malaria.stages.0.label>軽度</Malaria.stages.0.label>
+	<Malaria.stages.1.label>軽度</Malaria.stages.1.label>
+	<Malaria.stages.2.label>中度</Malaria.stages.2.label>
+	<Malaria.stages.3.label>重度</Malaria.stages.3.label>
 
 	<SleepingSickness.label>眠り病</SleepingSickness.label>
-	<rep>
-		<path>SleepingSickness.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>SleepingSickness.stages[1].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>SleepingSickness.stages[2].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>SleepingSickness.stages[3].label</path>
-		<trans>中度</trans>
-	</rep>
-	<rep>
-		<path>SleepingSickness.stages[4].label</path>
-		<trans>重度</trans>
-	</rep>
-	<rep>
-		<path>SleepingSickness.stages[5].label</path>
-		<trans>重度</trans>
-	</rep>
-
-
-
-
-
-
+	<SleepingSickness.stages.0.label>軽度</SleepingSickness.stages.0.label>
+	<SleepingSickness.stages.1.label>軽度</SleepingSickness.stages.1.label>
+	<SleepingSickness.stages.2.label>軽度</SleepingSickness.stages.2.label>
+	<SleepingSickness.stages.3.label>中度</SleepingSickness.stages.3.label>
+    <SleepingSickness.stages.4.label>重度</SleepingSickness.stages.4.label>
+	<SleepingSickness.stages.5.label>重度</SleepingSickness.stages.5.label>
 
 </LanguageData>

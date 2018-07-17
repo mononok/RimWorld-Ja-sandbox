@@ -2,48 +2,18 @@
 <LanguageData>
 
 	<Heatstroke.label>熱中症</Heatstroke.label>
-	<rep>
-		<path>Heatstroke.stages[0].label</path>
-		<trans>初期</trans>
-	</rep>
-	<rep>
-		<path>Heatstroke.stages[1].label</path>
-		<trans>初期段階</trans>
-	</rep>
-	<rep>
-		<path>Heatstroke.stages[2].label</path>
-		<trans>わずかに</trans>
-	</rep>
-	<rep>
-		<path>Heatstroke.stages[3].label</path>
-		<trans>深刻な</trans>
-	</rep>
-	<rep>
-		<path>Heatstroke.stages[4].label</path>
-		<trans>致命的</trans>
-	</rep>
+	<Heatstroke.stages.0.label>初期</Heatstroke.stages.0.label>
+	<Heatstroke.stages.1.label>初期段階</Heatstroke.stages.1.label>
+	<Heatstroke.stages.2.label>わずかに</Heatstroke.stages.2.label>
+	<Heatstroke.stages.3.label>深刻な</Heatstroke.stages.3.label>
+	<Heatstroke.stages.4.label>致命的</Heatstroke.stages.4.label>
 
 	<Hypothermia.label>低体温症</Hypothermia.label>
-	<rep>
-		<path>Hypothermia.stages[0].label</path>
-		<trans>初期</trans>
-	</rep>
-	<rep>
-		<path>Hypothermia.stages[1].label</path>
-		<trans>初期段階</trans>
-	</rep>
-	<rep>
-		<path>Hypothermia.stages[2].label</path>
-		<trans>わずかに</trans>
-	</rep>
-	<rep>
-		<path>Hypothermia.stages[3].label</path>
-		<trans>深刻な</trans>
-	</rep>
-	<rep>
-		<path>Hypothermia.stages[4].label</path>
-		<trans>致命的</trans>
-	</rep>
+	<Hypothermia.stages.0.label>初期</Hypothermia.stages.0.label>
+	<Hypothermia.stages.1.label>初期段階</Hypothermia.stages.1.label>
+	<Hypothermia.stages.2.label>わずかに</Hypothermia.stages.2.label>
+	<Hypothermia.stages.3.label>深刻な</Hypothermia.stages.3.label>
+	<Hypothermia.stages.4.label>致命的</Hypothermia.stages.4.label>
 
 	<HypothermicSlowdown.label>低体温による動作緩慢</HypothermicSlowdown.label>
 	<HypothermicSlowdown.stages.0.label>軽度</HypothermicSlowdown.stages.0.label>

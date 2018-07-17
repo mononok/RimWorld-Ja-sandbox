@@ -25,11 +25,11 @@
 	<PatientBedRest.description>命に関わらない症状でも、回復する為にベッドで安静にしてなさい。</PatientBedRest.description>
 	<PatientBedRest.verb>病人になる</PatientBedRest.verb>
 
-        <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
-        <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
-        <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
-        <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
-        <BasicWorker.verb>Deal with</BasicWorker.verb>
+        <BasicWorker.labelShort>雑用</BasicWorker.labelShort>
+        <BasicWorker.pawnLabel>雑用</BasicWorker.pawnLabel>
+        <BasicWorker.gerundLabel>対応</BasicWorker.gerundLabel>
+        <BasicWorker.description>スキルが不要な雑用。囚人の解放、スイッチや機械のオンオフ</BasicWorker.description>
+        <BasicWorker.verb>対処</BasicWorker.verb>
 
         <Warden.labelShort>看守</Warden.labelShort>
         <Warden.pawnLabel>看守</Warden.pawnLabel>

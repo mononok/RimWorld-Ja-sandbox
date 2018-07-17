@@ -1,104 +1,127 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Misc.label>その他</Misc.label>
-	<Misc.labelNoun>ケガ</Misc.labelNoun>
-	<Misc.comps.0.labelTendedWell>包帯</Misc.comps.0.labelTendedWell>
-	<Misc.comps.0.labelTendedWellInner>縫合</Misc.comps.0.labelTendedWellInner>
-	<Misc.comps.0.labelSolidTendedWell>セット</Misc.comps.0.labelSolidTendedWell>
-	<Misc.injuryProps.destroyedLabel>壊れた</Misc.injuryProps.destroyedLabel>
+    <Misc.label>その他</Misc.label>
+    <Misc.labelNoun>ケガ</Misc.labelNoun>
+    <Misc.labelNounPretty>{1}内の{0}</Misc.labelNounPretty>
+    <Misc.comps.0.labelTendedWell>包帯</Misc.comps.0.labelTendedWell>
+    <Misc.comps.0.labelTendedWellInner>縫合</Misc.comps.0.labelTendedWellInner>
+    <Misc.comps.0.labelSolidTendedWell>セット</Misc.comps.0.labelSolidTendedWell>
+    <Misc.injuryProps.destroyedLabel>壊れた</Misc.injuryProps.destroyedLabel>
 
-	<Burn.label>やけど</Burn.label>
-	<Burn.labelNoun>やけど</Burn.labelNoun>
-	<Burn.comps.0.labelTendedWell>包帯</Burn.comps.0.labelTendedWell>
-	<Burn.comps.0.labelTendedWellInner>縫合</Burn.comps.0.labelTendedWellInner>
-	<Burn.comps.0.labelSolidTendedWell>セット</Burn.comps.0.labelSolidTendedWell>
-	<Burn.injuryProps.destroyedLabel>焼け落ちた</Burn.injuryProps.destroyedLabel>
-	<Burn.injuryProps.destroyedOutLabel>焼け落ちた</Burn.injuryProps.destroyedOutLabel>
+    <Burn.label>やけど</Burn.label>
+    <Burn.labelNoun>やけど</Burn.labelNoun>
+    <Burn.labelNounPretty>{1}内の{0}</Burn.labelNounPretty>
+    <Burn.comps.HediffComp_GetsPermanent.permanentLabel>火傷痕</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Burn.comps.0.labelTendedWell>包帯</Burn.comps.0.labelTendedWell>
+    <Burn.comps.0.labelTendedWellInner>縫合</Burn.comps.0.labelTendedWellInner>
+    <Burn.comps.0.labelSolidTendedWell>セット</Burn.comps.0.labelSolidTendedWell>
+    <Burn.injuryProps.destroyedLabel>焼け落ちた</Burn.injuryProps.destroyedLabel>
+    <Burn.injuryProps.destroyedOutLabel>焼け落ちた</Burn.injuryProps.destroyedOutLabel>
 
-	<Crush.label>ひしゃげた</Crush.label>
-	<Crush.labelNoun>ひしゃげた</Crush.labelNoun>
-	<Crush.comps.0.labelTendedWell>包帯</Crush.comps.0.labelTendedWell>
-	<Crush.comps.0.labelTendedWellInner>縫合</Crush.comps.0.labelTendedWellInner>
-	<Crush.comps.0.labelSolidTendedWell>セット</Crush.comps.0.labelSolidTendedWell>
-	<Crush.injuryProps.destroyedLabel>ひしゃげた</Crush.injuryProps.destroyedLabel>
+    <Crush.label>ひしゃげた</Crush.label>
+    <Crush.labelNoun>ひしゃげた</Crush.labelNoun>
+    <Crush.labelNounPretty>{1}内の{0}</Crush.labelNounPretty>
+    <Crush.comps.0.labelTendedWell>包帯</Crush.comps.0.labelTendedWell>
+    <Crush.comps.0.labelTendedWellInner>縫合</Crush.comps.0.labelTendedWellInner>
+    <Crush.comps.0.labelSolidTendedWell>セット</Crush.comps.0.labelSolidTendedWell>
+    <Crush.injuryProps.destroyedLabel>ひしゃげた</Crush.injuryProps.destroyedLabel>
 
-	<Crack.label>ひびが入った</Crack.label>
-	<Crack.labelNoun>ひびが入った</Crack.labelNoun>
-	<Crack.comps.0.labelTendedWell>治療</Crack.comps.0.labelTendedWell>
-	<Crack.comps.0.labelTendedWellInner>治療</Crack.comps.0.labelTendedWellInner>
-	<Crack.comps.0.labelSolidTendedWell>セット</Crack.comps.0.labelSolidTendedWell>
-	<Crack.injuryProps.destroyedLabel>粉々になった</Crack.injuryProps.destroyedLabel>
+    <Crack.label>ひびが入った</Crack.label>
+    <Crack.labelNoun>ひびが入った</Crack.labelNoun>
+    <Crack.labelNounPretty>{1}内の{0}</Crack.labelNounPretty>
+    <Crack.comps.0.labelTendedWell>治療</Crack.comps.0.labelTendedWell>
+    <Crack.comps.0.labelTendedWellInner>治療</Crack.comps.0.labelTendedWellInner>
+    <Crack.comps.0.labelSolidTendedWell>セット</Crack.comps.0.labelSolidTendedWell>
+    <Crack.injuryProps.destroyedLabel>粉々になった</Crack.injuryProps.destroyedLabel>
 
-	<Cut.label>切創</Cut.label>
-	<Cut.labelNoun>切創</Cut.labelNoun>
-	<Cut.comps.0.labelTendedWell>包帯</Cut.comps.0.labelTendedWell>
-	<Cut.comps.0.labelTendedWellInner>縫合</Cut.comps.0.labelTendedWellInner>
-	<Cut.comps.0.labelSolidTendedWell>セット</Cut.comps.0.labelSolidTendedWell>
-	<Cut.injuryProps.destroyedLabel>切り落とされた</Cut.injuryProps.destroyedLabel>
-	<Cut.injuryProps.destroyedOutLabel>切り取られた</Cut.injuryProps.destroyedOutLabel>
+    <Cut.label>切創</Cut.label>
+    <Cut.labelNoun>切創</Cut.labelNoun>
+    <Cut.labelNounPretty>{1}内の{0}</Cut.labelNounPretty>
+    <Cut.comps.HediffComp_GetsPermanent.permanentLabel>切創痕</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Cut.comps.0.labelTendedWell>包帯</Cut.comps.0.labelTendedWell>
+    <Cut.comps.0.labelTendedWellInner>縫合</Cut.comps.0.labelTendedWellInner>
+    <Cut.comps.0.labelSolidTendedWell>セット</Cut.comps.0.labelSolidTendedWell>
+    <Cut.injuryProps.destroyedLabel>切り落とされた</Cut.injuryProps.destroyedLabel>
+    <Cut.injuryProps.destroyedOutLabel>切り取られた</Cut.injuryProps.destroyedOutLabel>
 
-	<SurgicalCut.label>医療事故(切創)</SurgicalCut.label>
-	<SurgicalCut.labelNoun>医療事故(切創)</SurgicalCut.labelNoun>
-	<SurgicalCut.comps.0.labelTendedWell>包帯</SurgicalCut.comps.0.labelTendedWell>
-	<SurgicalCut.comps.0.labelTendedWellInner>縫合</SurgicalCut.comps.0.labelTendedWellInner>
-	<SurgicalCut.comps.0.labelSolidTendedWell>セット</SurgicalCut.comps.0.labelSolidTendedWell>
+    <SurgicalCut.label>医療事故(切創)</SurgicalCut.label>
+    <SurgicalCut.labelNoun>医療事故(切創)</SurgicalCut.labelNoun>
+    <SurgicalCut.labelNounPretty>{1}内の{0}</SurgicalCut.labelNounPretty>
+    <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>手術痕</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+    <SurgicalCut.comps.0.labelTendedWell>包帯</SurgicalCut.comps.0.labelTendedWell>
+    <SurgicalCut.comps.0.labelTendedWellInner>縫合</SurgicalCut.comps.0.labelTendedWellInner>
+    <SurgicalCut.comps.0.labelSolidTendedWell>セット</SurgicalCut.comps.0.labelSolidTendedWell>
 
-	<Scratch.label>ひっかき傷</Scratch.label>
-	<Scratch.labelNoun>ひっかき傷</Scratch.labelNoun>
-	<Scratch.comps.0.labelTendedWell>包帯</Scratch.comps.0.labelTendedWell>
-	<Scratch.comps.0.labelTendedWellInner>縫合</Scratch.comps.0.labelTendedWellInner>
-	<Scratch.comps.0.labelSolidTendedWell>セット</Scratch.comps.0.labelSolidTendedWell>
-	<Scratch.injuryProps.destroyedLabel>千切れた</Scratch.injuryProps.destroyedLabel>
-	<Scratch.injuryProps.destroyedOutLabel>抉り取られた</Scratch.injuryProps.destroyedOutLabel>
+    <Scratch.label>ひっかき傷</Scratch.label>
+    <Scratch.labelNoun>ひっかき傷</Scratch.labelNoun>
+    <Scratch.labelNounPretty>{1}内の{0}</Scratch.labelNounPretty>
+    <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>掻傷痕</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Scratch.comps.0.labelTendedWell>包帯</Scratch.comps.0.labelTendedWell>
+    <Scratch.comps.0.labelTendedWellInner>縫合</Scratch.comps.0.labelTendedWellInner>
+    <Scratch.comps.0.labelSolidTendedWell>セット</Scratch.comps.0.labelSolidTendedWell>
+    <Scratch.injuryProps.destroyedLabel>千切れた</Scratch.injuryProps.destroyedLabel>
+    <Scratch.injuryProps.destroyedOutLabel>抉り取られた</Scratch.injuryProps.destroyedOutLabel>
 
-	<Bite.label>噛み傷</Bite.label>
-	<Bite.labelNoun>噛み傷</Bite.labelNoun>
-	<Bite.comps.0.labelTendedWell>包帯</Bite.comps.0.labelTendedWell>
-	<Bite.comps.0.labelTendedWellInner>縫合</Bite.comps.0.labelTendedWellInner>
-	<Bite.comps.0.labelSolidTendedWell>セット</Bite.comps.0.labelSolidTendedWell>
-	<Bite.injuryProps.destroyedLabel>齧りとられた</Bite.injuryProps.destroyedLabel>
-	<Bite.injuryProps.destroyedOutLabel>齧りとられた</Bite.injuryProps.destroyedOutLabel>
+    <Bite.label>噛み傷</Bite.label>
+    <Bite.labelNoun>噛み傷</Bite.labelNoun>
+    <Bite.labelNounPretty>{1}内の{0}</Bite.labelNounPretty>
+    <Bite.comps.HediffComp_GetsPermanent.permanentLabel>噛傷痕</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Bite.comps.0.labelTendedWell>包帯</Bite.comps.0.labelTendedWell>
+    <Bite.comps.0.labelTendedWellInner>縫合</Bite.comps.0.labelTendedWellInner>
+    <Bite.comps.0.labelSolidTendedWell>セット</Bite.comps.0.labelSolidTendedWell>
+    <Bite.injuryProps.destroyedLabel>齧りとられた</Bite.injuryProps.destroyedLabel>
+    <Bite.injuryProps.destroyedOutLabel>齧りとられた</Bite.injuryProps.destroyedOutLabel>
 
-	<Stab.label>刺し傷</Stab.label>
-	<Stab.labelNoun>刺し傷</Stab.labelNoun>
-	<Stab.comps.0.labelTendedWell>包帯</Stab.comps.0.labelTendedWell>
-	<Stab.comps.0.labelTendedWellInner>縫合</Stab.comps.0.labelTendedWellInner>
-	<Stab.comps.0.labelSolidTendedWell>セット</Stab.comps.0.labelSolidTendedWell>
-	<Stab.injuryProps.destroyedLabel>切り落とされた</Stab.injuryProps.destroyedLabel>
-	<Stab.injuryProps.destroyedOutLabel>切り取られた</Stab.injuryProps.destroyedOutLabel>
+    <Stab.label>刺し傷</Stab.label>
+    <Stab.labelNoun>刺し傷</Stab.labelNoun>
+    <Stab.labelNounPretty>{1}内の{0}</Stab.labelNounPretty>
+    <Stab.comps.HediffComp_GetsPermanent.permanentLabel>刺傷痕</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Stab.comps.0.labelTendedWell>包帯</Stab.comps.0.labelTendedWell>
+    <Stab.comps.0.labelTendedWellInner>縫合</Stab.comps.0.labelTendedWellInner>
+    <Stab.comps.0.labelSolidTendedWell>セット</Stab.comps.0.labelSolidTendedWell>
+    <Stab.injuryProps.destroyedLabel>切り落とされた</Stab.injuryProps.destroyedLabel>
+    <Stab.injuryProps.destroyedOutLabel>切り取られた</Stab.injuryProps.destroyedOutLabel>
 
-	<Gunshot.label>銃創</Gunshot.label>
-	<Gunshot.labelNoun>銃創</Gunshot.labelNoun>
-	<Gunshot.comps.0.labelTendedWell>包帯</Gunshot.comps.0.labelTendedWell>
-	<Gunshot.comps.0.labelTendedWellInner>縫合</Gunshot.comps.0.labelTendedWellInner>
-	<Gunshot.comps.0.labelSolidTendedWell>セット</Gunshot.comps.0.labelSolidTendedWell>
-	<Gunshot.injuryProps.destroyedLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedLabel>
-	<Gunshot.injuryProps.destroyedOutLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedOutLabel>
+    <Gunshot.label>銃創</Gunshot.label>
+    <Gunshot.labelNoun>銃創</Gunshot.labelNoun>
+    <Gunshot.labelNounPretty>{1}内の{0}</Gunshot.labelNounPretty>
+    <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>銃創痕</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>銃創痕</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+    <Gunshot.comps.0.labelTendedWell>包帯</Gunshot.comps.0.labelTendedWell>
+    <Gunshot.comps.0.labelTendedWellInner>縫合</Gunshot.comps.0.labelTendedWellInner>
+    <Gunshot.comps.0.labelSolidTendedWell>セット</Gunshot.comps.0.labelSolidTendedWell>
+    <Gunshot.injuryProps.destroyedLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedLabel>
+    <Gunshot.injuryProps.destroyedOutLabel>吹き飛ばされた</Gunshot.injuryProps.destroyedOutLabel>
 
-	<Shredded.label>裂傷</Shredded.label>
-	<Shredded.labelNoun>裂傷</Shredded.labelNoun>
-	<Shredded.comps.0.labelTendedWell>包帯</Shredded.comps.0.labelTendedWell>
-	<Shredded.comps.0.labelTendedWellInner>縫合</Shredded.comps.0.labelTendedWellInner>
-	<Shredded.comps.0.labelSolidTendedWell>セット</Shredded.comps.0.labelSolidTendedWell>
-	<Shredded.injuryProps.destroyedLabel>千切れた</Shredded.injuryProps.destroyedLabel>
-	<Shredded.injuryProps.destroyedOutLabel>千切れた</Shredded.injuryProps.destroyedOutLabel>
+    <Shredded.label>裂傷</Shredded.label>
+    <Shredded.labelNoun>裂傷</Shredded.labelNoun>
+    <Shredded.labelNounPretty>{1}内の{0}</Shredded.labelNounPretty>
+    <Shredded.comps.0.labelTendedWell>包帯</Shredded.comps.0.labelTendedWell>
+    <Shredded.comps.0.labelTendedWellInner>縫合</Shredded.comps.0.labelTendedWellInner>
+    <Shredded.comps.0.labelSolidTendedWell>セット</Shredded.comps.0.labelSolidTendedWell>
+    <Shredded.injuryProps.destroyedLabel>千切れた</Shredded.injuryProps.destroyedLabel>
+    <Shredded.injuryProps.destroyedOutLabel>千切れた</Shredded.injuryProps.destroyedOutLabel>
 
-	<Bruise.label>打撲傷</Bruise.label>
-	<Bruise.labelNoun>打撲傷</Bruise.labelNoun>
-	<Bruise.comps.0.labelTendedWell>包帯</Bruise.comps.0.labelTendedWell>
-	<Bruise.comps.0.labelTendedWellInner>縫合</Bruise.comps.0.labelTendedWellInner>
-	<Bruise.comps.0.labelSolidTendedWell>セット</Bruise.comps.0.labelSolidTendedWell>
-	<Bruise.injuryProps.destroyedLabel>壊れた</Bruise.injuryProps.destroyedLabel>
+    <Bruise.label>打撲傷</Bruise.label>
+    <Bruise.labelNoun>打撲傷</Bruise.labelNoun>
+    <Bruise.labelNounPretty>{1}内の{0}</Bruise.labelNounPretty>
+    <Bruise.comps.0.labelTendedWell>包帯</Bruise.comps.0.labelTendedWell>
+    <Bruise.comps.0.labelTendedWellInner>縫合</Bruise.comps.0.labelTendedWellInner>
+    <Bruise.comps.0.labelSolidTendedWell>セット</Bruise.comps.0.labelSolidTendedWell>
+    <Bruise.injuryProps.destroyedLabel>壊れた</Bruise.injuryProps.destroyedLabel>
 
-	<Frostbite.label>凍傷</Frostbite.label>
-	<Frostbite.comps.0.labelTendedWell>包帯</Frostbite.comps.0.labelTendedWell>
-	<Frostbite.comps.0.labelTendedWellInner>縫合</Frostbite.comps.0.labelTendedWellInner>
-	<Frostbite.comps.0.labelSolidTendedWell>セット</Frostbite.comps.0.labelSolidTendedWell>
-	<Frostbite.injuryProps.destroyedLabel>凍傷で失った</Frostbite.injuryProps.destroyedLabel>
+    <Frostbite.label>凍傷</Frostbite.label>
+    <Frostbite.labelNounPretty>{1}内の{0}</Frostbite.labelNounPretty>
+    <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>凍傷痕</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+    <Frostbite.comps.0.labelTendedWell>包帯</Frostbite.comps.0.labelTendedWell>
+    <Frostbite.comps.0.labelTendedWellInner>縫合</Frostbite.comps.0.labelTendedWellInner>
+    <Frostbite.comps.0.labelSolidTendedWell>セット</Frostbite.comps.0.labelSolidTendedWell>
+    <Frostbite.injuryProps.destroyedLabel>凍傷で失った</Frostbite.injuryProps.destroyedLabel>
 
-	<!-- Missing body part -->
-	<MissingBodyPart.label>身体の一部分を失った</MissingBodyPart.label>
-	<MissingBodyPart.labelNoun>身体欠損</MissingBodyPart.labelNoun>
+    <!-- Missing body part -->
+    <MissingBodyPart.label>身体の一部分を失った</MissingBodyPart.label>
+    <MissingBodyPart.labelNoun>身体欠損</MissingBodyPart.labelNoun>
+    <MissingBodyPart.labelNounPretty>{0}を失った</MissingBodyPart.labelNounPretty>
 
 </LanguageData>

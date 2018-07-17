@@ -157,15 +157,15 @@
     <FastLearner.degreeDatas.0.label>物覚えが良い</FastLearner.degreeDatas.0.label>
     <FastLearner.degreeDatas.0.description>[PAWN_nameDef]は物覚えのコツを持っています。[PAWN_pronoun]は他の人より早く物事を覚えます。</FastLearner.degreeDatas.0.description>
 
-    <Indoorsman.degreeDatas.0.label>Indoorsman</Indoorsman.degreeDatas.0.label>
-    <Indoorsman.degreeDatas.0.description>[PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside.</Indoorsman.degreeDatas.0.description>
+    <Indoorsman.degreeDatas.0.label>引きこもり</Indoorsman.degreeDatas.0.label>
+    <Indoorsman.degreeDatas.0.description>[PAWN_nameDef]は外に出る必要がありません。[PAWN_pronoun]は閉じ込められたとも思わないし、キャビンフィーバーにもなりません。どれだけ閉じこもっていても問題ありません。</Indoorsman.degreeDatas.0.description>
 
     <!-- The below really probably should've been spectrum traits -->
-    <Transhumanist.degreeDatas.0.label>transhumanist</Transhumanist.degreeDatas.0.label>
-    <Transhumanist.degreeDatas.0.description>[PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.0.description>
+    <Transhumanist.degreeDatas.0.label>義体化願望</Transhumanist.degreeDatas.0.label>
+    <Transhumanist.degreeDatas.0.description>[PAWN_nameDef]は、弱々しい人間の身体に限界を感じています。[PAWN_pronoun]は、しばしば自分が義体化する夢をみます。</Transhumanist.degreeDatas.0.description>
 
-    <BodyPurist.degreeDatas.0.label>body purist</BodyPurist.degreeDatas.0.label>
-    <BodyPurist.degreeDatas.0.description>[PAWN_nameDef] believes the human body is limited for a reason. To [PAWN_objective], artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.0.description>
+    <BodyPurist.degreeDatas.0.label>自然体主義</BodyPurist.degreeDatas.0.label>
+    <BodyPurist.degreeDatas.0.description>[PAWN_nameDef]は、人体に限界があるのには理由があっての事だと信じてします。[PAWN_objective]にとって、義体化は倫理に反する気持ち悪いことだと捉えています。</BodyPurist.degreeDatas.0.description>
 
     <DislikesMen.degreeDatas.0.label>男嫌い</DislikesMen.degreeDatas.0.label>
     <DislikesMen.degreeDatas.0.description>[PAWN_nameDef]は、男嫌いで まったく男性を信用しません。</DislikesMen.degreeDatas.0.description>
@@ -173,16 +173,16 @@
     <DislikesWomen.degreeDatas.0.label>女嫌い</DislikesWomen.degreeDatas.0.label>
     <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef]は、女嫌いで まったく女性を信用しません。</DislikesWomen.degreeDatas.0.description>
 
-    <GreatMemory.degreeDatas.0.label>great memory</GreatMemory.degreeDatas.0.label>
-    <GreatMemory.degreeDatas.0.description>[PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
+    <GreatMemory.degreeDatas.0.label>超記憶力</GreatMemory.degreeDatas.0.label>
+    <GreatMemory.degreeDatas.0.description>[PAWN_nameDef]は異様な記憶能力を持っています。[PAWN_pronoun]は、使っていないスキルを忘れていく速度が、他の人の半分となるでしょう。</GreatMemory.degreeDatas.0.description>
 
-    <Tough.degreeDatas.0.label>tough</Tough.degreeDatas.0.label>
-    <Tough.degreeDatas.0.description>[PAWN_nameDef] has thick skin, dense flesh, and durable bones. [PAWN_pronoun] takes much less damage than other people from the same blows. [PAWN_pronoun] is extremely hard to kill.</Tough.degreeDatas.0.description>
+    <Tough.degreeDatas.0.label>頑健</Tough.degreeDatas.0.label>
+    <Tough.degreeDatas.0.description>[PAWN_nameDef]は厚い皮膚、がたいの良い肉付き、上部な骨という体格です。[PAWN_pronoun]は、他の人と同じように殴られても、よりダメージが少なくてすみます。</Tough.degreeDatas.0.description>
 
-    <Gourmand.degreeDatas.0.label>gourmand</Gourmand.degreeDatas.0.label>
-    <Gourmand.degreeDatas.0.description>[PAWN_nameDef]'s life revolves around food. [PAWN_pronoun] gets hungry quickly, and if [PAWN_pronoun] is in a bad mood, [PAWN_pronoun] will often satisfy [PAWN_objective]self by eating.</Gourmand.degreeDatas.0.description>
+    <Gourmand.degreeDatas.0.label>美食家</Gourmand.degreeDatas.0.label>
+    <Gourmand.degreeDatas.0.description>[PAWN_nameDef]の人生は食べ物を中心に回っています。[PAWN_pronoun]は飢えやすく、またそうなると直ぐに心情が悪くなり、よく勝手につまみ食いをします。</Gourmand.degreeDatas.0.description>
 
     <QuickSleeper.degreeDatas.0.label>quick sleeper</QuickSleeper.degreeDatas.0.label>
-    <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef] doesn't need as much sleep as the average person. Whether [PAWN_pronoun]'s sleeping on a bed or on the ground, [PAWN_pronoun] will be fully rested in about two thirds the usual time.</QuickSleeper.degreeDatas.0.description>
+    <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef]は平均的な人よりは少ない睡眠時間で済みます。[PAWN_pronoun]はベッドでも、地面の上でも、完全に休息がとれます。</QuickSleeper.degreeDatas.0.description>
 
 </LanguageData>

@@ -5,7 +5,7 @@
 	<Dark>暗い</Dark>
 	<Lit>光がある</Lit>
 	<LitBrightly>明るい</LitBrightly>
-	
+
 	<!-- history upload pref -->
 	<Unspecified>未定</Unspecified>
 	<Always>許可</Always>
@@ -162,5 +162,13 @@
   <FoodPoisonCause_FilthyKitchen>不潔な調理場</FoodPoisonCause_FilthyKitchen>
   <FoodPoisonCause_Rotten>腐敗した原料</FoodPoisonCause_Rotten>
   <FoodPoisonCause_DangerousFoodType>危険な食物</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <PsychicDroneLevel_None>無し</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>中</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>低</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>中</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>高</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>極大</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

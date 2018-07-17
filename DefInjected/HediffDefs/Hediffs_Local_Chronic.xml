@@ -17,85 +17,31 @@
     <Dementia.label>認知症</Dementia.label>
 
     <Alzheimers.label>アルツハイマー病</Alzheimers.label>
-	<rep>
-		<path>Alzheimers.stages[0].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Alzheimers.stages[1].label</path>
-		<trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Alzheimers.stages[2].label</path>
-        <trans>重度</trans>
-	</rep>
-	<rep>
-		<path>Alzheimers.stages[3].label</path>
-        <trans>重度</trans>
-	</rep>
+	<Alzheimers.stages.0.label>軽度</Alzheimers.stages.0.label>
+	<Alzheimers.stages.1.label>軽度</Alzheimers.stages.1.label>
+	<Alzheimers.stages.2.label>重度</Alzheimers.stages.2.label>
+    <Alzheimers.stages.3.label>重度</Alzheimers.stages.3.label>
 
     <Asthma.label>ぜんそく</Asthma.label>
-	<rep>
-		<path>Asthma.stages[0].label</path>
-        <trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Asthma.stages[1].label</path>
-        <trans>重度</trans>
-	</rep>
-	<rep>
-		<path>Asthma.stages[2].label</path>
-        <trans>重度</trans>
-	</rep>
+	<Asthma.stages.0.label>軽度</Asthma.stages.0.label>
+	<Asthma.stages.1.label>重度</Asthma.stages.1.label>
+	<Asthma.stages.2.label>重度</Asthma.stages.2.label>
 
     <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
     <HeartArteryBlockage.labelNoun>心筋梗塞</HeartArteryBlockage.labelNoun>
-	<rep>
-		<path>HeartArteryBlockage.stages[0].label</path>
-        <trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>HeartArteryBlockage.stages[1].label</path>
-        <trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>HeartArteryBlockage.stages[2].label</path>
-        <trans>中度</trans>
-	</rep>
-	<rep>
-		<path>HeartArteryBlockage.stages[3].label</path>
-        <trans>中度</trans>
-	</rep>
-	<rep>
-		<path>HeartArteryBlockage.stages[4].label</path>
-        <trans>重度</trans>
-	</rep>
+	<HeartArteryBlockage.stages.0.label>軽度</HeartArteryBlockage.stages.0.label>
+	<HeartArteryBlockage.stages.1.label>軽度</HeartArteryBlockage.stages.1.label>
+	<HeartArteryBlockage.stages.2.label>中度</HeartArteryBlockage.stages.2.label>
+	<HeartArteryBlockage.stages.3.label>中度</HeartArteryBlockage.stages.3.label>
+    <HeartArteryBlockage.stages.4.label>重度</HeartArteryBlockage.stages.4.label>
 
     <Carcinoma.label>悪性腫瘍</Carcinoma.label>
     <Carcinoma.labelNoun>悪性腫瘍</Carcinoma.labelNoun>
-	<rep>
-		<path>Carcinoma.stages[0].label</path>
-        <trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Carcinoma.stages[1].label</path>
-        <trans>軽度</trans>
-	</rep>
-	<rep>
-		<path>Carcinoma.stages[2].label</path>
-        <trans>中度</trans>
-	</rep>
-	<rep>
-		<path>Carcinoma.stages[3].label</path>
-        <trans>中度</trans>
-	</rep>
-	<rep>
-		<path>Carcinoma.stages[4].label</path>
-        <trans>重度</trans>
-	</rep>
-	<rep>
-		<path>Carcinoma.stages[5].label</path>
-        <trans>重度</trans>
-	</rep>
+	<Carcinoma.stages.0.label>軽度</Carcinoma.stages.0.label>
+	<Carcinoma.stages.1.label>軽度</Carcinoma.stages.1.label>
+	<Carcinoma.stages.2.label>中度</Carcinoma.stages.2.label>
+	<Carcinoma.stages.3.label>中度</Carcinoma.stages.3.label>
+	<Carcinoma.stages.4.label>重度</Carcinoma.stages.4.label>
+	<Carcinoma.stages.5.label>重度</Carcinoma.stages.5.label>
 
 </LanguageData>

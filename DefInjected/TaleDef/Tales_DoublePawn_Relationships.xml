@@ -2,10 +2,10 @@
 <LanguageData>
 
     <!-- BondedWithAnimal -->
-	<BondedWithAnimal.label>bond developed</BondedWithAnimal.label>
+	<BondedWithAnimal.label>絆が生まれる</BondedWithAnimal.label>
 	<BondedWithAnimal.rulePack.rulesStrings>
 		<li>tale_noun->[HUMAN_nameDef]と[ANIMAL_nameDef]間の絆</li>
-		<li>image->[HUMAN_nameFull]は、[circumstance_group] [ANIMAL_nameFull]と絆を結んだ</li>
+		<li>image->[HUMAN_nameFull]は、[circumstance_group] [ANIMAL_nameFull]との間に絆がうまれた</li>
 		<li>image->[HUMAN_nameFull]は、[circumstance_group] [ANIMAL_nameFull]と深い絆を結んだ</li>
 		<li>image->[HUMAN_nameFull]は、[circumstance_group]本当に[HUMAN_possessive]の真実の愛を[ANIMAL_nameFull]と結んだ</li>
 		<li>circumstance_phrase->他の動物たちが見ているなか</li>
@@ -18,7 +18,7 @@
 	</BondedWithAnimal.rulePack.rulesStrings>
 
     <!-- BecameLover -->
-    <BecameLover.label>became lover</BecameLover.label>
+    <BecameLover.label>恋人になる</BecameLover.label>
     <BecameLover.rulePack.rulesStrings>
 	    <li>tale_noun->[PURSUER_nameDef]と[ACCEPTER_nameDef]が恋人になる</li>
 		<li>image->[PURSUER_nameFull]は、[circumstance_group] [ACCEPTER_nameFull]の耳に甘い言葉を囁いた</li>
@@ -38,7 +38,7 @@
     </BecameLover.rulePack.rulesStrings>
 
     <!-- Breakup -->
-    <Breakup.label>breakup</Breakup.label>
+    <Breakup.label>別れ</Breakup.label>
 	<Breakup.rulePack.rulesStrings>
 		<li>tale_noun->[DUMPER_nameFull]と[REJECTED_nameDef]の別れ</li>
 		<li>image->[DUMPER_nameFull]は、[circumstance_group] 嫌な話をするために[REJECTED_nameFull]のそばに腰を下ろす</li>
@@ -57,7 +57,7 @@
 	</Breakup.rulePack.rulesStrings>
 
     <!-- Marriage -->
-    <Marriage.label>marriage</Marriage.label>
+    <Marriage.label>結婚</Marriage.label>
     <Marriage.rulePack.rulesStrings>
 	    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚</li>
 		<li>image->[SPOUSE1_nameFull]は、[circumstance_group] [SPOUSE2_nameFull]と結婚する</li>

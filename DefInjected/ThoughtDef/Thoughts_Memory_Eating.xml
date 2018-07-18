@@ -1,119 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <rep>
-    <path>AteLavishMeal.stages[0].label</path>
-    <trans>贅沢な料理を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteLavishMeal.stages[0].description</path>
-    <trans>驚くような贅沢な食事を食べた。身も心も満たされた。</trans>
-  </rep>
+    <AteLavishMeal.stages.0.label>贅沢な料理を食べた</AteLavishMeal.stages.0.label>
+    <AteLavishMeal.stages.0.description>驚くような贅沢な食事を食べた。身も心も満たされた。</AteLavishMeal.stages.0.description>
+  
+    <AteFineMeal.stages.0.label>おいしい食事を食べた</AteFineMeal.stages.0.label>
+    <AteFineMeal.stages.0.description>本当においしい食事を食べた。おいしかった！。</AteFineMeal.stages.0.description>
+  
+    <AteAwfulMeal.stages.0.label>ひどい食事だった</AteAwfulMeal.stages.0.label>
+    <AteAwfulMeal.stages.0.description>胸が悪くなるような、味も素っ気もない食事を食べなければならなかった。生きるためとはいえ、誰もこんな、まずそうな食べ物を食べたいとは思わない。</AteAwfulMeal.stages.0.description>
+  
+    <AteRawFood.stages.0.label>生肉を食べた</AteRawFood.stages.0.label>
+    <AteRawFood.stages.0.description>生肉を食べなければならなかった。この手の食べ物は口にするまえに調理するべきなんだ。私たちは動物じゃない。</AteRawFood.stages.0.description>
 
-  <rep>
-    <path>AteFineMeal.stages[0].label</path>
-    <trans>おいしい食事を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteFineMeal.stages[0].description</path>
-    <trans>本当においしい食事を食べた。おいしかった！。</trans>
-  </rep>
-
-  <rep>
-    <path>AteAwfulMeal.stages[0].label</path>
-    <trans>ひどい食事だった</trans>
-  </rep>
-  <rep>
-    <path>AteAwfulMeal.stages[0].description</path>
-    <trans>胸が悪くなるような、味も素っ気もない食事を食べなければならなかった。生きるためとはいえ、誰もこんな、まずそうな食べ物を食べたいとは思わない。</trans>
-  </rep>
-
-  <rep>
-    <path>AteRawFood.stages[0].label</path>
-    <trans>生肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteRawFood.stages[0].description</path>
-    <trans>生肉を食べなければならなかった。この手の食べ物は口にするまえに調理するべきなんだ。私たちは動物じゃない。</trans>
-  </rep>
-
-  <AteKibble.stages.0.label>ペットフードを食べた</AteKibble.stages.0.label>
-  <AteKibble.stages.0.description>ペットフードを食べるしかなかった。人として、こんなものを食べるべきじゃないと思う</AteKibble.stages.0.description>
-
-  <rep>
-    <path>AteCorpse.stages[0].label</path>
-    <trans>屍肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteCorpse.stages[0].description</path>
-    <trans>屍肉を、調理せず、切り分けもせず、そのままかぶりつかざるをえなかった。</trans>
-  </rep>
+    <AteKibble.stages.0.label>ペットフードを食べた</AteKibble.stages.0.label>
+    <AteKibble.stages.0.description>ペットフードを食べるしかなかった。人として、こんなものを食べるべきじゃないと思う</AteKibble.stages.0.description>
+  
+    <AteCorpse.stages.0.label>屍肉を食べた</AteCorpse.stages.0.label>
+    <AteCorpse.stages.0.description>屍肉を、調理せず、切り分けもせず、そのままかぶりつかざるをえなかった。</AteCorpse.stages.0.description>
 
 	<!--=========== Special nature thoughts ============-->
-  <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].label</path>
-    <trans>生の人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatDirect.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</trans>
-  </rep>
+  
+    <AteHumanlikeMeatDirect.stages.0.label>生の人肉を食べた</AteHumanlikeMeatDirect.stages.0.label>
+    <AteHumanlikeMeatDirect.stages.0.description>私は人肉を食べた、生で、動物のように…、これは悪夢だ。</AteHumanlikeMeatDirect.stages.0.description>
 
-  <rep>
-    <path>AteHumanlikeMeatDirectCannibal.stages[0].label</path>
-    <trans>好物の生の人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatDirectCannibal.stages[0].description</path>
-    <trans>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</trans>
-  </rep>
+    <AteHumanlikeMeatDirectCannibal.stages.0.label>好物の生の人肉を食べた</AteHumanlikeMeatDirectCannibal.stages.0.label>
+    <AteHumanlikeMeatDirectCannibal.stages.0.description>私は人肉を食べた、生で、動物のように。それは、水っぽかった。</AteHumanlikeMeatDirectCannibal.stages.0.description>
 
-  <rep>
-    <path>AteHumanlikeMeatAsIngredient.stages[0].label</path>
-    <trans>調理された人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatAsIngredient.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。なんて恐ろしい。</trans>
-  </rep>
+    <AteHumanlikeMeatAsIngredient.stages.0.label>調理された人肉を食べた</AteHumanlikeMeatAsIngredient.stages.0.label>
+    <AteHumanlikeMeatAsIngredient.stages.0.description>私は調理された人肉を食べた。なんて恐ろしい。</AteHumanlikeMeatAsIngredient.stages.0.description>
 
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].label</path>
-    <trans>好物の調理された人肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteHumanlikeMeatAsIngredientCannibal.stages[0].description</path>
-    <trans>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</trans>
-  </rep>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>好物の調理された人肉を食べた</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>私は調理された人肉を食べた。ソラマメと良いシャンティが有れば、もっと素晴らしかっただろう。</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
 
-  <rep>
-    <path>AteInsectMeatDirect.stages[0].label</path>
-    <trans>虫をそのまま食べた</trans>
-  </rep>
-  <rep>
-    <path>AteInsectMeatDirect.stages[0].description</path>
-    <trans>灰色でスライムっぽい虫をたべた。ああ、食べられたが、こんな胸が悪くなるようなものを二度と食べたくはない。</trans>
-  </rep>
+    <AteInsectMeatDirect.stages.0.label>虫をそのまま食べた</AteInsectMeatDirect.stages.0.label>
+    <AteInsectMeatDirect.stages.0.description>灰色でスライムっぽい虫をたべた。ああ、食べられたが、こんな胸が悪くなるようなものを二度と食べたくはない。</AteInsectMeatDirect.stages.0.description>
 
-  <rep>
-    <path>AteInsectMeatAsIngredient.stages[0].label</path>
-    <trans>調理された虫を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteInsectMeatAsIngredient.stages[0].description</path>
-    <trans>灰色でスライムっぽい虫を調理したものを食べた。味は、ある程度、調味料がごまかしてくれたが、虫腺か嚢か、私にはわからないものが入っていた。</trans>
-  </rep>
+    <AteInsectMeatAsIngredient.stages.0.label>調理された虫を食べた</AteInsectMeatAsIngredient.stages.0.label>
+    <AteInsectMeatAsIngredient.stages.0.description>灰色でスライムっぽい虫を調理したものを食べた。味は、ある程度、調味料がごまかしてくれたが、虫腺か嚢か、私にはわからないものが入っていた。</AteInsectMeatAsIngredient.stages.0.description>
 
     <!--================== Rotten state thoughts =================-->
-
-  <rep>
-    <path>AteRottenFood.stages[0].label</path>
-    <trans>屍肉を食べた</trans>
-  </rep>
-  <rep>
-    <path>AteRottenFood.stages[0].description</path>
-    <trans>ひどく胸が悪くなるような腐ったものを食べた。それは口のなかで溶けたが、ひとつも良い事はない。</trans>
-  </rep>
-
+  
+    <AteRottenFood.stages.0.label>屍肉を食べた</AteRottenFood.stages.0.label>
+    <AteRottenFood.stages.0.description>ひどく胸が悪くなるような腐ったものを食べた。それは口のなかで溶けたが、ひとつも良い事はない。</AteRottenFood.stages.0.description>
 
 </LanguageData>

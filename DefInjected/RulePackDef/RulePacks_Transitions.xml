@@ -12,12 +12,12 @@
     <Transition_Downed.rulePack.rulesStrings>
 	    <li>r_logentry->[CULPRITHEDIFF_labelNoun]によって[SUBJECT_definite]は[collapsemeta]。</li>
 	    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty]がもとで、[SUBJECT_definite]は[collapsemeta]。</li>
-	
+
 	    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNoun][duetoa][collapsedmeta]。</li>
 	    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][collapsedmeta]</li>
-	
+
 	    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
-	
+
 	    <li>collapse->身体が潰れる</li>
 	    <li>collapse->クシャクシャになる</li>
 	    <li>collapse->バッタリと倒れる</li>
@@ -25,7 +25,7 @@
 	    <li>collapse(subject_flesh==Mechanoid)->故障する</li>
 	    <li>collapse(subject_flesh==Mechanoid)->壊れて同じ動作を繰り返す</li>
 	    <li>collapse(subject_flesh==Mechanoid)->内部機構が閉鎖する</li>
-	
+
 	    <li>collapsed->身体が潰れた </li>
 	    <li>collapsed->クシャクシャになった</li>
 	    <li>collapsed->バッタリと倒れた</li>
@@ -33,14 +33,14 @@
 	    <li>collapsed(subject_flesh==Mechanoid)->故障した</li>
 	    <li>collapsed(subject_flesh==Mechanoid)->壊れて同じ動作を繰り返すようになった</li>
 	    <li>collapsed(subject_flesh==Mechanoid)->内部機構が閉鎖した</li>
-	
+
 	    <li>helplessly->為すすべなく</li>
 	    <li>helplessly(subject_flesh!=Mechanoid)->知らず知らずのうちに</li>
 	    <li>helplessly(subject_flesh!=Mechanoid)->力を使い果たして</li>
 	    <li>helplessly(subject_flesh!=Mechanoid)->弱々しく</li>
 	    <li>helplessly(subject_flesh!=Mechanoid)->力なく</li>
 	    <li>helplessly(subject_flesh==Mechanoid)->手に負えずに</li>
-	
+
 	    <li>collapsemeta->[collapse]</li>
 	    <li>collapsemeta(p=0.5)->[helplessly][collapse]</li>
 	    <li>collapsedmeta->[collapsed]</li>
@@ -51,10 +51,10 @@
     <Transition_DiedInclude.rulePack.rulesStrings>
 	    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun]によって、[SUBJECT_definite]は[die]た.</li>
 	    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty]によって、[SUBJECT_definite]は[die]た.</li>
-	
+
 	    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNoun][duetoa][died][flavorsuffix]。</li>
 	    <li>r_logentry->[SUBJECT_definite]は[CULPRITHEDIFF_labelNounPretty][duetoa][died][flavorsuffix].</li>
-	
+
 	    <li>r_logentry->[SUBJECT_definite]は[died]た。</li>
 	    <li>r_logentry->[SUBJECT_definite]は[died][suffixflavor]。</li>
     </Transition_DiedInclude.rulePack.rulesStrings>
@@ -62,14 +62,14 @@
     <!-- Transition_Died -->
     <Transition_Died.rulePack.rulesStrings>
 	    <li>die(p=2)->死を迎え</li>
-	    <li>die->滅び</li>
+	    <li>die->命が絶え</li>
 	    <li>die->息絶え</li>
 	    <li>die(subject_flesh!=Mechanoid,p=0.5)->[SUBJECT_possessive]の傷に負け</li>
 	    <li>die(subject_flesh==Mechanoid,p=0.5)->シャットダウンし</li>
 	    <li>die(subject_flesh==Mechanoid,p=0.5)->機能停止し</li>
-	    
+
 	    <li>died(p=2)->死を迎え</li>
-	    <li>died->滅び</li>
+	    <li>died->終焉を迎え</li>
 	    <li>died(subject_flesh!=Mechanoid)->息絶え</li>
 	    <li>died(subject_flesh==Mechanoid)->シャットダウンし</li>
 	    <li>died(subject_flesh==Mechanoid)->機能停止し</li>
@@ -83,31 +83,31 @@
 	    <li>die->爆裂し[flavorsuffix]</li>
 	    <li>die->[flavor]はじけ</li>
 	    <li>die->はじけ[flavorsuffix]</li>
-	
+
 	    <li>died(p=3)->[flavor]爆発し</li>
 	    <li>died->[flavor]爆裂し</li>
 	    <li>died->[flavor]はじけ</li>
-	
+
 	    <li>flavor(p=0.2)->化学反応による[fireball]で</li>
 	    <li>flavor->色が[Color]の[fireball]で</li>
 	    <li>flavor->[AdjectiveLarge][fireball]で</li>
 	    <li>flavor(p=4)->[fireball]で</li>
 	    <li>flavor(p=4)-></li>
-	
+
 	    <li>flavorsuffix->て、[everywhere][pieces]を撒き散らした</li>
 	    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->て、[everywhere][Gore]を撒き散らした</li>
 	    <li>flavorsuffix(subject_flesh!=Mechanoid)->て、わずかな[Gore]の山を残した</li>
 	    <li>flavorsuffix->て、小さな爆発痕を残した</li>
 	    <li>flavorsuffix(p=4)-></li>
-	
+
 	    <li>fireball(p=3)->ファイアーボール</li>
 	    <li>fireball->火球</li>
 	    <li>fireball->衝撃波</li>
 	    <li>fireball->火炎旋風</li>
-	
+
 	    <li>pieces->複数のかけら</li>
 	    <li>pieces->複数の断片</li>
-	
+
 	    <li>everywhere->ここ一面に</li>
 	    <li>everywhere->いたるところに</li>
     </Transition_DiedExplosive.rulePack.rulesStrings>

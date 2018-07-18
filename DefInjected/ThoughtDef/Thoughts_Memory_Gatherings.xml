@@ -1,31 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <rep>
-		<path>GotMarried.stages[0].label</path>
-        <trans>{0}と結婚しました</trans>
-	</rep>
-	<rep>
-		<path>GotMarried.stages[0].description</path>
-		<trans>結婚しました!、二人の新しい生活が始まったことが、とても素晴らしい。</trans>
-	</rep>
+    <GotMarried.stages.0.label>{0}と結婚しました</GotMarried.stages.0.label>
+	<GotMarried.stages.0.description>結婚しました!、二人の新しい生活が始まったことが、とても素晴らしい。</GotMarried.stages.0.description>
 
-    <rep>
-		<path>AttendedWedding.stages[0].label</path>
-        <trans>結婚式に参列</trans>
-	</rep>
-	<rep>
-		<path>AttendedWedding.stages[0].description</path>
-		<trans>二人がお互いに未来を作っていこうとしている光景を、目にできたことは素晴らしい。</trans>
-	</rep>
+    <AttendedWedding.stages.0.label>結婚式に参列</AttendedWedding.stages.0.label>
+    <AttendedWedding.stages.0.description>二人がお互いに未来を作っていこうとしている光景を、目にできたことは素晴らしい。</AttendedWedding.stages.0.description>
 
-    <rep>
-		<path>AttendedParty.stages[0].label</path>
-        <trans>パーティに参加</trans>
-	</rep>
-	<rep>
-		<path>AttendedParty.stages[0].description</path>
-		<trans>パーティで良い時間を過ごした。</trans>
-	</rep>
+	<AttendedParty.stages.0.label>パーティに参加</AttendedParty.stages.0.label>
+	<AttendedParty.stages.0.description>パーティで良い時間を過ごした。</AttendedParty.stages.0.description>
 
 </LanguageData>

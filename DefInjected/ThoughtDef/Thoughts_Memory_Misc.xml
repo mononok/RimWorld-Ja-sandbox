@@ -1,243 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <rep>
-    <path>AteWithoutTable.stages[0].label</path>
-    <trans>地面で食事をした</trans>
-  </rep>
-  <rep>
-    <path>AteWithoutTable.stages[0].description</path>
-    <trans>私は地面の上で食事を摂るしかなかった。この辺りにテーブルを置けないかな?</trans>
-  </rep>
+    <AteWithoutTable.stages.0.label>地面で食事をした</AteWithoutTable.stages.0.label>
+    <AteWithoutTable.stages.0.description>私は地面の上で食事を摂るしかなかった。この辺りにテーブルを置けないかな?</AteWithoutTable.stages.0.description>
 
-  <rep>
-    <path>SleepDisturbed.stages[0].label</path>
-    <trans>よく眠れない</trans>
-  </rep>
-  <rep>
-    <path>SleepDisturbed.stages[0].description</path>
-    <trans>人々が私のまわりをウロウロするせいで、 私の睡眠が邪魔された。 個室がこの問題を解決してくれるだろう。</trans>
-  </rep>
+    <SleepDisturbed.stages.0.label>よく眠れない</SleepDisturbed.stages.0.label>
+    <SleepDisturbed.stages.0.description>人々が私のまわりをウロウロするせいで、 私の睡眠が邪魔された。 個室がこの問題を解決してくれるだろう。</SleepDisturbed.stages.0.description>
 
-  <rep>
-    <path>NewColonyOptimism.stages[0].label</path>
-    <trans>新天地</trans>
-  </rep>
-  <rep>
-    <path>NewColonyOptimism.stages[0].description</path>
-    <trans>It's a tough situation, but I'm excited to be founding a new settlement.</trans>
-  </rep>
+    <NewColonyOptimism.stages.0.label>新天地</NewColonyOptimism.stages.0.label>
+    <NewColonyOptimism.stages.0.description>手強い状況だが、あたらしい入植地の基礎を築くことに興奮している。</NewColonyOptimism.stages.0.description>
 
-  <rep>
-    <path>NewColonyHope.stages[0].label</path>
-    <trans>期待と不安</trans>
-  </rep>
-  <rep>
-    <path>NewColonyHope.stages[0].description</path>
-    <trans>私はこの状況に慣れたが、まだ新しい状況に興奮している。これが上手く行くことを望んでいる。</trans>
-  </rep>
+    <NewColonyHope.stages.0.label>期待と不安</NewColonyHope.stages.0.label>
+    <NewColonyHope.stages.0.description>私はこの状況に慣れたが、まだ新しい状況に興奮している。これが上手く行くことを望んでいる。</NewColonyHope.stages.0.description>
+  
+    <SleptOutside.stages.0.label>野宿させられた</SleptOutside.stages.0.label>
+    <SleptOutside.stages.0.description>私は無防備なまま、外で寝るしかなかった。</SleptOutside.stages.0.description>
 
-  <rep>
-    <path>SleptOutside.stages[0].label</path>
-    <trans>野宿させられた</trans>
-  </rep>
-  <rep>
-    <path>SleptOutside.stages[0].description</path>
-    <trans>私は無防備なまま、外で寝るしかなかった。</trans>
-  </rep>
+    <SleptOnGround.stages.0.label>ベッドが恋しい</SleptOnGround.stages.0.label>
+    <SleptOnGround.stages.0.description>私は動物のように、地面で寝るしかなかった。</SleptOnGround.stages.0.description>
 
-  <rep>
-    <path>SleptOnGround.stages[0].label</path>
-    <trans>ベッドが恋しい</trans>
-  </rep>
-  <rep>
-    <path>SleptOnGround.stages[0].description</path>
-    <trans>私は動物のように、地面で寝るしかなかった。</trans>
-  </rep>
+    <SleptInCold.stages.0.label>凍えながら夜を過ごした。</SleptInCold.stages.0.label>
+    <SleptInCold.stages.0.description>私は凍えながら寝るしかなかった。本当に何でもいいから暖房が欲しい。</SleptInCold.stages.0.description>
+  
+    <SleptInHeat.stages.0.label>熱帯夜</SleptInHeat.stages.0.label>
+    <SleptInHeat.stages.0.description>私は熱帯夜の中で寝るしかなかった。エアコンがあってもよくない?</SleptInHeat.stages.0.description>
+  
+    <KnowPrisonerSold.stages.0.label>奴隷売買</KnowPrisonerSold.stages.0.label>
+    <KnowPrisonerSold.stages.0.description>このコロニーでは囚人を奴隷として売っている。よくない事だと思う。</KnowPrisonerSold.stages.0.description>
+  
+    <KnowGuestOrganHarvested.stages.0.label>誰かの臓器を摘出した</KnowGuestOrganHarvested.stages.0.label>
+    <KnowGuestOrganHarvested.stages.0.description>入植者が、犯罪者かゲストから臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</KnowGuestOrganHarvested.stages.0.description>
+  
+    <KnowColonistOrganHarvested.stages.0.label>入植者の臓器を摘出した</KnowColonistOrganHarvested.stages.0.label>
+    <KnowColonistOrganHarvested.stages.0.description>誰かが、入植者から臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</KnowColonistOrganHarvested.stages.0.description>
 
-  <rep>
-    <path>SleptInCold.stages[0].label</path>
-    <trans>凍えながら夜を過ごした。</trans>
-  </rep>
-  <rep>
-    <path>SleptInCold.stages[0].description</path>
-    <trans>私は凍えながら寝るしかなかった。本当に何でもいいから暖房が欲しい。</trans>
-  </rep>
+    <MyOrganHarvested.stages.0.label>私の臓器を摘出した</MyOrganHarvested.stages.0.label>
+    <MyOrganHarvested.stages.0.description>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!</MyOrganHarvested.stages.0.description>
+  
+    <WasImprisoned.stages.0.label>監禁された</WasImprisoned.stages.0.label>
+    <WasImprisoned.stages.0.description>このコロニーは少しの間、私を檻の中の獣のように監禁した。</WasImprisoned.stages.0.description>
+  
+    <Catharsis.stages.0.label>カタルシス</Catharsis.stages.0.label>
+    <Catharsis.stages.0.description>長いトンネルを抜けたように、やっと気持ちがすっきりした。</Catharsis.stages.0.description>
+  
+    <Nuzzled.stages.0.label>擦り寄る</Nuzzled.stages.0.label>
+    <Nuzzled.stages.0.description>かわいい動物が私に擦り寄ってきた。</Nuzzled.stages.0.description>
+  
+    <KnowBuriedInSarcophagus.stages.0.label>石棺に埋葬した</KnowBuriedInSarcophagus.stages.0.label>
+    <KnowBuriedInSarcophagus.stages.0.description>ここでは、このコロニーの誰かを装飾付きの石棺に埋葬していた。彼の魂に安らぎを</KnowBuriedInSarcophagus.stages.0.description>
 
-  <rep>
-    <path>SleptInHeat.stages[0].label</path>
-    <trans>熱帯夜</trans>
-  </rep>
-  <rep>
-    <path>SleptInHeat.stages[0].description</path>
-    <trans>私は熱帯夜の中で寝るしかなかった。エアコンがあってもよくない?</trans>
-  </rep>
-
-  <rep>
-    <path>KnowPrisonerSold.stages[0].label</path>
-    <trans>奴隷売買</trans>
-  </rep>
-  <rep>
-    <path>KnowPrisonerSold.stages[0].description</path>
-    <trans>このコロニーでは囚人を奴隷として売っている。よくない事だと思う。</trans>
-  </rep>
-
-  <rep>
-    <path>KnowGuestOrganHarvested.stages[0].label</path>
-    <trans>誰かの臓器を摘出した</trans>
-  </rep>
-  <rep>
-    <path>KnowGuestOrganHarvested.stages[0].description</path>
-    <trans>入植者が、犯罪者かゲストから臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</trans>
-  </rep>
-
-  <rep>
-    <path>KnowColonistOrganHarvested.stages[0].label</path>
-    <trans>入植者の臓器を摘出した</trans>
-  </rep>
-  <rep>
-    <path>KnowColonistOrganHarvested.stages[0].description</path>
-    <trans>誰かが、入植者から臓器を摘出した。おぞましい。臓器のため解体される彼らに選択肢はない。</trans>
-  </rep>
-
-  <rep>
-    <path>MyOrganHarvested.stages[0].label</path>
-    <trans>私の臓器を摘出した</trans>
-  </rep>
-  <rep>
-    <path>MyOrganHarvested.stages[0].description</path>
-    <trans>入植者は私から臓器を摘出した!、まるで古いエンジンを分解するように!</trans>
-  </rep>
-
-  <rep>
-    <path>WasImprisoned.stages[0].label</path>
-    <trans>監禁された</trans>
-  </rep>
-  <rep>
-    <path>WasImprisoned.stages[0].description</path>
-    <trans>このコロニーは少しの間、私を檻の中の獣のように監禁した。</trans>
-  </rep>
-
-  <rep>
-    <path>Catharsis.stages[0].label</path>
-    <trans>カタルシス</trans>
-  </rep>
-  <rep>
-    <path>Catharsis.stages[0].description</path>
-    <trans>長いトンネルを抜けたように、やっと気持ちがすっきりした。</trans>
-  </rep>
-
-  <rep>
-    <path>Nuzzled.stages[0].label</path>
-    <trans>擦り寄る</trans>
-  </rep>
-  <rep>
-    <path>Nuzzled.stages[0].description</path>
-    <trans>かわいい動物が私に擦り寄ってきた。</trans>
-  </rep>
-
-  <rep>
-    <path>KnowBuriedInSarcophagus.stages[0].label</path>
-    <trans>石棺に埋葬した</trans>
-  </rep>
-  <rep>
-    <path>KnowBuriedInSarcophagus.stages[0].description</path>
-    <trans>ここでは、このコロニーの誰かを装飾付きの石棺に埋葬していた。彼の魂に安らぎを</trans>
-  </rep>
-
-    <SoakingWet.stages.0.label>soaking wet</SoakingWet.stages.0.label>
-    <SoakingWet.stages.0.description>I'm soaking wet.</SoakingWet.stages.0.description>
+    <SoakingWet.stages.0.label>ずぶ濡れ</SoakingWet.stages.0.label>
+    <SoakingWet.stages.0.description>ずぶ濡れになっている。</SoakingWet.stages.0.description>
 
   <!-- ============== Human corpse butchering ===============-->
 
-  <rep>
-    <path>ButcheredHumanlikeCorpse.stages[0].label</path>
-    <trans>私は人肉を捌いた</trans>
-  </rep>
-  <rep>
-    <path>ButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>私は誰かの人肉を動物のように切り捌いた。</trans>
-  </rep>
-
-  <rep>
-    <path>KnowButcheredHumanlikeCorpse.stages[0].label</path>
-    <trans>私らは人肉を捌いた</trans>
-  </rep>
-  <rep>
-    <path>KnowButcheredHumanlikeCorpse.stages[0].description</path>
-    <trans>私らは誰かの人肉を動物のように切り捌いた。</trans>
-  </rep>
-
+    <ButcheredHumanlikeCorpse.stages.0.label>私は人肉を捌いた</ButcheredHumanlikeCorpse.stages.0.label>
+    <ButcheredHumanlikeCorpse.stages.0.description>私は誰かの人肉を動物のように切り捌いた。</ButcheredHumanlikeCorpse.stages.0.description>
+  
+    <KnowButcheredHumanlikeCorpse.stages.0.label>私らは人肉を捌いた</KnowButcheredHumanlikeCorpse.stages.0.label>
+    <KnowButcheredHumanlikeCorpse.stages.0.description>私らは誰かの人肉を動物のように切り捌いた。</KnowButcheredHumanlikeCorpse.stages.0.description>
 
   <!-- ============== Combat ============== -->
 
-  <rep>
-    <path>ObservedLayingCorpse.stages[0].label</path>
-    <trans>死体を見た</trans>
-  </rep>
-  <rep>
-    <path>ObservedLayingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている死体を見て、不安になった。</trans>
-  </rep>
+    <ObservedLayingCorpse.stages.0.label>死体を見た</ObservedLayingCorpse.stages.0.label>
+    <ObservedLayingCorpse.stages.0.description>私は地面の上に転がっている死体を見て、不安になった。</ObservedLayingCorpse.stages.0.description>
 
-  <rep>
-    <path>ObservedLayingRottingCorpse.stages[0].label</path>
-    <trans>腐乱死体を見た</trans>
-  </rep>
-  <rep>
-    <path>ObservedLayingRottingCorpse.stages[0].description</path>
-    <trans>私は地面の上に転がっている腐乱死体を見て、気分が悪くなった。</trans>
-  </rep>
+    <ObservedLayingRottingCorpse.stages.0.label>腐乱死体を見た</ObservedLayingRottingCorpse.stages.0.label>
+    <ObservedLayingRottingCorpse.stages.0.description>私は地面の上に転がっている腐乱死体を見て、気分が悪くなった。</ObservedLayingRottingCorpse.stages.0.description>
+  
+    <WitnessedDeathAlly.stages.0.label>死んでゆく仲間を見た</WitnessedDeathAlly.stages.0.label>
+    <WitnessedDeathAlly.stages.0.description>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間にはもう死んでいた。</WitnessedDeathAlly.stages.0.description>
+  
+    <WitnessedDeathNonAlly.stages.0.label>よそ者が死ぬところを見た</WitnessedDeathNonAlly.stages.0.label>
+    <WitnessedDeathNonAlly.stages.0.description>私は誰かが死ぬのを見た。ちょっと前まで生きていたのに、次の瞬間にはもう死んでいた。</WitnessedDeathNonAlly.stages.0.description>
+  
+    <WitnessedDeathFamily.stages.0.label>家族が死ぬところを見た</WitnessedDeathFamily.stages.0.label>
+    <WitnessedDeathFamily.stages.0.description>私は家族の死ぬ所をみた。私の肉と血が…</WitnessedDeathFamily.stages.0.description>
+  
+    <WitnessedDeathBloodlust.stages.0.label>死の瞬間にたちあえた</WitnessedDeathBloodlust.stages.0.label>
+    <WitnessedDeathBloodlust.stages.0.description>誰かが死ぬ瞬間を見れた、それは非常に強烈だ!</WitnessedDeathBloodlust.stages.0.description>
+  
+    <KilledHumanlikeBloodlust.stages.0.label>人殺し</KilledHumanlikeBloodlust.stages.0.label>
+    <KilledHumanlikeBloodlust.stages.0.description>人をこの手で殺すことが出来た。</KilledHumanlikeBloodlust.stages.0.description>
 
-  <rep>
-    <path>WitnessedDeathAlly.stages[0].label</path>
-    <trans>死んでゆく仲間を見た</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathAlly.stages[0].description</path>
-    <trans>私は仲間の死ぬところを見た。さっきまで一緒に居たのに、次の瞬間にはもう死んでいた。</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathNonAlly.stages[0].label</path>
-    <trans>よそ者が死ぬところを見た</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathNonAlly.stages[0].description</path>
-    <trans>私は誰かが死ぬのを見た。ちょっと前まで生きていたのに、次の瞬間にはもう死んでいた。</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathFamily.stages[0].label</path>
-    <trans>家族が死ぬところを見た</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathFamily.stages[0].description</path>
-    <trans>私は家族の死ぬ所をみた。私の肉と血が…</trans>
-  </rep>
-
-  <rep>
-    <path>WitnessedDeathBloodlust.stages[0].label</path>
-    <trans>死の瞬間にたちあえた</trans>
-  </rep>
-  <rep>
-    <path>WitnessedDeathBloodlust.stages[0].description</path>
-    <trans>誰かが死ぬ瞬間を見れた、それは非常に強烈だ!</trans>
-  </rep>
-
-  <rep>
-    <path>KilledHumanlikeBloodlust.stages[0].label</path>
-    <trans>人殺し</trans>
-  </rep>
-  <rep>
-    <path>KilledHumanlikeBloodlust.stages[0].description</path>
-    <trans>人をこの手で殺すことが出来た。</trans>
-  </rep>
-
-    <DefeatedHostileFactionLeader.stages.0.label>敵性リーダー{0}を打ち負かした</DefeatedHostileFactionLeader.stages.0.label>
+    <DefeatedHostileFactionLeader.stages.0.label>敵性リーダー{0}をやっつけた</DefeatedHostileFactionLeader.stages.0.label>
     <DefeatedHostileFactionLeader.stages.0.description>奴らは我々を滅ぼそうと試みていたが、返り討ちにしてやった!</DefeatedHostileFactionLeader.stages.0.description>
 
-    <DefeatedHostileFactionLeaderOpinion.stages.0.label>defeated hostile leader</DefeatedHostileFactionLeaderOpinion.stages.0.label>
+    <DefeatedHostileFactionLeaderOpinion.stages.0.label>敵のリーダーをやっつけた</DefeatedHostileFactionLeaderOpinion.stages.0.label>
 
     <ColonistBanished.stages.0.label>入植者を見放した</ColonistBanished.stages.0.label>
     <ColonistBanished.stages.0.description>私たちは誰かをこっそりと置き去りにした。うまくいくことを望んでいるが、心配だ。</ColonistBanished.stages.0.description>
@@ -253,12 +102,12 @@
 
     <!-- Rescue quest -->
     <FailedToRescueRelative.stages.0.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.0.label>
-    <FailedToRescueRelative.stages.0.description>We had a chance to rescue my relative, and failed. I could have helped!</FailedToRescueRelative.stages.0.description>
+    <FailedToRescueRelative.stages.0.description>肉親を救えるチャンスだったのに、失敗してしまった。助けれたかもしれないのに!</FailedToRescueRelative.stages.0.description>
 
     <RescuedRelative.stages.0.label>{0}を蘇生した</RescuedRelative.stages.0.label>
-    <RescuedRelative.stages.0.description>We rescued one of my relatives. Finally, I can breathe a sigh of relief.</RescuedRelative.stages.0.description>
+    <RescuedRelative.stages.0.description>肉親の一人を助けた。やっと一息つける。</RescuedRelative.stages.0.description>
 
-    <Rescued.stages.0.label>rescued</Rescued.stages.0.label>
-    <Rescued.stages.0.description>I was rescued! I almost thought I was done for back there. I'm so thankful.</Rescued.stages.0.description>
+    <Rescued.stages.0.label>生き返った</Rescued.stages.0.label>
+    <Rescued.stages.0.description>私は一命を取り留めて、生き返った！ とても感謝している。</Rescued.stages.0.description>
 
 </LanguageData>

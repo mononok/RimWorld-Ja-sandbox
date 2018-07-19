@@ -30,7 +30,7 @@
   <Master>主人</Master>
   <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
   <BondedTo>Bonded to</BondedTo>
-  
+
   <!-- Wildlife tab -->
   <IsPredator>この生物は肉食動物です。腹を空かせていると、小さな生物を狩るでしょう - ことによると、人も含めて</IsPredator>
 
@@ -39,13 +39,13 @@
   <Ally>同盟</Ally>
   <DefeatedLower>敗退</DefeatedLower>
 <HostileTo>{0} と 敵対</HostileTo>
-  <CurrentGoodwillTip>この派閥との、現在の関係状態、誠意.</CurrentGoodwillTip>
+  <CurrentGoodwillTip>現在の、この派閥との関係</CurrentGoodwillTip>
   <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です。彼らは、あなたの本拠地とキャラバン隊を襲うでしょう。どのような理由でも、彼らとの関係性は決して改善することは無いでしょう。</CurrentGoodwillTip_PermanentEnemy>
   <CurrentGoodwillTip_Ally>この派閥とは同盟です。彼らは、あなたを助ける為にできる限りの援軍を送ろうとするでしょう。もし関係性が{0}を下回ると、彼らとは中立的な関係になるでしょう。</CurrentGoodwillTip_Ally>
   <CurrentGoodwillTip_Neutral>この派閥とは中立です。彼らは、あなたと自由に話し、貿易をするでしょう。もし関係性が{0}を下回ると、彼らとは敵対するでしょう。もし関係性が{1}を上回ると、彼らは同盟となって、あなたの為に積極的に力になってくれ始めます。</CurrentGoodwillTip_Neutral>
   <CurrentGoodwillTip_Hostile>この派閥と敵対です。彼らは、あなたの本拠地とキャラバン隊を襲うでしょう。もし関係性が{0}を上回ると、かれらは中立となります。</CurrentGoodwillTip_Hostile>
   <CurrentGoodwillTip_NaturalGoodwill>この派閥は、{0}から{1}の誠意幅を持っています。誠意が{1}を超えると、一日毎に{3}下がっていきます。誠意が{0}を下回ると、一日毎に{2}上がっていきます。</CurrentGoodwillTip_NaturalGoodwill>
-  
+
 
   <!-- Social tab -->
   <Friend>友人</Friend>
@@ -70,7 +70,7 @@
   <ShowLetters>レターを表示</ShowLetters>
   <ShowMessages>メッセージを表示</ShowMessages>
   <PinArchivableTip>
- このメッセージにピンを打つ(ピンを外す)\n\n 
+ このメッセージにピンを打つ(ピンを外す)\n\n
  もっとも古いピンを打っていないメッセージは、メッセージ数{0}の上限に達すると自動的に削除されます。</PinArchivableTip>
   <NoMessages>メッセージはありません</NoMessages>
 

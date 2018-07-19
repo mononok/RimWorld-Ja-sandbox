@@ -1,153 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>Nudist.degreeDatas[0].label</path>
-		<trans>ヌーディスト</trans>
-	</rep>
-	<rep>
-		<path>Nudist.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は裸でいた方が、自由でいられる気がして楽しい気分になれます。[PAWN_pronoun]は服を着ても構いませんが、着ていないほうがより幸せになれます。</trans>
-	</rep>
-
-	<rep>
-		<path>Bloodlust.degreeDatas[0].label</path>
-		<trans>流血嗜好者</trans>
-	</rep>
-	<rep>
-		<path>Bloodlust.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 [PAWN_pronoun]は、人より4倍ほど喧嘩っぱやいです。</trans>
-	</rep>
+    <Nudist.degreeDatas.0.label>ヌーディスト</Nudist.degreeDatas.0.label>
+	<Nudist.degreeDatas.0.description>[PAWN_nameDef]は裸でいた方が、自由でいられる気がして楽しい気分になれます。[PAWN_pronoun]は服を着ても構いませんが、着ていないほうがより幸せになれます。</Nudist.degreeDatas.0.description>
+	
+	<Bloodlust.degreeDatas.0.label>流血嗜好者</Bloodlust.degreeDatas.0.label>
+	<Bloodlust.degreeDatas.0.description>[PAWN_nameDef]は、人々が傷つけあうさまを見ると気分が良くなります。流血や死を目にしても気になりません。 [PAWN_pronoun]は、人より4倍ほど喧嘩っぱやいです。</Bloodlust.degreeDatas.0.description>
 
 	<Kind.degreeDatas.0.label>善人</Kind.degreeDatas.0.label>
 	<Kind.degreeDatas.0.description>[PAWN_nameDef]はイイ人です。[PAWN_pronoun]は、いつも皆の心を明るくさせ、他の人を侮辱することはありません。</Kind.degreeDatas.0.description>
+	
+	<Psychopath.degreeDatas.0.label>サイコパス</Psychopath.degreeDatas.0.label>
+	<Psychopath.degreeDatas.0.description>[PAWN_nameDef]は、人と共感を持ちません。他人の悩みが、[PAWN_objective]を悩ますことは全くありません。他人が殺戮されようが、死体が野ざらしであろうが、奴隷として売られていこうが、 [PAWN_pronoun]は、それが自分の身に及ばなければ気にしません。[PAWN_pronoun]は、他人と会話しても気分は良くなりません。</Psychopath.degreeDatas.0.description>
+	
+	<Cannibal.degreeDatas.0.label>食人嗜好者</Cannibal.degreeDatas.0.label>
+	<Cannibal.degreeDatas.0.description>[PAWN_nameDef]にとって、人肉を食べることは、身の毛もよだつような悪い事だと思っていました。けれども、はるか遠い昔のある日、[PAWN_pronoun]は、それを試してみた事がありました。。。それから、[PAWN_pronoun]は、その行為が好きになったようです。</Cannibal.degreeDatas.0.description>
+	
+	<Abrasive.degreeDatas.0.label>やっかい者</Abrasive.degreeDatas.0.label>
+	<Abrasive.degreeDatas.0.description>[PAWN_nameDef]は、常に気持ちの思うままを口にします、とりわけ、イライラしているときは人々の感情を逆撫でする傾向があります。</Abrasive.degreeDatas.0.description>
+	
+	<TooSmart.degreeDatas.0.label>うぬぼれ屋</TooSmart.degreeDatas.0.label>
+	<TooSmart.degreeDatas.0.description>[PAWN_nameDef]は、[PAWN_possessive]才能以上に 自分自身を利口だと思っています。 [PAWN_pronoun]はなんでも他人より早く覚えますが、 かなりの変わり者です。</TooSmart.degreeDatas.0.description>
+	
+	<Brawler.degreeDatas.0.label>格闘家</Brawler.degreeDatas.0.label>
+	<Brawler.degreeDatas.0.description>[PAWN_nameDef]は、殴り合いが好きです。[PAWN_possessive]格闘での正確さは非常に高くなります。 だから遠距離武器を持たされた時は、とても不機嫌になります。</Brawler.degreeDatas.0.description>
+	
+	<Masochist.degreeDatas.0.label>マゾヒスト</Masochist.degreeDatas.0.label>
+	<Masochist.degreeDatas.0.description>[PAWN_nameDef]は痛めつけられる事で興奮します。[PAWN_pronoun]が何故そうなのか？は知られていないけれども、変人だということは、よく知られています。</Masochist.degreeDatas.0.description>
+    
+    <NightOwl.degreeDatas.0.label>よたか</NightOwl.degreeDatas.0.label>
+    <NightOwl.degreeDatas.0.description>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きていると心情にボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</NightOwl.degreeDatas.0.description>
+    
+    <Greedy.degreeDatas.0.label>欲張り</Greedy.degreeDatas.0.label>
+    <Greedy.degreeDatas.0.description>[PAWN_nameDef]は、豪華な寝室を求めています。[PAWN_pronoun]は、[PAWN_pronoun]の望みの寝室が与えられないと気分が悪くなります。</Greedy.degreeDatas.0.description>
+    
+    <Jealous.degreeDatas.0.label>嫉妬</Jealous.degreeDatas.0.label>
+    <Jealous.degreeDatas.0.description>[PAWN_nameDef]は、他の人より見劣りする寝室を持つと自尊心が傷つきます。 [PAWN_pronoun]は、他の誰よりも寝室が豪華でないと、気分が悪くなります。</Jealous.degreeDatas.0.description>
 
-	<rep>
-		<path>Psychopath.degreeDatas[0].label</path>
-		<trans>サイコパス</trans>
-	</rep>
-	<rep>
-		<path>Psychopath.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、人と共感を持ちません。他人の悩みが、[PAWN_objective]を悩ますことは全くありません。他人が殺戮されようが、死体が野ざらしであろうが、奴隷として売られていこうが、 [PAWN_pronoun]は、それが自分の身に及ばなければ気にしません。[PAWN_pronoun]は、他人と会話しても気分は良くなりません。</trans>
-	</rep>
-
-	<rep>
-		<path>Cannibal.degreeDatas[0].label</path>
-		<trans>食人嗜好者</trans>
-	</rep>
-	<rep>
-		<path>Cannibal.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]にとって、人肉を食べることは、身の毛もよだつような悪い事だと思っていました。けれども、はるか遠い昔のある日、[PAWN_pronoun]は、それを試してみた事がありました。。。それから、[PAWN_pronoun]は、その行為が好きになったようです。</trans>
-	</rep>
-
-	<rep>
-		<path>Abrasive.degreeDatas[0].label</path>
-		<trans>やっかい者</trans>
-	</rep>
-	<rep>
-		<path>Abrasive.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、常に気持ちの思うままを口にします、とりわけ、イライラしているときは人々の感情を逆撫でする傾向があります。</trans>
-	</rep>
-
-	<rep>
-		<path>TooSmart.degreeDatas[0].label</path>
-		<trans>うぬぼれ屋</trans>
-	</rep>
-	<rep>
-		<path>TooSmart.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、[PAWN_possessive]才能以上に 自分自身を利口だと思っています。 [PAWN_pronoun]はなんでも他人より早く覚えますが、 かなりの変わり者です。</trans>
-	</rep>
-
-	<rep>
-		<path>Brawler.degreeDatas[0].label</path>
-		<trans>格闘家</trans>
-	</rep>
-	<rep>
-		<path>Brawler.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、殴り合いが好きです。[PAWN_possessive]格闘での正確さは非常に高くなります。 だから遠距離武器を持たされた時は、とても不機嫌になります。</trans>
-	</rep>
-
-	<rep>
-		<path>Masochist.degreeDatas[0].label</path>
-		<trans>マゾヒスト</trans>
-	</rep>
-	<rep>
-		<path>Masochist.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は痛めつけられる事で興奮します。[PAWN_pronoun]が何故そうなのか？は知られていないけれども、変人だということは、よく知られています。</trans>
-	</rep>
-
-    <rep>
-        <path>NightOwl.degreeDatas[0].label</path>
-        <trans>よたか</trans>
-    </rep>
-    <rep>
-        <path>NightOwl.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は夜起きて、昼寝るのが好きです。\n\n[PAWN_pronoun] は、夜(23時-06時)起きていると心情にボーナスがつきますが、昼(11時-18時)起きているとムードにマイナスがつきます。.\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark.</trans>
-    </rep>
-
-    <rep>
-        <path>Greedy.degreeDatas[0].label</path>
-        <trans>欲張り</trans>
-    </rep>
-    <rep>
-        <path>Greedy.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は、豪華な寝室を求めています。[PAWN_pronoun]は、[PAWN_pronoun]の望みの寝室が与えられないと気分が悪くなります。</trans>
-    </rep>
-
-    <rep>
-        <path>Jealous.degreeDatas[0].label</path>
-        <trans>嫉妬</trans>
-    </rep>
-    <rep>
-        <path>Jealous.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は、他の人より見劣りする寝室を持つと自尊心が傷つきます。 [PAWN_pronoun]は、他の誰よりも寝室が豪華でないと、気分が悪くなります。</trans>
-    </rep>
-
-    <rep>
-        <path>Ascetic.degreeDatas[0].label</path>
-        <trans>禁欲</trans>
-    </rep>
-    <rep>
-        <path>Ascetic.degreeDatas[0].description</path>
-        <trans>[PAWN_nameDef]は 禁欲生活をより好みます。[PAWN_pronoun]の寝室が豪華だったりすると、 [PAWN_pronoun]の 心情にマイナスがつきます。[PAWN_pronoun]は また手の込んだ食事を嫌い、生のまま食べることを好みます。</trans>
-    </rep>
-
-	<rep>
-		<path>Gay.degreeDatas[0].label</path>
-		<trans>同性愛者</trans>
-	</rep>
-	<rep>
-		<path>Gay.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、[PAWN_possessive]同性から 誘惑されることを空想しています。</trans>
-	</rep>
-
-	<rep>
-		<path>AnnoyingVoice.degreeDatas[0].label</path>
-		<trans>気に障る声</trans>
-	</rep>
-	<rep>
-		<path>AnnoyingVoice.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]の声は、とりわけ人をイライラさせる鼻声のよう、[PAWN_pronoun]の、言葉のフレーズは不明瞭で、叫び声のように話しがちです。この事が、[PAWN_objective] 嫌われやすくしています。</trans>
-	</rep>
-
-	<rep>
-		<path>CreepyBreathing.degreeDatas[0].label</path>
-		<trans>気持ち悪い息づかい</trans>
-	</rep>
-	<rep>
-		<path>CreepyBreathing.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]の息づかいは、いつでも激しく、常に汗をかいているので、人々は気持ち悪がっています。</trans>
-	</rep>
-
-	<rep>
-		<path>Pyromaniac.degreeDatas[0].label</path>
-		<trans>放火魔</trans>
-	</rep>
-	<rep>
-		<path>Pyromaniac.degreeDatas[0].description</path>
-		<trans>[PAWN_nameDef]は、火が大好きです。[PAWN_pronoun]は、ちょくちょく火をつけようとしますが、決して消そうとはしません。</trans>
-	</rep>
-
+    <Ascetic.degreeDatas.0.label>禁欲</Ascetic.degreeDatas.0.label>
+    <Ascetic.degreeDatas.0.description>[PAWN_nameDef]は 禁欲生活をより好みます。[PAWN_pronoun]の寝室が豪華だったりすると、 [PAWN_pronoun]の 心情にマイナスがつきます。[PAWN_pronoun]は また手の込んだ食事を嫌い、生のまま食べることを好みます。</Ascetic.degreeDatas.0.description>
+	
+	<Gay.degreeDatas.0.label>同性愛者</Gay.degreeDatas.0.label>
+	<Gay.degreeDatas.0.description>[PAWN_nameDef]は、[PAWN_possessive]同性から 誘惑されることを空想しています。</Gay.degreeDatas.0.description>
+	
+	<AnnoyingVoice.degreeDatas.0.label>気に障る声</AnnoyingVoice.degreeDatas.0.label>
+	<AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef]の声は、とりわけ人をイライラさせる鼻声のよう、[PAWN_pronoun]の、言葉のフレーズは不明瞭で、叫び声のように話しがちです。この事が、[PAWN_objective] 嫌われやすくしています。</AnnoyingVoice.degreeDatas.0.description>
+	
+	<CreepyBreathing.degreeDatas.0.label>気持ち悪い息づかい</CreepyBreathing.degreeDatas.0.label>
+	<CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef]の息づかいは、いつでも激しく、常に汗をかいているので、人々は気持ち悪がっています。</CreepyBreathing.degreeDatas.0.description>
+	
+	<Pyromaniac.degreeDatas.0.label>放火魔</Pyromaniac.degreeDatas.0.label>
+	<Pyromaniac.degreeDatas.0.description>[PAWN_nameDef]は、火が大好きです。[PAWN_pronoun]は、ちょくちょく火をつけようとしますが、決して消そうとはしません。</Pyromaniac.degreeDatas.0.description>
+	
 	<Wimp.degreeDatas.0.label>弱虫</Wimp.degreeDatas.0.label>
 	<Wimp.degreeDatas.0.description>[PAWN_nameDef]は、弱くて臆病です。ちょっとした痛みでさえ、へたってしまいます。</Wimp.degreeDatas.0.description>
 
@@ -182,7 +86,7 @@
     <Gourmand.degreeDatas.0.label>美食家</Gourmand.degreeDatas.0.label>
     <Gourmand.degreeDatas.0.description>[PAWN_nameDef]の人生は食べ物を中心に回っています。[PAWN_pronoun]は飢えやすく、またそうなると直ぐに心情が悪くなり、よく勝手につまみ食いをします。</Gourmand.degreeDatas.0.description>
 
-    <QuickSleeper.degreeDatas.0.label>quick sleeper</QuickSleeper.degreeDatas.0.label>
+    <QuickSleeper.degreeDatas.0.label>どこでも眠れる</QuickSleeper.degreeDatas.0.label>
     <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef]は平均的な人よりは少ない睡眠時間で済みます。[PAWN_pronoun]はベッドでも、地面の上でも、完全に休息がとれます。</QuickSleeper.degreeDatas.0.description>
 
 </LanguageData>

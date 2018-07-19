@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <rep>
-        <path>PrisonCell.stages[0].label</path>
-        <trans>ひどい独居房</trans>
-    </rep>
-    <rep>
-        <path>PrisonCell.stages[0].description</path>
-        <trans>私の独居房はひどい所です。</trans>
-    </rep>
+    <PrisonCell.stages.0.label>ひどい独居房</PrisonCell.stages.0.label>
+    <PrisonCell.stages.0.description>私の独居房はひどい所です。</PrisonCell.stages.0.description>
+    
     <PrisonCell.stages.3.label>悪くない独居房</PrisonCell.stages.3.label>
     <PrisonCell.stages.3.description>私の独居房は、悪くない。</PrisonCell.stages.3.description>
     <PrisonCell.stages.4.label>わずかに豪華な独居房</PrisonCell.stages.4.label>
@@ -24,14 +19,9 @@
     <PrisonCell.stages.9.label>驚愕の豪華な独居房</PrisonCell.stages.9.label>
     <PrisonCell.stages.9.description>私の独居房は、想像しうるなかで一番の部屋で、ずっとここに居たい。</PrisonCell.stages.9.description>
 
-    <rep>
-        <path>PrisonBarracks.stages[0].label</path>
-        <trans>ひどい雑居房</trans>
-    </rep>
-    <rep>
-        <path>PrisonBarracks.stages[0].description</path>
-        <trans>私の雑居房はひどい所です。</trans>
-    </rep>
+    <PrisonBarracks.stages.0.label>ひどい雑居房</PrisonBarracks.stages.0.label>
+    <PrisonBarracks.stages.0.description>私の雑居房はひどい所です。</PrisonBarracks.stages.0.description>
+    
     <PrisonBarracks.stages.1.label>さえない雑居房</PrisonBarracks.stages.1.label>
     <PrisonBarracks.stages.1.description>さえない雑居房に居ます。</PrisonBarracks.stages.1.description>
     <PrisonBarracks.stages.4.label>わずかに豪華な雑居房</PrisonBarracks.stages.4.label>

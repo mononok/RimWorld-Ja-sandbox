@@ -2,17 +2,25 @@
 <LanguageData>
 
 	<Marsh.label>沼</Marsh.label>
+	<Marsh.tools.water.label>水面</Marsh.tools.water.label>
+	<Marsh.tools.mud.label>泥</Marsh.tools.mud.label>
 
 	<WaterDeep.label>海</WaterDeep.label>
+	<WaterDeep.tools.water.label>水面</WaterDeep.tools.water.label>
 
 	<WaterOceanDeep.label>遠洋</WaterOceanDeep.label>
+	<WaterOceanDeep.tools.water.label>水面</WaterOceanDeep.tools.water.label>
 
-	<WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
+	<WaterMovingChestDeep.label>腰ぐらいの小川</WaterMovingChestDeep.label>
+	<WaterMovingChestDeep.tools.water.label>水面</WaterMovingChestDeep.tools.water.label>
 
 	<WaterShallow.label>浅瀬</WaterShallow.label>
+	<WaterShallow.tools.water.label>水面</WaterShallow.tools.water.label>
 
 	<WaterOceanShallow.label>近海</WaterOceanShallow.label>
+	<WaterOceanShallow.tools.water.label>水面</WaterOceanShallow.tools.water.label>
 
 	<WaterMovingShallow.label>沿岸流</WaterMovingShallow.label>
+	<WaterMovingShallow.tools.water.label>水面</WaterMovingShallow.tools.water.label>
 
 </LanguageData>

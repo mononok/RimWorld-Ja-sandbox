@@ -1,41 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>MoodOffsetSanguine.stages[0].label</path>
-		<trans>陽気な性格</trans>
-	</rep>
-	<rep>
-		<path>MoodOffsetSanguine.stages[0].description</path>
-		<trans>陽気な性格がもたらすボーナス</trans>
-	</rep>
-
-	<rep>
-		<path>MoodOffsetOptimist.stages[0].label</path>
-		<trans>楽天家</trans>
-	</rep>
-	<rep>
-		<path>MoodOffsetOptimist.stages[0].description</path>
-		<trans>楽天家の特性がもたらすボーナス</trans>
-	</rep>
-
-	<rep>
-		<path>MoodOffsetPessimist.stages[0].label</path>
-		<trans>悲観主義者</trans>
-	</rep>
-	<rep>
-		<path>MoodOffsetPessimist.stages[0].description</path>
-		<trans>悲観主義な特性がもたらすペナルティ</trans>
-	</rep>
-
-
-	<rep>
-		<path>MoodOffsetDepressive.stages[0].label</path>
-		<trans>抑うつ病者</trans>
-	</rep>
-	<rep>
-		<path>MoodOffsetDepressive.stages[0].description</path>
-		<trans>抑うつ病者の特性がもたらすペナルティ</trans>
-	</rep>
+    <MoodOffsetSanguine.stages.0.label>陽気な性格</MoodOffsetSanguine.stages.0.label>
+    <MoodOffsetSanguine.stages.0.description>陽気な性格がもたらすボーナス</MoodOffsetSanguine.stages.0.description>
+	
+    <MoodOffsetOptimist.stages.0.label>楽天家</MoodOffsetOptimist.stages.0.label>
+	<MoodOffsetOptimist.stages.0.description>楽天家の特性がもたらすボーナス</MoodOffsetOptimist.stages.0.description>
+	
+    <MoodOffsetPessimist.stages.0.label>悲観主義者</MoodOffsetPessimist.stages.0.label>
+	<MoodOffsetPessimist.stages.0.description>悲観主義な特性がもたらすペナルティ</MoodOffsetPessimist.stages.0.description>
+	
+	<MoodOffsetDepressive.stages.0.label>抑うつ病者</MoodOffsetDepressive.stages.0.label>
+	<MoodOffsetDepressive.stages.0.description>抑うつ病者の特性がもたらすペナルティ</MoodOffsetDepressive.stages.0.description>
 
 </LanguageData>

@@ -1,41 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>Imprisoned.stages[0].label</path>
-		<trans>監禁された</trans>
-	</rep>
-	<rep>
-		<path>Imprisoned.stages[0].description</path>
-		<trans>閉じ込められるのは、ごめんだ！</trans>
-	</rep>
-
-	<rep>
-		<path>SharedBed.stages[0].label</path>
-		<trans>ベッドシェア</trans>
-	</rep>
-	<rep>
-		<path>SharedBed.stages[0].description</path>
-		<trans>他の誰かとベッドを共有しなければならないなんて、もう絶対に嫌です。</trans>
-	</rep>
-
-	<rep>
-		<path>ColonistLeftUnburied.stages[0].label</path>
-		<trans>死者には安らぎを</trans>
-	</rep>
-	<rep>
-		<path>ColonistLeftUnburied.stages[0].description</path>
-		<trans>私達の仲間が、死んだまま野ざらしで放置されているけど、誰もこんな事を望んではいないし、ちゃんとした埋葬をして当然だ。</trans>
-	</rep>
-
-	<rep>
-		<path>Naked.stages[0].label</path>
-		<trans>裸</trans>
-	</rep>
-	<rep>
-		<path>Naked.stages[0].description</path>
-		<trans>私は裸。屈辱的だ。</trans>
-	</rep>
+	<Imprisoned.stages.0.label>監禁された</Imprisoned.stages.0.label>
+	<Imprisoned.stages.0.description>閉じ込められるのは、ごめんだ！</Imprisoned.stages.0.description>
+	
+	<SharedBed.stages.0.label>ベッドシェア</SharedBed.stages.0.label>
+	<SharedBed.stages.0.description>他の誰かとベッドを共有しなければならないなんて、もう絶対に嫌です。</SharedBed.stages.0.description>
+	
+	<ColonistLeftUnburied.stages.0.label>死者には安らぎを</ColonistLeftUnburied.stages.0.label>
+	<ColonistLeftUnburied.stages.0.description>私達の仲間が、死んだまま野ざらしで放置されているけど、誰もこんな事を望んではいないし、ちゃんとした埋葬をして当然だ。</ColonistLeftUnburied.stages.0.description>
+	
+	<Naked.stages.0.label>裸</Naked.stages.0.label>
+	<Naked.stages.0.description>私は裸。屈辱的だ。</Naked.stages.0.description>
 
     <Pain.stages.0.label>minor pain</Pain.stages.0.label>
     <Pain.stages.0.description>ん？なにか痛い。</Pain.stages.0.description>

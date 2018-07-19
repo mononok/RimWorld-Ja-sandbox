@@ -1,80 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>Affair.stages[0].label</path>
-		<trans>不倫</trans>
-	</rep>
+    <Affair.stages.0.label>不倫</Affair.stages.0.label>
 
-	<rep>
-    	<path>Incestuous.stages[0].label</path>
-        <trans>近親相姦</trans>
-	</rep>
+    <Incestuous.stages.0.label>近親相姦</Incestuous.stages.0.label>
 
-	<rep>
-    	<path>Disfigured.stages[0].label</path>
-        <trans>欠損者</trans>
-	</rep>
+    <Disfigured.stages.0.label>欠損者</Disfigured.stages.0.label>
 
-	<rep>
-    	<path>HardWorkerVsLazy.stages[0].label</path>
-        <trans>勤勉 vs ぐうたら</trans>
-	</rep>
-
-	<rep>
-    	<path>TeetotalerVsChemicalInterest.stages[0].label</path>
-        <trans>薬物拒絶 vs 薬物乱用</trans>
-	</rep>
+   	<HardWorkerVsLazy.stages.0.label>勤勉 vs ぐうたら</HardWorkerVsLazy.stages.0.label>
 	
+    <TeetotalerVsChemicalInterest.stages.0.label>薬物拒絶 vs 薬物乱用</TeetotalerVsChemicalInterest.stages.0.label>
+
 	<TeetotalerVsAddict.stages.0.label>薬物拒絶 vs 中毒者</TeetotalerVsAddict.stages.0.label>
 
-	<rep>
-    	<path>ChemicalInterestVsTeetotaler.stages[0].label</path>
-        <trans>薬物乱用 vs 薬物拒絶</trans>
-	</rep>
+    <ChemicalInterestVsTeetotaler.stages.0.label>薬物乱用 vs 薬物拒絶</ChemicalInterestVsTeetotaler.stages.0.label>
 
-	<rep>
-    	<path>Drunk.stages[0].label</path>
-        <trans>飲もう</trans>
-	</rep>
+    <Drunk.stages.0.label>飲もう</Drunk.stages.0.label>
 
-	<rep>
-    	<path>Pretty.stages[0].label</path>
-        <trans>かわいい</trans>
-	</rep>
-	<rep>
-    	<path>Pretty.stages[1].label</path>
-        <trans>美しい</trans>
-	</rep>
+    <Pretty.stages.0.label>かわいい</Pretty.stages.0.label>
 
-	<rep>
-    	<path>Ugly.stages[0].label</path>
-        <trans>醜い</trans>
-	</rep>
-	<rep>
-    	<path>Ugly.stages[1].label</path>
-        <trans>ひどく醜い</trans>
-	</rep>
+   	<Pretty.stages.1.label>美しい</Pretty.stages.1.label>
 
-	<rep>
-    	<path>AnnoyingVoice.stages[0].label</path>
-        <trans>気に障る声</trans>
-	</rep>
+    <Ugly.stages.0.label>醜い</Ugly.stages.0.label>
+    <Ugly.stages.1.label>ひどく醜い</Ugly.stages.1.label>
+	
+    <AnnoyingVoice.stages.0.label>気に障る声</AnnoyingVoice.stages.0.label>
+	
+    <CreepyBreathing.stages.0.label>気持ち悪い息づかい</CreepyBreathing.stages.0.label>
+	
+    <Man.stages.0.label>男</Man.stages.0.label>
 
-	<rep>
-    	<path>CreepyBreathing.stages[0].label</path>
-        <trans>気持ち悪い息づかい</trans>
-	</rep>
-
-	<rep>
-    	<path>Man.stages[0].label</path>
-        <trans>男</trans>
-	</rep>
-
-	<rep>
-    	<path>Woman.stages[0].label</path>
-        <trans>女</trans>
-	</rep>
+    <Woman.stages.0.label>女</Woman.stages.0.label>
 
     <TranshumanistAppreciation.stages.0.label>transhumanist appreciation</TranshumanistAppreciation.stages.0.label>
     <TranshumanistAppreciation.stages.1.label>transhumanist appreciation</TranshumanistAppreciation.stages.1.label>
@@ -88,72 +44,30 @@
     <BodyPuristDisgust.stages.3.label>body purist disgust</BodyPuristDisgust.stages.3.label>
     <BodyPuristDisgust.stages.4.label>body purist disgust</BodyPuristDisgust.stages.4.label>
 
-	<rep>
-    	<path>ButcheredHumanlikeCorpseOpinion.stages[0].label</path>
-        <trans>死体解剖</trans>
-	</rep>
+   	<ButcheredHumanlikeCorpseOpinion.stages.0.label>死体解剖</ButcheredHumanlikeCorpseOpinion.stages.0.label>
+	
+    <AteRawHumanlikeMeat.stages.0.label>ヒトの生肉を食べた</AteRawHumanlikeMeat.stages.0.label>
+	
+    <SoldPrisoner.stages.0.label>囚人を奴隷商に売った</SoldPrisoner.stages.0.label>
 
-	<rep>
-    	<path>AteRawHumanlikeMeat.stages[0].label</path>
-        <trans>ヒトの生肉を食べた</trans>
-	</rep>
+   	<ExecutedPrisoner.stages.0.label>囚人を処刑した</ExecutedPrisoner.stages.0.label>
 
-	<rep>
-    	<path>SoldPrisoner.stages[0].label</path>
-        <trans>囚人を奴隷商に売った</trans>
-	</rep>
+   	<KilledColonist.stages.0.label>入植者を殺した</KilledColonist.stages.0.label>
+	
+   	<KilledColonyAnimal.stages.0.label>家畜を殺した</KilledColonyAnimal.stages.0.label>
+	
+    <!-- affecting mood -->
+   	<OpinionOfMyLover.stages.0.label>私の {0} {1} の評価</OpinionOfMyLover.stages.0.label>
 
-	<rep>
-    	<path>ExecutedPrisoner.stages[0].label</path>
-        <trans>囚人を処刑した</trans>
-	</rep>
+    <OpinionOfMyLover.stages.0.description>恋人がいる事で、こんな気にさせます。</OpinionOfMyLover.stages.0.description>
 
-	<rep>
-    	<path>KilledColonist.stages[0].label</path>
-        <trans>入植者を殺した</trans>
-	</rep>
+    <BondedAnimalMaster.stages.0.label>{0}の主人</BondedAnimalMaster.stages.0.label>
+   	<BondedAnimalMaster.stages.0.description>絆で結ばれた動物の存在が、私の気分を良くしてくれる。</BondedAnimalMaster.stages.0.description>
+	
+    <NotBondedAnimalMaster.stages.0.label>{0}の主人になりたい</NotBondedAnimalMaster.stages.0.label>
+   	<NotBondedAnimalMaster.stages.0.description>絆で結ばれている私が、主人になるべきなのに。</NotBondedAnimalMaster.stages.0.description>
 
-	<rep>
-    	<path>KilledColonyAnimal.stages[0].label</path>
-        <trans>家畜を殺した</trans>
-	</rep>
-
-  <!-- affecting mood -->
-
-	<rep>
-    	<path>OpinionOfMyLover.stages[0].label</path>
-        <trans>私の {0} {1} の評価</trans>
-	</rep>
-	<rep>
-    	<path>OpinionOfMyLover.stages[0].description</path>
-        <trans>恋人がいる事で、こんな気にさせます。</trans>
-	</rep>
-
-	<rep>
-    	<path>BondedAnimalMaster.stages[0].label</path>
-        <trans>{0}の主人</trans>
-	</rep>
-	<rep>
-    	<path>BondedAnimalMaster.stages[0].description</path>
-        <trans>絆で結ばれた動物の存在が、私の気分を良くしてくれる。</trans>
-	</rep>
-
-	<rep>
-    	<path>NotBondedAnimalMaster.stages[0].label</path>
-        <trans>{0}の主人になりたい</trans>
-	</rep>
-	<rep>
-    	<path>NotBondedAnimalMaster.stages[0].description</path>
-        <trans>絆で結ばれている私が、主人になるべきなのに。</trans>
-	</rep>
-
-	<rep>
-    	<path>WantToSleepWithSpouseOrLover.stages[0].label</path>
-        <trans>{0} と一緒に眠りたい。</trans>
-	</rep>
-	<rep>
-    	<path>WantToSleepWithSpouseOrLover.stages[0].description</path>
-        <trans>パートナーと分かれて寝るのは嫌です。</trans>
-	</rep>
+   	<WantToSleepWithSpouseOrLover.stages.0.label>{0} と一緒に眠りたい。</WantToSleepWithSpouseOrLover.stages.0.label>
+   	<WantToSleepWithSpouseOrLover.stages.0.description>パートナーと分かれて寝るのは嫌です。</WantToSleepWithSpouseOrLover.stages.0.description>
 
 </LanguageData>

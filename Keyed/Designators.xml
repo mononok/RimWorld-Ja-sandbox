@@ -38,11 +38,11 @@
 <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
 <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
 
-  <DesignatorForbid>Forbid</DesignatorForbid>
-  <DesignatorForbidDesc>Mark items as forbidden. Colonists will not be able to interact with the designated items.</DesignatorForbidDesc>
+  <DesignatorForbid>禁止</DesignatorForbid>
+  <DesignatorForbidDesc>禁止とマークします。入植者は指示されたアイテムに作用することができなくなります。</DesignatorForbidDesc>
 
-  <DesignatorUnforbid>Unforbid</DesignatorUnforbid>
-  <DesignatorUnforbidDesc>Mark items as unforbidden. Colonists will be able to interact with the designated items.</DesignatorUnforbidDesc>
+  <DesignatorUnforbid>許可</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>禁止解除とマークします。入植者は指示されたアイテムに作用することができるようになります</DesignatorUnforbidDesc>
 
   <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し、 床を掃除し、火災を消そうとします。</DesignatorAreaHomeExpandDesc>
@@ -88,8 +88,8 @@
   <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
 
-  <DesignatorRemoveBridge>Remove bridge</DesignatorRemoveBridge>
-  <DesignatorRemoveBridgeDesc>Remove bridges to reveal the terrain underneath.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridge>橋梁解体</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>橋梁を解体して、下の地形を露出させます。</DesignatorRemoveBridgeDesc>
 
   <DesignatorStrip>剥ぐ</DesignatorStrip>
   <DesignatorStripDesc>死体や、けが人から 衣類を剥がします。</DesignatorStripDesc>
@@ -124,7 +124,7 @@
     <SpaceAlreadyOccupied>この場所は すでに ふさがっています。</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>ここの地面は、滑らかにされています。</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
-<MustBeOnMovingWater>The waterwheel must be on moving water.</MustBeOnMovingWater>
+<MustBeOnMovingWater>水車は流水に設置しなければなりません。</MustBeOnMovingWater>
 
 
 <!-- placement of zones -->
@@ -135,7 +135,7 @@
   <!-- desc helpers -->
   <TransmitsPower>送電します。</TransmitsPower>
   <ConstructionNeeded>建設が必要です</ConstructionNeeded>
-<NoColonistWithConstructionSkillTip>None of your {0} have this skill.</NoColonistWithConstructionSkillTip>
-<AllColonistsWithConstructionSkillHaveDisaledConstructingTip>All of your {0} who have this skill are not assigned to {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+<NoColonistWithConstructionSkillTip>このスキルを持っている{0}はひとりもいません。</NoColonistWithConstructionSkillTip>
+<AllColonistsWithConstructionSkillHaveDisaledConstructingTip>このスキルを持っている全{0}が、{1}に割り当てられていません。</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

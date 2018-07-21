@@ -32,9 +32,9 @@
 	    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
 	    <li>narrative_name->[Animal] [BodyPart]</li>
 
-	    <li>storyname(p=50)->[subject]'s [maybe_basic_adjective] [story_result]</li>
-	    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
-	    <li>storyname->[subject]'s [Gore]</li>
+	    <li>storyname(p=50)->[subject]の[maybe_basic_adjective] [story_result]</li>
+	    <li>storyname(p=2)->[subject]の[BodyPart]</li>
+	    <li>storyname->[subject]の[Gore]</li>
 
 	    <li>maybe_basic_adjective-></li>
 	    <li>maybe_basic_adjective(p=0.1)->[basic_adjective]</li>
@@ -45,7 +45,7 @@
 	    <li>subject->[PlaceOutlander]</li>
 
 	    <li>story_result->folly</li>
-	    <li>story_result->vice/li>
+	    <li>story_result->vice</li>
 	    <li>story_result->lunacy</li>
 	    <li>story_result->mistake</li>
 	    <li>story_result->fault</li>
@@ -86,7 +86,7 @@
 
     <!-- NamerMountainRange -->
     <NamerMountainRange.rulePack.rulesStrings>
-	    <li>standardname(p=0.2)->mount [narrative_name]</li>/
+	    <li>standardname(p=0.2)->mount [narrative_name]</li>
 
 	    <li>terrain_word(p=5)->mountains</li>
 	    <li>terrain_word(p=2)->range</li>

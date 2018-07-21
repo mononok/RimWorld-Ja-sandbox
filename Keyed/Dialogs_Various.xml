@@ -137,39 +137,39 @@
     <Suspended>再開する</Suspended>
     <NotSuspended>中止する</NotSuspended>
     <SuspendedAllCaps>最大数を達成</SuspendedAllCaps>
-    <RepeatCount>繰り返し数:</RepeatCount>
+    <RepeatCount>繰り返し回数:</RepeatCount>
     <Forever>常時</Forever>
-	<Details>概略</Details>
-    <IngredientSearchRadius>材料までの距離</IngredientSearchRadius>
-    <CurrentlyHave>所持数</CurrentlyHave>
+    <Details>詳細</Details>
+    <IngredientSearchRadius>原料までの距離</IngredientSearchRadius>
+    <CurrentlyHave>在庫数</CurrentlyHave>
     <CountingProducts>計測</CountingProducts>
     <Infinite>無限に</Infinite>
-    <AllowedSkillRange>{0} スキル範囲:</AllowedSkillRange>
-    <IncompatibleLower>適合しない</IncompatibleLower>
-    <AnyWorker>Any worker</AnyWorker>
+    <AllowedSkillRange>スキル範囲: {0}</AllowedSkillRange>
+    <IncompatibleLower>不適合</IncompatibleLower>
+    <AnyWorker>作業者(誰でも)</AnyWorker>
     <Unlimited>無制限</Unlimited>
 
     <RecipeCannotHaveTargetCount>（このレシピは、 どれだけ 作れるか 分からないので、 実行カウントを 設定 できません。）</RecipeCannotHaveTargetCount>
     <WorkAmount>作業工数</WorkAmount>
     <MinimumSkills>必要スキル：</MinimumSkills>
-    <BillRequires>同一種類 {0}個の{1}が必要</BillRequires>
-    <BillRequiresNutrition>{0}個の栄養が必要</BillRequiresNutrition>
-<BillRequiresMayVary>通知: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-    <ThisIsSmallVolume>これは稀少な材料です。これは'1単位'が、通常の材料の1/{0}に相当します。ですから、同じ材料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
-    <UsableIngredients>材料</UsableIngredients>
+    <BillRequires>{0}個の"{1}"が必要(同一種類)</BillRequires>
+    <BillRequiresNutrition>{0}個の"栄養"が必要</BillRequiresNutrition>
+    <BillRequiresMayVary>通知: ゴールドのような小容量の原料は{0}倍分必要です。</BillRequiresMayVary>
+    <ThisIsSmallVolume>これは稀少な原料です。これは'1単位'が、通常の原料の1/{0}に相当します。ですから、同じ原料を必要とするときは、{0}倍必要となります。</ThisIsSmallVolume>
+    <UsableIngredients>原料</UsableIngredients>
     <BillRepeatTargetCountShort>{0} 回</BillRepeatTargetCountShort>
 
-    <PauseWhenSatisfied>X個以上で一時停止</PauseWhenSatisfied>
-    <UnpauseWhenYouHave>一時停止解除</UnpauseWhenYouHave>
+    <PauseWhenSatisfied>x個以上で一時停止</PauseWhenSatisfied>
+    <UnpauseWhenYouHave>x個以下で停止解除</UnpauseWhenYouHave>
     <Paused>一時停止</Paused>
     <Unpause>停止解除</Unpause>
 
-<IncludeEquipped>Count equipped</IncludeEquipped>
-<IncludeTainted>Count tainted</IncludeTainted>
-<LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
-<IncludeFromAll>Look everywhere</IncludeFromAll>
-<IncludeSpecific>Look in {0}</IncludeSpecific>
-  
+    <IncludeEquipped>装備品も数に含める</IncludeEquipped>
+    <IncludeTainted>汚損品も数に含める</IncludeTainted>
+    <LimitToAllowedStuff>許可された原料のみ</LimitToAllowedStuff>
+    <IncludeFromAll>原料調達先(どこでも)</IncludeFromAll>
+    <IncludeSpecific>原料調達先({0})</IncludeSpecific>
+
     <!-- Info card -->
     <Damage>ダメージ</Damage>
     <ArmorPenetration>アーマー貫通力(AP)</ArmorPenetration>
@@ -230,8 +230,8 @@
     <SurgeryRequireBed>ベッドが必要</SurgeryRequireBed>
     <WorkSpeedStat>作業速度が規制されている</WorkSpeedStat>
     <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
-    <ConstructionSkillRequired>建築スキルが必要</ConstructionSkillRequired>
-    <ConstructionSkillRequiredExplanation>建てるために必要な建築レベル</ConstructionSkillRequiredExplanation>
+    <ConstructionSkillRequired>必要な建築スキルレベル</ConstructionSkillRequired>
+    <ConstructionSkillRequiredExplanation>建てるために必要な建築スキルのレベル</ConstructionSkillRequiredExplanation>
     <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
     <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる頻度の平均です。\n\n「擦り寄り」は多くの動物種に見られる振る舞いで、愛情表現として親しい者に、鼻や口元を押し付けます。大抵の人間は、この可愛いい仕草を微笑み、しばらくこのままでいたいと思っています。</NuzzleIntervalExplanation>
     <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
@@ -262,16 +262,16 @@
     <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう。\n\nもっと健康な交渉人を立てることをお勧めします。</NegotiatorCapacityImpaired>
     <ConfirmTraderShortFunds>トレイダーは、この契約を遂行するのに十分なシルバーを持っていません。それでも続けますか？</ConfirmTraderShortFunds>
     <SortBy>並び替え</SortBy>
-	<TraderTypePrice>交易種別</TraderTypePrice>
-	<Selling>売り</Selling>
-	<Buying>買い</Buying>
-	<ItemSellPriceFactor>売り手 掛け率</ItemSellPriceFactor>
-	<DifficultyLevel>難易度</DifficultyLevel>
-	<PostCurve>最終的な修正曲線</PostCurve>
-	<YourNegotiatorBonus>交渉ボーナス</YourNegotiatorBonus>
-	<TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
-	<minimum>最小値</minimum>
-	<FinalPrice>最終価格</FinalPrice>
+    <TraderTypePrice>交易種別</TraderTypePrice>
+    <Selling>売り</Selling>
+    <Buying>買い</Buying>
+    <ItemSellPriceFactor>売り手 掛け率</ItemSellPriceFactor>
+    <DifficultyLevel>難易度</DifficultyLevel>
+    <PostCurve>最終的な修正曲線</PostCurve>
+    <YourNegotiatorBonus>交渉ボーナス</YourNegotiatorBonus>
+    <TradeWithFactionBaseBonus>派閥ボーナス</TradeWithFactionBaseBonus>
+    <minimum>最小値</minimum>
+    <FinalPrice>最終価格</FinalPrice>
     <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
     <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
 
@@ -293,56 +293,56 @@
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は、ひとりもいません。</CaravanItemIsUnreachableMulti>
     <TooBigCaravanMassUsage>キャラバン隊は、こんな多量は運べません。</TooBigCaravanMassUsage>
     <CaravanMassUsageTooltip>運ぶアイテムと、身につけているアイテムの両方を含んでいます。最大積載量より少ないと移動速度にボーナスが与えられます。</CaravanMassUsageTooltip>
-    <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の気付かれ易さを表します。\n\n敵に見つかってしまう確率への掛率を表しています。\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません。\n\n「目立ちやすさ」の基本値は、キャラバン隊の全ての動物と人間の体格の和をもとにしています。</CaravanVisibilityTip>
-<!-- ここまで 07/10 -->
+    <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の気付かれ易さを表します。\n\n敵に見つかってしまう確率への掛け率を表しています。\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません。\n\n「目立ちやすさ」の基本値は、キャラバン隊の全ての動物と人間の体格の和をもとにしています。</CaravanVisibilityTip>
+    <!-- ここまで 07/10 -->
     <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
     <DaysWorthOfFoodInfoRot>腐敗 in {0}</DaysWorthOfFoodInfoRot>
     <InfiniteDaysWorthOfFoodInfo>期限なし</InfiniteDaysWorthOfFoodInfo>
     <DaysWorthOfFoodTooltip>少なくとも、一人の人間か動物の食料が尽きてしまうまでの、おおよその日数です。種が違えば食性も変わり、他よりも先に食料が尽きる可能性もあります。この値は、道順を選択した後では、より正確に計算されます。\n\n影響する因子:\n - 運ぶ食料種別と数量\n - キャラバン隊員とその食性\n - 食料調達率\n - 牧草の有無\n - 食料の消費期限\n - 高温による腐りやすさ。</DaysWorthOfFoodTooltip>
     <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(最初のウェイポイントまでを考慮にいれる)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
-<DaysWorthOfFoodWarningDialog>キャラバン隊は、{0}日分の食料しか持っていません。すぐに空腹になるでしょう。</DaysWorthOfFoodWarningDialog>
+    <DaysWorthOfFoodWarningDialog>キャラバン隊は、{0}日分の食料しか持っていません。すぐに空腹になるでしょう。</DaysWorthOfFoodWarningDialog>
     <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので、あっという間に飢えが始まります。\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
-<ForagedFoodPerDayTip>一日に食料調達できそうな平均的数量です。この値は気候帯をまたがって移動すれば、気候帯毎に違う調達率があるため変化します。</ForagedFoodPerDayTip>
-<ForagedFoodPerDay>食料調達数/日</ForagedFoodPerDay>
-<CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が、すぐにでも腐敗するでしょう。</CaravanFoodWillRotSoonWarningDialog>
+    <ForagedFoodPerDayTip>一日に食料調達できそうな平均的数量です。この値は気候帯をまたがって移動すれば、気候帯毎に違う調達率があるため変化します。</ForagedFoodPerDayTip>
+    <ForagedFoodPerDay>食料調達数/日</ForagedFoodPerDay>
+    <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が、すぐにでも腐敗するでしょう。</CaravanFoodWillRotSoonWarningDialog>
     <CaravanIncapableOfSocial>キャラバン隊の中に、外交や商取引ができるメンバーがいません。</CaravanIncapableOfSocial>
     <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
-<MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません。</MessageMustChooseRouteFirst>
-<MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません。すくなくても、どこかマップの端が到達可能か確認してください。</MessageNoValidExitTile>
+    <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません。</MessageMustChooseRouteFirst>
+    <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません。すくなくても、どこかマップの端が到達可能か確認してください。</MessageNoValidExitTile>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
     <MarketValueTip>小売価格</MarketValueTip>
-  <DaysUntilRotTip>この地域における平均気温を元にした、このアイテムが腐敗し始めるまでの日数。</DaysUntilRotTip>
-  <ItemNutritionTip>この食料から摂れる栄養素の数です。\n\n参考情報: 成人は {0}栄養素/日 必要とします。</ItemNutritionTip>
-  <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます。放牧は、可能な気候帯と温度範囲でのみ可能です。</AnimalCanGrazeTip>
-  <NutritionForagedPerDayTip>一日に調達できる栄養素数。実際の数値は気候帯の食料調達のしやすさも影響します。\n\n{0}</NutritionForagedPerDayTip>
-  <NutritionEatenPerDayTip>一日に摂取する栄養素数。参考までに、簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
-  <MassCarriedSimple>積載量</MassCarriedSimple>
+    <DaysUntilRotTip>この地域における平均気温を元にした、このアイテムが腐敗し始めるまでの日数。</DaysUntilRotTip>
+    <ItemNutritionTip>この食料から摂れる栄養素の数です。\n\n参考情報: 成人は {0}栄養素/日 必要とします。</ItemNutritionTip>
+    <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます。放牧は、可能な気候帯と温度範囲でのみ可能です。</AnimalCanGrazeTip>
+    <NutritionForagedPerDayTip>一日に調達できる栄養素数。実際の数値は気候帯の食料調達のしやすさも影響します。\n\n{0}</NutritionForagedPerDayTip>
+    <NutritionEatenPerDayTip>一日に摂取する栄養素数。参考までに、簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
+    <MassCarriedSimple>積載量</MassCarriedSimple>
     <MassCapacity>最大積載量</MassCapacity>
     <Mass>重さ</Mass>
     <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
     <InventoryMass>持ち物の重さ</InventoryMass>
-  <CaravanFormationProcessStarted>入植者達は、今アイテムを収集して、このエリアを離れようとしています。</CaravanFormationProcessStarted>
+    <CaravanFormationProcessStarted>入植者達は、今アイテムを収集して、このエリアを離れようとしています。</CaravanFormationProcessStarted>
     <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
     <ColonistsSection>入植者</ColonistsSection>
     <PrisonersSection>囚人</PrisonersSection>
-  <CaptureSection>捕虜</CaptureSection>
+    <CaptureSection>捕虜</CaptureSection>
     <AnimalsSection>動物</AnimalsSection>
-  <ChooseRouteButton>ルート選択</ChooseRouteButton>
+    <ChooseRouteButton>ルート選択</ChooseRouteButton>
     <AbandonButton>放棄</AbandonButton>
-  <CaravanMovementSpeed>移動速度</CaravanMovementSpeed>
-  <TilesPerDay>タイル/日</TilesPerDay>
-  <CaravanMovementSpeedTip>移動速度は、全員(家畜)の平均速度、積載重量、地形の移動しやすさによって決まります。</CaravanMovementSpeedTip>
-  <AnimalsWillBeAbleToGraze>家畜の放牧が可能でしょう。</AnimalsWillBeAbleToGraze>
-  <AnimalsCanGraze>放牧できます。</AnimalsCanGraze>
-  <PossibleToGrazeFor>(for {0} more days)</PossibleToGrazeFor>
-  <PossibleToGrazeForever>(forever)</PossibleToGrazeForever>
-  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
-  <CantGrazeBecauseOfTemp>(too cold for {0} more days)</CantGrazeBecauseOfTemp>
-  <TotalNutrition>Total nutrition</TotalNutrition>
-  <CaravanNotMoving>Not moving</CaravanNotMoving>
-  <ForagedNutritionPerDay>Foraged nutrition per day</ForagedNutritionPerDay>
-  <FactionType>Faction type</FactionType>
-  <TotalBodySize>Total body size</TotalBodySize>
+    <CaravanMovementSpeed>移動速度</CaravanMovementSpeed>
+    <TilesPerDay>タイル/日</TilesPerDay>
+    <CaravanMovementSpeedTip>移動速度は、全員(家畜)の平均速度、積載重量、地形の移動しやすさによって決まります。</CaravanMovementSpeedTip>
+    <AnimalsWillBeAbleToGraze>家畜の放牧が可能か？</AnimalsWillBeAbleToGraze>
+    <AnimalsCanGraze>放牧可能？</AnimalsCanGraze>
+    <PossibleToGrazeFor>({0}日)</PossibleToGrazeFor>
+    <PossibleToGrazeForever>(永久)</PossibleToGrazeForever>
+    <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+    <CantGrazeBecauseOfTemp>({0}日 極寒)</CantGrazeBecauseOfTemp>
+    <TotalNutrition>全栄養素</TotalNutrition>
+    <CaravanNotMoving>Not moving</CaravanNotMoving>
+    <ForagedNutritionPerDay>栄養素調達量/日</ForagedNutritionPerDay>
+    <FactionType>派閥種別</FactionType>
+    <TotalBodySize>体格の合計</TotalBodySize>
 
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
@@ -357,95 +357,99 @@
     <TransporterItemIsUnreachableSingle>{0}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableSingle>
     <TransporterItemIsUnreachableMulti>{0}x {1}と、輸送ポッド間に、道順がありません。</TransporterItemIsUnreachableMulti>
 
-<!-- Comms -->
-<SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
+    <!-- Comms -->
+    <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
 
-  <!--Research-->
-<ResearchFinished>研究が完了した： {0}</ResearchFinished>
-<ResearchScreen>研究メニュー</ResearchScreen>
+    <!--Research-->
+    <ResearchFinished>研究が完了した： {0}</ResearchFinished>
+    <ResearchScreen>研究メニュー</ResearchScreen>
 
-<!--HistoryUpload-->
-<HistoryUploadMessage>ゲームの さらなる バランス改良のため、 RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか？ 同意すれば  {0}日ごとに データを アップロードします。 (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で、 オプションメニューの プライバシーを 変更することが できます。</HistoryUploadMessage>
-<HistoryUploadMessagePlayerName>データは 匿名で アップロードできますし、 名前をつけることも できます。</HistoryUploadMessagePlayerName>
-<HistoryUploadYes>ゲームデータを アップロードする。</HistoryUploadYes>
-<HistoryUploadNo>ゲームデータを アップロード しません。</HistoryUploadNo>
-<HistoryUploadYesOnce>今回は アップロードします。</HistoryUploadYesOnce>
-<HistoryUploadNoOnce>今回は アップロードしません。 後で たずねてください。</HistoryUploadNoOnce>
+    <!--HistoryUpload-->
+    <HistoryUploadMessage>ゲームの さらなる バランス改良のため、 RimWorld サーバに ゲーム情報を アップして 開発支援 しませんか？ 同意すれば  {0}日ごとに データを アップロードします。 (ゲーム終了など ほかの いくつかの 状況も アップロードします) 後で、 オプションメニューの プライバシーを 変更することが できます。</HistoryUploadMessage>
+    <HistoryUploadMessagePlayerName>データは 匿名で アップロードできますし、 名前をつけることも できます。</HistoryUploadMessagePlayerName>
+    <HistoryUploadYes>ゲームデータを アップロードする。</HistoryUploadYes>
+    <HistoryUploadNo>ゲームデータを アップロード しません。</HistoryUploadNo>
+    <HistoryUploadYesOnce>今回は アップロードします。</HistoryUploadYesOnce>
+    <HistoryUploadNoOnce>今回は アップロードしません。 後で たずねてください。</HistoryUploadNoOnce>
 
-  <!-- Outfit management -->
-  <Outfit>服装</Outfit>
-  <SelectOutfit>服装を選択...</SelectOutfit>
-  <NewOutfit>新しい服装</NewOutfit>
-  <DeleteOutfit>服装を削除...</DeleteOutfit>
-  <OutfitInUse>この服装は {0}が使用しています。</OutfitInUse>
-  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
+    <!-- Outfit management -->
+    <Outfit>服装</Outfit>
+    <SelectOutfit>服装を選択...</SelectOutfit>
+    <NewOutfit>新しい服装</NewOutfit>
+    <DeleteOutfit>服装を削除...</DeleteOutfit>
+    <OutfitInUse>この服装は {0}が使用しています。</OutfitInUse>
+    <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
 
-  <!-- Drug policy management -->
-  <DrugPolicy>ドラッグ適用方針</DrugPolicy>
-  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
-  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
-  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
-  <DrugPolicyInUse>適用方針は {0}に適用中です。</DrugPolicyInUse>
-  <SocialDrugs>たしなみ程度</SocialDrugs>
-  <NoDrugs>ドラッグ不使用</NoDrugs>
-  <OneDrinkPerDay>１本/日</OneDrinkPerDay>
-  <Unrestricted>無制限</Unrestricted>
-  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
-  <AddDrug>ドラッグを追加...</AddDrug>
-  <DrugColumnLabel>ドラッグ</DrugColumnLabel>
-  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>使用条件:ムードが以下のとき</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>使用条件:娯楽が以下のとき</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(ドラッグ無し)</NoDrugsBrackets>
-  <EveryDay>毎日</EveryDay>
-  <TimesPerDay>{0}回/日</TimesPerDay>
-  <EveryDays>{0}日毎</EveryDays>
-  <NoDrugUseRequirement>いつでも</NoDrugUseRequirement>
-  <DeleteDrugTooltip>このドラッグを削除する。</DeleteDrugTooltip>
-  <DrugNameColumnDesc>ドラッグの名称です。</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>ドラッグの使用目的です。</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します。</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>彼らのムードレベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>彼らの娯楽レベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき、余分に持ち出すドラッグの量です。予備の持ち出しを禁止すると、毎回、備蓄ゾーンにドラッグを取りにいきます。</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを、中毒患者の要求に従って与えることができます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForAddiction>
-  <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは、快楽は、人つきあいを目的として使用できます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
+    <!-- Drug policy management -->
+    <DrugPolicy>ドラッグ適用方針</DrugPolicy>
+    <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
+    <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
+    <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
+    <DrugPolicyInUse>適用方針は {0}に適用中です。</DrugPolicyInUse>
+    <SocialDrugs>たしなみ程度</SocialDrugs>
+    <NoDrugs>ドラッグ不使用</NoDrugs>
+    <OneDrinkPerDay>１本/日</OneDrinkPerDay>
+    <Unrestricted>無制限</Unrestricted>
+    <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
+    <AddDrug>ドラッグを追加...</AddDrug>
+    <DrugColumnLabel>ドラッグ</DrugColumnLabel>
+    <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
+    <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
+    <MoodThresholdColumnLabel>使用条件:ムードが以下のとき</MoodThresholdColumnLabel>
+    <JoyThresholdColumnLabel>使用条件:娯楽が以下のとき</JoyThresholdColumnLabel>
+    <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
+    <NoDrugsBrackets>(ドラッグ無し)</NoDrugsBrackets>
+    <EveryDay>毎日</EveryDay>
+    <TimesPerDay>{0}回/日</TimesPerDay>
+    <EveryDays>{0}日毎</EveryDays>
+    <NoDrugUseRequirement>いつでも</NoDrugUseRequirement>
+    <DeleteDrugTooltip>このドラッグを削除する。</DeleteDrugTooltip>
+    <DrugNameColumnDesc>ドラッグの名称です。</DrugNameColumnDesc>
+    <DrugUsageColumnDesc>ドラッグの使用目的です。</DrugUsageColumnDesc>
+    <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します。</FrequencyColumnDesc>
+    <MoodThresholdColumnDesc>彼らのムードレベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</MoodThresholdColumnDesc>
+    <JoyThresholdColumnDesc>彼らの娯楽レベルが、このしきい値より低い場合に限り、入植者はドラッグを使おうとします。</JoyThresholdColumnDesc>
+    <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき、余分に持ち出すドラッグの量です。予備の持ち出しを禁止すると、毎回、備蓄ゾーンにドラッグを取りにいきます。</TakeToInventoryColumnDesc>
+    <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを、中毒患者の要求に従って与えることができます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForAddiction>
+    <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは、快楽は、人つきあいを目的として使用できます。\n\nたとえ無効であっても、一部の固有の特性を持ったキャラクター、精神崩壊した者は、どうしても、ドラッグを使うかもしれません。</DrugUsageTipForJoy>
+    <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します。</DrugUsageTipScheduled>
 
-  <!-- Medical settings -->
-  <MedGroupDefaults>初期値</MedGroupDefaults>
-  <MedGroupColonist>入植者</MedGroupColonist>
-  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>中立の派閥</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>敵対する派閥</MedGroupHostileFaction>
+    <!-- Medical settings -->
+    <MedGroupDefaults>初期値</MedGroupDefaults>
+    <MedGroupColonist>入植者</MedGroupColonist>
+    <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
+    <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
+    <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
+    <MedGroupNeutralFaction>中立の派閥</MedGroupNeutralFaction>
+    <MedGroupHostileFaction>敵対する派閥</MedGroupHostileFaction>
 
-  <!-- Growing -->
-  <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
+    <!-- Growing -->
+    <NoGrowerCanPlant>{0}は、種を蒔くのに栽培スキルが {1} 必要です。\n\n誰も、これだけのスキルを持っていないので、この植物を育てられないでしょう。</NoGrowerCanPlant>
 
-  <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>このエリアに、入植者や家畜の一部がまだ居ます。本当に放棄するのですか？\n\n下記の、入植者と家畜が、置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>見捨てられた {0}には、下記のような感情がわき起こるでしょう:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+    <!-- Abandon home -->
+    <ConfirmAbandonHomeWithColonyPawns>このエリアに、入植者や家畜の一部がまだ居ます。本当に放棄するのですか？\n\n下記の、入植者と家畜が、置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+    <ConfirmAbandonHomeNegativeThoughts>見捨てられた {0}には、下記のような感情がわき起こるでしょう:</ConfirmAbandonHomeNegativeThoughts>
+    <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
-  <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
+    <!-- Move caravan and leave prisoners and animals behind -->
+    <ConfirmMoveAutoJoinableCaravan>家畜や囚人はキャラバン隊に加わろうとします。あなたがキャラバン隊を移動させれば、彼らはどこにも行けません。\n\n正常な入植者達無しに、家畜、囚人、意識不明の入植者達が、マップに取り残されると、それを放棄したとみなし、敵によって捕らえられたこととします。\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
 
-  <!-- Abandon pawn -->
-  <ConfirmBanishPawnDialog>ほんとうに {0} を追放しますか?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{0} は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} は次のアイテムを [PAWN_objective]と共に持っていきます:</ConfirmBanishPawnDialog_Items>
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>{0}を追放することで、次の人たちに、このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+    <!-- Abandon pawn -->
+    <ConfirmBanishPawnDialog>本当に{0}を追放しますか?</ConfirmBanishPawnDialog>
+    <ConfirmBanishPawnDialog_LeftToDie>{0}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
+    <ConfirmBanishPawnDialog_Items>{0}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+    <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+    <ConfirmBanishPawnDialog_IndividualThoughts>{0}を追放することで、次の人たちに、このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
-  <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+    <!-- Send transport pods which are not completely loaded -->
+    <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
 
-  <!-- Settle near a faction base -->
-  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
-  
+    <!-- Settle near a faction base -->
+    <ConfirmSettleNearFactionBase>
+
+Since this location is within {0} tiles of another faction base,
+they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\n
+Settle here anyways?</ConfirmSettleNearFactionBase>
+
 </LanguageData>

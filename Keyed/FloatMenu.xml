@@ -167,10 +167,10 @@
     <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
 
     <CannotPrioritizeWorkGiverDisabled>優先できない ({0}しない)</CannotPrioritizeWorkGiverDisabled>
-    <WillNever>{0}しない</WillNever>
+    <WillNever>"{0}" できない</WillNever>
 
-    <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}作業を割り当てていない)</CannotPrioritizeNotAssignedToWorkType>
-    <NotAssigned>割り当てていない</NotAssigned>
+    <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}の割り当て無し)</CannotPrioritizeNotAssignedToWorkType>
+    <NotAssigned>割り当て無し</NotAssigned>
 
     <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
 
@@ -207,7 +207,7 @@
     <GiveGiftViaTransportPods>贈り物として{0}に与える ({1})</GiveGiftViaTransportPods>
 
     <!-- Rescue quest -->
-    <FreePrisoner>Free prisoner</FreePrisoner>
-    <OfferHelp>Offer help</OfferHelp>
-  
+    <FreePrisoner>囚人解放</FreePrisoner>
+    <OfferHelp>救助の申し出</OfferHelp>
+
 </LanguageData>

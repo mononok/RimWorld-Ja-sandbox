@@ -10,30 +10,30 @@
     <BedRestEffectiveness.label>眠りの質</BedRestEffectiveness.label>
     <BedRestEffectiveness.description>ここで寝ることで得られる、時間あたりに得られる睡眠量です。</BedRestEffectiveness.description>
 
-	<TrapMeleeDamage.label>罠のダメージ量</TrapMeleeDamage.label>
-	<TrapMeleeDamage.description>この罠が与える平均的なダメージ量です。実際のダメージは非常に不規則になります。</TrapMeleeDamage.description>
+    <TrapMeleeDamage.label>罠のダメージ量</TrapMeleeDamage.label>
+    <TrapMeleeDamage.description>この罠が与える平均的なダメージ量です。実際のダメージは非常に不規則になります。</TrapMeleeDamage.description>
 
-	<TrapSpringChance.label>発動率</TrapSpringChance.label>
-	<TrapSpringChance.description>罠に気がつかない生き物が通過した時に、罠が発動する確率です。</TrapSpringChance.description>
+    <TrapSpringChance.label>発動率</TrapSpringChance.label>
+    <TrapSpringChance.description>罠に気がつかない生き物が通過した時に、罠が発動する確率です。</TrapSpringChance.description>
 
-	<ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>
-	<ResearchSpeedFactor.description>研究速度への倍率です。</ResearchSpeedFactor.description>
-	<ResearchSpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+    <ResearchSpeedFactor.label>研究速度係数</ResearchSpeedFactor.label>
+    <ResearchSpeedFactor.description>研究速度への倍率です。</ResearchSpeedFactor.description>
+    <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>部屋の清潔度</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
 
-	<MedicalTendQualityOffset.label>治療品質オフセット</MedicalTendQualityOffset.label>
-	<MedicalTendQualityOffset.description>治療品質の傾向を決めるオフセットです。</MedicalTendQualityOffset.description>
+    <MedicalTendQualityOffset.label>治療品質オフセット</MedicalTendQualityOffset.label>
+    <MedicalTendQualityOffset.description>治療品質の傾向を決めるオフセットです。</MedicalTendQualityOffset.description>
 
-	<ImmunityGainSpeedFactor.label>免疫獲得速度係数</ImmunityGainSpeedFactor.label>
-	<ImmunityGainSpeedFactor.description>免疫を獲得する速度に掛ける倍率です。</ImmunityGainSpeedFactor.description>
+    <ImmunityGainSpeedFactor.label>免疫獲得速度係数</ImmunityGainSpeedFactor.label>
+    <ImmunityGainSpeedFactor.description>免疫を獲得する速度に掛ける倍率です。</ImmunityGainSpeedFactor.description>
 
-	<WorkTableWorkSpeedFactor.label>工作台速度係数</WorkTableWorkSpeedFactor.label>
-	<WorkTableWorkSpeedFactor.description>工作速度に掛ける倍率です。</WorkTableWorkSpeedFactor.description>
+    <WorkTableWorkSpeedFactor.label>工作台速度係数</WorkTableWorkSpeedFactor.label>
+    <WorkTableWorkSpeedFactor.description>工作速度に掛ける倍率です。</WorkTableWorkSpeedFactor.description>
 
-	<WorkTableEfficiencyFactor.label>作業効率要因</WorkTableEfficiencyFactor.label>
-	<WorkTableEfficiencyFactor.description>作業効率に掛ける倍率です。</WorkTableEfficiencyFactor.description>
+    <WorkTableEfficiencyFactor.label>作業効率要因</WorkTableEfficiencyFactor.label>
+    <WorkTableEfficiencyFactor.description>作業効率に掛ける倍率です。</WorkTableEfficiencyFactor.description>
 
-	<JoyGainFactor.label>娯楽係数</JoyGainFactor.label>
-	<JoyGainFactor.description>人々への楽しみとしての有効さと、娯楽への欲求に満足させるかです。</JoyGainFactor.description>
+    <JoyGainFactor.label>娯楽係数</JoyGainFactor.label>
+    <JoyGainFactor.description>人々への楽しみとしての有効さと、娯楽への欲求に満足させるかです。</JoyGainFactor.description>
 
     <SurgerySuccessChanceFactor.label>外科手術成功率</SurgerySuccessChanceFactor.label>
     <SurgerySuccessChanceFactor.description>この部屋で手術を行ったときの手術成功率への掛け率です。手術成功率は他の要因の影響も受けます、医師の能力、薬剤の投与など</SurgerySuccessChanceFactor.description>

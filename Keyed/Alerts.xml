@@ -65,7 +65,7 @@
     <NeedJoySourceDesc>{1}には{0}種類の娯楽があります、ですが現在の満足度は{2}で、入力者達が、このままの満足度を保つには{3}種類の娯楽を必要としています。新しいタイプの娯楽を提供します。\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます。</NeedJoySourceDesc>
     <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
     <MissingRecreationTypes>足りない娯楽種別</MissingRecreationTypes>
-    <CurrentExpectationsAndRecreation>現満足度({0})、{1}回/日起きると飽きてきます。{2}種類の娯楽を推奨します。</CurrentExpectationsAndRecreation>
+    <CurrentExpectationsAndRecreation>現満足度({0}) {1}/日 発生する毎に飽きてきます。{2}種類の娯楽を推奨します。</CurrentExpectationsAndRecreation>
     <bored>飽きた</bored>
 
     <Boredom>退屈</Boredom>

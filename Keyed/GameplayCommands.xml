@@ -195,11 +195,11 @@
     <!-- Remove from caravan -->
     <CommandRemoveFromCaravan>キャラバン隊から外す</CommandRemoveFromCaravan>
     <CommandRemoveFromCaravanDesc>この人・動物をキャラバン隊から外します。</CommandRemoveFromCaravanDesc>
-  
+
     <!-- Add to caravan -->
     <CommandAddToCaravan>キャラバン隊に入れる</CommandAddToCaravan>
     <CommandAddToCaravanDesc>この人・動物をキャラバン隊に入れます。</CommandAddToCaravanDesc>
-  
+
     <!-- Show map -->
     <CommandShowMap>ズームイン</CommandShowMap>
     <CommandShowMapDesc>このエリアを拡大表示する。</CommandShowMapDesc>
@@ -267,8 +267,8 @@
 
     <!-- Pause caravan -->
     <CommandPauseCaravan>休息</CommandPauseCaravan>
-    <CommandToggleCaravanPauseDesc>しばらくキャラバンを止めます。これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます。\n- 食料調達が{0}倍早くなります。\n- 気付かれやすさが {1}倍になります。\n- 病気の隊員はベッドロールで休めます。</CommandToggleCaravanPauseDesc>
-  
+    <CommandToggleCaravanPauseDesc>しばらくキャラバンを止めます。これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます。\n- 食料調達が{0}倍早くなります。\n- 目立ちやすさが {1}になります。\n- 病気の隊員はベッドロールで休めます。</CommandToggleCaravanPauseDesc>
+
     <!-- Show sellable items -->
     <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>
     <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せます。</CommandShowSellableItemsDesc>

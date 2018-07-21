@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
-	<Blueprint_Install_OrbitalTradeBeacon.label>貿易用 ビーコン(移動先)</Blueprint_Install_OrbitalTradeBeacon.label>
-	<OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを orbital traderに売却できます。室内でも利用可能です。</OrbitalTradeBeacon.description>
-	<Blueprint_OrbitalTradeBeacon.label>貿易用 ビーコン(設計)</Blueprint_OrbitalTradeBeacon.label>
-	<Frame_OrbitalTradeBeacon.label>貿易用 ビーコン(施工)</Frame_OrbitalTradeBeacon.label>
-	<Frame_OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを売却できます。室内でも利用可能です。</Frame_OrbitalTradeBeacon.description>
+    <OrbitalTradeBeacon.label>貿易用 ビーコン</OrbitalTradeBeacon.label>
+    <Blueprint_Install_OrbitalTradeBeacon.label>貿易用 ビーコン(移動先)</Blueprint_Install_OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを orbital traderに売却できます。室内でも利用可能です。</OrbitalTradeBeacon.description>
+    <Blueprint_OrbitalTradeBeacon.label>貿易用 ビーコン(設計)</Blueprint_OrbitalTradeBeacon.label>
+    <Frame_OrbitalTradeBeacon.label>貿易用 ビーコン(施工)</Frame_OrbitalTradeBeacon.label>
+    <Frame_OrbitalTradeBeacon.description>惑星軌道上の商船との貿易に必要です。ビーコンの周りに配置したアイテムを売却できます。室内でも利用可能です。</Frame_OrbitalTradeBeacon.description>
 
-	<CommsConsole.label>通信機</CommsConsole.label>
+    <CommsConsole.label>通信機</CommsConsole.label>
     <CommsConsole.description>軌道上にいる船や、 他の派閥と、貿易や交渉を行うために必要な通信機です。</CommsConsole.description>
-	<Blueprint_CommsConsole.label>通信機(設計)</Blueprint_CommsConsole.label>
-	<Frame_CommsConsole.label>通信機(施工)</Frame_CommsConsole.label>
+    <Blueprint_CommsConsole.label>通信機(設計)</Blueprint_CommsConsole.label>
+    <Frame_CommsConsole.label>通信機(施工)</Frame_CommsConsole.label>
     <Frame_CommsConsole.description>軌道上にいる船や、 他の派閥と、貿易や交渉を行うために必要な通信機です。</Frame_CommsConsole.description>
 
     <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
@@ -20,25 +20,25 @@
     <Frame_GroundPenetratingScanner.label>地殻深部スキャナー(施工)</Frame_GroundPenetratingScanner.label>
     <Frame_GroundPenetratingScanner.description>ソナーと磁気映像装置を組み合わせた、下向きのレーダーで、地面より深いところに埋蔵されている鉱物を探知することができます(種類までは判別不能)。稼働させるには大量の電力を必要とします。</Frame_GroundPenetratingScanner.description>
 
-	<FirefoamPopper.label>泡消火器</FirefoamPopper.label>
-	<Blueprint_Install_FirefoamPopper.label>泡消火器(移動先)</Blueprint_Install_FirefoamPopper.label>
-	<FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</FirefoamPopper.description>
-	<FirefoamPopper.comps.1.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.1.useLabel>
-	<Blueprint_FirefoamPopper.label>泡消火器(設計)</Blueprint_FirefoamPopper.label>
-	<Frame_FirefoamPopper.label>泡消火器(施工)</Frame_FirefoamPopper.label>
-	<Frame_FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</Frame_FirefoamPopper.description>
+    <FirefoamPopper.label>泡消火器</FirefoamPopper.label>
+    <Blueprint_Install_FirefoamPopper.label>泡消火器(移動先)</Blueprint_Install_FirefoamPopper.label>
+    <FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</FirefoamPopper.description>
+    <FirefoamPopper.comps.1.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.1.useLabel>
+    <Blueprint_FirefoamPopper.label>泡消火器(設計)</Blueprint_FirefoamPopper.label>
+    <Frame_FirefoamPopper.label>泡消火器(施工)</Frame_FirefoamPopper.label>
+    <Frame_FirefoamPopper.description>火災を検知した時、この安全装置が起動し泡消火剤を、機器を中心にして円状にまき散らします。手動でも操作できます。</Frame_FirefoamPopper.description>
 
-	<MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
-	<MoisturePump.description>非常にゆっくりと水分量を正常化し、沼地や浅瀬を乾いた土地に転換します、ソフトサンドをノーマルサンドにします。海には効果がありません。</MoisturePump.description>
-	<Blueprint_MoisturePump.label>土壌改良ポンプ(設計)</Blueprint_MoisturePump.label>
-	<Frame_MoisturePump.label>土壌改良ポンプ(施工)</Frame_MoisturePump.label>
-	<Frame_MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や浅瀬を乾いた土地に転換します。深い海には対応しません。</Frame_MoisturePump.description>
+    <MoisturePump.label>土壌改良ポンプ</MoisturePump.label>
+    <MoisturePump.description>非常にゆっくりと水分量を正常化し、沼地や浅瀬を乾いた土地に転換します、ソフトサンドをノーマルサンドにします。海には効果がありません。</MoisturePump.description>
+    <Blueprint_MoisturePump.label>土壌改良ポンプ(設計)</Blueprint_MoisturePump.label>
+    <Frame_MoisturePump.label>土壌改良ポンプ(施工)</Frame_MoisturePump.label>
+    <Frame_MoisturePump.description>非常にゆっくりと、近くの地形から水分を取り除いて、沼地や浅瀬を乾いた土地に転換します。深い海には対応しません。</Frame_MoisturePump.description>
 
     <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
-	<LongRangeMineralScanner.description>惑星上にある、金やヒスイなどの希少鉱物を自動で探知します。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner.description>
+    <LongRangeMineralScanner.description>惑星上にある、金やヒスイなどの希少鉱物を自動で探知します。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</LongRangeMineralScanner.description>
     <Blueprint_LongRangeMineralScanner.label>長距離鉱物探査スキャナー(設計)</Blueprint_LongRangeMineralScanner.label>
     <Frame_LongRangeMineralScanner.label>長距離鉱物探査スキャナー(施行)</Frame_LongRangeMineralScanner.label>
-	<Frame_LongRangeMineralScanner.description>近隣エリアにある、金やヒスイなどの希少鉱物を自動で探知する、長距離鉱物探査スキャナーです(但し、まだスキャナーが出来た訳ではありません)。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</Frame_LongRangeMineralScanner.description>
+    <Frame_LongRangeMineralScanner.description>近隣エリアにある、金やヒスイなどの希少鉱物を自動で探知する、長距離鉱物探査スキャナーです(但し、まだスキャナーが出来た訳ではありません)。岩塊は、平均して30日に、半径30タイルの円の内部に見つかります。すぐそばなど、近いエリアに複数のスキャナーを建てても、あまり効果はあがりません。</Frame_LongRangeMineralScanner.description>
 
     <PodLauncher.label>ポッドランチャー</PodLauncher.label>
     <PodLauncher.description>一機の輸送ポッドを射出するための燃料を使用した射出機です。ポッドランチャーは複数機まとめてグループとして射出することもできます - この場合、ランチャーはお互いに隣接して配置しなければなりません。</PodLauncher.description>
@@ -52,63 +52,63 @@
     <Frame_TransportPod.label>輸送ポッド(施工)</Frame_TransportPod.label>
     <Frame_TransportPod.description>人や、動物、アイテムを乗せて運べる、打ち上げ可能な大気圏外輸送カーゴポッドです。物資の輸送、大気圏外からの奇襲降下や、増援などを行うことができます。</Frame_TransportPod.description>
 
-  <!--========================== Facilities ============================-->
-	<MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
-	<Blueprint_Install_MultiAnalyzer.label>マルチ アナライザ(移動先)</Blueprint_Install_MultiAnalyzer.label>
-	<MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置してから、新しく研究をアンロックすると機能します。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</MultiAnalyzer.description>
-	<Blueprint_MultiAnalyzer.label>マルチ アナライザ(設計)</Blueprint_MultiAnalyzer.label>
-	<Frame_MultiAnalyzer.label>マルチ アナライザ(施工)</Frame_MultiAnalyzer.label>
-	<Frame_MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置する必要があります。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</Frame_MultiAnalyzer.description>
+    <!--========================== Facilities ============================-->
+    <MultiAnalyzer.label>マルチ アナライザ</MultiAnalyzer.label>
+    <Blueprint_Install_MultiAnalyzer.label>マルチ アナライザ(移動先)</Blueprint_Install_MultiAnalyzer.label>
+    <MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置してから、新しく研究をアンロックすると機能します。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</MultiAnalyzer.description>
+    <Blueprint_MultiAnalyzer.label>マルチ アナライザ(設計)</Blueprint_MultiAnalyzer.label>
+    <Frame_MultiAnalyzer.label>マルチ アナライザ(施工)</Frame_MultiAnalyzer.label>
+    <Frame_MultiAnalyzer.description>研究速度が上がります、研究設備のそばに配置する必要があります。一つの研究設備は、一つのマルチ・アナライザとだけ接続できます。</Frame_MultiAnalyzer.description>
 
-	<VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
-	<Blueprint_Install_VitalsMonitor.label>バイタル モニター(移動先)</Blueprint_Install_VitalsMonitor.label>
-	<VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</VitalsMonitor.description>
-	<Blueprint_VitalsMonitor.label>バイタル モニター(設計)</Blueprint_VitalsMonitor.label>
-	<Frame_VitalsMonitor.label>バイタル モニター(施工)</Frame_VitalsMonitor.label>
-	<Frame_VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</Frame_VitalsMonitor.description>
+    <VitalsMonitor.label>バイタル モニター</VitalsMonitor.label>
+    <Blueprint_Install_VitalsMonitor.label>バイタル モニター(移動先)</Blueprint_Install_VitalsMonitor.label>
+    <VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</VitalsMonitor.description>
+    <Blueprint_VitalsMonitor.label>バイタル モニター(設計)</Blueprint_VitalsMonitor.label>
+    <Frame_VitalsMonitor.label>バイタル モニター(施工)</Frame_VitalsMonitor.label>
+    <Frame_VitalsMonitor.description>病院用ベッドのそばに配置すると、医療看護品質、手術成功率、免疫獲得速度が上がります。病院用ベッドのみ作用します - 通常のベッドには恩恵はありません。一つのベッドに複数のバイタルモニターを付けても効果はありません。</Frame_VitalsMonitor.description>
 
-	<ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
-	<Blueprint_Install_ToolCabinet.label>ツール キャビネット(移動先)</Blueprint_Install_ToolCabinet.label>
-	<ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</ToolCabinet.description>
-	<Blueprint_ToolCabinet.label>ツール キャビネット(設計)</Blueprint_ToolCabinet.label>
-	<Frame_ToolCabinet.label>ツール キャビネット(施工)</Frame_ToolCabinet.label>
-	<Frame_ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、一つのツールキャビネットとだけ接続できます。</Frame_ToolCabinet.description>
+    <ToolCabinet.label>ツール キャビネット</ToolCabinet.label>
+    <Blueprint_Install_ToolCabinet.label>ツール キャビネット(移動先)</Blueprint_Install_ToolCabinet.label>
+    <ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、二つのツールキャビネットとだけ接続できます。</ToolCabinet.description>
+    <Blueprint_ToolCabinet.label>ツール キャビネット(設計)</Blueprint_ToolCabinet.label>
+    <Frame_ToolCabinet.label>ツール キャビネット(施工)</Frame_ToolCabinet.label>
+    <Frame_ToolCabinet.description>作業速度が上がります、工作台のそばに配置する必要があります。一つの工作台は、二つのツールキャビネットとだけ接続できます。</Frame_ToolCabinet.description>
 
-  <!--=========================== Graves ============================-->
-	<Grave.label>墓</Grave.label>
+    <!--=========================== Graves ============================-->
+    <Grave.label>墓</Grave.label>
     <Grave.description>死者に安らかな眠りを与える場所です。Colonists will visit full graves to gain meditative joy.</Grave.description>
-	<Blueprint_Grave.label>墓(設計)</Blueprint_Grave.label>
-	<Frame_Grave.label>墓(施工)</Frame_Grave.label>
+    <Blueprint_Grave.label>墓(設計)</Blueprint_Grave.label>
+    <Frame_Grave.label>墓(施工)</Frame_Grave.label>
     <Frame_Grave.description>死者に安らかな眠りを与える場所です。</Frame_Grave.description>
 
-	<Sarcophagus.label>石棺</Sarcophagus.label>
-	<Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Sarcophagus.description>
-	<Blueprint_Sarcophagus.label>石棺(設計)</Blueprint_Sarcophagus.label>
-	<Frame_Sarcophagus.label>石棺(施工)</Frame_Sarcophagus.label>
-	<Frame_Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Frame_Sarcophagus.description>
+    <Sarcophagus.label>石棺</Sarcophagus.label>
+    <Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Sarcophagus.description>
+    <Blueprint_Sarcophagus.label>石棺(設計)</Blueprint_Sarcophagus.label>
+    <Frame_Sarcophagus.label>石棺(施工)</Frame_Sarcophagus.label>
+    <Frame_Sarcophagus.description>名誉ある死者を埋葬する為の、装飾を施した棺です。</Frame_Sarcophagus.description>
 
-  <!--======================= Cryptosleep caskets ===========================-->
-  <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
-  <CryptosleepCasket.description>自家発電式の石棺は、人を何年間も仮死状態のままで保つために設計されました。</CryptosleepCasket.description>
-  <Blueprint_CryptosleepCasket.label>冬眠カプセル(設計)</Blueprint_CryptosleepCasket.label>
-  <Frame_CryptosleepCasket.label>冬眠カプセル(施工)</Frame_CryptosleepCasket.label>
-  <Frame_CryptosleepCasket.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</Frame_CryptosleepCasket.description>
+    <!--======================= Cryptosleep caskets ===========================-->
+    <CryptosleepCasket.label>冬眠カプセル </CryptosleepCasket.label>
+    <CryptosleepCasket.description>自家発電式の石棺は、人を何年間も仮死状態のままで保つために設計されました。</CryptosleepCasket.description>
+    <Blueprint_CryptosleepCasket.label>冬眠カプセル(設計)</Blueprint_CryptosleepCasket.label>
+    <Frame_CryptosleepCasket.label>冬眠カプセル(施工)</Frame_CryptosleepCasket.label>
+    <Frame_CryptosleepCasket.description>人を仮死状態にして、長い期間を疑似冬眠で過ごせる機械です。</Frame_CryptosleepCasket.description>
 
-  <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
-  <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです。中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
+    <AncientCryptosleepCasket.label>古代の冬眠カプセル</AncientCryptosleepCasket.label>
+    <AncientCryptosleepCasket.description>遙か昔に作られた冬眠カプセルのようです。中には誰か入っているのでしょうか？</AncientCryptosleepCasket.description>
 
-  <!--============================ Spots =============================-->
-	<MarriageSpot.label>結婚を誓う場</MarriageSpot.label>
-	<MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</MarriageSpot.description>
-	<Blueprint_MarriageSpot.label>結婚を誓う場(設計)</Blueprint_MarriageSpot.label>
-	<Frame_MarriageSpot.label>結婚を誓う場(施工)</Frame_MarriageSpot.label>
-	<Frame_MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</Frame_MarriageSpot.description>
+    <!--============================ Spots =============================-->
+    <MarriageSpot.label>結婚を誓う場</MarriageSpot.label>
+    <MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</MarriageSpot.description>
+    <Blueprint_MarriageSpot.label>結婚を誓う場(設計)</Blueprint_MarriageSpot.label>
+    <Frame_MarriageSpot.label>結婚を誓う場(施工)</Frame_MarriageSpot.label>
+    <Frame_MarriageSpot.description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。</Frame_MarriageSpot.description>
 
-	<PartySpot.label>パーティ スポット</PartySpot.label>
-	<PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</PartySpot.description>
-	<Blueprint_PartySpot.label>パーティ スポット(設計)</Blueprint_PartySpot.label>
-	<Frame_PartySpot.label>パーティ スポット(施工)</Frame_PartySpot.label>
-	<Frame_PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</Frame_PartySpot.description>
+    <PartySpot.label>パーティ スポット</PartySpot.label>
+    <PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</PartySpot.description>
+    <Blueprint_PartySpot.label>パーティ スポット(設計)</Blueprint_PartySpot.label>
+    <Frame_PartySpot.label>パーティ スポット(施工)</Frame_PartySpot.label>
+    <Frame_PartySpot.description>パーティを開催する場所を指定します。ここを中心にパーティが行われます。</Frame_PartySpot.description>
 
     <CaravanPackingSpot.label>キャラバン隊物流拠点</CaravanPackingSpot.label>
     <CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します。備蓄庫のそばに置くと荷積み作業がスピードアップします。</CaravanPackingSpot.description>
@@ -116,93 +116,93 @@
     <Frame_CaravanPackingSpot.label>キャラバン隊物流拠点(施行)</Frame_CaravanPackingSpot.label>
     <Frame_CaravanPackingSpot.description>キャラバン隊を編成する場所を指示します。</Frame_CaravanPackingSpot.description>
 
-	<!-- Floor -->
-	<Blueprint_MetalTile.label>鉄製タイル(設計)</Blueprint_MetalTile.label>
-	<Frame_MetalTile.label>鉄製タイル(施工)</Frame_MetalTile.label>
-	<Frame_MetalTile.description>施工中</Frame_MetalTile.description>
+    <!-- Floor -->
+    <Blueprint_MetalTile.label>鉄製タイル(設計)</Blueprint_MetalTile.label>
+    <Frame_MetalTile.label>鉄製タイル(施工)</Frame_MetalTile.label>
+    <Frame_MetalTile.description>施工中</Frame_MetalTile.description>
 
-	<Blueprint_SilverTile.label>銀製タイル(設計)</Blueprint_SilverTile.label>
-	<Frame_SilverTile.label>銀製タイル(施工)</Frame_SilverTile.label>
-	<Frame_SilverTile.description>施工中</Frame_SilverTile.description>
+    <Blueprint_SilverTile.label>銀製タイル(設計)</Blueprint_SilverTile.label>
+    <Frame_SilverTile.label>銀製タイル(施工)</Frame_SilverTile.label>
+    <Frame_SilverTile.description>施工中</Frame_SilverTile.description>
 
-	<Blueprint_GoldTile.label>黄金タイル(設計)</Blueprint_GoldTile.label>
-	<Frame_GoldTile.label>黄金タイル(施工)</Frame_GoldTile.label>
-	<Frame_GoldTile.description>施工中</Frame_GoldTile.description>
+    <Blueprint_GoldTile.label>黄金タイル(設計)</Blueprint_GoldTile.label>
+    <Frame_GoldTile.label>黄金タイル(施工)</Frame_GoldTile.label>
+    <Frame_GoldTile.description>施工中</Frame_GoldTile.description>
 
-	<Blueprint_SterileTile.label>抗菌タイル(設計)</Blueprint_SterileTile.label>
-	<Frame_SterileTile.label>抗菌タイル(施工)</Frame_SterileTile.label>
-	<Frame_SterileTile.description>施工中</Frame_SterileTile.description>
+    <Blueprint_SterileTile.label>抗菌タイル(設計)</Blueprint_SterileTile.label>
+    <Frame_SterileTile.label>抗菌タイル(施工)</Frame_SterileTile.label>
+    <Frame_SterileTile.description>施工中</Frame_SterileTile.description>
 
-	<Blueprint_PavedTile.label>コンクリ 舗装タイル(設計)</Blueprint_PavedTile.label>
-	<Frame_PavedTile.label>コンクリ 舗装タイル(施工)</Frame_PavedTile.label>
-	<Frame_PavedTile.description>施工中</Frame_PavedTile.description>
+    <Blueprint_PavedTile.label>コンクリ 舗装タイル(設計)</Blueprint_PavedTile.label>
+    <Frame_PavedTile.label>コンクリ 舗装タイル(施工)</Frame_PavedTile.label>
+    <Frame_PavedTile.description>施工中</Frame_PavedTile.description>
 
-	<Blueprint_Concrete.label>コンクリート打ちっ放し(設計)</Blueprint_Concrete.label>
-	<Frame_Concrete.label>コンクリート打ちっ放し(施工)</Frame_Concrete.label>
-	<Frame_Concrete.description>施工中</Frame_Concrete.description>
+    <Blueprint_Concrete.label>コンクリート打ちっ放し(設計)</Blueprint_Concrete.label>
+    <Frame_Concrete.label>コンクリート打ちっ放し(施工)</Frame_Concrete.label>
+    <Frame_Concrete.description>施工中</Frame_Concrete.description>
 
-	<Blueprint_WoodPlankFloor.label>フローリング(設計)</Blueprint_WoodPlankFloor.label>
-	<Frame_WoodPlankFloor.label>フローリング(施工)</Frame_WoodPlankFloor.label>
-	<Frame_WoodPlankFloor.description>施工中</Frame_WoodPlankFloor.description>
+    <Blueprint_WoodPlankFloor.label>フローリング(設計)</Blueprint_WoodPlankFloor.label>
+    <Frame_WoodPlankFloor.label>フローリング(施工)</Frame_WoodPlankFloor.label>
+    <Frame_WoodPlankFloor.description>施工中</Frame_WoodPlankFloor.description>
 
-	<Blueprint_CarpetRed.label>赤の絨毯(設計)</Blueprint_CarpetRed.label>
-	<Frame_CarpetRed.label>赤の絨毯(施工)</Frame_CarpetRed.label>
-	<Frame_CarpetRed.description>施工中</Frame_CarpetRed.description>
+    <Blueprint_CarpetRed.label>赤の絨毯(設計)</Blueprint_CarpetRed.label>
+    <Frame_CarpetRed.label>赤の絨毯(施工)</Frame_CarpetRed.label>
+    <Frame_CarpetRed.description>施工中</Frame_CarpetRed.description>
 
-	<Blueprint_CarpetGreen.label>緑の絨毯(設計)</Blueprint_CarpetGreen.label>
-	<Frame_CarpetGreen.label>緑の絨毯(施工)</Frame_CarpetGreen.label>
-	<Frame_CarpetGreen.description>施工中</Frame_CarpetGreen.description>
+    <Blueprint_CarpetGreen.label>緑の絨毯(設計)</Blueprint_CarpetGreen.label>
+    <Frame_CarpetGreen.label>緑の絨毯(施工)</Frame_CarpetGreen.label>
+    <Frame_CarpetGreen.description>施工中</Frame_CarpetGreen.description>
 
-	<Blueprint_CarpetBlue.label>青の絨毯(設計)</Blueprint_CarpetBlue.label>
-	<Frame_CarpetBlue.label>青の絨毯(施工)</Frame_CarpetBlue.label>
-	<Frame_CarpetBlue.description>施工中</Frame_CarpetBlue.description>
+    <Blueprint_CarpetBlue.label>青の絨毯(設計)</Blueprint_CarpetBlue.label>
+    <Frame_CarpetBlue.label>青の絨毯(施工)</Frame_CarpetBlue.label>
+    <Frame_CarpetBlue.description>施工中</Frame_CarpetBlue.description>
 
-	<Blueprint_CarpetCream.label>クリーム色絨毯(設計)</Blueprint_CarpetCream.label>
-	<Frame_CarpetCream.label>クリーム色絨毯(施工)</Frame_CarpetCream.label>
-	<Frame_CarpetCream.description>施工中</Frame_CarpetCream.description>
+    <Blueprint_CarpetCream.label>クリーム色絨毯(設計)</Blueprint_CarpetCream.label>
+    <Frame_CarpetCream.label>クリーム色絨毯(施工)</Frame_CarpetCream.label>
+    <Frame_CarpetCream.description>施工中</Frame_CarpetCream.description>
 
-	<Blueprint_CarpetDark.label>シックな絨毯(設計)</Blueprint_CarpetDark.label>
-	<Frame_CarpetDark.label>シックな絨毯(施工)</Frame_CarpetDark.label>
-	<Frame_CarpetDark.description>施工中</Frame_CarpetDark.description>
+    <Blueprint_CarpetDark.label>シックな絨毯(設計)</Blueprint_CarpetDark.label>
+    <Frame_CarpetDark.label>シックな絨毯(施工)</Frame_CarpetDark.label>
+    <Frame_CarpetDark.description>施工中</Frame_CarpetDark.description>
 
-	<Blueprint_TileSandstone.label>砂岩タイル(設計)</Blueprint_TileSandstone.label>
-	<Frame_TileSandstone.label>砂岩タイル(施工)</Frame_TileSandstone.label>
-	<Frame_TileSandstone.description>施工中</Frame_TileSandstone.description>
+    <Blueprint_TileSandstone.label>砂岩タイル(設計)</Blueprint_TileSandstone.label>
+    <Frame_TileSandstone.label>砂岩タイル(施工)</Frame_TileSandstone.label>
+    <Frame_TileSandstone.description>施工中</Frame_TileSandstone.description>
 
-	<Blueprint_TileGranite.label>花崗岩タイル(設計)</Blueprint_TileGranite.label>
-	<Frame_TileGranite.label>花崗岩タイル(施工)</Frame_TileGranite.label>
-	<Frame_TileGranite.description>施工中</Frame_TileGranite.description>
+    <Blueprint_TileGranite.label>花崗岩タイル(設計)</Blueprint_TileGranite.label>
+    <Frame_TileGranite.label>花崗岩タイル(施工)</Frame_TileGranite.label>
+    <Frame_TileGranite.description>施工中</Frame_TileGranite.description>
 
-	<Blueprint_TileLimestone.label>石灰岩タイル(設計)</Blueprint_TileLimestone.label>
-	<Frame_TileLimestone.label>石灰岩タイル(施工)</Frame_TileLimestone.label>
-	<Frame_TileLimestone.description>施工中</Frame_TileLimestone.description>
+    <Blueprint_TileLimestone.label>石灰岩タイル(設計)</Blueprint_TileLimestone.label>
+    <Frame_TileLimestone.label>石灰岩タイル(施工)</Frame_TileLimestone.label>
+    <Frame_TileLimestone.description>施工中</Frame_TileLimestone.description>
 
-	<Blueprint_TileSlate.label>粘板岩タイル(設計)</Blueprint_TileSlate.label>
-	<Frame_TileSlate.label>粘板岩タイル(施工)</Frame_TileSlate.label>
-	<Frame_TileSlate.description>施工中</Frame_TileSlate.description>
+    <Blueprint_TileSlate.label>粘板岩タイル(設計)</Blueprint_TileSlate.label>
+    <Frame_TileSlate.label>粘板岩タイル(施工)</Frame_TileSlate.label>
+    <Frame_TileSlate.description>施工中</Frame_TileSlate.description>
 
-	<Blueprint_TileMarble.label>大理石タイル(設計)</Blueprint_TileMarble.label>
-	<Frame_TileMarble.label>大理石タイル(施工)</Frame_TileMarble.label>
-	<Frame_TileMarble.description>施工中</Frame_TileMarble.description>
+    <Blueprint_TileMarble.label>大理石タイル(設計)</Blueprint_TileMarble.label>
+    <Frame_TileMarble.label>大理石タイル(施工)</Frame_TileMarble.label>
+    <Frame_TileMarble.description>施工中</Frame_TileMarble.description>
 
-	<Blueprint_FlagstoneSandstone.label>砂岩の敷石(設計)</Blueprint_FlagstoneSandstone.label>
-	<Frame_FlagstoneSandstone.label>砂岩の敷石(施行)</Frame_FlagstoneSandstone.label>
-	<Frame_FlagstoneSandstone.description>施工中</Frame_FlagstoneSandstone.description>
+    <Blueprint_FlagstoneSandstone.label>砂岩の敷石(設計)</Blueprint_FlagstoneSandstone.label>
+    <Frame_FlagstoneSandstone.label>砂岩の敷石(施行)</Frame_FlagstoneSandstone.label>
+    <Frame_FlagstoneSandstone.description>施工中</Frame_FlagstoneSandstone.description>
 
-	<Blueprint_FlagstoneGranite.label>花崗岩の敷石(設計)</Blueprint_FlagstoneGranite.label>
-	<Frame_FlagstoneGranite.label>花崗岩の敷石(施行)</Frame_FlagstoneGranite.label>
-	<Frame_FlagstoneGranite.description>施工中</Frame_FlagstoneGranite.description>
+    <Blueprint_FlagstoneGranite.label>花崗岩の敷石(設計)</Blueprint_FlagstoneGranite.label>
+    <Frame_FlagstoneGranite.label>花崗岩の敷石(施行)</Frame_FlagstoneGranite.label>
+    <Frame_FlagstoneGranite.description>施工中</Frame_FlagstoneGranite.description>
 
-	<Blueprint_FlagstoneLimestone.label>石灰岩の敷石(設計)</Blueprint_FlagstoneLimestone.label>
-	<Frame_FlagstoneLimestone.label>石灰岩の敷石(施行)</Frame_FlagstoneLimestone.label>
-	<Frame_FlagstoneLimestone.description>施工中</Frame_FlagstoneLimestone.description>
+    <Blueprint_FlagstoneLimestone.label>石灰岩の敷石(設計)</Blueprint_FlagstoneLimestone.label>
+    <Frame_FlagstoneLimestone.label>石灰岩の敷石(施行)</Frame_FlagstoneLimestone.label>
+    <Frame_FlagstoneLimestone.description>施工中</Frame_FlagstoneLimestone.description>
 
-	<Blueprint_FlagstoneSlate.label>粘板岩の敷石(設計)</Blueprint_FlagstoneSlate.label>
-	<Frame_FlagstoneSlate.label>粘板岩の敷石(施行)</Frame_FlagstoneSlate.label>
-	<Frame_FlagstoneSlate.description>施工中</Frame_FlagstoneSlate.description>
+    <Blueprint_FlagstoneSlate.label>粘板岩の敷石(設計)</Blueprint_FlagstoneSlate.label>
+    <Frame_FlagstoneSlate.label>粘板岩の敷石(施行)</Frame_FlagstoneSlate.label>
+    <Frame_FlagstoneSlate.description>施工中</Frame_FlagstoneSlate.description>
 
-	<Blueprint_FlagstoneMarble.label>大理石の敷石(設計)</Blueprint_FlagstoneMarble.label>
-	<Frame_FlagstoneMarble.label>大理石の敷石(施行)</Frame_FlagstoneMarble.label>
-	<Frame_FlagstoneMarble.description>施工中</Frame_FlagstoneMarble.description>
+    <Blueprint_FlagstoneMarble.label>大理石の敷石(設計)</Blueprint_FlagstoneMarble.label>
+    <Frame_FlagstoneMarble.label>大理石の敷石(施行)</Frame_FlagstoneMarble.label>
+    <Frame_FlagstoneMarble.description>施工中</Frame_FlagstoneMarble.description>
 
 </LanguageData>

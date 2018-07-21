@@ -6,18 +6,18 @@
     <SecondsPerAttackLower>seconds per attack</SecondsPerAttackLower>
 
     <StatsReport_BaseValue>基本値</StatsReport_BaseValue>
-	<StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
-	<StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
-	<StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
-	<StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
-	<StatsReport_Material>材料</StatsReport_Material>
-    <StatsReport_CharacterQuality>Character 品質</StatsReport_CharacterQuality>
+    <StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
+    <StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
+    <StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
+    <StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
+    <StatsReport_Material>材料</StatsReport_Material>
+    <StatsReport_CharacterQuality>キャラクター品質</StatsReport_CharacterQuality>
     <StatsReport_Skills>スキル要素</StatsReport_Skills>
     <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
     <StatsReport_Health>身体要素 </StatsReport_Health>
-    <HealthFactorPercentImpact>重要度 {0}</HealthFactorPercentImpact>
+    <HealthFactorPercentImpact>重要度係数 {0}</HealthFactorPercentImpact>
     <HealthOffsetScale>効果 {0}</HealthOffsetScale>
-    <HealthFactorMaxImpact>最大 {0}</HealthFactorMaxImpact>
+    <HealthFactorMaxImpact>最大値 {0}</HealthFactorMaxImpact>
     <HealthFactorAllowedDefect>もし {0} 未満なら</HealthFactorAllowedDefect>
     <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
     <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
@@ -50,8 +50,8 @@
     <StatsReport_Resting>休息</StatsReport_Resting>
     <StatsReport_JoyKind>娯楽種別</StatsReport_JoyKind>
     <StatsReport_WorkToUninstall>アンインストール作業</StatsReport_WorkToUninstall>
-<StatsReport_PlantGrowth>{0}成長率への掛け率</StatsReport_PlantGrowth>
-<StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
+    <StatsReport_PlantGrowth>{0}成長率への掛け率</StatsReport_PlantGrowth>
+    <StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
     <StatsReport_NotFlesh>非食用</StatsReport_NotFlesh>
     <StatsReport_NotFresh>陳腐</StatsReport_NotFresh>
     <StatsReport_WildMan>野生</StatsReport_WildMan>

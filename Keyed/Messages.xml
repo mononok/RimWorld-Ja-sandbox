@@ -276,7 +276,7 @@
   <GoodwillChangedReason_PawnDied>{0} died</GoodwillChangedReason_PawnDied>
   <GoodwillChangedReason_Traded>traded</GoodwillChangedReason_Traded>
   <GoodwillChangedReason_AttackedCaravan>attacked a caravan</GoodwillChangedReason_AttackedCaravan>
-  <GoodwillChangedReason_NaturallyOverTime>natural tendency to reach {0} over time</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>時間が経つ毎に {0}に向かいます</GoodwillChangedReason_NaturallyOverTime>
   <GoodwillChangedReason_ExitedMapHealthy>{0}は元気になってマップから出て行った。</GoodwillChangedReason_ExitedMapHealthy>
   <GoodwillChangedReason_Tended>{0}の世話をする</GoodwillChangedReason_Tended>
   <GoodwillChangedReason_ReceivedGift>貢ぎ物を受け取った</GoodwillChangedReason_ReceivedGift>
@@ -288,7 +288,7 @@
   <MessageCantGiveGiftBecauseCantCarry>The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more.</MessageCantGiveGiftBecauseCantCarry>
 
   <MessageFormedCaravan>{0}は編成を終えて、ワールドマップを旅しています。</MessageFormedCaravan>
-  <MessageFormedCaravan_Orders>注文</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
 
   <MessageBillValidationStoreZoneDeleted>{1}'s "{0}" can no longer deliver to deleted stockpile {2}.</MessageBillValidationStoreZoneDeleted>
   <MessageBillValidationStoreZoneUnavailable>{1}'s "{0}" can no longer deliver to unavailable stockpile {2}.</MessageBillValidationStoreZoneUnavailable>

@@ -1,96 +1,96 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CraftingSpot.label>作業場</CraftingSpot.label>
+    <CraftingSpot.label>作業場</CraftingSpot.label>
     <CraftingSpot.description>ナイフや弓をつくる場所です。. Production here is slow because of the lack of tools.</CraftingSpot.description>
-	<Blueprint_CraftingSpot.label>作業場(設計)</Blueprint_CraftingSpot.label>
-	<Frame_CraftingSpot.label>作業場(施工)</Frame_CraftingSpot.label>
+    <Blueprint_CraftingSpot.label>作業場(設計)</Blueprint_CraftingSpot.label>
+    <Frame_CraftingSpot.label>作業場(施工)</Frame_CraftingSpot.label>
     <Frame_CraftingSpot.description>ナイフや弓をつくる場所です。</Frame_CraftingSpot.description>
 
     <ButcherSpot.label>屠殺場</ButcherSpot.label>
     <ButcherSpot.description>動物を屠殺する場所です。設備が欠けているため、ここで屠殺しても、肉や皮は70%しか取れません。</ButcherSpot.description>
 
-  <!-- ========================= Work tables ==========================-->
+    <!-- ========================= Work tables ==========================-->
 
-	<TableSculpting.label>彫刻台</TableSculpting.label>
-	<TableSculpting.description>この彫刻台を使って、芸術作品を生み出します。</TableSculpting.description>
-	<Blueprint_TableSculpting.label>彫刻台(設計)</Blueprint_TableSculpting.label>
-	<Frame_TableSculpting.label>彫刻台(施工)</Frame_TableSculpting.label>
-	<Frame_TableSculpting.description>この彫刻台を使って、芸術作品を生み出します。</Frame_TableSculpting.description>
+    <TableSculpting.label>彫刻台</TableSculpting.label>
+    <TableSculpting.description>この彫刻台を使って、芸術作品を生み出します。</TableSculpting.description>
+    <Blueprint_TableSculpting.label>彫刻台(設計)</Blueprint_TableSculpting.label>
+    <Frame_TableSculpting.label>彫刻台(施工)</Frame_TableSculpting.label>
+    <Frame_TableSculpting.description>この彫刻台を使って、芸術作品を生み出します。</Frame_TableSculpting.description>
 
-	<TableButcher.label>食肉加工台</TableButcher.label>
-	<TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</TableButcher.description>
-	<Blueprint_TableButcher.label>食肉加工台(設計)</Blueprint_TableButcher.label>
-	<Frame_TableButcher.label>食肉加工台(施工)</Frame_TableButcher.label>
-	<Frame_TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</Frame_TableButcher.description>
+    <TableButcher.label>食肉加工台</TableButcher.label>
+    <TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</TableButcher.description>
+    <Blueprint_TableButcher.label>食肉加工台(設計)</Blueprint_TableButcher.label>
+    <Frame_TableButcher.label>食肉加工台(施工)</Frame_TableButcher.label>
+    <Frame_TableButcher.description>死んだ生物を、小さい生肉の塊に加工する大きなテーブルです。</Frame_TableButcher.description>
 
-	<HandTailoringBench.label>ミシン台</HandTailoringBench.label>
-	<HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、50%程しか作成速度はありません。</HandTailoringBench.description>
-	<Blueprint_HandTailoringBench.label>ミシン台(設計)</Blueprint_HandTailoringBench.label>
-	<Frame_HandTailoringBench.label>ミシン台(施工)</Frame_HandTailoringBench.label>
-	<Frame_HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、50%程しか作成速度はありません。</Frame_HandTailoringBench.description>
+    <HandTailoringBench.label>ミシン台</HandTailoringBench.label>
+    <HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、50%程しか作成速度はありません。</HandTailoringBench.description>
+    <Blueprint_HandTailoringBench.label>ミシン台(設計)</Blueprint_HandTailoringBench.label>
+    <Frame_HandTailoringBench.label>ミシン台(施工)</Frame_HandTailoringBench.label>
+    <Frame_HandTailoringBench.description>このミシン付き作業台では、衣服を作成できます。電動ミシン付き作業台の、50%程しか作成速度はありません。</Frame_HandTailoringBench.description>
 
-	<ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
-	<ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の50%のに作成速度が落ちます。</ElectricTailoringBench.description>
-	<Blueprint_ElectricTailoringBench.label>電動ミシン台(設計)</Blueprint_ElectricTailoringBench.label>
-	<Frame_ElectricTailoringBench.label>電動ミシン台(施工)</Frame_ElectricTailoringBench.label>
-	<Frame_ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の40%のに作成速度が落ちます。</Frame_ElectricTailoringBench.description>
+    <ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の50%のに作成速度が落ちます。</ElectricTailoringBench.description>
+    <Blueprint_ElectricTailoringBench.label>電動ミシン台(設計)</Blueprint_ElectricTailoringBench.label>
+    <Frame_ElectricTailoringBench.label>電動ミシン台(施工)</Frame_ElectricTailoringBench.label>
+    <Frame_ElectricTailoringBench.description>この電動ミシン付きの作業台では、素早く衣服を作成できます。電気がないと、通常の40%のに作成速度が落ちます。</Frame_ElectricTailoringBench.description>
 
-	<FueledSmithy.label>工作台</FueledSmithy.label>
-	<FueledSmithy.description>シンプルな、燃料に薪を使った、メカニカルではない武器やツールを作る工作台です。</FueledSmithy.description>
-	<Blueprint_FueledSmithy.label>工作台(設計)</Blueprint_FueledSmithy.label>
-	<Frame_FueledSmithy.label>工作台(施工)</Frame_FueledSmithy.label>
-	<Frame_FueledSmithy.description>シンプルな、燃料に薪を使った、メカニカルではない武器やツールを作る工作台です。</Frame_FueledSmithy.description>
+    <FueledSmithy.label>工作台</FueledSmithy.label>
+    <FueledSmithy.description>シンプルな、燃料に薪を使った、メカニカルではない武器やツールを作る工作台です。</FueledSmithy.description>
+    <Blueprint_FueledSmithy.label>工作台(設計)</Blueprint_FueledSmithy.label>
+    <Frame_FueledSmithy.label>工作台(施工)</Frame_FueledSmithy.label>
+    <Frame_FueledSmithy.description>シンプルな、燃料に薪を使った、メカニカルではない武器やツールを作る工作台です。</Frame_FueledSmithy.description>
 
-	<ElectricSmithy.label>電動工作台</ElectricSmithy.label>
-	<ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</ElectricSmithy.description>
-	<Blueprint_ElectricSmithy.label>電動工作台(設計)</Blueprint_ElectricSmithy.label>
-	<Frame_ElectricSmithy.label>電動工作台(施工)</Frame_ElectricSmithy.label>
-	<Frame_ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</Frame_ElectricSmithy.description>
+    <ElectricSmithy.label>電動工作台</ElectricSmithy.label>
+    <ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</ElectricSmithy.description>
+    <Blueprint_ElectricSmithy.label>電動工作台(設計)</Blueprint_ElectricSmithy.label>
+    <Frame_ElectricSmithy.label>電動工作台(施工)</Frame_ElectricSmithy.label>
+    <Frame_ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</Frame_ElectricSmithy.description>
 
-	<TableMachining.label>精密工作機械</TableMachining.label>
-	<TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
-	<Blueprint_TableMachining.label>精密工作機械(設計)</Blueprint_TableMachining.label>
-	<Frame_TableMachining.label>精密工作機械(施工)</Frame_TableMachining.label>
-	<Frame_TableMachining.description>メカノイドの身体や器官などの精密機械の分解・組立を行います。</Frame_TableMachining.description>
+    <TableMachining.label>精密工作機械</TableMachining.label>
+    <TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
+    <Blueprint_TableMachining.label>精密工作機械(設計)</Blueprint_TableMachining.label>
+    <Frame_TableMachining.label>精密工作機械(施工)</Frame_TableMachining.label>
+    <Frame_TableMachining.description>メカノイドの身体や器官などの精密機械の分解・組立を行います。</Frame_TableMachining.description>
 
-	<ElectricStove.label>電気コンロ</ElectricStove.label>
-	<ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</ElectricStove.description>
-	<Blueprint_ElectricStove.label>電気コンロ(設計)</Blueprint_ElectricStove.label>
-	<Frame_ElectricStove.label>電気コンロ(施工)</Frame_ElectricStove.label>
-	<Frame_ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</Frame_ElectricStove.description>
+    <ElectricStove.label>電気コンロ</ElectricStove.label>
+    <ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</ElectricStove.description>
+    <Blueprint_ElectricStove.label>電気コンロ(設計)</Blueprint_ElectricStove.label>
+    <Frame_ElectricStove.label>電気コンロ(施工)</Frame_ElectricStove.label>
+    <Frame_ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</Frame_ElectricStove.description>
 
-	<FueledStove.label>カマド</FueledStove.label>
-	<FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
-	<Blueprint_FueledStove.label>カマド(設計)</Blueprint_FueledStove.label>
-	<Frame_FueledStove.label>カマド(施工)</Frame_FueledStove.label>
-	<Frame_FueledStove.description>シンプルな、燃料に薪を使った、料理を作るためのコンロです。</Frame_FueledStove.description>
+    <FueledStove.label>カマド</FueledStove.label>
+    <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    <Blueprint_FueledStove.label>カマド(設計)</Blueprint_FueledStove.label>
+    <Frame_FueledStove.label>カマド(施工)</Frame_FueledStove.label>
+    <Frame_FueledStove.description>シンプルな、燃料に薪を使った、料理を作るためのコンロです。</Frame_FueledStove.description>
 
-	<TableStonecutter.label>ストーン カッター</TableStonecutter.label>
-	<TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</TableStonecutter.description>
-	<Blueprint_TableStonecutter.label>ストーン カッター(設計)</Blueprint_TableStonecutter.label>
-	<Frame_TableStonecutter.label>ストーン カッター(施工)</Frame_TableStonecutter.label>
-	<Frame_TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</Frame_TableStonecutter.description>
+    <TableStonecutter.label>ストーン カッター</TableStonecutter.label>
+    <TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</TableStonecutter.description>
+    <Blueprint_TableStonecutter.label>ストーン カッター(設計)</Blueprint_TableStonecutter.label>
+    <Frame_TableStonecutter.label>ストーン カッター(施工)</Frame_TableStonecutter.label>
+    <Frame_TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</Frame_TableStonecutter.description>
 
-	<Brewery.label>醸造器</Brewery.label>
-	<Brewery.description>ビールを作る為の必要な全ての設備を備えた作業台は、混合麦汁を必要とします。麦汁は最終的にビールへの醸造されることになります。</Brewery.description>
-	<Blueprint_Brewery.label>醸造器(設計)</Blueprint_Brewery.label>
-	<Frame_Brewery.label>醸造器(施工)</Frame_Brewery.label>
-	<Frame_Brewery.description>ビールを醸造するための器具です。</Frame_Brewery.description>
+    <Brewery.label>醸造器</Brewery.label>
+    <Brewery.description>ビールを作る為の必要な全ての設備を備えた作業台は、混合麦汁を必要とします。麦汁は最終的にビールへの醸造されることになります。</Brewery.description>
+    <Blueprint_Brewery.label>醸造器(設計)</Blueprint_Brewery.label>
+    <Frame_Brewery.label>醸造器(施工)</Frame_Brewery.label>
+    <Frame_Brewery.description>ビールを醸造するための器具です。</Frame_Brewery.description>
 
-	<DrugLab.label>ドラッグラボ</DrugLab.label>
-	<DrugLab.description>様々なドラッグを製造するために、いろいろな入れ物や、ヒーター、計測器を備えた作業台です。</DrugLab.description>
-	<Blueprint_DrugLab.label>ドラッグラボ(設計)</Blueprint_DrugLab.label>
-	<Frame_DrugLab.label>ドラッグラボ(施工)</Frame_DrugLab.label>
-	<Frame_DrugLab.description>様々なドラッグを製造するために、いろいろな入れ物や、ヒーター、計測器を備えた作業台です。</Frame_DrugLab.description>
+    <DrugLab.label>ドラッグラボ</DrugLab.label>
+    <DrugLab.description>様々なドラッグを製造するために、いろいろな入れ物や、ヒーター、計測器を備えた作業台です。</DrugLab.description>
+    <Blueprint_DrugLab.label>ドラッグラボ(設計)</Blueprint_DrugLab.label>
+    <Frame_DrugLab.label>ドラッグラボ(施工)</Frame_DrugLab.label>
+    <Frame_DrugLab.description>様々なドラッグを製造するために、いろいろな入れ物や、ヒーター、計測器を備えた作業台です。</Frame_DrugLab.description>
 
-	<!-- ========================= Work tables ==========================-->
+    <!-- ========================= Work tables ==========================-->
 
-	<ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
-	<ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</ElectricSmelter.description>
-	<Blueprint_ElectricSmelter.label>溶鉱炉(設計)</Blueprint_ElectricSmelter.label>
-	<Frame_ElectricSmelter.label>溶鉱炉(施工)</Frame_ElectricSmelter.label>
-	<Frame_ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</Frame_ElectricSmelter.description>
+    <ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
+    <ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</ElectricSmelter.description>
+    <Blueprint_ElectricSmelter.label>溶鉱炉(設計)</Blueprint_ElectricSmelter.label>
+    <Frame_ElectricSmelter.label>溶鉱炉(施工)</Frame_ElectricSmelter.label>
+    <Frame_ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します。大量の電気を消費します。</Frame_ElectricSmelter.description>
 
     <BiofuelRefinery.label>製油施設</BiofuelRefinery.label>
     <BiofuelRefinery.description>バイオ液化燃料の精製プラントです。木材をバイオ液化燃料に精製します。</BiofuelRefinery.description>
@@ -98,52 +98,52 @@
     <Frame_BiofuelRefinery.label>製油施設(施工)</Frame_BiofuelRefinery.label>
     <Frame_BiofuelRefinery.description>バイオ液化燃料の精製プラントです。木材をバイオ液化燃料に精製します。</Frame_BiofuelRefinery.description>
 
-	<FabricationBench.label>コンポーネント組立台</FabricationBench.label>
-	<FabricationBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です。</FabricationBench.description>
-	<Blueprint_FabricationBench.label>コンポーネント組立台(設計)</Blueprint_FabricationBench.label>
-	<Frame_FabricationBench.label>コンポーネント組立台(施工)</Frame_FabricationBench.label>
-	<Frame_FabricationBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です。</Frame_FabricationBench.description>
+    <FabricationBench.label>コンポーネント工作台</FabricationBench.label>
+    <FabricationBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です。</FabricationBench.description>
+    <Blueprint_FabricationBench.label>コンポーネント工作台(設計)</Blueprint_FabricationBench.label>
+    <Frame_FabricationBench.label>コンポーネント工作台(施工)</Frame_FabricationBench.label>
+    <Frame_FabricationBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です。</Frame_FabricationBench.description>
 
-	<!-- ========== Non-standard work buildings ==============-->
+    <!-- ========== Non-standard work buildings ==============-->
 
-	<SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
-	<SimpleResearchBench.description>物書きをするシンプルな卓と、単純な計測デバイスです。研究者はここで新しい発見をします。</SimpleResearchBench.description>
-	<Blueprint_SimpleResearchBench.label>研究設備(設計)</Blueprint_SimpleResearchBench.label>
-	<Frame_SimpleResearchBench.label>研究設備(施工)</Frame_SimpleResearchBench.label>
-	<Frame_SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</Frame_SimpleResearchBench.description>
+    <SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
+    <SimpleResearchBench.description>物書きをするシンプルな卓と、単純な計測デバイスです。研究者はここで新しい発見をします。</SimpleResearchBench.description>
+    <Blueprint_SimpleResearchBench.label>研究設備(設計)</Blueprint_SimpleResearchBench.label>
+    <Frame_SimpleResearchBench.label>研究設備(施工)</Frame_SimpleResearchBench.label>
+    <Frame_SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</Frame_SimpleResearchBench.description>
 
-	<HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
-	<HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
-	<Blueprint_HiTechResearchBench.label>ハイテク 研究設備(設計)</Blueprint_HiTechResearchBench.label>
-	<Frame_HiTechResearchBench.label>ハイテク 研究設備(施工)</Frame_HiTechResearchBench.label>
-	<Frame_HiTechResearchBench.description>ハイテクなツールなどを研究する机です。ハイテクツールを使うことで、より研究速度が速くなりますが、もっと電力が必要となります。</Frame_HiTechResearchBench.description>
+    <HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
+    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
+    <Blueprint_HiTechResearchBench.label>ハイテク 研究設備(設計)</Blueprint_HiTechResearchBench.label>
+    <Frame_HiTechResearchBench.label>ハイテク 研究設備(施工)</Frame_HiTechResearchBench.label>
+    <Frame_HiTechResearchBench.description>ハイテクなツールなどを研究する机です。ハイテクツールを使うことで、より研究速度が速くなりますが、もっと電力が必要となります。</Frame_HiTechResearchBench.description>
 
-	<ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>
-	<ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
-	<Blueprint_ElectricCrematorium.label>電気火葬炉(設計)</Blueprint_ElectricCrematorium.label>
-	<Frame_ElectricCrematorium.label>電気火葬炉(施工)</Frame_ElectricCrematorium.label>
-	<Frame_ElectricCrematorium.description>電気式の火葬炉です。</Frame_ElectricCrematorium.description>
+    <ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>
+    <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
+    <Blueprint_ElectricCrematorium.label>電気火葬炉(設計)</Blueprint_ElectricCrematorium.label>
+    <Frame_ElectricCrematorium.label>電気火葬炉(施工)</Frame_ElectricCrematorium.label>
+    <Frame_ElectricCrematorium.description>電気式の火葬炉です。</Frame_ElectricCrematorium.description>
 
-	<HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
-	<HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
-	<Blueprint_HydroponicsBasin.label>水耕栽培器(設計)</Blueprint_HydroponicsBasin.label>
-	<Frame_HydroponicsBasin.label>水耕栽培器(施工)</Frame_HydroponicsBasin.label>
-	<Frame_HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます。</Frame_HydroponicsBasin.description>
+    <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
+    <HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
+    <Blueprint_HydroponicsBasin.label>水耕栽培器(設計)</Blueprint_HydroponicsBasin.label>
+    <Frame_HydroponicsBasin.label>水耕栽培器(施工)</Frame_HydroponicsBasin.label>
+    <Frame_HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます。</Frame_HydroponicsBasin.description>
 
-  <FermentingBarrel.label>ビア樽</FermentingBarrel.label>
-  <Blueprint_Install_FermentingBarrel.label>ビア樽(移動先)</Blueprint_Install_FermentingBarrel.label>
-  <FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です。</FermentingBarrel.description>
-  <Blueprint_FermentingBarrel.label>ビア樽(設計)</Blueprint_FermentingBarrel.label>
-  <Frame_FermentingBarrel.label>ビア樽(施工)</Frame_FermentingBarrel.label>
-  <Frame_FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です。</Frame_FermentingBarrel.description>
+    <FermentingBarrel.label>ビア樽</FermentingBarrel.label>
+    <Blueprint_Install_FermentingBarrel.label>ビア樽(移動先)</Blueprint_Install_FermentingBarrel.label>
+    <FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です。</FermentingBarrel.description>
+    <Blueprint_FermentingBarrel.label>ビア樽(設計)</Blueprint_FermentingBarrel.label>
+    <Frame_FermentingBarrel.label>ビア樽(施工)</Frame_FermentingBarrel.label>
+    <Frame_FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です。</Frame_FermentingBarrel.description>
 
-  <DeepDrill.label>深部ドリルマシン</DeepDrill.label>
-  <DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。This drill can also extract stone chunks if no resources are present.</DeepDrill.description>
-  <Blueprint_DeepDrill.label>深部ドリルマシン(設計)</Blueprint_DeepDrill.label>
-  <Frame_DeepDrill.label>深部ドリルマシン(施工)</Frame_DeepDrill.label>
-  <Frame_DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。</Frame_DeepDrill.description>
+    <DeepDrill.label>深部ドリルマシン</DeepDrill.label>
+    <DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。This drill can also extract stone chunks if no resources are present.</DeepDrill.description>
+    <Blueprint_DeepDrill.label>深部ドリルマシン(設計)</Blueprint_DeepDrill.label>
+    <Frame_DeepDrill.label>深部ドリルマシン(施工)</Frame_DeepDrill.label>
+    <Frame_DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。</Frame_DeepDrill.description>
 
-  <!--======================== Nutrient dispenser ==============================-->
+    <!--======================== Nutrient dispenser ==============================-->
 
     <NutrientPasteDispenser.label>ペースト ディスペンサ</NutrientPasteDispenser.label>
     <NutrientPasteDispenser.description>有機原料から栄養補給ペーストを合成する機械で、食材ホッパーの隣に置きます。料理するのに比べて、より少ない原料と時間で済みます。しかし栄養補給ペーストを好んで食べたがる人は一人も居ません。生の食材は原料になりますが、干し草などの植物は原料になりません。</NutrientPasteDispenser.description>

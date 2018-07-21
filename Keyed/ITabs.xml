@@ -1,157 +1,157 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- ITab titles -->
-	<TabBills>加工</TabBills>
-	<TabGrowing>栽培</TabGrowing>
-	<TabCharacter>人物</TabCharacter>
+    <!-- ITab titles -->
+    <TabBills>加工</TabBills>
+    <TabGrowing>栽培</TabGrowing>
+    <TabCharacter>人物</TabCharacter>
     <TabTraining>調教</TabTraining>
-	<TabPrisoner>囚人</TabPrisoner>
+    <TabPrisoner>囚人</TabPrisoner>
     <TabGuest>客人</TabGuest>
-	<TabGear>装備</TabGear>
+    <TabGear>装備</TabGear>
     <TabNeeds>欲求</TabNeeds>
-	<TabStorage>保管</TabStorage>
+    <TabStorage>保管</TabStorage>
     <TabShells>装弾</TabShells>
-	<TabHealth>健康</TabHealth>
-	<TabRace>種族</TabRace>
-	<TabBasics>Basics</TabBasics>
-	<TabStats>状態</TabStats>
-	<TabRecords>記録</TabRecords>
-	<TabArt>芸術</TabArt>
-	<TabSocial>社交</TabSocial>
-  <TabLog>Log</TabLog>
-  <TabFormingCaravan>Caravan</TabFormingCaravan>
+    <TabHealth>健康</TabHealth>
+    <TabRace>種族</TabRace>
+    <TabBasics>基本</TabBasics>
+    <TabStats>状態</TabStats>
+    <TabRecords>記録</TabRecords>
+    <TabArt>芸術</TabArt>
+    <TabSocial>社交</TabSocial>
+    <TabLog>ログ</TabLog>
+    <TabFormingCaravan>キャラバン</TabFormingCaravan>
 
 
-	<!-- Bills tab  -->
-	<AddBill>新しい 加工</AddBill>
-	<RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
-  <MinimumSkill>必要スキル</MinimumSkill>
-	<SuspendedCaps>中止</SuspendedCaps>
+    <!-- Bills tab  -->
+    <AddBill>新しい 加工</AddBill>
+    <RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
+    <MinimumSkill>必要スキル</MinimumSkill>
+    <SuspendedCaps>中止</SuspendedCaps>
     <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
-	<PlantVerb>植物</PlantVerb>
-  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
-  <ReorderBillUpTip>Move up</ReorderBillUpTip>
-  <ReorderBillDownTip>Move down</ReorderBillDownTip>
-  <DeleteBillTip>Delete</DeleteBillTip>
-  <CopyBillTip>Copy to the clipboard</CopyBillTip>
-  <SuspendBillTip>Suspend</SuspendBillTip>
-  <PasteBillTip>Paste</PasteBillTip>
-  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
+    <PlantVerb>植物</PlantVerb>
+    <ClipboardBillNotAvailableHere>ここにはペーストできません。</ClipboardBillNotAvailableHere>
+    <ReorderBillUpTip>Move up</ReorderBillUpTip>
+    <ReorderBillDownTip>Move down</ReorderBillDownTip>
+    <DeleteBillTip>削除</DeleteBillTip>
+    <CopyBillTip>クリップボードにコピー</CopyBillTip>
+    <SuspendBillTip>中止</SuspendBillTip>
+    <PasteBillTip>ペースト</PasteBillTip>
+    <PasteBillTip_LimitReached>これ以上追加できません</PasteBillTip_LimitReached>
 
 
-  <!-- Guest/prisoner tab -->
-	<RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
-	<GetsFood>食べ物を 与えます</GetsFood>
-	<DoctorsCare>医者に 診せます</DoctorsCare>
-	<GetsMedicine>薬を 与えます</GetsMedicine>
-	<ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
-  <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
+    <!-- Guest/prisoner tab -->
+    <RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
+    <GetsFood>食べ物を 与えます</GetsFood>
+    <DoctorsCare>医者に 診せます</DoctorsCare>
+    <GetsMedicine>薬を 与えます</GetsMedicine>
+    <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
+    <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
 
 
-  <!-- Medical - general -->
-<MoveSpeed>移動速度</MoveSpeed>
-	<Efficiency>効率</Efficiency>
-	<PartEfficiency>部位 能力</PartEfficiency>
-	<BodyPartEfficiency>部位 能力</BodyPartEfficiency>
-	<MissingBodyPart>失われた</MissingBodyPart>
-	<DestroyedBodyPart>破壊された</DestroyedBodyPart>
-	<ShatteredBodyPart>粉砕された</ShatteredBodyPart>
+    <!-- Medical - general -->
+    <MoveSpeed>移動速度</MoveSpeed>
+    <Efficiency>効率</Efficiency>
+    <PartEfficiency>部位 能力</PartEfficiency>
+    <BodyPartEfficiency>部位 能力</BodyPartEfficiency>
+    <MissingBodyPart>失われた</MissingBodyPart>
+    <DestroyedBodyPart>破壊された</DestroyedBodyPart>
+    <ShatteredBodyPart>粉砕された</ShatteredBodyPart>
     <RemovedBodyPart>取り外された</RemovedBodyPart>
-	<Healthy>健康</Healthy>
-	<InPain>痛み</InPain>
-	<PainLevel>痛みの強さ</PainLevel>
-	<Injured>怪我</Injured>
+    <Healthy>健康</Healthy>
+    <InPain>痛み</InPain>
+    <PainLevel>痛みの強さ</PainLevel>
+    <Injured>怪我</Injured>
     <NoHealthConditions>(目立った怪我無し)</NoHealthConditions>
-	<WholeBody>全身</WholeBody>
-	<DataProcessing>データ処理</DataProcessing>
-	<Communication>コミュニケーション</Communication>
-	<Affects>影響</Affects>
-  <BleedingRate>出血量</BleedingRate>
-  <TimeToDeath>{0}で死亡</TimeToDeath>
-  <WontBleedOutSoon>出血が止まる</WontBleedOutSoon>
-	<HealthOverview>概要</HealthOverview>
-	<MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>外科手術</MedicalOperations>
-	<Amputate>切断手術</Amputate>
-	<HarvestOrgan>摘出</HarvestOrgan>
+    <WholeBody>全身</WholeBody>
+    <DataProcessing>データ処理</DataProcessing>
+    <Communication>コミュニケーション</Communication>
+    <Affects>影響</Affects>
+    <BleedingRate>出血量</BleedingRate>
+    <TimeToDeath>{0}で死亡</TimeToDeath>
+    <WontBleedOutSoon>出血が止まる</WontBleedOutSoon>
+    <HealthOverview>概要</HealthOverview>
+    <MedicalOperationsShort>手術中 ({0})</MedicalOperationsShort>
+    <MedicalOperationsMechanoidsShort>改造手術中 ({0})</MedicalOperationsMechanoidsShort>
+    <MedicalOperations>外科手術</MedicalOperations>
+    <Amputate>切断手術</Amputate>
+    <HarvestOrgan>摘出</HarvestOrgan>
     <RemoveOrgan>摘出</RemoveOrgan>
-	<MemoryLower>記憶</MemoryLower>
-	<SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
-	<HungerRate>空腹率</HungerRate>
-	<Tiredness>疲れ</Tiredness>
-  <PainFactor>苦痛</PainFactor>
-  <PreventsInfection>感染予防</PreventsInfection>
-  <SelfTend>自己治療</SelfTend>
-  <SelfTendTip>{0}の自己治療を有効にすると、通常の{1}の効率で、自動的にその場において、彼ら自身を治療します。</SelfTendTip>
+    <MemoryLower>記憶</MemoryLower>
+    <SocialInteractionsLower>社会的相互関係</SocialInteractionsLower>
+    <HungerRate>空腹率</HungerRate>
+    <Tiredness>疲れ</Tiredness>
+    <PainFactor>苦痛</PainFactor>
+    <PreventsInfection>感染予防</PreventsInfection>
+    <SelfTend>自己治療</SelfTend>
+    <SelfTendTip>{0}の自己治療を有効にすると、通常の{1}の効率で、自動的にその場において、彼ら自身を治療します。</SelfTendTip>
 
 
-	<!-- Medical - Body and activities condition -->
-	<None>なし</None>
-	<VeryPoor>非常に悪い</VeryPoor>
-	<Poor>悪い</Poor>
-	<Weakened>弱っている</Weakened>
-	<GoodCondition>良好</GoodCondition>
-	<Enhanced>強化</Enhanced>
-	<SeriouslyImpaired>深刻な欠損</SeriouslyImpaired>
-	<Impaired>障害</Impaired>
-	<SlightlyImpaired>わずかな障害</SlightlyImpaired>
-	<NoPain>無痛</NoPain>
-	<LittlePain>少しの痛み</LittlePain>
-	<MediumPain>痛い</MediumPain>
-	<SeverePain>激しい痛み</SeverePain>
-	<ExtremePain>猛烈な痛み</ExtremePain>
+    <!-- Medical - Body and activities condition -->
+    <None>なし</None>
+    <VeryPoor>非常に悪い</VeryPoor>
+    <Poor>悪い</Poor>
+    <Weakened>弱っている</Weakened>
+    <GoodCondition>良好</GoodCondition>
+    <Enhanced>強化</Enhanced>
+    <SeriouslyImpaired>深刻な欠損</SeriouslyImpaired>
+    <Impaired>障害</Impaired>
+    <SlightlyImpaired>わずかな障害</SlightlyImpaired>
+    <NoPain>無痛</NoPain>
+    <LittlePain>少しの痛み</LittlePain>
+    <MediumPain>痛い</MediumPain>
+    <SeverePain>激しい痛み</SeverePain>
+    <ExtremePain>猛烈な痛み</ExtremePain>
 
 
-  <!-- Training tab-->
-  <Trainability>Trainability</Trainability>
-  <CannotTrainNotSmartEnough>Requires trainability {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます。</CannotTrainTooSmall>
+    <!-- Training tab-->
+    <Trainability>調教しやすさ</Trainability>
+    <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です。</CannotTrainNotSmartEnough>
+    <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます。</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
+    <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
 
-   <!-- Social tab -->
-<NoRelationships>(無関係)</NoRelationships>
-<Kidnapped>誘拐</Kidnapped>
-  <Missing>消息不明</Missing>
-<Slave>奴隷</Slave>
-<FactionLeader>派閥のリーダー</FactionLeader>
-<OpinionOf>{0}への評価</OpinionOf>
-<SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
-<IAmDead>私は死んだ</IAmDead>
-<IAmPsychopath>私はサイコパス</IAmPsychopath>
+    <!-- Social tab -->
+    <NoRelationships>(無関係)</NoRelationships>
+    <Kidnapped>誘拐</Kidnapped>
+    <Missing>消息不明</Missing>
+    <Slave>奴隷</Slave>
+    <FactionLeader>派閥のリーダー</FactionLeader>
+    <OpinionOf>{0}への評価</OpinionOf>
+    <SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
+    <IAmDead>私は死んだ</IAmDead>
+    <IAmPsychopath>私はサイコパス</IAmPsychopath>
 
-  <!-- Gear tab -->
-  <OverallArmor>Overall armor</OverallArmor>
-  <MassCarried>積載重量: {0} / {1} kg</MassCarried>
-  <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
-  <ArmorBlunt>打撲系</ArmorBlunt>
-  <ArmorSharp>突刺系</ArmorSharp>
-  <ArmorHeat>熱系</ArmorHeat>
+    <!-- Gear tab -->
+    <OverallArmor>総アーマー</OverallArmor>
+    <MassCarried>積載重量: {0} / {1} kg</MassCarried>
+    <ComfyTemperatureRange>快適な温度範囲</ComfyTemperatureRange>
+    <ArmorBlunt>打撲系</ArmorBlunt>
+    <ArmorSharp>突刺系</ArmorSharp>
+    <ArmorHeat>熱系</ArmorHeat>
 
-  <!-- Log tab -->
-  <ShowAll>Show all</ShowAll>
-  <ShowCombat>Show combat</ShowCombat>
-  <ShowSocial>Show social</ShowSocial>
-  <NoRecentEntries>no recent entries</NoRecentEntries>
-  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+    <!-- Log tab -->
+    <ShowAll>全表示</ShowAll>
+    <ShowCombat>表示(戦闘)</ShowCombat>
+    <ShowSocial>表示(社交)</ShowSocial>
+    <NoRecentEntries>最近の記録はありません</NoRecentEntries>
+    <CopyLogTip>ログをクリップボードにコピーする</CopyLogTip>
 
-  <!-- Forming caravan tab -->
-  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
-  <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
-  <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
-  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
-  <FormingCaravanStatus_Leaving>Leaving</FormingCaravanStatus_Leaving>
-  <FormingCaravanStatus_Leaving_Pause>Leaving (waiting)</FormingCaravanStatus_Leaving_Pause>
-  <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
-  <CaravanMembers>Members</CaravanMembers>
-  <CaravanAnimals>Animals</CaravanAnimals>
-  <ItemsToLoad>Items to load</ItemsToLoad>
-  <LoadedItems>Loaded items</LoadedItems>
-  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
-  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
+    <!-- Forming caravan tab -->
+    <FormingCaravanStatus_GatheringAnimals>家畜を集める</FormingCaravanStatus_GatheringAnimals>
+    <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集める(待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
+    <FormingCaravanStatus_GatheringItems>アイテムを集める</FormingCaravanStatus_GatheringItems>
+    <FormingCaravanStatus_GatheringItems_Pause>アイテムを集める(待機中)</FormingCaravanStatus_GatheringItems_Pause>
+    <FormingCaravanStatus_GatheringSlaves>奴隷を集める</FormingCaravanStatus_GatheringSlaves>
+    <FormingCaravanStatus_GatheringSlaves_Pause>奴隷を集める(待機中)</FormingCaravanStatus_GatheringSlaves_Pause>
+    <FormingCaravanStatus_Leaving>離脱</FormingCaravanStatus_Leaving>
+    <FormingCaravanStatus_Leaving_Pause>離脱(待機中)</FormingCaravanStatus_Leaving_Pause>
+    <FormingCaravanStatus_Waiting>待機中</FormingCaravanStatus_Waiting>
+    <CaravanMembers>メンバー</CaravanMembers>
+    <CaravanAnimals>家畜</CaravanAnimals>
+    <ItemsToLoad>積載するアイテム</ItemsToLoad>
+    <LoadedItems>積載済みアイテム</LoadedItems>
+    <PackAnimalsCountLower>家畜の群れ</PackAnimalsCountLower>
+    <InMentalStateCountLower>精神崩壊</InMentalStateCountLower>
 
 </LanguageData>

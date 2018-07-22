@@ -1,103 +1,104 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
-	<!--========== Basic leathers ============-->
-	<Leather_Plain.label>plain leather</Leather_Plain.label>
-	<Leather_Plain.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Plain.description>
 
-	<Leather_Dog.label>犬の革</Leather_Dog.label>
-	<Leather_Dog.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Dog.description>
+    <!--========== Basic leathers ============-->
+    <Leather_Plain.label>なめし革</Leather_Plain.label>
+    <Leather_Plain.description>なめして、乾燥させ、そぎ落とした皮。衣類やバッグを作るための、上質で伝統的な素材です。</Leather_Plain.description>
 
-	<Leather_Wolf.label>狼の革</Leather_Wolf.label>
-	<Leather_Wolf.description>A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold.</Leather_Wolf.description>
-	<Leather_Panthera.label>パンサーの毛皮</Leather_Panthera.label>
-	<Leather_Panthera.description>A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat.</Leather_Panthera.description>
-	<Leather_Camel.label>ラクダの革</Leather_Camel.label>
-	<Leather_Camel.description>Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates.</Leather_Camel.description>
-	<Leather_Bluefur.label>bulefur</Leather_Bluefur.label>
-	<Leather_Bluefur.description>The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates.</Leather_Bluefur.description>
-	<Leather_Bear.label>熊の革</Leather_Bear.label>
-	<Leather_Bear.description>The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation.</Leather_Bear.description>
+    <Leather_Dog.label>犬の革</Leather_Dog.label>
+    <Leather_Dog.description>なめして、乾燥させ、そぎ落とした皮。衣類やバッグを作るための、上質で伝統的な素材です。</Leather_Dog.description>
 
-	<!--========== Thin leathers ============-->
-	<Leather_Light.label>light leather</Leather_Light.label>
-	<Leather_Light.description>Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers.</Leather_Light.description>
-	<Leather_Bird.label>鳥の皮</Leather_Bird.label>
-	<Leather_Bird.description>Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold.</Leather_Bird.description>
-	<Leather_Chinchilla.label>チンチラの毛皮</Leather_Chinchilla.label>
-	<Leather_Chinchilla.description>Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable.</Leather_Chinchilla.description>
-	<Leather_Fox.label>狐の毛皮</Leather_Fox.label>
-	<Leather_Fox.description>The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price.</Leather_Fox.description>
-	<Leather_Lizard.label>トカゲの皮</Leather_Lizard.label>
-	<Leather_Lizard.description>The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all.</Leather_Lizard.description>
+    <Leather_Wolf.label>狼の革</Leather_Wolf.label>
+    <Leather_Wolf.description>柔らかい毛皮は、オオカミ類の生物から獲れます。突き通しづらくて、防寒に適しています。</Leather_Wolf.description>
+    <Leather_Panthera.label>パンサーの毛皮</Leather_Panthera.label>
+    <Leather_Panthera.description>柔らかい毛皮は、大型猫類の生物から獲れます。突き通しづらくて、防暑に適しています。</Leather_Panthera.description>
+    <Leather_Camel.label>ラクダの革</Leather_Camel.label>
+    <Leather_Camel.description>なめして、乾燥させ、そぎ落としたラクダ皮。暑い地方での温度調整に役立ちます。</Leather_Camel.description>
+    <Leather_Bluefur.label>ブルーファー</Leather_Bluefur.label>
+    <Leather_Bluefur.description>マッファローの柔らかい毛皮。独特な青い色彩で判別できます。寒い地方での温度調整に役立ちます。</Leather_Bluefur.description>
+    <Leather_Bear.label>熊の革</Leather_Bear.label>
+    <Leather_Bear.description>熊の堅い毛皮。代表的な毛皮と比較すると、かなり頑丈で、少しだけ温度調整機能が勝っています。</Leather_Bear.description>
 
-	<!--========== Skin leathers ============-->
-	<Leather_Human.label>人皮</Leather_Human.label>
-	<Leather_Human.description>Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well.</Leather_Human.description>
-	<Leather_Pig.label>豚の皮</Leather_Pig.label>
-	<Leather_Pig.description>Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well.</Leather_Pig.description>
+    <!--========== Thin leathers ============-->
+    <Leather_Light.label>軽量な革</Leather_Light.label>
+    <Leather_Light.description>軽量で、薄い革です。大抵は小さな動物から獲れます。身体の保護作用は、厚い皮ほどはありません。</Leather_Light.description>
+    <Leather_Bird.label>鳥の皮</Leather_Bird.label>
+    <Leather_Bird.description>なめして、乾燥させ、そぎ落とした鳥の皮。羽毛以外はとても華奢で、熱と寒さを少しだけ防ぎます。</Leather_Bird.description>
+    <Leather_Chinchilla.label>チンチラの毛皮</Leather_Chinchilla.label>
+    <Leather_Chinchilla.description>なめして、乾燥させ、そぎ落としたチンチラの皮。非常にとても豪華で熱を通さない毛皮として知られています。群を抜いて非常に貴重な品です。</Leather_Chinchilla.description>
+    <Leather_Fox.label>狐の毛皮</Leather_Fox.label>
+    <Leather_Fox.description>キツネの毛皮です。寒さをよく防ぎ、素晴らしく豪華で、高値で売られています。</Leather_Fox.description>
+    <Leather_Lizard.label>トカゲの皮</Leather_Lizard.label>
+    <Leather_Lizard.description>冷血爬虫類をなめした革です。ワニ革はかなり丈夫ですが、断熱効果はまったくありません。</Leather_Lizard.description>
 
-	<!--========== Tough leathers ============-->
-	<Leather_Elephant.label>象の皮</Leather_Elephant.label>
-	<Leather_Elephant.description>Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator.</Leather_Elephant.description>
+    <!--========== Skin leathers ============-->
+    <Leather_Human.label>人皮</Leather_Human.label>
+    <Leather_Human.description>なめして、乾燥させ、そぎ落としたヒトの皮。たいていの人間は、この素材に恐怖を感じます。多少のヒトは、これに惹き付けられます。まあまあの革ですが、保護も断熱も、とりわけ優れていることはありません。</Leather_Human.description>
+    <Leather_Pig.label>豚の皮</Leather_Pig.label>
+    <Leather_Pig.description>なめして、乾燥させ、そぎ落としたブタの皮。まあまあの革ですが、保護も断熱も、とりわけ優れているということはありません。.</Leather_Pig.description>
 
-	<Leather_Heavy.label>heavy fur</Leather_Heavy.label>
-	<Leather_Heavy.description>Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well.</Leather_Heavy.description>
+    <!--========== Tough leathers ============-->
+    <Leather_Elephant.label>象の皮</Leather_Elephant.label>
+    <Leather_Elephant.description>なめして、乾燥させ、そぎ落としたゾウの皮。丈夫な革ですが、断熱効果は薄いようです。</Leather_Elephant.description>
 
-	<Leather_Rhinoceros.label>サイの皮</Leather_Rhinoceros.label>
-	<Leather_Rhinoceros.description>Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather.</Leather_Rhinoceros.description>
+    <Leather_Heavy.label>重い毛皮</Leather_Heavy.label>
+    <Leather_Heavy.description>厚い革を、長くて、ゴツゴツした荒い毛が覆っています。大型の強い動物から獲れます。この厚い革は、とても保護と断熱に優れています。</Leather_Heavy.description>
 
-	<!--========== Super leathers ============-->
-	<Leather_Thrumbo.label>スランボの毛皮</Leather_Thrumbo.label>
-	<Leather_Thrumbo.description>Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength.</Leather_Thrumbo.description>
+    <Leather_Rhinoceros.label>サイの皮</Leather_Rhinoceros.label>
+    <Leather_Rhinoceros.description>なめして、乾燥させ、そぎ落としたサイの皮。戦闘時の耐久力は群を抜いていますが、少ししか温度変化への保護を与えてくれません。</Leather_Rhinoceros.description>
 
-	<!--========== Awful leathers ============-->
-	<Leather_Patch.label>パッチレザー</Leather_Patch.label>
-	<Leather_Patch.description>A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather.</Leather_Patch.description>
+    <!--========== Super leathers ============-->
+    <Leather_Thrumbo.label>スランボの毛皮</Leather_Thrumbo.label>
+    <Leather_Thrumbo.description>スランボの柔らかい毛皮です。豪華で並外れた耐久力を持っています。この革のもつ断熱性と強さは、高級品の製作に使用されます。</Leather_Thrumbo.description>
 
-	<!--=============== Currency ====================-->
-	<Silver.label>シルバー</Silver.label>
-	<Silver.description>この金属は主に通貨として使われます。また、装飾物を作る為にも使われます。</Silver.description>
-	<Silver.stuffProps.stuffAdjective>銀製</Silver.stuffProps.stuffAdjective>
+    <!--========== Awful leathers ============-->
+    <Leather_Patch.label>パッチレザー</Leather_Patch.label>
+    <Leather_Patch.description>劣った織物状の革は、色々な種類の革を切って、縫い集めて作られています。何の種の革であるかに関係なく作られます、パッチレザーのデコボコな形状は、通常の革製品よりは、脆くて断熱効果も少なくなります。</Leather_Patch.description>
 
-	<Gold.label>ゴールド</Gold.label>
-	<Gold.description>The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold.</Gold.description>
-	<Gold.stuffProps.stuffAdjective>金製</Gold.stuffProps.stuffAdjective>
+    <!--=============== Currency ====================-->
+    <Silver.label>シルバー</Silver.label>
+    <Silver.description>この金属は主に通貨として使われます。また、装飾物を作る為にも使われます。</Silver.description>
+    <Silver.stuffProps.stuffAdjective>銀製</Silver.stuffProps.stuffAdjective>
 
-	<Steel.label>スチール</Steel.label>
-	<Steel.description>An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines.</Steel.description>
-	<Steel.stuffProps.stuffAdjective>鉄製</Steel.stuffProps.stuffAdjective>
+    <Gold.label>ゴールド</Gold.label>
+    <Gold.description>全金属中で、もっとも人々の目を惹き付ける金属です。とても柔らかく実用的なのに、その際だった美しさが曇りません。何百万というヒトが、ゴールドへの飽くなき欲求を満たそうと死んできました。</Gold.description>
 
-	<Plasteel.label>プラスチール</Plasteel.label>
-	<Plasteel.description>ユニークな分子構造により 極めて強い高度な航宙艦構造素材です。</Plasteel.description>
+    <Gold.stuffProps.stuffAdjective>金製</Gold.stuffProps.stuffAdjective>
 
-	<WoodLog.label>木材</WoodLog.label>
-	<WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg.</WoodLog.description>
-	<WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
+    <Steel.label>スチール</Steel.label>
+    <Steel.description>炭素鋼は、非常の多くの種類、建造物、武器、そして機械をつくるために使われます。</Steel.description>
+    <Steel.stuffProps.stuffAdjective>鉄製</Steel.stuffProps.stuffAdjective>
 
-	<Uranium.label>ウラン</Uranium.label>
-	<Uranium.description>An dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain primitive weapons and armor.</Uranium.description>
-	<Uranium.stuffProps.stuffAdjective>ウラニウム製</Uranium.stuffProps.stuffAdjective>
+    <Plasteel.label>プラスチール</Plasteel.label>
+    <Plasteel.description>ユニークな分子構造により 極めて強い高度な航宙艦構造素材です。</Plasteel.description>
 
-	<Jade.label>ヒスイ</Jade.label>
-	<Jade.description>硬い、緑色の石。美しくて貴重なために、ヒスイはよく装飾な飾りに用いられます。その堅さと密度の高さから、優れた殴打武器の素材として使用されます。</Jade.description>
-	<Jade.stuffProps.stuffAdjective>ヒスイ製</Jade.stuffProps.stuffAdjective>
+    <WoodLog.label>木材</WoodLog.label>
+    <WoodLog.description>樹木や他繊維状植物から採取した木材。建造物や武器を作るのに使われます。キャンプファイヤーや発電器の燃料としても適し、バイオ燃料に精製することも可能です。イザと言うときは、角材が、武器や脚としても使うことも可能です。</WoodLog.description>
+    <WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
 
-	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
-	<Cloth.label>木綿</Cloth.label>
-	<Cloth.description>有機素材を編んで作られた布です。</Cloth.description>
+    <Uranium.label>ウラン</Uranium.label>
+    <Uranium.description>色の黒い、重金属。最適な核燃料として知られ、その極めて高い密度と硬度が、信頼できる原始的な武器や防具を作るのに適しています。</Uranium.description>
+    <Uranium.stuffProps.stuffAdjective>ウラニウム製</Uranium.stuffProps.stuffAdjective>
 
-	<Synthread.label>シンスレッド</Synthread.label>
-	<Synthread.description>進んだテクノロジーは、適した衣服を作る合成繊維を開発しました、それは柔らかで、軽く、強く、熱を逃がしません。</Synthread.description>
+    <Jade.label>ヒスイ</Jade.label>
+    <Jade.description>硬い、緑色の石。美しくて貴重なために、ヒスイはよく装飾な飾りに用いられます。その堅さと密度の高さから、優れた殴打武器の素材として使用されます。</Jade.description>
+    <Jade.stuffProps.stuffAdjective>ヒスイ製</Jade.stuffProps.stuffAdjective>
 
-	<DevilstrandCloth.label>デビルストランド</DevilstrandCloth.label>
-	<DevilstrandCloth.description>Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects well against flame.</DevilstrandCloth.description>
+    <!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+    <Cloth.label>木綿</Cloth.label>
+    <Cloth.description>有機素材を編んで作られた布です。</Cloth.description>
 
-	<Hyperweave.label>ハイパーウィーブ </Hyperweave.label>
-	<Hyperweave.description>Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
+    <Synthread.label>シンスレッド</Synthread.label>
+    <Synthread.description>進んだテクノロジーは、適した衣服を作る合成繊維を開発しました、それは柔らかで、軽く、強く、熱を逃がしません。</Synthread.description>
 
-	<WoolMegasloth.label>メガスロス毛</WoolMegasloth.label>
-	<WoolMegasloth.description>若干、ざらざらしているのに、メガスロスの長い毛足は非常に上部で、とくに暖かいです。</WoolMegasloth.description>
+    <DevilstrandCloth.label>デビルストランド</DevilstrandCloth.label>
+    <DevilstrandCloth.description>デビルストランドマッシュルームから抽出したマイクロファイバーを紡いで繊維にしました。非常に頑丈で、断熱効果もよく、炎に対してもよく保護してくれます。</DevilstrandCloth.description>
+
+    <Hyperweave.label>ハイパーウィーブ </Hyperweave.label>
+    <Hyperweave.description>ナノファイバーを分子間同士で織り込み、メカナイト製造に専門的に使用されます。何も無いときは柔軟ですが、衝撃を受けると吸収するために硬化し、信じられないくらい切れにくくなります。この製造方法の秘密は、最も進化したGlitterworldだけにしか知られていません。</Hyperweave.description>
+
+    <WoolMegasloth.label>メガスロス毛</WoolMegasloth.label>
+    <WoolMegasloth.description>若干、ざらざらしているのに、メガスロスの長い毛足は非常に上部で、とくに暖かいです。</WoolMegasloth.description>
 
     <WoolMuffalo.label>マッファロ毛</WoolMuffalo.label>
     <WoolMuffalo.description>柔らかく、軽い、とても良い断熱材です。毛で編んだ服は、どんな過酷な状況でも身体を温めておくことができます。</WoolMuffalo.description>

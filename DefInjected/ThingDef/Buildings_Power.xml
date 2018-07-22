@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<PowerConduit.label>電力線</PowerConduit.label>
-	<PowerConduit.description>電力を送電する為の電気ケーブルの束です。壁や建物の下にも置けます。</PowerConduit.description>
-	<Blueprint_PowerConduit.label>電力線(設計)</Blueprint_PowerConduit.label>
-	<Frame_PowerConduit.label>電力線(施工)</Frame_PowerConduit.label>
-	<Frame_PowerConduit.description>電気を送電する為のケーブルです。</Frame_PowerConduit.description>
+    <PowerConduit.label>電力線</PowerConduit.label>
+    <PowerConduit.description>電力を送電する為の電気ケーブルの束です。壁や建物の下にも置けます。</PowerConduit.description>
+    <Blueprint_PowerConduit.label>電力線(設計)</Blueprint_PowerConduit.label>
+    <Frame_PowerConduit.label>電力線(施工)</Frame_PowerConduit.label>
+    <Frame_PowerConduit.description>電気を送電する為のケーブルです。</Frame_PowerConduit.description>
 
-	<WaterproofConduit.label>防水仕様電力線</WaterproofConduit.label>
-	<WaterproofConduit.description>浅瀬のしたでも送電できる絶縁ケーブルです。</WaterproofConduit.description>
+    <WaterproofConduit.label>防水仕様電力線</WaterproofConduit.label>
+    <WaterproofConduit.description>浅瀬のしたでも送電できる絶縁ケーブルです。</WaterproofConduit.description>
 
-	<PowerSwitch.label>ブレーカスイッチ</PowerSwitch.label>
-	<PowerSwitch.description>電気を入り／切りするスイッチです。</PowerSwitch.description>
-	<Blueprint_PowerSwitch.label>ブレーカスイッチ(設計)</Blueprint_PowerSwitch.label>
-	<Frame_PowerSwitch.label>ブレーカスイッチ(施工)</Frame_PowerSwitch.label>
-	<Frame_PowerSwitch.description>電気を入り／切りするスイッチです。</Frame_PowerSwitch.description>
+    <PowerSwitch.label>ブレーカスイッチ</PowerSwitch.label>
+    <PowerSwitch.description>電気を入り／切りするスイッチです。</PowerSwitch.description>
+    <Blueprint_PowerSwitch.label>ブレーカスイッチ(設計)</Blueprint_PowerSwitch.label>
+    <Frame_PowerSwitch.label>ブレーカスイッチ(施工)</Frame_PowerSwitch.label>
+    <Frame_PowerSwitch.description>電気を入り／切りするスイッチです。</Frame_PowerSwitch.description>
 
-	<WoodFiredGenerator.label>火力発電(樹)</WoodFiredGenerator.label>
-	<WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</WoodFiredGenerator.description>
-	<Blueprint_WoodFiredGenerator.label>火力発電(樹)(設計)</Blueprint_WoodFiredGenerator.label>
-	<Frame_WoodFiredGenerator.label>火力発電(樹)(施工)</Frame_WoodFiredGenerator.label>
-	<Frame_WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</Frame_WoodFiredGenerator.description>
+    <WoodFiredGenerator.label>火力発電(樹)</WoodFiredGenerator.label>
+    <WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</WoodFiredGenerator.description>
+    <Blueprint_WoodFiredGenerator.label>火力発電(樹)(設計)</Blueprint_WoodFiredGenerator.label>
+    <Frame_WoodFiredGenerator.label>火力発電(樹)(施工)</Frame_WoodFiredGenerator.label>
+    <Frame_WoodFiredGenerator.description>木材を燃やして電力を作り出します。手で薪をくべなければなりません。</Frame_WoodFiredGenerator.description>
 
-	<ChemfuelPoweredGenerator.label>火力発電(液化燃料)</ChemfuelPoweredGenerator.label>
-	<ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</ChemfuelPoweredGenerator.description>
-	<Blueprint_ChemfuelPoweredGenerator.label>火力発電(液化燃料)(設計)</Blueprint_ChemfuelPoweredGenerator.label>
-	<Frame_ChemfuelPoweredGenerator.label>火力発電(液化燃料)(施工)</Frame_ChemfuelPoweredGenerator.label>
-	<Frame_ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</Frame_ChemfuelPoweredGenerator.description>
+    <ChemfuelPoweredGenerator.label>火力発電(液化燃料)</ChemfuelPoweredGenerator.label>
+    <ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</ChemfuelPoweredGenerator.description>
+    <Blueprint_ChemfuelPoweredGenerator.label>火力発電(液化燃料)(設計)</Blueprint_ChemfuelPoweredGenerator.label>
+    <Frame_ChemfuelPoweredGenerator.label>火力発電(液化燃料)(施工)</Frame_ChemfuelPoweredGenerator.label>
+    <Frame_ChemfuelPoweredGenerator.description>バイオ液化燃料を燃やして電力を作り出します。手で燃料を補給しなければなりません。</Frame_ChemfuelPoweredGenerator.description>
 
-	<Battery.label>バッテリー</Battery.label>
-	<Blueprint_Install_Battery.label>バッテリー(移動先)</Blueprint_Install_Battery.label>
-	<Battery.description>余った電力を蓄える事が出来ます。\n(警告)雨や火災に曝すと爆発の原因となります。</Battery.description>
-	<Blueprint_Battery.label>バッテリー(設計)</Blueprint_Battery.label>
-	<Frame_Battery.label>バッテリー(施工)</Frame_Battery.label>
-	<Frame_Battery.description>余った電力を蓄える事が出来ます。\n(警告)雨や火災に曝すと爆発の原因となります。</Frame_Battery.description>
+    <Battery.label>バッテリー</Battery.label>
+    <Blueprint_Install_Battery.label>バッテリー(移動先)</Blueprint_Install_Battery.label>
+    <Battery.description>余った電力を蓄える事が出来ます。\n(警告)雨や火災に曝すと爆発の原因となります。</Battery.description>
+    <Blueprint_Battery.label>バッテリー(設計)</Blueprint_Battery.label>
+    <Frame_Battery.label>バッテリー(施工)</Frame_Battery.label>
+    <Frame_Battery.description>余った電力を蓄える事が出来ます。\n(警告)雨や火災に曝すと爆発の原因となります。</Frame_Battery.description>
 
-	<SolarGenerator.label>太陽光発電</SolarGenerator.label>
-	<SolarGenerator.description>太陽光で発電します、暗闇や人工的な光の元では発電しません。</SolarGenerator.description>
-	<Blueprint_SolarGenerator.label>太陽光発電(設計)</Blueprint_SolarGenerator.label>
-	<Frame_SolarGenerator.label>太陽光発電(施工)</Frame_SolarGenerator.label>
-	<Frame_SolarGenerator.description>太陽光で発電します、夜間は発電しません。</Frame_SolarGenerator.description>
+    <SolarGenerator.label>太陽光発電</SolarGenerator.label>
+    <SolarGenerator.description>太陽光で発電します、暗闇や人工的な光の元では発電しません。</SolarGenerator.description>
+    <Blueprint_SolarGenerator.label>太陽光発電(設計)</Blueprint_SolarGenerator.label>
+    <Frame_SolarGenerator.label>太陽光発電(施工)</Frame_SolarGenerator.label>
+    <Frame_SolarGenerator.description>太陽光で発電します、夜間は発電しません。</Frame_SolarGenerator.description>
 
-	<GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
-	<GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません。</GeothermalGenerator.description>
-	<Blueprint_GeothermalGenerator.label>地熱発電(設計)</Blueprint_GeothermalGenerator.label>
-	<Frame_GeothermalGenerator.label>地熱発電(施工)</Frame_GeothermalGenerator.label>
-	<Frame_GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません。</Frame_GeothermalGenerator.description>
+    <GeothermalGenerator.label>地熱発電</GeothermalGenerator.label>
+    <GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません。</GeothermalGenerator.description>
+    <Blueprint_GeothermalGenerator.label>地熱発電(設計)</Blueprint_GeothermalGenerator.label>
+    <Frame_GeothermalGenerator.label>地熱発電(施工)</Frame_GeothermalGenerator.label>
+    <Frame_GeothermalGenerator.description>間欠泉の蒸気を使って発電する為、間欠泉の上にしか設置できません。</Frame_GeothermalGenerator.description>
 
-	<WatermillGenerator.label>水力発電</WatermillGenerator.label>
-	<WatermillGenerator.description>川から電力を生み出せます。水車は水路に配置しなければなりません。もし水車同士を近くに配置すると、乱流が発生して、他の発電効率が落ちてしまいます。</WatermillGenerator.description>
+    <WatermillGenerator.label>水力発電</WatermillGenerator.label>
+    <WatermillGenerator.description>川から電力を生み出せます。水車は水路に配置しなければなりません。もし水車同士を近くに配置すると、乱流が発生して、他の発電効率が落ちてしまいます。</WatermillGenerator.description>
 
 </LanguageData>

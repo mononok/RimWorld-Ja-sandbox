@@ -134,7 +134,6 @@
     <EquippedBy>{0}が装備している</EquippedBy>
     <QuestTargetDestroyInspectString>{0}は、破壊を求めている。\n    報償: {1}</QuestTargetDestroyInspectString>
     <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
-    <LongRangeMineralScannerEfficiency>能力: {0}</LongRangeMineralScannerEfficiency>
     <ItemStashContents>内容物: {0}</ItemStashContents>
     <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
     <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
@@ -496,11 +495,6 @@
 
     <!-- Generic lifespan -->
     <LifespanExpiry>寿命:</LifespanExpiry>
-
-    <!-- Traps -->
-    <TrapArmed>活性</TrapArmed>
-    <TrapNotArmed>不活性</TrapNotArmed>
-    <TrapRearmingCost>再活性化のコスト: {0}</TrapRearmingCost>
 
     <!-- Facilities -->
     <InactiveFacility>閉鎖</InactiveFacility>

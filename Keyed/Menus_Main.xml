@@ -28,7 +28,7 @@
     <CreateWorld>惑星を創造</CreateWorld>
 
     <!--=========== Main menu translations info window ===========-->
-    <TranslationThanks>Rimworldの、全ての多言語翻訳はファンが作った物です。次の素晴らしいボランティア達によって、ファン製の翻訳ファイルは作られました。</TranslationThanks>
+    <TranslationThanks>Rimworldの、全ての多言語翻訳はファンが作った物です。次の素晴らしいボランティア達によって、ファン製の翻訳ファイルは作られました。\n\n{0}</TranslationThanks>
     <TranslationHowToContribute>あなたも貢献することができます。下記のボタンを押してもっと知りましょう(ブラウザが開きます)。</TranslationHowToContribute>
     <LearnMore>もっと知る</LearnMore>
 
@@ -113,6 +113,11 @@
     <HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。この設定はオプションメニューからいつでも変更できます。</HowStorytellersWork>
     <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
     <Difficulty>難易度</Difficulty>
+<CommitmentMode>Commitment mode</CommitmentMode>
+<ReloadAnytimeMode>Reload anytime mode</ReloadAnytimeMode>
+<MustChoosePermadeath>Please choose commitment mode or reload anytime mode.</MustChoosePermadeath>
+<ReloadAnytimeModeInfo>You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode.</ReloadAnytimeModeInfo>
+    <PermadeathModeInfo>パーマデスモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
 
     <!--=========== Landing site select =========-->
     <SelectLandingSite>降下地点を選択</SelectLandingSite>

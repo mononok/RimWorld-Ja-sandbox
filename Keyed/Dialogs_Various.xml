@@ -130,8 +130,6 @@
     <MapStartSeason>開始時の季節</MapStartSeason>
     <MapStartSeasonDefault>自動</MapStartSeasonDefault>
     <Notice>通知</Notice>
-    <PermadeathMode>パーマデス モード</PermadeathMode>
-    <PermadeathModeInfo>パーマデスモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
 
     <!-- Bill config -->
     <Suspended>再開する</Suspended>
@@ -294,7 +292,6 @@
     <TooBigCaravanMassUsage>キャラバン隊は、こんな多量は運べません。</TooBigCaravanMassUsage>
     <CaravanMassUsageTooltip>運ぶアイテムと、身につけているアイテムの両方を含んでいます。最大積載量より少ないと移動速度にボーナスが与えられます。</CaravanMassUsageTooltip>
     <CaravanVisibilityTip>目立ちやすさは、キャラバン隊の気付かれ易さを表します。\n\n敵に見つかってしまう確率への掛け率を表しています。\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません。\n\n「目立ちやすさ」の基本値は、キャラバン隊の全ての動物と人間の体格の和をもとにしています。</CaravanVisibilityTip>
-    <!-- ここまで 07/10 -->
     <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
     <DaysWorthOfFoodInfoRot>腐敗 in {0}</DaysWorthOfFoodInfoRot>
     <InfiniteDaysWorthOfFoodInfo>期限なし</InfiniteDaysWorthOfFoodInfo>
@@ -444,12 +441,11 @@
     <!-- Send transport pods which are not completely loaded -->
     <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
-
     <!-- Settle near a faction base -->
-    <ConfirmSettleNearFactionBase>
+    <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base,they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
 
-Since this location is within {0} tiles of another faction base,
-they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\n
-Settle here anyways?</ConfirmSettleNearFactionBase>
+  <!-- Cleanup translation files -->
+  <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
 
 </LanguageData>

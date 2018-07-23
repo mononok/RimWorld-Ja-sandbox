@@ -153,6 +153,9 @@
     <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
     <CommandSelectPlantToGrowDesc>ここに蒔く種を決めます。</CommandSelectPlantToGrowDesc>
 
+<!-- Select mineral to scan for (long-range mineral scanner) -->
+<CommandSelectMineralToScanFor>Tuned to</CommandSelectMineralToScanFor>
+
     <!-- Build copy -->
     <CommandBuildCopy>複製</CommandBuildCopy>
     <CommandBuildCopyDesc>同じものの複製を建造する。</CommandBuildCopyDesc>

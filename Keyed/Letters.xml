@@ -53,8 +53,8 @@
     <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
     <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
-    <AnimalManhunterFromDamage>{0}は 手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
-    <AnimalManhunterFromTaming>手なずけるのに失敗し、{0}は 襲いかかってきた!</AnimalManhunterFromTaming>
+    <AnimalManhunterFromDamage>[PAWN_indefinite]は 手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
+    <AnimalManhunterFromTaming>手なずけるのに失敗し、[PAWN_indefinite]は 襲いかかってきた!</AnimalManhunterFromTaming>
     <AnimalManhunterOthers>そばにいた、他の{0}も いっせいに怒り狂った!</AnimalManhunterOthers>
 
     <LetterFriendlyTrapSprungLabel>{0}は 罠にはまった</LetterFriendlyTrapSprungLabel>
@@ -164,7 +164,7 @@
 
     <!-- Found lump of precious resources -->
     <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
-    <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+    <LetterFoundPreciousLump>Using your long-range mineral scanner, {3} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
 
     <!-- Ambush -->
     <LetterLabelAmbushInExistingMap>待ち伏せ</LetterLabelAmbushInExistingMap>

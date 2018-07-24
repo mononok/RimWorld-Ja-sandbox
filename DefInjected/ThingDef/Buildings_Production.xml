@@ -2,7 +2,7 @@
 <LanguageData>
 
     <CraftingSpot.label>作業場</CraftingSpot.label>
-    <CraftingSpot.description>ナイフや弓をつくる場所です。. Production here is slow because of the lack of tools.</CraftingSpot.description>
+    <CraftingSpot.description>ナイフや弓をつくる場所です。道具類が無いので、ここで作成すると作成速度が遅くなります。</CraftingSpot.description>
     <Blueprint_CraftingSpot.label>作業場(設計)</Blueprint_CraftingSpot.label>
     <Frame_CraftingSpot.label>作業場(施工)</Frame_CraftingSpot.label>
     <Frame_CraftingSpot.description>ナイフや弓をつくる場所です。</Frame_CraftingSpot.description>
@@ -49,10 +49,10 @@
     <Frame_ElectricSmithy.description>電動の、メカニカルではない武器やツールを作る工作台です。</Frame_ElectricSmithy.description>
 
     <TableMachining.label>精密工作機械</TableMachining.label>
-    <TableMachining.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining.description>
+    <TableMachining.description>銃、装弾、それとメカノイドの分解等のような機械を組み立てるためのワークステーションです。</TableMachining.description>
     <Blueprint_TableMachining.label>精密工作機械(設計)</Blueprint_TableMachining.label>
     <Frame_TableMachining.label>精密工作機械(施工)</Frame_TableMachining.label>
-    <Frame_TableMachining.description>メカノイドの身体や器官などの精密機械の分解・組立を行います。</Frame_TableMachining.description>
+    <Frame_TableMachining.description>銃、装弾、それとメカノイドの分解等のような機械を組み立てるためのワークステーションです。</Frame_TableMachining.description>
 
     <ElectricStove.label>電気コンロ</ElectricStove.label>
     <ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</ElectricStove.description>
@@ -61,10 +61,10 @@
     <Frame_ElectricStove.description>天板に電気コンロが埋め込まれた、料理を作るためのコンロです。</Frame_ElectricStove.description>
 
     <FueledStove.label>カマド</FueledStove.label>
-    <FueledStove.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    <FueledStove.description>肉を前処理する調理台がついた、燃料に薪を使うコンロです。</FueledStove.description>
     <Blueprint_FueledStove.label>カマド(設計)</Blueprint_FueledStove.label>
     <Frame_FueledStove.label>カマド(施工)</Frame_FueledStove.label>
-    <Frame_FueledStove.description>シンプルな、燃料に薪を使った、料理を作るためのコンロです。</Frame_FueledStove.description>
+    <Frame_FueledStove.description>肉を前処理する調理台がついた、燃料に薪を使うコンロです。</Frame_FueledStove.description>
 
     <TableStonecutter.label>ストーン カッター</TableStonecutter.label>
     <TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します。</TableStonecutter.description>
@@ -113,19 +113,19 @@
     <Frame_SimpleResearchBench.description>ローテクなツールなどを研究する机です。研究者はここで新しい発見をします。</Frame_SimpleResearchBench.description>
 
     <HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
-    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench.description>
+    <HiTechResearchBench.description>コンピュータ、電気測定器などを備えたハイテク研究設備です。より早い研究を可能にし、さらに上位の研究プロジェクトをアンロックできます。</HiTechResearchBench.description>
     <Blueprint_HiTechResearchBench.label>ハイテク 研究設備(設計)</Blueprint_HiTechResearchBench.label>
     <Frame_HiTechResearchBench.label>ハイテク 研究設備(施工)</Frame_HiTechResearchBench.label>
-    <Frame_HiTechResearchBench.description>ハイテクなツールなどを研究する机です。ハイテクツールを使うことで、より研究速度が速くなりますが、もっと電力が必要となります。</Frame_HiTechResearchBench.description>
+    <Frame_HiTechResearchBench.description>コンピュータ、電気測定器などを備えたハイテク研究設備です。より早い研究を可能にし、さらに上位の研究プロジェクトをアンロックできます。</Frame_HiTechResearchBench.description>
 
     <ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>
-    <ElectricCrematorium.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium.description>
+    <ElectricCrematorium.description>極めて高温で死骸を気化させる大型の火葬炉です。</ElectricCrematorium.description>
     <Blueprint_ElectricCrematorium.label>電気火葬炉(設計)</Blueprint_ElectricCrematorium.label>
     <Frame_ElectricCrematorium.label>電気火葬炉(施工)</Frame_ElectricCrematorium.label>
-    <Frame_ElectricCrematorium.description>電気式の火葬炉です。</Frame_ElectricCrematorium.description>
+    <Frame_ElectricCrematorium.description>極めて高温で死骸を気化させる大型の火葬炉です。</Frame_ElectricCrematorium.description>
 
     <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
-    <HydroponicsBasin.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin.description>
+    <HydroponicsBasin.description>植物を育成するための人工培養容器です。培養ポンプは作動し続けなければなりません;もし電力が落ちると植物は枯れるでしょう。</HydroponicsBasin.description>
     <Blueprint_HydroponicsBasin.label>水耕栽培器(設計)</Blueprint_HydroponicsBasin.label>
     <Frame_HydroponicsBasin.label>水耕栽培器(施工)</Frame_HydroponicsBasin.label>
     <Frame_HydroponicsBasin.description>水耕栽培に適した植物を早く育てることができます。</Frame_HydroponicsBasin.description>
@@ -138,7 +138,7 @@
     <Frame_FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です。</Frame_FermentingBarrel.description>
 
     <DeepDrill.label>深部ドリルマシン</DeepDrill.label>
-    <DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。This drill can also extract stone chunks if no resources are present.</DeepDrill.description>
+    <DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。もし資源が存在しないとドリルは石塊を採掘します。</DeepDrill.description>
     <Blueprint_DeepDrill.label>深部ドリルマシン(設計)</Blueprint_DeepDrill.label>
     <Frame_DeepDrill.label>深部ドリルマシン(施工)</Frame_DeepDrill.label>
     <Frame_DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです。鉱物資源を探査するために、地殻深部スキャナーも使います。</Frame_DeepDrill.description>
@@ -152,9 +152,9 @@
     <Frame_NutrientPasteDispenser.description>有機原料から栄養補給ペーストを合成する機械で、食材ホッパーの隣に置きます。料理するのに比べて、より少ない原料と時間で済みます。しかし栄養補給ペーストを好んで食べたがる人は一人も居ません。生の食材は原料になりますが、干し草などの植物は原料になりません。</Frame_NutrientPasteDispenser.description>
 
     <Hopper.label>食材ホッパー</Hopper.label>
-    <Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
+    <Hopper.description>ペースト ディスペンサのような機器を使うために資源を保持します。</Hopper.description>
     <Blueprint_Hopper.label>食材ホッパー(設計)</Blueprint_Hopper.label>
     <Frame_Hopper.label>食材ホッパー(施工)</Frame_Hopper.label>
-    <Frame_Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Frame_Hopper.description>
+    <Frame_Hopper.description>ペースト ディスペンサのような機器を使うために資源を保持します。</Frame_Hopper.description>
 
 </LanguageData>

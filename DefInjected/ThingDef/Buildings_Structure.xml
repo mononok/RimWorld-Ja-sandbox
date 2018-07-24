@@ -3,7 +3,7 @@
 
   <!--========================= Doors =============================-->
     <Door.label>ドア</Door.label>
-    <Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。The amount of slowdown depends on what the door is made of.</Door.description>
+    <Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。移動速度が遅くなる量は、ドアの材質によって決まります。</Door.description>
     <Blueprint_Door.label>ドア(設計)</Blueprint_Door.label>
     <Frame_Door.label>ドア(施工)</Frame_Door.label>
     <Frame_Door.description>部屋を隔てる手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</Frame_Door.description>

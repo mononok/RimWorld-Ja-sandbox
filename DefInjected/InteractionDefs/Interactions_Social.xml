@@ -6,53 +6,54 @@
     <!-- Chitchat -->
     <Chitchat.label>世間話</Chitchat.label>
     <Chitchat.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopicLight].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameIndef].</li>
-	    <li>talkedabout(p=4)->chatted about</li>
-	    <li>talkedabout->shared a word about</li>
-	    <li>talkedabout->spoke about</li>
-	    <li>talkedabout->gabbed about</li>
-	    <li>talkedabout->talked about</li>
-	    <li>talkedabout->joked about</li>
-	    <li>talkedabout->quipped about</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]と[RECIPIENT_nameIndef]は[TalkTopicLight]について[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[TalkTopicLight]について[RECIPIENT_nameIndef]と[talkedabout]</li>
+	    <li>talkedabout(p=4)->おしゃべりした</li>
+	    <li>talkedabout->井戸端会議をした</li>
+	    <li>talkedabout->話した</li>
+	    <li>talkedabout->ムダ話をした</li>
+	    <li>talkedabout->話し合った</li>
+	    <li>talkedabout->冗談を言った</li>
+	    <li>talkedabout->皮肉を言った</li>
     </Chitchat.logRulesInitiator.rulesStrings>
 
     <!-- DeepTalk -->
     <DeepTalk.label>込み入った話</DeepTalk.label>
     <DeepTalk.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [subject].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] [talkedabout] [subject] with [RECIPIENT_nameIndef].</li>
-	    <li>talkedabout->communicated thoughts about</li>
-	    <li>talkedabout->exchanged thoughts about</li>
-	    <li>talkedabout->exchanged ideas about</li>
-	    <li>talkedabout->shared views on</li>
-	    <li>talkedabout->shared beliefs on</li>
-	    <li>talkedabout->discussed the topic of</li>
-	    <li>talkedabout->had a heartfelt conversation about</li>
-	    <li>talkedabout->talked quietly about</li>
-	    <li>talkedabout->talked deeply about</li>
-	    <li>talkedabout->connected on the topic of</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]と[RECIPIENT_nameIndef]は[subject]について[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]と[talkedabout]</li>
+
+	    <li>talkedabout->思うことを伝えた</li>
+	    <li>talkedabout->意見の交換をした</li>
+	    <li>talkedabout->アイデアの交換をした</li>
+	    <li>talkedabout->見解を共有した</li>
+	    <li>talkedabout->信念を共有した</li>
+	    <li>talkedabout->話題を討論した</li>
+	    <li>talkedabout->心の奥底からの会話の機会を持った</li>
+	    <li>talkedabout->穏やかに話しあった</li>
+	    <li>talkedabout->深く突っ込んで話し合った</li>
+	    <li>talkedabout->話題をお互いに理解し合った</li>
 	    <li>subject->[TalkTopicHeavy]</li>
     </DeepTalk.logRulesInitiator.rulesStrings>
 
     <!-- Slight -->
     <Slight.label>冷たくあしらわれた</Slight.label>
     <Slight.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] [madefunof] [target]'s [PersonalCharacteristic].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[target]の[PersonalCharacteristic][madefunof]</li>
 	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-	    <li>target->[RECIPIENT_nameIndef]'s [Family]</li>
-	    <li>madefunof->made fun of</li>
-	    <li>madefunof->disrespected</li>
-	    <li>madefunof->subtly scorned</li>
-	    <li>madefunof->subtly shamed</li>
-	    <li>madefunof->spoke badly of</li>
-	    <li>madefunof->spoke negatively of</li>
-	    <li>madefunof->laughed at</li>
-	    <li>madefunof->sniggered at</li>
-	    <li>madefunof->implied negative things about</li>
-	    <li>madefunof->belittled</li>
-	    <li>madefunof->made a contemptuous remark about</li>
-	    <li>madefunof->offered a backhanded compliment about</li>
+	    <li>target->[RECIPIENT_nameIndef]の[Family]</li>
+	    <li>madefunof->をバカにした</li>
+	    <li>madefunof->を見下した</li>
+	    <li>madefunof->を微妙に嘲笑した</li>
+	    <li>madefunof->に巧妙に恥をかかせた</li>
+	    <li>madefunof->を悪く言った</li>
+	    <li>madefunof->を否定的に言った</li>
+	    <li>madefunof->をあざ笑った</li>
+	    <li>madefunof->をクスクス笑った</li>
+	    <li>madefunof->の否定的な事をほのめかした</li>
+	    <li>madefunof->をけなした</li>
+	    <li>madefunof->を人を馬鹿にしたようなことを言った</li>
+	    <li>madefunof->皮肉めいたお世辞を言った</li>
     </Slight.logRulesInitiator.rulesStrings>
 
     <!-- Insult -->

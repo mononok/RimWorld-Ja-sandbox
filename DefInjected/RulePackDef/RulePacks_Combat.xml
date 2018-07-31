@@ -76,7 +76,7 @@
 	    <li>adverb_flavortext->痛烈に</li>
 	    <li>adverb_flavortext->残酷に</li>
 	    <li>adverb_flavortext->恐ろしく</li>
-	    <li>adverb_flavortext->苦しみ悶える</li>
+	    <li>adverb_flavortext->酷く苦しめるように</li>
 	    <li>adverb_flavortext->猛烈に</li>
 	    <li>adverb_flavortext->情け容赦なく</li>
 	    <li>adverb_flavortext->獰猛に</li>
@@ -158,19 +158,19 @@
 
     <!-- Combat_DeflectIncludes -->
     <Combat_DeflectIncludes.rulePack.rulesStrings>
-	    <li>scraped_present->glancing</li>
-	    <li>scraped_present->bouncing</li>
-	    <li>scraped_present->grazing</li>
-	    <li>scraped_present->caroming</li>
-	    <li>scraped_present->skipping</li>
-	    <li>scraped_present->skating</li>
+	    <li>scraped_present->反射する</li>
+	    <li>scraped_present->跳ね返る</li>
+	    <li>scraped_present->擦る</li>
+	    <li>scraped_present->はね返る</li>
+	    <li>scraped_present->スキップする</li>
+	    <li>scraped_present->滑る</li>
 	
-	    <li>scraped_past->glanced</li>
-	    <li>scraped_past->bounced</li>
-	    <li>scraped_past->grazed</li>
-	    <li>scraped_past->caromed</li>
-	    <li>scraped_past->skipped</li>
-	    <li>scraped_past->skated</li>
+	    <li>scraped_past->反射した</li>
+	    <li>scraped_past->跳ね返った</li>
+	    <li>scraped_past->擦った</li>
+	    <li>scraped_past->はね返った</li>
+	    <li>scraped_past->スキップした</li>
+	    <li>scraped_past->滑った</li>
 	</Combat_DeflectIncludes.rulePack.rulesStrings>
 
     <!-- Combat_Hit -->
@@ -200,34 +200,34 @@
 
     <!-- Combat_Deflect -->
     <Combat_Deflect.rulePack.rulesStrings>
-	    <li>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</li>
-	    <li>r_logentry(p=0.3)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</li>
+	    <li>r_logentry(p=1)->[INITIATOR_definite]は [RECIPIENT_definite]の [RECIPIENT_part0_label]に [damaged_past] [deflected_result].</li>
+	    <li>r_logentry(p=0.3)->[INITIATOR_definite]は [INITIATOR_possessive]の [WEAPON_label]を [expertly]振り回し、[RECIPIENT_definite]の [RECIPIENT_part0_label]に [damaged_past] [deflected_result]。</li>
 	
-	    <li>r_logentry(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement] [deflected_result].</li>
-	    <li>r_logentry(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite] [deflected_result].</li>
-	    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] with [implement] [deflected_result].</li>
-	    <li>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] [deflected_result].</li>
+	    <li>r_logentry(p=0.3)->[INITIATOR_definite]は [RECIPIENT_definite]に当て、[implement]によって[damaged_inf] [deflected_result]。</li>
+	    <li>r_logentry(p=0.3)->[INITIATOR_definite]は [implement]を使って [RECIPIENT_definite]を [damaged_inf] [deflected_result]。</li>
+	    <li>r_logentry(p=0.6)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_past][deflected_result]。</li>
+	    <li>r_logentry(p=0.6)->[INITIATOR_definite]は [RECIPIENT_definite]を [damaged_past][deflected_result]。</li>
 	
 	    <li>at-></li>
 	    <li>at->at</li>
 	
-	    <li>deflected_result-> [adverb_deflected]</li>
-	    <li>deflected_result->, [deflected_consequence]</li>
+	    <li>deflected_result->、そして[adverb_deflected]</li>
+	    <li>deflected_result->、[deflected_consequence]</li>
 	
 	    <li>adverb_deflected_opt(p=4)-></li>
-	    <li>adverb_deflected_opt->[adverb_deflected]</li>
+	    <li>adverb_deflected_opt->、そして[adverb_deflected]</li>
 	
-	    <li>adverb_deflected->harmlessly</li>
-	    <li>adverb_deflected->uselessly</li>
+	    <li>adverb_deflected->無害となった</li>
+	    <li>adverb_deflected->用を成さなくなった</li>
 	
-	    <li>deflected_consequence->but the [TOOL_label] [scraped_past] off [adverb_deflected_opt]</li>
-	    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+	    <li>deflected_consequence->しかし、[TOOL_label]は [scraped_past][adverb_deflected_opt]</li>
+	    <li>deflected_consequence->[RECIPIENT_possessive]アーマーを[scraped_present][adverb_deflected_opt]</li>
 	
-	    <li>scraped_present->scraping</li>
-	    <li>scraped_present->sliding</li>
+	    <li>scraped_present->こする</li>
+	    <li>scraped_present->すべる</li>
 	
-	    <li>scraped_past->scraped</li>
-	    <li>scraped_past->slid</li>
+	    <li>scraped_past->こすった</li>
+	    <li>scraped_past->すべった</li>
 	</Combat_Deflect.rulePack.rulesStrings>
 
     <!-- Combat_FailIncludes -->
@@ -292,7 +292,7 @@
 	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [WEAPON_projectile_label]を [shot]。</li>
 	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_label]を [shot]。</li>
 	
-	    <li>shot_a->[adverb_shot] [verb_shot] a</li>
+	    <li>shot_a->[adverb_shot] [verb_shot]</li>
 	    <li>shot_a(p=2)->[verb_shot] a</li>
 	
 	    <li>shot(p=2)->[verb_shot]</li>
@@ -308,47 +308,47 @@
 	    <li>shotat(p=0.5)->狙って [aburst]発砲した</li>
 	    <li>shotat(p=0.3)->[adverb_shot]狙って [aburst]発砲した</li>
 	
-	    <li>aburst->一発</li>
+	    <li>aburst->一発だけ</li>
 	    <li>aburst(BURST==True,p=3)->連続して</li>
 	
-	    <li>burst->一発</li>
+	    <li>burst->一発だけ</li>
 	    <li>burst(BURST==True,p=3)->連続して</li>
 	
-	    <li>verb_shot->shot</li>
-	    <li>verb_shot->fired</li>
-	    <li>verb_shot->discharged</li>
+	    <li>verb_shot->撃った</li>
+	    <li>verb_shot->発砲した</li>
+	    <li>verb_shot->射出した</li>
 	
-	    <li>adverb_shot->carefully</li>
-	    <li>adverb_shot->quickly</li>
-	    <li>adverb_shot->precisely</li>
-	    <li>adverb_shot->deliberately</li>
-	    <li>adverb_shot(initiator_flesh!=Mechanoid)->gingerly</li>
-	    <li>adverb_shot->precisely</li>
-	    <li>adverb_shot(initiator_flesh!=Mechanoid)->warily</li>
+	    <li>adverb_shot->丁寧に</li>
+	    <li>adverb_shot->すばやく</li>
+	    <li>adverb_shot->正確に</li>
+	    <li>adverb_shot->ゆっくりと</li>
+	    <li>adverb_shot(initiator_flesh!=Mechanoid)->恐る恐る</li>
+	    <li>adverb_shot->正確に</li>
+	    <li>adverb_shot(initiator_flesh!=Mechanoid)->慎重に</li>
 	
-	    <li>adjective_shot->careful</li>
-	    <li>adjective_shot->quick</li>
-	    <li>adjective_shot->deliberate</li>
-	    <li>adjective_shot->precise</li>
-	    <li>adjective_shot(initiator_flesh!=Mechanoid)->wary</li>
+	    <li>adjective_shot->注意深く</li>
+	    <li>adjective_shot->即座に</li>
+	    <li>adjective_shot->入念に</li>
+	    <li>adjective_shot->正確に</li>
+	    <li>adjective_shot(initiator_flesh!=Mechanoid)->慎重に</li>
     </Combat_RangedFire.rulePack.rulesStrings>
 
     <!-- Combat_RangedFire_Thrown -->
     <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-	    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
-	    <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
-	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</li>
-	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+	    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]に向けて [INITIATOR_possessive] [WEAPON_projectile_label]を [threw]。</li>
+	    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]に向けて [WEAPON_projectile_label]を [threw_a]。</li>
+	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [INITIATOR_possessive] [WEAPON_projectile_label]を [threw]。</li>
+	    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite]は [WEAPON_projectile_label]を [threw_a]。</li>
 	
-	    <li>threw_a->[adverb_threw] [verb_threw] a</li>
+	    <li>threw_a->[adverb_threw] [verb_threw]</li>
 	    <li>threw_a(p=2)->[verb_threw] a</li>
 	
 	    <li>threw(p=2)->[verb_threw]</li>
 	    <li>threw->[adverb_threw] [verb_threw]</li>
 	
-	    <li>verb_threw->threw</li>
-	    <li>verb_threw->flung</li>
-	    <li>verb_threw->lanched</li>
+	    <li>verb_threw->発射した</li>
+	    <li>verb_threw->発射した</li>
+	    <li>verb_threw->発射した</li>
 	
 	    <li>adverb_threw->慎重に</li>
 	    <li>adverb_threw->機敏に</li>
@@ -446,48 +446,47 @@
 
     <!-- Combat_RangedDeflect -->
     <Combat_RangedDeflect.rulePack.rulesStrings>
-	    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
-	    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-	    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</li>
-	
-	    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
-	    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-	    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</li>
-	    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-	    <li>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite] [deflected_result].</li>
+	    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target]を[damaged_past]、そして[deflected_result].</li>
+	    <li>r_logentry(p=2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[ORIGINALTARGET_definite]を[missed]、そして[RECIPIENT_definite][damaged_target_possessive_opt]を[damaged_past]、[deflected_result].</li>
+	    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]を[damaged_past]、[deflected_result].</li>
+	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は[WEAPON_projectile_label]を[RECIPIENT_definite][damaged_target_possessive_opt]に命中させ[deflected_result]。</li>
+	    <li>r_logentry(p=0.2)->[INITIATOR_definite]の[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]に当たり[deflected_result].</li>
+	    <li>r_logentry(p=0.4)->[INITIATOR_definite]は[ORIGINALTARGET_definite]を[missed]、そして[WEAPON_projectile_label]は[RECIPIENT_definite][damaged_target_possessive_opt]に当たり[deflected_result]。</li>
+	    <li>r_logentry(p=0.4)->[INITIATOR_definite]の[WEAPON_projectile_label]は[ORIGINALTARGET_definite]を[missed]、そして[RECIPIENT_definite][damaged_target_possessive_opt]に当たり[deflected_result]。</li>
+	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は[ORIGINALTARGET_definite]に向けた[WEAPON_projectile_label]を[RECIPIENT_definite][damaged_target_possessive_opt]に命中させ[deflected_result]。</li>
 	
 	    <!-- fallback, also a little variety -->
-	    <li>WEAPON_projectile_label(p=0.05)->shot</li>
+	    <li>WEAPON_projectile_label(p=0.05)->弾</li>
 	
 	    <li>damaged_target_possessive_opt-></li>
-	    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [RECIPIENT_part_damaged0_label]</li>
+	    <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->の[RECIPIENT_part_damaged0_label]</li>
 	
-	    <li>deflected_result-> [adverb_deflected]</li>
-	    <li>deflected_result->, [deflected_consequence]</li>
+	    <li>deflected_result->て[adverb_deflected]</li>
+	    <li>deflected_result->、[deflected_consequence]</li>
 	
 	    <li>adverb_deflected_opt(p=4)-></li>
-	    <li>adverb_deflected_opt->[adverb_deflected]</li>
+	    <li>adverb_deflected_opt->、そして[adverb_deflected]</li>
 	
-	    <li>adverb_deflected->harmlessly</li>
-	    <li>adverb_deflected->uselessly</li>
+	    <li>adverb_deflected->無害となった</li>
+	    <li>adverb_deflected->用を成さなくなった</li>
 	
-	    <li>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</li>
-	    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+	    <li>deflected_consequence->しかし、[scraped_past][adverb_deflected_opt]</li>
+	    <li>deflected_consequence->[RECIPIENT_possessive]アーマーが[scraped_present][adverb_deflected_opt]</li>
 	
-	    <li>scraped_past->ricocheted</li>
+	    <li>scraped_past->跳ね返った</li>
 	
-	    <li>scraped_present->ricocheting</li>
+	    <li>scraped_present->跳ね返す</li>
 	
-	    <li>missed->missed</li>
-	    <li>missed->narrowly missed</li>
+	    <li>missed->外した</li>
+	    <li>missed->かろうじて外した</li>
 	</Combat_RangedDeflect.rulePack.rulesStrings>
 
     <!-- Combat_RangedMiss -->
     <Combat_RangedMiss.rulePack.rulesStrings>
-	    <li>r_logentry->[INITIATOR_definite]の [WEAPON_projectile_label]は [missed]。</li>
+	    <li>r_logentry->[INITIATOR_definite]の[WEAPON_projectile_label]は[missed]。</li>
 	
-	    <li>r_logentry->[INITIATOR_definite]は [ORIGINALTARGET_definite]を狙ってはずした</li>
-	    <li>r_logentry->[ORIGINALTARGET_definite]は [avoidance]、 [INITIATOR_definite]の [WEAPON_projectile_label]は [missing]。</li>
+	    <li>r_logentry->[INITIATOR_definite]は[ORIGINALTARGET_definite]を狙って外した</li>
+	    <li>r_logentry->[ORIGINALTARGET_definite]は[avoidance]、[INITIATOR_definite]の[WEAPON_projectile_label]は[missing]。</li>
 	
 	    <li>missed(p=4)->当たらなかった</li>
 	    <li>missed(p=2)->僅かな差ではずした</li>
@@ -505,10 +504,10 @@
 	
 	    <li>missing->当たらない</li>
 	    <li>missing->僅かな差で当たらない</li>
-	    <li>missing->大きくはずす</li>
+	    <li>missing->大きく外す</li>
 	    <li>missing->狙いを外す</li>
-	    <li>missing->空の彼方へはずす</li>
-	    <li>missing->空高くはずす</li>
+	    <li>missing->空の彼方へ外す</li>
+	    <li>missing->空高く外す</li>
 	    <li>missing->地面を穿つ</li>
 	    <li>missing->地を這って何処かに行く</li>
 	    <li>missing->地面を削り取る</li>
@@ -526,29 +525,29 @@
 
     <!-- Combat_ExplosionImpact -->
     <Combat_ExplosionImpact.rulePack.rulesStrings>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_projectile_label][fromof] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_label][fromof] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_projectile_label][fromof] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_label][fromof] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_projectile_label] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_label] [blast]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_projectile_label]</li>
-	    <li>prefix->[INITIATOR_definite]の [WEAPON_label]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label][fromof][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_label][fromof][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label][fromof][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_label][fromof][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_label][blast]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_projectile_label]</li>
+	    <li>prefix->[INITIATOR_definite]の[WEAPON_label]</li>
 	
-	    <li>r_logentry->[prefix]は [RECIPIENT_definite]を [injured]</li>
+	    <li>r_logentry->[prefix]は[RECIPIENT_definite]を[injured]</li>
 	
-	    <li>r_logentry->[prefix]は [RECIPIENT_definite]の [destroyed_targets] [destroyed_past]。</li>
-	    <li>r_logentry->[prefix]は [RECIPIENT_definite]の [destroyed_targets] [adverb_flavortext] [destroyed_past].</li>
-	    <li>r_logentry->[prefix]は [RECIPIENT_definite]の [destroyed_targets]を [adverb_flavortext] [destroyed_past] .</li>
-	    <li>r_logentry->[prefix]は [RECIPIENT_definite]の [destroyed_targets]を [destroyed_past]、そして [RECIPIENT_possessive] [damaged_targets]を [damaged_past]。</li>
-	    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は [RECIPIENT_definite]の [damaged_targets]を [damaged_past].</li>
-	    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は [RECIPIENT_definite]の [damaged_targets]を [adverb_flavortext] [damaged_past]。</li>
-	    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は [RECIPIENT_definite]の [damaged_targets]を [adverb_flavortext] [damaged_past].</li>
+	    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][destroyed_past]。</li>
+	    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets][adverb_flavortext][destroyed_past]。</li>
+	    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[adverb_flavortext][destroyed_past]。</li>
+	    <li>r_logentry->[prefix]は[RECIPIENT_definite]の[destroyed_targets]を[destroyed_past]、そして[RECIPIENT_possessive][damaged_targets]を[damaged_past]。</li>
+	    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[RECIPIENT_definite]の[damaged_targets]を[damaged_past].</li>
+        <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[RECIPIENT_definite]の[damaged_targets]を[adverb_flavortext][damaged_past]。</li>
+        <li>r_logentry(recipient_part_destroyed_count==0)->[prefix]は[adverb_flavortext][RECIPIENT_definite]の[damaged_targets]を[damaged_past]。</li>
 	
-	    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]を [damaged_past]。</li>
-	    <li>r_logentry->[INITIATOR_definite]は [RECIPIENT_definite]を [adverb_flavortext] [damaged_past]。</li>
-	    <li>r_logentry->[RECIPIENT_definite]を [damaged_past]。</li>
+	    <li>r_logentry->[INITIATOR_definite]は[RECIPIENT_definite]を[damaged_past]。</li>
+	    <li>r_logentry->[INITIATOR_definite]は[adverb_flavortext][RECIPIENT_definite]を[damaged_past]。</li>
+	    <li>r_logentry->[RECIPIENT_definite]を[damaged_past]。</li>
 	
 	    <!-- final fallbacks -->
 	    <li>r_logentry(p=0.001)->[RECIPIENT_definite]は爆風に巻かれた。</li>
@@ -561,8 +560,8 @@
 	    <li>blast->放出</li>
 	    <li>blast->衝撃</li>
 	
-	    <li>fromof->from</li>
-	    <li>fromof->of</li>
+	    <li>fromof->からの</li>
+	    <li>fromof->の</li>
     </Combat_ExplosionImpact.rulePack.rulesStrings>
 
 </LanguageData>

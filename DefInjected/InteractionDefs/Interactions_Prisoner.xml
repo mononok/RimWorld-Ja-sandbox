@@ -2,69 +2,69 @@
 <LanguageData>
 
     <!-- BuildRapport -->
-	<BuildRapport.label>try to getto know</BuildRapport.label>
+	<BuildRapport.label>知っている事を取ろうとする</BuildRapport.label>
     <BuildRapport.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] [toldastoryabout] [subject] to [RECIPIENT_nameIndef].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] told [RECIPIENT_nameIndef] about [subject].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] described [subject] to [RECIPIENT_nameIndef].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] encouraged [RECIPIENT_nameIndef] to [talkabout] [subject].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] offered a chance for [RECIPIENT_nameIndef] to [talkabout] [subject].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[subject][toldastoryabout]</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]に話した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]に説明した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[subject][talkabout]ことを[RECIPIENT_nameIndef]に勧めた</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[subject][talkabout]チャンスを薦めた</li>
 	    <li>r_logentry->[INITIATOR_nameIndef] expressed interest in [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</li>
 	    <li>r_logentry->[INITIATOR_nameIndef] asked [RECIPIENT_nameIndef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
 
-	    <li>toldastoryabout(p=2)->told a story about</li>
-	    <li>toldastoryabout->told a funny story about</li>
-	    <li>toldastoryabout->told a heartfelt story about</li>
-	    <li>toldastoryabout->told an old story about</li>
-	    <li>toldastoryabout->told a family story about</li>
-	    <li>toldastoryabout->told a childhood story about</li>
-	    <li>toldastoryabout->mentioned an anecdote about</li>
+	    <li>toldastoryabout(p=2)->について話をした</li>
+	    <li>toldastoryabout->についておかしな話をした</li>
+	    <li>toldastoryabout->について心からの話をした</li>
+	    <li>toldastoryabout->について古い話をした</li>
+	    <li>toldastoryabout->について家族ことを話した</li>
+	    <li>toldastoryabout->について幼少期の話をした</li>
+	    <li>toldastoryabout->について秘話を述べた</li>
 
-	    <li>talkabout->talk about</li>
-	    <li>talkabout->discuss</li>
-	    <li>talkabout->have a discussion about</li>
-	    <li>talkabout->ask about</li>
-	    <li>talkabout->think about</li>
-	    <li>talkabout->find common ground around</li>
+	    <li>talkabout->について話す</li>
+	    <li>talkabout->について議論する</li>
+	    <li>talkabout->について検討する機会をもつ</li>
+	    <li>talkabout->について尋ねる</li>
+	    <li>talkabout->しようと思う</li>
+	    <li>talkabout->における妥協点を見つける</li>
 
-	    <li>subject->the colony</li>
-	    <li>subject->the community</li>
-	    <li>subject->joining the colony</li>
-	    <li>subject->changing teams</li>
-	    <li>subject->finding friends</li>
-	    <li>subject->meeting new people</li>
-	    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
-	    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
-	    <li>subject->health</li>
-	    <li>subject->the future</li>
-	    <li>subject->letting go</li>
+	    <li>subject->植民地</li>
+	    <li>subject->共同体</li>
+	    <li>subject->コロニー参加</li>
+	    <li>subject->チーム変更</li>
+	    <li>subject->仲間探し</li>
+	    <li>subject->新人との出会い</li>
+	    <li>subject->[RECIPIENT_possessive]発想を再審議</li>
+	    <li>subject->[RECIPIENT_possessive]忠誠を再考</li>
+	    <li>subject->健康</li>
+	    <li>subject->未来</li>
+	    <li>subject->見送り</li>
 	    <li>subject(p=4)->[ConceptPositive]</li>
 	    <li>subject(p=2)->[RECIPIENT_possessive] [PersonalCharacteristic]</li>
 	    <li>subject(p=8)->[TalkTopicLight]</li>
     </BuildRapport.logRulesInitiator.rulesStrings>
 
     <!-- RecruitAttempt -->
-	<RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
+	<RecruitAttempt.label>勧誘</RecruitAttempt.label>
     <RecruitAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] asked [RECIPIENT_nameIndef] to join.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] promised [goodthing] to [RECIPIENT_nameIndef], and asked [RECIPIENT_objective] to join.</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は仲間になろうと[RECIPIENT_nameIndef]に尋ねた</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[goodthing]を約束し、仲間になろうと[RECIPIENT_nameIndef]に尋ねた</li>
 
 	    <li>goodthing(p=15)->[ConceptPositive]</li>
-	    <li>goodthing->free, fresh [Vegetable]s</li>
+	    <li>goodthing->自由と,新鮮な[Vegetable]</li>
     </RecruitAttempt.logRulesInitiator.rulesStrings>
 
     <!-- SparkJailbreak -->
-	<SparkJailbreak.label>spark jailbreak</SparkJailbreak.label>
+	<SparkJailbreak.label>脱走先導</SparkJailbreak.label>
     <SparkJailbreak.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] spoke about the joy of [freedom], and offered a means of escape.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] demonstrated a means of escape to [RECIPIENT_nameIndef], and promised [freedom].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] told [RECIPIENT_nameIndef] that security is lax, and encouraged escape.</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[freedom]の良さについて話し、脱走方法を提案した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は、どれだけ[TerrainFeature]が美しいかについて話し自由へと誘った</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に脱走の仕方についてハッキリと示し[freedom]を約束した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は、警備が緩んでいるので脱走を勧める話を[RECIPIENT_nameIndef]に言った</li>
 
-	    <li>freedom->freedom</li>
-	    <li>freedom->opportunity</li>
-	    <li>freedom->home</li>
-	    <li>freedom->self-determination</li>
+	    <li>freedom->自由</li>
+	    <li>freedom->成功すること</li>
+	    <li>freedom->帰郷</li>
+	    <li>freedom->好きにやれること</li>
     </SparkJailbreak.logRulesInitiator.rulesStrings>
 
 </LanguageData>

@@ -4,68 +4,68 @@
     <!-- RomanceAttempt -->
     <RomanceAttempt.label>誘惑する</RomanceAttempt.label>
     <RomanceAttempt.logRulesInitiator.rulesStrings>
-        <li>r_logentry->[INITIATOR_nameIndef] [wooed] [OTHER_nameIndef] by [wootactic].</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[wootactic][OTHER_nameIndef][wooed]</li>
 
-        <li>wooed->tried to flirt with</li>
-        <li>wooed->flirted with</li>
-        <li>wooed->tried to attract</li>
-        <li>wooed->tried to romance</li>
-        <li>wooed->tried to woo</li>
-        <li>wooed->wooed</li>
-        <li>wooed->pursued</li>
-        <li>wooed->charmed</li>
-        <li>wooed->courted</li>
+        <li>wooed->を弄ぼうとしてみた</li>
+        <li>wooed->をもてあそんだ</li>
+        <li>wooed->を惹きつけようとしてみた</li>
+        <li>wooed->とロマンスしようとしてみた</li>
+        <li>wooed->に求愛しようとしてみた</li>
+        <li>wooed->に求愛した</li>
+        <li>wooed->につきまとった</li>
+        <li>wooed->を魅了した</li>
+        <li>wooed->を口説いた</li>
 
-        <li>wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic]</li>
-        <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
-        <li>wootactic(p=2)->telling a story about [TalkTopicLight]</li>
-        <li>wootactic(p=2)->telling a story about [TalkTopicHeavy]</li>
-        <li>wootactic->comparing [OTHER_objective] to a [romantic_adj] [romantic_noun]</li>
-        <li>wootactic->describing [OTHER_objective] as a [romantic_adj] [romantic_noun]</li>
+        <li>wootactic(p=4)->[OTHER_possessive][PersonalCharacteristic][complimenting]</li>
+        <li>wootactic(p=2)->[INITIATOR_possessive]自身[PersonalCharacteristic][boasting] </li>
+        <li>wootactic(p=2)->[TalkTopicLight]についての話をしつつ</li>
+        <li>wootactic(p=2)->[TalkTopicHeavy]についての話をしながら</li>
+        <li>wootactic->[OTHER_objective]を[romantic_adj][romantic_noun]にたとえながら</li>
+        <li>wootactic->[OTHER_objective]を[romantic_adj][romantic_noun]として言葉で表しながら</li>
 
-        <li>boasting->boasting about</li>
-        <li>boasting->mentioning</li>
-        <li>boasting->implying good things about</li>
-        <li>boasting->exaggerating</li>
-        <li>boasting->talking about</li>
-        <li>boasting->drawing attention to</li>
+        <li>boasting->について自慢しながら</li>
+        <li>boasting->の事を話しに出しながら</li>
+        <li>boasting->について良いことをほのめかしながら</li>
+        <li>boasting->を大げさにいいながら</li>
+        <li>boasting->の事を話しながら</li>
+        <li>boasting->に注意をむけながら</li>
 
-        <li>complimenting(p=3)->complimenting</li>
-        <li>complimenting->subtly complimenting</li>
-        <li>complimenting->lauding</li>
-        <li>complimenting->commending</li>
-        <li>complimenting->saying good things about</li>
-        <li>complimenting(p=2)->playfully making fun of</li>
-        <li>complimenting->jokingly poking at</li>
-        <li>complimenting->jokingly half-complimenting</li>
-        <li>complimenting->impishly questioning</li>
-        <li>complimenting->cheerfully making fun of</li>
+        <li>complimenting(p=3)->を褒めながら</li>
+        <li>complimenting->のずるいお世辞を述べながら</li>
+        <li>complimenting->を叫びながら</li>
+        <li>complimenting->を賞賛しながら</li>
+        <li>complimenting->のいい事を言いながら</li>
+        <li>complimenting(p=2)->の冗談をいいながら</li>
+        <li>complimenting->をじゃれてつつきながら</li>
+        <li>complimenting->を冗談半分に褒めながら</li>
+        <li>complimenting->を無邪気に詮索しながら</li>
+        <li>complimenting->を陽気にからかいながら</li>
 
-        <li>romantic_adj->beautiful</li>
-        <li>romantic_adj->shining</li>
-        <li>romantic_adj->glimmering</li>
-        <li>romantic_adj->heavenly</li>
-        <li>romantic_adj->golden</li>
-        <li>romantic_adj->bright</li>
-        <li>romantic_adj->breathtaking</li>
-        <li>romantic_adj->charming</li>
-        <li>romantic_adj->dazzling</li>
-        <li>romantic_adj->delicate</li>
-        <li>romantic_adj->fine</li>
-        <li>romantic_adj->magnificent</li>
-        <li>romantic_adj->lovely</li>
-        <li>romantic_adj->wonderful</li>
+        <li>romantic_adj->美しい</li>
+        <li>romantic_adj->輝く</li>
+        <li>romantic_adj->かすかに光る</li>
+        <li>romantic_adj->素晴らしい</li>
+        <li>romantic_adj->金色な</li>
+        <li>romantic_adj->輝かしい</li>
+        <li>romantic_adj->驚くような</li>
+        <li>romantic_adj->魅力的な</li>
+        <li>romantic_adj->見事な</li>
+        <li>romantic_adj->繊細な</li>
+        <li>romantic_adj->素敵な</li>
+        <li>romantic_adj->崇高な</li>
+        <li>romantic_adj->かわいい</li>
+        <li>romantic_adj->素晴らしい</li>
         <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
 
-        <li>romantic_noun->flower</li>
-        <li>romantic_noun->spring</li>
-        <li>romantic_noun->river</li>
-        <li>romantic_noun->star</li>
-        <li>romantic_noun->moon</li>
-        <li>romantic_noun->sun</li>
-        <li>romantic_noun->house</li>
-        <li>romantic_noun->aurora</li>
-        <li>romantic_noun->[TreeType] tree</li>
+        <li>romantic_noun->花</li>
+        <li>romantic_noun->春</li>
+        <li>romantic_noun->川</li>
+        <li>romantic_noun->星</li>
+        <li>romantic_noun->月</li>
+        <li>romantic_noun->太陽</li>
+        <li>romantic_noun->家</li>
+        <li>romantic_noun->オーロラ</li>
+        <li>romantic_noun->[TreeType]樹</li>
         <li>romantic_noun(p=2)->[TerrainFeature]</li>
         <li>romantic_noun(p=2)->[NaturalObject]</li>
     </RomanceAttempt.logRulesInitiator.rulesStrings>
@@ -73,18 +73,18 @@
     <!-- MarriageProposal -->
     <MarriageProposal.label>プロポーズ</MarriageProposal.label>
     <MarriageProposal.logRulesInitiator.rulesStrings>
-        <li>r_logentry->[INITIATOR_nameIndef] proposed marriage to [OTHER_nameIndef].</li>
-        <li>r_logentry->[INITIATOR_nameIndef] proposed a lifelong commitment to [OTHER_nameIndef].</li>
-        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に結婚のプロポーズをした</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]を生涯の伴侶としてプロポーズした</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、[INITIATOR_pronoun]は[INITIATOR_possessive]人生を[OTHER_objective]と共に過ごしたいことを</li>
     </MarriageProposal.logRulesInitiator.rulesStrings>
 
     <!-- Breakup -->
     <Breakup.label>別れ</Breakup.label>
     <Breakup.logRulesInitiator.rulesStrings>
-        <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for a break.</li>
-        <li>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for some space.</li>
-        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it's not working out.</li>
-        <li>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it would be best to see other people.</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に別れを求めた</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に距離を置くことを求めた</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、あなたが何を考えているのか分からないことを</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、他の人に目を向けたほうが一番いいことになるだろうと</li>
     </Breakup.logRulesInitiator.rulesStrings>
 
 </LanguageData>

@@ -2,17 +2,17 @@
 <LanguageData>
     
     <TalelessImages.rulePack.rulesStrings>
-	    <li>image->a solitary [Character] [desc_pawn]</li>
-	    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
-	    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
-	    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
-	    <li>image->[Character]s playing [Game]</li>
-	    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
-	    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
-	    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
-	    <li>image->[Quantity_adjphrase] [Person]s and [Person]s eating [Vegetable]s together</li>
-	    <li>image->the minor celebrity [PersonName] [desc_pawn]</li>
-	    <li>image->[apparel]を着た [Character]が [desc_pawn]。</li>
+	    <li>image->一人ぼっちの[Character]が[desc_pawn]</li>
+	    <li>image->[TerrainFeature]傍の一人ぼっちの[Character]が[desc_pawn]</li>
+	    <li>image->[Community]傍の一人ぼっちの[Character]が[desc_pawn]</li>
+	    <li>image->[desc_pawn][Character]は[Character]達に囲まれている</li>
+	    <li>image->[Character]は[Game]をしている</li>
+	    <li>image->[desc_pawn][Character]が[Quantity_adjphrase]の[Character]と[Game]をしている</li>
+	    <li>image->[desc_pawn][Character]が[Weapon]を構えている</li>
+	    <li>image->[desc_pawn][Character]が[Vegetable]を食べている</li>
+	    <li>image->[Quantity_adjphrase]の[Person]達と[Person]達が互いに[Vegetable]を食べている</li>
+	    <li>image->二流有名人[PersonName]が[desc_pawn]</li>
+	    <li>image->[apparel]を着た [Character]が[desc_pawn]。</li>
 	    <!-- terrain -->
 	    <li>image->ある[Community]</li>
 	    <li>image->ある[TerrainFeature]</li>
@@ -22,12 +22,12 @@
 	    <li>image->ある[NaturalObject]</li>
 	    <li>image->[Quantity_adjphrase]の[Weapon]</li>
 	    <li>image->[Quantity_adjphrase]の[Vegetable]</li>
-	    <li>image->an empty [Apparel]</li>
+	    <li>image->中身のない[Apparel]</li>
 	    <!-- abstract -->
-	    <li>image->a [Shape]</li>
-	    <li>image->a [Shape] surrounded by [Shape]s</li>
-	    <li>image->an abstracted rendering of [Concept]</li>
-	    <li>image->a [Adjective] abstract shape</li>
+	    <li>image->ある[Shape]</li>
+	    <li>image->たくさんの[Shape]で囲まれた[Shape]</li>
+	    <li>image->[Concept]の抽象的描写</li>
+	    <li>image->[Adjective]抽象的図形</li>
 	    
 	    <li>desc_pawn(p=12)-></li>
 	    <li>desc_pawn->空を飛んでいる</li>

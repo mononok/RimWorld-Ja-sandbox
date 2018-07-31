@@ -4,98 +4,98 @@
     <!-- AnimalChat -->
     <AnimalChat.label>生き物と会話</AnimalChat.label>
     <AnimalChat.logRulesInitiator.rulesStrings>
-	    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [talktopic].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [talktopic].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [talktopic].</li>
+	    <li>r_logentry(p=5)->[INITIATOR_nameDef][tamed]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の傍に腰掛け、[talktopic]についてのひとりごとを言った。</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[talktopic]のことを自分自身に囁きつつ[RECIPIENT_nameDef]に近づいていった。</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[talktopic]について、独り言をいいながら[RECIPIENT_nameDef]の近くにやってきた。</li>
 	
-	    <li>tamed->made calming noises towards</li>
-	    <li>tamed->offered slow, friendly gestures to</li>
-	    <li>tamed->made shushing noises at</li>
-	    <li>tamed->made happy clicking noises at</li>
-	    <li>tamed->gestured gently and approached</li>
-	    <li>tamed->slowly approached</li>
-	    <li>tamed->gently touched</li>
-	    <li>tamed->calmed and encouraged</li>
-	    <li>tamed->matched breathing with</li>
-	    <li>tamed->took a low stance while approaching</li>
-	    <li>tamed->showed no fear or anger to</li>
-	    <li>tamed->feigned inattention towards</li>
-	    <li>tamed->gently hummed a song at</li>
-	    <li>tamed->sang an old lullaby at</li>
-	    <li>tamed->firmly yet softly touched</li>
-	    <li>tamed->showed a relaxed attitude towards</li>
-	    <li>tamed->sat patiently near</li>
-	    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+	    <li>tamed->は[RECIPIENT_nameDef]の方へ静かな音をだした</li>
+	    <li>tamed->は[RECIPIENT_nameDef]へ友好的な身振りをし、ゆっくり与えた</li>
+	    <li>tamed->は[RECIPIENT_nameDef]へシッーと音をだした</li>
+	    <li>tamed->は[RECIPIENT_nameDef]にリラックスしたカチカチ音をだした</li>
+	    <li>tamed->は優しく見ぶりをし、[RECIPIENT_nameDef]に近づいていった</li>
+	    <li>tamed->はゆっくり[RECIPIENT_nameDef]に近づいていった</li>
+	    <li>tamed->はやさしく[RECIPIENT_nameDef]にタッチした</li>
+	    <li>tamed->は落ち着かせて[RECIPIENT_nameDef]を励ました</li>
+	    <li>tamed->は[RECIPIENT_nameDef]と息を合わせた</li>
+	    <li>tamed->は低い姿勢で[RECIPIENT_nameDef]に近づいていった</li>
+	    <li>tamed->は[RECIPIENT_nameDef]に恐れや怒りを見せなかった</li>
+	    <li>tamed->は[RECIPIENT_nameDef]に向けて油断しているように装った</li>
+	    <li>tamed->は[RECIPIENT_nameDef]にやさしくハミングをした</li>
+	    <li>tamed->は[RECIPIENT_nameDef]に古い子守唄を唄った</li>
+	    <li>tamed->は[RECIPIENT_nameDef]にしっかりと、でも優しくさわった</li>
+	    <li>tamed->は[RECIPIENT_nameDef]にリラックスした態度を見せた</li>
+	    <li>tamed->は[RECIPIENT_nameDef]のそばに気長に腰掛けた</li>
+	    <li>tamed->は[RECIPIENT_nameDef]に[TalkTopicAny]についての物語を囁いた</li>
     </AnimalChat.logRulesInitiator.rulesStrings>
 
     <!-- TameAttempt -->
     <TameAttempt.label>手懐ける</TameAttempt.label>
     <TameAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</li>
-	    <li>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を手懐けようと試みた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を服従させようと試みた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を支配しようと試みた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の服従を要求した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_objective]もになるよう[RECIPIENT_nameDef]を呼んだ</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]におすわりをさせようとした</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は激しく[RECIPIENT_nameDef]を抑えつけて命令を荒っぽく言った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に待てを試みた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に命令を怒鳴った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]との主従関係を見せながらピシャリと打った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に巣への戻りかたを教えた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は巣に帰ってくるよう[RECIPIENT_nameDef]を呼んだ</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は服従させる意味で、[RECIPIENT_nameDef]の身体の一番弱い箇所に触った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は地面を指さし[RECIPIENT_nameDef]に来いと指示した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]を初めてしつけた</li>
     </TameAttempt.logRulesInitiator.rulesStrings>
 
     <!-- TrainAttempt -->
     <TrainAttempt.label>調教する</TrainAttempt.label>
     <TrainAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+	    <li>r_logentry->[INITIATOR_nameDef] [trained] .</li>
 	
-	    <li>trained(p=2)->[tried] to train</li>
-	    <li>trained->[tried] to show a new trick to</li>
-	    <li>trained->[tried] to discipline</li>
-	    <li>trained->[tried] to instruct</li>
-	    <li>trained->[tried] to encourage a new skill in</li>
-	    <li>trained->demonstrated a skill to</li>
-	    <li>trained->encouraged a new response from</li>
+	    <li>trained(p=2)->は[RECIPIENT_nameDef]を訓練しようと[tried]</li>
+	    <li>trained->は[RECIPIENT_nameDef]に新しい芸を示そうと[tried]</li>
+	    <li>trained->は[RECIPIENT_nameDef]をしつけようと[tried]</li>
+	    <li>trained->は[RECIPIENT_nameDef]に教えようと[tried]</li>
+	    <li>trained->は[RECIPIENT_nameDef]に新しい芸を促そうと[tried]</li>
+	    <li>trained->は[RECIPIENT_nameDef]に芸をやってみせた</li>
+	    <li>trained->は新しく教えた芸の[RECIPIENT_nameDef]の反応をみて励ました</li>
 	
-	    <li>tried->tried</li>
-	    <li>tried->attempted</li>
+	    <li>tried->努力した</li>
+	    <li>tried->試みた</li>
     </TrainAttempt.logRulesInitiator.rulesStrings>
 
     <!-- Nuzzle -->
 	<Nuzzle.label>すり寄ってくる</Nuzzle.label>
     <Nuzzle.logRulesInitiator.rulesStrings>
-	    <li>r_logentry(p=2)->[INITIATOR_nameIndef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameIndef].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameIndef]'s [rubbedpart].</li>
+	    <li>r_logentry(p=2)->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[nuzzleadverb][nuzzled]</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameIndef]の[rubbedpart]に[nuzzleadverb]擦りつけた</li>
 	
-	    <li>nuzzled(p=2)->nuzzled</li>
-	    <li>nuzzled->snuggled up to</li>
+	    <li>nuzzled(p=2)->擦り寄ってきた</li>
+	    <li>nuzzled->寄り添ってきた</li>
 	
 	    <li>nuzzleadverb(p=4)-></li>
-	    <li>nuzzleadverb->gently</li>
-	    <li>nuzzleadverb->encouragingly</li>
-	    <li>nuzzleadverb->happily</li>
-	    <li>nuzzleadverb->softly</li>
-	    <li>nuzzleadverb->supportively</li>
-	    <li>nuzzleadverb->lightly</li>
-	    <li>nuzzleadverb->warmly</li>
-	    <li>nuzzleadverb->plaintively</li>
-	    <li>nuzzleadverb->lovingly</li>
-	    <li>nuzzleadverb->affectionately</li>
+	    <li>nuzzleadverb->優しく</li>
+	    <li>nuzzleadverb->励まそうとして</li>
+	    <li>nuzzleadverb->喜んで</li>
+	    <li>nuzzleadverb->ソフトに</li>
+	    <li>nuzzleadverb->支えようと</li>
+	    <li>nuzzleadverb->陽気に</li>
+	    <li>nuzzleadverb->心から</li>
+	    <li>nuzzleadverb->悲しげに</li>
+	    <li>nuzzleadverb->愛をこめて</li>
+	    <li>nuzzleadverb->愛情込めて</li>
 	
-	    <li>rubbedpart->leg</li>
-	    <li>rubbedpart->knee</li>
-	    <li>rubbedpart->foot</li>
-	    <li>rubbedpart->elbow</li>
-	    <li>rubbedpart->hip</li>
-	    <li>rubbedpart->shoulder</li>
-	    <li>rubbedpart->hand</li>
-	    <li>rubbedpart->side</li>
-	    <li>rubbedpart->arm</li>
+	    <li>rubbedpart->脚</li>
+	    <li>rubbedpart->膝</li>
+	    <li>rubbedpart->足</li>
+	    <li>rubbedpart->肘</li>
+	    <li>rubbedpart->尻</li>
+	    <li>rubbedpart->肩</li>
+	    <li>rubbedpart->手</li>
+	    <li>rubbedpart->脇</li>
+	    <li>rubbedpart->腕</li>
     </Nuzzle.logRulesInitiator.rulesStrings>
 
 </LanguageData>

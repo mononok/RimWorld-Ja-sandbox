@@ -14,6 +14,7 @@
 <FireAt>{0}に発射 (遠距離)</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
+  <TooClose>最低射程内</TooClose>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0}は 暴力行為ができない</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
@@ -60,6 +61,7 @@
     <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
     <CantSowCavePlantBecauseUnroofed>屋根がない</CantSowCavePlantBecauseUnroofed>
     <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
+    <AngersFaction>怒っている派閥</AngersFaction>
 
     <ConsumeThing>{0}を口にする</ConsumeThing>
 
@@ -93,10 +95,10 @@
 
   <MinSkill>最小スキル</MinSkill>
 
-<Equip>{0}を 装備する</Equip>
-  <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
-<CannotEquip>{0}を 装備できない</CannotEquip>
-  <CannotManThing>Cannot man {0}</CannotManThing>
+    <Equip>{0}を 装備する</Equip>
+    <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
+    <CannotEquip>{0}を 装備できない</CannotEquip>
+    <CannotManThing>{0}を 配置できない</CannotManThing>
 
   <ForceWear>{0}に 着替えさせる</ForceWear>
 <CannotWear>{0}を 着用できない</CannotWear>
@@ -121,7 +123,7 @@
     <LoadIntoCaravan>{0}をキャラバン隊に積載する</LoadIntoCaravan>
     <LoadIntoCaravanAll>{0}(all)をキャラバン隊に積載する</LoadIntoCaravanAll>
     <LoadIntoCaravanSome>{0}をキャラバン隊に積載する....</LoadIntoCaravanSome>
-    <LoadIntoCaravanCount>Load {0} x{{0}}</LoadIntoCaravanCount>
+    <LoadIntoCaravanCount>積載量 {0} x{{0}}</LoadIntoCaravanCount>
     <OverweightLower>過積載</OverweightLower>
 
     <CannotCarryToExit>{0}を運んで、エリアを離れることができない</CannotCarryToExit>

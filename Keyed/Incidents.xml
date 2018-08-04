@@ -20,7 +20,7 @@
 
     <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
     <RefugeePodCrash>[PAWN_nameDef]という[PAWN_title]が乗った脱出ポッドが近くに墜落してきます。もし[PAWN_pronoun]が衝撃から生き残ったとしても、[PAWN_pronoun]は重傷を負っているでしょう。</RefugeePodCrash>
-    <RefugeePodCrash_NonHostileOrFactionless>あなたは[PAWN_objective]救出し、[PAWN_objective][PAWN_possessive]進路へ送るか、勧誘か奴隷目的で[PAWN_objective]捕らえることもできます。</RefugeePodCrash_NonHostileOrFactionless>
+    <RefugeePodCrash_Factionless>[PAWN_nameDef]はどこの派閥にも属していません。あなたは[PAWN_objective]助けて、[PAWN_pronoun]を加えることも自由ですし、奴隷として勧誘することもできます。</RefugeePodCrash_Factionless>
     <RefugeePodCrash_Hostile>あなたは勧誘か奴隷目的で[PAWN_objective]捕らえることができます。[PAWN_pronoun]は、[PAWN_factionName]から来ました。</RefugeePodCrash_Hostile>
     <RefugeePodCrash_NonHostile>【ノート】:[PAWN_pronoun]は、[PAWN_factionName]から来ました。[PAWN_objective]を捕らえる事は、彼らを怒らせるでしょう、また救出して[PAWN_objective]治療すれば、派閥関係は改善するでしょう。</RefugeePodCrash_NonHostile>
 
@@ -49,8 +49,6 @@
     <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダーです。</GroupVisitorsArriveLeaderInfo>
     <VisitorsLeaving>訪問中の {0}は 去りました。</VisitorsLeaving>
 
-    <LetterLabelWandererJoin>入植者</LetterLabelWandererJoin>
-    <WandererJoin>[PAWN_nameDef] という名前の {0} がやってきて  仲間になりました。彼は {1} です。</WandererJoin>
 
     <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
     <ManhunterPackArrived>ヒト狩り{0}週団が、この地にやって来ました。やつらは地域をうろうろし、獲物のヒトを狩ります。\n\nやつらは、誰かがドアを通るところを見るまでは、ドアを攻撃することはありません。内側に潜んでいれば安全でしょう。また動作していないタレットを攻撃することもないので、残しておきたければ電源を落としましょう。\n\n{0}は、１?２日も経てば居なくなるでしょう。あなたは物陰に身を潜めて立ち去るのを待つことも、戦いを選ぶこともできます。</ManhunterPackArrived>
@@ -80,7 +78,7 @@
 
     <!-- Refugee chased -->
     <RefugeeChasedTitle>{0}からの亡命者</RefugeeChasedTitle>
-    <RefugeeChasedInitial>[PAWN_nameDef]という名の[PAWN_title]が近くから、あなたを呼んでいます。[PAWN_pronoun]は、{3}の{2}に追いかけられています!\n\n[PAWN_pronoun]は、身の安全と、あなたのコロニーに加わりたいと命乞いをしています。[PAWN_pronoun]は、年齢が{4}歳で、、、それ以上の情報を聞き出す時間がありませんでした。\n\n【注意】:あなたが承知すると、[PAWN_possessive]背後の{2}と戦わないといけません。</RefugeeChasedInitial>
+    <RefugeeChasedInitial>[PAWN_nameDef]という名の[PAWN_title]が近くから、あなたを呼んでいます。[PAWN_pronoun]は、{3}からの{2}に追われています!\n\n[PAWN_pronoun]は、身の安全と、あなたのコロニーに加わりたいと命乞いをしています。[PAWN_pronoun]は、年齢が{4}歳で、、、それ以上の情報を聞き出す時間がありませんでした。\n\n【注意】:あなたが承知すると、[PAWN_possessive]背後の{2}と戦わないといけません。次で構成されています:\n\n{5}</RefugeeChasedInitial>
     <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
     <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
     <RefugeeChasedRejected>あなたが通信装置を切る間際、{0}の 絶望してパニックを起こした叫び声が、スピーカから聞こえてきた。</RefugeeChasedRejected>
@@ -102,10 +100,6 @@
     <!-- Trader caravan -->
     <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
     <LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました。彼らは {1}です。\n\n 彼らは、ここを離れるまでの数日間、ここのコロニーをウロウロするつもりです。彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう。 </LetterTraderCaravanArrival>
-
-    <!-- Building breaks down -->
-    <LetterLabelBuildingBrokenDown>機能停止: {0}</LetterLabelBuildingBrokenDown>
-    <LetterBuildingBrokenDown>ひとつの機械({0})の機能が停止しました。建築作業を受け持った入植者が修理するまで 機能しません。</LetterBuildingBrokenDown>
 
     <!-- Ransom demand -->
     <RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
@@ -132,7 +126,7 @@
     <!-- Caravan request -->
     <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
     <LetterCaravanRequest>拠点の近く、{0}、特別な取引を、あなたに持ちかけてきました。購入品:\n\n  {1} (価値 {2})\n\n見返りとして提示額:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば、要求した品と共にキャラバン隊を送ります。到着までに必要な時間は{6}。この取引は、ワールドマップで{0}を選択すると再表示できます。</LetterCaravanRequest>
-    <CaravanRequestInfo>要求: {0}、報酬: {1} (残り{2})</CaravanRequestInfo>
+    <CaravanRequestInfo>要求: {0}({3})、報酬: {1}({4}) (残り{2})</CaravanRequestInfo>
     <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
 
     <!-- Caravan demand -->

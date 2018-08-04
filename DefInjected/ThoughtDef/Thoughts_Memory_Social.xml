@@ -68,13 +68,12 @@
 
     <BrokeUpWithMe.stages.0.label>わかれた</BrokeUpWithMe.stages.0.label>
 
-    <BrokeUpWithMeMood.stages.0.label>{0} にふられた</BrokeUpWithMeMood.stages.0.label>
-    <BrokeUpWithMeMood.stages.0.description>まるでゴミでも捨てるかのようにふられた。</BrokeUpWithMeMood.stages.0.description>
-<!-- deleted
-    <CheatedOnMe.stages.cheated_on_by.label>浮気された</CheatedOnMe.stages.cheated_on_by.label>
-    <CheatedOnMeMood.stages.divorced_by.label>{0} に裏切られた</CheatedOnMeMood.stages.divorced_by.label>
-    <CheatedOnMeMood.stages.divorced_by.description>どうして私に隠れて浮気をするの!</CheatedOnMeMood.stages.divorced_by.description>
--->
+    <BrokeUpWithMeMood.stages.0.label>{0} に振られた</BrokeUpWithMeMood.stages.0.label>
+    <BrokeUpWithMeMood.stages.0.description>まるでゴミでも捨てるかのように振られた。</BrokeUpWithMeMood.stages.0.description>
+
+    <CheatedOnMe.stages.cheated_on_me.label>裏切られた</CheatedOnMe.stages.cheated_on_me.label>
+    <CheatedOnMeMood.stages.cheated_on_by.label>{0} に裏切られた</CheatedOnMeMood.stages.cheated_on_by.label>
+    <CheatedOnMeMood.stages.cheated_on_by.description>よくも!私を騙してくれたな</CheatedOnMeMood.stages.cheated_on_by.description>
 
     <DivorcedMe.stages.divorced_me.label>離婚された</DivorcedMe.stages.divorced_me.label>
 

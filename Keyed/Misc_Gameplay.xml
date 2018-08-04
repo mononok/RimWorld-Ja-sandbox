@@ -28,9 +28,9 @@
     <DevelopedImmunityLower>免疫がついた</DevelopedImmunityLower>
     <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
     <CanTendNow>今面倒を見る事ができる</CanTendNow>
-    <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
+    <TreatmentExpiresIn>看病の期限切れまで{0}</TreatmentExpiresIn>
     <NextTendIn>Can be tended in {0}</NextTendIn>
-    <TendQuality>Tend quality</TendQuality>
+    <TendQuality>看病品質</TendQuality>
     <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
     <Immunity>免疫</Immunity>
     <Race>種</Race>
@@ -92,7 +92,6 @@
     <CaravanPawnsInMentalState>{0}の精神状態</CaravanPawnsInMentalState>
     <CaravanPawnsDowned>{0} 意識不明</CaravanPawnsDowned>
     <CaravanTraveling>移動中</CaravanTraveling>
-    <CaravanPaused>休息中</CaravanPaused>
     <CaravanWaiting>待機中</CaravanWaiting>
     <BeingCarriedDueToIllness>病気により担架で運搬</BeingCarriedDueToIllness>
     <UsingBedrollsDueToIllness>病気により寝袋を使用</UsingBedrollsDueToIllness>
@@ -132,9 +131,9 @@
     <VentClosed>閉</VentClosed>
     <WornBy>{0}が着ている</WornBy>
     <EquippedBy>{0}が装備している</EquippedBy>
-    <QuestTargetDestroyInspectString>{0}は、破壊を求めている。\n    報償: {1}</QuestTargetDestroyInspectString>
+    <QuestTargetDestroyInspectString>{0}は、この破壊を求めている。\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
     <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
-    <ItemStashContents>内容物: {0}</ItemStashContents>
+    <ItemStashContents>内容物: {0} ({1})</ItemStashContents>
     <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
     <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
     <WorkPriorityShiftClickEnableDisableTip>Shift + click: 全有効\nShift + right click: 全無効</WorkPriorityShiftClickEnableDisableTip>
@@ -161,7 +160,7 @@
     <MovementDifficultyOffsetInWinter>冬季によって{0}</MovementDifficultyOffsetInWinter>
     <RangeTo>へ</RangeTo>
     <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
-    <ExpiresIn>Expires in</ExpiresIn>
+    <ExpiresIn>有効期限</ExpiresIn>
     <CaravanLeaderCaravanName>{0}のキャラバン隊</CaravanLeaderCaravanName>
     <Reason>理由</Reason>
     <RelationsWith>{0}との関係性</RelationsWith>
@@ -174,6 +173,12 @@
     <Caravan>キャラバン隊</Caravan>
     <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
     <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
+  <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
+  <Turret>タレット</Turret>
+  <Turrets>タレット群</Turrets>
+  <Mortar>迫撃砲</Mortar>
+  <Mortars>迫撃砲群</Mortars>
+  <Enemy>敵</Enemy>
 
     <!-- Fermentation barrel -->
     <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -190,6 +195,7 @@
     <TextMote_YieldWasted>利益\n無駄となる</TextMote_YieldWasted>
     <TextMote_ProductWasted>生産物\n水の泡となる</TextMote_ProductWasted>
     <TextMote_RecruitFail>勧誘に失敗\n成功率 {0}</TextMote_RecruitFail>
+    <TextMote_ResistanceReduced>敵対心\n{0} から {1}</TextMote_ResistanceReduced>
     <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
     <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
     <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
@@ -198,6 +204,8 @@
     <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
     <TextMote_Dodge>回避</TextMote_Dodge>
     <TextMote_Tended>{0} 看病された</TextMote_Tended>
+    <lowMood>心情 低い</lowMood>
+    <lowOpinion>評価 低い</lowOpinion>
 
     <!-- Areas -->
     <Home>コロニー</Home>
@@ -339,18 +347,16 @@
     <RotStateFresh>新鮮</RotStateFresh>
     <RotStateRotting>腐敗</RotStateRotting>
     <RotStateDessicated>乾燥</RotStateDessicated>
-
-    <!-- Shooting tooltip -->
-    <ShotBy>{0} が射撃</ShotBy>
-    <CannotHit>命中 しません</CannotHit>
-    <ManhunterPerHit>1発あたりの暴走率</ManhunterPerHit>
-
-    <!-- Rotting -->
     <CurrentlyFrozen>冷凍(永久保存)</CurrentlyFrozen>
     <CurrentlyRefrigerated>冷蔵 (腐敗まで {0})</CurrentlyRefrigerated>
     <NotRefrigerated>常温 (腐敗まで {0})</NotRefrigerated>
     <OverADecade>10年間</OverADecade>
     <LessThanADay>本日中</LessThanADay>
+
+    <!-- Shooting tooltip -->
+    <ShotBy>{0} が射撃</ShotBy>
+    <CannotHit>命中 しません</CannotHit>
+    <ManhunterPerHit>1発あたりの暴走率</ManhunterPerHit>
 
     <!-- Meal -->
     <Ingredients>原料</Ingredients>
@@ -431,6 +437,7 @@
     <MustPlaceAdjacentStandable>全ての面において、人が立てるスペースが必要です。</MustPlaceAdjacentStandable>
     <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください。</MustPlaceNearFuelingPort>
     <MustPlaceOnDrillable>掘削可能な資源の上に配置してください。</MustPlaceOnDrillable>
+    <CannotPlaceAdjacentTrap>罠の近くには置く事ができません。</CannotPlaceAdjacentTrap>
 
     <!-- Wind Turbine -->
     <WindTurbine_WindPathIsBlockedBy>邪魔している物：</WindTurbine_WindPathIsBlockedBy>

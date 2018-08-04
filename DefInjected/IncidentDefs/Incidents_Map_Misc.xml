@@ -12,6 +12,8 @@
 	<FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
 
 	<WandererJoin.label>新たな入植者</WandererJoin.label>
+    <WandererJoin.letterLabel>新たな入植者 </WandererJoin.letterLabel>
+    <WandererJoin.letterText>[PAWN_nameDef]と名のる[PAWN_kind]がコロニー到着して仲間に加わった。[PAWN_pronoun]は[PAWN_title]です。\n\n[PAWN_pronoun]は役に立ちたいと思っているので自分から去ることは無いでしょう。[PAWN_nameDef]を必要としないなら、[PAWN_objective]を追放、奴隷として売却、もっと簡単に始末することもできます。しかしながら、他の入植者達は、この騒乱を見つけると思います。</WandererJoin.letterText>
 
 	<RefugeePodCrash.label>救命ポッド落下</RefugeePodCrash.label>
 

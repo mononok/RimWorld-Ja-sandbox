@@ -10,6 +10,7 @@
 
     <MarketValue.label>金額</MarketValue.label>
     <MarketValue.description>市場価格を表します。実際の値段は、売買するお互いの関係性でさらに変動します。</MarketValue.description>
+    <MarketValue.formatString>${0}</MarketValue.formatString>
 
 	<SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
 	<SellPriceFactor.description>売ろうするアイテムの、売り値に掛けられる倍率です。</SellPriceFactor.description>

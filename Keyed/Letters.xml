@@ -155,7 +155,6 @@
     <!-- Faction base defeated -->
     <LetterLabelFactionBaseDefeated>拠点破壊</LetterLabelFactionBaseDefeated>
     <LetterFactionBaseDefeated>敵の拠点"{0}"を破壊しました。\n\n{1}で、キャラバン隊は自動的に再編成されます。あなたはワールドマップから、敵拠点の破壊と、"キャラバン隊の再編成"を選ぶこともできます。</LetterFactionBaseDefeated>
-
     <LetterFactionBaseDefeated_FactionDestroyed>ここが{0}の最後の砦でした、つまりは、この派閥はもう何処にも居ません。</LetterFactionBaseDefeated_FactionDestroyed>
 
     <!-- Quest completed -->
@@ -164,7 +163,7 @@
 
     <!-- Found lump of precious resources -->
     <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
-    <LetterFoundPreciousLump>Using your long-range mineral scanner, {3} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+    <LetterFoundPreciousLump>長距離鉱物スキャナーを使い、{3}は、すぐ近くに{0}鉱床を見つけた。\n\n残念ながら、そう長くは持たない - 他の住人が{1}日以内に先に採掘するだろう・・\n\n{2}</LetterFoundPreciousLump>
 
     <!-- Ambush -->
     <LetterLabelAmbushInExistingMap>待ち伏せ</LetterLabelAmbushInExistingMap>
@@ -225,7 +224,15 @@
     <LetterRescueQuestFinished>[PAWN_nameDef]を助けて、[PAWN_pronoun]はグループに加わりました。\n\nあなたはワールドマップから、"キャラバン隊の再編成"を選ぶことで、キャラバン隊の再編成を行い、[PAWN_objective]連れて行く事ができます。</LetterRescueQuestFinished>
 
     <!-- Player entered site (generic label) -->
-    <LetterLabelPlayerEnteredNewSiteGeneric>Arrived at site</LetterLabelPlayerEnteredNewSiteGeneric>
-    <LetterPredatorHuntingColonist>{0}は {1}を餌として狩りをしている!</LetterPredatorHuntingColonist>
+    <LetterLabelPlayerEnteredNewSiteGeneric>現場到着</LetterLabelPlayerEnteredNewSiteGeneric>
+
+  <!-- Predator hunting colonist -->
+  <LetterLabelPredatorHuntingColonist>{0}は{1}を狩っている</LetterLabelPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{0}はエサとして{1}を狩っている!</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <LetterDisease_Blocked>{0はブロックされている {1} : {2}.</LetterDisease_Blocked>
+  <LetterLabelTraitDisease>疫病 ({0})</LetterLabelTraitDisease>
+  <LetterTraitDisease>{0}は{1}から病気を貰いました\n\n医療用ベッドと医者を確保します。[PAWN_pronoun]が適切な治療を受けているか確認し、出来るかぎりベッドの上で過ごすようにさせて下さい。</LetterTraitDisease>
 
 </LanguageData>

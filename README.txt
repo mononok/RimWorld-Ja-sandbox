@@ -1,9 +1,9 @@
 RimWorld-Ja-sandbox
 ===========
-Ver: Release 1.00 b1
-Original: 1.0.1958 rev793
-Description: 【未確認】v1.0に向けての作業を開始しました。エラーを起きないようにした為、翻訳率が低下しています。
-ToDo: 大掛かりな修正が入ったので、従来は日本語に訳されていた文章も、かなりの数が英語に戻っています。
+Ver: beta 0.19
+Original: 0.19.2006 rev486
+Description: 【確認済】beta 0.19に向けての作業をしています。バージョン表記が入り乱れてますが、Ver1.00 は beta0.19と名称変更されました。
+ToDo: ログに記録される、自動生成の文書の対応が残っています。
 Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを"削除"してからコピーします。上書きすると起動しなくなります。
 
 Info: ここはLudeon/RimWorldの日本語化MODファイルです。公式からリリースされた時の日本語ファイルは、ひとつ前のバージョンになっています。

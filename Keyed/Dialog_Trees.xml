@@ -11,14 +11,14 @@
     <!-- gift offer -->
     <OfferGift>贈り物</OfferGift>
     <MustBeAlly>同盟である必要</MustBeAlly>
-    <NeedGoodwill>{0} 誠意が必要</NeedGoodwill>
+    <NeedGoodwill>{0} 友好値が必要</NeedGoodwill>
     <NeedSilverLaunchable>貿易ビーコンのそばに {0}シルバーが 必要です。</NeedSilverLaunchable>
     <NotEnoughSilver>シルバーが 足りない。</NotEnoughSilver>
     <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
-    <SilverGiftSent>ありがとう {0}\n\n({1}により誠意上昇)</SilverGiftSent>
+    <SilverGiftSent>ありがとう {0}\n\n({1}により友好値上昇)</SilverGiftSent>
 
     <!-- trade caravan request -->
-    <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}誠意)</RequestTrader>
+    <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}友好値)</RequestTrader>
     <ChooseTraderKind>{0}は、あなたが必要としているトレーダーキャラバンの種別を聞いています。</ChooseTraderKind>
     <TraderSent>{0}は、 あなたにトレーダーキャラバンを送ることに承諾しました。2～3日以内には到着するでしょう。</TraderSent>
     <WaitTime>待ち時間 {0}</WaitTime>
@@ -29,7 +29,7 @@
     <NoKnownAICore>これ以上の情報は知らない</NoKnownAICore>
 
     <!-- military aid request -->
-    <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}誠意)</RequestMilitaryAid>
+    <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}友好値)</RequestMilitaryAid>
     <MilitaryAidConfirmMutualEnemy>{0}は、 あなたを 助けるために 新たな敵を 作りたくないと いっています。 どうやら あなたを 脅かしている {1} の ことのようです。 あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
     <CallConfirm>はい、 とにかく 来てください。</CallConfirm>
     <CallCancel>いや、 気に しないでくれ。</CallCancel>

@@ -109,7 +109,7 @@
     <WornByCorpseChar>霊</WornByCorpseChar>
     <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
     <DeterioratingOutdoors>屋外</DeterioratingOutdoors>
-    <DeterioratingBecauseOf>劣化中:</DeterioratingBecauseOf>
+    <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
     <Map>地図</Map>
     <ForceExitAndRemoveMapCountdown>出発まで、あと{0} </ForceExitAndRemoveMapCountdown>
     <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して、{0}後に、ここを離れます。</ForceExitAndRemoveMapCountdownTip>
@@ -157,8 +157,8 @@
     <FinalCaravanPawnsMovementSpeed>キャラバン隊メンバー速度</FinalCaravanPawnsMovementSpeed>
     <FinalCaravanMovementSpeed>最終的な速度</FinalCaravanMovementSpeed>
     <Winter>冬季</Winter>
-    <MovementDifficultyOffsetInWinter>冬季によって{0}</MovementDifficultyOffsetInWinter>
-    <RangeTo>へ</RangeTo>
+    <MovementDifficultyOffsetInWinter>冬季間 {0}</MovementDifficultyOffsetInWinter>
+    <RangeTo>～</RangeTo>
     <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
     <ExpiresIn>有効期限</ExpiresIn>
     <CaravanLeaderCaravanName>{0}のキャラバン隊</CaravanLeaderCaravanName>
@@ -168,7 +168,7 @@
     <yourCaravan>あなたのキャラバン隊</yourCaravan>
     <CreatureWildness>{0} 野生</CreatureWildness>
     <CreatureTrainability>{0} 訓練しやすさ</CreatureTrainability>
-    <ProximitySingleGoodwillChange>{0} with {1} (イミフ</ProximitySingleGoodwillChange>
+    <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
     <EnterCooldown>{0}以内に再入村できません</EnterCooldown>
     <Caravan>キャラバン隊</Caravan>
     <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
@@ -456,8 +456,8 @@
     <ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
     <ShipReportMissingPartRequires>必要物</ShipReportMissingPartRequires>
     <ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
-    <ShipReportHibernating>休止コンポーネント</ShipReportHibernating>
-    <ShipReportNotReady>コンポーネント準備不足</ShipReportNotReady>
+    <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
+    <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
     <HibernateWarning>Charlon Whitestoneは、休止反応炉の再起動シーケンスを始める準備を整えた。\n\n彼は、このプロセスは約15日程かかり、そのエネルギー波紋は、かなり遠距離からでも探知される事をあなたに警告する。このエネルギー波紋のような物は、恒星間航行能力があることを示し、命知らずのギャングどもや、最悪なメカノイド群を惹きつけるだろう。\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう。真っ先に防衛の準備が整っているか確認せよ。</HibernateWarning>
     <HibernateWarningStandalone>反応炉の出力アップの準備を整えた。\n\nこのプロセスは約15日程かかり、そのエネルギー波紋は、かなり遠距離からでも探知される。このエネルギー波紋のような物は、恒星間航行能力があることを示し、命知らずのギャングどもや、最悪なメカノイド群を惹きつけるだろう。\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう。真っ先に防衛の準備が整っているか確認せよ。</HibernateWarningStandalone>
     <HibernateWarningPacifist>Charlon Whitestoneは、休止反応炉の再起動シーケンスを始める準備を整えた。\n\n彼は、このプロセスは約15日程かかる事を警告している。</HibernateWarningPacifist>
@@ -494,9 +494,9 @@
 
     <!-- Game over -->
     <GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして全ての人が居なくなり、 この物語は終わりを告げます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません。</GameOverEveryoneDead>
-    <GameOverShipLaunched>宇宙船が発射されました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船のAIは RimWorldより ましな ところへ 船を 飛ばし始めました。 それは、 この星系内にある もうすこし 程度のいい 惑星かも しれません。 あるいは 他の恒星へ向かう 世紀単位の 長い旅に なるかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも。\n\nそれがいつになるかは、 彼らだけが 知るでしょう。</GameOverShipLaunched>
-    <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、亜光速まで加速した対惑星兵器が、惑星表面に激しく打ち込まれました。水風船をライフル弾が撃ち抜いたごとく、この世界は激しい衝撃と共に液状化し、溶けた惑星の中心核は宇宙空間に吹き出しました。\n\n{0}の一部分は、いま、小さなアステロイドベルトとなっています。溶岩があふれだし、放射能にまみれたの地獄のようになった残りの部分は、絶えず巨大な惑星全体の振動とともに キロメートル級の波紋を起こしています。\n\n あなたは、生き残ることができません。</GameOverPlanetkillerImpact>
-    <GameOverArrivedAtJourneyDestination>あなたが、船に乗り込むとき、クルーから心からの歓迎を受けました。みんな嬉しそうです。\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\nAIコアが、宇宙船を安全な惑星まで、誘導するでしょう。あなたの為に繁栄した惑星を、このAIが見つけられるかもしれませんが、他の星雲への数世紀に及ぶ旅への始まりかもしれません。何千年も、小惑星の氷原下に船体を隠す決断をするかもしれませんし、誰かが新しいGlitterworldを建設するまで、待たなければならないかもしれません。\n\nあなたが、冷凍睡眠ポッドに身を沈めるとき、この入植者達を信じることができるかどうか、わずかな疑いを感じて、ちょっとためらいます。\n\nその結果は、次に、あなたが目覚めた時に、きっと判るのでしょう。</GameOverArrivedAtJourneyDestination>
+    <GameOverShipLaunched>宇宙船は飛び立ちました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船の人工知能(AIコア)は RimWorldより ましな ところへ 船の進路を向けました。 それは、 この星系内にある もう少し程度の良い 惑星かも しれません。 あるいは 他の恒星系へ向かう 世紀単位の 長い旅に なるのかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも…。\n\nその日が いつになるのかは、 彼らだけが 知る事になるでしょう。</GameOverShipLaunched>
+    <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、 亜光速まで加速した対惑星兵器が、 惑星表面に激しく打ち込まれました。 水風船をライフル弾が撃ち抜いたごとく、 この世界は 激しい衝撃と共に液状化し、 溶けた惑星の中心核は 宇宙空間に 吹き出しました。\n\n{0}の一部分は、 小さなアステロイドベルトとなっています。 溶岩があふれだし、 放射能にまみれ 地獄のようになった 残りの部分は、 絶えず巨大な 惑星全体の振動と共に キロメートル級の 波紋を起こしています。\n\n あなたは、 生き残ることができませんでした。</GameOverPlanetkillerImpact>
+    <GameOverArrivedAtJourneyDestination>あなたが、 宇宙船に乗り込むとき、 クルーから 心からの歓迎を受けました。 みんな嬉しそうです。\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\n人工知能(AIコア)が、 宇宙船を安全な惑星まで、 誘導するでしょう。 あなたの為に繁栄した惑星を、 このAIが見つけられるかもしれませんが、 他の星雲への数世紀に及ぶ旅への始まりかもしれません。 何千年も、 小惑星の氷原下に船体を隠す決断をするかもしれませんし、 誰かが新しいGlitterworldを建設するまで、 待たなければならないかもしれません。\n\nあなたが、 冷凍睡眠ポッドに身を沈めるとき、 この入植者達を信じることができるかどうか、 わずかな疑いを感じて、 ちょっとためらいます。\n\nその結果は、 次に、 あなたが目覚めた時に、 きっと判るのでしょう。</GameOverArrivedAtJourneyDestination>
     <GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
     <GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 

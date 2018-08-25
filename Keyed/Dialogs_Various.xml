@@ -236,7 +236,7 @@
     <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
     <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です。\n\n攻撃した者が近いほど発生率は上がります。近距離からの場合は３倍となります。\n\nダメージを受ける度に判定し、低発射頻度、高火力の武器は、発生しにくくなります。\n\n逆襲の発生率を極小にするには、遠距離から低発射頻度の武器で攻撃します。</HarmedRevengeChanceExplanation>
     <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
-    <TerrainRequirement>必要な地形条件</TerrainRequirement>
+    <TerrainRequirement>必要な地盤</TerrainRequirement>
     <Supports>支援</Supports>
 
     <!-- Trade -->
@@ -444,7 +444,7 @@
     <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません。{0}を積んでいません、発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
     <!-- Settle near a faction base -->
-    <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base,they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+    <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので、彼らはあなたの事を「この土地に割り込んできた部外者」と捕らえて、彼らの派閥との関係が{1}日毎に悪化していきます。\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
 
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>

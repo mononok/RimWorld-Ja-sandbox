@@ -19,10 +19,10 @@
     <FriendlyRaidLeaderPresent>{0} - {1}うちの１人は、この派閥のリーダーです。</FriendlyRaidLeaderPresent>
 
     <LetterLabelRefugeePodCrash>輸送ポッド事故</LetterLabelRefugeePodCrash>
-    <RefugeePodCrash>[PAWN_nameDef]という[PAWN_title]が乗った輸送ポッドが近くに墜落してきます。もし[PAWN_pronoun]が衝撃から生き残ったとしても、[PAWN_pronoun]は重傷を負っているでしょう。</RefugeePodCrash>
-    <RefugeePodCrash_Factionless>[PAWN_nameDef]はどこの派閥にも属していません。あなたは[PAWN_objective]助けて、[PAWN_pronoun]を加えることも自由ですし、奴隷として勧誘することもできます。</RefugeePodCrash_Factionless>
-    <RefugeePodCrash_Hostile>[PAWN_nameDef]は、あなたの敵[PAWN_factionName]から来ました。あなたは勧誘か奴隷目的で[PAWN_objective]捕らえることができます。</RefugeePodCrash_Hostile>
-    <RefugeePodCrash_NonHostile>[PAWN_nameDef]は、[PAWN_factionName]から来ました。あなたが[PAWN_objective]を助けると、[PAWN_pronoun]は勝手に仲間になるかもしれません。そうでなくても、[PAWN_pronoun]は自分の本拠地に戻って、あなたがしてくれた善意を広めるでしょう。</RefugeePodCrash_NonHostile>
+    <RefugeePodCrash>[PAWN_nameDef]という [PAWN_title]が乗った 輸送ポッドが近くに墜落してきます。 もし[PAWN_pronoun]が衝撃から生き残ったとしても、[PAWN_pronoun]は重傷を負っているでしょう。</RefugeePodCrash>
+    <RefugeePodCrash_Factionless>[PAWN_nameDef]は どこの派閥にも属していません。 あなたは[PAWN_objective]助けて、[PAWN_pronoun]を加えることも自由ですし、奴隷として勧誘することもできます。</RefugeePodCrash_Factionless>
+    <RefugeePodCrash_Hostile>[PAWN_nameDef]は あなたの敵[PAWN_factionName]から来ました。 あなたは勧誘か奴隷目的で [PAWN_objective]捕らえることができます。</RefugeePodCrash_Hostile>
+    <RefugeePodCrash_NonHostile>[PAWN_nameDef]は [PAWN_factionName]から来ました。 あなたが[PAWN_objective]を助けると、 [PAWN_pronoun]は勝手に仲間になるかもしれません。 そうでなくても、[PAWN_pronoun]は自分の本拠地に戻って、 あなたがしてくれた善意を広めるでしょう。</RefugeePodCrash_NonHostile>
 
     <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
     <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>

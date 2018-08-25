@@ -8,12 +8,12 @@
     <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
     <FirstSummerWarning>夏が来た！でも直ぐに、冬もやってきます。\n\n作物は寒い冬の間は育ちません。食料を保存する準備をしましょう。\n\n冷凍庫となる部屋を造り、食料の腐敗を防ぐのです。\n\nパーカーを買うか、盗むか、作るかしておかないと、外に出た時に凍えてしまいます。</FirstSummerWarning>
 
-    <LetterRelationsChange_Hostile>{0}との関係が断絶しました。彼らは今や敵です。\n\n彼らは、あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう、さらにトレードを拒否します。あなたに関係改善の意思があるなら、キャラバン隊や輸送ポッドを使って、彼らに贈り物を申し出ることはできます。\n\nこれは誠意({1})が{2}以下の時に起きます。中立の関係に戻す目的なら、誠意を再び{3}に到達させなければなりません。</LetterRelationsChange_Hostile>
-    <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました。もう彼らは、あなたを攻撃しようともせず、中立とみなしています。\n\nこれは誠意({1})が{2}を超えれば発生します。もし誠意が{3}を下回れば、{0}は再び敵対します。もし誠意が{4}を上回れば、彼らはあなたと同盟を組み、あなたの為に戦うでしょう。</LetterRelationsChange_NeutralFromHostile>
-    <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました。いまや彼らは、あなたを同盟ではなく中立とみなしています。\n\nあなたと円満な関係を続けますが、彼らは、貴方が脅威に晒されても援軍を送ってくることはありません。\n\nこれは誠意({1})が{2}を下回れば起きます。もし{3}を下回ると、{0}は敵対するでしょう。もし{4}を上回れば、彼らは再び、あなたと同盟を組むでしょう。</LetterRelationsChange_NeutralFromAlly>
-    <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました。彼らは、あなたと同盟とみなしています。\n\n同盟を結ぶと、あなたが戦時下にあると、あなたの敵と戦う援軍が到着することがあります。あなたは、対価として誠意を費やすことで、いつでも彼らを呼び出すこともできます。\n\n誠意({1})が{2}を超えれば同盟となります。もし{3}を下回ると、関係は中立へと戻ります。</LetterRelationsChange_Ally>
+    <LetterRelationsChange_Hostile>{0}との関係が断絶しました。彼らは今や敵です。\n\n彼らは、あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう、さらにトレードを拒否します。あなたに関係改善の意思があるなら、キャラバン隊や輸送ポッドを使って、彼らに贈り物を申し出ることはできます。\n\nこれは友好値({1})が{2}以下の時に起きます。中立の関係に戻す目的なら、友好値を再び{3}に到達させなければなりません。</LetterRelationsChange_Hostile>
+    <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました。もう彼らは、あなたを攻撃しようともせず、中立とみなしています。\n\nこれは友好値({1})が{2}を超えれば発生します。もし友好値が{3}を下回れば、{0}は再び敵対します。もし友好値が{4}を上回れば、彼らはあなたと同盟を組み、あなたの為に戦うでしょう。</LetterRelationsChange_NeutralFromHostile>
+    <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました。いまや彼らは、あなたを同盟ではなく中立とみなしています。\n\nあなたと円満な関係を続けますが、彼らは、貴方が脅威に晒されても援軍を送ってくることはありません。\n\nこれは友好値({1})が{2}を下回れば起きます。もし{3}を下回ると、{0}は敵対するでしょう。もし{4}を上回れば、彼らは再び、あなたと同盟を組むでしょう。</LetterRelationsChange_NeutralFromAlly>
+    <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました。彼らは、あなたと同盟とみなしています。\n\n同盟を結ぶと、あなたが戦時下にあると、あなたの敵と戦う援軍が到着することがあります。あなたは、対価として友好値を費やすことで、いつでも彼らを呼び出すこともできます。\n\n友好値({1})が{2}を超えれば同盟となります。もし{3}を下回ると、関係は中立へと戻ります。</LetterRelationsChange_Ally>
 
-    <goodwill>誠意</goodwill>
+    <goodwill>友好</goodwill>
     <Neutral>中立</Neutral>
     <Death>死亡</Death>
 

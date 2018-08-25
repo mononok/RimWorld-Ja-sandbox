@@ -4,7 +4,7 @@
     <!-- ITab titles -->
     <TabBills>加工</TabBills>
     <TabGrowing>栽培</TabGrowing>
-    <TabCharacter>人物</TabCharacter>
+    <TabCharacter>略歴</TabCharacter>
     <TabTraining>調教</TabTraining>
     <TabPrisoner>囚人</TabPrisoner>
     <TabGuest>客人</TabGuest>
@@ -21,7 +21,7 @@
     <TabSocial>社交</TabSocial>
     <TabLog>ログ</TabLog>
     <TabFormingCaravan>キャラバン</TabFormingCaravan>
-
+    <TabTransporterContents>積載物</TabTransporterContents>
 
     <!-- Bills tab  -->
     <AddBill>新しい 加工</AddBill>
@@ -31,8 +31,8 @@
     <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
     <PlantVerb>植物</PlantVerb>
     <ClipboardBillNotAvailableHere>ここにはペーストできません。</ClipboardBillNotAvailableHere>
-    <ReorderBillUpTip>Move up</ReorderBillUpTip>
-    <ReorderBillDownTip>Move down</ReorderBillDownTip>
+    <ReorderBillUpTip>上へ</ReorderBillUpTip>
+    <ReorderBillDownTip>下へ</ReorderBillDownTip>
     <DeleteBillTip>削除</DeleteBillTip>
     <CopyBillTip>クリップボードにコピー</CopyBillTip>
     <SuspendBillTip>中止</SuspendBillTip>
@@ -47,7 +47,6 @@
     <GetsMedicine>薬を 与えます</GetsMedicine>
     <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
     <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
-
 
     <!-- Medical - general -->
     <MoveSpeed>移動速度</MoveSpeed>
@@ -86,7 +85,6 @@
     <SelfTend>自己治療</SelfTend>
     <SelfTendTip>{0}の自己治療を有効にすると、通常の{1}の効率で、自動的にその場において、彼ら自身を治療します。</SelfTendTip>
 
-
     <!-- Medical - Body and activities condition -->
     <None>なし</None>
     <VeryPoor>非常に悪い</VeryPoor>
@@ -102,7 +100,6 @@
     <MediumPain>痛い</MediumPain>
     <SeverePain>激しい痛み</SeverePain>
     <ExtremePain>猛烈な痛み</ExtremePain>
-
 
     <!-- Training tab-->
     <Trainability>調教しやすさ</Trainability>
@@ -153,5 +150,9 @@
     <LoadedItems>積載済みアイテム</LoadedItems>
     <PackAnimalsCountLower>家畜の群れ</PackAnimalsCountLower>
     <InMentalStateCountLower>精神崩壊</InMentalStateCountLower>
+
+    <!-- Transporter contents -->
+    <RemoveSliderText>削除 {{0}}x {0}</RemoveSliderText>
+    <ConfirmRemoveItemDialog>{0}を本当に取り除きますか?</ConfirmRemoveItemDialog>
 
 </LanguageData>

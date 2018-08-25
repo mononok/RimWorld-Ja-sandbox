@@ -53,7 +53,7 @@
     <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
     <LetterLabelAnimalManhunterRevenge>手負いの{0}</LetterLabelAnimalManhunterRevenge>
-    <AnimalManhunterFromDamage>[PAWN_indefinite]は 手負いになって襲いかかったきた!</AnimalManhunterFromDamage>
+    <AnimalManhunterFromDamage>[PAWN_indefinite]は 手負いになって襲いかかったきた!\n\nそいつは手が届く範囲の人間を襲おうとします。眠りにつくと落ち着きを取り戻すでしょう。</AnimalManhunterFromDamage>
     <AnimalManhunterFromTaming>手なずけるのに失敗し、[PAWN_indefinite]は 襲いかかってきた!</AnimalManhunterFromTaming>
     <AnimalManhunterOthers>そばにいた、他の{0}も いっせいに怒り狂った!</AnimalManhunterOthers>
 
@@ -72,7 +72,6 @@
     <LetterLeaderChangedLabel>新{1}: {0}</LetterLeaderChangedLabel>
     <LetterLeaderChanged>{1}の{3}は、もう{0}ではなく\n\n新しい{3}は {2}になった。</LetterLeaderChanged>
 
-    <MentalBreakLetterLabel>精神崩壊</MentalBreakLetterLabel>
     <FinalStraw>不幸な出来事: {0}</FinalStraw>
     <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
@@ -208,8 +207,8 @@
     <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスは完了しました。打ち上げ準備は完了です。</LetterHibernateCompleteStandalone>
 
     <!-- Visitors gave gift -->
-    <LetterLabelVisitorsGaveGift>貢ぎ物</LetterLabelVisitorsGaveGift>
-    <LetterVisitorsGaveGift>あなたはずっと困難な時期を過ごしているので、ささやかな贈り物です。</LetterVisitorsGaveGift>
+    <LetterLabelVisitorsGaveGift>{0}からの貢ぎ物</LetterLabelVisitorsGaveGift>
+    <LetterVisitorsGaveGift>[PAWN_factionName]の{0}から貢ぎ物が届きました:\n\n{1}</LetterVisitorsGaveGift>
 
     <!-- Faction base proximity -->
     <LetterLabelFactionBaseProximity>近接した派閥拠点</LetterLabelFactionBaseProximity>
@@ -217,7 +216,7 @@
 
     <!-- Caravans battlefield victory -->
     <LetterLabelCaravansBattlefieldVictory>キャラバン隊勝利</LetterLabelCaravansBattlefieldVictory>
-    <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました。\n\n{0}で、キャラバン隊は自動的に再編成されます。あなたはワールドマップから、敵拠点の破壊と、"キャラバン隊の再編成"を選ぶこともできます。</LetterCaravansBattlefieldVictory>
+    <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました。\n\nあなたはワールドマップから、拠点の選択と、"キャラバン隊の再編成"を選ぶことができます。\n\nアイテム収集を手動で行う必要はありません、キャラバン隊再編成コマンドで簡単にできます。\n\n{0}で、キャラバン隊は自動的に再編成されます。</LetterCaravansBattlefieldVictory>
 
     <!-- Rescue quest -->
     <LetterLabelRescueQuestFinished>レスキュー＆参加</LetterLabelRescueQuestFinished>
@@ -231,7 +230,7 @@
   <LetterPredatorHuntingColonist>{0}はエサとして{1}を狩っている!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <LetterDisease_Blocked>{0はブロックされている {1} : {2}.</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0}はブロックされている {1} : {2}.</LetterDisease_Blocked>
   <LetterLabelTraitDisease>疫病 ({0})</LetterLabelTraitDisease>
   <LetterTraitDisease>{0}は{1}から病気を貰いました\n\n医療用ベッドと医者を確保します。[PAWN_pronoun]が適切な治療を受けているか確認し、出来るかぎりベッドの上で過ごすようにさせて下さい。</LetterTraitDisease>
 

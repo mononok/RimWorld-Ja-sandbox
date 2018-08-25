@@ -135,6 +135,7 @@
     <!-- Animal control -->
     <CommandReleaseAnimalsLabel>獲物を指示</CommandReleaseAnimalsLabel>
     <CommandReleaseAnimalsDesc>これがオンになっている間、主人を持っている動物を、離れた獲物に向かわせることができます。これがオフの間は、動物は主人のそばを離れず守ります。</CommandReleaseAnimalsDesc>
+    <CommandReleaseAnimalsFail_NoAnimals>動物が存在しません。</CommandReleaseAnimalsFail_NoAnimals>
 
     <!-- Squad attack -->
     <CommandSquadAttack>攻撃目標</CommandSquadAttack>
@@ -270,7 +271,7 @@
 
     <!-- Pause caravan -->
     <CommandPauseCaravan>休息</CommandPauseCaravan>
-    <CommandToggleCaravanPauseDesc>しばらくキャラバンを止めます。これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます。\n- 食料調達が{0}倍早くなります。\n- 目立ちやすさが {1}になります。\n- 病気の隊員はベッドロールで休めます。</CommandToggleCaravanPauseDesc>
+    <CommandToggleCaravanPauseDesc>休みをとります。これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます。\n- 食料調達が{0}倍早くなります。\n- 目立ちやすさが {1}になります。</CommandToggleCaravanPauseDesc>
 
     <!-- Show sellable items -->
     <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>

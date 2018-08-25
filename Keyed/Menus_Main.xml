@@ -91,7 +91,7 @@
     <ModTargetVersion>For version: {0}</ModTargetVersion>
     <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
     <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-    <DragToReorder>Drag to reorder</DragToReorder>
+    <DragToReorder>順序変更はドラッグする</DragToReorder>
 
     <!--=========== Select scenario =============-->
     <ChooseScenario>シナリオを選択</ChooseScenario>
@@ -124,7 +124,8 @@
     <ReloadAnytimeModeInfo>いつでもセーブとロードができます。\n\nまだゲームに慣れていないか、それがあなたのゲームスタイルか、MODを山盛りにしたいか、自分で縛りをつくって遊びたいなら良い選択です。</ReloadAnytimeModeInfo>
     <PermadeathModeInfo>パーマデスモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
     <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は、いつでも変更できます。</CanChangeStorytellerSettingsDuringPlay>
-    <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty><ConfirmUnlockExtremeDifficulty>無慈悲モードは、全てのイベントが激難にチューンアップされているスペシャルゲームです。\n\n無慈悲モードは、有る特定のマイルストーン(クリア条件)に到達するとアンロックされます。しかしながら、まさに今アンロックすることもできます。\n\nこのオプションは、最高難易度のゲームをしたり、最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます。</ConfirmUnlockExtremeDifficulty>
+    <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
+    <ConfirmUnlockExtremeDifficulty>無慈悲モードは、全てのイベントが激難にチューンアップされているスペシャルゲームです。\n\n無慈悲モードは、有る特定のマイルストーン(クリア条件)に到達するとアンロックされます。しかしながら、まさに今アンロックすることもできます。\n\nこのオプションは、最高難易度のゲームをしたり、最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます。</ConfirmUnlockExtremeDifficulty>
 
     <!--=========== Landing site select =========-->
     <SelectLandingSite>降下地点を選択</SelectLandingSite>

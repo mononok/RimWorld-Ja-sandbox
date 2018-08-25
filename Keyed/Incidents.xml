@@ -18,11 +18,11 @@
     <!-- Friendly raids -->
     <FriendlyRaidLeaderPresent>{0} - {1}うちの１人は、この派閥のリーダーです。</FriendlyRaidLeaderPresent>
 
-    <LetterLabelRefugeePodCrash>脱出ポッド</LetterLabelRefugeePodCrash>
-    <RefugeePodCrash>[PAWN_nameDef]という[PAWN_title]が乗った脱出ポッドが近くに墜落してきます。もし[PAWN_pronoun]が衝撃から生き残ったとしても、[PAWN_pronoun]は重傷を負っているでしょう。</RefugeePodCrash>
+    <LetterLabelRefugeePodCrash>輸送ポッド事故</LetterLabelRefugeePodCrash>
+    <RefugeePodCrash>[PAWN_nameDef]という[PAWN_title]が乗った輸送ポッドが近くに墜落してきます。もし[PAWN_pronoun]が衝撃から生き残ったとしても、[PAWN_pronoun]は重傷を負っているでしょう。</RefugeePodCrash>
     <RefugeePodCrash_Factionless>[PAWN_nameDef]はどこの派閥にも属していません。あなたは[PAWN_objective]助けて、[PAWN_pronoun]を加えることも自由ですし、奴隷として勧誘することもできます。</RefugeePodCrash_Factionless>
-    <RefugeePodCrash_Hostile>あなたは勧誘か奴隷目的で[PAWN_objective]捕らえることができます。[PAWN_pronoun]は、[PAWN_factionName]から来ました。</RefugeePodCrash_Hostile>
-    <RefugeePodCrash_NonHostile>【ノート】:[PAWN_pronoun]は、[PAWN_factionName]から来ました。[PAWN_objective]を捕らえる事は、彼らを怒らせるでしょう、また救出して[PAWN_objective]治療すれば、派閥関係は改善するでしょう。</RefugeePodCrash_NonHostile>
+    <RefugeePodCrash_Hostile>[PAWN_nameDef]は、あなたの敵[PAWN_factionName]から来ました。あなたは勧誘か奴隷目的で[PAWN_objective]捕らえることができます。</RefugeePodCrash_Hostile>
+    <RefugeePodCrash_NonHostile>[PAWN_nameDef]は、[PAWN_factionName]から来ました。あなたが[PAWN_objective]を助けると、[PAWN_pronoun]は勝手に仲間になるかもしれません。そうでなくても、[PAWN_pronoun]は自分の本拠地に戻って、あなたがしてくれた善意を広めるでしょう。</RefugeePodCrash_NonHostile>
 
     <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
     <CargoPodCrash>貨物ポッドが この近くに 墜落するのを見かけました。\n\nその付近を探せば 役に立つものが 見つかるでしょう。</CargoPodCrash>
@@ -48,7 +48,6 @@
     <GroupVisitorsArriveTraderInfo>\n\n彼らは、持っているアイテムをいくつかトレードしたがっています。</GroupVisitorsArriveTraderInfo>
     <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダーです。</GroupVisitorsArriveLeaderInfo>
     <VisitorsLeaving>訪問中の {0}は 去りました。</VisitorsLeaving>
-
 
     <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
     <ManhunterPackArrived>ヒト狩り{0}週団が、この地にやって来ました。やつらは地域をうろうろし、獲物のヒトを狩ります。\n\nやつらは、誰かがドアを通るところを見るまでは、ドアを攻撃することはありません。内側に潜んでいれば安全でしょう。また動作していないタレットを攻撃することもないので、残しておきたければ電源を落としましょう。\n\n{0}は、１?２日も経てば居なくなるでしょう。あなたは物陰に身を潜めて立ち去るのを待つことも、戦いを選ぶこともできます。</ManhunterPackArrived>

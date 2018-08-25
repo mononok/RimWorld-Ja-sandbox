@@ -2,13 +2,11 @@
 <LanguageData>
 
     <Berserk.label>狂暴化</Berserk.label>
-    <Berserk.beginLetterLabel>狂暴化</Berserk.beginLetterLabel>
     <Berserk.beginLetter>{0}は狂暴になった。\n\n[PAWN_pronoun]は、見るもの全てを攻撃します。</Berserk.beginLetter>
     <Berserk.recoveryMessage>{0}の 狂暴化の波は 終わりを迎えた。</Berserk.recoveryMessage>
     <Berserk.baseInspectLine>精神状態: 狂暴化</Berserk.baseInspectLine>
 
     <FireStartingSpree.label>放火魔</FireStartingSpree.label>
-    <FireStartingSpree.beginLetterLabel>放火魔</FireStartingSpree.beginLetterLabel>
     <FireStartingSpree.beginLetter>{0}は やたらめったら放火します。\n\n[PAWN_pronoun]は、しばらくの間、うろうろしながら、手当たり次第に放火します。</FireStartingSpree.beginLetter>
     <FireStartingSpree.recoveryMessage>{0}は もう放火しなくなった。</FireStartingSpree.recoveryMessage>
     <FireStartingSpree.baseInspectLine>精神状態: 放火魔</FireStartingSpree.baseInspectLine>
@@ -30,13 +28,11 @@
     <Jailbreaker.baseInspectLine>精神状態: 脱獄</Jailbreaker.baseInspectLine>
 
     <Slaughterer.label>屠殺者</Slaughterer.label>
-    <Slaughterer.beginLetterLabel>屠殺者</Slaughterer.beginLetterLabel>
     <Slaughterer.beginLetter>{0}は 重度のストレスから [PAWN_possessive]怒りのはけ口を 動物に向けようとしている。</Slaughterer.beginLetter>
     <Slaughterer.recoveryMessage>{0}は もうやたらめったら 動物を屠殺するのを止めた。</Slaughterer.recoveryMessage>
     <Slaughterer.baseInspectLine>精神状態: 屠殺者</Slaughterer.baseInspectLine>
 
     <MurderousRage.label>激情の殺意</MurderousRage.label>
-    <MurderousRage.beginLetterLabel>激情の殺意</MurderousRage.beginLetterLabel>
     <MurderousRage.beginLetter>{0}は激情の殺意へと感情が流れた。\n\n[PAWN_pronoun]は、{1}を殺す事に決めた。</MurderousRage.beginLetter>
     <MurderousRage.recoveryMessage>{0}は もう激情した殺意はない。</MurderousRage.recoveryMessage>
     <MurderousRage.baseInspectLine>精神状態: 激情の殺意</MurderousRage.baseInspectLine>
@@ -51,7 +47,6 @@
     <Wander_Psychotic.baseInspectLine>精神状態: 精神衰弱</Wander_Psychotic.baseInspectLine>
 
     <Tantrum.label>癇癪持ち</Tantrum.label>
-    <Tantrum.beginLetterLabel>癇癪持ち</Tantrum.beginLetterLabel>
     <Tantrum.beginLetter>{0}は癇癪を起こした。\n\n[PAWN_pronoun]は、手当たり次第に家具、アイテム、建物を壊します。</Tantrum.beginLetter>
     <Tantrum.recoveryMessage>{0}は もう癇癪が落ち着きました。</Tantrum.recoveryMessage>
     <Tantrum.baseInspectLine>精神状態: 癇癪持ち</Tantrum.baseInspectLine>
@@ -70,13 +65,11 @@
     <BedroomTantrum.baseInspectLine>精神状態: 癇癪持ち(寝室)</BedroomTantrum.baseInspectLine>
 
     <SadisticRage.label>サディスティックな激情</SadisticRage.label>
-    <SadisticRage.beginLetterLabel>サディスティックな激情</SadisticRage.beginLetterLabel>
     <SadisticRage.beginLetter>{0}はサディスティックな激情に流れた。\n\n[PAWN_pronoun]は、怒りの憂さを囚人で晴らそうとします。</SadisticRage.beginLetter>
     <SadisticRage.recoveryMessage>{0}には もう虐待的感情は無くなった。</SadisticRage.recoveryMessage>
     <SadisticRage.baseInspectLine>精神状態: 虐待</SadisticRage.baseInspectLine>
 
     <CorpseObsession.label>死体への執着</CorpseObsession.label>
-    <CorpseObsession.beginLetterLabel>死体への執着</CorpseObsession.beginLetterLabel>
     <CorpseObsession.beginLetter>{0}は 心の内面がおかしくなって死体に取り憑かれました。\n\n[PAWN_pronoun]は死体を掘り起こして、みんなが見えるところに飾ります。</CorpseObsession.beginLetter>
     <CorpseObsession.recoveryMessage>{0}は もう死体には執着しなくなった。</CorpseObsession.recoveryMessage>
     <CorpseObsession.baseInspectLine>精神状態: 死体への執着</CorpseObsession.baseInspectLine>
@@ -102,7 +95,6 @@
     <Wander_OwnRoom.baseInspectLine>精神状態: ひきこもり</Wander_OwnRoom.baseInspectLine>
 
     <InsultingSpree.label>侮辱・放言</InsultingSpree.label>
-    <InsultingSpree.beginLetterLabel>侮辱・放言</InsultingSpree.beginLetterLabel>
     <InsultingSpree.beginLetter>{0}は放言をまき散らします。\n\n[PAWN_pronoun]はうろついては、手当たり次第に他の人を侮辱します。</InsultingSpree.beginLetter>
     <InsultingSpree.recoveryMessage>{0}は もう侮辱、放言をやめました。</InsultingSpree.recoveryMessage>
     <InsultingSpree.baseInspectLine>精神状態: 侮辱放言</InsultingSpree.baseInspectLine>

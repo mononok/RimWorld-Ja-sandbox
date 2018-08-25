@@ -68,17 +68,17 @@
     <MissingMods>いくつかのMODを利用できません、インストールが必要です。</MissingMods>
 
     <!-- Player faction naming -->
-    <NamePlayerFactionMessage>{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+    <NamePlayerFactionMessage>あなたが、この地に腰をおろそうとして以来、{0}は、あなたが派閥のネーミングをするべきだと考えています。あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
     <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました。</PlayerFactionGainsName>
     <PlayerFactionNameIsInvalid>その名前は適当ではありません。</PlayerFactionNameIsInvalid>
 
     <!-- Player faction base naming -->
-    <NamePlayerFactionBaseMessage>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+    <NamePlayerFactionBaseMessage>{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
     <PlayerFactionBaseGainsName>この共同体を {0}と名乗りました。</PlayerFactionBaseGainsName>
     <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません。</PlayerFactionBaseNameIsInvalid>
 
     <!-- Player faction and faction base naming -->
-    <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたは、しばらくこの地に居るみたいなので、{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+    <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}は、あなたが、この共同体のネーミングをするべきだと考えています。あなたの共同体を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
     <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り、共同体を {1}と名乗りました。</PlayerFactionAndBaseGainsName>
 
     <!-- Renaming -->
@@ -104,7 +104,7 @@
     <ResolutionRevert>戻す</ResolutionRevert>
 
     <!-- Confirm permanently disable dev mode -->
-    <ConfirmPermanentlyDisableDevMode>本当に、このコンピュータ上で、開発者モードを永久に無効にするのですか？</ConfirmPermanentlyDisableDevMode>
+    <ConfirmPermanentlyDisableDevMode>本当に、このコンピュータ上で、開発者モードを永久に無効にするのですか？\n\nこのオプションは開発用ツールを使って通常プレイより有利にゲームをしたいという誘惑がなく、より純粋なゲームプレイを経験したい方々の為にあります。\n\n開発者モードを有効にすることができますが、そのためには設定ファイルを手で修正する必要があります。そのやり方はインターネットを使って調べる必要があります。</ConfirmPermanentlyDisableDevMode>
 
     <!-- Research -->
     <Research>研究</Research>
@@ -188,6 +188,8 @@
     <LimitedLifespan>寿命がある</LimitedLifespan>
     <GrowingTime>成長時間</GrowingTime>
     <HarvestYield>収量</HarvestYield>
+    <MinGrowthTemperature>生育・最低気温</MinGrowthTemperature>
+    <MaxGrowthTemperature>生育・最高気温</MaxGrowthTemperature>
     <GrowingTimeDesc>植物は、昼間、陽が当たっているときだけ成長します。成長時間とは、植物が充分に育つまでに必要な陽が当たっている総時間です。現実には成長するまで約2倍の時間がかかります。低温時にも成長は鈍ります。</GrowingTimeDesc>
     <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに、最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
@@ -314,9 +316,10 @@
     <NutritionEatenPerDayTip>一日に摂取する栄養素数。参考までに、簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
     <MassCarriedSimple>積載量</MassCarriedSimple>
     <MassCapacity>最大積載量</MassCapacity>
-    <Mass>重さ</Mass>
-    <EquipmentAndApparelMass>衣服や装備品の重さ</EquipmentAndApparelMass>
-    <InventoryMass>持ち物の重さ</InventoryMass>
+    <Mass>重量</Mass>
+    <CaravanMass>キャラバン隊重量</CaravanMass>
+    <EquipmentAndApparelMass>衣服や装備品の重量</EquipmentAndApparelMass>
+    <InventoryMass>持ち物の重量</InventoryMass>
     <CaravanFormationProcessStarted>入植者達は、今アイテムを収集して、このエリアを離れようとしています。</CaravanFormationProcessStarted>
     <ReformCaravan>キャラバン隊の再編成</ReformCaravan>
     <ColonistsSection>入植者</ColonistsSection>
@@ -335,7 +338,7 @@
     <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
     <CantGrazeBecauseOfTemp>({0}日 極寒)</CantGrazeBecauseOfTemp>
     <TotalNutrition>全栄養素</TotalNutrition>
-    <CaravanNotMoving>Not moving</CaravanNotMoving>
+    <CaravanNotMoving>移動なし</CaravanNotMoving>
     <ForagedNutritionPerDay>栄養素調達量/日</ForagedNutritionPerDay>
     <FactionType>派閥種別</FactionType>
     <TotalBodySize>体格の合計</TotalBodySize>
@@ -446,5 +449,8 @@
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>
   <ConfirmCleanupTranslationFiles_Confirm>Yes, I have a backup</ConfirmCleanupTranslationFiles_Confirm>
+
+    <!-- Load transporters -->
+    <TransportersCaravanWillBeImmobile>何も無いタイルにポッドを送り込むと、キャラバン隊は動けなくなるでしょう。本当に続けますか？</TransportersCaravanWillBeImmobile>
 
 </LanguageData>

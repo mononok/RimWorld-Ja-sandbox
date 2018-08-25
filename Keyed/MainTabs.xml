@@ -46,7 +46,6 @@
   <CurrentGoodwillTip_Hostile>この派閥と敵対です。彼らは、あなたの本拠地とキャラバン隊を襲うでしょう。もし関係性が{0}を上回ると、かれらは中立となります。</CurrentGoodwillTip_Hostile>
   <CurrentGoodwillTip_NaturalGoodwill>この派閥は、{0}から{1}の誠意幅を持っています。誠意が{1}を超えると、一日毎に{3}下がっていきます。誠意が{0}を下回ると、一日毎に{2}上がっていきます。</CurrentGoodwillTip_NaturalGoodwill>
 
-
   <!-- Social tab -->
   <Friend>友人</Friend>
   <Rival>ライバル</Rival>
@@ -69,23 +68,21 @@
   <!-- History tab - Messages -->
   <ShowLetters>レターを表示</ShowLetters>
   <ShowMessages>メッセージを表示</ShowMessages>
-  <PinArchivableTip>
- このメッセージにピンを打つ(ピンを外す)\n\n
- もっとも古いピンを打っていないメッセージは、メッセージ数{0}の上限に達すると自動的に削除されます。</PinArchivableTip>
+  <PinArchivableTip>このメッセージにピンを打つ(ピンを外す)\n\nもっとも古いピンを打っていないメッセージは、メッセージ数{0}の上限に達すると自動的に削除されます。</PinArchivableTip>
   <NoMessages>メッセージはありません</NoMessages>
 
   <!-- History tab - Statistics -->
-<Playtime>プレイ時間</Playtime>
-<Storyteller>AI脚本家</Storyteller>
+  <Playtime>プレイ時間</Playtime>
+  <Storyteller>AI脚本家</Storyteller>
   <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
   <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
   <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthTameAnimals>村の価値(動物達) (this map)</ThisMapColonyWealthTameAnimals>
-<NumThreatBigs>大きな脅威</NumThreatBigs>
-<NumEnemyRaids>敵の襲撃</NumEnemyRaids>
+  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <NumThreatBigs>大きな脅威</NumThreatBigs>
+  <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
   <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
-<ColonistsKilled>殺された 入植者数</ColonistsKilled>
-<ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
+  <ColonistsKilled>殺された 入植者数</ColonistsKilled>
+  <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 
   <!-- Research tab -->
   <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>

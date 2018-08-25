@@ -434,7 +434,7 @@
 	    <li>tale_noun->[PAWN_nameDef]の[Community]付近に竜巻が上陸</li>
 	    <li>tale_noun->危険な気象現象により[PAWN_nameDef]の[Community]が脅かされる</li>
 	
-	    <li>image->[circumstance_phrase] [behavior]逆円錐状の捻じれた大気</li>
+	    <li>image->[circumstance_phrase] [behavior]二重螺旋状の大気</li>
 	    <li>image->[circumstance_phrase] [behavior]竜巻</li>
 	    <li>image->[circumstance_phrase] [behavior]ハリケーン</li>
 	    <li>image->[circumstance_phrase] [behavior][Color]雲</li>
@@ -460,28 +460,32 @@
     <!-- TornadoFromItem -->
     <TornadoFromItem.label>tornado</TornadoFromItem.label>
     <TornadoFromItem.rulePack.rulesStrings>
-	    <li>tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]</li>
-	    <li>tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado</li>
-	    <li>image->[behavior] cone of twisting air [circumstance_phrase]</li>
-	    <li>image->[behavior] tornado [circumstance_phrase]</li>
-	    <li>image->[behavior] hurricane [circumstance_phrase]</li>
-	    <li>image->[behavior] [Color] cloud formation [circumstance_phrase]</li>
-	    <li>behavior->an advancing</li>
-	    <li>behavior->an approaching</li>
-	    <li>behavior->a quickly-moving</li>
-	    <li>behavior->a swirling</li>
-	    <li>circumstance_phrase->carrying debris with it</li>
-	    <li>circumstance_phrase->passing over a [TerrainFeature]</li>
-	    <li>circumstance_phrase->obscuring a [TerrainFeature]</li>
-	    <li>circumstance_phrase->enveloping a [TerrainFeature]</li>
-	    <li>desc_sentence->[COLONIST_nameDef] watches with visible fright.</li>
-	    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] watches with awe on [COLONIST_possessive] face.</li>
-	    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] watches with awe on [ATTACKER_possessive] face.</li>
-	    <li>desc_sentence->[COLONIST_nameDef] is coordinating defensive measures.</li>
-	    <li>desc_sentence->[ATTACKER_nameDef] cackles with glee.</li>
-	    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
-	    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
-	    <li>desc_sentence->All animal life has left the area.</li>
+	    <li>tale_noun->[COLONIST_nameDef]の[Community]に竜巻の尻尾が舞い降りる</li>
+	    <li>tale_noun->竜巻によって[COLONIST_nameDef]の[Community]が脅かされる</li>
+
+	    <li>image->[circumstance_phrase] [behavior]二重螺旋状の大気</li>
+	    <li>image->[circumstance_phrase] [behavior]竜巻</li>
+	    <li>image->[circumstance_phrase] [behavior]ハリケーン</li>
+	    <li>image->[circumstance_phrase] [behavior][Color]雲</li>
+
+	    <li>behavior->進んでくる</li>
+	    <li>behavior->近寄ってくる</li>
+	    <li>behavior->急速に接近してくる</li>
+	    <li>behavior->渦を巻く</li>
+
+	    <li>circumstance_phrase->巻き込んだ破片を運びつつ</li>
+	    <li>circumstance_phrase->[TerrainFeature]を通過し</li>
+	    <li>circumstance_phrase->[TerrainFeature]を見えなくさせ</li>
+	    <li>circumstance_phrase->[TerrainFeature]を包み込み</li>
+
+	    <li>desc_sentence->[COLONIST_nameDef]恐怖の念を隠さずに見つめている。</li>
+	    <li>desc_sentence(p=0.5)->[COLONIST_nameDef]は畏怖の表情を浮かべ見つめている。</li>
+	    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef]は畏怖の表情を浮かべ見つめている。</li>
+	    <li>desc_sentence->[COLONIST_nameDef]は防御の算段をつけている。</li>
+	    <li>desc_sentence->[ATTACKER_nameDef]はほくそ笑んでいる。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出している。</li>
+	    <li>desc_sentence->すべての野生生物はここを離れた。</li>
     </TornadoFromItem.rulePack.rulesStrings>
 
 </LanguageData>

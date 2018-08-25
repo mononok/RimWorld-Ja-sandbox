@@ -2,44 +2,37 @@
 <LanguageData>
 
     <Frenzy_Work.label>熱狂的な労働意欲</Frenzy_Work.label>
-    <Frenzy_Work.beginLetterLabel>やる気: 労働意欲</Frenzy_Work.beginLetterLabel>
-    <Frenzy_Work.beginLetter>{0}は奮い立った。[PAWN_pronoun]は、今後24時間の作業速度が2.5倍速くなります。</Frenzy_Work.beginLetter>
+    <Frenzy_Work.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は、今後8日間に渡って作業速度が速くなります。</Frenzy_Work.beginLetter>
     <Frenzy_Work.endMessage>{0}のやる気は、もう落ち着きました(熱狂的労働)。</Frenzy_Work.endMessage>
     <Frenzy_Work.baseInspectLine>やる気: 労働意欲</Frenzy_Work.baseInspectLine>
 
     <Frenzy_Go.label>熱狂的な意欲</Frenzy_Go.label>
-    <Frenzy_Go.beginLetterLabel>やる気: 意欲</Frenzy_Go.beginLetterLabel>
-    <Frenzy_Go.beginLetter>{0}は奮い立った。[PAWN_pronoun]は、今後24時間の歩行速度が1.5倍速くなります。</Frenzy_Go.beginLetter>
+    <Frenzy_Go.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は、今後8日間に渡って歩行速度が速くなります。</Frenzy_Go.beginLetter>
     <Frenzy_Go.endMessage>{0}のやる気は、もう落ち着きました(熱狂的意欲)。</Frenzy_Go.endMessage>
     <Frenzy_Go.baseInspectLine>やる気: 意欲</Frenzy_Go.baseInspectLine>
 
     <Frenzy_Shoot.label>熱狂的な射撃意欲</Frenzy_Shoot.label>
-    <Frenzy_Shoot.beginLetterLabel>やる気: 射撃意欲</Frenzy_Shoot.beginLetterLabel>
-    <Frenzy_Shoot.beginLetter>{0}は奮い立った。[PAWN_possessive]射撃精度は、今後3日間正確になります。</Frenzy_Shoot.beginLetter>
+    <Frenzy_Shoot.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]射撃精度は、今後8日間正確になります。</Frenzy_Shoot.beginLetter>
     <Frenzy_Shoot.endMessage>{0}のやる気は、もう落ち着きました(熱狂的射撃)。</Frenzy_Shoot.endMessage>
     <Frenzy_Shoot.baseInspectLine>やる気: 射撃意欲</Frenzy_Shoot.baseInspectLine>
 
     <Inspired_Trade.label>売買意欲</Inspired_Trade.label>
-    <Inspired_Trade.beginLetterLabel>やる気: 売買意欲</Inspired_Trade.beginLetterLabel>
-    <Inspired_Trade.beginLetter>{0}は奮い立った。[PAWN_pronoun]は、次の商取引で重要な価格へのボーナスを受け取れるでしょう。\n\nやる気は、次の取引が終わるか、8日後に終わります。</Inspired_Trade.beginLetter>
+    <Inspired_Trade.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は、次の商取引で重要な価格へのボーナスを受け取れるでしょう。\n\nやる気は、次の取引が終わるか、8日後に終わります。</Inspired_Trade.beginLetter>
     <Inspired_Trade.endMessage>{0}のやる気は、もう落ち着きました(売買意欲)。</Inspired_Trade.endMessage>
     <Inspired_Trade.baseInspectLine>やる気: 売買意欲</Inspired_Trade.baseInspectLine>
 
     <Inspired_Recruitment.label>勧誘意欲</Inspired_Recruitment.label>
-    <Inspired_Recruitment.beginLetterLabel>やる気: 勧誘意欲</Inspired_Recruitment.beginLetterLabel>
-    <Inspired_Recruitment.beginLetter>{0}は奮い立った。[PAWN_pronoun]は、難易度に関係なく、次の囚人勧誘に成功するでしょう。\n\nやる気は、次の勧誘が終わるか、8日後に終わります。</Inspired_Recruitment.beginLetter>
+    <Inspired_Recruitment.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は、難易度に関係なく、次の囚人勧誘に成功するでしょう。\n\nやる気は、次の勧誘が終わるか、8日後に終わります。</Inspired_Recruitment.beginLetter>
     <Inspired_Recruitment.endMessage>{0}のやる気は、もう落ち着きました(勧誘意欲)。</Inspired_Recruitment.endMessage>
     <Inspired_Recruitment.baseInspectLine>やる気: 勧誘意欲</Inspired_Recruitment.baseInspectLine>
 
     <Inspired_Surgery.label>手術意欲</Inspired_Surgery.label>
-    <Inspired_Surgery.beginLetterLabel>やる気: 手術意欲</Inspired_Surgery.beginLetterLabel>
-    <Inspired_Surgery.beginLetter>{0}は奮い立った。[PAWN_pronoun]がする次回の手術失敗率は、10倍低くなるでしょう。\n\nやる気は、次の手術が終わるか、8日後に終わります。</Inspired_Surgery.beginLetter>
+    <Inspired_Surgery.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]がする次回の手術成功率は、2倍になるでしょう。最低限度の失敗率は変わらず存在します。\n\nやる気は、次の手術が終わるか、8日後に終わります。</Inspired_Surgery.beginLetter>
     <Inspired_Surgery.endMessage>{0}のやる気は、もう落ち着きました(手術意欲)。</Inspired_Surgery.endMessage>
     <Inspired_Surgery.baseInspectLine>やる気: 手術意欲</Inspired_Surgery.baseInspectLine>
 
     <Inspired_Creativity.label>創作意欲</Inspired_Creativity.label>
-    <Inspired_Creativity.beginLetterLabel>やる気: 創作意欲</Inspired_Creativity.beginLetterLabel>
-    <Inspired_Creativity.beginLetter>{0}は奮い立った。芸術は普段より3レベル高い品質で完成するでしょう。\n\nやる気は、芸術を完成させるか、8日後に終わります。</Inspired_Creativity.beginLetter>
+    <Inspired_Creativity.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]が作る次回の絵画、彫刻などの芸術は普段より2レベル高い品質で完成するでしょう。\n\nやる気は、芸術を完成させるか、8日後に終わります。</Inspired_Creativity.beginLetter>
     <Inspired_Creativity.endMessage>{0}のやる気は、もう落ち着きました(創作意欲)。</Inspired_Creativity.endMessage>
     <Inspired_Creativity.baseInspectLine>やる気: 創作意欲</Inspired_Creativity.baseInspectLine>
 

@@ -2,7 +2,7 @@
 <LanguageData>
 
     <FactionGreetingHostile>{0} 代表は、 マイク越しに罵倒し 通信を切断しました。</FactionGreetingHostile>
-    <FactionGreetingHostileAppreciative>あなが[PAWN_possessive]集落の一つに贈り物を持参したり、[PAWN_possessive]派閥の囚人を無傷で解放するような、誠意を見せるよう {0} 代表は要求しています。それまでは、[PAWN_pronoun]は話し合いを嫌がり。\n\n侮辱する言葉を述べ、[PAWN_pronoun]は切りました。</FactionGreetingHostileAppreciative>
+    <FactionGreetingHostileAppreciative>あなたが[PAWN_possessive]集落の一つに贈り物を持参したり、[PAWN_possessive]派閥の囚人を無傷で解放するような、誠意を見せるよう {0} 代表は要求しています。それまでは、[PAWN_pronoun]は話し合いを嫌がり。\n\n侮辱する言葉を述べ、[PAWN_pronoun]は切りました。</FactionGreetingHostileAppreciative>
     <FactionGreetingWary>{0} 代表は用心しつつも {1}を歓迎し、あなたと取引する用意が有ることを伝えてきました。</FactionGreetingWary>
     <FactionGreetingWarm>{0} 代表は暖かく {1}を歓迎し、あなたの力になる用意が有ることを伝えてきました。</FactionGreetingWarm>
 
@@ -35,5 +35,6 @@
     <CallCancel>いや、 気に しないでくれ。</CallCancel>
     <MilitaryAidSent>{0} 代表は、 あなたを 助けるために 戦士を 送ると 約束しました。</MilitaryAidSent>
     <CantSendMilitaryAidInTime>{0} 代表は、時間通りに到着できそうにないことを詫びています。\n\n(この派閥のテクノロジーレベルは、ポッド輸送を行うには低すぎます。)</CantSendMilitaryAidInTime>
+    <HostileVisitorsPresent>敵意に満ちた訪問者がいる</HostileVisitorsPresent>
 
 </LanguageData>

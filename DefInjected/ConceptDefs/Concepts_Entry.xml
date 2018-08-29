@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!--===================== Concepts taught in the entry screens ===================-->
-  <WorldCameraMovement.label>ワールドカメラを動かす</WorldCameraMovement.label>
-  <WorldCameraMovement.helpText>ズームするには、マウスホイールか、 {Key:MapZoom_In}、{Key:MapZoom_Out}キー です。\n\nパンするには、{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーか、 MIDDLE-CLICKING してドラッグします。</WorldCameraMovement.helpText>
+  <WorldCameraMovement.label>ワールドカメラの使用法</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>ズームイン・ズームアウトするには、マウスホイールを前後に動かすか、 {Key:MapZoom_In}、{Key:MapZoom_Out}キーを使用します。\n\n左右を見る場合は、{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使用するか、 マウスホイールを押し込ながらマウスを左右に移動させます。</WorldCameraMovement.helpText>
 
 </LanguageData>

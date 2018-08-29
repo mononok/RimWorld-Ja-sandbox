@@ -3,35 +3,35 @@
 
     <!-- ======================== Non-grouped ========================-->
 
-    <ScenPart_PlayerFaction>あなたの派閥は "{0}" です。</ScenPart_PlayerFaction>
+    <ScenPart_PlayerFaction>あなたの派閥は "{0}" です.</ScenPart_PlayerFaction>
 
-    <ScenPart_StartWithPawns>ゲームを 総勢{1}人の中から {0}人を選んで始めます。</ScenPart_StartWithPawns>
+    <ScenPart_StartWithPawns>ゲームを 総勢{1}人の中から {0}人を選んで始めます.</ScenPart_StartWithPawns>
     <ScenPart_StartWithPawns_OutOf>候補人数</ScenPart_StartWithPawns_OutOf>
 
     <RandomPet>ランダムなペット</RandomPet>
 
     <ScenPart_StartingResearchFinished>研究済み:\n  -{0}</ScenPart_StartingResearchFinished>
 
-    <ScenPart_ArriveInDropPods>ドロップポッドで惑星に到着します。</ScenPart_ArriveInDropPods>
+    <ScenPart_ArriveInDropPods>ドロップポッドで惑星に到着します.</ScenPart_ArriveInDropPods>
 
-    <ScenPart_StatFactor>"{0}" の効果は、すべてにおいて "{1}" 掛けられます。</ScenPart_StatFactor>
+    <ScenPart_StatFactor>"{0}" の効果は,すべてにおいて "{1}" 掛けられます.</ScenPart_StatFactor>
 
 
     <!-- Pawn modifiers -->
-    <ScenPart_PawnsHaveHediff>{0}は "{1}"の確率で、"{2}" を持って始まります。</ScenPart_PawnsHaveHediff>
+    <ScenPart_PawnsHaveHediff>{0}は "{1}"の確率で,"{2}" を持って始まります.</ScenPart_PawnsHaveHediff>
     <ConfigurableSeverity>深刻度: {0}</ConfigurableSeverity>
 
-    <ScenPart_SetNeed>{0}は、{1}の確率で、{2}欲求への満足度が、{3}～{4}となります。</ScenPart_SetNeed>
+    <ScenPart_SetNeed>{0}は,{1}の確率で,{2}欲求への満足度が,{3}～{4}となります.</ScenPart_SetNeed>
     <ConfigurableLevel>レベル: {0}</ConfigurableLevel>
 
-    <ScenPart_PawnsHaveTrait>{0}は {1}の確率で、次の才能・性格を持っています:\n  -{2}</ScenPart_PawnsHaveTrait>
-    <ScenPart_OnPawnDeathExplode>キャラクターは、死ぬときに爆発します( {0}, 半径 {1})。</ScenPart_OnPawnDeathExplode>
-    <ScenPart_PawnsAreNaked>{0}は裸になった。</ScenPart_PawnsAreNaked>
+    <ScenPart_PawnsHaveTrait>{0}は {1}の確率で,次の才能・性格を持っています:\n  -{2}</ScenPart_PawnsHaveTrait>
+    <ScenPart_OnPawnDeathExplode>キャラクターは,死ぬときに爆発します( {0}, 半径 {1}).</ScenPart_OnPawnDeathExplode>
+    <ScenPart_PawnsAreNaked>{0}は裸になった.</ScenPart_PawnsAreNaked>
 
     <!-- Pawn filters -->
-    <ScenPart_StartingPawnAgeMin>人々の年齢は、少なくとも"{0}才"となります。</ScenPart_StartingPawnAgeMin>
-    <ScenPart_StartingPawnAgeMax>人々の年齢は、多くとも"{0}才"となります。</ScenPart_StartingPawnAgeMax>
-    <ScenPart_StartingPawnAgeRange>人々の年齢は、"{0}才" から "{1}才"となります。</ScenPart_StartingPawnAgeRange>
+    <ScenPart_StartingPawnAgeMin>人々の年齢は,少なくとも"{0}才"となります.</ScenPart_StartingPawnAgeMin>
+    <ScenPart_StartingPawnAgeMax>人々の年齢は,多くとも"{0}才"となります.</ScenPart_StartingPawnAgeMax>
+    <ScenPart_StartingPawnAgeRange>人々の年齢は,"{0}才" から "{1}才"となります.</ScenPart_StartingPawnAgeRange>
 
 
     <!-- ======================== Grouped ========================-->

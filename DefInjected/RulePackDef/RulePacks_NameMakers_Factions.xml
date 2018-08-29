@@ -38,9 +38,9 @@
 	
 	    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
 	    <li>townname_combo->[topicalnoun] [Community]</li>
-	    <li>townname_combo->[topicalnoun]'s [TerrainFeature]</li>
-	    <li>townname_combo->[topicalnoun]'s [Community]</li>
-	    <li>townname_combo(p=2)->[concept_positive]'s [TerrainFeature]</li>
+	    <li>townname_combo->[topicalnoun]の [TerrainFeature]</li>
+	    <li>townname_combo->[topicalnoun]の [Community]</li>
+	    <li>townname_combo(p=2)->[concept_positive]の [TerrainFeature]</li>
 	    <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
 	    <li>townname_combo(p=2)->[concept_positive] [Community]</li>
 	    <li>townname_combo(p=3)->[Character]'s [TerrainFeature]</li>
@@ -56,7 +56,7 @@
 	    <li>townname_wordgen(p=2)->[sylE][sylE][sylE]</li>
 	    <li>townname_wordgen(p=2)->[sylE][townend]</li>
 	    <li>townname_wordgen(p=2)->[sylE][sylE][townend]</li>
-	    <li>townname_wordgen->[TerrainFeature][townend]</li>
+	    <li>townname_wordgen->[TerrainFeature]</li>
 	    <li>townname_wordgen->[topicalnoun][townend]</li>
 	    <li>townend->ville</li>
 	    <li>townend->town</li>
@@ -88,17 +88,17 @@
     <NamerFactionTribal.rulePack.rulesStrings>
 	    <li>r_name->[WordTribal] [political_union_tribal]</li>
 	    <li>r_name->The [WordTribal] [political_union_tribal]</li>
-	    <li>r_name->The [Color] [TerrainFeature] [political_union_tribal]</li>
+	    <li>r_name->[Color]色 [TerrainFeature] [political_union_tribal]</li>
 	    <li>r_name->[political_union_tribal] of [WordTribal]</li>
-	    <li>r_name->The [Color] [Animal] [WordTribal]</li>
-	    <li>r_name->The [WordTribal] of the [TerrainFeature]</li>
+	    <li>r_name->[Color]色 [Animal] [WordTribal]</li>
+	    <li>r_name->[WordTribal]オブ・ザ[TerrainFeature]</li>
     </NamerFactionTribal.rulePack.rulesStrings>
 
     <!-- NamerSettlementTribal -->
     <NamerSettlementTribal.rulePack.rulesStrings>
 	    <li>r_name(p=2)->[WordTribal]</li>
-	    <li>r_name->[Color] [WordTribal]</li>
-	    <li>r_name->[Color] [TerrainFeature]</li>
+	    <li>r_name->[Color]色 [WordTribal]</li>
+	    <li>r_name->[Color]色 [TerrainFeature]</li>
 	    <li>r_name->[WordTribal] [TerrainFeature]</li>
     </NamerSettlementTribal.rulePack.rulesStrings>
 

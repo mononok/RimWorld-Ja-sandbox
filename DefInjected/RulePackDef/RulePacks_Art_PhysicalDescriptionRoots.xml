@@ -4,9 +4,9 @@
     <!-- Different physical description roots for different kinds of artworks.
         Added to artworks with tales and taleless art.-->
     <ArtDescription_Sculpture.rulePack.rulesStrings>
-	    <li>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]。 [desc_sentence_group]</li>
-	    <li>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている。 [desc_sentence_group]</li>
-	    <li>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある。 [desc_sentence_group]</li>
+	    <li>physical_description_root->この[sculpture]は 「[image]」の様子を[depicts]. [desc_sentence_group]</li>
+	    <li>physical_description_root->この[sculpture]には 「[image]」の[depiction]が記載されている. [desc_sentence_group]</li>
+	    <li>physical_description_root->[sculpture]の上には 「[image]」の[depiction]がある. [desc_sentence_group]</li>
 	    <li>sculpture->彫塑</li>
 	    <li>sculpture->作品</li>
 	    <li>sculpture->一篇の作品</li>
@@ -15,31 +15,31 @@
 
     <!-- ArtDescription_WeaponMelee -->
     <ArtDescription_WeaponMelee.rulePack.rulesStrings>
-	    <li>physical_description_root->この武器には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
-	    <li>physical_description_root->この武器には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</li>
-	    <li>physical_description_root->武器の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
+	    <li>physical_description_root->この武器には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+	    <li>physical_description_root->この武器には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
+	    <li>physical_description_root->武器の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
     </ArtDescription_WeaponMelee.rulePack.rulesStrings>
 
     <!-- ArtDescription_WeaponGun -->
     <ArtDescription_WeaponGun.rulePack.rulesStrings>
-	    <li>physical_description_root->この銃には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
-	    <li>physical_description_root->この銃には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</li>
-	    <li>physical_description_root->銃の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
+	    <li>physical_description_root->この銃には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+	    <li>physical_description_root->この銃には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
+	    <li>physical_description_root->銃の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
     </ArtDescription_WeaponGun.rulePack.rulesStrings>
 
     <!-- ArtDescription_Furniture -->
     <ArtDescription_Furniture.rulePack.rulesStrings>
-	    <li>physical_description_root->この家具には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
-	    <li>physical_description_root->この家具には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</li>
-	    <li>physical_description_root->家具の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
+	    <li>physical_description_root->この家具には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+	    <li>physical_description_root->この家具には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
+	    <li>physical_description_root->家具の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
     </ArtDescription_Furniture.rulePack.rulesStrings>
 
     <!-- ArtDescription_SarcophagusPlate -->
     <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
-	    <li>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
-	    <li>physical_description_root->この石棺には、「[image]」の[depiction]が記載されている。[desc_sentence_group]</li>
-	    <li>physical_description_root->この石棺には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
-	    <li>physical_description_root->石棺の上には、「[image]」の[depiction]が彫られている。[desc_sentence_group]</li>
+	    <li>physical_description_root->この石棺には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+	    <li>physical_description_root->この石棺には,「[image]」の[depiction]が記載されている.[desc_sentence_group]</li>
+	    <li>physical_description_root->この石棺には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
+	    <li>physical_description_root->石棺の上には,「[image]」の[depiction]が彫られている.[desc_sentence_group]</li>
     </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
 
 </LanguageData>

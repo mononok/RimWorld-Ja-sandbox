@@ -3,36 +3,36 @@
 
 	<Manhunters.label>人狩りの群れ</Manhunters.label>
 	<Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
-	<Manhunters.descriptionDialogue>ヒト狩り{1} {0}の群れが辺りをうろついています。</Manhunters.descriptionDialogue>
-    <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます。</Manhunters.arrivedLetter>
+	<Manhunters.descriptionDialogue>ヒト狩り{1} {0}の群れが辺りをうろついています.</Manhunters.descriptionDialogue>
+    <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます.</Manhunters.arrivedLetter>
     <Manhunters.arrivedLetterLabel>ヒト狩り</Manhunters.arrivedLetterLabel>
 
 	<Outpost.label>前哨基地</Outpost.label>
 	<Outpost.description>ちいさな守備されている前哨基地</Outpost.description>
-	<Outpost.descriptionDialogue>敵によって守られている前哨基地が{0}ヶ所あります。</Outpost.descriptionDialogue>
-    <Outpost.arrivedLetter>敵の前哨基地がこのエリアにあります。</Outpost.arrivedLetter>
+	<Outpost.descriptionDialogue>敵によって守られている前哨基地が{0}ヶ所あります.</Outpost.descriptionDialogue>
+    <Outpost.arrivedLetter>敵の前哨基地がこのエリアにあります.</Outpost.arrivedLetter>
     <Outpost.arrivedLetterLabel>敵の前哨基地</Outpost.arrivedLetterLabel>
     <Outpost.approachOrderString>{0}を攻撃</Outpost.approachOrderString>
     <Outpost.approachingReportString>{0}を攻撃中</Outpost.approachingReportString>
 
 	<Turrets.label>タレット</Turrets.label>
 	<Turrets.description>タレット群</Turrets.description>
-	<Turrets.descriptionDialogue>{0}のリング状の敵のタレットがあります。</Turrets.descriptionDialogue>
-    <Turrets.arrivedLetter>敵のタレットがこのエリアにあります。</Turrets.arrivedLetter>
+	<Turrets.descriptionDialogue>{0}のリング状の敵のタレットがあります.</Turrets.descriptionDialogue>
+    <Turrets.arrivedLetter>敵のタレットがこのエリアにあります.</Turrets.arrivedLetter>
     <Turrets.arrivedLetterLabel>敵タレット</Turrets.arrivedLetterLabel>
 
 	<AmbushEdge.label>待ち伏せ</AmbushEdge.label>
 	<AmbushEdge.description>待ち伏せ</AmbushEdge.description>
-	<AmbushEdge.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています。</AmbushEdge.descriptionDialogue>
+	<AmbushEdge.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています.</AmbushEdge.descriptionDialogue>
 
 	<AmbushHidden.label>待ち伏せ</AmbushHidden.label>
 	<AmbushHidden.description>待ち伏せ</AmbushHidden.description>
-	<AmbushHidden.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています。</AmbushHidden.descriptionDialogue>
+	<AmbushHidden.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています.</AmbushHidden.descriptionDialogue>
 
 	<SleepingMechanoids.label>スリープ状態のメカノイド</SleepingMechanoids.label>
-	<SleepingMechanoids.description>機能休眠中のメカノイドのグループがいます。</SleepingMechanoids.description>
-	<SleepingMechanoids.descriptionDialogue>{0}の機能休眠中のメカノイドがこのエリアにします。</SleepingMechanoids.descriptionDialogue>
-    <SleepingMechanoids.arrivedLetter>機能休眠中のメカノイドらがこのエリアにいます。\n\nあなたが彼らに接触したとき、起きだすか、起きださないかもしれません、気を付けて</SleepingMechanoids.arrivedLetter>
+	<SleepingMechanoids.description>機能休眠中のメカノイドのグループがいます.</SleepingMechanoids.description>
+	<SleepingMechanoids.descriptionDialogue>{0}の機能休眠中のメカノイドがこのエリアにします.</SleepingMechanoids.descriptionDialogue>
+    <SleepingMechanoids.arrivedLetter>機能休眠中のメカノイドらがこのエリアにいます.\n\nあなたが彼らに接触したとき,起きだすか,起きださないかもしれません,気を付けて</SleepingMechanoids.arrivedLetter>
     <SleepingMechanoids.arrivedLetterLabel>機能休眠中のメカノイド</SleepingMechanoids.arrivedLetterLabel>
 
 </LanguageData>

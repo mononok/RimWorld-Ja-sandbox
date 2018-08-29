@@ -9,8 +9,8 @@
 	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]に説明した</li>
 	    <li>r_logentry->[INITIATOR_nameIndef]は[subject][talkabout]ことを[RECIPIENT_nameIndef]に勧めた</li>
 	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[subject][talkabout]チャンスを薦めた</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] expressed interest in [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] asked [RECIPIENT_nameIndef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]の[PersonalCharacteristic]に興味を示した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[RECIPIENT_possessive][PersonalCharacteristic]を尋ねた</li>
 
 	    <li>toldastoryabout(p=2)->について話をした</li>
 	    <li>toldastoryabout->についておかしな話をした</li>
@@ -39,27 +39,27 @@
 	    <li>subject->未来</li>
 	    <li>subject->見送り</li>
 	    <li>subject(p=4)->[ConceptPositive]</li>
-	    <li>subject(p=2)->[RECIPIENT_possessive] [PersonalCharacteristic]</li>
+	    <li>subject(p=2)->[RECIPIENT_possessive][PersonalCharacteristic]</li>
 	    <li>subject(p=8)->[TalkTopicLight]</li>
     </BuildRapport.logRulesInitiator.rulesStrings>
 
     <!-- RecruitAttempt -->
 	<RecruitAttempt.label>勧誘</RecruitAttempt.label>
     <RecruitAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は仲間になろうと[RECIPIENT_nameIndef]に尋ねた</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[goodthing]を約束し、仲間になろうと[RECIPIENT_nameIndef]に尋ねた</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は仲間になろうと[RECIPIENT_nameIndef]を誘った</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[goodthing]を約束し,仲間になろうと[RECIPIENT_nameIndef]を誘った</li>
 
 	    <li>goodthing(p=15)->[ConceptPositive]</li>
-	    <li>goodthing->自由と,新鮮な[Vegetable]</li>
+	    <li>goodthing->自由と新鮮な[Vegetable]</li>
     </RecruitAttempt.logRulesInitiator.rulesStrings>
 
     <!-- SparkJailbreak -->
 	<SparkJailbreak.label>脱走先導</SparkJailbreak.label>
     <SparkJailbreak.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[freedom]の良さについて話し、脱走方法を提案した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は、どれだけ[TerrainFeature]が美しいかについて話し自由へと誘った</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[freedom]の良さについて話し脱走方法を提案した</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は,どれだけ[TerrainFeature]が美しいかについて話し自由へと誘った</li>
 	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に脱走の仕方についてハッキリと示し[freedom]を約束した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は、警備が緩んでいるので脱走を勧める話を[RECIPIENT_nameIndef]に言った</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は,警備が緩んでいるので脱走を勧める話を[RECIPIENT_nameIndef]に言った</li>
 
 	    <li>freedom->自由</li>
 	    <li>freedom->成功すること</li>

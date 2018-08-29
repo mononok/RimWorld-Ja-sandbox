@@ -4,23 +4,23 @@
 	<!-- CaravanFormed -->
 	<CaravanFormed.label>caravan formed</CaravanFormed.label>
     <CaravanFormed.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]、冒険に旅立つ</li>
-	    <li>tale_noun->[PAWN_nameDef]、キャラバン隊を編成する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 目的を持って大股で歩き出す</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 水平線の向こうへ視線をやる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 旅の準備のために荷造りをする</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 旅の計画を練る</li>
+	    <li>tale_noun->[PAWN_nameDef],冒険に旅立つ</li>
+	    <li>tale_noun->[PAWN_nameDef],キャラバン隊を編成する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 目的を持って大股で歩き出す</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 水平線の向こうへ視線をやる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 旅の準備のために荷造りをする</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 旅の計画を練る</li>
 	    <li>circumstance_phrase->戦いの準備をしつつ</li>
 	    <li>circumstance_phrase->サバイバルに備え</li>
 	    <li>circumstance_phrase->探検の装備を整えつつ</li>
 	    <li>circumstance_phrase->[PAWN_possessive]両目に情熱の炎をたぎらせながら</li>
 	    <li>circumstance_phrase->[PAWN_possessive]両目に[AdjectiveAny]をたぎらせながら</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達が準備支度を見守っている。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達が身支度を手伝っている。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達が、この場面を嫌がっている。</li>
-	    <li>desc_sentence->遠くの[TerrainFeature]が目に入る。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が、遠くから見張っている。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が穏やかに歩いている。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達が準備支度を見守っている.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達が身支度を手伝っている.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達が,この場面を嫌がっている.</li>
+	    <li>desc_sentence->遠くの[TerrainFeature]が目に入る.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が,遠くから見張っている.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が穏やかに歩いている.</li>
     </CaravanFormed.rulePack.rulesStrings>
 
 	<!-- CaravanFled -->
@@ -29,94 +29,94 @@
 	    <li>tale_noun->[PAWN_nameDef]キャラバン隊の生死を賭けた脱出</li>
 	    <li>tale_noun->[PAWN_nameDef]キャラバン隊危機からの脱出</li>
 	    <li>tale_noun->[PAWN_nameDef]キャラバン隊危機一髪</li>
-	    <li>tale_noun->[PAWN_nameDef]キャラバン隊、敵に追われる身となる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 必死に走る</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 全速力で走る</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 逃げようと[TerrainFeature]の影に身体を滑りこませて隠れる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 逃げ隠れせずに抵抗する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] それでも呑気にぶらぶら歩く</li>
+	    <li>tale_noun->[PAWN_nameDef]キャラバン隊,敵に追われる身となる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 必死に走る</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 全速力で走る</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 逃げようと[TerrainFeature]の影に身体を滑りこませて隠れる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 逃げ隠れせずに抵抗する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] それでも呑気にぶらぶら歩く</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Enemy]達に追われ</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Enemy]達に行方を探されている中</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Enemy]達の追手がいる中</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Enemy]達の[Animal]らが追っているなか</li>
 	    <li>circumstance_phrase->[huge][Enemy]から追われ</li>
-	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Weapon]を振りかざす。</li>
-	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Color]発煙信号を打ち上げる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者の顔に[AdjectiveAngsty]表情が浮かぶ。</li>
-	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Weapon]を振りかざす。</li>
-	    <li>desc_sentence->[PAWN_nameDef]が汗をかく。</li>
-	    <li>desc_sentence->[PAWN_nameDef]の息が上がりアップアップしている。</li>
+	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Weapon]を振りかざす.</li>
+	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Color]色発煙信号を打ち上げる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者の顔に[AdjectiveAngsty]表情が浮かぶ.</li>
+	    <li>desc_sentence->[PAWN_nameDef]を追う追跡者は[Weapon]を振りかざす.</li>
+	    <li>desc_sentence->[PAWN_nameDef]が汗をかく.</li>
+	    <li>desc_sentence->[PAWN_nameDef]の息が上がりアップアップしている.</li>
     </CaravanFled.rulePack.rulesStrings>
 
 	<!-- CaravanAmbushDefeated -->
 	<CaravanAmbushDefeated.label>caravan ambush defeated</CaravanAmbushDefeated.label>
     <CaravanAmbushDefeated.rulePack.rulesStrings>
 	    <li>tale_noun->[PAWN_nameDef]キャラバン隊の鉄壁防御</li>
-	    <li>tale_noun->[PAWN_nameDef]、待ち伏せを返り討ちにする</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 組織的に抵抗する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 防衛的に[Weapon]を振るう</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [PAWN_possessive] [Weapon]を持って報復する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 仁王立ちして立ちはだかる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [AdjectiveBadass]表情を浮かべる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [AdjectiveAngsty]表情を浮かべる</li>
+	    <li>tale_noun->[PAWN_nameDef],待ち伏せを返り討ちにする</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 組織的に抵抗する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 防衛的に[Weapon]を振るう</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [PAWN_possessive] [Weapon]を持って報復する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 仁王立ちして立ちはだかる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [AdjectiveBadass]表情を浮かべる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [AdjectiveAngsty]表情を浮かべる</li>
 	    <li>circumstance_phrase->前進してくる大群に立ち向かうなか</li>
 	    <li>circumstance_phrase->回りを囲まれるなか</li>
 	    <li>circumstance_phrase->勝利への雄叫びをあげるなか</li>
 	    <li>circumstance_phrase->[Weapon]を振り回すなか</li>
 	    <li>circumstance_phrase->[Gore]に覆われるなか</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達が[Weapon]を大げさに振り回しながら向かってくる。</li>
-	    <li>desc_sentence->巨大な[Enemy]が[Weapon]を大げさに振り回しながら向かってくる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達の両目に[AdjectiveBadass]光をたぎらせながら向かってくる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達の両目に[AdjectiveAngsty]光をたぎらせながら向かってくる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達の両目に[Color]光をたぎらせながら向かってくる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は全身[Gore]まみれになりながら向かってくる。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達が[Weapon]を大げさに振り回しながら向かってくる.</li>
+	    <li>desc_sentence->巨大な[Enemy]が[Weapon]を大げさに振り回しながら向かってくる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達の両目に[AdjectiveBadass]光をたぎらせながら向かってくる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達の両目に[AdjectiveAngsty]光をたぎらせながら向かってくる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達の両目に[Color]光をたぎらせながら向かってくる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は全身[Gore]まみれになりながら向かってくる.</li>
 	    <li>desc_sentence->辺り一面[Gore]まみれになる</li>
 	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達はこの場から逃げる</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は、この場から逃げる</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は,この場から逃げる</li>
     </CaravanAmbushDefeated.rulePack.rulesStrings>
 
 	<!-- CaravanRemoteMining -->
 	<CaravanRemoteMining.label>caravan remote mining</CaravanRemoteMining.label>
     <CaravanRemoteMining.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]、よその豊富な[MATERIAL_label]鉱脈を掘る</li>
-	    <li>image->[PAWN_nameFull]は、[circumstance_group] 掘削ツールを使い[MATERIAL_label]岩肌で作業する</li>
-	    <li>image->[PAWN_nameFull]は、[circumstance_group] [MATERIAL_label]の鉱石を持ち上げる</li>
-	    <li>image->[PAWN_nameFull]は、[circumstance_group] [MATERIAL_label]岩肌の前で休憩する</li>
-	    <li>image->[PAWN_nameFull]は、[circumstance_group] 豊富な[MATERIAL_label]鉱脈を前にし、掘削チームの調整をする</li>
-	    <li>image->[PAWN_nameFull]は、[circumstance_group] 注意深く豊富な[MATERIAL_label]鉱脈を探査する</li>
+	    <li>tale_noun->[PAWN_nameDef],よその豊富な[MATERIAL_label]鉱脈を掘る</li>
+	    <li>image->[PAWN_nameFull]は,[circumstance_group] 掘削ツールを使い[MATERIAL_label]岩肌で作業する</li>
+	    <li>image->[PAWN_nameFull]は,[circumstance_group] [MATERIAL_label]の鉱石を持ち上げる</li>
+	    <li>image->[PAWN_nameFull]は,[circumstance_group] [MATERIAL_label]岩肌の前で休憩する</li>
+	    <li>image->[PAWN_nameFull]は,[circumstance_group] 豊富な[MATERIAL_label]鉱脈を前にし,掘削チームの調整をする</li>
+	    <li>image->[PAWN_nameFull]は,[circumstance_group] 注意深く豊富な[MATERIAL_label]鉱脈を探査する</li>
 	    <li>circumstance_phrase->汗だくになりながら</li>
 	    <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべながら</li>
 	    <li>circumstance_phrase->誇らしげに微笑みながら</li>
 	    <li>circumstance_phrase->[PAWN_possessive]顔に満足げな笑みを浮かべながら</li>
 	    <li>circumstance_phrase->危険に用心しながら</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達も協力している。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは辺りをうろついている。</li>
-	    <li>desc_sentence->一時しのぎの隠れ家としての思惑もある。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の、さらなる鉱脈も遠くに見える。</li>
-	    <li>desc_sentence->遠くに[TerrainFeature]が見える。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は汗にまみれて働いている。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[ally]達も協力している.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは辺りをうろついている.</li>
+	    <li>desc_sentence->一時しのぎの隠れ家としての思惑もある.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の,さらなる鉱脈も遠くに見える.</li>
+	    <li>desc_sentence->遠くに[TerrainFeature]が見える.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は汗にまみれて働いている.</li>
     </CaravanRemoteMining.rulePack.rulesStrings>
 
 	<!-- CaravanAssaultSuccessful -->
 	<CaravanAssaultSuccessful.label>caravan assault successful</CaravanAssaultSuccessful.label>
     <CaravanAssaultSuccessful.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]キャラバン隊、敵要塞を陥落さす</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [Enemy]に向かう</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [Weapon]を振り回す</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] [Weapon]を振り下ろす</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 仁王立ちして立ちはだかる</li>
+	    <li>tale_noun->[PAWN_nameDef]キャラバン隊,敵要塞を陥落さす</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [Enemy]に向かう</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [Weapon]を振り回す</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] [Weapon]を振り下ろす</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 仁王立ちして立ちはだかる</li>
 	    <li>circumstance_phrase->[PAWN_possessive]両目に[AdjectiveBadass]表情を浮かべながら</li>
 	    <li>circumstance_phrase->[PAWN_possessive]両目に[AdjectiveAngsty]表情を浮かべながら</li>
 	    <li>circumstance_phrase->勝利への雄叫びをあげ</li>
 	    <li>circumstance_phrase->[Gore]に覆われつつ</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達は戦いの腰が引けている。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達はここから逃げ出している。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達は、明らかに怪我を負っている。</li>
-	    <li>desc_sentence->はるか向こうの[Community]が焼けている。</li>
-	    <li>desc_sentence->はるか向こうの[Community]は煙に包まれている。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達は戦いの腰が引けている.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達はここから逃げ出している.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Enemy]達は,明らかに怪我を負っている.</li>
+	    <li>desc_sentence->はるか向こうの[Community]が焼けている.</li>
+	    <li>desc_sentence->はるか向こうの[Community]は煙に包まれている.</li>
 	    <li>desc_sentence->辺り一面[Gore]まみれになる</li>
 	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達はこの場から逃げる</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は、この場から逃げる</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達は,この場から逃げる</li>
     </CaravanAssaultSuccessful.rulePack.rulesStrings>
 
 </LanguageData>

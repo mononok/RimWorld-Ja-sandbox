@@ -25,12 +25,12 @@
 
     <!-- Bills tab  -->
     <AddBill>新しい 加工</AddBill>
-    <RecipeRequiresSkills>そのレシピは、 スキルが {0}以上 必要です。 入植者の いずれも そのスキルを 持っていません。 誰も このレシピを 実行 できません。</RecipeRequiresSkills>
+    <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
     <MinimumSkill>必要スキル</MinimumSkill>
     <SuspendedCaps>中止</SuspendedCaps>
     <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
     <PlantVerb>植物</PlantVerb>
-    <ClipboardBillNotAvailableHere>ここにはペーストできません。</ClipboardBillNotAvailableHere>
+    <ClipboardBillNotAvailableHere>ここにはペーストできません.</ClipboardBillNotAvailableHere>
     <ReorderBillUpTip>上へ</ReorderBillUpTip>
     <ReorderBillDownTip>下へ</ReorderBillDownTip>
     <DeleteBillTip>削除</DeleteBillTip>
@@ -83,7 +83,7 @@
     <PainFactor>苦痛</PainFactor>
     <PreventsInfection>感染予防</PreventsInfection>
     <SelfTend>自己治療</SelfTend>
-    <SelfTendTip>{0}の自己治療を有効にすると、通常の{1}の効率で、自動的にその場において、彼ら自身を治療します。</SelfTendTip>
+    <SelfTendTip>{0}の自己治療を有効にすると,通常の{1}の効率で,自動的にその場において,彼ら自身を治療します.</SelfTendTip>
 
     <!-- Medical - Body and activities condition -->
     <None>なし</None>
@@ -103,8 +103,8 @@
 
     <!-- Training tab-->
     <Trainability>調教しやすさ</Trainability>
-    <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です。</CannotTrainNotSmartEnough>
-    <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます。</CannotTrainTooSmall>
+    <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です.</CannotTrainNotSmartEnough>
+    <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます.</CannotTrainTooSmall>
 
     <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
 

@@ -30,8 +30,8 @@
     <CreateWorld>惑星を創造</CreateWorld>
 
     <!--=========== Main menu translations info window ===========-->
-    <TranslationThanks>Rimworldの、全ての多言語翻訳はファンが作った物です。次の素晴らしいボランティア達によって、ファン製の翻訳ファイルは作られました。\n\n{0}</TranslationThanks>
-    <TranslationHowToContribute>あなたも貢献することができます。下記のボタンを押してもっと知りましょう(ブラウザが開きます)。</TranslationHowToContribute>
+    <TranslationThanks>Rimworldの,全ての多言語翻訳はファンが作った物です.次の素晴らしいボランティア達によって,ファン製の翻訳ファイルは作られました.\n\n{0}</TranslationThanks>
+    <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
     <LearnMore>もっと知る</LearnMore>
 
   <!-- Main menu dev build -->
@@ -53,17 +53,17 @@
     <Reset>リセット</Reset>
     <WorldSeed>シード値</WorldSeed>
     <RandomizeSeed>ランダムシード</RandomizeSeed>
-    <PlanetCoverageTip>惑星の直径は常に同じですが、大きなマップを選ぶと、処理時間が非常に掛かる為、惑星表面全体を生成しません。 あなた望む、生成する惑星表面の割合を示します。</PlanetCoverageTip>
+    <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
     <WorldFactionsTab>派閥</WorldFactionsTab>
 
     <!--=========== Select world ===================-->
     <SelectWorld>惑星を選択</SelectWorld>
     <WorldChooseButton>選択</WorldChooseButton>
-    <NoWorldsFilesFound>保存されたデータがありません、先に惑星を創造してください</NoWorldsFilesFound>
+    <NoWorldsFilesFound>保存されたデータがありません,先に惑星を創造してください</NoWorldsFilesFound>
 
     <!--=========== Version info ==========-->
-    <BuildNowAvailable>新しい バージョン {0} が でました。 ludeon.com の 情報を 確認してください。</BuildNowAvailable>
-    <BuildUpToDate>最新バージョン です。</BuildUpToDate>
+    <BuildNowAvailable>新しい バージョン {0} が でました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
+    <BuildUpToDate>最新バージョン です.</BuildUpToDate>
     <ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
     <LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
 
@@ -75,10 +75,10 @@
     <GetModsFromForum>Get mods from forum</GetModsFromForum>
     <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
     <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
-    <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり、 ゲームは まったく 動作しません。\n\n他MODが 同じ defName を 使うことで、 コアMODの def を 無視できるのを 活用して ください。</ConfirmDisableCoreMod>
-    <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています。よろしいですか？</ConfirmDeleteMod>
+    <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり, ゲームは まったく 動作しません.\n\n他MODが 同じ defName を 使うことで, コアMODの def を 無視できるのを 活用して ください.</ConfirmDisableCoreMod>
+    <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
     <Unsubscribe>Unsubscribe</Unsubscribe>
-    <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています。よろしいですか？</ConfirmUnsubscribe>
+    <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています.よろしいですか？</ConfirmUnsubscribe>
     <Author>作者</Author>
     <WorkshopPage>Workshop page</WorkshopPage>
     <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
@@ -106,39 +106,39 @@
     <EditMode>エディット・モード</EditMode>
     <Summary>概略</Summary>
     <AddPart>パーツを追加</AddPart>
-    <TextFieldsMustBeFilled>全てのテキストフィールドは、入力されていなければなりません。</TextFieldsMustBeFilled>
-    <ConfirmSteamWorkshopUpload>あなたは、"Steam Workshop"にアップロードしようとしています。よろしいですか？\n\nあなたは、"Steam Workshop terms of service"を承諾しなければなりません。全文はここにあります。\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-    <ConfirmContentAuthor>あなたは、明らかに、あなた自身が作成したコンテンツだけをアップロードしなければなりません。このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+    <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
+    <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\nあなたは,"Steam Workshop terms of service"を承諾しなければなりません.全文はここにあります.\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+    <ConfirmContentAuthor>あなたは,明らかに,あなた自身が作成したコンテンツだけをアップロードしなければなりません.このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
     <Incompatible>適合しません</Incompatible>
     <TooMany>多すぎます(最大 {0}): </TooMany>
-    <CanBeUpdatedOnWorkshop>あなたが作者なので、ワークショップを更新することができます。</CanBeUpdatedOnWorkshop>
+    <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
 
     <!--=========== Storyteller chooser ==========-->
     <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
-    <HowStorytellersWork>AIストーリーテラー (AI脚本家)は、 海賊の襲撃、 貨物 カプセルの 墜落、 動物の攻撃 など イベントを 生成します。 作家により あなたの 村の物語は 大きく 変化します。この設定はオプションメニューからいつでも変更できます。</HowStorytellersWork>
+    <HowStorytellersWork>AIストーリーテラー (AI脚本家)は, 海賊の襲撃, 貨物 カプセルの 墜落, 動物の攻撃 など イベントを 生成します. 作家により あなたの 村の物語は 大きく 変化します.この設定はオプションメニューからいつでも変更できます.</HowStorytellersWork>
     <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
     <Difficulty>難易度</Difficulty>
     <CommitmentMode>コミットメントモード</CommitmentMode>
     <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
-    <MustChoosePermadeath>コミットメントモードか、無制限リロードモードを選択</MustChoosePermadeath>
-    <ReloadAnytimeModeInfo>いつでもセーブとロードができます。\n\nまだゲームに慣れていないか、それがあなたのゲームスタイルか、MODを山盛りにしたいか、自分で縛りをつくって遊びたいなら良い選択です。</ReloadAnytimeModeInfo>
-    <PermadeathModeInfo>パーマデスモードは、セーブファイルを一つしか持てません。入植者が死んでしまったなど、あなたの失敗を取り返すために、ゲームを巻き戻すことはできません。\n\nこのモードは、悲劇や希望に満ちあふれようとなかろうと、RimWorldをドラマチックなものに変えます。</PermadeathModeInfo>
-    <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は、いつでも変更できます。</CanChangeStorytellerSettingsDuringPlay>
+    <MustChoosePermadeath>コミットメントモードか,無制限リロードモードを選択</MustChoosePermadeath>
+    <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
+    <PermadeathModeInfo>パーマデスモードは,セーブファイルを一つしか持てません.入植者が死んでしまったなど,あなたの失敗を取り返すために,ゲームを巻き戻すことはできません.\n\nこのモードは,悲劇や希望に満ちあふれようとなかろうと,RimWorldをドラマチックなものに変えます.</PermadeathModeInfo>
+    <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
     <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
-    <ConfirmUnlockExtremeDifficulty>無慈悲モードは、全てのイベントが激難にチューンアップされているスペシャルゲームです。\n\n無慈悲モードは、有る特定のマイルストーン(クリア条件)に到達するとアンロックされます。しかしながら、まさに今アンロックすることもできます。\n\nこのオプションは、最高難易度のゲームをしたり、最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます。</ConfirmUnlockExtremeDifficulty>
+    <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
     <!--=========== Landing site select =========-->
     <SelectLandingSite>降下地点を選択</SelectLandingSite>
     <SelectRandomSite>降下地点をランダムに選択</SelectRandomSite>
     <SelectSite>決定</SelectSite>
     <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
-    <CannotLandBiome>その地形は {0} なため、降下できません</CannotLandBiome>
+    <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
     <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
     <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
     <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
     <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
     <TileOccupied>このタイルは占領下です</TileOccupied>
-    <FactionBaseAdjacent>入植地は、お互いに接することはできません</FactionBaseAdjacent>
+    <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
     <Biome>気候</Biome>
     <Terrain>地形</Terrain>
     <Road>道</Road>
@@ -161,14 +161,14 @@
     <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
     <PerYear>/年</PerYear>
     <Forageability>食料調達性</Forageability>
-    <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります。本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
+    <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります.本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 
     <!--=========== Character chooser ==========-->
     <CreateCharacters>キャラクターの 作成</CreateCharacters>
-    <FirstNameDesc>キャラクターの名前です。 \n\nこれは 特定のメニューで 表示されます。</FirstNameDesc>
-    <ShortIdentifierDesc>キャラクターの 略称です。\n\nこれは 常に表示されます。 姓や名、 または 完全に別の ニックネームでも かまいません。</ShortIdentifierDesc>
-    <LastNameDesc>キャラクターの 姓です。\n\n\これは 特定のメニューで 表示されます。</LastNameDesc>
+    <FirstNameDesc>キャラクターの名前です. \n\nこれは 特定のメニューで 表示されます.</FirstNameDesc>
+    <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
+    <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
     <Randomize>ランダム</Randomize>
     <AgeIndicator>年齢 {0}</AgeIndicator>
     <Backstory>生い立ち</Backstory>
@@ -196,8 +196,8 @@
     <Next>次</Next>
     <Back>戻る</Back>
     <Gameplay>ゲームの設定</Gameplay>
-    <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます。</ConfirmQuit>
-    <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください。</EveryoneNeedsValidName>
+    <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます.</ConfirmQuit>
+    <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
     <RequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
     <Quit>やめる</Quit>
     <Ignore>無視</Ignore>
@@ -206,6 +206,6 @@
     <GeneratingWorld>世界を 生成しています</GeneratingWorld>
     <GeneratingPlanet>惑星を 生成しています</GeneratingPlanet>
     <GeneratingMap>地図を 作成しています</GeneratingMap>
-    <GeneratingMapForNewEncounter>新たな遭遇の為に、地図を作成しています</GeneratingMapForNewEncounter>
+    <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
 
 </LanguageData>

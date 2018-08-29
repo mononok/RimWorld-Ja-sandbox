@@ -2,137 +2,137 @@
 <LanguageData>
 
     <DesignatorCancel>キャンセル</DesignatorCancel>
-    <DesignatorCancelDesc>建物の作成、採掘、アイテムの運搬、食材の収穫など 指示したことを中止します。</DesignatorCancelDesc>
+    <DesignatorCancelDesc>建物の作成,採掘,アイテムの運搬,食材の収穫など 指示したことを中止します.</DesignatorCancelDesc>
 
     <DesignatorCutPlants>刈り取り</DesignatorCutPlants>
-    <DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます。植物は完全に取り除かれ、 それが 食材であれば 収穫されます。</DesignatorCutPlantsDesc>
+    <DesignatorCutPlantsDesc>印をつけた 植物は すべて 刈り取られます.植物は完全に取り除かれ, それが 食材であれば 収穫されます.</DesignatorCutPlantsDesc>
 
     <DesignatorDeconstruct>解体</DesignatorDeconstruct>
-    <DesignatorDeconstructDesc>建物を解体し、 その材料の 一部を 再利用します。</DesignatorDeconstructDesc>
+    <DesignatorDeconstructDesc>建物を解体し, その材料の 一部を 再利用します.</DesignatorDeconstructDesc>
 
     <DesignatorUninstall>撤去</DesignatorUninstall>
-    <DesignatorUninstallDesc>撤去した物は、移設や、売却、別の場所に再展示できるようになります。</DesignatorUninstallDesc>
+    <DesignatorUninstallDesc>撤去した物は,移設や,売却,別の場所に再展示できるようになります.</DesignatorUninstallDesc>
 
     <DesignatorHarvest>収穫</DesignatorHarvest>
-    <DesignatorHarvestDesc>印をつけた 植物は すべて 食料や、他の食材として 収穫されます。</DesignatorHarvestDesc>
+    <DesignatorHarvestDesc>印をつけた 植物は すべて 食料や,他の食材として 収穫されます.</DesignatorHarvestDesc>
 
     <DesignatorHarvestWood>伐採</DesignatorHarvestWood>
-    <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します。</DesignatorHarvestWoodDesc>
+    <DesignatorHarvestWoodDesc>印をつけた 木を 切り倒し 木材に します.</DesignatorHarvestWoodDesc>
 
     <DesignatorHaulThings>運搬</DesignatorHaulThings>
-    <DesignatorHaulThingsDesc>印をつけた岩の塊や その他のアイテムを廃棄ゾーンに運びます。 食材や死体といったものに印をつける必要はありません それらは自動的に運ばれます。</DesignatorHaulThingsDesc>
-    <MustHaulHaulables>自動で運ぶもの以外の、アイテムだけを指定することができます(岩の塊など) 。</MustHaulHaulables>
+    <DesignatorHaulThingsDesc>印をつけた岩の塊や その他のアイテムを廃棄ゾーンに運びます. 食材や死体といったものに印をつける必要はありません それらは自動的に運ばれます.</DesignatorHaulThingsDesc>
+    <MustHaulHaulables>自動で運ぶもの以外の,アイテムだけを指定することができます(岩の塊など) .</MustHaulHaulables>
 
     <DesignatorHunt>狩猟</DesignatorHunt>
-    <DesignatorHuntDesc>ねらいをつけた 動物を 狩ります。</DesignatorHuntDesc>
+    <DesignatorHuntDesc>ねらいをつけた 動物を 狩ります.</DesignatorHuntDesc>
 
     <DesignatorSmoothSurface>表面を磨く</DesignatorSmoothSurface>
-    <DesignatorSmoothSurfaceDesc>印をつけた 荒削りの岩の 床や壁を 磨きます。</DesignatorSmoothSurfaceDesc>
+    <DesignatorSmoothSurfaceDesc>印をつけた 荒削りの岩の 床や壁を 磨きます.</DesignatorSmoothSurfaceDesc>
 
     <DesignatorMine>採掘</DesignatorMine>
-    <DesignatorMineDesc>指定した ゾーンを 採掘します。</DesignatorMineDesc>
+    <DesignatorMineDesc>指定した ゾーンを 採掘します.</DesignatorMineDesc>
 
     <DesignatorPlan>予定地</DesignatorPlan>
-    <DesignatorPlanDesc>予定地を 設定します。 予定地として 印をつける のみで 実際には なにもしません。</DesignatorPlanDesc>
+    <DesignatorPlanDesc>予定地を 設定します. 予定地として 印をつける のみで 実際には なにもしません.</DesignatorPlanDesc>
 
     <DesignatorPlanRemove>予定地を 取り消す</DesignatorPlanRemove>
-    <DesignatorPlanRemoveDesc>予定地を 取り消します。</DesignatorPlanRemoveDesc>
+    <DesignatorPlanRemoveDesc>予定地を 取り消します.</DesignatorPlanRemoveDesc>
 
     <DesignatorForbid>禁止</DesignatorForbid>
-    <DesignatorForbidDesc>禁止とマークします。入植者は指示されたアイテムに作用することができなくなります。</DesignatorForbidDesc>
+    <DesignatorForbidDesc>禁止とマークします.入植者は指示されたアイテムに作用することができなくなります.</DesignatorForbidDesc>
 
     <DesignatorUnforbid>許可</DesignatorUnforbid>
-    <DesignatorUnforbidDesc>禁止解除とマークします。入植者は指示されたアイテムに作用することができるようになります</DesignatorUnforbidDesc>
+    <DesignatorUnforbidDesc>禁止解除とマークします.入植者は指示されたアイテムに作用することができるようになります</DesignatorUnforbidDesc>
 
     <DesignatorAreaHomeExpand>コロニーゾーン</DesignatorAreaHomeExpand>
-    <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し、 床を掃除し、火災を消そうとします。</DesignatorAreaHomeExpandDesc>
+    <DesignatorAreaHomeExpandDesc>入植者は コロニーゾーン内だけの 建物を修理し, 床を掃除し,火災を消そうとします.</DesignatorAreaHomeExpandDesc>
     <DesignatorAreaHomeClear>コロニーゾーン 取消</DesignatorAreaHomeClear>
-    <DesignatorAreaHomeClearDesc>コロニーゾーンを 取り消します。 取り消された場所を、 入植者が 修理したり、 掃除したり、 火災を消そうとはしなくなります。</DesignatorAreaHomeClearDesc>
+    <DesignatorAreaHomeClearDesc>コロニーゾーンを 取り消します. 取り消された場所を, 入植者が 修理したり, 掃除したり, 火災を消そうとはしなくなります.</DesignatorAreaHomeClearDesc>
 
     <DesignatorAreaBuildRoofExpand>屋根ゾーン</DesignatorAreaBuildRoofExpand>
-    <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します。</DesignatorAreaBuildRoofExpandDesc>
+    <DesignatorAreaBuildRoofExpandDesc>屋根を 作成する ゾーンを 指定します.</DesignatorAreaBuildRoofExpandDesc>
 
     <DesignatorAreaNoRoofExpand>屋根取り外し</DesignatorAreaNoRoofExpand>
-    <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します。 既存の 屋根が ある時は、 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません)。</DesignatorAreaNoRoofExpandDesc>
+    <DesignatorAreaNoRoofExpandDesc>屋根を 作成しない ゾーンを 指定します. 既存の 屋根が ある時は, 入植者が 屋根を とりはずします(頭上に山がある場合は とりはずせません).</DesignatorAreaNoRoofExpandDesc>
 
     <DesignatorAreaIgnoreRoofExpand>屋根の無視ゾーン</DesignatorAreaIgnoreRoofExpand>
-    <DesignatorAreaIgnoreRoofExpandDesc>入植者は このゾーンの 屋根を 無視するでしょう。</DesignatorAreaIgnoreRoofExpandDesc>
+    <DesignatorAreaIgnoreRoofExpandDesc>入植者は このゾーンの 屋根を 無視するでしょう.</DesignatorAreaIgnoreRoofExpandDesc>
 
     <DesignatorAreaSnowClearExpand>除雪ゾーン</DesignatorAreaSnowClearExpand>
-    <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します。</DesignatorAreaSnowClearExpandDesc>
+    <DesignatorAreaSnowClearExpandDesc>入植者が雪かきする場所を指定します.</DesignatorAreaSnowClearExpandDesc>
     <DesignatorAreaSnowClearClear>除雪ゾーン 取消</DesignatorAreaSnowClearClear>
-    <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します。もうそこを入植者は雪かきしません。</DesignatorAreaSnowClearClearDesc>
+    <DesignatorAreaSnowClearClearDesc>雪かきする場所の指定を取り消します.もうそこを入植者は雪かきしません.</DesignatorAreaSnowClearClearDesc>
 
     <DesignatorExpandAreaAllowed>制限ゾーン</DesignatorExpandAreaAllowed>
-    <DesignatorExpandAreaAllowedDesc>制限ゾーンを広げます。\n\n制限ゾーンとは、入植者を 割り当てることができる ゾーンとして定義されました。入植者は 彼に割り当てられた 制限ゾーンの外側では 作業を受付しませんし、 必要と思われる作業も遂行しません。</DesignatorExpandAreaAllowedDesc>
+    <DesignatorExpandAreaAllowedDesc>制限ゾーンを広げます.\n\n制限ゾーンとは,入植者を 割り当てることができる ゾーンとして定義されました.入植者は 彼に割り当てられた 制限ゾーンの外側では 作業を受付しませんし, 必要と思われる作業も遂行しません.</DesignatorExpandAreaAllowedDesc>
     <DesignatorClearAreaAllowed>制限ゾーン 取消</DesignatorClearAreaAllowed>
-    <DesignatorClearAreaAllowedDesc>制限ゾーンを 取り消します。</DesignatorClearAreaAllowedDesc>
+    <DesignatorClearAreaAllowedDesc>制限ゾーンを 取り消します.</DesignatorClearAreaAllowedDesc>
     <ManageAreas>制限ゾーンの管理...</ManageAreas>
 
-    <DesignatorGrowingZoneDesc>このゾーンで、 入植者は 特定の 植物を 栽培しようと します。</DesignatorGrowingZoneDesc>
+    <DesignatorGrowingZoneDesc>このゾーンで, 入植者は 特定の 植物を 栽培しようと します.</DesignatorGrowingZoneDesc>
 
-    <DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 作成します。\nこのツールは、 すでにある備蓄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageResourcesDesc>
+    <DesignatorZoneCreateStorageResourcesDesc>入植者が 材料を 備蓄する場所を 作成します.\nこのツールは, すでにある備蓄ゾーンを 拡張することも できます.</DesignatorZoneCreateStorageResourcesDesc>
 
-    <DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 作成します。\nこのツールは、 すでにある廃棄ゾーンを 拡張することも できます。</DesignatorZoneCreateStorageDumpingDesc>
+    <DesignatorZoneCreateStorageDumpingDesc>入植者が ゴミを 捨てる場所を 作成します.\nこのツールは, すでにある廃棄ゾーンを 拡張することも できます.</DesignatorZoneCreateStorageDumpingDesc>
 
     <DesignatorZoneDelete>ゾーン取消</DesignatorZoneDelete>
     <DesignatorZoneDeleteSingular>ゾーン取消</DesignatorZoneDeleteSingular>
-    <DesignatorZoneDeleteDesc>備蓄ゾーン、 廃棄ゾーン、 または 農業ゾーンを 取り消します。</DesignatorZoneDeleteDesc>
+    <DesignatorZoneDeleteDesc>備蓄ゾーン, 廃棄ゾーン, または 農業ゾーンを 取り消します.</DesignatorZoneDeleteDesc>
 
     <DesignatorZoneExpand>ゾーン拡張</DesignatorZoneExpand>
 
 
     <DesignatorClaim>領有を主張</DesignatorClaim>
-    <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します。こうすることで、入植者が構造物の修理や維持を行うことができます。</DesignatorClaimDesc>
+    <DesignatorClaimDesc>放棄された構造物(遺跡や放棄された基地)の領有を主張します.こうすることで,入植者が構造物の修理や維持を行うことができます.</DesignatorClaimDesc>
 
     <DesignatorRemoveFloor>フロアを除去</DesignatorRemoveFloor>
-    <DesignatorRemoveFloorDesc>床を剥がして地面を出します。</DesignatorRemoveFloorDesc>
+    <DesignatorRemoveFloorDesc>床を剥がして地面を出します.</DesignatorRemoveFloorDesc>
 
     <DesignatorRemoveBridge>橋梁解体</DesignatorRemoveBridge>
-    <DesignatorRemoveBridgeDesc>橋梁を解体して、下の地形を露出させます。</DesignatorRemoveBridgeDesc>
+    <DesignatorRemoveBridgeDesc>橋梁を解体して,下の地形を露出させます.</DesignatorRemoveBridgeDesc>
 
     <DesignatorStrip>剥ぐ</DesignatorStrip>
-    <DesignatorStripDesc>死体や、けが人から 衣類を剥がします。</DesignatorStripDesc>
+    <DesignatorStripDesc>死体や,けが人から 衣類を剥がします.</DesignatorStripDesc>
 
     <DesignatorOpen>開ける</DesignatorOpen>
-    <DesignatorOpenDesc>箱を開ける。</DesignatorOpenDesc>
+    <DesignatorOpenDesc>箱を開ける.</DesignatorOpenDesc>
 
     <DesignatorSlaughter>屠殺</DesignatorSlaughter>
-    <DesignatorSlaughterDesc>家畜を屠殺します。</DesignatorSlaughterDesc>
+    <DesignatorSlaughterDesc>家畜を屠殺します.</DesignatorSlaughterDesc>
 
     <DesignatorTame>手なずける</DesignatorTame>
-    <DesignatorTameDesc>野生動物を手なずけます。</DesignatorTameDesc>
+    <DesignatorTameDesc>野生動物を手なずけます.</DesignatorTameDesc>
 
 
     <!-- Failure messages -->
     <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
-    <TooCloseToMapEdge>マップ端に近すぎます。</TooCloseToMapEdge>
-    <OutOfBounds>領域外です。</OutOfBounds>
-    <CannotPlaceInUndiscovered>未知の場所に配置することはできません。</CannotPlaceInUndiscovered>
-    <InteractionSpotBlocked>{0}によって 作用空間がブロックされています。</InteractionSpotBlocked>
-    <InteractionSpotOutOfBounds>作用空間が 領域外です。</InteractionSpotOutOfBounds>
-    <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです。</InteractionSpotWillBeBlocked>
-    <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう。</WouldBlockInteractionSpot>
-    <TerrainIsAlready>すでに ここの地面は {0} です。</TerrainIsAlready>
-    <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています。</SurfaceBeingSmoothed>
-    <IdenticalThingExists>すでに 同じものがあります。</IdenticalThingExists>
-    <IdenticalBlueprintExists>すでに 同じ設計図があります。</IdenticalBlueprintExists>
-    <TerrainCannotSupport>この地盤は これを支えられません。</TerrainCannotSupport>
-    <SpaceAlreadyOccupied>すでに この場所はふさがっています。</SpaceAlreadyOccupied>
-    <SpaceBeingSmoothed>すでに 磨くように指示されてます。</SpaceBeingSmoothed>
-    <TerrainMustBeRemovable>剥がせるフロアを指定してください。</TerrainMustBeRemovable>
-    <MustBeOnMovingWater>水車は流水に設置しなければなりません。</MustBeOnMovingWater>
+    <TooCloseToMapEdge>マップ端に近すぎます.</TooCloseToMapEdge>
+    <OutOfBounds>領域外です.</OutOfBounds>
+    <CannotPlaceInUndiscovered>未知の場所に配置することはできません.</CannotPlaceInUndiscovered>
+    <InteractionSpotBlocked>{0}によって 作用空間がブロックされています.</InteractionSpotBlocked>
+    <InteractionSpotOutOfBounds>作用空間が 領域外です.</InteractionSpotOutOfBounds>
+    <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです.</InteractionSpotWillBeBlocked>
+    <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう.</WouldBlockInteractionSpot>
+    <TerrainIsAlready>すでに ここの地面は {0} です.</TerrainIsAlready>
+    <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>
+    <IdenticalThingExists>すでに 同じものがあります.</IdenticalThingExists>
+    <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
+    <TerrainCannotSupport>この地盤は これを支えられません.</TerrainCannotSupport>
+    <SpaceAlreadyOccupied>すでに この場所はふさがっています.</SpaceAlreadyOccupied>
+    <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>
+    <TerrainMustBeRemovable>剥がせるフロアを指定してください.</TerrainMustBeRemovable>
+    <MustBeOnMovingWater>水車は流水に設置しなければなりません.</MustBeOnMovingWater>
 
 
     <!-- placement of zones -->
-    <ExpandOrCreateZone>{0}を拡張するか\n新しく {1}を作ります。</ExpandOrCreateZone>
-    <CreateNewZone>新しく {0}を作ります。</CreateNewZone>
+    <ExpandOrCreateZone>{0}を拡張するか\n新しく {1}を作ります.</ExpandOrCreateZone>
+    <CreateNewZone>新しく {0}を作ります.</CreateNewZone>
 
 
     <!-- desc helpers -->
-    <TransmitsPower>送電します。</TransmitsPower>
+    <TransmitsPower>送電します.</TransmitsPower>
     <ConstructionNeeded>建設が必要です</ConstructionNeeded>
-    <NoColonistWithConstructionSkillTip>このスキルを持っている{0}はひとりもいません。</NoColonistWithConstructionSkillTip>
-    <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>このスキルを持っている全{0}が、{1}に割り当てられていません。</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+    <NoColonistWithConstructionSkillTip>このスキルを持っている{0}はひとりもいません.</NoColonistWithConstructionSkillTip>
+    <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

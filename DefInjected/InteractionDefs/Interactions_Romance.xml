@@ -17,11 +17,11 @@
         <li>wooed->を口説いた</li>
 
         <li>wootactic(p=4)->[OTHER_possessive][PersonalCharacteristic][complimenting]</li>
-        <li>wootactic(p=2)->[INITIATOR_possessive]自身[PersonalCharacteristic][boasting] </li>
+        <li>wootactic(p=2)->[INITIATOR_possessive][PersonalCharacteristic][boasting] </li>
         <li>wootactic(p=2)->[TalkTopicLight]についての話をしつつ</li>
         <li>wootactic(p=2)->[TalkTopicHeavy]についての話をしながら</li>
-        <li>wootactic->[OTHER_objective]を[romantic_adj][romantic_noun]にたとえながら</li>
-        <li>wootactic->[OTHER_objective]を[romantic_adj][romantic_noun]として言葉で表しながら</li>
+        <li>wootactic->[OTHER_objective][romantic_adj][romantic_noun]にたとえながら</li>
+        <li>wootactic->[OTHER_objective][romantic_adj][romantic_noun]として言葉で表しながら</li>
 
         <li>boasting->について自慢しながら</li>
         <li>boasting->の事を話しに出しながら</li>
@@ -75,7 +75,7 @@
     <MarriageProposal.logRulesInitiator.rulesStrings>
         <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に結婚のプロポーズをした</li>
         <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]を生涯の伴侶としてプロポーズした</li>
-        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、[INITIATOR_pronoun]は[INITIATOR_possessive]人生を[OTHER_objective]と共に過ごしたいことを</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた,[INITIATOR_pronoun]は[INITIATOR_possessive]人生を共に過ごしたいことを</li>
     </MarriageProposal.logRulesInitiator.rulesStrings>
 
     <!-- Breakup -->
@@ -83,8 +83,8 @@
     <Breakup.logRulesInitiator.rulesStrings>
         <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に別れを求めた</li>
         <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に距離を置くことを求めた</li>
-        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、あなたが何を考えているのか分からないことを</li>
-        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた、他の人に目を向けたほうが一番いいことになるだろうと</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた,あなたが何を考えているのか分からないことを</li>
+        <li>r_logentry->[INITIATOR_nameIndef]は[OTHER_nameIndef]に伝えた,他の人に目を向けたほうが一番いいことになるだろうと</li>
     </Breakup.logRulesInitiator.rulesStrings>
 
 </LanguageData>

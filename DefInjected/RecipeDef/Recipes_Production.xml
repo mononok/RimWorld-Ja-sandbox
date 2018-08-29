@@ -2,39 +2,39 @@
 <LanguageData>
 
 	<Make_StoneBlocksAny.label>石を切断する</Make_StoneBlocksAny.label>
-    <Make_StoneBlocksAny.description>岩石を使いやすい大きさに切ります。</Make_StoneBlocksAny.description>
+    <Make_StoneBlocksAny.description>岩石を使いやすい大きさに切ります.</Make_StoneBlocksAny.description>
     <Make_StoneBlocksAny.jobString>石を加工中</Make_StoneBlocksAny.jobString>
 
 	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い、くず鉄から使える金属を抽出します。</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄から使える金属を抽出します.</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
-	<SmeltWeapon.description>高温と強力な磁石を使い、武器から使える資源にします。</SmeltWeapon.description>
+	<SmeltWeapon.description>高温と強力な磁石を使い,武器から使える資源にします.</SmeltWeapon.description>
 	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
     <DestroyWeapon.label>武器を破壊する</DestroyWeapon.label>
-    <DestroyWeapon.description>不要な武器を高温で熱して破壊します。この作業は溶解するより早く、溶解できないアイテムにも可能ですが、何の資源も得られません。</DestroyWeapon.description>
+    <DestroyWeapon.description>不要な武器を高温で熱して破壊します.この作業は溶解するより早く,溶解できないアイテムにも可能ですが,何の資源も得られません.</DestroyWeapon.description>
     <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
 
     <Make_ChemfuelFromWood.label>液化燃料を精製(木材)</Make_ChemfuelFromWood.label>
-    <Make_ChemfuelFromWood.description>木材をガス化することでバイオ液化燃料を作成します。</Make_ChemfuelFromWood.description>
+    <Make_ChemfuelFromWood.description>木材をガス化することでバイオ液化燃料を作成します.</Make_ChemfuelFromWood.description>
     <Make_ChemfuelFromWood.jobString>木材を精製中</Make_ChemfuelFromWood.jobString>
 
     <Make_ChemfuelFromOrganics.label>液化燃料を精製(有機物)</Make_ChemfuelFromOrganics.label>
-    <Make_ChemfuelFromOrganics.description>有機物からバイオ液化燃料を取り出し精製します。</Make_ChemfuelFromOrganics.description>
+    <Make_ChemfuelFromOrganics.description>有機物からバイオ液化燃料を取り出し精製します.</Make_ChemfuelFromOrganics.description>
     <Make_ChemfuelFromOrganics.jobString>有機物を精製中</Make_ChemfuelFromOrganics.jobString>
 
 	<Make_ComponentIndustrial.label>コンポーネントを作成する</Make_ComponentIndustrial.label>
-	<Make_ComponentIndustrial.description>コンポーネントを作成します。</Make_ComponentIndustrial.description>
+	<Make_ComponentIndustrial.description>コンポーネントを作成します.</Make_ComponentIndustrial.description>
 	<Make_ComponentIndustrial.jobString>コンポーネントを作成中</Make_ComponentIndustrial.jobString>
 
     <Make_ComponentSpacer.label>先進コンポーネントを作成する</Make_ComponentSpacer.label>
-    <Make_ComponentSpacer.description>先進コンポーネントを作成する。</Make_ComponentSpacer.description>
+    <Make_ComponentSpacer.description>先進コンポーネントを作成する.</Make_ComponentSpacer.description>
     <Make_ComponentSpacer.jobString>先進コンポーネントを作成中</Make_ComponentSpacer.jobString>
 
 	<Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
-	<Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します。</Make_Patchleather.description>
+	<Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します.</Make_Patchleather.description>
 	<Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
 
 </LanguageData>

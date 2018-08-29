@@ -111,8 +111,8 @@
     <DeterioratingOutdoors>屋外</DeterioratingOutdoors>
     <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
     <Map>地図</Map>
-    <ForceExitAndRemoveMapCountdown>出発まで、あと{0} </ForceExitAndRemoveMapCountdown>
-    <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して、{0}後に、ここを離れます。</ForceExitAndRemoveMapCountdownTip>
+    <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
+    <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
     <Room>部屋</Room>
     <BeautyHere>美しい...</BeautyHere>
     <NoPower>電力喪失</NoPower>
@@ -131,7 +131,7 @@
     <VentClosed>閉</VentClosed>
     <WornBy>{0}が着ている</WornBy>
     <EquippedBy>{0}が装備している</EquippedBy>
-    <QuestTargetDestroyInspectString>{0}は、この破壊を求めている。\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
+    <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
     <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
     <ItemStashContents>内容物: {0} ({1})</ItemStashContents>
     <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
@@ -185,7 +185,7 @@
     <ContainsBeer>内容物 {0} / {1} ビール</ContainsBeer>
     <Fermented>発酵した</Fermented>
     <FermentationProgress>発酵中: {0} (残り{1})</FermentationProgress>
-    <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません。発酵速度 掛け率: {0}</FermentationBarrelOutOfIdealTemperature>
+    <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません.発酵速度 掛け率: {0}</FermentationBarrelOutOfIdealTemperature>
 
     <!--TextMotes-->
     <Headshot>ヘッドショット</Headshot>
@@ -256,7 +256,7 @@
     <ReportCowering>ちじこまる</ReportCowering>
     <ReportStanding>立っている</ReportStanding>
     <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
-    <ReportExtinguishingFireOn>{0} に点いた、火を消している</ReportExtinguishingFireOn>
+    <ReportExtinguishingFireOn>{0} に点いた,火を消している</ReportExtinguishingFireOn>
     <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
 
     <!-- Lord job reports -->
@@ -313,11 +313,11 @@
     <StunLower>麻痺</StunLower>
 
     <!-- Inspector general stuff -->
-    <SelectNextInSquareTip>同じ マスにある 別のものを 選択します。\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です。</SelectNextInSquareTip>
-    <DefInfoTip>オブジェクトの 情報を 表示する。</DefInfoTip>
+    <SelectNextInSquareTip>同じ マスにある 別のものを 選択します.\n\nショートカットキー： {0} \n\nこれは 同じマスを 間隔を置いて クリックした時と おなじ動作です.</SelectNextInSquareTip>
+    <DefInfoTip>オブジェクトの 情報を 表示する.</DefInfoTip>
 
     <!-- Hostility response -->
-    <HostilityReponseTip>徴兵されていない時に、近くに敵がいる時の、入植者の対応を変更します。</HostilityReponseTip>
+    <HostilityReponseTip>徴兵されていない時に,近くに敵がいる時の,入植者の対応を変更します.</HostilityReponseTip>
     <HostilityResponseCurrentMode>現在</HostilityResponseCurrentMode>
 
     <!-- like 'Blood of John' -->
@@ -397,17 +397,17 @@
     <Undiscovered>未知</Undiscovered>
 
     <!-- Buttons -->
-    <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの可視 切り替え\n\nラーニングヘルパーは、学ぶことがあるときは、常に表示されています。何も学ぶものが無いときは非表示にできます。</ShowLearningHelperWhenEmptyToggleButton>
+    <ShowLearningHelperWhenEmptyToggleButton>ラーニングヘルパーに表示項目がないときの可視 切り替え\n\nラーニングヘルパーは,学ぶことがあるときは,常に表示されています.何も学ぶものが無いときは非表示にできます.</ShowLearningHelperWhenEmptyToggleButton>
     <ZoneVisibilityToggleButton>ゾーンの可視 切り替え</ZoneVisibilityToggleButton>
-    <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の、美しさとして知られる値を表示します</ShowBeautyToggleButton>
-    <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の、ルームステータスを表示します</ShowRoomStatsToggleButton>
-    <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば、入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
-    <AutoHomeAreaToggleButton>自動的に、 新しい 建物・ 機材の まわりを 村ゾーンに 指定します。</AutoHomeAreaToggleButton>
-    <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます。</AutoRebuildButton>
+    <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します</ShowBeautyToggleButton>
+    <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します</ShowRoomStatsToggleButton>
+    <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
+    <AutoHomeAreaToggleButton>自動的に, 新しい 建物・ 機材の まわりを 村ゾーンに 指定します.</AutoHomeAreaToggleButton>
+    <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます.</AutoRebuildButton>
     <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
     <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
-    <LockNorthUpToggleButton>北が常に上になるように、カメラをロックします</LockNorthUpToggleButton>
+    <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
     <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
     <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
     <ShowWorldFeaturesToggleButton>地形の名称表示を切り替えます</ShowWorldFeaturesToggleButton>
@@ -428,16 +428,16 @@
 
     <!-- Building placement restricters -->
     <WillGetWorkSpeedPenalty>{0}の作業速度が低下</WillGetWorkSpeedPenalty>
-    <MustPlaceUnroofed>屋根の下には 配置 できません。</MustPlaceUnroofed>
-    <MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください。</MustPlaceHeadOnShipBeam>
-    <MustPlaceNextToHopperAccepter>食材ホッパーを ペーストディスペンサーの となりに 配置してください。</MustPlaceNextToHopperAccepter>
-    <MustPlaceOnSteamGeyser>間欠泉に 直接配置して ください。</MustPlaceOnSteamGeyser>
-    <MustPlaceCoolerWithFreeSpaces>冷気側、暖気側ともに、壁から離して配置して ください。</MustPlaceCoolerWithFreeSpaces>
-    <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です。</MustPlaceVentWithFreeSpaces>
-    <MustPlaceAdjacentStandable>全ての面において、人が立てるスペースが必要です。</MustPlaceAdjacentStandable>
-    <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください。</MustPlaceNearFuelingPort>
-    <MustPlaceOnDrillable>掘削可能な資源の上に配置してください。</MustPlaceOnDrillable>
-    <CannotPlaceAdjacentTrap>罠の近くには置く事ができません。</CannotPlaceAdjacentTrap>
+    <MustPlaceUnroofed>屋根の下には 配置 できません.</MustPlaceUnroofed>
+    <MustPlaceHeadOnShipBeam>宇宙船骨格の 先端に 配置して ください.</MustPlaceHeadOnShipBeam>
+    <MustPlaceNextToHopperAccepter>食材ホッパーを ペーストディスペンサーの となりに 配置してください.</MustPlaceNextToHopperAccepter>
+    <MustPlaceOnSteamGeyser>間欠泉に 直接配置して ください.</MustPlaceOnSteamGeyser>
+    <MustPlaceCoolerWithFreeSpaces>冷気側,暖気側ともに,壁から離して配置して ください.</MustPlaceCoolerWithFreeSpaces>
+    <MustPlaceVentWithFreeSpaces>両面共に風通しが必要です.</MustPlaceVentWithFreeSpaces>
+    <MustPlaceAdjacentStandable>全ての面において,人が立てるスペースが必要です.</MustPlaceAdjacentStandable>
+    <MustPlaceNearFuelingPort>ポッドランチャーの燃料口の隣に配置してください.</MustPlaceNearFuelingPort>
+    <MustPlaceOnDrillable>掘削可能な資源の上に配置してください.</MustPlaceOnDrillable>
+    <CannotPlaceAdjacentTrap>罠の近くには置く事ができません.</CannotPlaceAdjacentTrap>
 
     <!-- Wind Turbine -->
     <WindTurbine_WindPathIsBlockedBy>邪魔している物：</WindTurbine_WindPathIsBlockedBy>
@@ -448,20 +448,20 @@
 
     <!-- Cryptosleep casket -->
     <CasketContains>内容物</CasketContains>
-    <CasketWarning>【警告】 [PAWN_nameDef]は最後の入植者です。[PAWN_objective]冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう。本当に良いのですか？</CasketWarning>
+    <CasketWarning>【警告】 [PAWN_nameDef]は最後の入植者です.[PAWN_objective]冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう.本当に良いのですか？</CasketWarning>
 
     <!-- Ship launch report -->
-    <ShipReportCannotLaunch>発射 できません。</ShipReportCannotLaunch>
-    <ShipReportCanLaunch>発射 できます。</ShipReportCanLaunch>
+    <ShipReportCannotLaunch>発射 できません.</ShipReportCannotLaunch>
+    <ShipReportCanLaunch>発射 できます.</ShipReportCanLaunch>
     <ShipReportMissingPart>宇宙船構造物が 足りません</ShipReportMissingPart>
     <ShipReportMissingPartRequires>必要物</ShipReportMissingPartRequires>
     <ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
     <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
     <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
-    <HibernateWarning>Charlon Whitestoneは、休止反応炉の再起動シーケンスを始める準備を整えた。\n\n彼は、このプロセスは約15日程かかり、そのエネルギー波紋は、かなり遠距離からでも探知される事をあなたに警告する。このエネルギー波紋のような物は、恒星間航行能力があることを示し、命知らずのギャングどもや、最悪なメカノイド群を惹きつけるだろう。\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう。真っ先に防衛の準備が整っているか確認せよ。</HibernateWarning>
-    <HibernateWarningStandalone>反応炉の出力アップの準備を整えた。\n\nこのプロセスは約15日程かかり、そのエネルギー波紋は、かなり遠距離からでも探知される。このエネルギー波紋のような物は、恒星間航行能力があることを示し、命知らずのギャングどもや、最悪なメカノイド群を惹きつけるだろう。\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう。真っ先に防衛の準備が整っているか確認せよ。</HibernateWarningStandalone>
-    <HibernateWarningPacifist>Charlon Whitestoneは、休止反応炉の再起動シーケンスを始める準備を整えた。\n\n彼は、このプロセスは約15日程かかる事を警告している。</HibernateWarningPacifist>
-    <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた。\n\nこのプロセスは約15日程かかるだろう。</HibernateWarningStandalonePacifist>
+    <HibernateWarning>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
+    <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
+    <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
+    <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
     <!-- Neurotrainer -->
     <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
@@ -480,7 +480,7 @@
 
     <!-- Quality -->
     <Quality>品質</Quality>
-    <QualityDescription>アイテムがどの位良く作られたかを示しています。</QualityDescription>
+    <QualityDescription>アイテムがどの位良く作られたかを示しています.</QualityDescription>
     <QualityIs>品質: {0}</QualityIs>
 
     <!-- Mood descriptions -->
@@ -493,10 +493,10 @@
     <Mood_Happy>幸せ</Mood_Happy>
 
     <!-- Game over -->
-    <GameOverEveryoneDead>ある者は去りました。 ある者は亡くなりました。 そして全ての人が居なくなり、 この物語は終わりを告げます。\n\nもしかすれば、 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません。</GameOverEveryoneDead>
-    <GameOverShipLaunched>宇宙船は飛び立ちました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船の人工知能(AIコア)は RimWorldより ましな ところへ 船の進路を向けました。 それは、 この星系内にある もう少し程度の良い 惑星かも しれません。 あるいは 他の恒星系へ向かう 世紀単位の 長い旅に なるのかも しれません。 もしかすると、 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも…。\n\nその日が いつになるのかは、 彼らだけが 知る事になるでしょう。</GameOverShipLaunched>
-    <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって、 亜光速まで加速した対惑星兵器が、 惑星表面に激しく打ち込まれました。 水風船をライフル弾が撃ち抜いたごとく、 この世界は 激しい衝撃と共に液状化し、 溶けた惑星の中心核は 宇宙空間に 吹き出しました。\n\n{0}の一部分は、 小さなアステロイドベルトとなっています。 溶岩があふれだし、 放射能にまみれ 地獄のようになった 残りの部分は、 絶えず巨大な 惑星全体の振動と共に キロメートル級の 波紋を起こしています。\n\n あなたは、 生き残ることができませんでした。</GameOverPlanetkillerImpact>
-    <GameOverArrivedAtJourneyDestination>あなたが、 宇宙船に乗り込むとき、 クルーから 心からの歓迎を受けました。 みんな嬉しそうです。\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\n人工知能(AIコア)が、 宇宙船を安全な惑星まで、 誘導するでしょう。 あなたの為に繁栄した惑星を、 このAIが見つけられるかもしれませんが、 他の星雲への数世紀に及ぶ旅への始まりかもしれません。 何千年も、 小惑星の氷原下に船体を隠す決断をするかもしれませんし、 誰かが新しいGlitterworldを建設するまで、 待たなければならないかもしれません。\n\nあなたが、 冷凍睡眠ポッドに身を沈めるとき、 この入植者達を信じることができるかどうか、 わずかな疑いを感じて、 ちょっとためらいます。\n\nその結果は、 次に、 あなたが目覚めた時に、 きっと判るのでしょう。</GameOverArrivedAtJourneyDestination>
+    <GameOverEveryoneDead>ある者は去りました. ある者は亡くなりました. そして全ての人が居なくなり, この物語は終わりを告げます.\n\nもしかすれば, 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません.</GameOverEveryoneDead>
+    <GameOverShipLaunched>宇宙船は飛び立ちました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船の人工知能(AIコア)は RimWorldより ましな ところへ 船の進路を向けました. それは, この星系内にある もう少し程度の良い 惑星かも しれません. あるいは 他の恒星系へ向かう 世紀単位の 長い旅に なるのかも しれません. もしかすると, 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも….\n\nその日が いつになるのかは, 彼らだけが 知る事になるでしょう.</GameOverShipLaunched>
+    <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって, 亜光速まで加速した対惑星兵器が, 惑星表面に激しく打ち込まれました. 水風船をライフル弾が撃ち抜いたごとく, この世界は 激しい衝撃と共に液状化し, 溶けた惑星の中心核は 宇宙空間に 吹き出しました.\n\n{0}の一部分は, 小さなアステロイドベルトとなっています. 溶岩があふれだし, 放射能にまみれ 地獄のようになった 残りの部分は, 絶えず巨大な 惑星全体の振動と共に キロメートル級の 波紋を起こしています.\n\n あなたは, 生き残ることができませんでした.</GameOverPlanetkillerImpact>
+    <GameOverArrivedAtJourneyDestination>あなたが, 宇宙船に乗り込むとき, クルーから 心からの歓迎を受けました. みんな嬉しそうです.\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\n人工知能(AIコア)が, 宇宙船を安全な惑星まで, 誘導するでしょう. あなたの為に繁栄した惑星を, このAIが見つけられるかもしれませんが, 他の星雲への数世紀に及ぶ旅への始まりかもしれません. 何千年も, 小惑星の氷原下に船体を隠す決断をするかもしれませんし, 誰かが新しいGlitterworldを建設するまで, 待たなければならないかもしれません.\n\nあなたが, 冷凍睡眠ポッドに身を沈めるとき, この入植者達を信じることができるかどうか, わずかな疑いを感じて, ちょっとためらいます.\n\nその結果は, 次に, あなたが目覚めた時に, きっと判るのでしょう.</GameOverArrivedAtJourneyDestination>
     <GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
     <GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
@@ -507,18 +507,18 @@
     <InactiveFacility>閉鎖</InactiveFacility>
 
     <!-- Hediffs growth modes -->
-    <DiseaseGrowthModeChanged_Growing>{0}の {1}は 進行している。</DiseaseGrowthModeChanged_Growing>
-    <DiseaseGrowthModeChanged_Stable>{0}の {1}は 安定している。</DiseaseGrowthModeChanged_Stable>
-    <DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している。</DiseaseGrowthModeChanged_Remission>
+    <DiseaseGrowthModeChanged_Growing>{0}の {1}は 進行している.</DiseaseGrowthModeChanged_Growing>
+    <DiseaseGrowthModeChanged_Stable>{0}の {1}は 安定している.</DiseaseGrowthModeChanged_Stable>
+    <DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している.</DiseaseGrowthModeChanged_Remission>
 
     <!-- Marriage spot -->
     <MarriageSpotUsable>使用可能</MarriageSpotUsable>
     <MarriageSpotNotUsable>使用不可: {0}</MarriageSpotNotUsable>
     <MarriageSpotNotStandable>邪魔されている</MarriageSpotNotStandable>
-    <MarriageSpotDangerous>{0}のため、非常に危険</MarriageSpotDangerous>
-    <MarriageSpotForbidden>{0}のため、禁止</MarriageSpotForbidden>
+    <MarriageSpotDangerous>{0}のため,非常に危険</MarriageSpotDangerous>
+    <MarriageSpotForbidden>{0}のため,禁止</MarriageSpotForbidden>
     <MarriageSpotReserved>予約済</MarriageSpotReserved>
-    <MarriageSpotUnreachable>{0}のため、到達できない</MarriageSpotUnreachable>
+    <MarriageSpotUnreachable>{0}のため,到達できない</MarriageSpotUnreachable>
     <MarriageSpotInPrisonCell>牢獄の中にある</MarriageSpotInPrisonCell>
     <NotEnjoyableOutsideTemperature>不快な温度</NotEnjoyableOutsideTemperature>
 
@@ -540,8 +540,8 @@
     <ResourceBelow>発見した鉱脈</ResourceBelow>
     <ProgressToNextPortion>次に向けて進行中</ProgressToNextPortion>
     <DeepDrillNoResources>地下資源無し</DeepDrillNoResources>
-    <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した、自動的に取り扱い禁止となる。{0}を掘削し始めるために許可せよ。</DeepDrillExhausted>
-    <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した。</DeepDrillExhaustedNoFallback>
+    <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した,自動的に取り扱い禁止となる.{0}を掘削し始めるために許可せよ.</DeepDrillExhausted>
+    <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
 
     <!-- Learning helper -->
     <LearningHelper>ラーニングヘルパー</LearningHelper>
@@ -550,14 +550,14 @@
     <Filter>フィルター</Filter>
 
     <!-- Compass -->
-    <CompassTip>北極を指します。カメラを動かしても、常に北極が上にきます</CompassTip>
+    <CompassTip>北極を指します.カメラを動かしても,常に北極が上にきます</CompassTip>
 
     <!-- World route planner -->
-    <RoutePlannerButtonTip>クリックすると、ウェイポイント間の距離が計算できるナビモードになります。</RoutePlannerButtonTip>
+    <RoutePlannerButtonTip>クリックすると,ウェイポイント間の距離が計算できるナビモードになります.</RoutePlannerButtonTip>
     <RoutePlannerAddTwoOrMoreWaypoints>二つ以上のウェイポイントを追加</RoutePlannerAddTwoOrMoreWaypoints>
     <RoutePlannerAddOneOrMoreWaypoints>一つ以上のウェイポイントを追加</RoutePlannerAddOneOrMoreWaypoints>
     <RoutePlannerEstTimeToFinalDest>推定所要時間: {0}</RoutePlannerEstTimeToFinalDest>
-    <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します。隊によって速度が変わります</RoutePlannerUsingAverageTicksPerMoveWarning>
+    <RoutePlannerUsingAverageTicksPerMoveWarning>移動速度は初期値を使用します.隊によって速度が変わります</RoutePlannerUsingAverageTicksPerMoveWarning>
     <RoutePlannerUsingTicksPerMoveOfCaravan>計算: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
     <RoutePlannerPressRMBToAddAndRemoveWaypoints>右クリック: 追加/削除 ウェイポイント</RoutePlannerPressRMBToAddAndRemoveWaypoints>
     <RoutePlannerPressEscapeToExit>ESC: ナビモードを抜ける</RoutePlannerPressEscapeToExit>

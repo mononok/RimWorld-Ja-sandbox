@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WanderConfused.label>混乱してフラフラする</WanderConfused.label>
+	<WanderConfused.label>混乱し歩きまわる</WanderConfused.label>
     <WanderConfused.beginLetterLabel>混乱</WanderConfused.beginLetterLabel>
-    <WanderConfused.beginLetter>{0} は混乱して、あたりをうろついています。</WanderConfused.beginLetter>
-    <WanderConfused.recoveryMessage>{0} は、正気を取り戻しました</WanderConfused.recoveryMessage>
+    <WanderConfused.beginLetter>{0}は混乱して歩きまわる.</WanderConfused.beginLetter>
+    <WanderConfused.recoveryMessage>{0}は正気を取り戻した</WanderConfused.recoveryMessage>
     <WanderConfused.baseInspectLine>精神状態: 混乱</WanderConfused.baseInspectLine>
 
-	<PanicFlee.label>パニックになり逃げ出している</PanicFlee.label>
+	<PanicFlee.label>パニックになり逃げ出した</PanicFlee.label>
     <PanicFlee.beginLetterLabel>逃避</PanicFlee.beginLetterLabel>
-    <PanicFlee.beginLetter>{0} はパニックになって逃げだした。</PanicFlee.beginLetter>
-    <PanicFlee.recoveryMessage>{0} は、正気を取り戻しました。</PanicFlee.recoveryMessage>
+    <PanicFlee.beginLetter>{0}はパニックになって逃げだした.</PanicFlee.beginLetter>
+    <PanicFlee.recoveryMessage>{0}は正気を取り戻した.</PanicFlee.recoveryMessage>
     <PanicFlee.baseInspectLine>精神状態: パニック</PanicFlee.baseInspectLine>
 
 	<Manhunter.label>殺人鬼</Manhunter.label>
-    <Manhunter.beginLetter>{0} は殺人鬼になって殺し始めた!。</Manhunter.beginLetter>
-    <Manhunter.recoveryMessage>{0} の血に飢えた殺人は終わりをむかえた。</Manhunter.recoveryMessage>
+    <Manhunter.beginLetter>{0}は殺人鬼となり殺し始めた!.</Manhunter.beginLetter>
+    <Manhunter.recoveryMessage>{0}の血に飢えた殺人は終わりをむかえた.</Manhunter.recoveryMessage>
     <Manhunter.baseInspectLine>精神状態: 殺人鬼</Manhunter.baseInspectLine>
 
 	<SocialFighting.label>ケンカ</SocialFighting.label>
-    <SocialFighting.recoveryMessage>{0} と {1} は、ケンカをやめた。</SocialFighting.recoveryMessage>
+    <SocialFighting.recoveryMessage>{0}と{1}はケンカをやめた.</SocialFighting.recoveryMessage>
     <SocialFighting.baseInspectLine>精神状態: ケンカ</SocialFighting.baseInspectLine>
 
 </LanguageData>

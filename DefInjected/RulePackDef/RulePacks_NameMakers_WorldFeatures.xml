@@ -21,14 +21,14 @@
 
 	    <li>narrative_name(p=12)->[WordTribal]</li>
 	    <li>narrative_name(p=12)->[PlaceOutlander]</li>
-	    <li>narrative_name->[Color][NaturalObject]</li>
+	    <li>narrative_name->[Color]色[NaturalObject]</li>
 	    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
 	    <li>narrative_name->[Animal]</li>
 	    <li>narrative_name->[Color]</li>
-	    <li>narrative_name->[Color][Animal]</li>
+	    <li>narrative_name->[Color]色[Animal]</li>
 	    <li>narrative_name->[AdjectiveNatural][Animal]</li>
 	    <li>narrative_name->[Animal][BodyPart]</li>
-	    <li>narrative_name->[Color] [Animal]</li>
+	    <li>narrative_name->[Color][Animal]</li>
 	    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
 	    <li>narrative_name->[Animal] [BodyPart]</li>
 

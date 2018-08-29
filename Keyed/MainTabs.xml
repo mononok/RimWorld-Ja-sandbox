@@ -1,93 +1,93 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<!-- Work tab -->
-<ManualPriorities>詳細な設定</ManualPriorities>
-<HigherPriority>優先度 高</HigherPriority>
-<LowerPriority>優先度 低</LowerPriority>
-<RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
-<ClickToJumpTo>クリックで移動：</ClickToJumpTo>
-<CannotDoThisWork>{0} は この作業が できません</CannotDoThisWork>
-<NoneBrackets>（なし）</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>この入植者は、健康上の理由から、このタイプのすべての作業を行うことができません。</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
-  <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
+    <!-- Work tab -->
+    <ManualPriorities>詳細な設定</ManualPriorities>
+    <HigherPriority>優先度 高</HigherPriority>
+    <LowerPriority>優先度 低</LowerPriority>
+    <RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
+    <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
+    <CannotDoThisWork>{0} は この作業が できません</CannotDoThisWork>
+    <NoneBrackets>（なし）</NoneBrackets>
+    <IncapableOfWorkTypeBecauseOfCapacities>この入植者は,健康上の理由から,このタイプのすべての作業を行うことができません.</IncapableOfWorkTypeBecauseOfCapacities>
+    <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
+    <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
 
-  <!-- Assign tab -->
-  <ManageOutfits>服装を編集</ManageOutfits>
-  <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
-  <ApparelForcedLower>服装を強制</ApparelForcedLower>
-  <ForcedApparel>服装を強制する</ForcedApparel>
-  <AssignTabEdit>編集...</AssignTabEdit>
-  <ManageDrugPolicies>ドラッグ適用方針の管理</ManageDrugPolicies>
+    <!-- Assign tab -->
+    <ManageOutfits>服装を編集</ManageOutfits>
+    <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
+    <ApparelForcedLower>服装を強制</ApparelForcedLower>
+    <ForcedApparel>服装を強制する</ForcedApparel>
+    <AssignTabEdit>編集...</AssignTabEdit>
+    <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
 
-  <!-- Restrictions tab -->
-  <Copy>コピー</Copy>
-  <Paste>ペースト</Paste>
-  <AllowedArea>制限ゾーン</AllowedArea>
+    <!-- Restrictions tab -->
+    <Copy>コピー</Copy>
+    <Paste>ペースト</Paste>
+    <AllowedArea>制限ゾーン</AllowedArea>
 
-  <!-- Animals tab -->
-  <Master>主人</Master>
-  <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
-  <BondedTo>絆</BondedTo>
+    <!-- Animals tab -->
+    <Master>主人</Master>
+    <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
+    <BondedTo>絆</BondedTo>
 
-  <!-- Wildlife tab -->
-  <IsPredator>この生物は肉食動物です。腹を空かせていると、小さな生物を狩るでしょう - ことによると、人も含めて</IsPredator>
+    <!-- Wildlife tab -->
+    <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
 
-<!-- Factions tab -->
-<Hostile>敵対</Hostile>
-  <Ally>同盟</Ally>
-  <DefeatedLower>敗退</DefeatedLower>
-<HostileTo>{0} と 敵対</HostileTo>
-  <CurrentGoodwillTip>現在の、この派閥との関係</CurrentGoodwillTip>
-  <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です。彼らは、あなたの本拠地とキャラバン隊を襲うでしょう。どのような理由でも、彼らとの関係性は決して改善することは無いでしょう。</CurrentGoodwillTip_PermanentEnemy>
-  <CurrentGoodwillTip_Ally>この派閥とは同盟です。彼らは、あなたを助ける為にできる限りの援軍を送ろうとするでしょう。もし関係性が{0}を下回ると、彼らとは中立的な関係になるでしょう。</CurrentGoodwillTip_Ally>
-  <CurrentGoodwillTip_Neutral>この派閥とは中立です。彼らは、あなたと自由に話し、貿易をするでしょう。もし関係性が{0}を下回ると、彼らとは敵対するでしょう。もし関係性が{1}を上回ると、彼らは同盟となって、あなたの為に積極的に力になってくれ始めます。</CurrentGoodwillTip_Neutral>
-  <CurrentGoodwillTip_Hostile>この派閥と敵対です。彼らは、あなたの本拠地とキャラバン隊を襲うでしょう。もし関係性が{0}を上回ると、かれらは中立となります。</CurrentGoodwillTip_Hostile>
-  <CurrentGoodwillTip_NaturalGoodwill>この派閥は、{0}から{1}の友好値の幅を持っています。友好値が{1}を超えると、一日毎に{3}下がっていきます。友好値が{0}を下回ると、一日毎に{2}上がっていきます。</CurrentGoodwillTip_NaturalGoodwill>
+    <!-- Factions tab -->
+    <Hostile>敵対</Hostile>
+    <Ally>同盟</Ally>
+    <DefeatedLower>敗退</DefeatedLower>
+    <HostileTo>{0} と 敵対</HostileTo>
+    <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
+    <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
+    <CurrentGoodwillTip_Ally>この派閥とは同盟です.彼らは,あなたを助ける為にできる限りの援軍を送ろうとするでしょう.もし関係性が{0}を下回ると,彼らとは中立的な関係になるでしょう.</CurrentGoodwillTip_Ally>
+    <CurrentGoodwillTip_Neutral>この派閥とは中立です.彼らは,あなたと自由に話し,貿易をするでしょう.もし関係性が{0}を下回ると,彼らとは敵対するでしょう.もし関係性が{1}を上回ると,彼らは同盟となって,あなたの為に積極的に力になってくれ始めます.</CurrentGoodwillTip_Neutral>
+    <CurrentGoodwillTip_Hostile>この派閥と敵対です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.もし関係性が{0}を上回ると,かれらは中立となります.</CurrentGoodwillTip_Hostile>
+    <CurrentGoodwillTip_NaturalGoodwill>この派閥は,{0}から{1}の友好値の幅を持っています.友好値が{1}を超えると,一日毎に{3}下がっていきます.友好値が{0}を下回ると,一日毎に{2}上がっていきます.</CurrentGoodwillTip_NaturalGoodwill>
 
-  <!-- Social tab -->
-  <Friend>友人</Friend>
-  <Rival>ライバル</Rival>
-  <Acquaintance>知人</Acquaintance>
+    <!-- Social tab -->
+    <Friend>友人</Friend>
+    <Rival>ライバル</Rival>
+    <Acquaintance>知人</Acquaintance>
 
-  <!-- History tab - subtabs -->
-  <Graph>グラフ</Graph>
-  <Messages>メッセージ</Messages>
-  <Statistics>統計</Statistics>
+    <!-- History tab - subtabs -->
+    <Graph>グラフ</Graph>
+    <Messages>メッセージ</Messages>
+    <Statistics>統計</Statistics>
 
-  <!-- History tab - Graphs -->
-<SelectGraph>グラフを選択</SelectGraph>
-<Last30Days>直近の30日</Last30Days>
-<Last100Days>直近の100日</Last100Days>
-<Last300Days>直近の300日</Last300Days>
-<AllDays>すべて</AllDays>
-<Value>値</Value>
-<External>外部</External>
+    <!-- History tab - Graphs -->
+    <SelectGraph>グラフを選択</SelectGraph>
+    <Last30Days>直近の30日</Last30Days>
+    <Last100Days>直近の100日</Last100Days>
+    <Last300Days>直近の300日</Last300Days>
+    <AllDays>すべて</AllDays>
+    <Value>値</Value>
+    <External>外部</External>
 
-  <!-- History tab - Messages -->
-  <ShowLetters>レターを表示</ShowLetters>
-  <ShowMessages>メッセージを表示</ShowMessages>
-  <PinArchivableTip>このメッセージにピンを打つ(ピンを外す)\n\nもっとも古いピンを打っていないメッセージは、メッセージ数{0}の上限に達すると自動的に削除されます。</PinArchivableTip>
-  <NoMessages>メッセージはありません</NoMessages>
+    <!-- History tab - Messages -->
+    <ShowLetters>レターを表示</ShowLetters>
+    <ShowMessages>メッセージを表示</ShowMessages>
+    <PinArchivableTip>このメッセージにピンを打つ(ピンを外す)\n\nもっとも古いピンを打っていないメッセージは,メッセージ数{0}の上限に達すると自動的に削除されます.</PinArchivableTip>
+    <NoMessages>メッセージはありません</NoMessages>
 
-  <!-- History tab - Statistics -->
-  <Playtime>プレイ時間</Playtime>
-  <Storyteller>AI脚本家</Storyteller>
-  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
-  <NumThreatBigs>大きな脅威</NumThreatBigs>
-  <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
-  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
-  <ColonistsKilled>殺された 入植者数</ColonistsKilled>
-  <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
+    <!-- History tab - Statistics -->
+    <Playtime>プレイ時間</Playtime>
+    <Storyteller>AI脚本家</Storyteller>
+    <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
+    <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
+    <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
+    <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+    <NumThreatBigs>大きな脅威</NumThreatBigs>
+    <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
+    <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
+    <ColonistsKilled>殺された 入植者数</ColonistsKilled>
+    <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 
-  <!-- Research tab -->
-  <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>
-  <YourTechLevel>あなたのテックレベル</YourTechLevel>
-  <ResearchCostMultiplier>コスト 倍率</ResearchCostMultiplier>
-  <ResearchCostComparison>あなたのテックレベルを考慮した結果、プロジェクトにかかる費用 {0} は最終的に {1} になりました。</ResearchCostComparison>
+    <!-- Research tab -->
+    <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>
+    <YourTechLevel>あなたのテックレベル</YourTechLevel>
+    <ResearchCostMultiplier>コスト 倍率</ResearchCostMultiplier>
+    <ResearchCostComparison>あなたのテックレベルを考慮した結果,プロジェクトにかかる費用 {0} は最終的に {1} になりました.</ResearchCostComparison>
 
 </LanguageData>

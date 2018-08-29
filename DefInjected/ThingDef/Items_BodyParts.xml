@@ -4,64 +4,64 @@
 	<!-- natural -->
 
 	<Heart.label>心臓</Heart.label>
-	<Heart.description>生物学上の人間の心臓です。全身に血液を供給します。</Heart.description>
+	<Heart.description>生物学上の人間の心臓です.全身に血液を供給します.</Heart.description>
 
 	<Lung.label>肺</Lung.label>
-	<Lung.description>生物学上の人間の肺です。２つの対になった形状で、人間の呼吸器です。</Lung.description>
+	<Lung.description>生物学上の人間の肺です.２つの対になった形状で,人間の呼吸器です.</Lung.description>
 
 	<Kidney.label>腎臓</Kidney.label>
-	<Kidney.description>生物学上の人間の腎臓です。血液から不純物をろ過・除去します。</Kidney.description>
+	<Kidney.description>生物学上の人間の腎臓です.血液から不純物をろ過・除去します.</Kidney.description>
 
 	<Liver.label>肝臓</Liver.label>
-	<Liver.description>生物学上の人間の肝臓です。代謝系の重要な役目を負っています。</Liver.description>
+	<Liver.description>生物学上の人間の肝臓です.代謝系の重要な役目を負っています.</Liver.description>
 
 	<!-- artificial - simple prosthetics -->
 
 	<SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
-	<SimpleProstheticLeg.description>義肢(義足・義脚)です。神経インターフェースが欠けてますが、内部結合の複雑な処理が、自然な動きを完璧に模倣することを可能にしています。でもまだ、本物の脚には及びません。</SimpleProstheticLeg.description>
+	<SimpleProstheticLeg.description>義肢(義足・義脚)です.神経インターフェースが欠けてますが,内部結合の複雑な処理が,自然な動きを完璧に模倣することを可能にしています.でもまだ,本物の脚には及びません.</SimpleProstheticLeg.description>
 
 	<SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
-	<SimpleProstheticArm.description>義肢(義手・義腕)です。神経インターフェースが欠けてますが、内部結合の複雑な処理が、自然な動きを完璧に模倣することを可能にしています。でもまだ、本物の腕には及びません。</SimpleProstheticArm.description>
+	<SimpleProstheticArm.description>義肢(義手・義腕)です.神経インターフェースが欠けてますが,内部結合の複雑な処理が,自然な動きを完璧に模倣することを可能にしています.でもまだ,本物の腕には及びません.</SimpleProstheticArm.description>
 
 	<SimpleProstheticHeart.label>人造心臓</SimpleProstheticHeart.label>
-	<SimpleProstheticHeart.description>人工的な心臓です。すみやかに全身に血液を送るポンプとして電気モーターが内蔵されています。使用者はよく疲労を報告しますが、補助心臓よりは良いようです。</SimpleProstheticHeart.description>
+	<SimpleProstheticHeart.description>人工的な心臓です.すみやかに全身に血液を送るポンプとして電気モーターが内蔵されています.使用者はよく疲労を報告しますが,補助心臓よりは良いようです.</SimpleProstheticHeart.description>
 
 	<CochlearImplant.label>人工内耳インプラント</CochlearImplant.label>
-	<CochlearImplant.description>通常の聴覚と置き換えるインプラントです。外部マイクが音声信号を、内耳聴覚神経系を覆った電極に送信し、電極は音声に従って神経系を刺激し聴覚を形成します。自然な聴覚ほどは良くないようですが、聴覚を失うよりはマシです。</CochlearImplant.description>
+	<CochlearImplant.description>通常の聴覚と置き換えるインプラントです.外部マイクが音声信号を,内耳聴覚神経系を覆った電極に送信し,電極は音声に従って神経系を刺激し聴覚を形成します.自然な聴覚ほどは良くないようですが,聴覚を失うよりはマシです.</CochlearImplant.description>
 
 	<!-- bionics (spacer tech) -->
 	<BionicEye.label>強化視覚センサー</BionicEye.label>
-	<BionicEye.description>進化した機械化された眼です。バイオジェル神経リンク、内蔵シグナルプリプロセッサ、そして広帯域スペクトルセンサーにより、ほとんどの生物学的眼よりも優れています。格子状異物修復システムがダメージからの回復を可能にしています。</BionicEye.description>
+	<BionicEye.description>進化した機械化された眼です.バイオジェル神経リンク,内蔵シグナルプリプロセッサ,そして広帯域スペクトルセンサーにより,ほとんどの生物学的眼よりも優れています.格子状異物修復システムがダメージからの回復を可能にしています.</BionicEye.description>
 
 	<BionicArm.label>強化上肢</BionicArm.label>
-	<BionicArm.description>進化した機械化された腕です。静音型ミニサーボモーターが強力な力を産み出し、バイオジェル神経リンクが絶妙な制御を与えます。格子状異物修復システムがダメージからの回復を可能にしています。ほとんどの生物学的腕よりも優れています。</BionicArm.description>
+	<BionicArm.description>進化した機械化された腕です.静音型ミニサーボモーターが強力な力を産み出し,バイオジェル神経リンクが絶妙な制御を与えます.格子状異物修復システムがダメージからの回復を可能にしています.ほとんどの生物学的腕よりも優れています.</BionicArm.description>
 
 	<BionicLeg.label>強化下肢</BionicLeg.label>
-	<BionicLeg.description>進化した機械化された脚です。静音型ミニサーボモーターが強力な力を産み出し、バイオジェル神経リンクが絶妙な制御を与えます。格子状異物修復システムがダメージからの回復を可能にしています。ほとんどの生物学的脚よりも優れています。</BionicLeg.description>
+	<BionicLeg.description>進化した機械化された脚です.静音型ミニサーボモーターが強力な力を産み出し,バイオジェル神経リンクが絶妙な制御を与えます.格子状異物修復システムがダメージからの回復を可能にしています.ほとんどの生物学的脚よりも優れています.</BionicLeg.description>
 
 	<BionicSpine.label>強化脊椎</BionicSpine.label>
-	<BionicSpine.description>進化した機械化された脊椎です。バイオジェル神経リンク束が、プラスチール製脊椎コアを貫通し、格子状異物修復システムが取り巻いています。生物学的脊椎と同等の働きをします。</BionicSpine.description>
+	<BionicSpine.description>進化した機械化された脊椎です.バイオジェル神経リンク束が,プラスチール製脊椎コアを貫通し,格子状異物修復システムが取り巻いています.生物学的脊椎と同等の働きをします.</BionicSpine.description>
 
 	<BionicHeart.label>強化心臓</BionicHeart.label>
-	<BionicHeart.description>進化した機械化された心臓です。本物と同じ鼓動を打つ合成された筋繊維と、更に、高負荷時にも迅速な血液循環のための高流量ポンプを内蔵しています。たいてい生物学的心臓よりも優れています。</BionicHeart.description>
+	<BionicHeart.description>進化した機械化された心臓です.本物と同じ鼓動を打つ合成された筋繊維と,更に,高負荷時にも迅速な血液循環のための高流量ポンプを内蔵しています.たいてい生物学的心臓よりも優れています.</BionicHeart.description>
 
 	<BionicStomach.label>強化胃</BionicStomach.label>
-	<BionicStomach.description>進化した機械化された胃です。 センサーと合成薬品が効果的に食物を消化します。統合された、格子状異物修復システムが、強力な酸により受けたあらゆるダメージを自動的に修復します。たいてい生物学的胃よりも優れています。</BionicStomach.description>
+	<BionicStomach.description>進化した機械化された胃です. センサーと合成薬品が効果的に食物を消化します.統合された,格子状異物修復システムが,強力な酸により受けたあらゆるダメージを自動的に修復します.たいてい生物学的胃よりも優れています.</BionicStomach.description>
 
 	<BionicEar.label>強化内耳</BionicEar.label>
-	<BionicEar.description>進化した機械化された耳インプラントです。真皮下に埋め込まれて見えないマイクが音を捕らえ、聴覚神経と直接つながっているバイオジェル神経リンクに送信します。その感度は、目で見る前に、音を聞くのに十分であり、大きな騒音によってダメージを受けることなく、雑音が多い環境下でも、意味のある音声を自動的に聞きとれるようチューニングします。</BionicEar.description>
+	<BionicEar.description>進化した機械化された耳インプラントです.真皮下に埋め込まれて見えないマイクが音を捕らえ,聴覚神経と直接つながっているバイオジェル神経リンクに送信します.その感度は,目で見る前に,音を聞くのに十分であり,大きな騒音によってダメージを受けることなく,雑音が多い環境下でも,意味のある音声を自動的に聞きとれるようチューニングします.</BionicEar.description>
 
 	<PowerClaw.label>機械化かぎ爪</PowerClaw.label>
-	<PowerClaw.description>３つの凶悪な爪からなる戦闘に特化した手の代替品が、物を握れるように配置されています。それは戦闘中は、ひどく危険で、パワフルミニサーボモーターが、生身の人間が卵を潰すように、人の頭を潰すことができます。刃は出し入れ自由で、非戦時中のために、大抵のことは生身の人の手と同じくらい役に立ちます。</PowerClaw.description>
+	<PowerClaw.description>３つの凶悪な爪からなる戦闘に特化した手の代替品が,物を握れるように配置されています.それは戦闘中は,ひどく危険で,パワフルミニサーボモーターが,生身の人間が卵を潰すように,人の頭を潰すことができます.刃は出し入れ自由で,非戦時中のために,大抵のことは生身の人の手と同じくらい役に立ちます.</PowerClaw.description>
 
 	<!-- archotech -->
 	<ArchotechEye.label>アルコテック眼</ArchotechEye.label>
-	<ArchotechEye.description>アルコテック化された眼です。あらゆるタイプの電磁波(電波、赤外線、可視光線、エックス線、ガンマ線)を知覚できます。視力は、20m離れたところから手書き文字を読むのに十分なほどあります。それは様々な周波数の放射線をフラッシュライトのように出すことが可能で、また内臓のAI補助コアは、役に立つ情報を視野に重ねあわせ表示します。外見は、意のままに瞳の色を変化できること以外は人の目のようです。その内部構造は謎に包まれています。</ArchotechEye.description>
+	<ArchotechEye.description>アルコテック化された眼です.あらゆるタイプの電磁波(電波,赤外線,可視光線,エックス線,ガンマ線)を知覚できます.視力は,20m離れたところから手書き文字を読むのに十分なほどあります.それは様々な周波数の放射線をフラッシュライトのように出すことが可能で,また内臓のAI補助コアは,役に立つ情報を視野に重ねあわせ表示します.外見は,意のままに瞳の色を変化できること以外は人の目のようです.その内部構造は謎に包まれています.</ArchotechEye.description>
 
 	<ArchotechArm.label>アルコテック腕</ArchotechArm.label>
-	<ArchotechArm.description>アルコテック化された腕です。その手は、厚い硬い材木を粉砕するには十分なほど強く、米粒にソネットを書くのに十分な正確さを持っています。その見た目と触感は、生身の人肌のようですが、プラスチールよりダメージを与えにくくなっています。万が一怪我をしたとしても、時間とともに修復します。その内部構造は謎に包まれています。</ArchotechArm.description>
+	<ArchotechArm.description>アルコテック化された腕です.その手は,厚い硬い材木を粉砕するには十分なほど強く,米粒にソネットを書くのに十分な正確さを持っています.その見た目と触感は,生身の人肌のようですが,プラスチールよりダメージを与えにくくなっています.万が一怪我をしたとしても,時間とともに修復します.その内部構造は謎に包まれています.</ArchotechArm.description>
 
 	<ArchotechLeg.label>アルコテック脚</ArchotechLeg.label>
-	<ArchotechLeg.description>アルコテック化された脚です。その見た目と触感は、生身の人肌のようですが、車と同じくらいの速さで走ることができ、プラスチールよりダメージを与えにくくなっています。万が一怪我をしたとしても、時間とともに修復します。その内部構造は謎に包まれています。</ArchotechLeg.description>
+	<ArchotechLeg.description>アルコテック化された脚です.その見た目と触感は,生身の人肌のようですが,車と同じくらいの速さで走ることができ,プラスチールよりダメージを与えにくくなっています.万が一怪我をしたとしても,時間とともに修復します.その内部構造は謎に包まれています.</ArchotechLeg.description>
 
 </LanguageData>

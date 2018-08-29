@@ -53,27 +53,30 @@
 	    <li>madefunof->の否定的な事をほのめかした</li>
 	    <li>madefunof->をけなした</li>
 	    <li>madefunof->を人を馬鹿にしたようなことを言った</li>
-	    <li>madefunof->皮肉めいたお世辞を言った</li>
+	    <li>madefunof->のお世辞を皮肉めいて言った</li>
     </Slight.logRulesInitiator.rulesStrings>
 
     <!-- Insult -->
     <Insult.label>侮辱</Insult.label>
     <Insult.logRulesInitiator.rulesStrings>
-	    <li>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] [target]'s [PersonalCharacteristic].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] compared [target] to a [insultcomparison].</li>
+	    <li>r_logentry(p=3)->[INITIATOR_nameIndef]は[target]の[PersonalCharacteristic][insulted].</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[target]と[insultcomparison]を比べた.</li>
 	    <li>r_logentry->[INITIATOR_nameIndef] called [target] a [insultcomparison].</li>
+
 	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-	    <li>target->[RECIPIENT_nameIndef]'s [Family]</li>
-	    <li>insulted(p=3)->insulted</li>
-	    <li>insulted->openly insulted</li>
-	    <li>insulted->loudly insulted</li>
-	    <li>insulted->flagrantly insulted</li>
-	    <li>insulted->directly insulted</li>
-	    <li>insulted->viciously insulted</li>
-	    <li>insulted->flagrantly disrespected</li>
-	    <li>insulted->slandered</li>
-	    <li>insulted->hurled invective about</li>
-	    <li>insulted->derided</li>
+	    <li>target->[RECIPIENT_nameIndef]の[Family]</li>
+
+	    <li>insulted(p=3)->を侮辱した</li>
+	    <li>insulted->を公然と侮辱した</li>
+	    <li>insulted->を声高々に侮辱した</li>
+	    <li>insulted->を目に余るほどに侮辱した</li>
+	    <li>insulted->を直接的に侮辱した</li>
+	    <li>insulted->を悪意を持って侮辱した</li>
+	    <li>insulted->を甚だしく軽蔑した</li>
+	    <li>insulted->を誹謗中傷した</li>
+	    <li>insulted->について暴言を浴びせた</li>
+	    <li>insulted->を馬鹿にした</li>
+	    
 	    <li>insultcomparison(p=2)->[Animal]</li>
 	    <li>insultcomparison->[Enemy]</li>
     </Insult.logRulesInitiator.rulesStrings>
@@ -81,20 +84,21 @@
     <!-- KindWords -->
     <KindWords.label>優しい言葉</KindWords.label>
     <KindWords.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef] [complimented] [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</li>
-	    <li>complimented(p=3)->complimented</li>
-	    <li>complimented->praised</li>
-	    <li>complimented->commended</li>
-	    <li>complimented->lauded</li>
-	    <li>complimented->applauded</li>
-	    <li>complimented->celebrated</li>
-	    <li>complimented->saluted</li>
-	    <li>complimented->spoke kindly of</li>
-	    <li>complimented->expressed good things about</li>
-	    <li>complimented->offered kinds words about</li>
-	    <li>complimented->verbally appreciated</li>
-	    <li>complimented->expressed appreciation for</li>
-	    <li>complimented->said good things about</li>
+	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]の[PersonalCharacteristic][complimented].</li>
+
+	    <li>complimented(p=3)->のお世辞を述べた</li>
+	    <li>complimented->を讃えた</li>
+	    <li>complimented->を褒めた</li>
+	    <li>complimented->を称賛した</li>
+	    <li>complimented->を賞賛した</li>
+	    <li>complimented->を祝った</li>
+	    <li>complimented->に敬意を表した</li>
+	    <li>complimented->の思いやりを話した</li>
+	    <li>complimented->について良い感情を表した</li>
+	    <li>complimented->について優しい言葉を言った</li>
+	    <li>complimented->を言葉で賞賛した</li>
+	    <li>complimented->に感謝を示した</li>
+	    <li>complimented->について良いことを言った</li>
     </KindWords.logRulesInitiator.rulesStrings>
 
 </LanguageData>

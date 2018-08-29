@@ -4,9 +4,9 @@
     <!--========= General ============-->
     <Goto.reportString>移動中</Goto.reportString>
 
-	<Follow.reportString>TargetAに追従中</Follow.reportString>
+	<Follow.reportString>TargetA に追従中</Follow.reportString>
 
-	<FollowClose.reportString>TargetAの後をついて行く</FollowClose.reportString>
+	<FollowClose.reportString>TargetA の後をついて行く</FollowClose.reportString>
 
     <GotoSafeTemperature.reportString>適温な場所を探している</GotoSafeTemperature.reportString>
 
@@ -36,12 +36,12 @@
 
 	<TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
 
-	<GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+	<GiveToPackAnimal.reportString>TargetA を与えた</GiveToPackAnimal.reportString>
 
     <!--============= Misc ============-->
-    <Wear.reportString>TargetA 着ている</Wear.reportString>
+    <Wear.reportString>TargetA を着ている</Wear.reportString>
 
-	<RemoveApparel.reportString>TargetA 脱いでいる</RemoveApparel.reportString>
+	<RemoveApparel.reportString>TargetA を脱いでいる</RemoveApparel.reportString>
 
 	<DropEquipment.reportString>TargetA を除装している</DropEquipment.reportString>
 
@@ -54,12 +54,12 @@
     <RearmTurret.reportString>TargetA を再装填中</RearmTurret.reportString>
     <RearmTurretAtomic.reportString>TargetA を再装填中</RearmTurretAtomic.reportString>
 
-	<Refuel.reportString>TargetA 給油中</Refuel.reportString>
-	<RefuelAtomic.reportString>TargetA 給油中</RefuelAtomic.reportString>
+	<Refuel.reportString>TargetA に給油中</Refuel.reportString>
+	<RefuelAtomic.reportString>TargetA に給油中</RefuelAtomic.reportString>
 
-	<FillFermentingBarrel.reportString>TargetA 詰めている</FillFermentingBarrel.reportString>
+	<FillFermentingBarrel.reportString>TargetA を詰めている</FillFermentingBarrel.reportString>
 
-	<TakeBeerOutOfFermentingBarrel.reportString>TargetA 汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
+	<TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
 
     <UnloadInventory.reportString>TargetA 荷下ろししている</UnloadInventory.reportString>
 
@@ -107,6 +107,6 @@
 
     <LayDown.reportString>睡眠中</LayDown.reportString>
 
-    <Lovin.reportString>ウフフ、アハハ</Lovin.reportString>
+    <Lovin.reportString>ウフフ,アハハ</Lovin.reportString>
 
 </LanguageData>

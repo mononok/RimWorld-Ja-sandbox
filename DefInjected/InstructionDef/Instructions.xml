@@ -1,121 +1,121 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CreateWorldParams.text>ようこそ RimWorld(辺境の惑星)へ !\n\nこのチュートリアルでは、ゲームの進め方を教えていきます。\n\n最初のステップは、遊ぶ世界を創造します。\n\nこのページでは、この世界のパラメータを、あなたが設定します。\n\nこの世のデフォルト設定は良いものです - このまま進めます "創造する"をクリックします。</CreateWorldParams.text>
+	<CreateWorldParams.text>ようこそ RimWorld(辺境の惑星)へ !\n\nこのチュートリアルでは,ゲームの進め方を教えていきます.\n\n最初のステップは,遊ぶ世界を創造します.\n\nこのページでは,この世界のパラメータを,あなたが設定します.\n\nこの世のデフォルト設定は良いものです - このまま進めます "創造する"をクリックします.</CreateWorldParams.text>
 
-    <ChooseLandingSite.text> この画面では、あなたの登場地点を選びます。\n\nたくさんの生物帯が存在しますが、今は、やりやすい場所から始めましょう。\n\n登場地点として、温帯森林で平地の地形を選びクリックし、"次へ"をクリックします。\n\n"地形"タブを使えば、選択したタイルの詳しい情報が見れます。</ChooseLandingSite.text>
-    <ChooseLandingSite.rejectInputMessage>温帯森林の平地を選択してみましょう。</ChooseLandingSite.rejectInputMessage>
+    <ChooseLandingSite.text> この画面では,あなたの登場地点を選びます.\n\nたくさんの生物帯が存在しますが,今は,やりやすい場所から始めましょう.\n\n登場地点として,温帯森林で平地の地形を選びクリックし,"次へ"をクリックします.\n\n"地形"タブを使えば,選択したタイルの詳しい情報が見れます.</ChooseLandingSite.text>
+    <ChooseLandingSite.rejectInputMessage>温帯森林の平地を選択してみましょう.</ChooseLandingSite.rejectInputMessage>
 
-    <ReorderCharacters.text>さあ、キャラクターを選ぶことができます!\n\n左側の選択済キャラクターをクリックします。気に入ったキャラクターを見つけたら、選択済セクションの一番先頭にドラッグしましょう。</ReorderCharacters.text>
-    <ReorderCharacters.rejectInputMessage>まずキャラクターを選んでみましょう。</ReorderCharacters.rejectInputMessage>
-    <RandomizeCharacter.text>もし、このキャラクターが気に入らなければ、再生成することができます!\n\nRANDOMIZEボタンを試してください。</RandomizeCharacter.text>
-    <RandomizeCharacter.rejectInputMessage>最初に、ランダムなキャラクターで試してみて下さい。</RandomizeCharacter.rejectInputMessage>
+    <ReorderCharacters.text>さあ,キャラクターを選ぶことができます!\n\n左側の選択済キャラクターをクリックします.気に入ったキャラクターを見つけたら,選択済セクションの一番先頭にドラッグしましょう.</ReorderCharacters.text>
+    <ReorderCharacters.rejectInputMessage>まずキャラクターを選んでみましょう.</ReorderCharacters.rejectInputMessage>
+    <RandomizeCharacter.text>もし,このキャラクターが気に入らなければ,再生成することができます!\n\nRANDOMIZEボタンを試してください.</RandomizeCharacter.text>
+    <RandomizeCharacter.rejectInputMessage>最初に,ランダムなキャラクターで試してみて下さい.</RandomizeCharacter.rejectInputMessage>
 
-	<AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし、完璧なキャラクターを求めようとしないで下さい。誰しも欠点を持っていますし、そうした登場人物がいることで、ストーリーがより面白くなるからです!。\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます。\n\n準備ができたら、"スタート"をクリックします。</AcceptStartingPawns.text>
-	<MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう。\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか、MOUSE BUTTON 3を押したままドラッグします。\n\nやってみましょう!</MapCameraDolly.text>
-	<MapCameraZoom.text>素晴らしい!\n\nマウスホイールか、{Key:MapZoom_In} and {Key:MapZoom_Out}キーで、 ズームイン、ズームアウトが出来ます。\n\n試してみましょう!</MapCameraZoom.text>
-	<Pause.text>ゲーム時間を、一時停止することもできます。\n\nこれはつまり、あなたは慌てる必要が無い、ということです。あなたはいつでも、一時停止をしてから、ゆっくりと命令を下すことができます。\n\n{Key:TogglePause}キーか、右下のアイコンを試しましょう</Pause.text>
-	<TimeControls.text>あなたは、時間の進みをスピードアップすることも出来ます。\n\n{Key:TimeSpeed_Normal},{Key:TimeSpeed_Fast},{Key:TimeSpeed_Superfast}キーか、右下のアイコンを試してみましょう。</TimeControls.text>
+	<AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!.\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
+	<MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう.\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか,MOUSE BUTTON 3を押したままドラッグします.\n\nやってみましょう!</MapCameraDolly.text>
+	<MapCameraZoom.text>素晴らしい!\n\nマウスホイールか,{Key:MapZoom_In} and {Key:MapZoom_Out}キーで, ズームイン,ズームアウトが出来ます.\n\n試してみましょう!</MapCameraZoom.text>
+	<Pause.text>ゲーム時間を,一時停止することもできます.\n\nこれはつまり,あなたは慌てる必要が無い,ということです.あなたはいつでも,一時停止をしてから,ゆっくりと命令を下すことができます.\n\n{Key:TogglePause}キーか,右下のアイコンを試しましょう</Pause.text>
+	<TimeControls.text>あなたは,時間の進みをスピードアップすることも出来ます.\n\n{Key:TimeSpeed_Normal},{Key:TimeSpeed_Fast},{Key:TimeSpeed_Superfast}キーか,右下のアイコンを試してみましょう.</TimeControls.text>
 
-    <MakeStockpile.text>素晴らしい!\n\nさて、あなたの入植者達が、アイテムを保管する場所としてわかるように、備蓄ゾーンを作ります。\n\n1.左下の「アーキテクト」タブをクリックします。\n2.「ゾーン」カテゴリーをクリックします。\n3.「備蓄ゾーン」ツールを選びます。\n4.マップ上に表示された四角い範囲を、クリックしてドラッグします。</MakeStockpile.text>
-    <MakeStockpile.rejectInputMessage>指示された領域に備蓄ゾーンを作ってみましょう。</MakeStockpile.rejectInputMessage>
+    <MakeStockpile.text>素晴らしい!\n\nさて,あなたの入植者達が,アイテムを保管する場所としてわかるように,備蓄ゾーンを作ります.\n\n1.左下の「アーキテクト」タブをクリックします.\n2.「ゾーン」カテゴリーをクリックします.\n3.「備蓄ゾーン」ツールを選びます.\n4.マップ上に表示された四角い範囲を,クリックしてドラッグします.</MakeStockpile.text>
+    <MakeStockpile.rejectInputMessage>指示された領域に備蓄ゾーンを作ってみましょう.</MakeStockpile.rejectInputMessage>
     <MakeStockpile.onMapInstruction>備蓄ゾーンをここに作ってみましょう\n(対角線にドラッグします)</MakeStockpile.onMapInstruction>
 
-	<EndStockpileDesignating.text>右クリックで、このモードから抜けます。</EndStockpileDesignating.text>
+	<EndStockpileDesignating.text>右クリックで,このモードから抜けます.</EndStockpileDesignating.text>
 
-    <UnforbidStartingResources.text>そして, あなたの入植者達に、アイテムを備蓄ゾーンに運ぶことを許可するには、アイテムを関われるようにしなければなりません。\n\n1.スタート時に持ってきたアイテムを選択します。\n2.「禁止」コマンドをクリックして、許可にします。\n\n(ヒント:アイテムをダブルクリックすると、画面上の同じアイテムを一度に選択できます。)</UnforbidStartingResources.text>
-    <UnforbidStartingResources.rejectInputMessage>初期所持品を許可してみましょう。</UnforbidStartingResources.rejectInputMessage>
+    <UnforbidStartingResources.text>そして, あなたの入植者達に,アイテムを備蓄ゾーンに運ぶことを許可するには,アイテムを関われるようにしなければなりません.\n\n1.スタート時に持ってきたアイテムを選択します.\n2.「禁止」コマンドをクリックして,許可にします.\n\n(ヒント:アイテムをダブルクリックすると,画面上の同じアイテムを一度に選択できます.)</UnforbidStartingResources.text>
+    <UnforbidStartingResources.rejectInputMessage>初期所持品を許可してみましょう.</UnforbidStartingResources.rejectInputMessage>
     <UnforbidStartingResources.onMapInstruction>これを許可にします</UnforbidStartingResources.onMapInstruction>
 
-    <BuildRoomWalls.text>最高!、次は部屋を作ってみましょう。\n\n1.「アーキテクト」タブをクリックします。\n2.「建築」メニューをクリックします。\n3.「壁」をクリックします。\n4. 素材は"木製"を選択します。\n5.マップ上に表示された四角の、各辺ごとにドラッグして壁を作ります。</BuildRoomWalls.text>
-    <BuildRoomWalls.rejectInputMessage>ハイライト表示されている矩形の縁に沿って木造の壁を作ってみましょう。</BuildRoomWalls.rejectInputMessage>
+    <BuildRoomWalls.text>最高!,次は部屋を作ってみましょう.\n\n1.「アーキテクト」タブをクリックします.\n2.「建築」メニューをクリックします.\n3.「壁」をクリックします.\n4. 素材は"木製"を選択します.\n5.マップ上に表示された四角の,各辺ごとにドラッグして壁を作ります.</BuildRoomWalls.text>
+    <BuildRoomWalls.rejectInputMessage>ハイライト表示されている矩形の縁に沿って木造の壁を作ってみましょう.</BuildRoomWalls.rejectInputMessage>
     <BuildRoomWalls.onMapInstruction>壁を作ります</BuildRoomWalls.onMapInstruction>
 
-    <BuildRoomDoor.text>さて、ここで部屋の、四辺の壁の一つに「ドア」を配置します。\n\n「ドア」は、「壁」の隣にあります。</BuildRoomDoor.text>
-    <BuildRoomDoor.rejectInputMessage>部屋の壁の一つの上に木製のドアを作ってみましょう。</BuildRoomDoor.rejectInputMessage>
+    <BuildRoomDoor.text>さて,ここで部屋の,四辺の壁の一つに「ドア」を配置します.\n\n「ドア」は,「壁」の隣にあります.</BuildRoomDoor.text>
+    <BuildRoomDoor.rejectInputMessage>部屋の壁の一つの上に木製のドアを作ってみましょう.</BuildRoomDoor.rejectInputMessage>
     <BuildRoomDoor.onMapInstruction>壁の上にドアを作ります</BuildRoomDoor.onMapInstruction>
 
-    <BuildBeds.text>あなたの入植者達の部屋が作られました!。\n\n彼らは、どこかで寝る必要があります。今から、３つの「ベッド」を部屋の中に置きます。\n\n「ベッド」は「家具」カテゴリーの中にあります。</BuildBeds.text>
-    <BuildBeds.rejectInputMessage>部屋の中に木製のベッドを作ってみましょう。</BuildBeds.rejectInputMessage>
+    <BuildBeds.text>あなたの入植者達の部屋が作られました!.\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.</BuildBeds.text>
+    <BuildBeds.rejectInputMessage>部屋の中に木製のベッドを作ってみましょう.</BuildBeds.rejectInputMessage>
     <BuildBeds.onMapInstruction>部屋の中に３つの木製ベッドを作ります</BuildBeds.onMapInstruction>
 
-    <BuildTorchLamp.text>部屋の中に明かりを置きましょう、入植者達は暗いところにいると、不機嫌になっていきます。\n\n部屋の中に"トーチランプ"を作ります。</BuildTorchLamp.text>
+    <BuildTorchLamp.text>部屋の中に明かりを置きましょう,入植者達は暗いところにいると,不機嫌になっていきます.\n\n部屋の中に"トーチランプ"を作ります.</BuildTorchLamp.text>
     <BuildTorchLamp.rejectInputMessage>部屋の中にトーチランプを作ってみましょう</BuildTorchLamp.rejectInputMessage>
     <BuildTorchLamp.onMapInstruction>部屋の中にトーチランプを作ります</BuildTorchLamp.onMapInstruction>
 
-    <BuildAnimalSleepingSpot.text>そして、あなたのペットも、あなたと一緒に寝かせましょう、"家畜の寝床"を置きます。\n\n"家畜の寝床"コマンドは、実際に何かを作りません - ペットは、そう指示された場所で眠るようになるだけです。</BuildAnimalSleepingSpot.text>
-    <BuildAnimalSleepingSpot.rejectInputMessage>部屋の中に家畜の寝床を作ってみましょう。</BuildAnimalSleepingSpot.rejectInputMessage>
+    <BuildAnimalSleepingSpot.text>そして,あなたのペットも,あなたと一緒に寝かせましょう,"家畜の寝床"を置きます.\n\n"家畜の寝床"コマンドは,実際に何かを作りません - ペットは,そう指示された場所で眠るようになるだけです.</BuildAnimalSleepingSpot.text>
+    <BuildAnimalSleepingSpot.rejectInputMessage>部屋の中に家畜の寝床を作ってみましょう.</BuildAnimalSleepingSpot.rejectInputMessage>
     <BuildAnimalSleepingSpot.onMapInstruction>家畜の寝床を作ります\n部屋の中に</BuildAnimalSleepingSpot.onMapInstruction>
 
-    <BuildHorseshoesPin.text>あなたの入植者達は、娯楽を必要としているので、彼らは時間が経つと、ふさぎこんでしまうでしょう。\n\n部屋の近くの屋外に"輪投げのピン"を作ります。</BuildHorseshoesPin.text>
-    <BuildHorseshoesPin.rejectInputMessage>部屋のそばに、輪投げのピンを置いてみましょう。</BuildHorseshoesPin.rejectInputMessage>
+    <BuildHorseshoesPin.text>あなたの入植者達は,娯楽を必要としているので,彼らは時間が経つと,ふさぎこんでしまうでしょう.\n\n部屋の近くの屋外に"輪投げのピン"を作ります.</BuildHorseshoesPin.text>
+    <BuildHorseshoesPin.rejectInputMessage>部屋のそばに,輪投げのピンを置いてみましょう.</BuildHorseshoesPin.rejectInputMessage>
     <BuildHorseshoesPin.onMapInstruction>輪投げのピンを作ります\n部屋の外に</BuildHorseshoesPin.onMapInstruction>
 
-    <MakeGrowingZone.text>これで家が建ちました!。\n\nあなたの入植者達は、何か食べ物が必要となります、マップ上に表示された場所に"農業ゾーン"を配置します。\n\n入植者達は、ここに種を蒔くようになります。</MakeGrowingZone.text>
-    <MakeGrowingZone.rejectInputMessage>表示された場所に農業ゾーンを作ってみましょう。</MakeGrowingZone.rejectInputMessage>
+    <MakeGrowingZone.text>これで家が建ちました!.\n\nあなたの入植者達は,何か食べ物が必要となります,マップ上に表示された場所に"農業ゾーン"を配置します.\n\n入植者達は,ここに種を蒔くようになります.</MakeGrowingZone.text>
+    <MakeGrowingZone.rejectInputMessage>表示された場所に農業ゾーンを作ってみましょう.</MakeGrowingZone.rejectInputMessage>
     <MakeGrowingZone.onMapInstruction>農業ゾーンをここに置きます\n(対角線をドラッグします)</MakeGrowingZone.onMapInstruction>
 
-    <SetToGrowRice.text>あなたは、入植者達が"農業ゾーン"に蒔く種の種類を決めることができます。\n\n1.右クリックして、ゾーンの配置モードから抜けます。\n2.今作った"農業ゾーン"をクリックして選択します。\n3. 「植物:ジャガイモ」コマンドを押して、「米」に変更します。</SetToGrowRice.text>
-    <SetToGrowRice.rejectInputMessage>農業ゾーンで稲を育ててみましょう。</SetToGrowRice.rejectInputMessage>
+    <SetToGrowRice.text>あなたは,入植者達が"農業ゾーン"に蒔く種の種類を決めることができます.\n\n1.右クリックして,ゾーンの配置モードから抜けます.\n2.今作った"農業ゾーン"をクリックして選択します.\n3. 「植物:ジャガイモ」コマンドを押して,「米」に変更します.</SetToGrowRice.text>
+    <SetToGrowRice.rejectInputMessage>農業ゾーンで稲を育ててみましょう.</SetToGrowRice.rejectInputMessage>
     <SetToGrowRice.onMapInstruction>農業ゾーンの作物を米にします</SetToGrowRice.onMapInstruction>
 
-    <EquipWeapons.text>入植者達に、開始時に持ってきた武器を装備させます。装備させるには:\n\n1.入植者をクリックして選択します。\n2.装備させたい武器を右クリックします。\n3.表示されたメニューの中から'武器を装備する'を選択します。\n\nこの作業を、それぞれの入植者に対して行ないます。</EquipWeapons.text>
-    <EquipWeapons.rejectInputMessage>入植者に武器を持たせましょう。</EquipWeapons.rejectInputMessage>
+    <EquipWeapons.text>入植者達に,開始時に持ってきた武器を装備させます.装備させるには:\n\n1.入植者をクリックして選択します.\n2.装備させたい武器を右クリックします.\n3.表示されたメニューの中から'武器を装備する'を選択します.\n\nこの作業を,それぞれの入植者に対して行ないます.</EquipWeapons.text>
+    <EquipWeapons.rejectInputMessage>入植者に武器を持たせましょう.</EquipWeapons.rejectInputMessage>
     <EquipWeapons.onMapInstruction>これを装備します</EquipWeapons.onMapInstruction>
 
-    <BuildFueledStove.text>素晴らしい!\n\n今度は、料理を作るために、カマドを作ってみましょう。\n\n部屋の中に、"カマド"を作ります。</BuildFueledStove.text>
-    <BuildFueledStove.rejectInputMessage>早いうちに、室内にカマドを作ってみましょう。</BuildFueledStove.rejectInputMessage>
+    <BuildFueledStove.text>素晴らしい!\n\n今度は,料理を作るために,カマドを作ってみましょう.\n\n部屋の中に,"カマド"を作ります.</BuildFueledStove.text>
+    <BuildFueledStove.rejectInputMessage>早いうちに,室内にカマドを作ってみましょう.</BuildFueledStove.rejectInputMessage>
     <BuildFueledStove.onMapInstruction>部屋の中にカマドを作ります</BuildFueledStove.onMapInstruction>
 
-    <AddBillSimpleMeal.text>入植者達に、何の料理を作らせるかを伝える必要があります。\n\n"カマド"に料理注文書を付け足します。注文書が作成されてしまえば、入植者達は自動的に作業を行ないます。\n\n1."カマド"が完成するのを待ちます。\n2."カマド"をクリックして選択します。\n3."加工"タブを開きます。\n4."新しい加工"をクリックします。\n5."簡単な食事"を選択します。\n6."+"ボタンを押して、個数を10個に増やします。\n\n"カマド"を作るのに時間が掛かりすぎると思ったときは、時間を早めることができるのを思い出して下さい。\n\n入植者を選択したあと、"カマド"を右クリックして優先的に作らせることも出来ます。</AddBillSimpleMeal.text>
-    <AddBillSimpleMeal.rejectInputMessage>かまどの設定を、簡単な食事を作らせるように設定しましょう。</AddBillSimpleMeal.rejectInputMessage>
+    <AddBillSimpleMeal.text>入植者達に,何の料理を作らせるかを伝える必要があります.\n\n"カマド"に料理注文書を付け足します.注文書が作成されてしまえば,入植者達は自動的に作業を行ないます.\n\n1."カマド"が完成するのを待ちます.\n2."カマド"をクリックして選択します.\n3."加工"タブを開きます.\n4."新しい加工"をクリックします.\n5."簡単な食事"を選択します.\n6."+"ボタンを押して,個数を10個に増やします.\n\n"カマド"を作るのに時間が掛かりすぎると思ったときは,時間を早めることができるのを思い出して下さい.\n\n入植者を選択したあと,"カマド"を右クリックして優先的に作らせることも出来ます.</AddBillSimpleMeal.text>
+    <AddBillSimpleMeal.rejectInputMessage>かまどの設定を,簡単な食事を作らせるように設定しましょう.</AddBillSimpleMeal.rejectInputMessage>
     <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
 
-    <MineSteel.text>これで、入植者達は食事を作れるようになりました!おいしいっ!\n\n次は、鉱物資源を掘ってみましょう。あなたのコロニーの近くに鉄を置きました。\n\n"採掘"を選択し、鉄の上をドラッグして選択します。</MineSteel.text>
-    <MineSteel.rejectInputMessage>鉱物資源の上で、"採掘"を指示しましょう。</MineSteel.rejectInputMessage>
+    <MineSteel.text>これで,入植者達は食事を作れるようになりました!おいしいっ!\n\n次は,鉱物資源を掘ってみましょう.あなたのコロニーの近くに鉄を置きました.\n\n"採掘"を選択し,鉄の上をドラッグして選択します.</MineSteel.text>
+    <MineSteel.rejectInputMessage>鉱物資源の上で,"採掘"を指示しましょう.</MineSteel.rejectInputMessage>
     <MineSteel.onMapInstruction>これ全てに指示します\n掘削</MineSteel.onMapInstruction>
 
-    <ChopTrees.text>いくつか木を収穫してみましょう。いくつか木を伐採させます。\n\n「伐採」コマンドで、コロニーの回りにある、10本の木を伐採させます。\n\n(ヒント: ドラッグして木をまとめて選択することが出来ます。)</ChopTrees.text>
-    <ChopTrees.rejectInputMessage>いくつかの木をまとめてドラッグして、"伐採"を指示してみましょう。</ChopTrees.rejectInputMessage>
+    <ChopTrees.text>いくつか木を収穫してみましょう.いくつか木を伐採させます.\n\n「伐採」コマンドで,コロニーの回りにある,10本の木を伐採させます.\n\n(ヒント: ドラッグして木をまとめて選択することが出来ます.)</ChopTrees.text>
+    <ChopTrees.rejectInputMessage>いくつかの木をまとめてドラッグして,"伐採"を指示してみましょう.</ChopTrees.rejectInputMessage>
 
-    <OpenMainTabWork.text>入植者毎に作業の種別を制御することができます。\n\n画面下にある「優先順位」タブを開きます。</OpenMainTabWork.text>
-    <OpenMainTabWork.rejectInputMessage>「優先順位」タブを開いてみましょう。</OpenMainTabWork.rejectInputMessage>
+    <OpenMainTabWork.text>入植者毎に作業の種別を制御することができます.\n\n画面下にある「優先順位」タブを開きます.</OpenMainTabWork.text>
+    <OpenMainTabWork.rejectInputMessage>「優先順位」タブを開いてみましょう.</OpenMainTabWork.rejectInputMessage>
 
-    <ChangeWorkSettings.text>あなたは、チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます。入植者は優先順位(左から右）に従って作業をしようとします。\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は、どんなにクダラナイ事でも、常に自分の優先順序に従います。効率的な作業体制を敷くことは、リムワールドでの成功のカギとなります。だから、優先順位の設定は慎重に行い、何度も見直しましょう!</ChangeWorkSettings.text>
-    <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください、そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
+    <ChangeWorkSettings.text>あなたは,チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます.入植者は優先順位(左から右）に従って作業をしようとします.\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は,どんなにクダラナイ事でも,常に自分の優先順序に従います.効率的な作業体制を敷くことは,リムワールドでの成功のカギとなります.だから,優先順位の設定は慎重に行い,何度も見直しましょう!</ChangeWorkSettings.text>
+    <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください,そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
 
-    <BuildSimpleResearchBench.text>次に進むためには、新しいテクノロジーを研究してみましょう。\n\n木製の"研究設備"を部屋の中に作ります。</BuildSimpleResearchBench.text>
-    <BuildSimpleResearchBench.rejectInputMessage>早いうちに、部屋の中に"研究設備"を作ってみましょう。</BuildSimpleResearchBench.rejectInputMessage>
+    <BuildSimpleResearchBench.text>次に進むためには,新しいテクノロジーを研究してみましょう.\n\n木製の"研究設備"を部屋の中に作ります.</BuildSimpleResearchBench.text>
+    <BuildSimpleResearchBench.rejectInputMessage>早いうちに,部屋の中に"研究設備"を作ってみましょう.</BuildSimpleResearchBench.rejectInputMessage>
     <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"研究設備"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
 
-    <OpenMainTabResearch.text>大変素晴らしい! 次は、あなたが研究させたいテクノロジーを選択してみましょう。\n\n「研究」タブを開きます。</OpenMainTabResearch.text>
+    <OpenMainTabResearch.text>大変素晴らしい! 次は,あなたが研究させたいテクノロジーを選択してみましょう.\n\n「研究」タブを開きます.</OpenMainTabResearch.text>
     <OpenMainTabResearch.rejectInputMessage>「研究」タブを開きましょう</OpenMainTabResearch.rejectInputMessage>
 
-    <SelectResearchProject.text>さて、真っ先に研究させたい対象を選択します。\n\nあなたは、木が切り倒されて木材となり、研究設備が作られるまで、待たなければならないかもしれません。\n\nもし待ちきれないなら、「優先順位」タブを開いて、もっと多くの入植者に、建築作業を割り当てます。</SelectResearchProject.text>
-    <SelectResearchProject.rejectInputMessage>研究プロジェクトを選択してください。</SelectResearchProject.rejectInputMessage>
+    <SelectResearchProject.text>さて,真っ先に研究させたい対象を選択します.\n\nあなたは,木が切り倒されて木材となり,研究設備が作られるまで,待たなければならないかもしれません.\n\nもし待ちきれないなら,「優先順位」タブを開いて,もっと多くの入植者に,建築作業を割り当てます.</SelectResearchProject.text>
+    <SelectResearchProject.rejectInputMessage>研究プロジェクトを選択してください.</SelectResearchProject.rejectInputMessage>
 
-    <ExpandAreaHome.text>次に、ホームエリアの拡張方法を学習してみましょう。\n\n入植者達は、ホームエリア内側だけ、床を掃除したり、火を消したりしますが、外側の汚れや火災は無視します。\n\nホームエリアは、あなたが建造したときに自動的に追加されていきます。しかし、手動で範囲を広げることもできます。\n\n「コロニーゾーン」ツールを使って、マップ上に新しいホームエリアを作りましょう。</ExpandAreaHome.text>
-    <ExpandAreaHome.rejectInputMessage>練習も兼ねて、コロニーゾーンを少し広げてください。</ExpandAreaHome.rejectInputMessage>
+    <ExpandAreaHome.text>次に,ホームエリアの拡張方法を学習してみましょう.\n\n入植者達は,ホームエリア内側だけ,床を掃除したり,火を消したりしますが,外側の汚れや火災は無視します.\n\nホームエリアは,あなたが建造したときに自動的に追加されていきます.しかし,手動で範囲を広げることもできます.\n\n「コロニーゾーン」ツールを使って,マップ上に新しいホームエリアを作りましょう.</ExpandAreaHome.text>
+    <ExpandAreaHome.rejectInputMessage>練習も兼ねて,コロニーゾーンを少し広げてください.</ExpandAreaHome.rejectInputMessage>
 
-    <ExpandAreaBuildRoof.text>屋根ゾーンを定義すると、入植者たちは屋根を作ろうとします。\n\nあたらしく閉じた空間(部屋)を作ったときも、自動的に行われます。\n\n「屋根ゾーン」ツールを選択して、部屋の前にポーチ部分を作ってみましょう。</ExpandAreaBuildRoof.text>
-    <ExpandAreaBuildRoof.rejectInputMessage>練習も兼ねて、屋根を少し広げてください。</ExpandAreaBuildRoof.rejectInputMessage>
+    <ExpandAreaBuildRoof.text>屋根ゾーンを定義すると,入植者たちは屋根を作ろうとします.\n\nあたらしく閉じた空間(部屋)を作ったときも,自動的に行われます.\n\n「屋根ゾーン」ツールを選択して,部屋の前にポーチ部分を作ってみましょう.</ExpandAreaBuildRoof.text>
+    <ExpandAreaBuildRoof.rejectInputMessage>練習も兼ねて,屋根を少し広げてください.</ExpandAreaBuildRoof.rejectInputMessage>
 
-    <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち、敵があなたのコロニーを襲いに来るでしょう。その準備を始める時です。\n\n"土のう"を選択して、指示されたところに土のうを積みましょう。</BuildSandbags.text>
-    <BuildSandbags.rejectInputMessage>ハイライトされたところに"土のう"を作りましょう。</BuildSandbags.rejectInputMessage>
-    <BuildSandbags.onMapInstruction>ここに土のうを作ります。</BuildSandbags.onMapInstruction>
+    <BuildSandbags.text>グレイト! 基本的なコロニーとして動き出しました!そのうち,敵があなたのコロニーを襲いに来るでしょう.その準備を始める時です.\n\n"土のう"を選択して,指示されたところに土のうを積みましょう.</BuildSandbags.text>
+    <BuildSandbags.rejectInputMessage>ハイライトされたところに"土のう"を作りましょう.</BuildSandbags.rejectInputMessage>
+    <BuildSandbags.onMapInstruction>ここに土のうを作ります.</BuildSandbags.onMapInstruction>
 
-    <FinishSandbags.text>ここで、指示した建物が建つまで待ちましょう。\n\n"優先順位"タブを使って、建造にもっと多くの入植者を割り当てることを、考慮してもよいでしょう。\n\nまた、ゲームスピードを上げれば、待つ時間が短くできます。\n\nすべて建て終ったら、あなたの防御力を試すため、攻撃者を送り込む予定でいます。</FinishSandbags.text>
-    <FinishSandbags.rejectInputMessage>入植者達が土のうを作り終えるまで待ちましょう。</FinishSandbags.rejectInputMessage>
+    <FinishSandbags.text>ここで,指示した建物が建つまで待ちましょう.\n\n"優先順位"タブを使って,建造にもっと多くの入植者を割り当てることを,考慮してもよいでしょう.\n\nまた,ゲームスピードを上げれば,待つ時間が短くできます.\n\nすべて建て終ったら,あなたの防御力を試すため,攻撃者を送り込む予定でいます.</FinishSandbags.text>
+    <FinishSandbags.rejectInputMessage>入植者達が土のうを作り終えるまで待ちましょう.</FinishSandbags.rejectInputMessage>
 
-    <DownRaider.text>私は、あなたのコロニーを攻撃するレイダーを送りました。\n\n1.{Key:TogglePause}を押してゲームを一時中止します!\n2.画面の右下にある赤色の手紙を読みます。\n3.入植者を選択し「徴兵」コマンドを実行します。\n4.そのまま、土のうが積んである内側を右クリックして、彼らをそこに移動させます。\n5.一時停止を解除します。\n\n入植者を、土のうの背後に配置することで、カバーとしての恩恵を得られます。カバーについたまま、攻撃者がやってくるのを待っていると、入植者たちは自動的に撃ち始めます。</DownRaider.text>
+    <DownRaider.text>私は,あなたのコロニーを攻撃するレイダーを送りました.\n\n1.{Key:TogglePause}を押してゲームを一時中止します!\n2.画面の右下にある赤色の手紙を読みます.\n3.入植者を選択し「徴兵」コマンドを実行します.\n4.そのまま,土のうが積んである内側を右クリックして,彼らをそこに移動させます.\n5.一時停止を解除します.\n\n入植者を,土のうの背後に配置することで,カバーとしての恩恵を得られます.カバーについたまま,攻撃者がやってくるのを待っていると,入植者たちは自動的に撃ち始めます.</DownRaider.text>
 		<DownRaider.rejectInputMessage>戦闘の経過を見守ってください!</DownRaider.rejectInputMessage>
-		<DownRaider.onMapInstruction>ここに入植者を送ります。\n土のうをカバーにして背後に配置します。</DownRaider.onMapInstruction>
+		<DownRaider.onMapInstruction>ここに入植者を送ります.\n土のうをカバーにして背後に配置します.</DownRaider.onMapInstruction>
 
-    <UndraftAll.text>成功です! 全員に対して「徴兵」の解除を行います。\n\nこうすると、彼らはスケジュール通りの元の作業に戻ります。</UndraftAll.text>
-		<UndraftAll.rejectInputMessage>「徴兵」の解除をしましょう。</UndraftAll.rejectInputMessage>
+    <UndraftAll.text>成功です! 全員に対して「徴兵」の解除を行います.\n\nこうすると,彼らはスケジュール通りの元の作業に戻ります.</UndraftAll.text>
+		<UndraftAll.rejectInputMessage>「徴兵」の解除をしましょう.</UndraftAll.rejectInputMessage>
 
-    <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと、学ぶことがあります、囚人の扱い方、狩猟のしかた、トレード、野生動物、他にもたくさんあります。しかし基本は習得しました。\n\nこのチュートリアルでは、ランダムに起きる、事件事故は禁止してあります。本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します。\n3.「脚本家」をクリックします。\n4.脚本家と、難易度が表示されます。\n\nGood luck, and have fun.</ChooseStoryteller.text>
-    <ChooseStoryteller.rejectInputMessage>オプションメニューから、ストーリーテラーを選択して、このチュートリアルを終了します。</ChooseStoryteller.rejectInputMessage>
+    <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと,学ぶことがあります,囚人の扱い方,狩猟のしかた,トレード,野生動物,他にもたくさんあります.しかし基本は習得しました.\n\nこのチュートリアルでは,ランダムに起きる,事件事故は禁止してあります.本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します.\n3.「脚本家」をクリックします.\n4.脚本家と,難易度が表示されます.\n\nGood luck, and have fun.</ChooseStoryteller.text>
+    <ChooseStoryteller.rejectInputMessage>オプションメニューから,ストーリーテラーを選択して,このチュートリアルを終了します.</ChooseStoryteller.rejectInputMessage>
 
 </LanguageData>
 

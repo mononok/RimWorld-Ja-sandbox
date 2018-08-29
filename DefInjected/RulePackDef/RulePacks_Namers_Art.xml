@@ -3,7 +3,7 @@
 
         <!-- General -->
     <NamerArtCommon.rulePack.rulesStrings>
-	    <li>r_art_name(p=4)->[Artwork] [Trans] [ConceptAny]</li>
+	    <li>r_art_name(p=4)->[ConceptAny] [Trans] [Artwork]</li>
 	    <li>r_art_name(p=4)->[maybe_a][maybe_adjective][Artwork]</li>
 	    <li>r_art_name->[maybe_a][maybe_adjective][ConceptAny]</li>
 	    <li>r_art_name->[maybe_a][maybe_adjective][TerrainFeature]</li>
@@ -24,8 +24,8 @@
 	        <!-- Person. High probability; if we can use these we want to -->
 	    <li>r_art_name(p=6)->[ANYPAWN_nameIndef]作 「[Artwork]」</li>
 	    <li>r_art_name(p=3)->[maybe_a][ANYPAWN_nameIndef][Trans][Color]</li>
-	    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作 「[PersonalCharacteristic]」</li>
-	    <li>r_art_name(p=3)->[PersonalCharacteristic] [ANYPAWN_nameIndef]製</li>
+	    <li>r_art_name(p=3)->[ANYPAWN_nameIndef]作「[PersonalCharacteristic]」</li>
+	    <li>r_art_name(p=3)->「[PersonalCharacteristic]」[ANYPAWN_nameIndef]製</li>
 	    <li>r_art_name(p=3)->[ANYPAWN_nameIndef][Trans][ConceptAny]</li>
 	    <li>r_art_name(p=3)->[maybe_a][ANYPAWN_nameIndef][Trans][Artwork]</li>
 	
@@ -49,7 +49,7 @@
 	    <li>maybe_adjective(p=5)-></li>
 	    <li>maybe_adjective(p=2)->[AdjectiveAngsty]</li>
 	    <li>maybe_adjective->[AdjectiveBadass]</li>
-	    <li>maybe_adjective->[Color]の</li>
+	    <li>maybe_adjective->[Color]色の</li>
     </NamerArtCommon.rulePack.rulesStrings>
 
     <!-- NamerArtWeapon -->

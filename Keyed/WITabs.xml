@@ -12,13 +12,13 @@
 
     <!-- Misc -->
     <AbandonSliderText>放棄 {{0}}x {0}</AbandonSliderText>
-    <ConfirmAbandonItemDialog>本当に {0}を放棄する気ですか？\n\n放棄されたアイテムは、修復できずに消滅するでしょう。</ConfirmAbandonItemDialog>
+    <ConfirmAbandonItemDialog>本当に {0}を放棄する気ですか？\n\n放棄されたアイテムは,修復できずに消滅するでしょう.</ConfirmAbandonItemDialog>
     <AbandonTip>放棄</AbandonTip>
     <BanishTip>追放</BanishTip>
     <AbandonSpecificCountTip>放棄 (個数指定)</AbandonSpecificCountTip>
     <AbandonAllTip>放棄 (全て)</AbandonAllTip>
-    <AbandonItemTipExtraText>放棄されたアイテムは、修復できずに消滅するでしょう。</AbandonItemTipExtraText>
-    <BanishTipWillDie>{0}は、おそらく死ぬでしょう。</BanishTipWillDie>
+    <AbandonItemTipExtraText>放棄されたアイテムは,修復できずに消滅するでしょう.</AbandonItemTipExtraText>
+    <BanishTipWillDie>{0}は,おそらく死ぬでしょう.</BanishTipWillDie>
 
     <!-- Caravan inspect -->
     <CaravanColonists>入植者</CaravanColonists>
@@ -28,7 +28,7 @@
     <CaravanPrisoners>囚人</CaravanPrisoners>
     <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
     <NoneCapable>能力なし</NoneCapable>
-    <GainingJoyBecauseCaravanNotMoving>キャラバン隊は動けません。</GainingJoyBecauseCaravanNotMoving>
+    <GainingJoyBecauseCaravanNotMoving>キャラバン隊は動けません.</GainingJoyBecauseCaravanNotMoving>
 
     <!-- Caravan gear -->
     <DragToRearrange>再調整するにはドラッグ</DragToRearrange>
@@ -37,7 +37,7 @@
     <AssignDrugPolicies>ドラッグ適用方針を割当る</AssignDrugPolicies>
 
     <!-- Caravan health -->
-    <BeCarriedIfSickTip>この人・動物は病気の時には、他のキャラバン隊員によって担がれていく必要があります。\n\n担がれている間は、キャラバン隊が移動中でも休息することができますが、隊の移動速度はゆっくりになります。</BeCarriedIfSickTip>
+    <BeCarriedIfSickTip>この人・動物は病気の時には,他のキャラバン隊員によって担がれていく必要があります.\n\n担がれている間は,キャラバン隊が移動中でも休息することができますが,隊の移動速度はゆっくりになります.</BeCarriedIfSickTip>
 
     <!-- Planet -->
     <PlanetSeed>シード値</PlanetSeed>

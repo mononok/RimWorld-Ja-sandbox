@@ -2,9 +2,9 @@
 <LanguageData>
 
   <Autosaving>自動保存中</Autosaving>
-<GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ、 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました。\n\nごらんのとおり、 あなたたちの 周囲に 船の残骸が ちらばっています。 さあ、 それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
+<GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ, 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました.\n\nごらんのとおり, あなたたちの 周囲に 船の残骸が ちらばっています. さあ, それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
 <Colony>あなたのコロニー</Colony>
-<ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます。</ChangeLanguageFromMainMenu>
+<ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
 <AndLower>と</AndLower>
 <DisabledLower>スキル無し</DisabledLower>
 
@@ -40,9 +40,9 @@
   <!-- Content generation-->
 
 <MeatLabel>{0} の肉</MeatLabel>
-  <MeatDesc>生の切り分けられた食用肉。生のままでも、調理して料理にしても、食べることができます。</MeatDesc>
-  <MeatInsectDesc>生の切り分けられた肉。調理しても、生のままでも食べられる。極めてマズイ</MeatInsectDesc>
-  <MeatHumanDesc>生の切り分けられた肉。調理しても、生のままでも食べられる。とは言っても、大抵の人間はこれを嫌う</MeatHumanDesc>
+  <MeatDesc>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</MeatDesc>
+  <MeatInsectDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.極めてマズイ</MeatInsectDesc>
+  <MeatHumanDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う</MeatHumanDesc>
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>

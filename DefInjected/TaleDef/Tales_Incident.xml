@@ -5,24 +5,24 @@
 	<CaravanAmbushedByHumanlike.label>caravan ambushed</CaravanAmbushedByHumanlike.label>
     <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
 	    <li>tale_noun->[PAWN_nameDef]キャラバン隊アンブッシュに遭う</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 縮こまる </li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 仲間を守るべく移動する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 攻撃するために移動する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 攻撃する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 大きな声叫んでいる</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 走っている</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 敵と対抗する</li>
-	    <li>image->[PAWN_nameFull]、[circumstance_group] 自分たちを守る</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 縮こまる </li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 仲間を守るべく移動する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 攻撃するために移動する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 攻撃する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 大きな声叫んでいる</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 走っている</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 敵と対抗する</li>
+	    <li>image->[PAWN_nameFull],[circumstance_group] 自分たちを守る</li>
 	    <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
 	    <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
 	    <li>circumstance_phrase->[PAWN_possessive]武器を振り回してるなか</li>
 	    <li>circumstance_phrase->激しい活動で汗をかきつつ</li>
 	    <li>desc_sentence->[TerrainFeature]の影から[Quantity_adjphrase]のかすかな人影が近寄ってくる</li>
-	    <li>desc_sentence->遠くに[Quantity_adjphrase]の[Enemy]達が認められる。</li>
-	    <li>desc_sentence->[Enemy]らによって[PAWN_nameDef]は実質的に囲まれた。</li>
-	    <li>desc_sentence->[PAWN_nameDef]と[Enemy]と対峙した。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が争いを恐れて逃げている。</li>
-	    <li>desc_sentence->遠くでは[PersonJob]が見張っている。</li>
+	    <li>desc_sentence->遠くに[Quantity_adjphrase]の[Enemy]達が認められる.</li>
+	    <li>desc_sentence->[Enemy]らによって[PAWN_nameDef]は実質的に囲まれた.</li>
+	    <li>desc_sentence->[PAWN_nameDef]と[Enemy]と対峙した.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が争いを恐れて逃げている.</li>
+	    <li>desc_sentence->遠くでは[PersonJob]が見張っている.</li>
     </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
 
 	<!-- CaravanAmbushedByManhunter -->
@@ -30,12 +30,12 @@
     <CaravanAmbushedByManhunter.rulePack.rulesStrings>
         <li>tale_noun->[PAWN_nameDef]キャラバン隊アンブッシュに遭う</li>
 
-        <li>image->[PAWN_nameFull]、[circumstance_group] 縮こまる </li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 仲間を守るべく移動する</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 攻撃するために移動する</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 攻撃する</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 大きな声叫んでいる</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 走っている</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 縮こまる </li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 仲間を守るべく移動する</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 攻撃するために移動する</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 攻撃する</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 大きな声叫んでいる</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 走っている</li>
 
         <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
         <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
@@ -43,11 +43,11 @@
         <li>circumstance_phrase->激しい活動で汗をかきつつ</li>
         <li>circumstance_phrase->[Gore]にまみれながら</li>
 
-        <li>desc_sentence->[TerrainFeature]の影から[Quantity_adjphrase]の動物が近寄ってくる。</li>
-        <li>desc_sentence->[Gore]が地面を覆いつくす。</li>
-        <li>desc_sentence->大量の[Gore]によって地面が踏みにじられた。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が争いを恐れて逃げている。</li>
-        <li>desc_sentence->遠くでは[PersonJob]が見張っている。</li>
+        <li>desc_sentence->[TerrainFeature]の影から[Quantity_adjphrase]の動物が近寄ってくる.</li>
+        <li>desc_sentence->[Gore]が地面を覆いつくす.</li>
+        <li>desc_sentence->大量の[Gore]によって地面が踏みにじられた.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]達が争いを恐れて逃げている.</li>
+        <li>desc_sentence->遠くでは[PersonJob]が見張っている.</li>
     </CaravanAmbushedByManhunter.rulePack.rulesStrings>
 
 	<!-- CaravanMeeting -->
@@ -55,25 +55,25 @@
     <CaravanMeeting.rulePack.rulesStrings>
         <li>tale_noun->[PAWN_nameDef]キャラバン隊は人と逢う</li>
 
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]と挨拶を交わす</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]の素性を調べている</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]に声をかけている</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]に向かって歩き出す</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 落ち着いて話している</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 大きな声叫んでいる</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]と[Game]を楽しんでいる</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]と挨拶を交わす</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]の素性を調べている</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]に声をかけている</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]に向かって歩き出す</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 落ち着いて話している</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 大きな声叫んでいる</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]と[Game]を楽しんでいる</li>
 
         <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべつつ</li>
         <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべつつ</li>
-        <li>circumstance_phrase->[VerbFriendly]のさなか</li>
+        <li>circumstance_phrase->[VerbFriendly]さなか</li>
         <li>circumstance_phrase->他の者も立ち会っている中</li>
 
-        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達は[event]。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達は[event]。</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達は[event].</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達は[event].</li>
         <li>desc_sentence->[Quantity_adjphrase]の[Animal]らはグループを取り囲む</li>
-        <li>desc_sentence->[TerrainFeature]に陽が沈む。</li>
+        <li>desc_sentence->[TerrainFeature]に陽が沈む.</li>
         <li>desc_sentence->[TerrainFeature]から陽が昇る</li>
-        <li>desc_sentence->遠くでは[PersonJob]が見張っている。</li>
+        <li>desc_sentence->遠くでは[PersonJob]が見張っている.</li>
 
         <li>event->パーティを催す</li>
         <li>event->共有の食料を食べている</li>
@@ -88,23 +88,23 @@
         <li>tale_noun->[PAWN_nameDef]キャラバン隊要請を受ける</li>
         <li>tale_noun->[PAWN_nameDef]キャラバン隊脅迫される</li>
 
-        <li>image->[PAWN_nameFull]、[circumstance_group] 縮こまる </li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 大きな声叫んでいる</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 考えている</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] 睨んでいる</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [PersonJob]らによって脅迫される</li>
-        <li>image->[PAWN_nameFull]、[circumstance_group] [Weapon]を振り回す</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 縮こまる </li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 大きな声叫んでいる</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 考えている</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] 睨んでいる</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [PersonJob]らによって脅迫される</li>
+        <li>image->[PAWN_nameFull],[circumstance_group] [Weapon]を振り回す</li>
 
         <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
         <li>circumstance_phrase->[AdjectiveAngsty]表情を浮かべつつ</li>
         <li>circumstance_phrase->他の者も立ち会っている中</li>
         <li>circumstance_phrase->[Enemy]らに脅迫されつつ</li>
 
-        <li>desc_sentence->[Enemy]らによって[PAWN_nameDef]は実質的に囲まれた。</li>
-        <li>desc_sentence->すぐそばの[Quantity_adjphrase]の[Enemy]達は、[action]。</li>
-        <li>desc_sentence->[TerrainFeature]に陽が沈む。</li>
+        <li>desc_sentence->[Enemy]らによって[PAWN_nameDef]は実質的に囲まれた.</li>
+        <li>desc_sentence->すぐそばの[Quantity_adjphrase]の[Enemy]達は,[action].</li>
+        <li>desc_sentence->[TerrainFeature]に陽が沈む.</li>
         <li>desc_sentence->[TerrainFeature]から陽が昇る</li>
-        <li>desc_sentence->遠くでは[PersonJob]が見張っている。</li>
+        <li>desc_sentence->遠くでは[PersonJob]が見張っている.</li>
 
         <li>action->武器などを研いでいる</li>
         <li>action->危険に気を配っている</li>
@@ -119,17 +119,17 @@
         <li>tale_noun->[PAWN_nameDef]達の[Community]の傍に隕石が落下</li>
         <li>tale_noun->[PAWN_nameDef]達の[Community]の傍に隕石衝突</li>
 
-        <li>image->[airborne_circumstance]、[AdjectiveLarge]岩石が[Color]炎の尾を引いている</li>
-        <li>image->[airborne_circumstance]、明るい輝きを観測する</li>
-        <li>image->[airborne_circumstance]、[AdjectiveLarge]火の玉が落ちる</li>
+        <li>image->[airborne_circumstance],[AdjectiveLarge]岩石が[Color]色炎の尾を引いている</li>
+        <li>image->[airborne_circumstance],明るい輝きを観測する</li>
+        <li>image->[airborne_circumstance],[AdjectiveLarge]火の玉が落ちる</li>
 
         <li>airborne_circumstance->赤々と光る物が空を横切り</li>
         <li>airborne_circumstance->灰の雲の中を地面に向けて落下しつつ</li>
         <li>airborne_circumstance->目減りした岩石やデブリが飛び散るなか</li>
 
         <li>image->[ground_circumstance] [AdjectiveLarge]一枚岩</li>
-        <li>image->[ground_circumstance] 焼け焦げた[Color][AdjectiveLarge]岩石</li>
-        <li>image->[ground_circumstance] [Color]柱状の岩</li>
+        <li>image->[ground_circumstance] 焼け焦げた[Color]色の[AdjectiveLarge]岩石</li>
+        <li>image->[ground_circumstance] [Color]色の柱状岩</li>
 
         <li>ground_circumstance->灰と煙に包まれた</li>
         <li>ground_circumstance->熱による煙の中の</li>
@@ -137,20 +137,20 @@
         <li>ground_circumstance->一部分が地面にめりこんだ</li>
         <li>ground_circumstance->クレータの中に横たわる</li>
 
-        <li>desc_sentence->[PAWN_nameDef]はびっくりして見ている。</li>
-        <li>desc_sentence->[PAWN_nameDef]は興奮しながら見ている。</li>
-        <li>desc_sentence->[PAWN_nameDef]は衝撃をうけつつ見ている。</li>
-        <li>desc_sentence->近くの[TerrainFeature]から[Quantity_adjphrase]の人影が近づいてくる。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の人影が道具と装備の準備をしている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している。る。</li>
-        <li>desc_sentence->周囲の状況が悪く物も言えない。</li>
+        <li>desc_sentence->[PAWN_nameDef]はびっくりして見ている.</li>
+        <li>desc_sentence->[PAWN_nameDef]は興奮しながら見ている.</li>
+        <li>desc_sentence->[PAWN_nameDef]は衝撃をうけつつ見ている.</li>
+        <li>desc_sentence->近くの[TerrainFeature]から[Quantity_adjphrase]の人影が近づいてくる.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の人影が道具と装備の準備をしている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している.る.</li>
+        <li>desc_sentence->周囲の状況が悪く物も言えない.</li>
     </MeteoriteImpact.rulePack.rulesStrings>
 
 	<!-- ToxicFallout -->
 	<ToxicFallout.label>toxic fallout</ToxicFallout.label>
     <ToxicFallout.rulePack.rulesStrings>
         <li>tale_noun->[PAWN_nameDef]達の[Community]に死の灰</li>
-        <li>tale_noun->[PAWN_nameDef]達の[Community]、近郊の大気が毒性化</li>
+        <li>tale_noun->[PAWN_nameDef]達の[Community],近郊の大気が毒性化</li>
 
         <li>image->[circumstance_group] 不気味な空になる</li>
         <li>image->[circumstance_group] 空気が濁る</li>
@@ -163,13 +163,13 @@
         <li>circumstance_phrase->骨を暗示させる模様がならび</li>
         <li>circumstance_phrase->毒性化が止まるのを待ちつつ</li>
 
-        <li>desc_sentence->[PAWN_possessive]身体はあり得ない角度に捻じれて[PAWN_nameDef]は地面に横たわる。</li>
-        <li>desc_sentence->[AdjectiveAngsty]表情でじっと見つめながら[PAWN_nameDef]は近くの[TerrainFeature]の影に隠れる。</li>
-        <li>desc_sentence->[PAWN_nameDef]はショックを受けているように見える。</li>
-        <li>desc_sentence->[PAWN_possessive]顔に汗をかきながらも[PAWN_nameDef]は落ち着いて休んでいる。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が地面に横たわる。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が散らばっている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している。</li>
+        <li>desc_sentence->[PAWN_possessive]身体はあり得ない角度に捻じれて[PAWN_nameDef]は地面に横たわる.</li>
+        <li>desc_sentence->[AdjectiveAngsty]表情でじっと見つめながら[PAWN_nameDef]は近くの[TerrainFeature]の影に隠れる.</li>
+        <li>desc_sentence->[PAWN_nameDef]はショックを受けているように見える.</li>
+        <li>desc_sentence->[PAWN_possessive]顔に汗をかきながらも[PAWN_nameDef]は落ち着いて休んでいる.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が地面に横たわる.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が散らばっている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している.</li>
     </ToxicFallout.rulePack.rulesStrings>
 
 	<!-- VolcanicWinter -->
@@ -186,14 +186,14 @@
         <li>circumstance_phrase->空から細い光の矢がかろうじて照らし</li>
         <li>circumstance_phrase->凍てつく青い光が照らすなか</li>
 
-        <li>desc_sentence->[PAWN_nameDef]は火の傍に集まる。</li>
-        <li>desc_sentence->暖を取るために[PAWN_nameDef]は[Quantity_adjphrase]の[apparel]を着る。</li>
-        <li>desc_sentence->厳しい試練に疲れ果て[PAWN_nameDef]は傍にへたり込む。</li>
-        <li>desc_sentence->[AdjectiveAngsty]表情でじっと見つめながら[PAWN_nameDef]は近くの[TerrainFeature]の影に隠れる。</li>
-        <li>desc_sentence->景色のあちらこちらで[Quantity_adjphrase]の[Animal]らが餓死している。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、そこかしこで震えている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が散らばっている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している。</li>
+        <li>desc_sentence->[PAWN_nameDef]は火の傍に集まる.</li>
+        <li>desc_sentence->暖を取るために[PAWN_nameDef]は[Quantity_adjphrase]の[apparel]を着る.</li>
+        <li>desc_sentence->厳しい試練に疲れ果て[PAWN_nameDef]は傍にへたり込む.</li>
+        <li>desc_sentence->[AdjectiveAngsty]表情でじっと見つめながら[PAWN_nameDef]は近くの[TerrainFeature]の影に隠れる.</li>
+        <li>desc_sentence->景色のあちらこちらで[Quantity_adjphrase]の[Animal]らが餓死している.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,そこかしこで震えている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らの屍骸が散らばっている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らは右往左往している.</li>
     </VolcanicWinter.rulePack.rulesStrings>
 
 	<!-- Aurora -->
@@ -205,21 +205,21 @@
 
         <li>image->[circumstance_phrase] 空が[Color]や[Color]の光で彩られる</li>
         <li>image->[circumstance_phrase] 素晴らしい[Color]光線のパターンが発せられる</li>
-        <li>image->[circumstance_phrase] [Color]のネットワークが光る</li>
+        <li>image->[circumstance_phrase] [Color]色のネットワークが光る</li>
         <li>image->[circumstance_phrase] [Color]光の円弧がさっと舞い降りる</li>
-        <li>image->[circumstance_phrase] [Color]ライトが躍る</li>
+        <li>image->[circumstance_phrase] [Color]色ライトが躍る</li>
 
         <li>circumstance_phrase->[TerrainFeature]の上</li>
         <li>circumstance_phrase->[TerrainFeature]を照らす</li>
         <li>circumstance_phrase->[Community]に上に浮かび上がり</li>
         <li>circumstance_phrase->[TerrainFeature]と[TerrainFeature]を橋渡すように</li>
 
-        <li>desc_sentence->その下では、[AdjectiveFriendly]な表情で[PAWN_nameDef]が[Game]を楽しんでいる。</li>
-        <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が下から見上げている。</li>
-        <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]の近くで空を眺めている。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが穏やかにうろついている。</li>
-        <li>desc_sentence->ここには[Enemy]は見当たらない。</li>
+        <li>desc_sentence->その下では,[AdjectiveFriendly]な表情で[PAWN_nameDef]が[Game]を楽しんでいる.</li>
+        <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が下から見上げている.</li>
+        <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]の近くで空を眺めている.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが穏やかにうろついている.</li>
+        <li>desc_sentence->ここには[Enemy]は見当たらない.</li>
     </Aurora.rulePack.rulesStrings>
 
 	<!-- Flashstorm -->
@@ -243,12 +243,12 @@
         <li>circumstance_phrase->[TerrainFeature]をほぼ包み込み</li>
         <li>circumstance_phrase->[Quantity_adjphrase]の[TerrainFeature]をほぼ包み込み</li>
 
-        <li>desc_sentence->[PAWN_nameDef]恐怖の念を隠さずに見守っている。</li>
-        <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている。</li>
+        <li>desc_sentence->[PAWN_nameDef]恐怖の念を隠さずに見守っている.</li>
+        <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている.</li>
         <li>desc_sentence->[PAWN_nameDef]は防衛対策を調整している</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している。</li>
-        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出している。</li>
-        <li>desc_sentence->すべての野生生物はここを離れた。</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している.</li>
+        <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出している.</li>
+        <li>desc_sentence->すべての野生生物はここを離れた.</li>
     </Flashstorm.rulePack.rulesStrings>
 
     <!-- Raid -->
@@ -269,18 +269,18 @@
 	    <li>circumstance_phrase->勝鬨をあげる</li>
 	    <li>circumstance_phrase->[Weapon]を振り回す</li>
 	    <li>circumstance_phrase->[Gore]まみれの</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は抵抗部隊を編成する。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は[Weapon]を振るう</li>
-	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は仁王立ちしている。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる。</li>
-	    <li>desc_sentence->地面が[Gore]で覆われる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が、ここから逃げ出す。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出す。</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は抵抗部隊を編成する.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は[Weapon]を振るう</li>
+	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は仁王立ちしている.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる.</li>
+	    <li>desc_sentence->地面が[Gore]で覆われる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が,ここから逃げ出す.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出す.</li>
 	    <li>defender_circumstance->勝ち誇ったような叫び声をあげ</li>
-	    <li>defender_circumstance->[Color]に顔を紅潮させ</li>
+	    <li>defender_circumstance->[Color]色に顔を紅潮させ</li>
 	    <li>defender_circumstance->反抗的な態度で拳を突き上げ</li>
 	    <li>defender_circumstance->[PAWN_possessive]筋肉をたぎらせ</li>
     </Raid.rulePack.rulesStrings>
@@ -288,32 +288,32 @@
     <!-- Infestation -->
     <Infestation.label>infestation</Infestation.label>
     <Infestation.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]、昆虫が蔓延</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community],昆虫が蔓延</li>
 	    <li>image->[circumstance_phrase] 鞘翅目の群れ</li>
 	    <li>image->[circumstance_phrase] [Quantity_adjphrase]のメガスパイダー</li>
-	    <li>image->[circumstance_phrase] 圧倒的な[Color]昆虫の群れ</li>
+	    <li>image->[circumstance_phrase] 圧倒的な[Color]色昆虫の群れ</li>
 	    <li>image->[circumstance_phrase] 黒い点々が集まった濃密な霧状のなにか</li>
 	    <li>circumstance_phrase->[TerrainFeature]を越え進んでくる</li>
 	    <li>circumstance_phrase->[Community]を完全に取り囲む</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[PersonJob]らを攻撃する</li>
 	    <li>circumstance_phrase->地面から湧き出る</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Animal]らを屠る</li>
-	    <li>desc_sentence->[PAWN_nameDef]は抵抗部隊を編成する。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[Weapon]を振るう。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる。</li>
-	    <li>desc_sentence->地面が[Gore]で覆われる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が、ここから逃げ出す。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出す。</li>
-	    <li>desc_sentence->すべての野生生物はここを離れた。</li>
+	    <li>desc_sentence->[PAWN_nameDef]は抵抗部隊を編成する.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[Weapon]を振るう.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる.</li>
+	    <li>desc_sentence->地面が[Gore]で覆われる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が,ここから逃げ出す.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出す.</li>
+	    <li>desc_sentence->すべての野生生物はここを離れた.</li>
     </Infestation.rulePack.rulesStrings>
 
     <!-- ManhunterPack -->
 	<ManhunterPack.label>manhunter pack</ManhunterPack.label>
     <ManhunterPack.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]、野生動物に襲われる</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community],野生動物に襲われる</li>
 	    <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
 	    <li>image->[circumstance_phrase] [Animal]らの群れ</li>
 	    <li>image->[circumstance_phrase] [Quantity_adjphrase]の[Animal]</li>
@@ -329,23 +329,23 @@
 	    <li>hate_emotion->憎悪</li>
 	    <li>hate_emotion->怒り</li>
 	    <li>hate_emotion->憤怒</li>
-	    <li>desc_sentence->[PAWN_nameDef]は抵抗部隊を編成する。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[Weapon]を振るう。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる。</li>
-	    <li>desc_sentence->地面が[Gore]で覆われる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]らが、ここから逃げ出す。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出す。</li>
+	    <li>desc_sentence->[PAWN_nameDef]は抵抗部隊を編成する.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[Weapon]を振るう.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる.</li>
+	    <li>desc_sentence->地面が[Gore]で覆われる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]らが,ここから逃げ出す.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出す.</li>
     </ManhunterPack.rulePack.rulesStrings>
 
     <!-- ShipPartCrash -->
     <ShipPartCrash.label>ship part crash</ShipPartCrash.label>
     <ShipPartCrash.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]近郊、[mechanoid]コロニーが軟着陸</li>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]、[mechanoid]ベース着陸</li>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]近郊、損傷した[mechanoid]船の一部落ちる</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community]近郊,[mechanoid]コロニーが軟着陸</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community],[mechanoid]ベース着陸</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community]近郊,損傷した[mechanoid]船の一部落ちる</li>
 	    <li>image->[circumstance_phrase] [mechanoid]の群れ</li>
 	    <li>image->[circumstance_phrase] [mechanoid]軍隊</li>
 	    <li>image->[circumstance_phrase] [Quantity_adjphrase]の[mechanoid]達</li>
@@ -358,19 +358,19 @@
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[Animal]らを屠る</li>
 	    <li>circumstance_phrase->[Gore]まみれの</li>
 	    <li>circumstance_phrase->凹んで火花が散っている</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は抵抗部隊を編成する。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は[Weapon]を振るう。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する。</li>
-	    <li>desc_sentence->[defender_circumstance]、[PAWN_nameDef]は仁王立ちしている。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる。</li>
-	    <li>desc_sentence->地面が[Gore]で覆われる。</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は抵抗部隊を編成する.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は[Weapon]を振るう.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は傷を負って地面に横たわる.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は[PAWN_possessive][Weapon]で復讐する.</li>
+	    <li>desc_sentence->[defender_circumstance],[PAWN_nameDef]は仁王立ちしている.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveBadass]表情を浮かべる.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[AdjectiveAngsty]表情を浮かべる.</li>
+	    <li>desc_sentence->地面が[Gore]で覆われる.</li>
 	    <li>desc_sentence->地面がスクラップの鉄くずで覆われる</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]らが、ここから逃げ出す。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出す。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]らが,ここから逃げ出す.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出す.</li>
 	    <li>defender_circumstance->勝ち誇ったような叫び声をあげ</li>
-	    <li>defender_circumstance->[Color]に顔を紅潮させ</li>
+	    <li>defender_circumstance->[Color]色に顔を紅潮させ</li>
 	    <li>defender_circumstance->反抗的な態度で拳を突き上げ</li>
 	    <li>defender_circumstance->[PAWN_possessive]筋肉をたぎらせ</li>
     </ShipPartCrash.rulePack.rulesStrings>
@@ -378,7 +378,7 @@
     <!-- Eclipse -->
     <Eclipse.label>eclipse</Eclipse.label>
     <Eclipse.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]、日食を観測</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community],日食を観測</li>
 	
 	    <li>image->[circumstance_phrase]異常に真っ暗な空</li>
 	    <li>image->[circumstance_phrase]薄暗い空</li>
@@ -388,25 +388,25 @@
 	    <li>circumstance_phrase->[TerrainFeature]近くを薄明りが包み</li>
 	    <li>circumstance_phrase->[Quantity_adjphrase]の[TerrainFeature]近くを薄明りが包み</li>
 	    <li>circumstance_phrase->星も見え</li>
-	    <li>desc_sentence->その下では、[AdjectiveFriendly]な表情で[PAWN_nameDef]が[Game]を楽しんでいる。</li>
-	    <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が下から見上げている。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]の近くで空を眺めている。</li>
-	    <li>desc_sentence->[Community]の見物人たちは穏やかに空を見ている。</li>
-	    <li>desc_sentence->視界には[Enemy]一人いない。</li>
+	    <li>desc_sentence->その下では,[AdjectiveFriendly]な表情で[PAWN_nameDef]が[Game]を楽しんでいる.</li>
+	    <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が下から見上げている.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]の近くで空を眺めている.</li>
+	    <li>desc_sentence->[Community]の見物人たちは穏やかに空を見ている.</li>
+	    <li>desc_sentence->視界には[Enemy]一人いない.</li>
     </Eclipse.rulePack.rulesStrings>
 
     <!-- JourneyOffer -->
     <JourneyOffer.label>journey offer</JourneyOffer.label>
     <JourneyOffer.rulePack.rulesStrings>
-	    <li>tale_noun->[PAWN_nameDef]、旧友から一通のメッセージを受け取る</li>
-	    <li>tale_noun->[PAWN_nameDef]の[Community]、チャンス到来</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][delivery_method]によって運ばれてきた手紙を開ける</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][delivery_method]によって運ばれてきたデータクリスタルを使う</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][delivery_method]によって運ばれてきた巻物を紐解く</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][transmission_source]送られた電送文を受信する</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][transmission_source]送られたメッセージを受け取る</li>
-	    <li>image->[circumstance_group]、[PAWN_nameDef][transmission_source]送られた通信メッセージを受け取る</li>
+	    <li>tale_noun->[PAWN_nameDef],旧友から一通のメッセージを受け取る</li>
+	    <li>tale_noun->[PAWN_nameDef]の[Community],チャンス到来</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][delivery_method]によって運ばれてきた手紙を開ける</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][delivery_method]によって運ばれてきたデータクリスタルを使う</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][delivery_method]によって運ばれてきた巻物を紐解く</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][transmission_source]送られた電送文を受信する</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][transmission_source]送られたメッセージを受け取る</li>
+	    <li>image->[circumstance_group],[PAWN_nameDef][transmission_source]送られた通信メッセージを受け取る</li>
 	    <li>delivery_method->[Animal]</li>
 	    <li>delivery_method->[PersonJob]</li>
 	    <li>delivery_method->[Quantity_adjphrase]の[Animal]ら</li>
@@ -420,12 +420,12 @@
 	    <li>circumstance_phrase->農作業をしているとき</li>
 	    <li>circumstance_phrase->[Animal]がうろうろと傍を通り過ぎているとき</li>
 	    <li>circumstance_phrase->[Game]をしているとき</li>
-	    <li>desc_sentence->気づかないうちに[Quantity_adjphrase]の[Animal]らは、そばをうろうろと通り過ぎていった。</li>
-	    <li>desc_sentence->[pawn_pronoun]読み終えると、[pawn_pronoun]は[friendlyverb]を始める。</li>
-	    <li>desc_sentence->奇怪な[PersonJob]が雲から見張っている。</li>
-	    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]のそばに腰を下ろす。</li>
-	    <li>desc_sentence->[Community]がはるか遠くに見える。</li>
-	    <li>desc_sentence->宇宙船がはるか遠くに見える。</li>
+	    <li>desc_sentence->気づかないうちに[Quantity_adjphrase]の[Animal]らは,そばをうろうろと通り過ぎていった.</li>
+	    <li>desc_sentence->[pawn_pronoun]読み終えると,[pawn_pronoun]は[friendlyverb]を始める.</li>
+	    <li>desc_sentence->奇怪な[PersonJob]が雲から見張っている.</li>
+	    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]のそばに腰を下ろす.</li>
+	    <li>desc_sentence->[Community]がはるか遠くに見える.</li>
+	    <li>desc_sentence->宇宙船がはるか遠くに見える.</li>
     </JourneyOffer.rulePack.rulesStrings>
 
 	<!-- Tornado -->
@@ -449,12 +449,12 @@
 	    <li>circumstance_phrase->[TerrainFeature]を見えなくさせ</li>
 	    <li>circumstance_phrase->[TerrainFeature]を包み込み</li>
 	
-	    <li>desc_sentence->[PAWN_nameDef]恐怖の念を隠さずに見守っている。</li>
-	    <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている。</li>
+	    <li>desc_sentence->[PAWN_nameDef]恐怖の念を隠さずに見守っている.</li>
+	    <li>desc_sentence->畏敬の念の表情を浮かべた[PAWN_nameDef]が見守っている.</li>
 	    <li>desc_sentence->[PAWN_nameDef]は防衛対策を調整している</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出している。</li>
-	    <li>desc_sentence->すべての野生生物はここを離れた。</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出している.</li>
+	    <li>desc_sentence->すべての野生生物はここを離れた.</li>
     </Tornado.rulePack.rulesStrings>
 
     <!-- TornadoFromItem -->
@@ -478,14 +478,14 @@
 	    <li>circumstance_phrase->[TerrainFeature]を見えなくさせ</li>
 	    <li>circumstance_phrase->[TerrainFeature]を包み込み</li>
 
-	    <li>desc_sentence->[COLONIST_nameDef]恐怖の念を隠さずに見つめている。</li>
-	    <li>desc_sentence(p=0.5)->[COLONIST_nameDef]は畏怖の表情を浮かべ見つめている。</li>
-	    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef]は畏怖の表情を浮かべ見つめている。</li>
-	    <li>desc_sentence->[COLONIST_nameDef]は防御の算段をつけている。</li>
-	    <li>desc_sentence->[ATTACKER_nameDef]はほくそ笑んでいる。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している。</li>
-	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが、ここから逃げ出している。</li>
-	    <li>desc_sentence->すべての野生生物はここを離れた。</li>
+	    <li>desc_sentence->[COLONIST_nameDef]恐怖の念を隠さずに見つめている.</li>
+	    <li>desc_sentence(p=0.5)->[COLONIST_nameDef]は畏怖の表情を浮かべ見つめている.</li>
+	    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef]は畏怖の表情を浮かべ見つめている.</li>
+	    <li>desc_sentence->[COLONIST_nameDef]は防御の算段をつけている.</li>
+	    <li>desc_sentence->[ATTACKER_nameDef]はほくそ笑んでいる.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[PersonJob]達が大急ぎで準備している.</li>
+	    <li>desc_sentence->[Quantity_adjphrase]の[Animal]らが,ここから逃げ出している.</li>
+	    <li>desc_sentence->すべての野生生物はここを離れた.</li>
     </TornadoFromItem.rulePack.rulesStrings>
 
 </LanguageData>

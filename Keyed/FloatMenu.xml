@@ -51,7 +51,7 @@
     <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
     <NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
     <NoWort>麦汁が必要</NoWort>
-    <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は、より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+    <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は,より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
     <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
     <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
     <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
@@ -83,8 +83,8 @@
     <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
-<NoPrisonerBed>周囲と壁で遮断され。適温な、囚人用ベッドがない</NoPrisonerBed>
-<NoNonPrisonerBed>周囲と壁で遮断され、適温な、入植者用ベッドがない</NoNonPrisonerBed>
+<NoPrisonerBed>周囲と壁で遮断され.適温な,囚人用ベッドがない</NoPrisonerBed>
+<NoNonPrisonerBed>周囲と壁で遮断され,適温な,入植者用ベッドがない</NoNonPrisonerBed>
   <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
 <Reserved>他の誰かが 使用している</Reserved>
 <ReservedBy>{0}が 使用している</ReservedBy>
@@ -127,8 +127,8 @@
     <LoadIntoCaravanCount>積載量 {0} x{{0}}</LoadIntoCaravanCount>
     <OverweightLower>過積載</OverweightLower>
 
-    <CannotCarryToExit>{0}を運んで、エリアを離れることができない</CannotCarryToExit>
-    <CarryToExit>{0}を運んで、エリアを離れる</CarryToExit>
+    <CannotCarryToExit>{0}を運んで,エリアを離れることができない</CannotCarryToExit>
+    <CarryToExit>{0}を運んで,エリアを離れる</CarryToExit>
     <CarryToExitAndCapture>{0}を捕獲して此処から離れる</CarryToExitAndCapture>
 
     <Strip>{0}を 剥ぐ</Strip>
@@ -175,7 +175,7 @@
     <CannotPrioritizeNotAssignedToWorkType>優先できない ({0}の割り当て無し)</CannotPrioritizeNotAssignedToWorkType>
     <NotAssigned>割り当て無し</NotAssigned>
 
-    <CannotPrioritizeResearch>優先できない （研究は、優先順位をつけられない）</CannotPrioritizeResearch>
+    <CannotPrioritizeResearch>優先できない （研究は,優先順位をつけられない）</CannotPrioritizeResearch>
 
     <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
     <CannotPrioritizeCellForbidden>優先できない (禁止事項)</CannotPrioritizeCellForbidden>
@@ -202,7 +202,7 @@
     <UnforbidAllItems>全アイテムの接触禁止を解除</UnforbidAllItems>
 
     <!-- Transport pods -->
-    <LandInExistingMap>ズームインして、{0}の着陸地点を選択する</LandInExistingMap>
+    <LandInExistingMap>ズームインして,{0}の着陸地点を選択する</LandInExistingMap>
     <TransportPodsContentsWillBeLost>内容物を失うだろう</TransportPodsContentsWillBeLost>
     <FormCaravanHere>此処でキャラバン隊を編成する</FormCaravanHere>
     <GiveToCaravan>{0}に与える</GiveToCaravan>

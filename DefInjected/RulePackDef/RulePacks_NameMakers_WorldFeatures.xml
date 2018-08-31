@@ -3,14 +3,14 @@
 
     <!-- WorldFeatureNamerCommon -->
     <WorldFeatureNamerCommon.rulePack.rulesStrings>
-	    <li>r_name->[metaprefix] [standardname]</li>
-	    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+	    <li>r_name->[metaprefix][standardname]</li>
+	    <li>r_name(p=0.05)->[storyname][terrain_word]</li>
 
-	    <li>standardname->[narrative_name] [terrain_word]</li>
+	    <li>standardname->[narrative_name][terrain_word]</li>
 
 	    <li>metaprefix(p=10)-></li>
 	    <li>metaprefix->[Direction]</li>
-	    <li>metaprefix->[basic_adjective]</li>
+	    <li>metaprefix->[basic_adjective]・</li>
 
 	    <li>basic_adjective->グレイト</li>
 	    <li>basic_adjective->グレイター</li>
@@ -21,14 +21,14 @@
 
 	    <li>narrative_name(p=12)->[WordTribal]</li>
 	    <li>narrative_name(p=12)->[PlaceOutlander]</li>
-	    <li>narrative_name->[Color]色[NaturalObject]</li>
+	    <li>narrative_name->[Color]の[NaturalObject]</li>
 	    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
 	    <li>narrative_name->[Animal]</li>
 	    <li>narrative_name->[Color]</li>
-	    <li>narrative_name->[Color]色[Animal]</li>
+	    <li>narrative_name->[Color]の[Animal]</li>
 	    <li>narrative_name->[AdjectiveNatural][Animal]</li>
 	    <li>narrative_name->[Animal][BodyPart]</li>
-	    <li>narrative_name->[Color][Animal]</li>
+	    <li>narrative_name->[Color] [Animal]</li>
 	    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
 	    <li>narrative_name->[Animal] [BodyPart]</li>
 
@@ -44,100 +44,100 @@
 	    <li>subject->[WordTribal]</li>
 	    <li>subject->[PlaceOutlander]</li>
 
-	    <li>story_result->folly</li>
-	    <li>story_result->vice</li>
-	    <li>story_result->lunacy</li>
-	    <li>story_result->mistake</li>
-	    <li>story_result->fault</li>
-	    <li>story_result->misstep</li>
-	    <li>story_result->delusion</li>
-	    <li>story_result->joy</li>
-	    <li>story_result->delight</li>
-	    <li>story_result->wonder</li>
-	    <li>story_result->pride</li>
-	    <li>story_result->jewel</li>
-	    <li>story_result->prize</li>
-	    <li>story_result->bounty</li>
-	    <li>story_result->honor</li>
-	    <li>story_result->jackpot</li>
-	    <li>story_result->trophy</li>
-	    <li>story_result->conceit</li>
-	    <li>story_result->arrogance</li>
-	    <li>story_result->stand</li>
-	    <li>story_result->loss</li>
-	    <li>story_result->debt</li>
-	    <li>story_result->collapse</li>
-	    <li>story_result->destruction</li>
-	    <li>story_result->cataclysm</li>
-	    <li>story_result->ruin</li>
-	    <li>story_result->ruination</li>
-	    <li>story_result->undoing</li>
-	    <li>story_result->downfall</li>
-	    <li>story_result->end</li>
-	    <li>story_result->retirement</li>
-	    <li>story_result->achievement</li>
-	    <li>story_result->finale</li>
-	    <li>story_result->bluff</li>
-	    <li>story_result->ruse</li>
-	    <li>story_result->deception</li>
-	    <li>story_result->facade</li>
-	    <li>story_result->fraud</li>
+	    <li>story_result->フォリー</li>
+	    <li>story_result->ヴァイス</li>
+	    <li>story_result->ルナシー</li>
+	    <li>story_result->ミステイク</li>
+	    <li>story_result->フォウルト</li>
+	    <li>story_result->ミスステップ</li>
+	    <li>story_result->デルージョン</li>
+	    <li>story_result->ジョイ</li>
+	    <li>story_result->デライト</li>
+	    <li>story_result->ワンダー</li>
+	    <li>story_result->プライド</li>
+	    <li>story_result->ジュエル</li>
+	    <li>story_result->プライズ</li>
+	    <li>story_result->バウンティ</li>
+	    <li>story_result->オーナー</li>
+	    <li>story_result->ジャックポット</li>
+	    <li>story_result->トロフィ</li>
+	    <li>story_result->コンセイト</li>
+	    <li>story_result->アロガンス</li>
+	    <li>story_result->スタンド</li>
+	    <li>story_result->ロス</li>
+	    <li>story_result->デビュ</li>
+	    <li>story_result->コラプス</li>
+	    <li>story_result->デストラクション</li>
+	    <li>story_result->カタクリズム</li>
+	    <li>story_result->ルイン</li>
+	    <li>story_result->ルイネィション</li>
+	    <li>story_result->アンドゥイング</li>
+	    <li>story_result->ダウンフォール</li>
+	    <li>story_result->エンド</li>
+	    <li>story_result->リタイアメント</li>
+	    <li>story_result->アチーブメント</li>
+	    <li>story_result->フィナーレ</li>
+	    <li>story_result->ブラフ</li>
+	    <li>story_result->ルース</li>
+	    <li>story_result->デセプション</li>
+	    <li>story_result->ファセード</li>
+	    <li>story_result->フラウド</li>
     </WorldFeatureNamerCommon.rulePack.rulesStrings>
 
     <!-- NamerMountainRange -->
     <NamerMountainRange.rulePack.rulesStrings>
-	    <li>standardname(p=0.2)->mount [narrative_name]</li>
+	    <li>standardname(p=0.2)->[narrative_name]山</li>
 
-	    <li>terrain_word(p=5)->mountains</li>
-	    <li>terrain_word(p=2)->range</li>
-	    <li>terrain_word->peaks</li>
-	    <li>terrain_word->hills</li>
-	    <li>terrain_word->cliffs</li>
+	    <li>terrain_word(p=5)->山地</li>
+	    <li>terrain_word(p=2)->山脈</li>
+	    <li>terrain_word->峰</li>
+	    <li>terrain_word->崖</li>
+	    <li>terrain_word->嶺</li>
     </NamerMountainRange.rulePack.rulesStrings>
 
     <!-- NamerArchipelago -->
     <NamerArchipelago.rulePack.rulesStrings>
-	    <li>standardname(p=0.2)->isle [narrative_name]</li>
+	    <li>standardname(p=0.2)->[narrative_name]小島</li>
 
-	    <li>terrain_word(p=4)->islands</li>
-	    <li>terrain_word(p=3)->isles</li>
-	    <li>terrain_word(p=3)->archipelago</li>
-	    <li>terrain_word->reef</li>
-	    <li>terrain_word->atoll</li>
-	    <li>terrain_word->rocks</li>
-	    <li>terrain_word->islets</li>
-	    <li>terrain_word->points</li>
-	    <li>terrain_word->chain</li>
+	    <li>terrain_word(p=4)->島</li>
+	    <li>terrain_word(p=3)->小島</li>
+	    <li>terrain_word(p=3)->群島</li>
+	    <li>terrain_word->岩礁</li>
+	    <li>terrain_word->環礁</li>
+	    <li>terrain_word->岩礁</li>
+	    <li>terrain_word->小島</li>
+	    <li>terrain_word->礁</li>
+	    <li>terrain_word->諸島</li>
     </NamerArchipelago.rulePack.rulesStrings>
 
     <!-- NamerIsland -->
     <NamerIsland.rulePack.rulesStrings>
-	    <li>mainname(p=0.2)->isle [narrative_name]</li>
+	    <li>mainname(p=0.2)->[narrative_name]小島</li>
 
-	    <li>terrain_word(p=4)->island</li>
-	    <li>terrain_word(p=2)->isle</li>
-	    <li>terrain_word->reef</li>
-	    <li>terrain_word->atoll</li>
-	    <li>terrain_word->rock</li>
-	    <li>terrain_word->islet</li>
-	    <li>terrain_word->point</li>
+	    <li>terrain_word(p=4)->島</li>
+	    <li>terrain_word(p=2)->小島</li>
+	    <li>terrain_word->環礁</li>
+	    <li>terrain_word->岩礁</li>
+	    <li>terrain_word->岩礁</li>
+	    <li>terrain_word->小島</li>
+	    <li>terrain_word->礁</li>
     </NamerIsland.rulePack.rulesStrings>
 
     <!-- NamerPeninsula -->
     <NamerPeninsula.rulePack.rulesStrings>
-	    <li>standardname(p=0.2)->point [narrative_name]</li>
-	    <li>standardname(p=0.2)->cape [narrative_name]</li>
+	    <li>standardname(p=0.2)->[narrative_name]半島</li>
+	    <li>standardname(p=0.2)->[narrative_name]岬</li>
 
-	    <li>terrain_word(p=5)->peninsula</li>
-	    <li>terrain_word(p=2)->point</li>
-	    <li>terrain_word->cape</li>
-	    <li>terrain_word->headland</li>
-	    <li>terrain_word->horn</li>
+	    <li>terrain_word(p=5)->半島</li>
+	    <li>terrain_word(p=2)->岬</li>
+	    <li>terrain_word->岬</li>
+	    <li>terrain_word->岬</li>
+	    <li>terrain_word->岬</li>
     </NamerPeninsula.rulePack.rulesStrings>
 
     <!-- NamerBay -->
     <NamerBay.rulePack.rulesStrings>
-	    <li>standardname(p=0.2)->gulf of [narrative_name]</li>
+	    <li>standardname(p=0.2)->[narrative_name]湾</li>
 
 	    <li>terrain_word(p=6)->bay</li>
 	    <li>terrain_word->bight</li>

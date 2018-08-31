@@ -2,14 +2,14 @@
 <LanguageData>
 
   <!--===================== Concepts taught through the learning readout, when opportunities arise ===================-->
-  <ReformCaravan.label>キャラバン隊の再送</ReformCaravan.label>
-  <ReformCaravan.helpText>接触した後は,「World view」の,RE-FORM CARAVAN コマンドから,簡単にキャラバン隊を再送することができます.</ReformCaravan.helpText>
+  <ReformCaravan.label>キャラバン隊の再編成</ReformCaravan.label>
+  <ReformCaravan.helpText>今すぐキャラバン隊を再出発させたければ,ワールドマップの,「キャラバン隊を再編」を選んで,キャラバン隊を送り出すことができます.</ReformCaravan.helpText>
 
   <Rescuing.label>救出する</Rescuing.label>
-  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません. 彼らは手当てが済んだら,ただ出て行くのみでしょう.彼らを確実に仲間にしたければ,「捕獲」を選択してから勧誘します.</Rescuing.helpText>
+  <Rescuing.helpText>怪我した人を助けるには,健康な入植者を選択し,次に怪我人を右クリックして「救助」を選びます.\n\nもし入植者ではない人を救助しても,彼らが必ずしもあなたのコロニーに加わるとは限りません. 彼らは手当てが済んだら,ただ出て行くのみでしょう.彼らを確実に仲間にしたければ,「捕獲」を選択して捕らえてから勧誘します.</Rescuing.helpText>
 
   <Capturing.label>捕獲する</Capturing.label>
-  <Capturing.helpText>敵は行動不能になりました.あなたは敵を捕虜にすることができます！\n\n捕虜にするには,入植者を選択し,次に捕虜にしたい行動不能になった敵を右クリックして 「捕獲」を選びます.\n\n囚人用に設定された,特別なベッドも必要となります.</Capturing.helpText>
+  <Capturing.helpText>敵は行動不能になりました.あなたは敵を捕虜にすることができます！\n\n捕虜にするには,入植者を選択し,次に捕虜にしたい行動不能になった敵を右クリックして 「捕獲」を選びます.\n\n捕獲には囚人用に設定された,特別なベッドも必要となります.</Capturing.helpText>
 
   <ShieldBelts.label>パーソナルシールド</ShieldBelts.label>
   <ShieldBelts.helpText>パーソナルシールドは,遠距離武器での攻撃を内からも外からも無効にします.近接攻撃には全く影響はありません.\n\nパーソナルシールドを持った敵と対峙するには,目標にたくさんの火力を集中するか,近接攻撃をしかけるかのどちらかです.</ShieldBelts.helpText>0
@@ -26,10 +26,10 @@
   <AnimalsDontAttackDoors.label>動物達はドアを壊さない</AnimalsDontAttackDoors.label>
   <AnimalsDontAttackDoors.helpText>人を襲う動物達は,一般にドアや,稼働していないタレットを攻撃しません.\n\n壁の裏側や,建物の内側に入り込めば,彼らから逃げられますが,彼らもあなたが出てくるのを待っています.</AnimalsDontAttackDoors.helpText>
 
-  <BillsTab.label>作業テーブルをつかう</BillsTab.label>
+  <BillsTab.label>作業テーブルを使う</BillsTab.label>
   <BillsTab.helpText>入植者達を机上の作業に就かせるには,テーブルを選択して「加工」タブを開きます.そして,料理を作らせたり,物を加工させたり,肉を捌いたりさせることができます.</BillsTab.helpText>
 
-  <OpeningComms.label>通信機をつかう</OpeningComms.label>
+  <OpeningComms.label>通信機を使う</OpeningComms.label>
   <OpeningComms.helpText>通信機を使って通信させるには,入植者をクリックした後に,通信機を右クリックします.</OpeningComms.helpText>
 
   <DrugAddiction.label>ドラッグ中毒</DrugAddiction.label>

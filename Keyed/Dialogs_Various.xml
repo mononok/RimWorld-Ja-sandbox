@@ -294,8 +294,8 @@
     <CaravanMassUsageTooltip>運ぶアイテムと,身につけているアイテムの両方を含んでいます.最大積載量より少ないと移動速度にボーナスが与えられます.</CaravanMassUsageTooltip>
     <CaravanVisibilityTip>目立ちやすさは,キャラバン隊の気付かれ易さを表します.\n\n敵に見つかってしまう確率への掛け率を表しています.\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません.\n\n「目立ちやすさ」の基本値は,キャラバン隊の全ての動物と人間の体格の和をもとにしています.</CaravanVisibilityTip>
     <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
-    <DaysWorthOfFoodInfoRot>腐敗 in {0}</DaysWorthOfFoodInfoRot>
-    <InfiniteDaysWorthOfFoodInfo>期限なし</InfiniteDaysWorthOfFoodInfo>
+    <DaysWorthOfFoodInfoRot>腐敗まで{0}</DaysWorthOfFoodInfoRot>
+    <InfiniteDaysWorthOfFoodInfo>無期限</InfiniteDaysWorthOfFoodInfo>
     <DaysWorthOfFoodTooltip>少なくとも,一人の人間か動物の食料が尽きてしまうまでの,おおよその日数です.種が違えば食性も変わり,他よりも先に食料が尽きる可能性もあります.この値は,道順を選択した後では,より正確に計算されます.\n\n影響する因子:\n - 運ぶ食料種別と数量\n - キャラバン隊員とその食性\n - 食料調達率\n - 牧草の有無\n - 食料の消費期限\n - 高温による腐りやすさ.</DaysWorthOfFoodTooltip>
     <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(最初のウェイポイントまでを考慮にいれる)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
     <DaysWorthOfFoodWarningDialog>キャラバン隊は,{0}日分の食料しか持っていません.すぐに空腹になるでしょう.</DaysWorthOfFoodWarningDialog>

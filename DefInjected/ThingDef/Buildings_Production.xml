@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <CraftingSpot.label>作業場</CraftingSpot.label>
+    <CraftingSpot.label>工芸 作業場</CraftingSpot.label>
     <CraftingSpot.description>ナイフや弓をつくる場所です.道具類が無いので,ここで作成すると作成速度が遅くなります.</CraftingSpot.description>
-    <Blueprint_CraftingSpot.label>作業場(設計)</Blueprint_CraftingSpot.label>
-    <Frame_CraftingSpot.label>作業場(施工)</Frame_CraftingSpot.label>
+    <Blueprint_CraftingSpot.label>工芸 作業場(設計)</Blueprint_CraftingSpot.label>
+    <Frame_CraftingSpot.label>工芸 作業場(施工)</Frame_CraftingSpot.label>
     <Frame_CraftingSpot.description>ナイフや弓をつくる場所です.</Frame_CraftingSpot.description>
 
     <ButcherSpot.label>屠殺場</ButcherSpot.label>
@@ -31,10 +31,10 @@
     <Frame_HandTailoringBench.description>このミシン付き作業台では,衣服を作成できます.電動ミシン付き作業台の,50%程しか作成速度はありません.</Frame_HandTailoringBench.description>
 
     <ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
-    <ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の50%のに作成速度が落ちます.</ElectricTailoringBench.description>
+    <ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の50%に作成速度が落ちます.</ElectricTailoringBench.description>
     <Blueprint_ElectricTailoringBench.label>電動ミシン台(設計)</Blueprint_ElectricTailoringBench.label>
     <Frame_ElectricTailoringBench.label>電動ミシン台(施工)</Frame_ElectricTailoringBench.label>
-    <Frame_ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の40%のに作成速度が落ちます.</Frame_ElectricTailoringBench.description>
+    <Frame_ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の50%に作成速度が落ちます.</Frame_ElectricTailoringBench.description>
 
     <FueledSmithy.label>工作台</FueledSmithy.label>
     <FueledSmithy.description>シンプルな,燃料に薪を使った,メカニカルではない武器やツールを作る工作台です.</FueledSmithy.description>

@@ -59,41 +59,41 @@
 
   <!--==================== Traps ======================== -->
 
-    <TrapSpike.label>デッドフォール</TrapSpike.label>
-    <TrapSpike.description>吊された重しを,繊細な引き金によって留めた罠です.犠牲者となる者が引き金に触れた時,彼の頭上から重しが降ってきます.</TrapSpike.description>
-    <Blueprint_TrapSpike.label>デッドフォール(設計)</Blueprint_TrapSpike.label>
-    <Frame_TrapSpike.label>デッドフォール(施工)</Frame_TrapSpike.label>
-    <Frame_TrapSpike.description>吊された重しを,繊細な引き金によって留めた罠です.犠牲者となる者が引き金に触れた時,彼の頭上から重しが降ってきます.</Frame_TrapSpike.description>
+    <TrapSpike.label>スパイクトラップ</TrapSpike.label>
+    <TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
+    <Blueprint_TrapSpike.label>スパイクトラップ(設計)</Blueprint_TrapSpike.label>
+    <Frame_TrapSpike.label>スパイクトラップ(施工)</Frame_TrapSpike.label>
+    <Frame_TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapSpike.description>
 
     <TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
-    <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.動物達は落ち着いている時,これに気づきます.</TrapIED_HighExplosive.description>
+    <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
     <Blueprint_TrapIED_HighExplosive.label>IED trap(設計)</Blueprint_TrapIED_HighExplosive.label>
     <Frame_TrapIED_HighExplosive.label>IED trap(施工)</Frame_TrapIED_HighExplosive.label>
-    <Frame_TrapIED_HighExplosive.description>自家製の引き金をつけた迫撃砲弾.引き金に触れるた時,炸裂します.即席で作ったトリガーなのでランダムな遅延があり,素早い敵には逃げる余裕を与えてしまうかもしれません.</Frame_TrapIED_HighExplosive.description>
+    <Frame_TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_HighExplosive.description>
 
     <TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
-    <TrapIED_Incendiary.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.動物達は落ち着いている時,これに気づきます.</TrapIED_Incendiary.description>
+    <TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
     <Blueprint_TrapIED_Incendiary.label>IED 焼夷トラップ(設計)</Blueprint_TrapIED_Incendiary.label>
     <Frame_TrapIED_Incendiary.label>IED 焼夷トラップ(施工)</Frame_TrapIED_Incendiary.label>
-    <Frame_TrapIED_Incendiary.description>自家製の引き金をつけた焼夷弾.犠牲者となる者が引き金に触れた時,炸裂します.</Frame_TrapIED_Incendiary.description>
+    <Frame_TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_Incendiary.description>
 
     <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
-    <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.動物達は落ち着いている時,これに気づきます.</TrapIED_EMP.description>
+    <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
     <Blueprint_TrapIED_EMP.label>IED EMPトラップ(設計)</Blueprint_TrapIED_EMP.label>
     <Frame_TrapIED_EMP.label>IED EMPトラップ(施工)</Frame_TrapIED_EMP.label>
-    <Frame_TrapIED_EMP.description>自家製の引き金をつけたEMP弾.炸裂すると数秒間,機械生命体を麻痺させることができます.EMP爆発には影響を受けない者によって引き金が引かれることもあります.</Frame_TrapIED_EMP.description>
+    <Frame_TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_EMP.description>
 
     <TrapIED_Firefoam.label>IED 消化剤トラップ</TrapIED_Firefoam.label>
-    <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.動物達は落ち着いている時,これに気づきます.</TrapIED_Firefoam.description>
+    <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
     <Blueprint_TrapIED_Firefoam.label>IED 消化剤トラップ(設計)</Blueprint_TrapIED_Firefoam.label>
     <Frame_TrapIED_Firefoam.label>IED 消化剤トラップ(施工)</Frame_TrapIED_Firefoam.label>
-    <Frame_TrapIED_Firefoam.description>誰かが引き金に触れた時,トラップは爆発して,辺りに消化剤をまき散らします.</Frame_TrapIED_Firefoam.description>
+    <Frame_TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_Firefoam.description>
 
     <TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ</TrapIED_AntigrainWarhead.label>
-    <TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.動物達は落ち着いている時,これに気づきます.</TrapIED_AntigrainWarhead.description>
+    <TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_AntigrainWarhead.description>
     <Blueprint_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(設計)</Blueprint_TrapIED_AntigrainWarhead.label>
     <Frame_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(施工)</Frame_TrapIED_AntigrainWarhead.label>
-    <Frame_TrapIED_AntigrainWarhead.description>自家製の引き金をつけた小さな弾頭.トリガーに触れた時,大規模爆発と火災を発生させます.</Frame_TrapIED_AntigrainWarhead.description>
+    <Frame_TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_AntigrainWarhead.description>
 
 <!--
     <Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>

@@ -4,44 +4,44 @@
     <!-- Alcohol_Beer.xml -->
     <AlcoholHigh.label>飲酒</AlcoholHigh.label>
     <AlcoholHigh.labelNoun>飲酒</AlcoholHigh.labelNoun>
-    <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
-    <AlcoholHigh.stages.1.label>ほろ酔い</AlcoholHigh.stages.1.label>
-    <AlcoholHigh.stages.2.label>酩酊</AlcoholHigh.stages.2.label>
-    <AlcoholHigh.stages.3.label>泥酔</AlcoholHigh.stages.3.label>
-    <AlcoholHigh.stages.4.label>意識喪失</AlcoholHigh.stages.4.label>
+    <AlcoholHigh.stages.warm.label>warm</AlcoholHigh.stages.warm.label>
+    <AlcoholHigh.stages.tipsy.label>ほろ酔い</AlcoholHigh.stages.tipsy.label>
+    <AlcoholHigh.stages.drunk.label>酩酊</AlcoholHigh.stages.drunk.label>
+    <AlcoholHigh.stages.hammered.label>泥酔</AlcoholHigh.stages.hammered.label>
+    <AlcoholHigh.stages.blackout.label>意識喪失</AlcoholHigh.stages.blackout.label>
     <Hangover.label>二日酔い</Hangover.label>
     <Hangover.labelNoun>二日酔い</Hangover.labelNoun>
-    <Hangover.stages.0.label>軽度</Hangover.stages.0.label>
-    <Hangover.stages.1.label>重度</Hangover.stages.1.label>
-    <Hangover.stages.2.label>酩酊</Hangover.stages.2.label>
+    <Hangover.stages.slight.label>軽度</Hangover.stages.slight.label>
+    <Hangover.stages.strong.label>重度</Hangover.stages.strong.label>
+    <Hangover.stages.pounding.label>酩酊</Hangover.stages.pounding.label>
 
     <AlcoholTolerance.label>アルコール耐性</AlcoholTolerance.label>
-    <AlcoholTolerance.stages.0.label>小</AlcoholTolerance.stages.0.label>
-    <AlcoholTolerance.stages.1.label>小</AlcoholTolerance.stages.1.label>
-    <AlcoholTolerance.stages.2.label>大</AlcoholTolerance.stages.2.label>
-    <AlcoholTolerance.stages.3.label>極大</AlcoholTolerance.stages.3.label>
+    <AlcoholTolerance.stages.small-0.label>小</AlcoholTolerance.stages.small-0.label>
+    <AlcoholTolerance.stages.small-1.label>小</AlcoholTolerance.stages.small-1.label>
+    <AlcoholTolerance.stages.large.label>大</AlcoholTolerance.stages.large.label>
+    <AlcoholTolerance.stages.massive.label>極大</AlcoholTolerance.stages.massive.label>
     <AlcoholAddiction.label>アルコール中毒</AlcoholAddiction.label>
-    <AlcoholAddiction.stages.1.label>禁断症状</AlcoholAddiction.stages.1.label>
+    <AlcoholAddiction.stages.withdrawal.label>禁断症状</AlcoholAddiction.stages.withdrawal.label>
     <!-- WakeUp.xml -->
     <WakeUpHigh.label>ウェイクアップでハイになる</WakeUpHigh.label>
     <WakeUpHigh.labelNoun>ウェイクアップハイ</WakeUpHigh.labelNoun>
     <WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
-    <WakeUpTolerance.stages.0.label>小</WakeUpTolerance.stages.0.label>
-    <WakeUpTolerance.stages.1.label>小</WakeUpTolerance.stages.1.label>
-    <WakeUpTolerance.stages.2.label>大</WakeUpTolerance.stages.2.label>
-    <WakeUpTolerance.stages.3.label>極大</WakeUpTolerance.stages.3.label>
+    <WakeUpTolerance.stages.small-0.label>小</WakeUpTolerance.stages.small-0.label>
+    <WakeUpTolerance.stages.small-1.label>小</WakeUpTolerance.stages.small-1.label>
+    <WakeUpTolerance.stages.large.label>大</WakeUpTolerance.stages.large.label>
+    <WakeUpTolerance.stages.massive.label>極大</WakeUpTolerance.stages.massive.label>
     <WakeUpAddiction.label>ウェイクアップ中毒</WakeUpAddiction.label>
-    <WakeUpAddiction.stages.1.label>禁断症状</WakeUpAddiction.stages.1.label>
+    <WakeUpAddiction.stages.withdrawal.label>禁断症状</WakeUpAddiction.stages.withdrawal.label>
     <!-- Smokeleaf.xml -->
     <SmokeleafHigh.label>スモークリーフに酔っている</SmokeleafHigh.label>
     <SmokeleafHigh.labelNoun>スモークリーフに酔っている</SmokeleafHigh.labelNoun>
     <SmokeleafTolerance.label>スモークリーフ耐性</SmokeleafTolerance.label>
-    <SmokeleafTolerance.stages.0.label>小</SmokeleafTolerance.stages.0.label>
-    <SmokeleafTolerance.stages.1.label>小</SmokeleafTolerance.stages.1.label>
-    <SmokeleafTolerance.stages.2.label>大</SmokeleafTolerance.stages.2.label>
-    <SmokeleafTolerance.stages.3.label>極大</SmokeleafTolerance.stages.3.label>
+    <SmokeleafTolerance.stages.small-0.label>小</SmokeleafTolerance.stages.small-0.label>
+    <SmokeleafTolerance.stages.small-1.label>小</SmokeleafTolerance.stages.small-1.label>
+    <SmokeleafTolerance.stages.large.label>大</SmokeleafTolerance.stages.large.label>
+    <SmokeleafTolerance.stages.massive.label>極大</SmokeleafTolerance.stages.massive.label>
     <SmokeleafAddiction.label>スモークリーフ依存</SmokeleafAddiction.label>
-    <SmokeleafAddiction.stages.1.label>禁断症状</SmokeleafAddiction.stages.1.label>
+    <SmokeleafAddiction.stages.withdrawal.label>禁断症状</SmokeleafAddiction.stages.withdrawal.label>
     <!-- Psychite_Flake.xml -->
     <FlakeHigh.label>フレークでハイになる</FlakeHigh.label>
     <FlakeHigh.labelNoun>フレークハイ</FlakeHigh.labelNoun>
@@ -51,36 +51,36 @@
     <YayoHigh.label>イェイョでハイになる</YayoHigh.label>
     <YayoHigh.labelNoun>イェイョハイ</YayoHigh.labelNoun>
     <PsychiteTolerance.label>サイカイト耐性</PsychiteTolerance.label>
-      <PsychiteTolerance.stages.0.label>小</PsychiteTolerance.stages.0.label>
-      <PsychiteTolerance.stages.1.label>小</PsychiteTolerance.stages.1.label>
-  <PsychiteTolerance.stages.2.label>大</PsychiteTolerance.stages.2.label>
-  <PsychiteTolerance.stages.3.label>極大</PsychiteTolerance.stages.3.label>
+    <PsychiteTolerance.stages.small-0.label>小</PsychiteTolerance.stages.small-0.label>
+    <PsychiteTolerance.stages.small-1.label>小</PsychiteTolerance.stages.small-1.label>
+    <PsychiteTolerance.stages.large.label>大</PsychiteTolerance.stages.large.label>
+    <PsychiteTolerance.stages.massive.label>極大</PsychiteTolerance.stages.massive.label>
     <PsychiteAddiction.label>サイカイト中毒</PsychiteAddiction.label>
-    <PsychiteAddiction.stages.1.label>禁断症状</PsychiteAddiction.stages.1.label>
+    <PsychiteAddiction.stages.withdrawal.label>禁断症状</PsychiteAddiction.stages.withdrawal.label>
     <!-- GoJuice.xml -->
     <GoJuiceHigh.label>ゴージュースでハイになる</GoJuiceHigh.label>
     <GoJuiceHigh.labelNoun>ゴージュースハイ</GoJuiceHigh.labelNoun>
     <GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
-    <GoJuiceTolerance.stages.0.label>小</GoJuiceTolerance.stages.0.label>
-    <GoJuiceTolerance.stages.1.label>小</GoJuiceTolerance.stages.1.label>
-  <GoJuiceTolerance.stages.2.label>大</GoJuiceTolerance.stages.2.label>
-  <GoJuiceTolerance.stages.3.label>極大</GoJuiceTolerance.stages.3.label>
+    <GoJuiceTolerance.stages.small-0.label>小</GoJuiceTolerance.stages.small-0.label>
+    <GoJuiceTolerance.stages.small-1.label>小</GoJuiceTolerance.stages.small-1.label>
+    <GoJuiceTolerance.stages.large.label>大</GoJuiceTolerance.stages.large.label>
+    <GoJuiceTolerance.stages.massive.label>極大</GoJuiceTolerance.stages.massive.label>
     <GoJuiceAddiction.label>ゴージュース中毒</GoJuiceAddiction.label>
-    <GoJuiceAddiction.stages.1.label>禁断症状</GoJuiceAddiction.stages.1.label>
+    <GoJuiceAddiction.stages.withdrawal.label>禁断症状</GoJuiceAddiction.stages.withdrawal.label>
     <!-- Luciferium.xml -->
     <LuciferiumHigh.label>ルシフェリウムが効く</LuciferiumHigh.label>
     <LuciferiumAddiction.label>ルシフェリウム中毒</LuciferiumAddiction.label>
-     <LuciferiumAddiction.stages.1.label>未対処</LuciferiumAddiction.stages.1.label>
+    <LuciferiumAddiction.stages.unmet.label>未対処</LuciferiumAddiction.stages.unmet.label>
     <!-- MalariBlock.xml -->
     <PenoxycylineHigh.label>ペノキシリンが効く</PenoxycylineHigh.label>
 
     <AmbrosiaHigh.label>アンブロージアが効く</AmbrosiaHigh.label>
     <AmbrosiaTolerance.label>アンブロージア耐性</AmbrosiaTolerance.label>
-    <AmbrosiaTolerance.stages.0.label>小</AmbrosiaTolerance.stages.0.label>
-    <AmbrosiaTolerance.stages.1.label>小</AmbrosiaTolerance.stages.1.label>
-    <AmbrosiaTolerance.stages.2.label>大</AmbrosiaTolerance.stages.2.label>
-    <AmbrosiaTolerance.stages.3.label>極大</AmbrosiaTolerance.stages.3.label>
+    <AmbrosiaTolerance.stages.small-0.label>小</AmbrosiaTolerance.stages.small-0.label>
+    <AmbrosiaTolerance.stages.small-1.label>小</AmbrosiaTolerance.stages.small-1.label>
+    <AmbrosiaTolerance.stages.large.label>大</AmbrosiaTolerance.stages.large.label>
+    <AmbrosiaTolerance.stages.massive.label>極大</AmbrosiaTolerance.stages.massive.label>
     <AmbrosiaAddiction.label>アンブロージア中毒</AmbrosiaAddiction.label>
-     <AmbrosiaAddiction.stages.1.label>禁断症状</AmbrosiaAddiction.stages.1.label>
+    <AmbrosiaAddiction.stages.withdrawal.label>禁断症状</AmbrosiaAddiction.stages.withdrawal.label>
 
 </LanguageData>

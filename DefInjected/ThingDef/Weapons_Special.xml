@@ -3,11 +3,14 @@
 
     <OrbitalTargeterBombardment.label>軌道爆撃照準器</OrbitalTargeterBombardment.label>
     <OrbitalTargeterBombardment.description>軌道爆撃システムには必要な古代の誘導装置です.この装置は目標と指し示し,その座標を衛星通信装置に送信すると,その目標エリアに物理衝撃的な爆撃を行います.この装置は非認証ユーザーからの命令も受け付けるように再プログラムされていたのですが,一度使用するとネットワークは不正使用を検知し,それを永久に切断するでしょう.</OrbitalTargeterBombardment.description>
+    <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>軌道爆撃照準器</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
 
     <OrbitalTargeterPowerBeam.label>軌道ビーム照準器</OrbitalTargeterPowerBeam.label>
     <OrbitalTargeterPowerBeam.description>エネルギー収集衛星の為の誘導装置です.一度目標を捕捉すると,古代の衛星は,強力な電磁エネルギー柱を目標に向かって照射し始めます.このエネルギーは,巨大な吸収パラボラで安全に集めることが出来ます.吸収パラボラを持っていなければ,敵に狙いを定めることもでき,その場合エネルギー柱は,そのエリアを数千度の炎で焼くでしょう.衛星が安全でない目標への照射を検知すると,衛星自信をシャットダウンさせ永久に照準器を無効化します.</OrbitalTargeterPowerBeam.description>
+    <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>軌道ビーム照準器</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
 
     <TornadoGenerator.label>竜巻発生装置</TornadoGenerator.label>
     <TornadoGenerator.description>気象操作衛星ネットワーク用の,古代の制御装置です.この機器は安全装置がバイパスされていることが確実です;大規模な大気の乱気流を起こす能力があり,場所を選んで竜巻を発生できます.気象ネットワークへの,このような無許可の侵入は探知され,使用すると機器はロックされます.しかし竜巻のエネルギーは通常どおりに発揮されるでしょう.</TornadoGenerator.description>
+    <TornadoGenerator.verbs.Verb_Spawn.label>竜巻発生装置</TornadoGenerator.verbs.Verb_Spawn.label>
 
 </LanguageData>

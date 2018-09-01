@@ -3,10 +3,10 @@
 
     <!-- Nonlocal injuries -->
     <Malnutrition.label>栄養失調</Malnutrition.label>
-	<Malnutrition.stages.0.label>ささいな</Malnutrition.stages.0.label>
-	<Malnutrition.stages.1.label>軽度</Malnutrition.stages.1.label>
-	<Malnutrition.stages.2.label>中度</Malnutrition.stages.2.label>
-	<Malnutrition.stages.3.label>重度</Malnutrition.stages.3.label>
-	<Malnutrition.stages.4.label>末期</Malnutrition.stages.4.label>
+	<Malnutrition.stages.trivial.label>ささいな</Malnutrition.stages.trivial.label>
+	<Malnutrition.stages.minor.label>軽度</Malnutrition.stages.minor.label>
+	<Malnutrition.stages.moderate.label>中度</Malnutrition.stages.moderate.label>
+	<Malnutrition.stages.severe.label>重度</Malnutrition.stages.severe.label>
+	<Malnutrition.stages.extreme.label>末期</Malnutrition.stages.extreme.label>
 
 </LanguageData>

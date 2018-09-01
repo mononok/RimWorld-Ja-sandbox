@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <AteLavishMeal.stages.0.label>贅沢な料理を食べた</AteLavishMeal.stages.0.label>
-    <AteLavishMeal.stages.0.description>驚くような贅沢な食事を食べた.身も心も満たされた.</AteLavishMeal.stages.0.description>
-  
-    <AteFineMeal.stages.0.label>おいしい食事を食べた</AteFineMeal.stages.0.label>
-    <AteFineMeal.stages.0.description>本当においしい食事を食べた.おいしかった！.</AteFineMeal.stages.0.description>
-  
-    <AteAwfulMeal.stages.0.label>ひどい食事だった</AteAwfulMeal.stages.0.label>
-    <AteAwfulMeal.stages.0.description>胸が悪くなるような,味も素っ気もない食事を食べなければならなかった.生きるためとはいえ,誰もこんな,まずそうな食べ物を食べたいとは思わない.</AteAwfulMeal.stages.0.description>
-  
-    <AteRawFood.stages.0.label>生肉を食べた</AteRawFood.stages.0.label>
-    <AteRawFood.stages.0.description>生肉を食べなければならなかった.この手の食べ物は口にするまえに調理するべきなんだ.私たちは動物じゃない.</AteRawFood.stages.0.description>
+    <AteLavishMeal.stages.ate_lavish_meal.label>贅沢な料理を食べた</AteLavishMeal.stages.ate_lavish_meal.label>
+    <AteLavishMeal.stages.ate_lavish_meal.description>驚くような贅沢な食事を食べた.身も心も満たされた.</AteLavishMeal.stages.ate_lavish_meal.description>
 
-    <AteKibble.stages.0.label>ペットフードを食べた</AteKibble.stages.0.label>
-    <AteKibble.stages.0.description>ペットフードを食べるしかなかった.人として,こんなものを食べるべきじゃないと思う.</AteKibble.stages.0.description>
-  
-    <AteCorpse.stages.0.label>屍肉を食べた</AteCorpse.stages.0.label>
-    <AteCorpse.stages.0.description>屍肉を,調理せず,切り分けもせず,そのままかぶりつかざるをえなかった.</AteCorpse.stages.0.description>
+    <AteFineMeal.stages.ate_fine_meal.label>おいしい食事を食べた</AteFineMeal.stages.ate_fine_meal.label>
+    <AteFineMeal.stages.ate_fine_meal.description>本当においしい食事を食べた.おいしかった！.</AteFineMeal.stages.ate_fine_meal.description>
+
+    <AteAwfulMeal.stages.ate_awful_meal.label>ひどい食事だった</AteAwfulMeal.stages.ate_awful_meal.label>
+    <AteAwfulMeal.stages.ate_awful_meal.description>胸が悪くなるような,味も素っ気もない食事を食べなければならなかった.生きるためとはいえ,誰もこんな,まずそうな食べ物を食べたいとは思わない.</AteAwfulMeal.stages.ate_awful_meal.description>
+
+    <AteRawFood.stages.ate_raw_food.label>生肉を食べた</AteRawFood.stages.ate_raw_food.label>
+    <AteRawFood.stages.ate_raw_food.description>生肉を食べなければならなかった.この手の食べ物は口にするまえに調理するべきなんだ.私たちは動物じゃない.</AteRawFood.stages.ate_raw_food.description>
+
+    <AteKibble.stages.ate_kibble.label>ペットフードを食べた</AteKibble.stages.ate_kibble.label>
+    <AteKibble.stages.ate_kibble.description>ペットフードを食べるしかなかった.人として,こんなものを食べるべきじゃないと思う.</AteKibble.stages.ate_kibble.description>
+
+    <AteCorpse.stages.ate_corpse.label>屍肉を食べた</AteCorpse.stages.ate_corpse.label>
+    <AteCorpse.stages.ate_corpse.description>屍肉を,調理せず,切り分けもせず,そのままかぶりつかざるをえなかった.</AteCorpse.stages.ate_corpse.description>
 
 	<!--=========== Special nature thoughts ============-->
-  
-    <AteHumanlikeMeatDirect.stages.0.label>生の人肉を食べた</AteHumanlikeMeatDirect.stages.0.label>
-    <AteHumanlikeMeatDirect.stages.0.description>私は人肉を食べた,生で,動物のように…,これは悪夢だ.</AteHumanlikeMeatDirect.stages.0.description>
 
-    <AteHumanlikeMeatDirectCannibal.stages.0.label>好物の生の人肉を食べた</AteHumanlikeMeatDirectCannibal.stages.0.label>
-    <AteHumanlikeMeatDirectCannibal.stages.0.description>私は人肉を食べた,生で,動物のように.それは,水っぽかった.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+    <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>生の人肉を食べた</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+    <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>私は人肉を食べた,生で,動物のように…,これは悪夢だ.</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
 
-    <AteHumanlikeMeatAsIngredient.stages.0.label>調理された人肉を食べた</AteHumanlikeMeatAsIngredient.stages.0.label>
-    <AteHumanlikeMeatAsIngredient.stages.0.description>私は調理された人肉を食べた.なんて恐ろしい.</AteHumanlikeMeatAsIngredient.stages.0.description>
+    <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>好物の生の人肉を食べた</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+    <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>私は人肉を食べた,生で,動物のように.それは,水っぽかった.</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
 
-    <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>好物の調理された人肉を食べた</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
-    <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>私は調理された人肉を食べた.ソラマメと良いシャンティが有れば,もっと素晴らしかっただろう.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+    <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>調理された人肉を食べた</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+    <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>私は調理された人肉を食べた.なんて恐ろしい.</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
 
-    <AteInsectMeatDirect.stages.0.label>虫をそのまま食べた</AteInsectMeatDirect.stages.0.label>
-    <AteInsectMeatDirect.stages.0.description>灰色でスライムっぽい虫をたべた.ああ,食べられたが,こんな胸が悪くなるようなものを二度と食べたくはない.</AteInsectMeatDirect.stages.0.description>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>好物の調理された人肉を食べた</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+    <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>私は調理された人肉を食べた.ソラマメと良いシャンティが有れば,もっと素晴らしかっただろう.</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
 
-    <AteInsectMeatAsIngredient.stages.0.label>調理された虫を食べた</AteInsectMeatAsIngredient.stages.0.label>
-    <AteInsectMeatAsIngredient.stages.0.description>灰色でスライムっぽい虫を調理したものを食べた.味は,ある程度,調味料がごまかしてくれたが,虫腺か嚢か,私にはわからないものが入っていた.</AteInsectMeatAsIngredient.stages.0.description>
+    <AteInsectMeatDirect.stages.ate_insect_meat.label>虫をそのまま食べた</AteInsectMeatDirect.stages.ate_insect_meat.label>
+    <AteInsectMeatDirect.stages.ate_insect_meat.description>灰色でスライムっぽい虫をたべた.ああ,食べられたが,こんな胸が悪くなるようなものを二度と食べたくはない.</AteInsectMeatDirect.stages.ate_insect_meat.description>
+
+    <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>調理された虫を食べた</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+    <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>灰色でスライムっぽい虫を調理したものを食べた.味は,ある程度,調味料がごまかしてくれたが,虫腺か嚢か,私にはわからないものが入っていた.</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
 
     <!--================== Rotten state thoughts =================-->
-  
-    <AteRottenFood.stages.0.label>腐肉を食べた</AteRottenFood.stages.0.label>
-    <AteRottenFood.stages.0.description>ひどく胸が悪くなるような腐ったものを食べた.それは口のなかで溶けたが,ひとつも良い事はない.</AteRottenFood.stages.0.description>
+
+    <AteRottenFood.stages.ate_rotten_food.label>腐肉を食べた</AteRottenFood.stages.ate_rotten_food.label>
+    <AteRottenFood.stages.ate_rotten_food.description>ひどく胸が悪くなるような腐ったものを食べた.それは口のなかで溶けたが,ひとつも良い事はない.</AteRottenFood.stages.ate_rotten_food.description>
 
 </LanguageData>

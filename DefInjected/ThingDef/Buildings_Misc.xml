@@ -23,7 +23,7 @@
     <FirefoamPopper.label>泡消火器</FirefoamPopper.label>
     <Blueprint_Install_FirefoamPopper.label>泡消火器(移動先)</Blueprint_Install_FirefoamPopper.label>
     <FirefoamPopper.description>火災を検知した時,この安全装置が起動し泡消火剤を,機器を中心にして円状にまき散らします.手動でも操作できます.</FirefoamPopper.description>
-    <FirefoamPopper.comps.1.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.1.useLabel>
+    <FirefoamPopper.comps.CompUsable.useLabel>泡消火剤を作動させる</FirefoamPopper.comps.CompUsable.useLabel>
     <Blueprint_FirefoamPopper.label>泡消火器(設計)</Blueprint_FirefoamPopper.label>
     <Frame_FirefoamPopper.label>泡消火器(施工)</Frame_FirefoamPopper.label>
     <Frame_FirefoamPopper.description>火災を検知した時,この安全装置が起動し泡消火剤を,機器を中心にして円状にまき散らします.手動でも操作できます.</Frame_FirefoamPopper.description>

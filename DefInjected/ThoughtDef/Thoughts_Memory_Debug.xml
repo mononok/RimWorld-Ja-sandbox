@@ -1,22 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<rep>
-		<path>DebugBad.stages[0].label</path>
-		<trans>debug bad thought</trans>
-	</rep>
-	<rep>
-		<path>DebugBad.stages[0].description</path>
-        <trans>Test thought for debugging.</trans>
-	</rep>
+    <DebugBad.stages.debug_bad_thought.label>debug bad thought</DebugBad.stages.debug_bad_thought.label>
+    <DebugBad.stages.debug_bad_thought.description>Test thought for debugging.</DebugBad.stages.debug_bad_thought.description>
 
-	<rep>
-		<path>DebugGood.stages[0].label</path>
-		<trans>debug good thought</trans>
-	</rep>
-	<rep>
-		<path>DebugGood.stages[0].description</path>
-        <trans>Test thought for debugging.</trans>
-	</rep>
+    <DebugGood.stages.debug_good_thought.label>debug good thought</DebugGood.stages.debug_good_thought.label>
+    <DebugGood.stages.debug_good_thought.description>Test thought for debugging.</DebugGood.stages.debug_good_thought.description>
 
 </LanguageData>

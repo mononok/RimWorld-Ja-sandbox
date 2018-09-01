@@ -7,6 +7,11 @@
     <Meat_Deer.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Deer.description>
     <Corpse_Deer.label>シカの死骸</Corpse_Deer.label>
     <Corpse_Deer.description>シカの死骸</Corpse_Deer.description>
+    <Deer.race.meatLabel>鹿肉</Deer.race.meatLabel>
+    <Deer.tools.left_hoof.label>左蹄</Deer.tools.left_hoof.label>
+    <Deer.tools.right_hoof.label>右蹄</Deer.tools.right_hoof.label>
+    <Deer.tools.teeth.label>歯</Deer.tools.teeth.label>
+    <Deer.tools.head.label>頭部</Deer.tools.head.label>
 
     <Ibex.label>アイベックス</Ibex.label>
     <Ibex.description>飼いならされたヤギの,野生で頑健な祖先です.アイベックスは,ほとんどのカモシカが生きていけない山岳の辺境に住んでおり,地衣類や,わずかな山岳植物を食べています.彼らは,岩肌の露出した崖を,巧みにジャンプすることで有名です. - それはまた,強烈な体当たり攻撃にもなります.</Ibex.description>
@@ -14,6 +19,9 @@
     <Meat_Ibex.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Ibex.description>
     <Corpse_Ibex.label>アイベックスの死骸</Corpse_Ibex.label>
     <Corpse_Ibex.description>アイベックスの死骸</Corpse_Ibex.description>
+    <Ibex.tools.left_hoof.label>左蹄</Ibex.tools.left_hoof.label>
+    <Ibex.tools.right_hoof.label>右蹄</Ibex.tools.right_hoof.label>
+    <Ibex.tools.head.label>頭部</Ibex.tools.head.label>
 
     <Elk.label>ヘラジカ</Elk.label>
     <Elk.description>大きなシカ科の生き物.寒冷な気候に適応しています.飼い慣らされたヘラジカは搾乳する事ができますが,荷物を運ぶことは嫌がります.</Elk.description>
@@ -21,6 +29,9 @@
     <Meat_Elk.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Elk.description>
     <Corpse_Elk.label>ヘラジカの死骸</Corpse_Elk.label>
     <Corpse_Elk.description>ヘラジカの死骸</Corpse_Elk.description>
+    <Elk.tools.left_hoof.label>左蹄</Elk.tools.left_hoof.label>
+    <Elk.tools.right_hoof.label>右蹄</Elk.tools.right_hoof.label>
+    <Elk.tools.head.label>頭部</Elk.tools.head.label>
 
     <Caribou.label>カリブー</Caribou.label>
     <Caribou.description>シカ科のなかでも数が多く,寒冷な気候に適応しています.</Caribou.description>
@@ -28,11 +39,16 @@
     <Meat_Caribou.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Caribou.description>
     <Corpse_Caribou.label>カリブーの死骸</Corpse_Caribou.label>
     <Corpse_Caribou.description>カリブーの死骸</Corpse_Caribou.description>
+    <Caribou.tools.left_hoof.label>左蹄</Caribou.tools.left_hoof.label>
+    <Caribou.tools.right_hoof.label>右蹄</Caribou.tools.right_hoof.label>
+    <Caribou.tools.head.label>頭部</Caribou.tools.head.label>
 
     <WildBoar.label>イノシシ</WildBoar.label>
     <WildBoar.description>この毛むくじゃらな雑食動物は,逃げ出したブタの子孫で,野性で生きられるよう進化しました.\n\nその牙は,飼い慣らされたブタよりも戦いを有利にさせています.残念ながら,ほとんどの複雑な作業を訓練するには,あまりにも手に負えません.</WildBoar.description>
     <Corpse_WildBoar.label>イノシシの死骸</Corpse_WildBoar.label>
     <Corpse_WildBoar.description>イノシシの死骸</Corpse_WildBoar.description>
+    <WildBoar.tools.tusk.label>牙</WildBoar.tools.tusk.label>
+    <WildBoar.tools.head.label>頭部</WildBoar.tools.head.label>
 
     <Tortoise.label>カメ</Tortoise.label>
     <Tortoise.description>この硬い甲羅で覆われた爬虫類は,歩く速度がとても遅い反面,びっくりするぐらい 素早く噛むことで知られています.Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
@@ -40,5 +56,7 @@
     <Meat_Tortoise.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Tortoise.description>
     <Corpse_Tortoise.label>カメの死骸</Corpse_Tortoise.label>
     <Corpse_Tortoise.description>カメの死骸</Corpse_Tortoise.description>
+    <Tortoise.tools.beak.label>嘴</Tortoise.tools.beak.label>
+    <Tortoise.tools.head.label>頭部</Tortoise.tools.head.label>
 
 </LanguageData>

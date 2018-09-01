@@ -7,6 +7,10 @@
     <Meat_Warg.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Warg.description>
     <Corpse_Warg.label>ワーグの死骸</Corpse_Warg.label>
     <Corpse_Warg.description>ワーグの死骸</Corpse_Warg.description>
+    <Warg.tools.left_claw.label>左爪</Warg.tools.left_claw.label>
+    <Warg.tools.right_claw.label>右爪</Warg.tools.right_claw.label>
+    <Warg.tools.razorfangs.label>カミソリ犬歯</Warg.tools.razorfangs.label>
+    <Warg.tools.head.label>頭部</Warg.tools.head.label>
 
     <!-- ========================== Wolves ================================= -->
 
@@ -16,11 +20,18 @@
     <Meat_Wolf_Timber.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Wolf_Timber.description>
     <Corpse_Wolf_Timber.label>シンリンオオカミの死骸</Corpse_Wolf_Timber.label>
     <Corpse_Wolf_Timber.description>シンリンオオカミの死骸</Corpse_Wolf_Timber.description>
+    <Wolf_Timber.race.meatLabel>狼肉</Wolf_Timber.race.meatLabel>
+    <Wolf_Timber.tools.left_claw.label>左爪</Wolf_Timber.tools.left_claw.label>
+    <Wolf_Timber.tools.right_claw.label>右爪</Wolf_Timber.tools.right_claw.label>
+    <Wolf_Timber.tools.head.label>頭部</Wolf_Timber.tools.head.label>
 
     <Wolf_Arctic.label>ホッキョクオオカミ</Wolf_Arctic.label>
     <Wolf_Arctic.description>地球上の古いオオカミで北極地方に適応した変異体です.狩りをする者として,オオカミは,社会性と,忠実性を合わせ持っています.</Wolf_Arctic.description>
     <Corpse_Wolf_Arctic.label>ホッキョクオオカミの死骸</Corpse_Wolf_Arctic.label>
     <Corpse_Wolf_Arctic.description>ホッキョクオオカミの死骸</Corpse_Wolf_Arctic.description>
+    <Wolf_Arctic.tools.left_claw.label>左爪</Wolf_Arctic.tools.left_claw.label>
+    <Wolf_Arctic.tools.right_claw.label>右爪</Wolf_Arctic.tools.right_claw.label>
+    <Wolf_Arctic.tools.head.label>頭部</Wolf_Arctic.tools.head.label>
 
     <!--========================== Fox_ base ========================-->
 
@@ -30,17 +41,25 @@
     <Meat_Fox_Fennec.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Fox_Fennec.description>
     <Corpse_Fox_Fennec.label>フェネックキツネの死骸</Corpse_Fox_Fennec.label>
     <Corpse_Fox_Fennec.description>フェネックキツネの死骸</Corpse_Fox_Fennec.description>
+    <Fox_Fennec.race.meatLabel>狐肉</Fox_Fennec.race.meatLabel>
+    <Fox_Fennec.tools.left_claw.label>左爪</Fox_Fennec.tools.left_claw.label>
+    <Fox_Fennec.tools.right_claw.label>右爪</Fox_Fennec.tools.right_claw.label>
+    <Fox_Fennec.tools.head.label>頭部</Fox_Fennec.tools.head.label>
 
     <Fox_Red.label>アカギツネ</Fox_Red.label>
     <Fox_Red.description>小さな孤独で犬のような生き物は,温帯気候で小さな獲物を狩るのに適した進化をしました.養鶏場は,数分で全体をダメにしてしまうキツネを憎んでいます.</Fox_Red.description>
     <Corpse_Fox_Red.label>アカギツネの死骸</Corpse_Fox_Red.label>
     <Corpse_Fox_Red.description>アカギツネの死骸</Corpse_Fox_Red.description>
+    <Fox_Red.tools.left_claw.label>左爪</Fox_Red.tools.left_claw.label>
+    <Fox_Red.tools.right_claw.label>右爪</Fox_Red.tools.right_claw.label>
+    <Fox_Red.tools.head.label>頭部</Fox_Red.tools.head.label>
 
     <Fox_Arctic.label>ホッキョクギツネ</Fox_Arctic.label>
     <Fox_Arctic.description>北方に適応した小さな肉食動物です.普段は,ネズミやハタネズミのような小動物を狩っていて,ときおり,雪の中を１メートルも穴をほって獲物にたどり着く事もあります.</Fox_Arctic.description>
     <Corpse_Fox_Arctic.label>ホッキョクギツネの死骸</Corpse_Fox_Arctic.label>
     <Corpse_Fox_Arctic.description>ホッキョクギツネの死骸</Corpse_Fox_Arctic.description>
+    <Fox_Arctic.tools.left_claw.label>左爪</Fox_Arctic.tools.left_claw.label>
+    <Fox_Arctic.tools.right_claw.label>右爪</Fox_Arctic.tools.right_claw.label>
+    <Fox_Arctic.tools.head.label>頭部</Fox_Arctic.tools.head.label>
 
 </LanguageData>
-
-

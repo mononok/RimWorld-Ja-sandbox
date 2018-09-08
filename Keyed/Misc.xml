@@ -46,7 +46,7 @@
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
-<DeadLabel>{0} (死亡)</DeadLabel>
+<DeadLabel>{1_label} (死亡)</DeadLabel>
 
 <RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
 <RoughStoneTerrainDesc>粗く自然な {0}</RoughStoneTerrainDesc>
@@ -65,8 +65,8 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-	<SomeonesRoom>{0}の {1}</SomeonesRoom>
-	<CouplesRoom>{0}と {1}の {2}</CouplesRoom>
+	<SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
+	<CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
 
   <VariousLabel>(色々)</VariousLabel>
 

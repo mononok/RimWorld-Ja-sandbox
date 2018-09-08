@@ -3,8 +3,8 @@
 
     <FactionGreetingHostile>{0} 代表は, マイク越しに罵倒し 通信を切断しました.</FactionGreetingHostile>
     <FactionGreetingHostileAppreciative>あなたが[PAWN_possessive]集落の一つに贈り物を持参したり,[PAWN_possessive]派閥の囚人を無傷で解放するような,誠意を見せるよう {0} 代表は要求しています.それまでは,[PAWN_pronoun]は話し合いを嫌がり.\n\n侮辱する言葉を述べ,[PAWN_pronoun]は切りました.</FactionGreetingHostileAppreciative>
-    <FactionGreetingWary>{0} 代表は用心しつつも {1}を歓迎し,あなたと取引する用意が有ることを伝えてきました.</FactionGreetingWary>
-    <FactionGreetingWarm>{0} 代表は暖かく {1}を歓迎し,あなたの力になる用意が有ることを伝えてきました.</FactionGreetingWarm>
+    <FactionGreetingWary>{0} 代表は用心しつつも {NEGOTIATOR_labelShort}を歓迎し,あなたと取引する用意が有ることを伝えてきました.</FactionGreetingWary>
+    <FactionGreetingWarm>{0} 代表は暖かく {NEGOTIATOR_labelShort}を歓迎し,{LEADER_pronoun}は,あなたの力になる用意が有ることを伝えてきました.</FactionGreetingWarm>
 
     <Disconnect>切断</Disconnect>
 

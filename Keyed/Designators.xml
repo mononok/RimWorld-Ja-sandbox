@@ -109,9 +109,9 @@
     <TooCloseToMapEdge>マップ端に近すぎます.</TooCloseToMapEdge>
     <OutOfBounds>領域外です.</OutOfBounds>
     <CannotPlaceInUndiscovered>未知の場所に配置することはできません.</CannotPlaceInUndiscovered>
-    <InteractionSpotBlocked>{0}によって 作用空間がブロックされています.</InteractionSpotBlocked>
+    <InteractionSpotBlocked>{1_labelShort}によって 作用空間がブロックされています.</InteractionSpotBlocked>
     <InteractionSpotOutOfBounds>作用空間が 領域外です.</InteractionSpotOutOfBounds>
-    <InteractionSpotWillBeBlocked>{0}によって 作用空間が ブロックされそうです.</InteractionSpotWillBeBlocked>
+    <InteractionSpotWillBeBlocked>{1_labelShort}によって 作用空間が ブロックされるでしょう.</InteractionSpotWillBeBlocked>
     <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう.</WouldBlockInteractionSpot>
     <TerrainIsAlready>すでに ここの地面は {0} です.</TerrainIsAlready>
     <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>

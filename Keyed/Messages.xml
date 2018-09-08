@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <MessageSiegersAssaulting>{0}の{1}は コロニーへ包囲攻撃します.</MessageSiegersAssaulting>
+    <MessageSiegersAssaulting>{1}の{0}は コロニーへ包囲攻撃します.</MessageSiegersAssaulting>
 
-    <MessageRaidersBeginningAssault>{0}の{1}は 襲撃を開始します.</MessageRaidersBeginningAssault>
-    <MessageRaidersDetectedEarlyAssault>{0}の{1}は あなたの斥候を発見したので襲撃を早めます.</MessageRaidersDetectedEarlyAssault>
-    <MessageRaidersKidnapping>{0}の{1}は 誰かを連れ去ることに決めました.</MessageRaidersKidnapping>
-    <MessageRaidersStealing>{0}の{1}は 何かを略奪することに決めました.</MessageRaidersStealing>
+    <MessageRaidersBeginningAssault>{1}の{0}は 襲撃を開始します.</MessageRaidersBeginningAssault>
+    <MessageRaidersDetectedEarlyAssault>{1}の{0}は あなたの斥候を発見したので襲撃を早めます.</MessageRaidersDetectedEarlyAssault>
+    <MessageRaidersKidnapping>{1}の{0}は 誰かを連れ去ることに決めました.</MessageRaidersKidnapping>
+    <MessageRaidersStealing>{1}の{0}は 何かを略奪することに決めました.</MessageRaidersStealing>
 
-    <MessageRaidersLeaving>{0}の{1}は 離れました.</MessageRaidersLeaving>
-    <MessageRaidersGivenUpLeaving>{0}の{1}は 襲撃を諦め離脱しています.</MessageRaidersGivenUpLeaving>
-    <MessageRaidersSatisfiedLeaving>{0}の{1}は 成果に満足し離脱しています.</MessageRaidersSatisfiedLeaving>
+    <MessageRaidersLeaving>{1}の{0}は 離れました.</MessageRaidersLeaving>
+    <MessageRaidersGivenUpLeaving>{1}の{0}は 襲撃を諦め離脱しています.</MessageRaidersGivenUpLeaving>
+    <MessageRaidersSatisfiedLeaving>{1}の{0}は 成果に満足し離脱しています.</MessageRaidersSatisfiedLeaving>
 
-    <MessageFightersFleeing>{0}の{1}は 逃げています.</MessageFightersFleeing>
-    <MessageFriendlyFightersLeaving>友軍{0}の{1}は 離脱しています.</MessageFriendlyFightersLeaving>
+    <MessageFightersFleeing>{1}の{0}は 逃げています.</MessageFightersFleeing>
+    <MessageFriendlyFightersLeaving>友軍{1}の{0}は 離脱しています.</MessageFriendlyFightersLeaving>
 
-    <MessageVisitorsTakingWounded>{0}の{1}を 怪我したゲストとして迎えます.</MessageVisitorsTakingWounded>
-    <MessageVisitorsTrappedLeaving>{0}の{1}は 閉じ込められたので脱出を試みています.</MessageVisitorsTrappedLeaving>
-    <MessageVisitorsDangerousTemperature>{0}の{1}は 危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
+    <MessageVisitorsTakingWounded>{1}の{0}を 怪我したゲストとして迎えます.</MessageVisitorsTakingWounded>
+    <MessageVisitorsTrappedLeaving>{1}の{0}は 閉じ込められたので脱出を試みています.</MessageVisitorsTrappedLeaving>
+    <MessageVisitorsDangerousTemperature>{1}の{0}は 危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
 
     <MessageWornApparelDeterioratedAway>{1}が身に着けていた{0}は ボロボロになって着れなくなりました.</MessageWornApparelDeterioratedAway>
 
@@ -29,19 +29,19 @@
 
     <MessageBillComplete>作業終了：{0}</MessageBillComplete>
 
-    <MessageFullyHealed>{0}の怪我が完治しました.</MessageFullyHealed>
+    <MessageFullyHealed>{1_label}の怪我が完治しました.</MessageFullyHealed>
 
-    <MessagePrisonerIsEscaping>囚人{0} は逃げ出しています.</MessagePrisonerIsEscaping>
+    <MessagePrisonerIsEscaping>囚人{1_labelShort} は逃げ出しています.</MessagePrisonerIsEscaping>
 
-    <MessageOutOfNearbyShellsFor>{0}は {1}に使う弾薬を見つけていません.</MessageOutOfNearbyShellsFor>
+    <MessageOutOfNearbyShellsFor>{PAWN_labelShort}は {GUN_label}に使う弾薬を見つけていません.</MessageOutOfNearbyShellsFor>
 
-    <MessageAnimalsGoPsychoHunted>【警告】: {0}は ライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
-    <MessageAnimalManhuntsOnTameFailed>【警告】: {0}は 手なずけるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
+    <MessageAnimalsGoPsychoHunted>【警告】: {ANIMAL_kindBasePlural}は ライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
+    <MessageAnimalManhuntsOnTameFailed>【警告】: {ANIMAL_kindBasePlural}は 手なずけるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
 
     <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
-    <MessageRecruitSuccess>{0}は 囚人{1}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
-    <MessageTameSuccess>{0}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
-    <MessageTameAndNameSuccess>{0}は {1}を手なずけました(成功率 {2}). そして [PAWN_objective] {3}と名づけました.</MessageTameAndNameSuccess>
+    <MessageRecruitSuccess>{RECRUITER_nameFull}は 囚人{RECRUITEE_nameFull}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
+    <MessageTameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
+    <MessageTameAndNameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}). そして {RECRUITEE_objective} {RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
 
     <MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません.</MessageColonyCannotAfford>
     <MessageColonyNotEnoughSilver>取引するのに十分な量のシルバーを準備できていません.</MessageColonyNotEnoughSilver>
@@ -65,23 +65,23 @@
     <MessageMustDesignateForbiddable>禁止されていないアイテムを指定してください.</MessageMustDesignateForbiddable>
     <MessageMustDesignateUnforbiddable>禁止されたアイテムを指定してください.</MessageMustDesignateUnforbiddable>
 
-    <MessageRefusedArrest>{0}は 逮捕を拒否しました.</MessageRefusedArrest>
+    <MessageRefusedArrest>{1_labelShort}は 逮捕を拒否しました.</MessageRefusedArrest>
 
     <MessageNoMedicalBeds>利用可能な医療用ベッドがありません.</MessageNoMedicalBeds>
     <MessageNoAnimalBeds>利用可能な動物用ベッドがありません.</MessageNoAnimalBeds>
-    <MessageTooLowMedCare>処置には {0}より上が必要ですが,{1}の治療レベルは "{2}"となっています.</MessageTooLowMedCare>
+    <MessageTooLowMedCare>処置には {0}より上が必要ですが,{PAWN_labelShort}の治療レベルは "{2}"となっています.</MessageTooLowMedCare>
 
-    <PawnDiedBecauseOf>{0}は命を落としました.原因: {1}</PawnDiedBecauseOf>
-    <PawnDied>{0}は命を落としました.</PawnDied>
+    <PawnDiedBecauseOf>{PAWN_labelShort}は命を落としました.原因: {1}</PawnDiedBecauseOf>
+    <PawnDied>{1_labelShort}は命を落としました.</PawnDied>
 
-    <MessageNoLongerDowned>{0}は 自由に歩き回れるようになりました.</MessageNoLongerDowned>
+    <MessageNoLongerDowned>{1_label}は 自由に歩き回れるようになりました.</MessageNoLongerDowned>
 
-    <MessageInvoluntarySleep>{0}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
+    <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
 
-    <MessageMedicalOperationFailureMinor>{0}は {1}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
-    <MessageMedicalOperationFailureCatastrophic>{0}は {1}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
-    <MessageMedicalOperationFailureRidiculous>{0}は {1}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
-    <MessageMedicalOperationFailureFatal>{0}は {1}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
+    <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
+    <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {patient.LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
+    <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+    <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
     <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
 
@@ -89,36 +89,36 @@
     <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
     <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
 
-    <MessageNuzzledPawnGaveNameTo>{1}が 懐いたので,{0}は "{2}"と名前をつけました.</MessageNuzzledPawnGaveNameTo>
+    <MessageNuzzledPawnGaveNameTo>{NAMEE_nameFull}が 懐いたので,{NAMER_nameFull}は "{1}"と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
-    <MessageNoHandlerSkilledEnough>{0}は 誰も手なずけられません({2}の必要レベル {1},最適任者 {3}でもレベル {4}).</MessageNoHandlerSkilledEnough>
+    <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手なずけられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
 
-    <MessageEatenByPredator>{0}は {1}に喰われました.</MessageEatenByPredator>
-    <MessageAttackedByPredator>{0}は {1}に襲われました! </MessageAttackedByPredator>
+    <MessageEatenByPredator>{EATEN_labelShort}は {PREDATOR}に喰われました.</MessageEatenByPredator>
+    <MessageAttackedByPredator>{PREY_labelShort}は {PREDATOR}に襲われました! </MessageAttackedByPredator>
 
     <MessageHiveReproduced>虫の巣は 自己再生しました.</MessageHiveReproduced>
 
     <MessageTraderCaravanLeaving>{0}トレーダーの一行は 離れていきました.</MessageTraderCaravanLeaving>
 
-    <MessageCantSelectDeadPawn>{0}は 死んでいます.</MessageCantSelectDeadPawn>
-    <MessageCantSelectOffMapPawn>{0}は マップ外にいます.</MessageCantSelectOffMapPawn>
+    <MessageCantSelectDeadPawn>{1_labelShort}は 死んでいます.</MessageCantSelectDeadPawn>
+    <MessageCantSelectOffMapPawn>{1_labelShort}は マップ外にいます.</MessageCantSelectOffMapPawn>
 
-    <MessageSocialFight>{0}は {1}とケンカを始めました.</MessageSocialFight>
+    <MessageSocialFight>{PAWN1_labelShort}は {PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
 
-    <MessageNewMarriageCeremony>入植者たちは,{0}と {1}の 結婚式を祝うために集いました.</MessageNewMarriageCeremony>
-    <MessageMarriageCeremonyStarts>{0}と {1}の 結婚式が始まりました!</MessageMarriageCeremonyStarts>
-    <MessageMarriageCeremonyCalledOff>{0}と {1}の 結婚式は,お流れになってしまいました.</MessageMarriageCeremonyCalledOff>
-    <MessageNewlyMarried>{0}と {1}は 家庭を持ちました.入植者たちは,この出来事を喜んでいます.</MessageNewlyMarried>
-    <MessageMarriageCeremonyAfterPartyFinished>{0}と {1}との結婚の儀式は,すべて無事に執り行われました.</MessageMarriageCeremonyAfterPartyFinished>
+    <MessageNewMarriageCeremony>入植者たちは,{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式を祝うために集いました.</MessageNewMarriageCeremony>
+    <MessageMarriageCeremonyStarts>{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式が始まりました!</MessageMarriageCeremonyStarts>
+    <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式は,お流れになってしまいました.</MessageMarriageCeremonyCalledOff>
+    <MessageNewlyMarried>{PAWN1_labelShort}と {PAWN2_labelShort}は 家庭を持ちました.入植者たちは,この出来事を喜んでいます.</MessageNewlyMarried>
+    <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort}と {PAWN2_labelShort}との結婚の儀式は,すべて無事に執り行われました.</MessageMarriageCeremonyAfterPartyFinished>
 
-    <MessageNewBondRelation>{0}と {1}は絆で結ばれました.</MessageNewBondRelation>
-    <MessageNewBondRelationNewName>{0}と {1}は絆で結ばれました.[PAWN_objective] の姓は,{2}となります.</MessageNewBondRelationNewName>
+    <MessageNewBondRelation>{HUMAN_labelShort}と {ANIMAL_labelShort}は絆で結ばれました.</MessageNewBondRelation>
+    <MessageNewBondRelationNewName>{HUMAN_labelShort}と {1}は絆で結ばれました.{HUMAN_labelShort}は{ANIMAL_objective} {ANIMAL_nameFull}名付けました.</MessageNewBondRelationNewName>
 
-    <MessageBondedAnimalMentalBreak>{0}は {1}の死をきっかけにして,精神崩壊を起こしました.</MessageBondedAnimalMentalBreak>
-    <MessageNamedBondedAnimalMentalBreak>{1}と名づけられた{0}は {2}の死をきっかけにして精神崩壊を起こしました.</MessageNamedBondedAnimalMentalBreak>
-    <MessageBondedAnimalsMentalBreak>{0}たちは {1}の死をきっかけにして精神崩壊を起こしました.</MessageBondedAnimalsMentalBreak>
+    <MessageBondedAnimalMentalBreak>{ANIMAL}は {HUMAN_labelShort}の死をきっかけにして,精神崩壊を起こしました.</MessageBondedAnimalMentalBreak>
+    <MessageNamedBondedAnimalMentalBreak>{ANIMAL_label}と名づけられた{ANIMAL_kindIndef}は {HUMAN_labelShort}の死をきっかけにして精神崩壊を起こしました.</MessageNamedBondedAnimalMentalBreak>
+    <MessageBondedAnimalsMentalBreak>{0}たちは {HUMAN_labelShort}の死をきっかけにして精神崩壊を起こしました.</MessageBondedAnimalsMentalBreak>
 
-    <MessageSuccessfullyRemovedHediff>{0}は {1}の{2}を 取り除くのに成功しました.</MessageSuccessfullyRemovedHediff>
+    <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}は {PATIENT_labelShort}の{HEDIFF}を 取り除くのに成功しました.</MessageSuccessfullyRemovedHediff>
 
     <MessageShipChunkDrop>宇宙船の残骸が近くに落ちました.あなたは資源を得る為に,それを分解することができます.</MessageShipChunkDrop>
 
@@ -127,19 +127,19 @@
 
     <MessageCannotSellItemsReason>以下の理由で取引できません：</MessageCannotSellItemsReason>
 
-    <MessageConstructionFailed>{1}は {0}の建造に失敗し,いくつかの資源が無駄になりました.</MessageConstructionFailed>
+    <MessageConstructionFailed>{WORKER_labelShort}は {0}の建造に失敗し,いくつかの資源が無駄になりました.</MessageConstructionFailed>
 
     <MessageScreenshotSavedAs>スクリーンショットを保存しました: {0}</MessageScreenshotSavedAs>
 
-    <MessageNoLongerSocialFighting>{0}と {1}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
+    <MessageNoLongerSocialFighting>{PAWN1_labelShort}と {PAWN2_labelShort}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
 
-    <MessageNoLongerBingingOnDrug>{0}は もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
+    <MessageNoLongerBingingOnDrug>{2_labelShort}は もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
 
-    <MessageNoLongerOnTargetedInsultingSpree>{0}は もう{1}に侮辱や放言はしません.</MessageNoLongerOnTargetedInsultingSpree>
+    <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}は もう{TARGET_label}に侮辱や放言はしません.</MessageNoLongerOnTargetedInsultingSpree>
 
-    <MessageRottedAwayInStorage>{0}は , 備蓄ゾーンの中で腐敗しました.</MessageRottedAwayInStorage>
+    <MessageRottedAwayInStorage>{1_label}は , 備蓄ゾーンの中で腐敗しました.</MessageRottedAwayInStorage>
 
-    <MessageFoodPoisoning>{0}は ,{1}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
+    <MessageFoodPoisoning>{PAWN_labelShort}は ,{FOOD_labelShort}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
 
     <MessagePawnLostWhileFormingCaravan>{0}は キャラバン隊から取り除かれてしまった.</MessagePawnLostWhileFormingCaravan>
     <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しましたた.</MessagePawnLostWhileFormingCaravan_AllLost>
@@ -155,11 +155,11 @@
     <MessagePlantDiedOfRot_ExposedToLight>{0}は 陽にあたって枯れました.</MessagePlantDiedOfRot_ExposedToLight>
     <MessagePlantDiedOfRot>{0}は 腐って枯れました.</MessagePlantDiedOfRot>
     <MessagePlantDiedOfPoison>{0}は 毒によって枯れました.</MessagePlantDiedOfPoison>
-    <MessagePlantDiedOfBlight>{0}は 疫病によって枯れました.</MessagePlantDiedOfBlight>
+    <MessagePlantDiedOfBlight>{1_label}は 疫病によって枯れました.</MessagePlantDiedOfBlight>
 
-    <MessagePawnBeingBurned>{0}は 高温に熱した大気で熱傷を負いました.</MessagePawnBeingBurned>
+    <MessagePawnBeingBurned>{1_labelShort}は 高温に熱した大気で熱傷を負いました.</MessagePawnBeingBurned>
 
-    <MessageAccidentalOverdose>{0}は {1}を摂取中に誤って過剰摂取しました!</MessageAccidentalOverdose>
+    <MessageAccidentalOverdose>{INGESTER}は {DRUG_labelShort}を誤って過剰摂取しました!</MessageAccidentalOverdose>
 
     <MessageCaravanArrivedAtDestination>{0}は 目的地に到達しました</MessageCaravanArrivedAtDestination>
 
@@ -167,14 +167,14 @@
 
     <MessageCaravanEnteredWorldObject>{0}は {1}に到着しました</MessageCaravanEnteredWorldObject>
 
-    <MessagePawnLeftMapAndCreatedCaravan>{0}は キャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
+    <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}は キャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
     <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなた達の動物は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 
     <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功しました.</MessageSettledInExistingMap>
 
-    <MessagePermanentWoundHealed>{1}の{2}は 治療されました.原因：{0}</MessagePermanentWoundHealed>
+    <MessagePermanentWoundHealed>{PAWN_labelShort}の{2}は 治療されました.原因：{0}</MessagePermanentWoundHealed>
 
-    <MessageRescueeJoined>[PAWN_objective]救出したことで{0}が あなたのグループに加わりました!</MessageRescueeJoined>
+    <MessageRescueeJoined>{!_objective}救出したことで{1_labelShort}が あなたのグループに加わりました!</MessageRescueeJoined>
 
     <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません.</MessageTransporterUnreachable>
     <MessageTransportersNotAdjacent>全てのポッドランチャーは輸送ポッドの隣に配置してください.</MessageTransportersNotAdjacent>
@@ -190,7 +190,7 @@
 
     <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
 
-    <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({0}).</MessageCantLoadMoreIntoTransporters>
+    <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
 
     <MessageTransportPodsDestinationIsInvalid>目的地が不正です.</MessageTransportPodsDestinationIsInvalid>
     <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくても x{0}の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
@@ -199,12 +199,12 @@
 
     <MessageCantBanishLastColonist>最後の一人を放棄することはできません.</MessageCantBanishLastColonist>
 
-    <MessageCantEquipIncapableOfViolence>装備不可:{0}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
+    <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
     <MessageCantEquipIncapableOfManipulation>装備不可:欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
 
-    <MessageSlaughteringBondedAnimal>{0}を 屠殺しようとすると 絆がある{1}を 不満にさせるでしょう.</MessageSlaughteringBondedAnimal>
+    <MessageSlaughteringBondedAnimal>{DESIGNATED_labelShort}を 屠殺しようとすると 絆がある{BONDED_labelShort}を 不満にさせるでしょう.</MessageSlaughteringBondedAnimal>
 
-    <MessageCaravanRanOutOfFood>{0}は 食料を食べ尽くしました({1}).</MessageCaravanRanOutOfFood>
+    <MessageCaravanRanOutOfFood>{0}は 食料を食べ尽くしました({PAWN_label}).</MessageCaravanRanOutOfFood>
 
     <MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには自身の入植者を選択してください.</MessageSelectOwnBaseToFormCaravan>
 
@@ -212,10 +212,10 @@
 
     <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.</MessageYouHaveToReformCaravanNow>
 
-    <MessageDefendersAttacking>{0}の{1}は {2}を攻撃中です.</MessageDefendersAttacking>
+    <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
 
-    <MessageSelfTendUnsatisfied>自己治療をする為には {0}に 医者の作業を割り当てていなければなりません.</MessageSelfTendUnsatisfied>
-    <MessageCannotSelfTendEver>{0}は 医者の作業を行う能力に欠けています. よって自己治療ができません.</MessageCannotSelfTendEver>
+    <MessageSelfTendUnsatisfied>自己治療をする為には {1_labelShort}に 医者の作業を割り当てていなければなりません.</MessageSelfTendUnsatisfied>
+    <MessageCannotSelfTendEver>{1_labelShort}は 医者の作業を行う能力に欠けています. よって自己治療ができません.</MessageCannotSelfTendEver>
 
     <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です.</MessageCantAddWaypointBecauseImpassable>
     <MessageCantAddWaypointBecauseUnreachable>最後のウェイポイントから,このタイルに到達することは不可能です.</MessageCantAddWaypointBecauseUnreachable>
@@ -227,7 +227,7 @@
     <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました.{0},キャラバン隊は自動的に編成されます.</MessageSiteCountdownBecauseNoMoreEnemies>
     <MessageSiteCountdownBecauseNoEnemiesInitially>{0} キャラバン隊は自動的に再編成されます.「World」画面で,ただちに再編成を行わせることもできます.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-    <MessageCantBanishDownedPawn>{0}は 歩けなくなって以来,追放することは出来ません.</MessageCantBanishDownedPawn>
+    <MessageCantBanishDownedPawn>{1_labelShort}は 歩けなくなって以来,追放することは出来ません.</MessageCantBanishDownedPawn>
 
     <MessageSleepingPawnsWokenUp>{0}は 目を覚ました.</MessageSleepingPawnsWokenUp>
 
@@ -239,8 +239,8 @@
 
     <MessagePawnResurrected>{0}は 息を吹き返した!</MessagePawnResurrected>
 
-    <MessageFailedToRescueRelative>{0}の 命を救えなかった. {1}を悲しませるだろう.</MessageFailedToRescueRelative>
-    <MessageRescuedRelative>{0}を救えた. {1}を喜ばせるだろう.</MessageRescuedRelative>
+    <MessageFailedToRescueRelative>{PAWN_labelShort}の 命を救えなかった. {RELATIVE_labelShort}を悲しませるだろう.</MessageFailedToRescueRelative>
+    <MessageRescuedRelative>{PAWN_labelShort}を救えた. {RELATIVE_labelShort}を喜ばせるだろう.</MessageRescuedRelative>
 
     <MessageTornadoLeftMap>竜巻は去りました.</MessageTornadoLeftMap>
     <MessageTornadoDissipated>竜巻は散り散りになりました.</MessageTornadoDissipated>
@@ -249,35 +249,35 @@
 
     <MessageWarningCavePlantsExposedToLight>警告：{0}は陽に当たると生きていけません.</MessageWarningCavePlantsExposedToLight>
 
-    <MessageTargetedTantrumChangedTarget>{0}は {1}まで辿り着けなかったので [PAWN_pronoun]は怒りの矛先を{2}に向けることにしました.</MessageTargetedTantrumChangedTarget>
+    <MessageTargetedTantrumChangedTarget>{PAWN_labelShort}は {OLDTARGET_label}まで辿り着けなかったので {PAWN_pronoun}は怒りの矛先を{TARGET_label}に向けることにしました.</MessageTargetedTantrumChangedTarget>
 
-    <MessageTargetedInsultingSpreeChangedTarget>{0}は {1}まで辿り着けなかったので [PAWN_pronoun]は怒りの矛先を{2}に向けることにしました.</MessageTargetedInsultingSpreeChangedTarget>
+    <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort}は {OLDTARGET_label}まで辿り着けなかったので {PAWN_pronoun}は怒りの矛先を{TARGET_label}に向けることにしました.</MessageTargetedInsultingSpreeChangedTarget>
 
-    <MessageMurderousRageChangedTarget>{0}は 怒りの矛先を{1}に向けることにしました.</MessageMurderousRageChangedTarget>
+    <MessageMurderousRageChangedTarget>{PAWN_labelShort}は 怒りの矛先を{TARGET_label}に向けることにしました.</MessageMurderousRageChangedTarget>
 
     <MessagePlantIncompatibleWithRoof>{0}は 屋根の下では育つことは出来ません.</MessagePlantIncompatibleWithRoof>
     <MessageRoofIncompatibleWithPlant>{0}の上に 屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
 
     <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
 
-    <MessageCraftedMasterwork>{0}は {1}を作りました.</MessageCraftedMasterwork>
+    <MessageCraftedMasterwork>{WORKER_labelShort}は {CRAFTED_labelShort}を作りました.</MessageCraftedMasterwork>
 
     <MessagePlayerTriedToLeaveMapViaExitGrid>この地域を離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid>
 
     <MessageGoodwillChanged>{0}との関係が {1}から{2}へと変わりました.</MessageGoodwillChanged>
     <MessageGoodwillChangedWithReason>{0}との関係が {1}から{2}へと変わりました.({3}).</MessageGoodwillChangedWithReason>
-    <GoodwillChangedReason_AttackedPawn>{0}を 攻撃しました.</GoodwillChangedReason_AttackedPawn>
-    <GoodwillChangedReason_UsedItem>{1}に {0}を使いました.</GoodwillChangedReason_UsedItem>
+    <GoodwillChangedReason_AttackedPawn>{1_labelShort}を 攻撃しました.</GoodwillChangedReason_AttackedPawn>
+    <GoodwillChangedReason_UsedItem>{TARGET_labelShort}に {ITEM_labelShort}を使いました.</GoodwillChangedReason_UsedItem>
     <GoodwillChangedReason_RemovedBodyPart>{0}を 摘出しました.</GoodwillChangedReason_RemovedBodyPart>
     <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>{0}を 不必要にインストールしました.</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
-    <GoodwillChangedReason_CapturedPawn>{0}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
-    <GoodwillChangedReason_PawnCrushed>{0}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
-    <GoodwillChangedReason_PawnDied>{0}は 死にました.</GoodwillChangedReason_PawnDied>
+    <GoodwillChangedReason_CapturedPawn>{1_labelShort}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
+    <GoodwillChangedReason_PawnCrushed>{1_labelShort}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
+    <GoodwillChangedReason_PawnDied>{1_labelShort}は 死にました.</GoodwillChangedReason_PawnDied>
     <GoodwillChangedReason_Traded>売買されました.</GoodwillChangedReason_Traded>
     <GoodwillChangedReason_AttackedCaravan>キャラバン隊が攻撃されました.</GoodwillChangedReason_AttackedCaravan>
     <GoodwillChangedReason_NaturallyOverTime>時間が経つ毎に {0}に向かいます.</GoodwillChangedReason_NaturallyOverTime>
-    <GoodwillChangedReason_ExitedMapHealthy>{0}は 元気になってマップから出て行きました.</GoodwillChangedReason_ExitedMapHealthy>
-    <GoodwillChangedReason_Tended>{0}の 世話をします.</GoodwillChangedReason_Tended>
+    <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort}は 元気になってマップから出て行きました.</GoodwillChangedReason_ExitedMapHealthy>
+    <GoodwillChangedReason_Tended>{1_labelShort}の 世話をします.</GoodwillChangedReason_Tended>
     <GoodwillChangedReason_ReceivedGift>貢ぎ物を受け取りました.</GoodwillChangedReason_ReceivedGift>
     <GoodwillChangedReason_FulfilledTradeRequest>相手の条件を満たしました.</GoodwillChangedReason_FulfilledTradeRequest>
 
@@ -296,8 +296,8 @@
     <MessageBillValidationIncludeZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}を考慮しません.</MessageBillValidationIncludeZoneUnavailable>
     <MessageBillValidationStoreZoneInsufficient>{1}の"{0}"は 全ての製品を備蓄ゾーン{2}へ運びません.</MessageBillValidationStoreZoneInsufficient>
 
-    <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {0}は野生化しました.</MessageAnimalReturnedWild>
-    <MessageAnimalLostSkill>定期的に訓練していなかったので {0}はスキルを忘れました：{1}</MessageAnimalLostSkill>
+    <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
+    <MessageAnimalLostSkill>定期的に訓練していなかったので {ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
 
     <MessageTranslationReportSaved>翻訳結果レポートを{0}に書きました.</MessageTranslationReportSaved>
 
@@ -305,9 +305,9 @@
 
     <MessageEnterCooldownBlocksEntering>あなたは,{0}日間,別の場所に再入場できません.</MessageEnterCooldownBlocksEntering>
 
-    <MessagePredatorHuntingPlayerAnimal>{0}はエサとして{1}を狩っています!</MessagePredatorHuntingPlayerAnimal>
+    <MessagePredatorHuntingPlayerAnimal>{PREDATOR}はエサとして{PREY_definite}を狩っています!</MessagePredatorHuntingPlayerAnimal>
 
-    <MessagePrisonerResistanceBroken>囚人{0}の抵抗は {1}によって打ち砕かれました.</MessagePrisonerResistanceBroken>
+    <MessagePrisonerResistanceBroken>囚人{PRISONER_labelShort}の抵抗は {WARDEN_labelShort}によって打ち砕かれました.</MessagePrisonerResistanceBroken>
     <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>勧誘を始めよう</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
     <MessageDisableModsBeforeCleaningTranslationFiles>このツールを使う前に,全てのMODを無効にしてください.</MessageDisableModsBeforeCleaningTranslationFiles>
@@ -315,6 +315,6 @@
 
     <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
-    <MessageCapturingWillAngerFaction>【警告】: [PAWN_nameDef]の逮捕は,[PAWN_possessive]派閥[PAWN_factionName]の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+    <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
 
 </LanguageData>

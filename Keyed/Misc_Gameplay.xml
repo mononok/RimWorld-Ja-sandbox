@@ -129,8 +129,8 @@
     <RoomSurgerySuccessChanceFactor>部屋:手術成功率への掛け率</RoomSurgerySuccessChanceFactor>
     <RoomInfectionChanceFactor>部屋:感染率への掛け率</RoomInfectionChanceFactor>
     <VentClosed>閉</VentClosed>
-    <WornBy>{0}が着ている</WornBy>
-    <EquippedBy>{0}が装備している</EquippedBy>
+    <WornBy>{1_labelShort}が着ている</WornBy>
+    <EquippedBy>{1_labelShort}が装備している</EquippedBy>
     <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
     <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
     <ItemStashContents>内容物: {0} ({1})</ItemStashContents>
@@ -161,7 +161,7 @@
     <RangeTo>～</RangeTo>
     <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
     <ExpiresIn>有効期限</ExpiresIn>
-    <CaravanLeaderCaravanName>{0}のキャラバン隊</CaravanLeaderCaravanName>
+    <CaravanLeaderCaravanName>{1_labelShort}のキャラバン隊</CaravanLeaderCaravanName>
     <Reason>理由</Reason>
     <RelationsWith>{0}との関係性</RelationsWith>
     <capturedBy>{0}によって捕獲</capturedBy>
@@ -219,9 +219,9 @@
 
     <!-- Control -->
     <CannotOrderNonControlled>操作できないキャラクターです</CannotOrderNonControlled>
-    <IsIncapableOfViolence>{0} は野蛮なことはできません</IsIncapableOfViolence>
+    <IsIncapableOfViolence>{1_labelShort} は野蛮なことはできません</IsIncapableOfViolence>
     <IsIncapableOfViolenceShort>野蛮なことをしない</IsIncapableOfViolenceShort>
-    <IsNotDrafted>{0} は徴兵されていない</IsNotDrafted>
+    <IsNotDrafted>{1_labelShort} は徴兵されていない</IsNotDrafted>
 
     <!-- Snow -->
     <SnowNone>積雪ゼロ</SnowNone>
@@ -236,12 +236,12 @@
     <CanFireIn>射撃開始まで</CanFireIn>
     <CannotFire>発砲できない</CannotFire>
     <Roofed>屋根の下</Roofed>
-    <ShellLoaded>装填済み: {0}</ShellLoaded>
+    <ShellLoaded>装填済み: {1_label}</ShellLoaded>
     <ShellNotLoaded>未装填</ShellNotLoaded>
 
     <!-- Job reports -->
-    <ReportHaulingTo>{0} を {1} に 運搬中</ReportHaulingTo>
-    <ReportHauling>{0} を 運搬中</ReportHauling>
+    <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
+    <ReportHauling>{1_label} を 運搬中</ReportHauling>
     <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
     <ReportSleeping>睡眠中</ReportSleeping>
     <ReportResting>休憩中</ReportResting>
@@ -256,7 +256,7 @@
     <ReportCowering>ちじこまる</ReportCowering>
     <ReportStanding>立っている</ReportStanding>
     <ReportExtinguishingFire>火を消している</ReportExtinguishingFire>
-    <ReportExtinguishingFireOn>{0} に点いた,火を消している</ReportExtinguishingFireOn>
+    <ReportExtinguishingFireOn>{TARGET_label} に点いた火を消している</ReportExtinguishingFireOn>
     <ReportDiggingUpCorpse>死体を掘り出す</ReportDiggingUpCorpse>
 
     <!-- Lord job reports -->
@@ -273,7 +273,7 @@
     <TargetSize>サイズ 修正 - </TargetSize>
     <Weather>天候 修正 -</Weather>
     <ShootingCover>カバー</ShootingCover>
-    <CoverThingBlocksPercentOfShots>{0}は {1}低下させる</CoverThingBlocksPercentOfShots>
+    <CoverThingBlocksPercentOfShots>{COVER_label}は {1}低下させる</CoverThingBlocksPercentOfShots>
     <NoCoverLower>全身が露出</NoCoverLower>
     <Execution>処刑</Execution>
 
@@ -294,9 +294,9 @@
     <MentalBreakThresholdMinor>精神変調：しきい値</MentalBreakThresholdMinor>
 
     <!-- Pawn info readout -->
-    <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+    <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
     <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
-    <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+    <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
     <Faction>派閥</Faction>
     <Equipped>装備品</Equipped>
     <EquippedNothing>素手</EquippedNothing>
@@ -354,7 +354,7 @@
     <LessThanADay>本日中</LessThanADay>
 
     <!-- Shooting tooltip -->
-    <ShotBy>{0} が射撃</ShotBy>
+    <ShotBy>{1_labelShort} が射撃</ShotBy>
     <CannotHit>命中 しません</CannotHit>
     <ManhunterPerHit>1発あたりの暴走率</ManhunterPerHit>
 
@@ -414,7 +414,7 @@
 
     <!-- Fire -->
     <Fire>火災</Fire>
-    <FireOn>{0} が 燃えている</FireOn>
+    <FireOn>{1_label} が 燃えている</FireOn>
     <Burning>炎上中</Burning>
     <FireSizeLower>炎上サイズ {0}</FireSizeLower>
 
@@ -448,7 +448,7 @@
 
     <!-- Cryptosleep casket -->
     <CasketContains>内容物</CasketContains>
-    <CasketWarning>【警告】 [PAWN_nameDef]は最後の入植者です.[PAWN_objective]冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう.本当に良いのですか？</CasketWarning>
+    <CasketWarning>【警告】 {PAWN_nameDef}は最後の入植者です.{PAWN_objective}冬眠カプセルに入れさせると ゲームを続けることができなくなるでしょう.本当に良いのですか？</CasketWarning>
 
     <!-- Ship launch report -->
     <ShipReportCannotLaunch>発射 できません.</ShipReportCannotLaunch>
@@ -464,7 +464,7 @@
     <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
     <!-- Neurotrainer -->
-    <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
+    <NeurotrainerUsed>{USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
     <!-- Minification -->
     <Installed>インストール済</Installed>
@@ -507,18 +507,18 @@
     <InactiveFacility>閉鎖</InactiveFacility>
 
     <!-- Hediffs growth modes -->
-    <DiseaseGrowthModeChanged_Growing>{0}の {1}は 進行している.</DiseaseGrowthModeChanged_Growing>
-    <DiseaseGrowthModeChanged_Stable>{0}の {1}は 安定している.</DiseaseGrowthModeChanged_Stable>
-    <DiseaseGrowthModeChanged_Remission>{0}の {1}は 寛解している.</DiseaseGrowthModeChanged_Remission>
+    <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}の {1}は 進行している.</DiseaseGrowthModeChanged_Growing>
+    <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}の {1}は 安定している.</DiseaseGrowthModeChanged_Stable>
+    <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}の {1}は 寛解している.</DiseaseGrowthModeChanged_Remission>
 
     <!-- Marriage spot -->
     <MarriageSpotUsable>使用可能</MarriageSpotUsable>
     <MarriageSpotNotUsable>使用不可: {0}</MarriageSpotNotUsable>
     <MarriageSpotNotStandable>邪魔されている</MarriageSpotNotStandable>
-    <MarriageSpotDangerous>{0}のため,非常に危険</MarriageSpotDangerous>
-    <MarriageSpotForbidden>{0}のため,禁止</MarriageSpotForbidden>
+    <MarriageSpotDangerous>{1_labelShort}のため,非常に危険</MarriageSpotDangerous>
+    <MarriageSpotForbidden>{1_labelShort}のため,禁止</MarriageSpotForbidden>
     <MarriageSpotReserved>予約済</MarriageSpotReserved>
-    <MarriageSpotUnreachable>{0}のため,到達できない</MarriageSpotUnreachable>
+    <MarriageSpotUnreachable>{1_labelShort}のため,到達できない</MarriageSpotUnreachable>
     <MarriageSpotInPrisonCell>牢獄の中にある</MarriageSpotInPrisonCell>
     <NotEnjoyableOutsideTemperature>不快な温度</NotEnjoyableOutsideTemperature>
 

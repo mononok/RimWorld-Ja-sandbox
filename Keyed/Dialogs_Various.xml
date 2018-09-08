@@ -87,7 +87,7 @@
     <ZoneGainsName>このゾーンを {0} という名前に 決めました.</ZoneGainsName>
 
     <!-- Pawn naming -->
-    <PawnGainsName>この人のニックネームは {0} に決めました.[PAWN_possessive]肩書きは {1} です.</PawnGainsName>
+    <PawnGainsName>この人のニックネームは {0} に決めました.[PAWN_possessive]肩書きは {PAWN_title} です.</PawnGainsName>
     <AnimalGainsName>この動物の名前は {0} に決めました.</AnimalGainsName>
 
     <!-- Save game incompatible warning -->
@@ -256,8 +256,8 @@
     <ColonyHasNoMore>品切れ</ColonyHasNoMore>
     <TraderWillNotTrade>トレーダーは,これを買う気がありません.</TraderWillNotTrade>
     <Negotiator>交渉者</Negotiator>
-    <NegotiatorTalkingImpaired>交渉人 {0}は病弱のため きちんと話す事が出来ません.\n\nこのことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorTalkingImpaired>
-    <NegotiatorHearingImpaired>交渉人 {0}は病弱のため きちんと聞く事が出来ません.\n\nこのことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorHearingImpaired>
+    <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
+    <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
     <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
     <ConfirmTraderShortFunds>トレイダーは,この契約を遂行するのに十分なシルバーを持っていません.それでも続けますか？</ConfirmTraderShortFunds>
     <SortBy>並び替え</SortBy>
@@ -287,7 +287,7 @@
     <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません.{0}</CaravanCouldNotFindExitSpot>
     <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません.出発エリア({0})に到達できるか確認してください.</CaravanCouldNotFindPackingSpot>
     <CaravanCouldNotFindReachableExitSpot>警告: いくつかの割り当てられた入植者は,出ていけません.({0})</CaravanCouldNotFindReachableExitSpot>
-    <CaravanPawnIsUnreachable>指示した入植者は,{0}に 到達できません.</CaravanPawnIsUnreachable>
+    <CaravanPawnIsUnreachable>他に指示した入植者によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
     <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableSingle>
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableMulti>
     <TooBigCaravanMassUsage>キャラバン隊は,こんな多量は運べません.</TooBigCaravanMassUsage>
@@ -352,7 +352,7 @@
     <LoadTransporters>{0}を荷積み</LoadTransporters>
     <TooBigTransportersMassUsage>指示された人とアイテムは,輸送ポッドには重すぎます.</TooBigTransportersMassUsage>
     <CantSendEmptyTransportPods>空の輸送ポッドを送る事はできません.</CantSendEmptyTransportPods>
-    <PawnCantReachTransporters>{0}は,輸送ポッドまでたどり着く事ができません.</PawnCantReachTransporters>
+    <PawnCantReachTransporters>{1_labelShort}は輸送ポッドに,たどり着く事ができません.</PawnCantReachTransporters>
     <TransporterItemIsUnreachableSingle>{0}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableSingle>
     <TransporterItemIsUnreachableMulti>{0}x {1}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableMulti>
 
@@ -434,14 +434,14 @@
     <ConfirmMoveAutoJoinableCaravan>家畜や囚人はキャラバン隊に加わろうとします.あなたがキャラバン隊を移動させれば,彼らはどこにも行けません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それを放棄したとみなし,敵によって捕らえられたこととします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
 
     <!-- Abandon pawn -->
-    <ConfirmBanishPawnDialog>本当に{0}を追放しますか?</ConfirmBanishPawnDialog>
-    <ConfirmBanishPawnDialog_LeftToDie>{0}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
-    <ConfirmBanishPawnDialog_Items>{0}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+    <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか?</ConfirmBanishPawnDialog>
+    <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
+    <ConfirmBanishPawnDialog_Items>{1_objective}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
     <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-    <ConfirmBanishPawnDialog_IndividualThoughts>{0}を追放することで,次の人たちに,このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+    <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放することで,次の人たちに,このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
     <!-- Send transport pods which are not completely loaded -->
-    <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{0}を積んでいません,発射しますか？</ConfirmSendNotCompletelyLoadedPods>
+    <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
     <!-- Settle near a faction base -->
     <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」と捕らえて,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>

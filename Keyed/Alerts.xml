@@ -28,7 +28,7 @@
     <NeedWardenDesc>囚人が いますが, 「看守」の作業を持った 入植者がひとりもいません.\n\n入植者に 「看守」の作業を 割り当てましょう.</NeedWardenDesc>
 
     <LowFood>食料が少ない</LowFood>
-    <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{0}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
+    <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
 
     <LowMedicine>薬品が少ない</LowMedicine>
     <LowMedicineDesc>倉庫に {0} 単位の 薬品しか ありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
@@ -69,7 +69,7 @@
     <bored>飽きた</bored>
 
     <Boredom>退屈</Boredom>
-    <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の娯楽種別{1}:\n\n{2}</BoredomDesc>
+    <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の娯楽種別{PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
     <NeedBatteries>電気をためる</NeedBatteries>
     <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません. これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>

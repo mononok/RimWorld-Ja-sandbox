@@ -28,7 +28,7 @@
     <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
     <MinimumSkill>必要スキル</MinimumSkill>
     <SuspendedCaps>中止</SuspendedCaps>
-    <BoundWorkerIs>作業者: {0}</BoundWorkerIs>
+    <BoundWorkerIs>担当: {1_labelShort}</BoundWorkerIs>
     <PlantVerb>植物</PlantVerb>
     <ClipboardBillNotAvailableHere>ここにはペーストできません.</ClipboardBillNotAvailableHere>
     <ReorderBillUpTip>上へ</ReorderBillUpTip>
@@ -104,7 +104,7 @@
     <!-- Training tab-->
     <Trainability>調教しやすさ</Trainability>
     <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です.</CannotTrainNotSmartEnough>
-    <CannotTrainTooSmall>この調教をするには {0}は あまりにも小さすぎます.</CannotTrainTooSmall>
+    <CannotTrainTooSmall>この調教をするには {1_labelShort}は あまりにも小さすぎます.</CannotTrainTooSmall>
 
     <TrainingNeedsPrerequisite>必要: {0}</TrainingNeedsPrerequisite>
 
@@ -114,8 +114,8 @@
     <Missing>消息不明</Missing>
     <Slave>奴隷</Slave>
     <FactionLeader>派閥のリーダー</FactionLeader>
-    <OpinionOf>{0}への評価</OpinionOf>
-    <SomeonesOpinionOfMe>{0}がする 私への評価</SomeonesOpinionOfMe>
+    <OpinionOf>{1_labelShort}への評価</OpinionOf>
+    <SomeonesOpinionOfMe>{1_labelShort}がする 私への評価</SomeonesOpinionOfMe>
     <IAmDead>私は死んだ</IAmDead>
     <IAmPsychopath>私はサイコパス</IAmPsychopath>
 

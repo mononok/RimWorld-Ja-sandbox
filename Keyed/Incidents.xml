@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <LetterLabelAnimalInsanitySingle>{0} 暴走</LetterLabelAnimalInsanitySingle>
-    <AnimalInsanitySingle>その地域の {0} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
+    <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} 暴走</LetterLabelAnimalInsanitySingle>
+    <AnimalInsanitySingle>その地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
     <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
     <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
 
@@ -13,16 +13,16 @@
     <MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
 
     <!-- Enemy raids -->
-    <EnemyRaidLeaderPresent>{0} - {1} うちの１人は,この派閥のリーダーです.</EnemyRaidLeaderPresent>
+    <EnemyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort} うちの１人は,この派閥のリーダーです.</EnemyRaidLeaderPresent>
 
     <!-- Friendly raids -->
-    <FriendlyRaidLeaderPresent>{0} - {1}うちの１人は,この派閥のリーダーです.</FriendlyRaidLeaderPresent>
+    <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort}うちの１人は,この派閥のリーダーです.</FriendlyRaidLeaderPresent>
 
     <LetterLabelRefugeePodCrash>輸送ポッド事故</LetterLabelRefugeePodCrash>
-    <RefugeePodCrash>[PAWN_nameDef]という [PAWN_title]が乗った 輸送ポッドが近くに墜落してきます. もし[PAWN_pronoun]が衝撃から生き残ったとしても,[PAWN_pronoun]は重傷を負っているでしょう.</RefugeePodCrash>
-    <RefugeePodCrash_Factionless>[PAWN_nameDef]は どこの派閥にも属していません. あなたは[PAWN_objective]助けて,[PAWN_pronoun]を加えることも自由ですし,奴隷として勧誘することもできます.</RefugeePodCrash_Factionless>
-    <RefugeePodCrash_Hostile>[PAWN_nameDef]は あなたの敵[PAWN_factionName]から来ました. あなたは勧誘か奴隷目的で [PAWN_objective]捕らえることができます.</RefugeePodCrash_Hostile>
-    <RefugeePodCrash_NonHostile>[PAWN_nameDef]は [PAWN_factionName]から来ました. あなたが[PAWN_objective]助けると, [PAWN_pronoun]は勝手に仲間になるかもしれません. そうでなくても,[PAWN_pronoun]は自分の本拠地に戻って, あなたがしてくれた善意を広めるでしょう.</RefugeePodCrash_NonHostile>
+    <RefugeePodCrash>{PAWN_nameDef}という {PAWN_titleIndef}が乗った 輸送ポッドが近くに墜落してきます. もし{PAWN_pronoun}が衝撃から生き残ったとしても,{PAWN_pronoun}は重傷を負っているでしょう.</RefugeePodCrash>
+    <RefugeePodCrash_Factionless>{PAWN_nameDef}は どこの派閥にも属していません. あなたは{PAWN_objective}助けて,{PAWN_pronoun}を加えることも自由ですし,{PAWN_objective}奴隷として勧誘することもできます.</RefugeePodCrash_Factionless>
+    <RefugeePodCrash_Hostile>{PAWN_nameDef}は あなたの敵{PAWN_factionName}から来ました. あなたは勧誘か奴隷目的で {PAWN_objective}捕らえることができます.</RefugeePodCrash_Hostile>
+    <RefugeePodCrash_NonHostile>{PAWN_nameDef}は {PAWN_factionName}から来ました. あなたが{PAWN_objective}助けると, {PAWN_pronoun}は勝手に仲間になるかもしれません. そうでなくても,{PAWN_pronoun}は自分の本拠地に戻って, あなたがしてくれた善意を広めるでしょう.</RefugeePodCrash_NonHostile>
 
     <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
     <CargoPodCrash>輸送ポッドが この近くに 墜落するのを見かけました.\n\nその付近を探せば 役に立つものが 見つかるでしょう.</CargoPodCrash>
@@ -36,17 +36,17 @@
 
     <TraderArrival>商船は, 惑星のそばを 通過しようと しています.\n\n彼らは {0} という名で\n {1} を なりわいと しています.</TraderArrival>
 
-    <SingleTravelerPassing>{1}の {0}が 村の近くに います.[PAWN_pronoun]は {2}と名乗っています.</SingleTravelerPassing>
+    <SingleTravelerPassing>{1}の {PAWN_title}が 村の近くに います.{PAWN_pronoun}は {PAWN_nameFull}と名乗っています.</SingleTravelerPassing>
     <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います.</GroupTravelersPassing>
 
     <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-    <SingleVisitorArrives>{1}の {0}が 村を 訪問しています.\n\n[PAWN_pronoun]は {2}と 名乗っています.{3}{4}</SingleVisitorArrives>
-    <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun]は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
-    <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun]は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
+    <SingleVisitorArrives>{1}の {PAWN_titleIndef}が 村を 訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています.{3}{4}</SingleVisitorArrives>
+    <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
+    <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun}は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
     <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
     <GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています.{1}{2}</GroupVisitorsArrive>
     <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
-    <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {0}は 派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
+    <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {1_labelShort}は 派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
     <VisitorsLeaving>訪問中の {0}は 去りました.</VisitorsLeaving>
 
     <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
@@ -77,16 +77,16 @@
 
     <!-- Refugee chased -->
     <RefugeeChasedTitle>{0}からの亡命者</RefugeeChasedTitle>
-    <RefugeeChasedInitial>[PAWN_nameDef]という名の[PAWN_title]が近くから,あなたを呼んでいます.[PAWN_pronoun]は,{3}からの{2}に追われています!\n\n[PAWN_pronoun]は,身の安全と,あなたのコロニーに加わりたいと命乞いをしています.[PAWN_pronoun]は,年齢が{4}歳で,,,それ以上の情報を聞き出す時間がありませんでした.\n\n【注意】:あなたが承知すると,[PAWN_possessive]背後の{2}と戦わないといけません.次で構成されています:\n\n{5}</RefugeeChasedInitial>
+    <RefugeeChasedInitial>{PAWN_nameDef}という名の[PAWN_title]が近くから,あなたを呼んでいます.{PAWN_pronoun}は,{3}からの{2}に追われています!\n\n{PAWN_pronoun}は,身の安全と,あなたのコロニーに加わりたいと命乞いをしています.{PAWN_pronoun}は,年齢が{4}歳で,,,それ以上の情報を聞き出す時間がありませんでした.\n\n【注意】:あなたが承知すると,[PAWN_possessive]背後の{2}と戦わないといけません.次で構成されています:\n\n{5}</RefugeeChasedInitial>
     <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
     <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
-    <RefugeeChasedRejected>あなたが通信装置を切る間際,{0}の 絶望してパニックを起こした叫び声が,スピーカから聞こえてきた.</RefugeeChasedRejected>
+    <RefugeeChasedRejected>あなたが通信装置を切る間際,{1_labelShort}の 絶望してパニックを起こした叫び声が,スピーカから聞こえてきた.</RefugeeChasedRejected>
 
     <!-- Self-tame -->
-    <LetterLabelAnimalSelfTame>{0}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
+    <LetterLabelAnimalSelfTame>{1_kind}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
     <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
-    <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた.仮に{1}とした</LetterAnimalSelfTameAndNameNumerical>
-    <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた.入植者達は{1}と名付けた</LetterAnimalSelfTameAndName>
+    <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた.仮に{ANIMAL_nameFull}とした</LetterAnimalSelfTameAndNameNumerical>
+    <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた.入植者達は{ANIMAL_nameFull}と名付けた</LetterAnimalSelfTameAndName>
 
     <!-- Farm animals wander in -->
     <LetterLabelFarmAnimalsWanderIn>{0}が加わりました</LetterLabelFarmAnimalsWanderIn>
@@ -102,7 +102,7 @@
 
     <!-- Ransom demand -->
     <RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
-    <RansomDemand>{1}が 通信で あなたに呼びかけています.彼らは,入植者 {0}を 人質にしています.\n\n彼らは,身代金 {2}シルバーと交換に,[PAWN_objective] 解放する用意があると言ってきています.</RansomDemand>
+    <RansomDemand>{1}が 通信で あなたに呼びかけています.彼らは,入植者 {0}を 人質にしています.\n\n彼らは,身代金 {2}シルバーと交換に,{PAWN_objective} 解放する用意があると言ってきています.</RansomDemand>
     <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
     <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 

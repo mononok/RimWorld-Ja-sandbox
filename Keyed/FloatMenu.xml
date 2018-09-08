@@ -8,24 +8,24 @@
     <CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
     <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
     <CannotUseFull>使用できない (満載)</CannotUseFull>
-  <LeaderUnavailable>リーダー{0}は存在しない</LeaderUnavailable>
+  <LeaderUnavailable>リーダー{1_labelShort}は存在しない</LeaderUnavailable>
     <LeaderUnavailableNoLeader>リーダーは存在しない</LeaderUnavailableNoLeader>
 
-<FireAt>{0}に発射 (遠距離)</FireAt>
+<FireAt>{1_label}に発射 (遠距離)</FireAt>
 
 <OutOfRange>範囲外</OutOfRange>
   <TooClose>最低射程内</TooClose>
 <CannotHitTarget>対象に命中しない</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0}は 暴力行為ができない</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{1_labelShort}は 暴力行為ができない</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{0}は 徴兵されていない</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort}は 徴兵されていない</IsNotDraftedLower>
   <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
 
-    <OrderManThing>{0}に配置</OrderManThing>
+    <OrderManThing>{1_labelShort}に配置</OrderManThing>
 
-    <MeleeAttack>{0}に近接攻撃</MeleeAttack>
-    <MeleeAttackToDeath>{0}を 近接攻撃で殺害する</MeleeAttackToDeath>
+    <MeleeAttack>{1_label}に近接攻撃</MeleeAttack>
+    <MeleeAttackToDeath>{1_label}を 近接攻撃で殺害する</MeleeAttackToDeath>
     <NoPath>道順が無い</NoPath>
 
     <ForbiddenLower>禁止</ForbiddenLower>
@@ -64,22 +64,22 @@
     <IncapableOfMining>掘削する能力がない</IncapableOfMining>
     <AngersFaction>怒っている派閥</AngersFaction>
 
-    <ConsumeThing>{0}を口にする</ConsumeThing>
+    <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
 
     <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
     <GoHere>ここに移動する</GoHere>
 
     <Arrest>{0}を 逮捕する</Arrest>
-    <TryToArrest>{0}の逮捕を試みる</TryToArrest>
+    <TryToArrest>{1_label}の逮捕を試みる</TryToArrest>
     <CannotArrest>逮捕できない</CannotArrest>
 
-    <Capture>{0}を 捕らえる</Capture>
+    <Capture>{1_label}を 捕らえる</Capture>
     <CannotCapture>捕獲できない</CannotCapture>
 
-    <Rescue>{0}を 救助する</Rescue>
+    <Rescue>{1_label}を 救助する</Rescue>
     <CannotRescue>救助できない</CannotRescue>
 
-    <CarryToCryptosleepCasket>{0}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
+    <CarryToCryptosleepCasket>{1_label}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
     <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
@@ -87,7 +87,7 @@
 <NoNonPrisonerBed>周囲と壁で遮断され,適温な,入植者用ベッドがない</NoNonPrisonerBed>
   <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
 <Reserved>他の誰かが 使用している</Reserved>
-<ReservedBy>{0}が 使用している</ReservedBy>
+<ReservedBy>{1_labelShort}が 使用している</ReservedBy>
 <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
   <TooHeavy>重すぎる</TooHeavy>
 
@@ -99,44 +99,44 @@
     <Equip>{0}を 装備する</Equip>
     <EquipWarningBrawler>(格闘家は 不機嫌になります)</EquipWarningBrawler>
     <CannotEquip>{0}を 装備できない</CannotEquip>
-    <CannotManThing>{0}を 配置できない</CannotManThing>
+    <CannotManThing>{1_labelShort}を 配置できない</CannotManThing>
 
-  <ForceWear>{0}に 着替えさせる</ForceWear>
-<CannotWear>{0}を 着用できない</CannotWear>
+  <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
+<CannotWear>{1_label}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
-    <CannotPickUp>拾えない {0}</CannotPickUp>
-    <CannotPickUpAll>拾えない {0} (全て)</CannotPickUpAll>
-    <PickUp>{0}を拾う</PickUp>
-    <PickUpAll>{0}を拾う (全て)</PickUpAll>
-    <PickUpSome>{0}を拾う...</PickUpSome>
-    <PickUpCount>{0} x{{0}}を拾う</PickUpCount>
+    <CannotPickUp>拾えない {1_label}</CannotPickUp>
+    <CannotPickUpAll>拾えない {1_label} (全て)</CannotPickUpAll>
+    <PickUp>{1_label}を拾う</PickUp>
+    <PickUpAll>{1_label}を拾う (全て)</PickUpAll>
+    <PickUpSome>{1_labelShort}を拾う...</PickUpSome>
+    <PickUpCount>{1_labelShort} x{{1_labelShort}}を拾う</PickUpCount>
 
-    <CannotGiveToPackAnimal>{0}を駄載獣に与えられない</CannotGiveToPackAnimal>
-    <CannotGiveToPackAnimalAll>{0}を駄載獣に与えられない (全て)</CannotGiveToPackAnimalAll>
-    <GiveToPackAnimal>{0}を駄載獣に与える</GiveToPackAnimal>
-    <GiveToPackAnimalAll>{0}を駄載獣に与える (全て)</GiveToPackAnimalAll>
-    <GiveToPackAnimalSome>{0}を駄載獣に与える</GiveToPackAnimalSome>
-    <GiveToPackAnimalCount>{0} x{{0}}を取る</GiveToPackAnimalCount>
+    <CannotGiveToPackAnimal>{1_label}を駄載獣に与えられない</CannotGiveToPackAnimal>
+    <CannotGiveToPackAnimalAll>{1_label}を駄載獣に与えられない (全て)</CannotGiveToPackAnimalAll>
+    <GiveToPackAnimal>{1_label}を駄載獣に与える</GiveToPackAnimal>
+    <GiveToPackAnimalAll>{1_label}を駄載獣に与える (全て)</GiveToPackAnimalAll>
+    <GiveToPackAnimalSome>{1_labelShort}を駄載獣に与える</GiveToPackAnimalSome>
+    <GiveToPackAnimalCount>{1_labelShort} x{{1_labelShort}}を取る</GiveToPackAnimalCount>
 
-    <CannotLoadIntoCaravan>{0}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
-    <CannotLoadIntoCaravanAll>{0}(all)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
-    <LoadIntoCaravan>{0}をキャラバン隊に積載する</LoadIntoCaravan>
-    <LoadIntoCaravanAll>{0}(all)をキャラバン隊に積載する</LoadIntoCaravanAll>
-    <LoadIntoCaravanSome>{0}をキャラバン隊に積載する....</LoadIntoCaravanSome>
-    <LoadIntoCaravanCount>積載量 {0} x{{0}}</LoadIntoCaravanCount>
+    <CannotLoadIntoCaravan>{1_label}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
+    <CannotLoadIntoCaravanAll>{1_label}(all)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+    <LoadIntoCaravan>{1_label}をキャラバン隊に積載する</LoadIntoCaravan>
+    <LoadIntoCaravanAll>{1_label}(all)をキャラバン隊に積載する</LoadIntoCaravanAll>
+    <LoadIntoCaravanSome>{1_labelShort}をキャラバン隊に積載する....</LoadIntoCaravanSome>
+    <LoadIntoCaravanCount>積載量 {1_labelShort} x{{1_labelShort}}</LoadIntoCaravanCount>
     <OverweightLower>過積載</OverweightLower>
 
-    <CannotCarryToExit>{0}を運んで,エリアを離れることができない</CannotCarryToExit>
-    <CarryToExit>{0}を運んで,エリアを離れる</CarryToExit>
-    <CarryToExitAndCapture>{0}を捕獲して此処から離れる</CarryToExitAndCapture>
+    <CannotCarryToExit>{1_label}を運んで,エリアを離れることができない</CannotCarryToExit>
+    <CarryToExit>{1_label}を運んで,エリアを離れる</CarryToExit>
+    <CarryToExitAndCapture>{1_label}を捕獲して此処から離れる</CarryToExitAndCapture>
 
-    <Strip>{0}を 剥ぐ</Strip>
-    <CannotStrip>{0}を 脱げない</CannotStrip>
+    <Strip>{1_label}を 剥ぐ</Strip>
+    <CannotStrip>{1_label}を 脱げない</CannotStrip>
 
     <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
-    <Drop>{0}を 手放す</Drop>
+    <Drop>{1_label}を 手放す</Drop>
 
     <UseMedicalBed>完治するまで休む</UseMedicalBed>
     <NotInjured>無傷</NotInjured>
@@ -159,13 +159,13 @@
     <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
 
     <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-    <CannotGenericWork>{1}を{0}できない</CannotGenericWork>
+    <CannotGenericWork>{2_labelShort}を{0}できない</CannotGenericWork>
     <CannotGenericWorkCustom>{0}できない</CannotGenericWorkCustom>
 
     <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
     <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-    <CannotGenericAlreadyAm>{1}は すでに {0}中です</CannotGenericAlreadyAm>
+    <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}中です</CannotGenericAlreadyAm>
 
     <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
 
@@ -177,7 +177,7 @@
 
     <CannotPrioritizeResearch>優先できない （研究は,優先順位をつけられない）</CannotPrioritizeResearch>
 
-    <CannotPrioritizeForbidden>優先できない （{0}は 禁止されている）</CannotPrioritizeForbidden>
+    <CannotPrioritizeForbidden>優先できない （{1_label}は 禁止されている）</CannotPrioritizeForbidden>
     <CannotPrioritizeCellForbidden>優先できない (禁止事項)</CannotPrioritizeCellForbidden>
     <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
 

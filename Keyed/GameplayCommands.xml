@@ -25,7 +25,7 @@
     <CommandDraftLabel>徴兵</CommandDraftLabel>
     <CommandUndraftLabel>徴兵終了</CommandUndraftLabel>
     <CommandToggleDraftDesc>入植者を徴兵します.\n\n徴兵中の入植者は,戦闘と与えられた指示のみを実行します.\n\n別の作業や, 食事, 睡眠などを与えたい時は 徴兵終了を選択してください.</CommandToggleDraftDesc>
-    <IsIncapped>{0}は歩くことができない.</IsIncapped>
+    <IsIncapped>{1_labelShort}は歩くことができない.</IsIncapped>
 
     <CommandFireAtWillLabel>発砲許可</CommandFireAtWillLabel>
     <CommandFireAtWillDesc>発砲許可を切り替えます.\n\n無効にすると,このキャラは自動的には発砲しなくなります.これは白兵戦には影響しません.</CommandFireAtWillDesc>

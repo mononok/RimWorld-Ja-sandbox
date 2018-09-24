@@ -69,8 +69,8 @@
     <!-- Nuzzle -->
 	<Nuzzle.label>すり寄ってくる</Nuzzle.label>
     <Nuzzle.logRulesInitiator.rulesStrings>
-	    <li>r_logentry(p=2)->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[nuzzleadverb][nuzzled]</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameIndef]の[rubbedpart]に[nuzzleadverb]擦りつけた</li>
+	    <li>r_logentry(p=2)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[nuzzleadverb][nuzzled]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[INITIATOR_possessive]鼻を[RECIPIENT_nameDef]の[rubbedpart]に[nuzzleadverb]擦りつけた</li>
 	
 	    <li>nuzzled(p=2)->擦り寄ってきた</li>
 	    <li>nuzzled->寄り添ってきた</li>

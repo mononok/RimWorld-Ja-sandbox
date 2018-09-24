@@ -4,13 +4,13 @@
     <!-- BuildRapport -->
 	<BuildRapport.label>知っている事を取ろうとする</BuildRapport.label>
     <BuildRapport.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[subject][toldastoryabout]</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]に話した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]に説明した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[subject][talkabout]ことを[RECIPIENT_nameIndef]に勧めた</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[subject][talkabout]チャンスを薦めた</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]の[PersonalCharacteristic]に興味を示した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[RECIPIENT_possessive][PersonalCharacteristic]を尋ねた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[subject][toldastoryabout]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[subject]について[RECIPIENT_nameDef]に話した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[subject]について[RECIPIENT_nameDef]に説明した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[subject][talkabout]ことを[RECIPIENT_nameDef]に勧めた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[subject][talkabout]チャンスを薦めた</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[PersonalCharacteristic]に興味を示した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[RECIPIENT_possessive][PersonalCharacteristic]を尋ねた</li>
 
 	    <li>toldastoryabout(p=2)->について話をした</li>
 	    <li>toldastoryabout->についておかしな話をした</li>
@@ -46,8 +46,8 @@
     <!-- RecruitAttempt -->
 	<RecruitAttempt.label>勧誘</RecruitAttempt.label>
     <RecruitAttempt.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は仲間になろうと[RECIPIENT_nameIndef]を誘った</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に[goodthing]を約束し,仲間になろうと[RECIPIENT_nameIndef]を誘った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は仲間になろうと[RECIPIENT_nameDef]を誘った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[goodthing]を約束し,仲間になろうと[RECIPIENT_nameDef]を誘った</li>
 
 	    <li>goodthing(p=15)->[ConceptPositive]</li>
 	    <li>goodthing->自由と新鮮な[Vegetable]</li>
@@ -56,10 +56,10 @@
     <!-- SparkJailbreak -->
 	<SparkJailbreak.label>脱走先導</SparkJailbreak.label>
     <SparkJailbreak.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[freedom]の良さについて話し脱走方法を提案した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は,どれだけ[TerrainFeature]が美しいかについて話し自由へと誘った</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]に脱走の仕方についてハッキリと示し[freedom]を約束した</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は,警備が緩んでいるので脱走を勧める話を[RECIPIENT_nameIndef]に言った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[freedom]の良さについて話し脱走方法を提案した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は,どれだけ[TerrainFeature]が美しいかについて話し自由へと誘った</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に脱走の仕方についてハッキリと示し[freedom]を約束した</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は,警備が緩んでいるので脱走を勧める話を[RECIPIENT_nameDef]に言った</li>
 
 	    <li>freedom->自由</li>
 	    <li>freedom->成功すること</li>

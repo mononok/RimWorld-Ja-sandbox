@@ -6,10 +6,10 @@
     <BreakRiskMinor>精神変調 リスク</BreakRiskMinor>
     <BreakRiskMajor>精神衰弱 リスク</BreakRiskMajor>
     <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
-    <BreakRiskMinorDesc>次の入植者のムードが低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
-    <BreakRiskMajorDesc>次の入植者のムードがとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
-    <BreakRiskExtremeDesc>次の入植者のムードは,ストレス下にあって危機的状況です.いまにも精神崩壊(暴力的かも..)を起こしそうです:\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\nムードを良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,などの事をしましょう.</BreakRiskDescEnding>
+    <BreakRiskMinorDesc>次の入植者の"心情"が低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
+    <BreakRiskMajorDesc>次の入植者の"心情"がとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
+    <BreakRiskExtremeDesc>次の入植者の"心情"は,ストレス下にあって危機的状況です.今にも精神崩壊(暴力的かも..)を起こしそうです:\n\n{0}</BreakRiskExtremeDesc>
+    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,などの事をしましょう.</BreakRiskDescEnding>
 
     <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
     <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
@@ -19,13 +19,13 @@
     <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
 
     <NeedDoctor>医者が必要</NeedDoctor>
-    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 医療をする 健常な入植者が いません.\n\n{0}\n健常な 入植者に 医療を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して治らなくなるでしょう.</NeedDoctorDesc>
+    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」作業をする 健常な入植者が いません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して治らなくなるでしょう.</NeedDoctorDesc>
 
     <NeedMiner>坑夫が必要</NeedMiner>
-    <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」の作業を持った 入植者がひとりもいません.\n\n入植者に 「採掘」の作業を 割り当てましょう.</NeedMinerDesc>
+    <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」作業を持った 入植者が一人もいません.\n\n入植者に 「採掘」作業を 割り当てましょう.</NeedMinerDesc>
 
     <NeedWarden>囚人に看守を</NeedWarden>
-    <NeedWardenDesc>囚人が いますが, 「看守」の作業を持った 入植者がひとりもいません.\n\n入植者に 「看守」の作業を 割り当てましょう.</NeedWardenDesc>
+    <NeedWardenDesc>囚人が いますが, 「看守」作業を持った 入植者が一人もいません.\n\n入植者に 「看守」作業を 割り当てましょう.</NeedWardenDesc>
 
     <LowFood>食料が少ない</LowFood>
     <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
@@ -35,10 +35,10 @@
     <NoMedicineDesc>倉庫に,ひとつも薬品がありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
 
     <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
-    <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが 眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう. コストゼロの 「寝床」は すぐに つくれます.</NeedColonistBedsDesc>
+    <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう. コストゼロの 「寝床」は すぐに 作れます.</NeedColonistBedsDesc>
 
     <HunterLacksWeapon>武装する</HunterLacksWeapon>
-    <HunterLacksWeaponDesc>ハンターの 作業を与えた入植者が 遠距離武器で武装していません.\n\nハンターは遠距離武器で武装させないと狩りを行いません.</HunterLacksWeaponDesc>
+    <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
 
     <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
     <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を取得します.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
@@ -56,7 +56,7 @@
     <ExhaustionDesc>入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
 
     <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
-    <NeedFoodHopperDesc>ペーストディスペンサーがありますが,食材ホッパーがありません.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に つくりましょう.</NeedFoodHopperDesc>
+    <NeedFoodHopperDesc>ペーストディスペンサーがありますが,食材ホッパーがありません.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
 
     <NeedMealSource>食材の調理</NeedMealSource>
     <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は囚人ゾーンの調理器具を, 使用できません.）</NeedMealSourceDesc>
@@ -81,10 +81,10 @@
     <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠距離武器で武装しています.シールドベルト越しに 遠距離武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
 
     <NeedResearchProject>研究計画</NeedResearchProject>
-    <NeedResearchProjectDesc>研究用機器が ありますので, 研究の 計画を たてましょう.\n\n「研究」タブを 開き 研究する計画を 選択します.</NeedResearchProjectDesc>
+    <NeedResearchProjectDesc>研究用機器が ありますので, 研究の 計画を たてましょう.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
 
     <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
-    <ColonistsIdleDesc>次の入植者は 作業がなく 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
+    <ColonistsIdleDesc>次の入植者は 作業が無く 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
 
     <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
     <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません.\n\n治療を行わずにいると,病が慢性化し 死に至ります.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
@@ -93,20 +93,20 @@
     <AlertHypothermiaDesc>入植者は低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせ,室内を適切に暖めましょう.</AlertHypothermiaDesc>
 
     <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
-    <PatientsAwaitingMedicalOperationDesc>患者が外科的手術が始まるのを待っています:\n\n{0}\n治療に必要なツールと,フリーなドクターが居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
+    <PatientsAwaitingMedicalOperationDesc>患者が外科的手術が始まるのを待っています:\n\n{0}\n治療に必要なツールと,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
 
     <FireInHomeArea>火災発生!</FireInHomeArea>
     <FireInHomeAreaDesc>コロニー内にて火災が発生しています.</FireInHomeAreaDesc>
 
     <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
-    <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってるひとがいます.\n\n{0}\nできるかぎりの治療が受けられるか 確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
-    <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってるひとがいます.\n\n{0}\nもし可能なら,入植者を生かしつづけるためにも,感染部位の切断手術や,移植手術も,検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+    <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎりの治療が受けられるか 確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
+    <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nもし可能なら,入植者を生かし続けるためにも,感染部位の切断手術や,移植手術も,検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
     <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
     <BilliardsNeedsSpaceDesc>あるビリヤード台が障害物に隣接している為,入植者が使おうとするのを邪魔しています.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
 
-    <HunterHasShieldAndRangedWeapon>ハンターとシールド</HunterHasShieldAndRangedWeapon>
-    <HunterHasShieldAndRangedWeaponDesc>ハンターの一人は,遠距離武器で武装しつつ,猟場で撃たれるのを防ぐためシールドベルトを巻いています.\n\nしかしパーソナルシールドを脱がないかぎり,彼らは狩りができません.</HunterHasShieldAndRangedWeaponDesc>
+    <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
+    <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠距離武器で武装しつつ,猟場で撃たれるのを防ぐためシールドベルトを巻いています.\n\nしかしパーソナルシールドを脱がないかぎり,彼らは狩りができません.</HunterHasShieldAndRangedWeaponDesc>
 
     <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
     <NeedWarmClothesDesc1>寒気がやってきたとき, 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
@@ -114,6 +114,6 @@
     <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
 
     <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
-    <ImmobileCaravanDesc>キャラバン隊の１つが,荷物が多すぎて行動不能になりました.\n\n「アイテム」タブから幾つかのアイテムを放棄して,再び移動できるようにしてください.</ImmobileCaravanDesc>
+    <ImmobileCaravanDesc>あるキャラバン隊は,荷物が多すぎて行動不能になりました.\n\n「アイテム」タブから幾つかのアイテムを放棄して,再び移動できるようにしてください.</ImmobileCaravanDesc>
 
 </LanguageData>

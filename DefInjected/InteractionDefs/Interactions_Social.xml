@@ -6,8 +6,8 @@
     <!-- Chitchat -->
     <Chitchat.label>世間話</Chitchat.label>
     <Chitchat.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]と[RECIPIENT_nameIndef]は[TalkTopicLight]について[talkedabout]</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[TalkTopicLight]について[RECIPIENT_nameIndef]と[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]と[RECIPIENT_nameDef]は[TalkTopicLight]について[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[TalkTopicLight]について[RECIPIENT_nameDef]と[talkedabout]</li>
 	    <li>talkedabout(p=4)->おしゃべりした</li>
 	    <li>talkedabout->井戸端会議をした</li>
 	    <li>talkedabout->話した</li>
@@ -20,8 +20,8 @@
     <!-- DeepTalk -->
     <DeepTalk.label>込み入った話</DeepTalk.label>
     <DeepTalk.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]と[RECIPIENT_nameIndef]は[subject]について[talkedabout]</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[subject]について[RECIPIENT_nameIndef]と[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]と[RECIPIENT_nameDef]は[subject]について[talkedabout]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[subject]について[RECIPIENT_nameDef]と[talkedabout]</li>
 
 	    <li>talkedabout->思うことを伝えた</li>
 	    <li>talkedabout->意見の交換をした</li>
@@ -39,9 +39,9 @@
     <!-- Slight -->
     <Slight.label>冷たくあしらわれた</Slight.label>
     <Slight.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[target]の[PersonalCharacteristic][madefunof]</li>
-	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-	    <li>target->[RECIPIENT_nameIndef]の[Family]</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[target]の[PersonalCharacteristic][madefunof]</li>
+	    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+	    <li>target->[RECIPIENT_nameDef]の[Family]</li>
 	    <li>madefunof->をバカにした</li>
 	    <li>madefunof->を見下した</li>
 	    <li>madefunof->を微妙に嘲笑した</li>
@@ -59,12 +59,12 @@
     <!-- Insult -->
     <Insult.label>侮辱</Insult.label>
     <Insult.logRulesInitiator.rulesStrings>
-	    <li>r_logentry(p=3)->[INITIATOR_nameIndef]は[target]の[PersonalCharacteristic][insulted].</li>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[target]と[insultcomparison]を比べた.</li>
-	    <li>r_logentry->[INITIATOR_nameIndef] called [target] a [insultcomparison].</li>
+	    <li>r_logentry(p=3)->[INITIATOR_nameDef]は[target]の[PersonalCharacteristic][insulted].</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[target]と[insultcomparison]を比べた.</li>
+	    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
 
-	    <li>target(p=4)->[RECIPIENT_nameIndef]</li>
-	    <li>target->[RECIPIENT_nameIndef]の[Family]</li>
+	    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+	    <li>target->[RECIPIENT_nameDef]の[Family]</li>
 
 	    <li>insulted(p=3)->を侮辱した</li>
 	    <li>insulted->を公然と侮辱した</li>
@@ -84,7 +84,7 @@
     <!-- KindWords -->
     <KindWords.label>優しい言葉</KindWords.label>
     <KindWords.logRulesInitiator.rulesStrings>
-	    <li>r_logentry->[INITIATOR_nameIndef]は[RECIPIENT_nameIndef]の[PersonalCharacteristic][complimented].</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[RECIPIENT_nameDef]の[PersonalCharacteristic][complimented].</li>
 
 	    <li>complimented(p=3)->のお世辞を述べた</li>
 	    <li>complimented->を讃えた</li>

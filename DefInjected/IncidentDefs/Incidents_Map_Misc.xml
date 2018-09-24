@@ -7,15 +7,15 @@
 
     <AmbrosiaSprout.label>アンブロージアの発芽</AmbrosiaSprout.label>
     <AmbrosiaSprout.letterLabel>アンブロージアの発芽</AmbrosiaSprout.letterLabel>
-    <AmbrosiaSprout.letterText>近くにある,ミステリアスなアンブロージアの林で新芽が発芽しました!.成長するまで待てば,美味しくて喜ばしい,プチ病みつきになるフルーツを収穫できるでしょう.</AmbrosiaSprout.letterText>
+    <AmbrosiaSprout.letterText>すぐ近くのミステリアスなアンブロージアの木立で新芽が発芽しました!.成長するまで待てば,美味しくて喜ばしい,プチ病みつきになるフルーツを収穫できるでしょう.</AmbrosiaSprout.letterText>
 
     <FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
 
     <WandererJoin.label>新たな入植者</WandererJoin.label>
     <WandererJoin.letterLabel>新たな入植者 </WandererJoin.letterLabel>
-    <WandererJoin.letterText>[PAWN_nameDef]と名のる[PAWN_kind]がコロニー到着して仲間に加わった.[PAWN_pronoun]は[PAWN_title]です.\n\n[PAWN_pronoun]は役に立ちたいと思っているので自分から去ることは無いでしょう.[PAWN_nameDef]を必要としないなら,[PAWN_objective]追放,奴隷として売却,もっと簡単に始末することもできます.しかしながら,他の入植者達は,この騒乱を見つけると思います.</WandererJoin.letterText>
+    <WandererJoin.letterText>{PAWN_nameDef}と名のる{PAWN_kind}が到着すると,コロニーに加わりました.{PAWN_pronoun}は{PAWN_title}です.\n\n{PAWN_pronoun}は役に立ちたいと思っているので自分から去ることは無いでしょう.{PAWN_nameDef}を必要としないなら,{PAWN_objective}追放,奴隷として売却,もっと簡単に始末することもできます.しかしながら,他の入植者達は,この騒乱を見つけると思います.</WandererJoin.letterText>
 
-    <RefugeePodCrash.label>脱出ポッド落下</RefugeePodCrash.label>
+    <RefugeePodCrash.label>輸送ポッド落下</RefugeePodCrash.label>
 
     <!-- =========================== Neutral ============================-->
     <RefugeeChased.label>亡命者</RefugeeChased.label>
@@ -30,12 +30,12 @@
     <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました.それは{0}の塊を残しました.</MeteoriteImpact.letterText>
 
     <HerdMigration.label>大群の移動</HerdMigration.label>
-    <HerdMigration.letterLabel>動物達の移動: {0}</HerdMigration.letterLabel>
-    <HerdMigration.letterText>{0}の群れが,このエリアを通り過ぎようとしています.\n\n彼らは挑発されない限り,攻撃してこないでしょう.</HerdMigration.letterText>
+    <HerdMigration.letterLabel>{0}の大移動</HerdMigration.letterLabel>
+    <HerdMigration.letterText>{0}の群れが,このエリアを通り過ぎようとしています.\n\n彼らは挑発されない限り,攻撃してきません.</HerdMigration.letterText>
 
     <WildManWandersIn.label>放浪の野蛮人</WildManWandersIn.label>
     <WildManWandersIn.letterLabel>放浪の野蛮人</WildManWandersIn.letterLabel>
-    <WildManWandersIn.letterText>野生動物と暮らす人間が,このエリアに彷徨って来ました.{0}と呼ばれています.\n\nあなたは[PAWN_objective]手懐けることができます.</WildManWandersIn.letterText>
+    <WildManWandersIn.letterText>野生動物と暮らす人間が,このエリアに彷徨って来ました.{0}と呼ばれています.\n\nあなたは{PAWN_objective}手懐けることができます.</WildManWandersIn.letterText>
 
     <!--========================== Bad ===============================-->
     <PsychicDrone.label>サイコドローン</PsychicDrone.label>
@@ -46,7 +46,7 @@
 
     <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
     <VolcanicWinter.letterLabel>火山の冬</VolcanicWinter.letterLabel>
-    <VolcanicWinter.letterText>遠くの火山が爆発し100万立方キロメートルの火山灰を大気中に放出しています.\n\n大気中の火山灰によって太陽光が遮られるでしょう.気温は下がり,日照量が少なくなれば作物の成長も悪くなるでしょう,影響が無くなるまで数週間から数ヶ月かかるでしょう.</VolcanicWinter.letterText>
+    <VolcanicWinter.letterText>遠くの巨大火山が爆発し100万立方キロメートルの火山灰を大気中に放出しています.\n\n大気中の火山灰によって太陽光が遮られるでしょう.気温は下がり,日照量が少なくなれば作物の成長も悪くなるでしょう,影響が無くなるまで数週間から数ヶ月かかるでしょう.</VolcanicWinter.letterText>
 
     <HeatWave.label>熱波</HeatWave.label>
     <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
@@ -54,7 +54,7 @@
 
     <ColdSnap.label>寒波</ColdSnap.label>
     <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
-    <ColdSnap.letterText>異常な寒波が始まります.\n\n寒波は,低体温症を誘発していとも簡単に殺すことができます.生存する為の暖房施設があるか,適切な服を着ているか確認し,作物が枯れて死ぬ前に収穫します.</ColdSnap.letterText>
+    <ColdSnap.letterText>異常な寒波が始まります.\n\n寒波は,低体温症を誘発していとも簡単に殺すことができます.生存する為の暖房施設があるか,適切な服を着ているか確認し,作物は枯れる前に収穫します.</ColdSnap.letterText>
 
     <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
     <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>

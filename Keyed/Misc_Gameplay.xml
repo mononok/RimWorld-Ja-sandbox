@@ -204,8 +204,8 @@
     <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
     <TextMote_Dodge>回避</TextMote_Dodge>
     <TextMote_Tended>{0} 看病された</TextMote_Tended>
-    <lowMood>心情 低い</lowMood>
-    <lowOpinion>評価 低い</lowOpinion>
+    <lowMood>低心情</lowMood>
+    <lowOpinion>低評価</lowOpinion>
 
     <!-- Areas -->
     <Home>コロニー</Home>
@@ -568,9 +568,9 @@
     <ForagedFoodAmount>食料調達量</ForagedFoodAmount>
 
     <!-- Outfits -->
-    <OutfitAnything>なんでも</OutfitAnything>
-    <OutfitWorker>作業者</OutfitWorker>
-    <OutfitSoldier>戦闘員</OutfitSoldier>
+    <OutfitAnything>制限無し</OutfitAnything>
+    <OutfitWorker>作業服</OutfitWorker>
+    <OutfitSoldier>戦闘服</OutfitSoldier>
     <OutfitNudist>ヌーディスト</OutfitNudist>
 
     <!-- Hibernatable -->

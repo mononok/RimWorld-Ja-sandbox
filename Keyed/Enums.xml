@@ -92,7 +92,7 @@
   <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>看護する(薬品は不使用)</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>看護する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>看護する(薬剤以下を投与)</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>看護する(薬剤まで投与)</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>最高品質の医薬品を投与</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
@@ -160,7 +160,7 @@
   <!-- Food poison cause -->
   <FoodPoisonCause_IncompetentCook>間違った調理方法</FoodPoisonCause_IncompetentCook>
   <FoodPoisonCause_FilthyKitchen>不潔な調理場</FoodPoisonCause_FilthyKitchen>
-  <FoodPoisonCause_Rotten>腐敗した原料</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>腐敗した食材</FoodPoisonCause_Rotten>
   <FoodPoisonCause_DangerousFoodType>危険な食物</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->

@@ -2,39 +2,41 @@
 <LanguageData>
 
     <!--=============================== Tier 1: pre-electricity ===================================-->
+
+    <!--===== Column 1 ====-->
     <PsychoidBrewing.label>サイコイド醸造</PsychoidBrewing.label>
-    <PsychoidBrewing.description>サイコイドの葉を水で煮立て,穏やかな多幸感を産み出す中毒性のあるお茶です.</PsychoidBrewing.description>
+    <PsychoidBrewing.description>焚き火やカマドで,サイコイドの葉を水で煮立て,穏やかな多幸感を産み出す中毒性のあるお茶です.</PsychoidBrewing.description>
 
     <TreeSowing.label>植樹・造林</TreeSowing.label>
     <TreeSowing.description>その気候帯に育っている土着の樹木を育てられます.</TreeSowing.description>
 
     <Brewing.label>ビール醸造</Brewing.label>
-    <Brewing.description>ホップを,とても旨いビールにする,醸造器の製造を可能にします.</Brewing.description>
+    <Brewing.description>ホップを,とても旨いビールに変えるための,醸造器や発酵樽の製造を可能にします.</Brewing.description>
 
     <ComplexFurniture.label>複雑な家具</ComplexFurniture.label>
     <ComplexFurniture.description>ベッドやテーブル,ダイニングチェア,アームチェア,タンス,ツールキャビネット,ビリヤードテーブル,ポーカーテーブル,換気口,棺桶,などのような複雑な家具を作ります.</ComplexFurniture.description>
 
-    <PassiveCooler.label>放熱器</PassiveCooler.label>
-    <PassiveCooler.description>電気を使わずに,屋内空間を冷やすことができる,放熱器の製造を可能にします.</PassiveCooler.description>
+    <PassiveCooler.label>気化熱クーラー</PassiveCooler.label>
+    <PassiveCooler.description>電気を使わずに,屋内空間を冷やすことができる,気化熱クーラーの製造を可能にします.</PassiveCooler.description>
 
     <Stonecutting.label>ストーンカッター</Stonecutting.label>
-    <Stonecutting.description>岩の塊を,建設資材として使えるように削り直すことのできる,ストーンカッターの製造を可能にします.</Stonecutting.description>
+    <Stonecutting.description>岩の塊を,建設資材として使えるブロックに切り出します,美しいストーンタイルや,醜いコンクリート歩道の製造を可能にします.</Stonecutting.description>
 
     <ComplexClothing.label>手の込んだ衣類</ComplexClothing.label>
     <ComplexClothing.description>パンツ,ダスターコート,カウボーイハットのような,複雑な衣類の縫製を可能にします.</ComplexClothing.description>
 
     <!--====== Column 2 ======-->
     <DrugProduction.label>ドラッグ製造</DrugProduction.label>
-    <DrugProduction.description>ドラッグ製剤と合成の基礎を学びます.ドラッグラボの製造を可能にします.特定のドラッグを作るには,より研究が必要となります.</DrugProduction.description>
+    <DrugProduction.description>ドラッグ製剤の基礎的な合成を行う,ドラッグラボの製造を可能にします.特定のドラッグを作るには,より研究が必要となります.</DrugProduction.description>
 
     <Cocoa.label>ココア</Cocoa.label>
-    <Cocoa.description>おいしいチョコレートを作る為にココアの樹を切り倒します.チョコを食べることで娯楽を満たし,市場でも貴重な品です.</Cocoa.description>
+    <Cocoa.description>おいしいチョコレートを作る為にココアの木を植樹します.チョコを食べることで娯楽を満たし,市場でも貴重な品です.</Cocoa.description>
 
     <Devilstrand.label>デビルストランド</Devilstrand.label>
-    <Devilstrand.description>貴重な植物繊維を生み出す,育ちの遅いマッシュルーム,デビルストランドの栽培を可能にします.</Devilstrand.description>
+    <Devilstrand.description>群を抜いてタフで,熱に強い植物繊維を生み出す,育ちの遅いマッシュルーム,デビルストランドの栽培を可能にします.</Devilstrand.description>
 
     <CarpetMaking.label>織機</CarpetMaking.label>
-    <CarpetMaking.description>住環境を改善する絨毯の製造を可能にします.</CarpetMaking.description>
+    <CarpetMaking.description>布から美しい絨毯の製造を可能にします.</CarpetMaking.description>
 
     <Pemmican.label>ペミカン</Pemmican.label>
     <Pemmican.description>干し肉とドライフルーツを腐らないように加工し保存食にしたペミカンの製造を可能にします.旅行時の持ち歩きに最適です.</Pemmican.description>
@@ -48,16 +50,16 @@
 
     <!--====== Drugs ======-->
     <PsychiteRefining.label>サイカイト精製</PsychiteRefining.label>
-    <PsychiteRefining.description>サイコイドの葉を,多幸感を引き起こすサイカイトの異なった形状のドラッグ,フレークやイェイョに精製する方法を学びます.</PsychiteRefining.description>
+    <PsychiteRefining.description>サイコイドの葉を,多幸感を引き起こすサイカイトドラッグで形状が異なる,フレークやイェイョに精製します.</PsychiteRefining.description>
 
     <WakeUpProduction.label>ウェイクアップ製造</WakeUpProduction.label>
-    <WakeUpProduction.description>合成ウェイクアップは,睡眠欲求を打ち消し能率向上作用があるドラッグです.</WakeUpProduction.description>
+    <WakeUpProduction.description>睡眠欲求を打ち消し能率向上作用があるウェイクアップを合成します.</WakeUpProduction.description>
 
     <GoJuiceProduction.label>ゴージュース製造</GoJuiceProduction.label>
-    <GoJuiceProduction.description>ゴージュース製造は,射撃,格闘,運動能力,痛みへの耐性など,合成戦闘力向上ドラッグです.</GoJuiceProduction.description>
+    <GoJuiceProduction.description>射撃,格闘,運動能力,痛みへの耐性など,合成戦闘力向上作用があるゴージュースを製造します.</GoJuiceProduction.description>
 
     <PenoxycylineProduction.label>ペノキシリン製造</PenoxycylineProduction.label>
-    <PenoxycylineProduction.description>ペノキシリン製造は,マラリアなど疾病が発症する前にブロックする予防ドラッグです.</PenoxycylineProduction.description>
+    <PenoxycylineProduction.description>マラリアなど疾病が発症する前にブロックする予防作用があるペノキシリンを製造します.</PenoxycylineProduction.description>
 
     <!--====== Medieval weapons ======-->
 
@@ -65,9 +67,9 @@
     <LongBlades.description>ロングソード,スピアを作れます.</LongBlades.description>
 
     <PlateArmor.label>プレートアーマー</PlateArmor.label>
-    <PlateArmor.description>鋼や木からプレートアーマーを作ります.</PlateArmor.description>
+    <PlateArmor.description>鋼や木からプレートアーマーを作ります.この重装甲は著しく歩みを遅くしますが,非常に効果的に防護します.</PlateArmor.description>
 
     <Greatbow.label>グレートボウ</Greatbow.label>
-    <Greatbow.description>遠距離で敵を射殺すグレートボウを作ります.</Greatbow.description>
+    <Greatbow.description>遠距離から敵を射殺すグレートボウを作ります.</Greatbow.description>
 
 </LanguageData>

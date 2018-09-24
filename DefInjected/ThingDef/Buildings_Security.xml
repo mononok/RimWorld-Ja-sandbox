@@ -34,8 +34,8 @@
     <Gun_AutocannonTurret.description>タレットに取り付けられるよう設計された,自動装填式,大口径キャノン砲です.</Gun_AutocannonTurret.description>
     <Gun_AutocannonTurret.verbs.Verb_Shoot.label>オートキャノン</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
 
-    <Turret_Sniper.label>ウラニウム・スラグタレット</Turret_Sniper.label>
-    <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラニウム弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウラニウムスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
+    <Turret_Sniper.label>ウランスラグタレット</Turret_Sniper.label>
+    <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラン弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウランスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
     <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身交換まで打ち続ける</Turret_Sniper.comps.CompRefuelable.fuelLabel>
     <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
     <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>

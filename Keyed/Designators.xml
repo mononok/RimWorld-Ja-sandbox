@@ -105,7 +105,7 @@
 
 
     <!-- Failure messages -->
-    <UnchosenStuff>素材が選ばれていません</UnchosenStuff>
+    <UnchosenStuff>素材が選ばれていません.</UnchosenStuff>
     <TooCloseToMapEdge>マップ端に近すぎます.</TooCloseToMapEdge>
     <OutOfBounds>領域外です.</OutOfBounds>
     <CannotPlaceInUndiscovered>未知の場所に配置することはできません.</CannotPlaceInUndiscovered>
@@ -115,9 +115,9 @@
     <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう.</WouldBlockInteractionSpot>
     <TerrainIsAlready>すでに ここの地面は {0} です.</TerrainIsAlready>
     <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>
-    <IdenticalThingExists>すでに 同じものがあります.</IdenticalThingExists>
+    <IdenticalThingExists>すでに 同じ物があります.</IdenticalThingExists>
     <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
-    <TerrainCannotSupport>この地盤は これを支えられません.</TerrainCannotSupport>
+    <TerrainCannotSupport>この地盤では支えられません.</TerrainCannotSupport>
     <SpaceAlreadyOccupied>すでに この場所はふさがっています.</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください.</TerrainMustBeRemovable>
@@ -125,14 +125,14 @@
 
 
     <!-- placement of zones -->
-    <ExpandOrCreateZone>{0}を拡張するか\n新しく {1}を作ります.</ExpandOrCreateZone>
-    <CreateNewZone>新しく {0}を作ります.</CreateNewZone>
+    <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>
+    <CreateNewZone>新しく{0}を作ります.</CreateNewZone>
 
 
     <!-- desc helpers -->
     <TransmitsPower>送電します.</TransmitsPower>
-    <ConstructionNeeded>建設が必要です</ConstructionNeeded>
-    <NoColonistWithConstructionSkillTip>このスキルを持っている{0}はひとりもいません.</NoColonistWithConstructionSkillTip>
+    <ConstructionNeeded>建設が必要です.</ConstructionNeeded>
+    <NoColonistWithConstructionSkillTip>このスキルを持っている{0}は一人もいません.</NoColonistWithConstructionSkillTip>
     <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

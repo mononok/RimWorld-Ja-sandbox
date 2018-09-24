@@ -3,7 +3,7 @@
 
     <!-- Sentence_SocialFightStarted -->
     <Sentence_SocialFightStarted.rulePack.rulesStrings>
-        <li>sent->[recipient_nameShortDef]を怒りに駆り立て,[recipient_pronoun]はケンカを始めた!</li>
+        <li>sent->[RECIPIENT_nameDef]を怒りに駆り立て,[RECIPIENT_pronoun]はケンカを始めた!</li>
     </Sentence_SocialFightStarted.rulePack.rulesStrings>
 
     <!-- Sentence_RomanceAttemptAccepted -->
@@ -26,12 +26,12 @@
 
     <!-- Sentence_MarriageProposalAccepted -->
     <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
-        <li>sent->[recipient_nameShortDef]はプロポーズを受け入れて二人は結ばれた.</li>
+        <li>sent->[RECIPIENT_nameDef]はプロポーズを受け入れて二人は結ばれた.</li>
     </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
 
     <!-- Sentence_MarriageProposalRejected -->
     <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
-        <li>sent->[recipient_nameShortDef]はプロポーズを断った.</li>
+        <li>sent->[RECIPIENT_nameDef]はプロポーズを断った.</li>
     </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
 
     <!-- Sentence_MarriageProposalRejectedBrokeUp -->
@@ -41,12 +41,12 @@
 
     <!-- Sentence_RecruitAttemptAccepted -->
     <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
-        <li>sent->[recipient_nameShortDef]は,[initiator_nameShortDef]の社会に加わることを受け入れた.</li>
+        <li>sent->[RECIPIENT_nameDef]は,[INITIATOR_nameDef]の社会に加わることを受け入れた.</li>
     </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
 
     <!-- Sentence_RecruitAttemptRejected -->
     <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
-        <li>sent->[recipient_nameShortDef]は申し出を断った.</li>
+        <li>sent->[RECIPIENT_nameDef]は申し出を断った.</li>
     </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
 
 </LanguageData>

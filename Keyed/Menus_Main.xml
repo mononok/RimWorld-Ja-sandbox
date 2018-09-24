@@ -128,10 +128,10 @@
     <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
     <!--=========== Landing site select =========-->
-    <SelectLandingSite>降下地点を選択</SelectLandingSite>
-    <SelectRandomSite>降下地点をランダムに選択</SelectRandomSite>
+    <SelectStartingSite>開始位置を選択</SelectStartingSite>
+    <SelectRandomSite>開始位置・ランダムを選択</SelectRandomSite>
     <SelectSite>決定</SelectSite>
-    <MustSelectLandingSite>降下目標を設定してください</MustSelectLandingSite>
+    <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
     <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
     <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
     <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>

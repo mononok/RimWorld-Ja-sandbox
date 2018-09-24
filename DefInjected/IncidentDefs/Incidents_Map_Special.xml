@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=============== ShipChunkDrop =============-->
+    <!--=============== ShipChunkDrop =============-->
     <ShipChunkDrop.label>宇宙船のガラクタ落下</ShipChunkDrop.label>
 
-  <!--=============== OrbitalVisitor =============-->
-    <OrbitalTraderArrival.label>軌道上のトレーダー飛来</OrbitalTraderArrival.label>
+    <!--=============== OrbitalVisitor =============-->
+    <OrbitalTraderArrival.label>軌道上トレーダー飛来</OrbitalTraderArrival.label>
 
-  <!--================= AllyArrival ================-->
+    <!--================= AllyArrival ================-->
     <TraderCaravanArrival.label>トレーダーキャラバン訪問</TraderCaravanArrival.label>
     <VisitorGroup.label>訪問者</VisitorGroup.label>
     <TravelerGroup.label>旅行者</TravelerGroup.label>
 
-  <!--================= AllyAssistance ================-->
+    <!--================= AllyAssistance ================-->
     <RaidFriendly.label>援軍</RaidFriendly.label>
 
-  <!--================= Raid-beacon-attracted events ================-->
+    <!--================= Raid-beacon-attracted events ================-->
     <RaidEnemyBeacon.label>敵襲 (特別配置)</RaidEnemyBeacon.label>
 
+	<!-- =========================== Good - special ============================-->
     <StrangerInBlackJoin.label>黒衣の男</StrangerInBlackJoin.label>
     <StrangerInBlackJoin.letterLabel>黒衣の男</StrangerInBlackJoin.letterLabel>
     <StrangerInBlackJoin.letterText>トラブルの気配が・・・,不思議な[PAWN_kind]が到着した.\n\n[PAWN_pronoun]は,この状況をどうにかできないだろうか？</StrangerInBlackJoin.letterText>

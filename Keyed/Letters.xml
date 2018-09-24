@@ -116,8 +116,8 @@
 
     <!-- Bonded animals -->
     <LetterLabelSuffixBondedAnimalDied>絆で結ばれた</LetterLabelSuffixBondedAnimalDied>
-    <LetterPartBondedAnimalDied>{ANIMAL_definite}は{HUMAN_labelShort}と絆で結ばれた.{HUMAN_labelShort}の心情に影響を及ぼすでしょう.</LetterPartBondedAnimalDied>
-    <LetterPartBondedAnimalDiedMulti>次の人々の心情に影響を及ぼします:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+    <LetterPartBondedAnimalDied>{ANIMAL_definite}は{HUMAN_labelShort}と絆で結ばれました.{HUMAN_labelShort}の"心情"に影響を及ぼすでしょう.</LetterPartBondedAnimalDied>
+    <LetterPartBondedAnimalDiedMulti>次の人々の"心情"に影響を及ぼします:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
     <!-- Prison break -->
     <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>
@@ -125,7 +125,7 @@
 
     <!-- Party -->
     <LetterLabelNewParty>パーティ</LetterLabelNewParty>
-    <LetterNewParty>{1_labelShort}は, パーティを催しています!.みんな会話や娯楽を楽しむでしょう,これで良いムードが長く続きます.</LetterNewParty>
+    <LetterNewParty>{1_labelShort}は, パーティを催しています!.みんな会話や娯楽を楽しむでしょう,これは"心情"を高める効果が長く続きます.</LetterNewParty>
 
     <!-- Newly addicted -->
     <LetterLabelNewlyAddicted>{0} 中毒</LetterLabelNewlyAddicted>
@@ -139,9 +139,9 @@
     <LetterLabelAllCaravanColonistsDied>キャラバン隊壊滅</LetterLabelAllCaravanColonistsDied>
     <LetterAllCaravanColonistsDied>{0}の全員が死亡しました.</LetterAllCaravanColonistsDied>
 
-    <!-- Caravan entered ambush map -->
-    <LetterLabelCaravanEnteredAmbushMap>待伏場所に到着</LetterLabelCaravanEnteredAmbushMap>
-    <LetterCaravanEnteredAmbushMap>{0}は,待ち伏せ場所に到着しました.</LetterCaravanEnteredAmbushMap>
+    <!-- Caravan entered map -->
+    <LetterLabelCaravanEnteredMap>{0_label}に到着</LetterLabelCaravanEnteredMap>
+    <LetterCaravanEnteredMap>{0}は,{1_definite}に到着しました.</LetterCaravanEnteredMap>
 
     <!-- Caravan entered enemy base -->
     <LetterLabelCaravanEnteredEnemyBase>戦闘開始</LetterLabelCaravanEnteredEnemyBase>
@@ -221,9 +221,6 @@
     <!-- Rescue quest -->
     <LetterLabelRescueQuestFinished>レスキュー＆参加</LetterLabelRescueQuestFinished>
     <LetterRescueQuestFinished>{PAWN_nameDef}を助けて,{PAWN_pronoun}はグループに加わりました.\n\nあなたはワールドマップから,"キャラバン隊の再編成"を選ぶことで,キャラバン隊の再編成を行い,{PAWN_objective}連れて行く事ができます.</LetterRescueQuestFinished>
-
-    <!-- Player entered site (generic label) -->
-    <LetterLabelPlayerEnteredNewSiteGeneric>現場到着</LetterLabelPlayerEnteredNewSiteGeneric>
 
   <!-- Predator hunting colonist -->
   <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}は{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>

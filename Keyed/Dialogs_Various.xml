@@ -38,7 +38,7 @@
     <InitializingInterface>インターフェースを初期化中</InitializingInterface>
     <UnloadingUnusedAssets>使用しない要素を解放中</UnloadingUnusedAssets>
     <LoadingAllActiveMods>有効なMODをロード中</LoadingAllActiveMods>
-    <LoadingDefs>初期化データをロード中</LoadingDefs>
+    <LoadingDefs>初期データをロード中</LoadingDefs>
     <LoadingAssets>構成要素をロード中</LoadingAssets>
     <Initializing>初期化中</Initializing>
     <LoadingWorld>惑星をロード中</LoadingWorld>
@@ -68,17 +68,17 @@
     <MissingMods>いくつかのMODを利用できません,インストールが必要です.</MissingMods>
 
     <!-- Player faction naming -->
-    <NamePlayerFactionMessage>あなたが,この地に腰をおろそうとして以来,{0}は,あなたが派閥のネーミングをするべきだと考えています.あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
+    <NamePlayerFactionMessage>あなたが,この地に腰を下ろそうとして以来,あなたが派閥のネーミングをするべきだと,{0}は考えています.あなたの派閥を何と呼べば良いですか？</NamePlayerFactionMessage>
     <PlayerFactionGainsName>あなたは派閥を {0}と名乗りました.</PlayerFactionGainsName>
     <PlayerFactionNameIsInvalid>その名前は適当ではありません.</PlayerFactionNameIsInvalid>
 
     <!-- Player faction base naming -->
-    <NamePlayerFactionBaseMessage>{0}は,あなたが,この入植地のネーミングをするべきだと考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+    <NamePlayerFactionBaseMessage>あなたが,この入植地のネーミングをするべきだと,{0}は考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
     <PlayerFactionBaseGainsName>この入植地を {0}と名乗りました.</PlayerFactionBaseGainsName>
     <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません.</PlayerFactionBaseNameIsInvalid>
 
     <!-- Player faction and faction base naming -->
-    <NamePlayerFactionBaseMessage_NameFactionContinuation>{0}は,あなたが,この入植地のネーミングをするべきだと考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+    <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,この入植地のネーミングをするべきだと,{0}は考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
     <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り,入植地を {1}と名乗りました.</PlayerFactionAndBaseGainsName>
 
     <!-- Renaming -->
@@ -113,7 +113,7 @@
     <Finished>完成した</Finished>
     <InProgress>進行中</InProgress>
     <Locked>凍結</Locked>
-    <ResearchMenuWithoutBench>研究設備を作成し, 入植者に 研究を 割り振らないかぎり, 研究は はじまりません.\n\nしかし, あらかじめ 研究計画を 指定することは できます. </ResearchMenuWithoutBench>
+    <ResearchMenuWithoutBench>研究設備を作成し, 入植者に"研究"作業を 割り振らないかぎり, 研究は 始まりません.\n\nしかし, あらかじめ 研究計画を 指定することは できます. </ResearchMenuWithoutBench>
     <ResearchPrerequisites>必要条件</ResearchPrerequisites>
     <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
     <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
@@ -183,7 +183,7 @@
     <StoppingPowerExplanation>この武器が命中すると,ターゲットをよろめかせ,数秒間ほど動作に支障がおきます.ターゲットの体格が「威力」よりも大きいと効果を示さなくなるでしょう.</StoppingPowerExplanation>
     <DirectHitChance>命中率</DirectHitChance>
     <MissRadius>収束半径</MissRadius>
-    <GrowsWild>野生の植物</GrowsWild>
+    <GrowsWild>野生植物</GrowsWild>
     <Harvestable>収穫可能</Harvestable>
     <LimitedLifespan>寿命がある</LimitedLifespan>
     <GrowingTime>成長時間</GrowingTime>
@@ -192,7 +192,7 @@
     <MaxGrowthTemperature>生育・最高気温</MaxGrowthTemperature>
     <GrowingTimeDesc>植物は,昼間,陽が当たっているときだけ成長します.成長時間とは,植物が充分に育つまでに必要な陽が当たっている総時間です.現実には成長するまで約2倍の時間がかかります.低温時にも成長は鈍ります.</GrowingTimeDesc>
     <Days>日</Days>
-    <MinGrowingSkillToSow>種を蒔くのに,最低限必要な「栽培」スキル値</MinGrowingSkillToSow>
+    <MinGrowingSkillToSow>種を蒔くのに,最低限必要な"栽培"スキル値</MinGrowingSkillToSow>
     <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
     <FertilitySensitivity>肥沃度への感度係数</FertilitySensitivity>
     <LightRequirement>成長に必要な光源</LightRequirement>
@@ -206,7 +206,7 @@
     <Diet>食性</Diet>
     <LeatherType>皮革種別</LeatherType>
     <BodySize>体格</BodySize>
-    <RecruitDifficulty>説得の難度</RecruitDifficulty>
+    <RecruitDifficulty>説得の難易度</RecruitDifficulty>
     <MarketValue>標準小売価格</MarketValue>
     <Covers>カバー</Covers>
     <Layer>層</Layer>
@@ -227,8 +227,8 @@
     <PackAnimalExplanation>この動物は,キャラバン隊が長い距離,アイテムを運ぶのに適しています.</PackAnimalExplanation>
     <Skill>スキル</Skill>
     <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
-    <WorkSpeedStat>作業速度が規制されている</WorkSpeedStat>
-    <EfficiencyStat>作業個数が規制されている</EfficiencyStat>
+    <WorkSpeedStat>作業速度:</WorkSpeedStat>
+    <EfficiencyStat>作業個数:</EfficiencyStat>
     <ConstructionSkillRequired>必要な建築スキルレベル</ConstructionSkillRequired>
     <ConstructionSkillRequiredExplanation>建てるために必要な建築スキルのレベル</ConstructionSkillRequiredExplanation>
     <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
@@ -237,7 +237,7 @@
     <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
     <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
     <TerrainRequirement>必要な地盤</TerrainRequirement>
-    <Supports>支援</Supports>
+    <Supports>支持</Supports>
 
     <!-- Trade -->
     <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
@@ -285,12 +285,12 @@
     <ItemsTab>物資</ItemsTab>
     <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者が必要です.</CaravanMustHaveAtLeastOneColonist>
     <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません.{0}</CaravanCouldNotFindExitSpot>
-    <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません.出発エリア({0})に到達できるか確認してください.</CaravanCouldNotFindPackingSpot>
+    <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません.出発エリア({0})に到達できるか確認して下さい.</CaravanCouldNotFindPackingSpot>
     <CaravanCouldNotFindReachableExitSpot>警告: いくつかの割り当てられた入植者は,出ていけません.({0})</CaravanCouldNotFindReachableExitSpot>
     <CaravanPawnIsUnreachable>他に指示した入植者によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
     <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableSingle>
     <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableMulti>
-    <TooBigCaravanMassUsage>キャラバン隊は,こんな多量は運べません.</TooBigCaravanMassUsage>
+    <TooBigCaravanMassUsage>キャラバン隊は,こんなに多くは運べません.</TooBigCaravanMassUsage>
     <CaravanMassUsageTooltip>運ぶアイテムと,身につけているアイテムの両方を含んでいます.最大積載量より少ないと移動速度にボーナスが与えられます.</CaravanMassUsageTooltip>
     <CaravanVisibilityTip>目立ちやすさは,キャラバン隊の気付かれ易さを表します.\n\n敵に見つかってしまう確率への掛け率を表しています.\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません.\n\n「目立ちやすさ」の基本値は,キャラバン隊の全ての動物と人間の体格の和をもとにしています.</CaravanVisibilityTip>
     <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
@@ -311,7 +311,7 @@
     <MarketValueTip>小売価格</MarketValueTip>
     <DaysUntilRotTip>この地域における平均気温を元にした,このアイテムが腐敗し始めるまでの日数.</DaysUntilRotTip>
     <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
-    <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,可能な気候帯と温度範囲でのみ可能です.</AnimalCanGrazeTip>
+    <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
     <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
     <NutritionEatenPerDayTip>一日に摂取する栄養素数.参考までに,簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
     <MassCarriedSimple>積載量</MassCarriedSimple>
@@ -385,6 +385,7 @@
     <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
     <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
     <DrugPolicyInUse>適用方針は {0}に適用中です.</DrugPolicyInUse>
+    <FoodRestrictionInUse>食事制限は {0}に適用中です.</FoodRestrictionInUse>
     <SocialDrugs>たしなみ程度</SocialDrugs>
     <NoDrugs>ドラッグ不使用</NoDrugs>
     <OneDrinkPerDay>１本/日</OneDrinkPerDay>
@@ -394,8 +395,8 @@
     <DrugColumnLabel>ドラッグ</DrugColumnLabel>
     <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
     <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
-    <MoodThresholdColumnLabel>使用条件:ムードが以下のとき</MoodThresholdColumnLabel>
-    <JoyThresholdColumnLabel>使用条件:娯楽が以下のとき</JoyThresholdColumnLabel>
+    <MoodThresholdColumnLabel>使用条件:"心情"が以下のとき</MoodThresholdColumnLabel>
+    <JoyThresholdColumnLabel>使用条件:"娯楽"が以下のとき</JoyThresholdColumnLabel>
     <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
     <NoDrugsBrackets>(ドラッグ無し)</NoDrugsBrackets>
     <EveryDay>毎日</EveryDay>
@@ -406,12 +407,25 @@
     <DrugNameColumnDesc>ドラッグの名称です.</DrugNameColumnDesc>
     <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
     <FrequencyColumnDesc>入植者がドラッグを使用する頻度を表します.</FrequencyColumnDesc>
-    <MoodThresholdColumnDesc>彼らのムードレベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</MoodThresholdColumnDesc>
-    <JoyThresholdColumnDesc>彼らの娯楽レベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</JoyThresholdColumnDesc>
+    <MoodThresholdColumnDesc>彼らの"心情"レベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</MoodThresholdColumnDesc>
+    <JoyThresholdColumnDesc>彼らの"娯楽"レベルが,このしきい値より低い場合に限り,入植者はドラッグを使おうとします.</JoyThresholdColumnDesc>
     <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき,余分に持ち出すドラッグの量です.予備の持ち出しを禁止すると,毎回,備蓄ゾーンにドラッグを取りにいきます.</TakeToInventoryColumnDesc>
     <DrugUsageTipForAddiction>中毒者へ\n\nこのドラッグを,中毒患者の要求に従って与えることができます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
     <DrugUsageTipForJoy>快楽目的の者へ\n\nこのドラッグは,快楽は,人つきあいを目的として使用できます.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
     <DrugUsageTipScheduled>定期的\n\nこのドラッグを定義された投薬スケジュールに則って使用します.</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <FoodRestriction>食事制限</FoodRestriction>
+  <FoodRestrictionLavish>豪華な食事</FoodRestrictionLavish>
+  <FoodRestrictionFine>手の込んだ食事</FoodRestrictionFine>
+  <FoodRestrictionSimple>簡単な食事</FoodRestrictionSimple>
+  <FoodRestrictionPaste>ペースト</FoodRestrictionPaste>
+  <FoodRestrictionRaw>ナマ</FoodRestrictionRaw>
+  <FoodRestrictionNothing>メシ抜き</FoodRestrictionNothing>
+  <SelectFoodRestriction>食事制限を選択</SelectFoodRestriction>
+  <NewFoodRestriction>新しい食事制限</NewFoodRestriction>
+  <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
 
     <!-- Medical settings -->
     <MedGroupDefaults>初期値</MedGroupDefaults>
@@ -431,12 +445,12 @@
     <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
     <!-- Move caravan and leave prisoners and animals behind -->
-    <ConfirmMoveAutoJoinableCaravan>家畜や囚人はキャラバン隊に加わろうとします.あなたがキャラバン隊を移動させれば,彼らはどこにも行けません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それを放棄したとみなし,敵によって捕らえられたこととします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
+    <ConfirmMoveAutoJoinableCaravan>家畜や囚人はキャラバン隊に加わろうとします.あなたがキャラバン隊を移動させれば,彼らはどこにも行けません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それを放棄したとみなし,敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
 
     <!-- Abandon pawn -->
     <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか?</ConfirmBanishPawnDialog>
     <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
-    <ConfirmBanishPawnDialog_Items>{1_objective}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+    <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
     <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
     <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放することで,次の人たちに,このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
@@ -444,7 +458,7 @@
     <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか？</ConfirmSendNotCompletelyLoadedPods>
 
     <!-- Settle near a faction base -->
-    <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」と捕らえて,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
+    <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
 
   <!-- Cleanup translation files -->
   <ConfirmCleanupTranslationFiles>Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool.</ConfirmCleanupTranslationFiles>

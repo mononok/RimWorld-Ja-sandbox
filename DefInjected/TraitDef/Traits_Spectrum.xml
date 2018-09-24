@@ -7,7 +7,7 @@
     <SpeedOffset.degreeDatas.fast_walker.label>せかせか歩き</SpeedOffset.degreeDatas.fast_walker.label>
     <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef]は好きな所へ行きたがります. [PAWN_pronoun]は,ほとんどの人より早く歩きます.</SpeedOffset.degreeDatas.fast_walker.description>
     <SpeedOffset.degreeDatas.jogger.label>小走り</SpeedOffset.degreeDatas.jogger.label>
-    <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef]は,常に切迫感をもって移動するので,他の人が,遅れずについて行けなくなることが,よく起こります.</SpeedOffset.degreeDatas.jogger.description>
+    <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef]は,常に緊張感をもって移動するので,よく他の人がついて行けなくなります.</SpeedOffset.degreeDatas.jogger.description>
 
     <!--> DrugDesire <-->
     <DrugDesire.degreeDatas.chemical_fascination.label>ドラッグ中毒者</DrugDesire.degreeDatas.chemical_fascination.label>
@@ -15,7 +15,7 @@
     <DrugDesire.degreeDatas.chemical_interest.label>ドラッグ常用者</DrugDesire.degreeDatas.chemical_interest.label>
     <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef]は,薬物を楽しむことに並々ならぬ程惹かれています.[PAWN_pronoun]は,それらをより多く浪費し,他のドラッグを常習していないなら満足し,頻繁にイッてしまうようになります. [PAWN_pronoun]は娯楽用のドラッグを禁止されても知らんぷりをするようになるでしょう.</DrugDesire.degreeDatas.chemical_interest.description>
     <DrugDesire.degreeDatas.teetotaler.label>ドラッグ嫌い</DrugDesire.degreeDatas.teetotaler.label>
-    <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は,安易に薬物から喜びを得る発想を,ひどく嫌い,ドラッグやアルコールを避けます.</DrugDesire.degreeDatas.teetotaler.description>
+    <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef]は,安易に薬物から喜びを得る発想をひどく嫌い,ドラッグやアルコールを避けます.</DrugDesire.degreeDatas.teetotaler.description>
 
     <!--> NaturalMood <-->
     <NaturalMood.degreeDatas.sanguine.label>あっけらかん</NaturalMood.degreeDatas.sanguine.label>

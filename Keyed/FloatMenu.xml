@@ -105,34 +105,34 @@
 <CannotWear>{1_label}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
-    <CannotPickUp>拾えない {1_label}</CannotPickUp>
-    <CannotPickUpAll>拾えない {1_label} (全て)</CannotPickUpAll>
-    <PickUp>{1_label}を拾う</PickUp>
-    <PickUpAll>{1_label}を拾う (全て)</PickUpAll>
-    <PickUpSome>{1_labelShort}を拾う...</PickUpSome>
-    <PickUpCount>{1_labelShort} x{{1_labelShort}}を拾う</PickUpCount>
+    <CannotPickUp>{1_label}を 拾えない </CannotPickUp>
+    <CannotPickUpAll>{1_label}(全て)を 拾えない</CannotPickUpAll>
+    <PickUp>{1_label}を 拾う</PickUp>
+    <PickUpAll>{1_label}(全て)を 拾う</PickUpAll>
+    <PickUpSome>{1_labelShort}を 拾う...</PickUpSome>
+    <PickUpCount>{1_labelShort} x{{0}}を拾う</PickUpCount>
 
-    <CannotGiveToPackAnimal>{1_label}を駄載獣に与えられない</CannotGiveToPackAnimal>
-    <CannotGiveToPackAnimalAll>{1_label}を駄載獣に与えられない (全て)</CannotGiveToPackAnimalAll>
-    <GiveToPackAnimal>{1_label}を駄載獣に与える</GiveToPackAnimal>
-    <GiveToPackAnimalAll>{1_label}を駄載獣に与える (全て)</GiveToPackAnimalAll>
-    <GiveToPackAnimalSome>{1_labelShort}を駄載獣に与える</GiveToPackAnimalSome>
-    <GiveToPackAnimalCount>{1_labelShort} x{{1_labelShort}}を取る</GiveToPackAnimalCount>
+    <CannotGiveToPackAnimal>{1_label}を 駄載獣に与えられない</CannotGiveToPackAnimal>
+    <CannotGiveToPackAnimalAll>{1_label}(全て)を 駄載獣に与えられない</CannotGiveToPackAnimalAll>
+    <GiveToPackAnimal>{1_label}を 駄載獣に与える</GiveToPackAnimal>
+    <GiveToPackAnimalAll>{1_label}(全て)を 駄載獣に与える</GiveToPackAnimalAll>
+    <GiveToPackAnimalSome>{1_labelShort}を 駄載獣に与える</GiveToPackAnimalSome>
+    <GiveToPackAnimalCount>{1_labelShort} x{{0}}を取る</GiveToPackAnimalCount>
 
-    <CannotLoadIntoCaravan>{1_label}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
-    <CannotLoadIntoCaravanAll>{1_label}(all)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
-    <LoadIntoCaravan>{1_label}をキャラバン隊に積載する</LoadIntoCaravan>
-    <LoadIntoCaravanAll>{1_label}(all)をキャラバン隊に積載する</LoadIntoCaravanAll>
-    <LoadIntoCaravanSome>{1_labelShort}をキャラバン隊に積載する....</LoadIntoCaravanSome>
-    <LoadIntoCaravanCount>積載量 {1_labelShort} x{{1_labelShort}}</LoadIntoCaravanCount>
+    <CannotLoadIntoCaravan>{1_label}を キャラバン隊に積載できない</CannotLoadIntoCaravan>
+    <CannotLoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+    <LoadIntoCaravan>{1_label}を キャラバン隊に積載する</LoadIntoCaravan>
+    <LoadIntoCaravanAll>{1_label}(全て)を キャラバン隊に積載する</LoadIntoCaravanAll>
+    <LoadIntoCaravanSome>{1_labelShort}を キャラバン隊に積載する....</LoadIntoCaravanSome>
+    <LoadIntoCaravanCount>{1_labelShort} x{{0}}を積載する</LoadIntoCaravanCount>
     <OverweightLower>過積載</OverweightLower>
 
     <CannotCarryToExit>{1_label}を運んで,エリアを離れることができない</CannotCarryToExit>
     <CarryToExit>{1_label}を運んで,エリアを離れる</CarryToExit>
-    <CarryToExitAndCapture>{1_label}を捕獲して此処から離れる</CarryToExitAndCapture>
+    <CarryToExitAndCapture>{1_label}を捕獲して,ここから離れる</CarryToExitAndCapture>
 
     <Strip>{1_label}を 剥ぐ</Strip>
-    <CannotStrip>{1_label}を 脱げない</CannotStrip>
+    <CannotStrip>{1_label}を 剥ぎ取れない</CannotStrip>
 
     <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 

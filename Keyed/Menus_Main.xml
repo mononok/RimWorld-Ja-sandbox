@@ -89,8 +89,9 @@
     <Downloading>Downloading</Downloading>
     <Source>Source</Source>
     <ModTargetVersion>For version: {0}</ModTargetVersion>
-    <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-    <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+    <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
+    <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
+    <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
     <DragToReorder>順序変更はドラッグする</DragToReorder>
 
     <!--=========== Select scenario =============-->

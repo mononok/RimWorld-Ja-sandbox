@@ -14,7 +14,7 @@
     <Blueprint_Turret_MiniTurret.label>タレット(設計)</Blueprint_Turret_MiniTurret.label>
     <Frame_Turret_MiniTurret.label>タレット(施工)</Frame_Turret_MiniTurret.label>
     <Frame_Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Frame_Turret_MiniTurret.description>
-    <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身交換まで打ち続ける</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+    <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
     <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
     <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
 
@@ -25,7 +25,7 @@
   <!--=============== Autocannon turret ===============-->
     <Turret_Autocannon.label>オートキャノンタレット</Turret_Autocannon.label>
     <Turret_Autocannon.description>全自動,重タレットです.大口径弾が広範囲に渡って大ダメージを叩き出しますが,使用後は銃身の一新が必須となります.至近距離のターゲットには発砲できません,そしてダメージを受けると爆発することがあります.</Turret_Autocannon.description>
-    <Turret_Autocannon.comps.CompRefuelable.fuelLabel>銃身交換まで打ち続ける</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+    <Turret_Autocannon.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
     <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
     <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
 
@@ -36,7 +36,7 @@
 
     <Turret_Sniper.label>ウランスラグタレット</Turret_Sniper.label>
     <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラン弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウランスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
-    <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身交換まで打ち続ける</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+    <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelLabel>
     <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
     <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
 

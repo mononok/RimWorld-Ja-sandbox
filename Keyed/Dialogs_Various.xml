@@ -238,6 +238,12 @@
     <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
     <TerrainRequirement>必要な地盤</TerrainRequirement>
     <Supports>支持</Supports>
+    <TrapArmorPenetration>アーマー貫通力(トラップ)</TrapArmorPenetration>
+    <RearmCost>再装填コスト</RearmCost>
+    <RearmCostExplanation>このタレットを再装填するには資源が必要です(難易度の影響を受けます).</RearmCostExplanation>
+    <ShotsBeforeRearm>残弾数</ShotsBeforeRearm>
+    <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です.</ShotsBeforeRearmExplanation>
+    <PowerConsumption>電力消費量</PowerConsumption>
 
     <!-- Trade -->
     <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>

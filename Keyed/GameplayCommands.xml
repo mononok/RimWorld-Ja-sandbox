@@ -3,6 +3,7 @@
 
     <!-- Forbid -->
     <CommandForbid>禁止</CommandForbid>
+    <CommandAllow>許可</CommandAllow>
 	<CommandForbiddenDesc>禁止 - 入植者は これと関われません.</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>許可 - 入植者は これと関われます.</CommandNotForbiddenDesc>
 
@@ -83,7 +84,7 @@
     <CommandStopForceAttack>集中攻撃の解除</CommandStopForceAttack>
     <CommandStopForceAttackDesc>攻撃対象を 解除し タレットに 判断させます.</CommandStopForceAttackDesc>
     <CommandStopAttackFailNotForceAttacking>集中攻撃できません.</CommandStopAttackFailNotForceAttacking>
-    <CommandExtractShell>弾を抜く</CommandExtractShell>
+    <CommandExtractShell>脱砲</CommandExtractShell>
     <CommandExtractShellDesc>弾頭の種類を変えるために装填されている弾を抜きます.</CommandExtractShellDesc>
     <MessageTargetBeyondMaximumRange>最大射程より 離れています.</MessageTargetBeyondMaximumRange>
     <MessageTargetBelowMinimumRange>最小射程より 近すぎます.</MessageTargetBelowMinimumRange>

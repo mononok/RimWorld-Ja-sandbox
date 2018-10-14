@@ -73,6 +73,10 @@
     <LetterLeaderChanged>{1}の{3}は,もう{OLDLEADER_nameFull}ではなく\n\n新しい{3}は {NEWLEADER_nameFull}になった.</LetterLeaderChanged>
 
     <FinalStraw>不幸な出来事: {0}</FinalStraw>
+    <MentalStateReason_Mood>貧しい心情によって発生した.</MentalStateReason_Mood>
+    <MentalStateReason_Trait>特性・特徴によって発止した: {0}.</MentalStateReason_Trait>
+    <MentalStateReason_Hediff>{0}によって発生した.</MentalStateReason_Hediff>
+    <MentalStateReason_BondedHumanDeath>{0_definite}の死が引き金になり発生した.</MentalStateReason_BondedHumanDeath>
     <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
     <ReadMore>もっと読む</ReadMore>
@@ -99,6 +103,7 @@
     <LetterLabelAffair>浮気</LetterLabelAffair>
     <LetterAffair>{PAWN1_labelShort}は {SPOUSE_labelShort}と結婚しているのも関わらず, {PAWN2_labelShort}に うつつを抜かしています.</LetterAffair>
     <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
+    <LetterNewLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は 互いに寄り添って眠りたがっています.彼らにダブルベッドはどうでしょう.</LetterNewLovers>
     <LetterNoLongerLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は その関係を断ちました.</LetterNoLongerLovers>
     <LetterLabelBreakup>振られた</LetterLabelBreakup>
     <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>

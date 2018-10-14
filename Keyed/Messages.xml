@@ -79,7 +79,7 @@
     <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
 
     <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
-    <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {patient.LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
+    <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
     <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
     <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
@@ -258,7 +258,8 @@
 
     <MessageCraftedMasterwork>{WORKER_labelShort}は {CRAFTED_labelShort}を作りました.</MessageCraftedMasterwork>
 
-    <MessagePlayerTriedToLeaveMapViaExitGrid>この地域を離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid>
+    <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+    <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>このマップから離れることができません.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
     <MessageGoodwillChanged>{0}との関係が {1}から{2}へと変わりました.</MessageGoodwillChanged>
     <MessageGoodwillChangedWithReason>{0}との関係が {1}から{2}へと変わりました.({3}).</MessageGoodwillChangedWithReason>

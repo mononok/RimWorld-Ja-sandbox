@@ -16,10 +16,10 @@
     <Shell_EMP.description>起爆された時に電磁パルスを発生するように,バッテリーとアンテナが詰め込まれた装弾です.電磁波パルスが一時的に電子回路を使用不能にします.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_EMP.description>
 
   <!-- Firefoam -->
-    <Shell_Firefoam.label>消化剤弾</Shell_Firefoam.label>
-    <Shell_Firefoam.description>消化剤を加圧充填した装弾です.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_Firefoam.description>
+    <Shell_Firefoam.label>消火剤弾</Shell_Firefoam.label>
+    <Shell_Firefoam.description>消火剤を加圧充填した装弾です.迫撃砲弾やトラップに装填します.ダメージを受ければ爆発します.</Shell_Firefoam.description>
 
-    <Bullet_Shell_Firefoam.label>消化剤弾</Bullet_Shell_Firefoam.label>
+    <Bullet_Shell_Firefoam.label>消火剤弾</Bullet_Shell_Firefoam.label>
 
     <Shell_AntigrainWarhead.label>反物質弾</Shell_AntigrainWarhead.label>
     <Shell_AntigrainWarhead.description>反物質粒子を使ったウルトラテック弾頭です.通常は,Gliterworldの戦闘マシーンや,宇宙船で使われます,その巨大な爆発でターゲット付近を焼き尽くします.迫撃砲として発射されるか,罠として設置されます.ダメージを受けると爆発します.</Shell_AntigrainWarhead.description>

@@ -89,7 +89,7 @@
     <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
     <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
 
-    <MessageNuzzledPawnGaveNameTo>{NAMEE_nameFull}が 懐いたので,{NAMER_nameFull}は "{1}"と名前をつけました.</MessageNuzzledPawnGaveNameTo>
+    <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
     <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手なずけられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
 

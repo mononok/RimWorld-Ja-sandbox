@@ -20,13 +20,13 @@
   <min>最小</min>
   <max>最大</max>
   <chance>確率</chance>
-  <context>コンテキスト</context>
-  <multiplier>倍率</multiplier>
+  <context>対象</context>
+  <multiplier>掛け率</multiplier>
   <damage>ダメージ</damage>
   <radius>半径</radius>
   <durationDays>所要時間 (日)</durationDays>
   <intervalDays>間隔(日)</intervalDays>
-  <repeat>繰り返し</repeat>
+  <repeat>繰り返す</repeat>
   <default>初期値</default>
   <distance>距離</distance>
   <YesUppercase>ハイ</YesUppercase>

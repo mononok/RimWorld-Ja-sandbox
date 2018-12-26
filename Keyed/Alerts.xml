@@ -8,109 +8,109 @@
     <BreakRiskExtreme>精神崩壊 リスク</BreakRiskExtreme>
     <BreakRiskMinorDesc>次の入植者の"心情"が低く,いつ精神変調を起こすかもしれません:\n\n{0}</BreakRiskMinorDesc>
     <BreakRiskMajorDesc>次の入植者の"心情"がとても低く,いつ精神衰弱を起こすかもしれません:\n\n{0}</BreakRiskMajorDesc>
-    <BreakRiskExtremeDesc>次の入植者の"心情"は,ストレス下にあって危機的状況です.今にも精神崩壊(暴力的かも..)を起こしそうです:\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,などの事をしましょう.</BreakRiskDescEnding>
+    <BreakRiskExtremeDesc>次の入植者は重篤なストレスを受けていて,今にも精神崩壊を起こしそうです(たぶん暴力的..):\n\n{0}</BreakRiskExtremeDesc>
+    <BreakRiskDescEnding>これらの入植者達の,"欲求"タブを見ると,何に悩んでいるかがわかります.\n\n"心情"を良くするには,おいしい食事を用意したり,もっと娯楽の時間や,娯楽種類を増やしたり,良い住環境を用意する,ドラッグをやる機会を作る,などの事をしてやりましょう.</BreakRiskDescEnding>
 
     <ColonistNeedsRescue>助けを呼んでいる</ColonistNeedsRescue>
     <ColonistsNeedRescue>助けを呼んでいる</ColonistsNeedRescue>
-    <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n（別の入植者を 選択し 右クリックで 救助を 指示します）</ColonistsNeedRescueDesc>
+    <ColonistsNeedRescueDesc>次の入植者は 一歩も動けません.\n\n{0}\n他の入植者に救助を指示して, ベッドまで運ばせましょう.\n\n(別の入植者を選択し 救助対象者を右クリックして "救助"を 指示します)</ColonistsNeedRescueDesc>
 
     <NeedDefenses>侵略にそなえる</NeedDefenses>
     <NeedDefensesDesc>宙賊が この村を 品定め しています. いつ 襲撃を はじめても おかしくありません.\n\n備えあれば 憂いなし です,罠や土のうなどの準備をしましょう.</NeedDefensesDesc>
 
     <NeedDoctor>医者が必要</NeedDoctor>
-    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」作業をする 健常な入植者が いません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して治らなくなるでしょう.</NeedDoctorDesc>
+    <NeedDoctorDesc>ベッドで 患者が 痛みを うったえています. 患者には 治療が 必要ですが, 「医者」を割り振られた 健常な入植者が一人もいません.\n\n{0}\n健常な 入植者に 「医者」を 割り振りましょう.もし,治療せずに ほおっておくと 慢性化して完治しなくなるかもしれません.</NeedDoctorDesc>
 
     <NeedMiner>坑夫が必要</NeedMiner>
-    <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」作業を持った 入植者が一人もいません.\n\n入植者に 「採掘」作業を 割り当てましょう.</NeedMinerDesc>
+    <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
 
     <NeedWarden>囚人に看守を</NeedWarden>
-    <NeedWardenDesc>囚人が いますが, 「看守」作業を持った 入植者が一人もいません.\n\n入植者に 「看守」作業を 割り当てましょう.</NeedWardenDesc>
+    <NeedWardenDesc>囚人が いますが, 「看守」を割り振られた 入植者が一人もいません.\n\n入植者に 「看守」を 割り振りましょう.</NeedWardenDesc>
 
     <LowFood>食料が少ない</LowFood>
     <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
 
     <LowMedicine>薬品が少ない</LowMedicine>
-    <LowMedicineDesc>倉庫に {0} 単位の 薬品しか ありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
-    <NoMedicineDesc>倉庫に,ひとつも薬品がありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
+    <LowMedicineDesc>備蓄した薬品が {0}単位しか ありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
+    <NoMedicineDesc>備蓄した薬品が ひとつもありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
 
     <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
-    <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう. コストゼロの 「寝床」は すぐに 作れます.</NeedColonistBedsDesc>
+    <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
 
     <HunterLacksWeapon>武装する</HunterLacksWeapon>
     <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
 
     <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
-    <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を取得します.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
+    <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
 
     <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
-    <AlertUnhappyNudityDesc>次の入植者は,全裸のままで不満げです:\n\n{0}\n彼らに服を着せます.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertUnhappyNudityDesc>
+    <AlertUnhappyNudityDesc>次の入植者は,全裸のままで不満げです:\n\n{0}\nなにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertUnhappyNudityDesc>
 
     <Starvation>食べる物がない</Starvation>
-    <StarvationDesc>次の入植者は 空腹を うったえています：\n\n{0}\nいますぐ 食事が 必要です.</StarvationDesc>
+    <StarvationDesc>次の入植者が 空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
 
     <StarvationAnimals>餌がない</StarvationAnimals>
-    <StarvationAnimalsDesc>コロニーの家畜が腹を空かせています：\n\n{0}\n餌を 用意してください.</StarvationAnimalsDesc>
+    <StarvationAnimalsDesc>次の家畜が 腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
 
     <Exhaustion>入植者に休息を</Exhaustion>
-    <ExhaustionDesc>入植者に 休息を 与えてください：\n\n{0}\n今すぐ 睡眠が 必要です. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
+    <ExhaustionDesc>次の入植者は 働き過ぎで 睡眠を必要としています：\n\n{0}\n睡眠を与えましょう. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
 
     <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
-    <NeedFoodHopperDesc>ペーストディスペンサーがありますが,食材ホッパーがありません.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
+    <NeedFoodHopperDesc>食材ホッパーが設置されていない ペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
 
     <NeedMealSource>食材の調理</NeedMealSource>
-    <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は囚人ゾーンの調理器具を, 使用できません.）</NeedMealSourceDesc>
+    <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は 囚人ゾーンの調理器具を 使用できません.）</NeedMealSourceDesc>
 
     <NeedJoySource>娯楽に多様性を</NeedJoySource>
-    <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入力者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
+    <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
     <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
-    <MissingRecreationTypes>足りない娯楽種別</MissingRecreationTypes>
+    <MissingRecreationTypes>欠けている娯楽種別</MissingRecreationTypes>
     <CurrentExpectationsAndRecreation>現満足度({0}) {1}/日 発生する毎に飽きてきます.{2}種類の娯楽を推奨します.</CurrentExpectationsAndRecreation>
     <bored>飽きた</bored>
 
     <Boredom>退屈</Boredom>
-    <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の娯楽種別{PAWN_labelShort}:\n\n{2}</BoredomDesc>
+    <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の {PAWN_labelShort}への娯楽種別:\n\n{2}</BoredomDesc>
 
-    <NeedBatteries>電気をためる</NeedBatteries>
+    <NeedBatteries>電気を貯める</NeedBatteries>
     <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません. これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>
 
-    <BrawlerHasRangedWeapon>格闘家と遠距離武器</BrawlerHasRangedWeapon>
-    <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが,遠距離武器で武装しています. このことは,彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
+    <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
+    <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが,遠隔武器で武装しています. このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
 
-    <ShieldUserHasRangedWeapon>シールドと遠距離武器</ShieldUserHasRangedWeapon>
-    <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠距離武器で武装しています.シールドベルト越しに 遠距離武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
+    <ShieldUserHasRangedWeapon>シールドと遠隔武器</ShieldUserHasRangedWeapon>
+    <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに 遠隔武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
 
     <NeedResearchProject>研究計画</NeedResearchProject>
-    <NeedResearchProjectDesc>研究用機器が ありますので, 研究の 計画を たてましょう.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
+    <NeedResearchProjectDesc>研究用機器があるのに なにも計画してません.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
 
     <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
-    <ColonistsIdleDesc>次の入植者は 作業が無く 散歩しています：\n\n{0}\n何か生産的な作業を見つけてあげましょう.</ColonistsIdleDesc>
+    <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
 
     <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
-    <ColonistNeedsTreatmentDesc>入植者に 医療処置を受けさせなければなりません.\n\n治療を行わずにいると,病が慢性化し 死に至ります.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な 入植者を右クリックしてベッドへ 誘導させます )</ColonistNeedsTreatmentDesc>
+    <ColonistNeedsTreatmentDesc>次の入植者は 治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な入植者を 右クリックしてベッドへ誘導します )</ColonistNeedsTreatmentDesc>
 
     <AlertHypothermia>低体温症</AlertHypothermia>
-    <AlertHypothermiaDesc>入植者は低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせ,室内を適切に暖めましょう.</AlertHypothermiaDesc>
+    <AlertHypothermiaDesc>次の入植者は 低体温症に罹っています.\n\n{0}\n季節に見合った暖かな服装をさせているか,室内が適切に暖められているか確認しましょう.</AlertHypothermiaDesc>
 
     <PatientsAwaitingMedicalOperation>{0}人の手術待ち</PatientsAwaitingMedicalOperation>
-    <PatientsAwaitingMedicalOperationDesc>患者が外科的手術が始まるのを待っています:\n\n{0}\n治療に必要なツールと,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
+    <PatientsAwaitingMedicalOperationDesc>次の患者は 外科的手術の執刀を待っています:\n\n{0}\n治療に必要なツールが全て揃っていて,手の空いた医者が居るか確認しましょう.</PatientsAwaitingMedicalOperationDesc>
 
     <FireInHomeArea>火災発生!</FireInHomeArea>
     <FireInHomeAreaDesc>コロニー内にて火災が発生しています.</FireInHomeAreaDesc>
 
     <PawnsWithLifeThreateningDisease>大病</PawnsWithLifeThreateningDisease>
-    <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎりの治療が受けられるか 確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
-    <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nもし可能なら,入植者を生かし続けるためにも,感染部位の切断手術や,移植手術も,検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+    <PawnsWithLifeThreateningDiseaseDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nできるかぎり最善の治療を 受けられるか確認しましょう.</PawnsWithLifeThreateningDiseaseDesc>
+    <PawnsWithLifeThreateningDiseaseAmputationDesc>死の危険がある大病を患ってる入植者がいます.\n\n{0}\nもし可能なら,入植者が生きる為にも,感染部位の切断手術や,移植手術を検討しましょう.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
     <BilliardsNeedsSpace>ビリヤードができない</BilliardsNeedsSpace>
-    <BilliardsNeedsSpaceDesc>あるビリヤード台が障害物に隣接している為,入植者が使おうとするのを邪魔しています.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
+    <BilliardsNeedsSpaceDesc>あるビリヤード台に 障害物が隣接している為,入植者が使えません.\n\nビリヤード台の周り,四方にスペースが必要です.</BilliardsNeedsSpaceDesc>
 
     <HunterHasShieldAndRangedWeapon>狩人とシールド</HunterHasShieldAndRangedWeapon>
-    <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠距離武器で武装しつつ,猟場で撃たれるのを防ぐためシールドベルトを巻いています.\n\nしかしパーソナルシールドを脱がないかぎり,彼らは狩りができません.</HunterHasShieldAndRangedWeaponDesc>
+    <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠隔武器で武装しつつ,シールドベルトを巻いてるので,距離を取っての発砲が 妨げてられています.\n\n彼らは シールドベルトを脱がないかぎり 狩りができません.</HunterHasShieldAndRangedWeaponDesc>
 
     <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
-    <NeedWarmClothesDesc1>寒気がやってきたとき, 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
-    <NeedWarmClothesDesc1All>寒気がやってきたとき, 入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
+    <NeedWarmClothesDesc1>冬期に 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
+    <NeedWarmClothesDesc1All>冬期に, 入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
     <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
 
     <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>

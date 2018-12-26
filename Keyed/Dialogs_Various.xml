@@ -8,19 +8,19 @@
 
     <!-- Game updated to new version -->
     <GameUpdatedToNewVersionInitial>"RimWorld"は,バージョン{0}から{1}にアップデートされました.</GameUpdatedToNewVersionInitial>
-    <GameUpdatedToNewVersionSavesIncompatible>旧バージョンでのセーブゲームやMODが,動作しなくなることが起きます.</GameUpdatedToNewVersionSavesIncompatible>
-    <GameUpdatedToNewVersionSavesCompatible>旧バージョンでのセーブゲームは互換性がありますが,MODは動作しなくなることが起きます.</GameUpdatedToNewVersionSavesCompatible>
-    <GameUpdatedToNewVersionNonSteam>この"RimWorld"は,DRM-free copyなので,２箇所の違うフォルダー別々にゲームをインストールすることができ,旧バージョンと新バージョンの両方を遊ぶことができます.</GameUpdatedToNewVersionNonSteam>
+    <GameUpdatedToNewVersionSavesIncompatible>旧バージョン用のセーブデータやMODが 動作しなくなる可能性があります.</GameUpdatedToNewVersionSavesIncompatible>
+    <GameUpdatedToNewVersionSavesCompatible>旧バージョン用のセーブデータは 互換性をとっていますが, MODは動作しなくなる可能性があります.</GameUpdatedToNewVersionSavesCompatible>
+    <GameUpdatedToNewVersionNonSteam>この"RimWorld"は,DRM-free copyなので,２箇所の違うフォルダー別々にゲームをインストールすれば,旧バージョンと新バージョンの両方を遊ぶことができます.</GameUpdatedToNewVersionNonSteam>
     <GameUpdatedToNewVersionSteam>旧バージョンで遊び続けたいなら,Steamの"Betas"機能を選択することができます.\n\n1.Sterm ライブラリー,RimWorldを右クリックする.\n2.プロパティをクリックする.\n3.ベータタブをクリックする.\n4.ドロップダウンメニューより,遊びたいバージョン番号を選択する.\n\nゆくゆくは,このリストから旧バージョンが削除されると思われます - 私たちは作業中のゲームを打ち切ることは望んでいません.\n\n【ノート】MOD製作者が,彼らのMODを新バージョンに対応させたら,おそらく旧バージョンでは動作しなくなるでしょう.これを防ぐために,自動アップデート機能をオフにしてください.</GameUpdatedToNewVersionSteam>
 
     <!-- Recovered from errors caused by mods -->
     <RecoveredFromErrorsDialogTitle>互換性が無いなどの間違いによるMODエラーから復帰しました.</RecoveredFromErrorsDialogTitle>
-    <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました.\n\nそれらはRimWorldの違うバージョンとは互換性が無いなど間違っています.\n\n全てのMODを一旦無効にしました,再びMODダイアログから有効にすることができます. </RecoveredFromErrorsText>
+    <RecoveredFromErrorsText>幾つかの有効なMODがエラーを起こしました.\n\nそれらは,互いに互換性が無いか,それぞれRimworldの違うバージョン用に作られたか,バグが起きています.\n\n全てのMODを一旦無効にしました,再びMODダイアログから有効にすることができます. </RecoveredFromErrorsText>
 
     <!-- Errors during loading -->
     <ErrorWhileLoadingAssetsTitle>エラー：ロード中</ErrorWhileLoadingAssetsTitle>
     <ErrorWhileLoadingAssets>ロード中にエラーが発生しました.エラーに関する詳細情報は,エラーログを見てください.</ErrorWhileLoadingAssets>
-    <ErrorWhileLoadingAssets_ModsInfo>このゲームは,現在,カスタムMODと共に動作しています - この事が,問題を引き起こすかどうかはわかりません.</ErrorWhileLoadingAssets_ModsInfo>
+    <ErrorWhileLoadingAssets_ModsInfo>このゲームは,現在,カスタムMODと共に動作しています - この事が,この問題を引き起こしているかどうかはわかりません.</ErrorWhileLoadingAssets_ModsInfo>
     <ErrorWhileGeneratingMapTitle>エラー：地図を作成中</ErrorWhileGeneratingMapTitle>
     <ErrorWhileGeneratingMap>地図を作成中にエラーが発生しました.エラーに関する詳細情報は,エラーログを見てください.</ErrorWhileGeneratingMap>
     <ErrorWhileLoadingMapTitle>エラー：地図をロード中</ErrorWhileLoadingMapTitle>
@@ -48,18 +48,18 @@
     <SpawningColonists>入植者を配置中</SpawningColonists>
 
     <!-- Save/load -->
-    <SaveGameButton>保存</SaveGameButton>
+    <SaveGameButton>セーブ</SaveGameButton>
     <LoadGameButton>ロード</LoadGameButton>
-    <OverwriteButton>上書きする</OverwriteButton>
+    <OverwriteButton>上書き</OverwriteButton>
     <ConfirmDelete>本当に {0} を 削除しますか？</ConfirmDelete>
     <DeleteThisSavegame>この セーブデータを 削除します.</DeleteThisSavegame>
-    <SavedAs>{0}という 名前で 保存します.</SavedAs>
-    <NeedAName>名前を 入力してください.</NeedAName>
+    <SavedAs>{0}という ファイル名で 保存します.</SavedAs>
+    <NeedAName>ファイル名を 入力してください.</NeedAName>
     <LoadingLongEvent>データロード中です…</LoadingLongEvent>
     <SavingLongEvent>セーブ中</SavingLongEvent>
     <PermadeathModeSaveSuffix>(パーマデス)</PermadeathModeSaveSuffix>
     <SaveIsFromDifferentGameVersion>現在のバージョンは {0} です.\n\nセーブデータは全く違うバージョン {1} で作成されました.\n\nセーブデータを読み込めたとしても,おそらく動作しないと思われます.</SaveIsFromDifferentGameVersion>
-    <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です.\n\nセーブデータは違うバージョン {1} で作成されました.\n\nセーブデータは動作します.</SaveIsFromDifferentGameBuild>
+    <SaveIsFromDifferentGameBuild>現在のバージョンは {0} です.\n\nセーブデータは違うバージョン {1} で作成されました.\n\nセーブデータは動作するはずです.</SaveIsFromDifferentGameBuild>
     <SaveIsFromThisGameBuild>セーブデータは,このゲームバージョンでセーブされています.</SaveIsFromThisGameBuild>
     <SaveIsUnknownFormat>セーブデータは未知のフォーマットで記録されています,おそらく読み込めないでしょう.</SaveIsUnknownFormat>
     <ProblemSavingFile>不具合があるセーブデータ {0} です.\n\n {1}\n\n詳細な情報はエラーログを見てください.</ProblemSavingFile>
@@ -73,30 +73,30 @@
     <PlayerFactionNameIsInvalid>その名前は適当ではありません.</PlayerFactionNameIsInvalid>
 
     <!-- Player faction base naming -->
-    <NamePlayerFactionBaseMessage>あなたが,この入植地のネーミングをするべきだと,{0}は考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage>
-    <PlayerFactionBaseGainsName>この入植地を {0}と名乗りました.</PlayerFactionBaseGainsName>
+    <NamePlayerFactionBaseMessage>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage>
+    <PlayerFactionBaseGainsName>ここを {0}と命名しました.</PlayerFactionBaseGainsName>
     <PlayerFactionBaseNameIsInvalid>その名前は適当ではありません.</PlayerFactionBaseNameIsInvalid>
 
     <!-- Player faction and faction base naming -->
-    <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,この入植地のネーミングをするべきだと,{0}は考えています.あなたの入植地を何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
-    <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り,入植地を {1}と名乗りました.</PlayerFactionAndBaseGainsName>
+    <NamePlayerFactionBaseMessage_NameFactionContinuation>あなたが,このコロニーのネーミングをするべきだと,{0}は考えています.あなたのコロニーを何と呼べば良いですか？</NamePlayerFactionBaseMessage_NameFactionContinuation>
+    <PlayerFactionAndBaseGainsName>あなたは派閥を {0}と名乗り,ここを {1}と命名しました.</PlayerFactionAndBaseGainsName>
 
     <!-- Renaming -->
     <NameIsInvalid>正しい名前を入力してください.</NameIsInvalid>
     <NameIsInUse>その名前は既に使われています.</NameIsInUse>
-    <ZoneGainsName>このゾーンを {0} という名前に 決めました.</ZoneGainsName>
+    <ZoneGainsName>このゾーンを {0} と命名しました.</ZoneGainsName>
 
     <!-- Pawn naming -->
-    <PawnGainsName>この人のニックネームは {0} に決めました.[PAWN_possessive]肩書きは {PAWN_title} です.</PawnGainsName>
-    <AnimalGainsName>この動物の名前は {0} に決めました.</AnimalGainsName>
+    <PawnGainsName>この人のニックネームを {0}としました.[PAWN_possessive]肩書きは {PAWN_title} です.</PawnGainsName>
+    <AnimalGainsName>この動物の名前を {0}としました.</AnimalGainsName>
 
     <!-- Save game incompatible warning -->
     <VersionMismatch>バージョンの不一致</VersionMismatch>
-    <SaveGameIncompatibleWarningText>警告: このセーブファイルは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブファイルを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
-    <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作る事を強く勧めます.</WorldFileVersionMismatch>
-    <FileIncompatibleWarning>警告: このファイルは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのファイルを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
-    <ModsMismatchWarningTitle>Mods 不一致</ModsMismatchWarningTitle>
-    <ModsMismatchWarningText>このファイルは,現在動作している MOD とは別の MODが有効になった状態でセーブされています.これは,MOD 次第によっては,問題を起こすかも,起こさないかもしれません.\n\nファイルにセーブされているMOD(ロード順):\n\n{0}\n\n動作しているMOD(ロード順):\n\n{1}</ModsMismatchWarningText>
+    <SaveGameIncompatibleWarningText>警告: このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</SaveGameIncompatibleWarningText>
+    <WorldFileVersionMismatch>警告: この世界は バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性がありますので,新規にいちから世界を作る事を強く勧めます.</WorldFileVersionMismatch>
+    <FileIncompatibleWarning>警告: このセーブデータは バージョン {0} で保存されたものです. 現在のバージョンは {1} です.\n\nこのセーブデータを読み込むとバグやクラッシュを引き起こす可能性があります.</FileIncompatibleWarning>
+    <ModsMismatchWarningTitle>MOD 不一致</ModsMismatchWarningTitle>
+    <ModsMismatchWarningText>このセーブデータは,現在動作している MOD とは別の MODが有効になった状態でセーブされています.これは,MOD 次第によっては,問題を起こすかも,起こさないかもしれません.\n\nセーブデータにセーブされているMOD(ロード順):\n\n{0}\n\n動作しているMOD(ロード順):\n\n{1}</ModsMismatchWarningText>
 
     <!-- Resolution change dialog -->
     <ConfirmResolutionChange>画面解像度を 変更しました. この解像度でよろしいですか？\n\n自動復帰まで あと {0} 秒...</ConfirmResolutionChange>
@@ -180,7 +180,7 @@
     <BurstShotFireRate>連射速度</BurstShotFireRate>
     <Range>射程</Range>
     <StoppingPower>威力</StoppingPower>
-    <StoppingPowerExplanation>この武器が命中すると,ターゲットをよろめかせ,数秒間ほど動作に支障がおきます.ターゲットの体格が「威力」よりも大きいと効果を示さなくなるでしょう.</StoppingPowerExplanation>
+    <StoppingPowerExplanation>この武器が命中すると,ターゲットをよろめかせ,動作が数秒間ほど遅くなります.ターゲットの体格が「威力」よりも大きいと効果を示さなくなります.</StoppingPowerExplanation>
     <DirectHitChance>命中率</DirectHitChance>
     <MissRadius>収束半径</MissRadius>
     <GrowsWild>野生植物</GrowsWild>
@@ -190,7 +190,7 @@
     <HarvestYield>収量</HarvestYield>
     <MinGrowthTemperature>生育・最低気温</MinGrowthTemperature>
     <MaxGrowthTemperature>生育・最高気温</MaxGrowthTemperature>
-    <GrowingTimeDesc>植物は,昼間,陽が当たっているときだけ成長します.成長時間とは,植物が充分に育つまでに必要な陽が当たっている総時間です.現実には成長するまで約2倍の時間がかかります.低温時にも成長は鈍ります.</GrowingTimeDesc>
+    <GrowingTimeDesc>植物は,昼間,陽が当たっているときだけ成長します.成長時間とは,植物が充分に育つまでに必要な陽が当たっている総時間です.実際に成長するまでの時間は,約2倍かかります.低温時にも成長は鈍ります.</GrowingTimeDesc>
     <Days>日</Days>
     <MinGrowingSkillToSow>種を蒔くのに,最低限必要な"栽培"スキル値</MinGrowingSkillToSow>
     <FertilityRequirement>必要な土壌の肥沃度</FertilityRequirement>
@@ -232,12 +232,12 @@
     <ConstructionSkillRequired>必要な建築スキルレベル</ConstructionSkillRequired>
     <ConstructionSkillRequiredExplanation>建てるために必要な建築スキルのレベル</ConstructionSkillRequiredExplanation>
     <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
-    <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる頻度の平均です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草を微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
+    <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草に微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
     <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
     <HarmedRevengeChanceExplanation>動物が遠距離から攻撃されて傷を負った時に逆襲する確率です.\n\n攻撃した者が近いほど発生率は上がります.近距離からの場合は３倍となります.\n\nダメージを受ける度に判定し,低発射頻度,高火力の武器は,発生しにくくなります.\n\n逆襲の発生率を極小にするには,遠距離から低発射頻度の武器で攻撃します.</HarmedRevengeChanceExplanation>
     <TameFailedRevengeChance>馴らし失敗逆襲の発生率</TameFailedRevengeChance>
     <TerrainRequirement>必要な地盤</TerrainRequirement>
-    <Supports>支持</Supports>
+    <Supports>地盤</Supports>
     <TrapArmorPenetration>アーマー貫通力(トラップ)</TrapArmorPenetration>
     <RearmCost>再装填コスト</RearmCost>
     <RearmCostExplanation>このタレットを再装填するには資源が必要です(難易度の影響を受けます).</RearmCostExplanation>
@@ -262,8 +262,8 @@
     <ColonyHasNoMore>品切れ</ColonyHasNoMore>
     <TraderWillNotTrade>トレーダーは,これを買う気がありません.</TraderWillNotTrade>
     <Negotiator>交渉者</Negotiator>
-    <NegotiatorTalkingImpaired>交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
-    <NegotiatorHearingImpaired>交渉人 {1_labelShort}は病弱のため きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
+    <NegotiatorTalkingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと話す事が出来ません.</NegotiatorTalkingImpaired>
+    <NegotiatorHearingImpaired>あなたの交渉人 {1_labelShort}は病弱のため きちんと聞く事が出来ません.</NegotiatorHearingImpaired>
     <NegotiatorCapacityImpaired>このことは価格交渉に影響を及ぼすでしょう.\n\nもっと健康な交渉人を立てることをお勧めします.</NegotiatorCapacityImpaired>
     <ConfirmTraderShortFunds>トレイダーは,この契約を遂行するのに十分なシルバーを持っていません.それでも続けますか？</ConfirmTraderShortFunds>
     <SortBy>並び替え</SortBy>
@@ -289,33 +289,33 @@
     <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
     <PawnsTab>メンバー</PawnsTab>
     <ItemsTab>物資</ItemsTab>
-    <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者が必要です.</CaravanMustHaveAtLeastOneColonist>
-    <CaravanCouldNotFindExitSpot>有効な出発エリアを見つけられません.{0}</CaravanCouldNotFindExitSpot>
-    <CaravanCouldNotFindPackingSpot>正しい物流センターを見つけられません.出発エリア({0})に到達できるか確認して下さい.</CaravanCouldNotFindPackingSpot>
-    <CaravanCouldNotFindReachableExitSpot>警告: いくつかの割り当てられた入植者は,出ていけません.({0})</CaravanCouldNotFindReachableExitSpot>
-    <CaravanPawnIsUnreachable>他に指示した入植者によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
-    <CaravanItemIsUnreachableSingle>{0}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableSingle>
-    <CaravanItemIsUnreachableMulti>{0}x{1}に到達できる入植者は,ひとりもいません.</CaravanItemIsUnreachableMulti>
+    <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
+    <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません.</CaravanCouldNotFindExitSpot>
+    <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認して下さい.</CaravanCouldNotFindPackingSpot>
+    <CaravanCouldNotFindReachableExitSpot>警告: あるキャラバン隊員は出発地点({0})への道順がありません.</CaravanCouldNotFindReachableExitSpot>
+    <CaravanPawnIsUnreachable>他キャラバン隊員によって,{1_labelShort}には到達できません.</CaravanPawnIsUnreachable>
+    <CaravanItemIsUnreachableSingle>{0}に到達できるキャラバン隊員が,一人もいません.</CaravanItemIsUnreachableSingle>
+    <CaravanItemIsUnreachableMulti>{0}x {1}に到達できるキャラバン隊員が,一人もいません.</CaravanItemIsUnreachableMulti>
     <TooBigCaravanMassUsage>キャラバン隊は,こんなに多くは運べません.</TooBigCaravanMassUsage>
-    <CaravanMassUsageTooltip>運ぶアイテムと,身につけているアイテムの両方を含んでいます.最大積載量より少ないと移動速度にボーナスが与えられます.</CaravanMassUsageTooltip>
+    <CaravanMassUsageTooltip>運ぶアイテムと,身につけているアイテムの両方の重さを含んでいます.最大積載量より少ないと移動速度にボーナスが与えられます.</CaravanMassUsageTooltip>
     <CaravanVisibilityTip>目立ちやすさは,キャラバン隊の気付かれ易さを表します.\n\n敵に見つかってしまう確率への掛け率を表しています.\n\n「目立ちやすさ」はキャラバン隊が物を発見する能力には影響しません.\n\n「目立ちやすさ」の基本値は,キャラバン隊の全ての動物と人間の体格の和をもとにしています.</CaravanVisibilityTip>
     <DaysWorthOfFood>食料(日数)</DaysWorthOfFood>
     <DaysWorthOfFoodInfoRot>腐敗まで{0}</DaysWorthOfFoodInfoRot>
     <InfiniteDaysWorthOfFoodInfo>無期限</InfiniteDaysWorthOfFoodInfo>
-    <DaysWorthOfFoodTooltip>少なくとも,一人の人間か動物の食料が尽きてしまうまでの,おおよその日数です.種が違えば食性も変わり,他よりも先に食料が尽きる可能性もあります.この値は,道順を選択した後では,より正確に計算されます.\n\n影響する因子:\n - 運ぶ食料種別と数量\n - キャラバン隊員とその食性\n - 食料調達率\n - 牧草の有無\n - 食料の消費期限\n - 高温による腐りやすさ.</DaysWorthOfFoodTooltip>
+    <DaysWorthOfFoodTooltip>少なくとも,一人分の食料(人間や動物)が尽きるまでの,おおよその日数です.種が違えば食性も変わり,他よりも先に食料が尽きる可能性もあります.この値は,ルートを選択した後では,より正確に計算されます.\n\n影響する因子:\n - 運ぶ食料種別と数量\n - キャラバン隊員とその食性\n - 食料調達率\n - 牧草の有無\n - 食料の消費期限\n - 高温による腐りやすさ.</DaysWorthOfFoodTooltip>
     <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(最初のウェイポイントまでを考慮にいれる)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
     <DaysWorthOfFoodWarningDialog>キャラバン隊は,{0}日分の食料しか持っていません.すぐに空腹になるでしょう.</DaysWorthOfFoodWarningDialog>
-    <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので,あっという間に飢えが始まります.\n\n本当に良いのですか？</DaysWorthOfFoodWarningDialog_NoFood>
+    <DaysWorthOfFoodWarningDialog_NoFood>キャラバン隊は 食料がないので,あっという間に飢えが始まります.</DaysWorthOfFoodWarningDialog_NoFood>
     <ForagedFoodPerDayTip>一日に食料調達できそうな平均的数量です.この値は気候帯をまたがって移動すれば,気候帯毎に違う調達率があるため変化します.</ForagedFoodPerDayTip>
     <ForagedFoodPerDay>食料調達数/日</ForagedFoodPerDay>
-    <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が,すぐにでも腐敗するでしょう.</CaravanFoodWillRotSoonWarningDialog>
+    <CaravanFoodWillRotSoonWarningDialog>キャラバン隊の食料の大部分が,すぐに腐敗するでしょう.</CaravanFoodWillRotSoonWarningDialog>
     <CaravanIncapableOfSocial>キャラバン隊の中に,外交や商取引ができるメンバーがいません.</CaravanIncapableOfSocial>
-    <CaravanAreYouSure>このキャラバン隊を本当に編成しますか?</CaravanAreYouSure>
+    <CaravanAreYouSure>このキャラバン隊を本当に編成しますか？</CaravanAreYouSure>
     <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
     <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.すくなくても,どこかマップの端が到達可能か確認してください.</MessageNoValidExitTile>
     <ItemWeightTip>このアイテムの重量</ItemWeightTip>
     <MarketValueTip>小売価格</MarketValueTip>
-    <DaysUntilRotTip>この地域における平均気温を元にした,このアイテムが腐敗し始めるまでの日数.</DaysUntilRotTip>
+    <DaysUntilRotTip>この地域での平均気温を元にした,このアイテムが腐敗し始めるまでの日数.</DaysUntilRotTip>
     <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
     <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
     <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
@@ -352,18 +352,18 @@
     <!-- Split caravan -->
     <SplitCaravan>キャラバン隊の分割</SplitCaravan>
     <SourceCaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者が必要です.</SourceCaravanMustHaveAtLeastOneColonist>
-    <SplitCaravanThingCountTip>元のキャラバンが,分割先のキャラバン隊に持たすことができる,このアイテムの数</SplitCaravanThingCountTip>
+    <SplitCaravanThingCountTip>元のキャラバン隊から,分割先のキャラバン隊に持たすことができるアイテムの数</SplitCaravanThingCountTip>
 
     <!-- Load transporters -->
     <LoadTransporters>{0}を荷積み</LoadTransporters>
     <TooBigTransportersMassUsage>指示された人とアイテムは,輸送ポッドには重すぎます.</TooBigTransportersMassUsage>
     <CantSendEmptyTransportPods>空の輸送ポッドを送る事はできません.</CantSendEmptyTransportPods>
-    <PawnCantReachTransporters>{1_labelShort}は輸送ポッドに,たどり着く事ができません.</PawnCantReachTransporters>
+    <PawnCantReachTransporters>{1_labelShort}は輸送ポッドに到達できません.</PawnCantReachTransporters>
     <TransporterItemIsUnreachableSingle>{0}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableSingle>
     <TransporterItemIsUnreachableMulti>{0}x {1}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableMulti>
 
     <!-- Comms -->
-    <SocialSkillIs>社交 スキル： {0}</SocialSkillIs>
+    <SocialSkillIs>社交スキル： {0}</SocialSkillIs>
 
     <!--Research-->
     <ResearchFinished>研究が完了した： {0}</ResearchFinished>
@@ -443,7 +443,7 @@
     <MedGroupHostileFaction>敵対する派閥</MedGroupHostileFaction>
 
     <!-- Growing -->
-    <NoGrowerCanPlant>{0}は,種を蒔くのに栽培スキルが {1} 必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられないでしょう.</NoGrowerCanPlant>
+    <NoGrowerCanPlant>{0}の種を蒔くのには, 栽培スキルが{1}必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられません.</NoGrowerCanPlant>
 
     <!-- Abandon home -->
     <ConfirmAbandonHomeWithColonyPawns>このエリアに,入植者や家畜の一部がまだ居ます.本当に放棄するのですか？\n\n下記の,入植者と家畜が,置き去りにされます:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
@@ -451,14 +451,14 @@
     <ConfirmAbandonHomeNegativeThoughts_Everyone>全員:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
     <!-- Move caravan and leave prisoners and animals behind -->
-    <ConfirmMoveAutoJoinableCaravan>家畜や囚人はキャラバン隊に加わろうとします.あなたがキャラバン隊を移動させれば,彼らはどこにも行けません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それを放棄したとみなし,敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
+    <ConfirmMoveAutoJoinableCaravan>家畜や囚人がキャラバン隊に加わろうとしています.あなたがキャラバン隊を移動させると,彼らはどうすることもできません.\n\n正常な入植者達無しに,家畜,囚人,意識不明の入植者達が,マップに取り残されると,それは放棄したとみなして敵の捕虜になった事とします.\n本当にキャラバン隊を移動させますか？</ConfirmMoveAutoJoinableCaravan>
 
     <!-- Abandon pawn -->
     <ConfirmBanishPawnDialog>本当に{1_label}を追放しますか?</ConfirmBanishPawnDialog>
     <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}は十中八九死ぬでしょう</ConfirmBanishPawnDialog_LeftToDie>
-    <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます:</ConfirmBanishPawnDialog_Items>
+    <ConfirmBanishPawnDialog_Items>{1_labelShort}は次のアイテムを持っていきます{1_objective}:</ConfirmBanishPawnDialog_Items>
     <ConfirmBanishPawnDialog_AllColonistsThoughts>入植者全員に次の感情が湧きます:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-    <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放することで,次の人たちに,このような感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
+    <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると,以下の人々に,つぎの感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
     <!-- Send transport pods which are not completely loaded -->
     <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか？</ConfirmSendNotCompletelyLoadedPods>

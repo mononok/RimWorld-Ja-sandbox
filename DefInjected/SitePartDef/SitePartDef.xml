@@ -3,19 +3,19 @@
 
 	<Manhunters.label>人狩りの群れ</Manhunters.label>
 	<Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
-	<Manhunters.descriptionDialogue>ヒト狩り{1} {0}の群れが辺りをうろついています.</Manhunters.descriptionDialogue>
+	<Manhunters.descriptionDialogue>ヒト狩り,{1}頭の{0}の群れが辺りをうろついています.</Manhunters.descriptionDialogue>
     <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます.</Manhunters.arrivedLetter>
 
 	<Outpost.label>前哨基地</Outpost.label>
-	<Outpost.description>ちいさな守備されている前哨基地</Outpost.description>
-	<Outpost.descriptionDialogue>敵によって守られている前哨基地が{0}ヶ所あります.</Outpost.descriptionDialogue>
+	<Outpost.description>小規模,守備されている前哨基地</Outpost.description>
+	<Outpost.descriptionDialogue>{0}人の敵によって守られている前哨基地があります.</Outpost.descriptionDialogue>
     <Outpost.arrivedLetter>敵の前哨基地がこのエリアにあります.</Outpost.arrivedLetter>
     <Outpost.approachOrderString>{0}を攻撃</Outpost.approachOrderString>
     <Outpost.approachingReportString>{0}を攻撃中</Outpost.approachingReportString>
 
 	<Turrets.label>タレット</Turrets.label>
 	<Turrets.description>タレット群</Turrets.description>
-	<Turrets.descriptionDialogue>{0}のリング状の敵のタレットがあります.</Turrets.descriptionDialogue>
+	<Turrets.descriptionDialogue>タレットが {0}あります.</Turrets.descriptionDialogue>
     <Turrets.arrivedLetter>敵のタレットがこのエリアにあります.</Turrets.arrivedLetter>
 
 	<AmbushEdge.label>待ち伏せ</AmbushEdge.label>
@@ -28,7 +28,7 @@
 
 	<SleepingMechanoids.label>スリープ状態のメカノイド</SleepingMechanoids.label>
 	<SleepingMechanoids.description>機能休眠中のメカノイドのグループがいます.</SleepingMechanoids.description>
-	<SleepingMechanoids.descriptionDialogue>{0}の機能休眠中のメカノイドがこのエリアにします.</SleepingMechanoids.descriptionDialogue>
-    <SleepingMechanoids.arrivedLetter>機能休眠中のメカノイドらがこのエリアにいます.\n\nあなたが彼らに接触したとき,起きだすか,起きださないかもしれません,気を付けて</SleepingMechanoids.arrivedLetter>
+	<SleepingMechanoids.descriptionDialogue>{0}体の,機能休眠中メカノイドが,このエリアにいます.</SleepingMechanoids.descriptionDialogue>
+    <SleepingMechanoids.arrivedLetter>機能休眠中メカノイドが,このエリアにいます.\n\nあなたが彼らに接触したとき,起きだすかも,起きださないかもしれません,気を付けて</SleepingMechanoids.arrivedLetter>
 
 </LanguageData>

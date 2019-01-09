@@ -61,7 +61,7 @@
     <Insult.logRulesInitiator.rulesStrings>
 	    <li>r_logentry(p=3)->[INITIATOR_nameDef]は[target]の[PersonalCharacteristic][insulted].</li>
 	    <li>r_logentry->[INITIATOR_nameDef]は[target]と[insultcomparison]を比べた.</li>
-	    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+	    <li>r_logentry->[INITIATOR_nameDef]は[target]を[insultcomparison]と呼んだ.</li>
 
 	    <li>target(p=4)->[RECIPIENT_nameDef]</li>
 	    <li>target->[RECIPIENT_nameDef]の[Family]</li>
@@ -76,7 +76,7 @@
 	    <li>insulted->を誹謗中傷した</li>
 	    <li>insulted->について暴言を浴びせた</li>
 	    <li>insulted->を馬鹿にした</li>
-	    
+
 	    <li>insultcomparison(p=2)->[Animal]</li>
 	    <li>insultcomparison->[Enemy]</li>
     </Insult.logRulesInitiator.rulesStrings>

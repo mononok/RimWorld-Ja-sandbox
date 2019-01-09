@@ -2,7 +2,7 @@
 <LanguageData>
 
     <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} 暴走</LetterLabelAnimalInsanitySingle>
-    <AnimalInsanitySingle>その地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
+    <AnimalInsanitySingle>この地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
     <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
     <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
 
@@ -50,7 +50,7 @@
     <VisitorsLeaving>訪問中の {0}は 去りました.</VisitorsLeaving>
 
     <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-    <ManhunterPackArrived>ヒト狩り{0}週団が,この地にやって来ました.やつらは地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することはありません.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１?２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
+    <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
 
     <!-- Crashed ship part-->
     <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました.</MessageAnimalInsanityPulse>

@@ -84,16 +84,16 @@
 
     <!-- Related pawns -->
     <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
-    <LetterRelatedPawnsRaidEnemy>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着した敵対する {1} グループにいます.\n\nたとえ彼とは血がつながっていても,彼らとは敵対する関係である以上,依然として襲ってくるつもりがあることに留意してください.\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
-    <LetterRelatedPawnsRaidFriendly>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着した友好な {1} グループにいます:</LetterRelatedPawnsRaidFriendly>
-    <LetterRelatedPawnsNeutralGroup>あなたのコロニーの{0}か,囚人と,つながりのある者が,到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
-    <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,つながりのある者が,軌道トレーダーによって売られています:</LetterRelatedPawnsTradeShip>
-    <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの{0}か,囚人と,つながりのある者が,拠点で売られています:</LetterRelatedPawnsTradingWithSettlement>
-    <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの{0}か,囚人と,つながりのある者が,他キャラバン隊によって売られています:</LetterRelatedPawnsTradingWithOtherCaravan>
-    <LetterRelatedPawnsGroupGeneric>あなたのコロニーの{0}か,囚人と,つながりのある者がグループにいます:</LetterRelatedPawnsGroupGeneric>
-    <LetterRelatedPawnsInMapWherePlayerLanded>あなたのコロニーの{0}か,囚人と,つながりのある者が,このエリアにいます.</LetterRelatedPawnsInMapWherePlayerLanded>
-    <LetterRelatedPawnsSettlement>あなたのコロニーの{0}か,囚人と,つながりのある者が,ここの拠点にいます:</LetterRelatedPawnsSettlement>
-    <LetterRelatedPawnsSite>あなたのコロニーの{0}か,囚人と,つながりのある者が,このエリアにいます:</LetterRelatedPawnsSite>
+    <LetterRelatedPawnsRaidEnemy>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着した敵対する {1} グループにいます.\n\nたとえ血が繋がっていても,敵対関係にある以上,依然として襲ってくることには,変わりが無いことに留意してください.\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
+    <LetterRelatedPawnsRaidFriendly>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着した友好な {1} グループにいます:</LetterRelatedPawnsRaidFriendly>
+    <LetterRelatedPawnsNeutralGroup>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
+    <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,軌道トレーダーによって売られています:</LetterRelatedPawnsTradeShip>
+    <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,拠点で売られています:</LetterRelatedPawnsTradingWithSettlement>
+    <LetterRelatedPawnsTradingWithOtherCaravan>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,他キャラバン隊によって売られています:</LetterRelatedPawnsTradingWithOtherCaravan>
+    <LetterRelatedPawnsGroupGeneric>あなたのコロニーの{0}か,囚人と,繋がりの有る者がグループにいます:</LetterRelatedPawnsGroupGeneric>
+    <LetterRelatedPawnsInMapWherePlayerLanded>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,このエリアにいます.</LetterRelatedPawnsInMapWherePlayerLanded>
+    <LetterRelatedPawnsSettlement>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,ここの拠点にいます:</LetterRelatedPawnsSettlement>
+    <LetterRelatedPawnsSite>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,このエリアにいます:</LetterRelatedPawnsSite>
 
     <RelationshipAppendedLetterSuffix>(血縁関係)</RelationshipAppendedLetterSuffix>
     <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} は入植者と血縁関係にあります.{PAWN_pronoun}は {RELATIVE_labelShort}の {1}です.</RelationshipAppendedLetterTextColonist>

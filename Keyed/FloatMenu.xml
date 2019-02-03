@@ -13,9 +13,9 @@
 
 <FireAt>{1_label}に発射 (遠距離)</FireAt>
 
-  <OutOfRange>範囲外</OutOfRange>
+<OutOfRange>範囲外</OutOfRange>
   <TooClose>最低射程内</TooClose>
-  <CannotHitTarget>目標に命中しない</CannotHitTarget>
+<CannotHitTarget>対象に命中しない</CannotHitTarget>
   <IsIncapableOfViolenceLower>{1_labelShort}は 暴力行為ができない</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
   <IsNotDraftedLower>{1_labelShort}は 徴兵されていない</IsNotDraftedLower>
@@ -24,8 +24,8 @@
 
     <OrderManThing>{1_labelShort}に配置</OrderManThing>
 
-    <MeleeAttack>{1_label}に近接攻撃する</MeleeAttack>
-    <MeleeAttackToDeath>{1_label}を殺すまで近接攻撃する</MeleeAttackToDeath>
+    <MeleeAttack>{1_label}に近接攻撃</MeleeAttack>
+    <MeleeAttackToDeath>{1_label}を 近接攻撃で殺害する</MeleeAttackToDeath>
     <NoPath>道順が無い</NoPath>
 
     <ForbiddenLower>禁止</ForbiddenLower>

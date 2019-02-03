@@ -254,7 +254,7 @@
     <!-- Combat_Miss -->
     <Combat_Miss.rulePack.rulesStrings>
 	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [WEAPON_label]で [damaged_inf],[RECIPIENT_definite]は避けた.</li>
-	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_inf]もはずした.</li>
+	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_inf]も外した.</li>
 
 	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [implement]で [RECIPIENT_definite]を [damaged_inf],しかし[failtype].</li>
 	    <li>r_logentry(p=0.2)->[INITIATOR_definite]は [RECIPIENT_definite]を [damaged_inf],しかし[failtype].</li>
@@ -266,7 +266,7 @@
 	    <li>failtype->もたついた</li>
 	    <li>failtype->失敗した</li>
 
-	    <li>result->しかし,はずした</li>
+	    <li>result->しかし,外した</li>
 	    <li>result->しかし,空を切った</li>
 	    <li>result->しかし,一振りは当たらない</li>
 	    <li>result->しかし,最後の瞬間につまずいた</li>
@@ -390,7 +390,7 @@
 
         <!-- don't mention damage or destruction; uncommon, but intended as a fallback -->
         <li>r_logentry(p=0.2)->[INITIATOR_definite]は [RECIPIENT_definite]に [WEAPON_projectile_label]を当てた.</li>
-        <li>r_logentry(p=0.2)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]に当たった..</li>
+        <li>r_logentry(p=0.2)->[INITIATOR_definite]の [WEAPON_projectile_label]は [RECIPIENT_definite]に当たった.</li>
         <li>r_logentry(p=0.4)->[INITIATOR_definite]は [ORIGINALTARGET_definite]には当てられず, [WEAPON_projectile_label]は [RECIPIENT_definite]に命中.</li>
         <li>r_logentry(p=0.4)->[INITIATOR_definite]の [WEAPON_projectile_label]は [ORIGINALTARGET_definite]に当たらず,[RECIPIENT_definite]に命中した.</li>
         <li>r_logentry(p=0.2)->[INITIATOR_definite]は [ORIGINALTARGET_definite]に当てるつもりの [WEAPON_projectile_label]が [RECIPIENT_definite]に当たった.</li>
@@ -489,8 +489,8 @@
 	    <li>r_logentry->[ORIGINALTARGET_definite]は[avoidance],[INITIATOR_definite]の[WEAPON_projectile_label]は[missing].</li>
 
 	    <li>missed(p=4)->当たらなかった</li>
-	    <li>missed(p=2)->僅かな差ではずした</li>
-	    <li>missed(p=2)->大きくはずした</li>
+	    <li>missed(p=2)->僅かな差で外した</li>
+	    <li>missed(p=2)->大きく外した</li>
 	    <li>missed->狙いがはずれた</li>
 	    <li>missed->空の彼方へはずれた</li>
 	    <li>missed->空高くはずれた</li>

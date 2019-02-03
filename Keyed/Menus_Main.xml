@@ -123,14 +123,14 @@
     <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
     <MustChoosePermadeath>コミットメントモードか,無制限リロードモードを選択</MustChoosePermadeath>
     <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
-    <PermadeathModeInfo>パーマデスモードは,セーブファイルを一つしか持てません.入植者が死んでしまったなど,あなたの失敗を取り返すために,ゲームを巻き戻すことはできません.\n\nこのモードは,悲劇や希望に満ちあふれようとなかろうと,RimWorldをドラマチックなものに変えます.</PermadeathModeInfo>
+    <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
     <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
     <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
     <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
     <!--=========== Landing site select =========-->
     <SelectStartingSite>開始位置を選択</SelectStartingSite>
-    <SelectRandomSite>開始位置・ランダムを選択</SelectRandomSite>
+    <SelectRandomSite>開始位置・ランダム</SelectRandomSite>
     <SelectSite>決定</SelectSite>
     <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
     <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
@@ -149,11 +149,11 @@
     <AvgTemp>年平均気温</AvgTemp>
     <Rainfall>降雨量</Rainfall>
     <SpecialFeatures>特徴</SpecialFeatures>
-    <HasCoast0>北海岸</HasCoast0>
-    <HasCoast1>東海岸</HasCoast1>
-    <HasCoast2>南海岸</HasCoast2>
-    <HasCoast3>西海岸</HasCoast3>
-    <HasCaves>洞窟</HasCaves>
+    <HasCoast0>北端は海岸</HasCoast0>
+    <HasCoast1>東端は海岸</HasCoast1>
+    <HasCoast2>南端は海岸</HasCoast2>
+    <HasCoast3>西端は海岸</HasCoast3>
+    <HasCaves>洞窟あり</HasCaves>
     <FactionBase>本拠地</FactionBase>
     <StoneTypesHere>主な地層</StoneTypesHere>
     <TimeZone>タイムゾーン</TimeZone>

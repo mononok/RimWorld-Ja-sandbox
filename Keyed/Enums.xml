@@ -16,7 +16,7 @@
     <!-- Storage priority labels -->
     <StoragePriorityUnstored>不要</StoragePriorityUnstored>
     <StoragePriorityLow>低</StoragePriorityLow>
-    <StoragePriorityNormal>通常</StoragePriorityNormal>
+    <StoragePriorityNormal>標準</StoragePriorityNormal>
     <StoragePriorityPreferred>優先</StoragePriorityPreferred>
     <StoragePriorityImportant>重要</StoragePriorityImportant>
     <StoragePriorityCritical>最重要</StoragePriorityCritical>
@@ -54,13 +54,13 @@
   <HungerLevel_Starving>餓死寸前</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>飢餓</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>空腹</HungerLevel_Hungry>
-  <HungerLevel_Fed>摂食</HungerLevel_Fed>
+  <HungerLevel_Fed>摂食した</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <HungerLevel_Exhausted>疲労困憊</HungerLevel_Exhausted>
   <HungerLevel_VeryTired>とても疲れた</HungerLevel_VeryTired>
   <HungerLevel_Tired>疲れた</HungerLevel_Tired>
-  <HungerLevel_Rested>休息</HungerLevel_Rested>
+  <HungerLevel_Rested>休息した</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <Hilliness_Flat>平地</Hilliness_Flat>
@@ -84,10 +84,10 @@
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>治療しない</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>看護する(薬品は不使用)</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>看護する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>看護する(薬剤まで投与)</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NoCare>治療放棄</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>治療する(薬品は不使用)</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>治療する(薬剤まで投与)</MedicalCareCategory_NormalOrWorse>
   <MedicalCareCategory_Best>最高品質の医薬品を投与</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
@@ -101,13 +101,13 @@
   <HediffGrowthMode_Remission>沈静</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>道具を使えない</TechLevel_Animal>
+  <TechLevel_Animal>けもの</TechLevel_Animal>
   <TechLevel_Neolithic>新石器時代</TechLevel_Neolithic>
   <TechLevel_Medieval>中世</TechLevel_Medieval>
   <TechLevel_Industrial>産業革命</TechLevel_Industrial>
   <TechLevel_Spacer>宇宙世紀</TechLevel_Spacer>
   <TechLevel_Ultra>最先端の技術力</TechLevel_Ultra>
-  <TechLevel_Archotech>超越した技術力</TechLevel_Archotech>
+  <TechLevel_Archotech>アルコテック</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>惑星上</PlayerPawnsArriveMethod_Standing>
@@ -115,13 +115,13 @@
 
   <!-- Pawn generation context -->
   <PawnGenerationContext_All>全キャラクター</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>プレイヤーキャラクター</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>プレイヤー以外の人物</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_PlayerStarter>プレイヤー初期キャラクター</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>非プレイヤーキャラクター</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>動物の名前表示</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>名前を持つ者のみ</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>家畜全部</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>動物名表示</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>家畜(命名済のみ)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>家畜(全部)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>摂氏</Celsius>
@@ -153,10 +153,10 @@
   <DietCategory_Carnivorous_Short>肉</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
-  <FoodPoisonCause_IncompetentCook>間違った調理方法</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>下手なコック</FoodPoisonCause_IncompetentCook>
   <FoodPoisonCause_FilthyKitchen>不潔な調理場</FoodPoisonCause_FilthyKitchen>
   <FoodPoisonCause_Rotten>腐敗した食材</FoodPoisonCause_Rotten>
-  <FoodPoisonCause_DangerousFoodType>危険な食物</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>毒を持った食物</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <PsychicDroneLevel_None>無し</PsychicDroneLevel_None>
@@ -164,6 +164,6 @@
   <PsychicDroneLevel_BadLow>低</PsychicDroneLevel_BadLow>
   <PsychicDroneLevel_BadMedium>中</PsychicDroneLevel_BadMedium>
   <PsychicDroneLevel_BadHigh>高</PsychicDroneLevel_BadHigh>
-  <PsychicDroneLevel_BadExtreme>極大</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>極度</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

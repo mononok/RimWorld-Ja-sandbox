@@ -4,43 +4,26 @@
 		<!-- Beam -->
         <Ship_Beam.label>船体骨格</Ship_Beam.label>
         <Ship_Beam.description>宇宙船構造物を組み立てる為の,船体の主要骨格になります.必要な物,配管,往来の為の連絡パイプ,パワー,全てが含まれています.</Ship_Beam.description>
-        <Blueprint_Ship_Beam.label>船体骨格(設計)</Blueprint_Ship_Beam.label>
-        <Frame_Ship_Beam.label>船体骨格(施工)</Frame_Ship_Beam.label>
-		<Frame_Ship_Beam.description>宇宙船構造物を組み立てる為の,船体の主要骨格になります.必要な物,配管,往来の為の連絡パイプ,パワー,全てが含まれています.</Frame_Ship_Beam.description>
 
     <!-- Beam -->
         <Ship_CryptosleepCasket.label>耐圧冬眠カプセル</Ship_CryptosleepCasket.label>
         <Ship_CryptosleepCasket.description>宇宙空間で何世紀も乗組員を保護し,大気圏突入も可能です.船体骨格に繋げられます.</Ship_CryptosleepCasket.description>
-        <Blueprint_Ship_CryptosleepCasket.label>宇宙船用冬眠カプセル(設計)</Blueprint_Ship_CryptosleepCasket.label>
-        <Frame_Ship_CryptosleepCasket.label>宇宙船用冬眠カプセル(施工)</Frame_Ship_CryptosleepCasket.label>
-		<Frame_Ship_CryptosleepCasket.description>宇宙空間で何世紀も乗組員を保護し,大気圏突入も可能です.船体骨格に繋げられます.</Frame_Ship_CryptosleepCasket.description>
+
 
     <!-- Computer core -->
 		<Ship_ComputerCore.label>コンピュータコア</Ship_ComputerCore.label>
         <Ship_ComputerCore.description>数十年にわたる恒星間航行の間に発生する,あらゆる難問をくぐり抜け宇宙船を導くことができる,AI亜人格を収めたコンピューターコアです.</Ship_ComputerCore.description>
-		<Blueprint_Ship_ComputerCore.label>コンピュータコア(設計)</Blueprint_Ship_ComputerCore.label>
-		<Frame_Ship_ComputerCore.label>コンピュータコア(施工)</Frame_Ship_ComputerCore.label>
-		<Frame_Ship_ComputerCore.description>数十年にわたる恒星間航行の間に発生する,あらゆる難問をくぐり抜け宇宙船を導くことができる,AI亜人格を収めたコンピューターコアです.</Frame_Ship_ComputerCore.description>
 
 		<!-- Reactor -->
 		<Ship_Reactor.label>反応炉</Ship_Reactor.label>
         <Ship_Reactor.description>恒星間を旅する宇宙船の動力源.稼働には長い起動時間を必要とし,たいていはレイダー達の興味をそそります.</Ship_Reactor.description>
-		<Blueprint_Ship_Reactor.label>反応炉(設計)</Blueprint_Ship_Reactor.label>
-		<Frame_Ship_Reactor.label>反応炉(施工)</Frame_Ship_Reactor.label>
-		<Frame_Ship_Reactor.description>恒星間を旅する宇宙船の動力源.稼働には長い起動時間を必要とし,たいていはレイダー達の興味をそそります.</Frame_Ship_Reactor.description>
 
 		<!-- Engine -->
 		<Ship_Engine.label>核物質エンジン</Ship_Engine.label>
         <Ship_Engine.description>反作用が無いジョンソン-タナカドライブは,宇宙船を惑星軌道上へと打ち上げる能力があり,惑星間の広大な宇宙空間をゆっくりと横断します.</Ship_Engine.description>
-		<Blueprint_Ship_Engine.label>核物質エンジン(設計)</Blueprint_Ship_Engine.label>
-		<Frame_Ship_Engine.label>核物質エンジン(施工)</Frame_Ship_Engine.label>
-		<Frame_Ship_Engine.description>反作用が無いジョンソン-タナカドライブは,宇宙船を惑星軌道上へと打ち上げる能力があり,惑星間の広大な宇宙空間をゆっくりと横断します.</Frame_Ship_Engine.description>
 
   <!-- Sensor cluster -->
     <Ship_SensorCluster.label>船殻センサー束</Ship_SensorCluster.label>
     <Ship_SensorCluster.description>多機能センサーモジュールです.  宇宙空間での,通信,危機探知,欺瞞,ジャミング,そして色々な用途で,スキャンや信号発生ができます.</Ship_SensorCluster.description>
-    <Blueprint_Ship_SensorCluster.label>船殻センサー束(設計)</Blueprint_Ship_SensorCluster.label>
-    <Frame_Ship_SensorCluster.label>船殻センサー束(施工)</Frame_Ship_SensorCluster.label>
-	<Frame_Ship_SensorCluster.description>センサーモジュール,空間における危険を探し出します.</Frame_Ship_SensorCluster.description>
 
 </LanguageData>

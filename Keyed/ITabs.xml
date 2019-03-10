@@ -27,7 +27,7 @@
     <AddBill>新しい 加工</AddBill>
     <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
     <MinimumSkill>必要スキル</MinimumSkill>
-    <SuspendedCaps>中止</SuspendedCaps>
+    <SuspendedCaps>一時停止</SuspendedCaps>
     <BoundWorkerIs>担当: {1_labelShort}</BoundWorkerIs>
     <PlantVerb>植物</PlantVerb>
     <ClipboardBillNotAvailableHere>ここにはペーストできません.</ClipboardBillNotAvailableHere>
@@ -35,7 +35,7 @@
     <ReorderBillDownTip>下へ</ReorderBillDownTip>
     <DeleteBillTip>削除</DeleteBillTip>
     <CopyBillTip>クリップボードにコピー</CopyBillTip>
-    <SuspendBillTip>中止</SuspendBillTip>
+    <SuspendBillTip>一時停止</SuspendBillTip>
     <PasteBillTip>ペースト</PasteBillTip>
     <PasteBillTip_LimitReached>これ以上追加できません</PasteBillTip_LimitReached>
 

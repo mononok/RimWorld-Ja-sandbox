@@ -3,17 +3,11 @@
 
     <Sandbags.label>土のう</Sandbags.label>
     <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしいカバーを与えます.</Sandbags.description>
-    <Blueprint_Sandbags.label>土のう(設計)</Blueprint_Sandbags.label>
-    <Frame_Sandbags.label>土のう(施工)</Frame_Sandbags.label>
-    <Frame_Sandbags.description>銃撃から身を隠せます.</Frame_Sandbags.description>
 
     <!--=============== Improvised turret ===============-->
     <Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
     <Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>
     <Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Turret_MiniTurret.description>
-    <Blueprint_Turret_MiniTurret.label>タレット(設計)</Blueprint_Turret_MiniTurret.label>
-    <Frame_Turret_MiniTurret.label>タレット(施工)</Frame_Turret_MiniTurret.label>
-    <Frame_Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Frame_Turret_MiniTurret.description>
     <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
     <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
     <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
@@ -49,9 +43,6 @@
     <Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
     <Blueprint_Install_Turret_Mortar.label>溜弾迫撃砲(移動先)</Blueprint_Install_Turret_Mortar.label>
     <Turret_Mortar.description>全弾種を投射できる手動式の迫撃砲です.衝撃系のダメージを加えることができますが,迫撃砲特有の不正確さが,フィールド上の敵グループを攻撃するよりも,大きな防御施設を攻撃するような用途に向いています.</Turret_Mortar.description>
-    <Blueprint_Turret_Mortar.label>榴弾迫撃砲(設計)</Blueprint_Turret_Mortar.label>
-    <Frame_Turret_Mortar.label>榴弾迫撃砲(施工)</Frame_Turret_Mortar.label>
-    <Frame_Turret_Mortar.description>手動でのみ榴弾を投射できます,ダメージを受けると爆発します.</Frame_Turret_Mortar.description>
 
     <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
     <Artillery_Mortar.description>榴弾を打ち出す迫撃砲.壁を越えて曲射弾道を描きます,長距離兵器ですが命中精度に欠けます.</Artillery_Mortar.description>
@@ -61,39 +52,21 @@
 
     <TrapSpike.label>スパイクトラップ</TrapSpike.label>
     <TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
-    <Blueprint_TrapSpike.label>スパイクトラップ(設計)</Blueprint_TrapSpike.label>
-    <Frame_TrapSpike.label>スパイクトラップ(施工)</Frame_TrapSpike.label>
-    <Frame_TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapSpike.description>
 
     <TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
     <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
-    <Blueprint_TrapIED_HighExplosive.label>IED trap(設計)</Blueprint_TrapIED_HighExplosive.label>
-    <Frame_TrapIED_HighExplosive.label>IED trap(施工)</Frame_TrapIED_HighExplosive.label>
-    <Frame_TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_HighExplosive.description>
 
     <TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
     <TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
-    <Blueprint_TrapIED_Incendiary.label>IED 焼夷トラップ(設計)</Blueprint_TrapIED_Incendiary.label>
-    <Frame_TrapIED_Incendiary.label>IED 焼夷トラップ(施工)</Frame_TrapIED_Incendiary.label>
-    <Frame_TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_Incendiary.description>
 
     <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
     <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
-    <Blueprint_TrapIED_EMP.label>IED EMPトラップ(設計)</Blueprint_TrapIED_EMP.label>
-    <Frame_TrapIED_EMP.label>IED EMPトラップ(施工)</Frame_TrapIED_EMP.label>
-    <Frame_TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_EMP.description>
 
     <TrapIED_Firefoam.label>IED 消火剤トラップ</TrapIED_Firefoam.label>
     <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
-    <Blueprint_TrapIED_Firefoam.label>IED 消火剤トラップ(設計)</Blueprint_TrapIED_Firefoam.label>
-    <Frame_TrapIED_Firefoam.label>IED 消火剤トラップ(施工)</Frame_TrapIED_Firefoam.label>
-    <Frame_TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_Firefoam.description>
 
     <TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ</TrapIED_AntigrainWarhead.label>
     <TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_AntigrainWarhead.description>
-    <Blueprint_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(設計)</Blueprint_TrapIED_AntigrainWarhead.label>
-    <Frame_TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ(施工)</Frame_TrapIED_AntigrainWarhead.label>
-    <Frame_TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</Frame_TrapIED_AntigrainWarhead.description>
 
 <!--
     <Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>

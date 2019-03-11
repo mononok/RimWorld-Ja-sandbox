@@ -8,11 +8,9 @@
 このような生活には,基礎的な作業を実践できる,何でも屋を必要とします.</desc>
 	</ColonySettler53>
 	<MedievalFarmOaf58>
-		<title>中世の未就学児</title>
-		<titleShort>未就学児</titleShort>
-		<desc>耕し,草むしり,牛車を引き,手押し車を押し,水路を掘り,種を蒔き,収穫を予測する.
-
-中世の農夫はたいてい教育を受けていませんが,彼らは,テクノロジーに頼らずに作物を育てる方法を,たくさん知っています.ですから,このような生活は,もともと,知的な物や,テクノロジーに依存した物と,関わる事を出来ないままとさせています.</desc>
+		<title>中世の農夫</title>
+		<titleShort>農夫</titleShort>
+		<desc>土地を耕し,鍬を振るい,牛車を引き,手押し車を押す.水路を掘り,種を蒔き,収穫を予測する.\n\n中世の農夫は普通の意味での教育は受けていませんが,テクノロジーに頼らず作物を育てることについては多くを知っています.とはいえ,このような生活では知的な活動や技術に基づいた活動に参加することはできないままです.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord57>
 		<title>中世の貴族</title>
@@ -29,9 +27,9 @@
 [PAWN_nameDef]は,トレードスキル(不正な取引や,テクニカルアナリシス)を身につけました.[PAWN_pronoun]は,社会インテリマシーンです.</desc>
 	</UrbworldEntrepreneur14>
 	<DeepSpaceMiner3>
-		<title>外宇宙の鉱夫</title>
+		<title>深宇宙の鉱夫</title>
 		<titleShort>鉱夫</titleShort>
-		<desc>[PAWN_nameDef]は,外宇宙空間に存在する小惑星上に建てられた掘削リグで,汗を流し垢にまみれて鉱物を掘削する作業に従事していました.[PAWN_pronoun]は,毎日[PAWN_possessive]実践的な工業スキルを使っても - 酒場で殴り合いのケンカをさせても,悪くない腕前でした.</desc>
+		<desc>[PAWN_nameDef]は,深宇宙空間に浮かぶ小惑星から掘削機で鉱石を掘り出すという,汗と埃にまみれた仕事をしていました.[PAWN_pronoun]は毎日,現場作業で腕を振るいました&#xA0;-&#xA0;酒場で取っ組み合いをさせても,悪くない腕前でした.</desc>
 	</DeepSpaceMiner3>
 	<NavyScientist46>
 		<title>海軍科学者</title>
@@ -92,11 +90,9 @@
 地方政府が,ジョイワイヤー製造に過酷な制限を課すと,[PAWN_pronoun]は,[PAWN_possessive]製品をブラックマーケットで売りさばき始めました.</desc>
 	</JoywireArtist8>
 	<ConceptualArtist39>
-		<title>概念芸術家</title>
+		<title>前衛芸術家</title>
 		<titleShort>芸術家</titleShort>
-		<desc>[PAWN_nameDef]は,ユニークな概念芸術品を製作することで,[PAWN_possessive]住む世界の美術界では良く知られていました.
-
-[PAWN_pronoun]が伝えようとしていることを,きっちりと解る者は誰もいませんでしたが,それでも,彼の作品は,コレクター達から高い評価を受けていました.</desc>
+		<desc>[PAWN_nameDef]は独創的な前衛芸術作品を作ることで,故郷の星の美術界では名を馳せていました.\n\n[PAWN_pronoun]が何を表現しようとしたのか確信できる者は誰もいませんでしたが,[PAWN_possessive]作品は蒐集家たちから高く評価されました.</desc>
 	</ConceptualArtist39>
 	<GlitterworldSurgeon15>
 		<title>Glitterworldの外科医</title>
@@ -116,14 +112,14 @@
 		<desc>[PAWN_nameDef]は,場末の宇宙ステーションでバーテンダーとして働いていました.仕事は必然的に,飲み物を混ぜる,礼儀正しくする,ぶんなぐる,そういう役割を必要としていました.</desc>
 	</Bartender55>
 	<HiveworldDrone0>
-		<title>Hiveworldドローン</title>
+		<title>ハイブワールドのドローン</title>
 		<titleShort>ドローン</titleShort>
-		<desc>[PAWN_nameDef]は,巨大なHiveworld文明の意思の無い建設ドローンとして機能していました.[PAWN_pronoun]は,支配されいた無茶な社会実験から,今,解放されました.しかし,[PAWN_pronoun]にはリーダーシップや想像力は残っていませんでした.</desc>
+		<desc>[PAWN_nameDef]は,巨大なハイブワールド文明で意思なき建設ドローンとして働きました.[PAWN_pronoun]は現在,残酷な社会実験からは解放されていますが,創造的な発想や人の上に立つようなことはできないままです.</desc>
 	</HiveworldDrone0>
 	<Evangelist39>
 		<title>福音伝道者</title>
-		<titleShort>福音伝道者</titleShort>
-		<desc>[PAWN_possessive] 21才の誕生日に,[PAWN_nameDef]は宗教的な啓示を経験しました.[PAWN_pronoun]は,[PAWN_possessive]残りの人生を,[PAWN_possessive]信じる神の啓示や,その文化の素晴らしさ,その特異な医術の伝統などを広めて過ごすことに決めました.</desc>
+		<titleShort>伝道者</titleShort>
+		<desc>若い頃,[PAWN_nameDef]は神の教えに目覚めました.[PAWN_pronoun]は残りの人生を,[PAWN_possessive]信じる神の言葉や,その文化の素晴らしさ,特異な医術の伝統などを広めて過ごすことに決めました.</desc>
 	</Evangelist39>
 	<CaveworldIlluminator23>
 		<title>caveworld 導き手</title>
@@ -290,7 +286,7 @@
 	<Actor42>
 		<title>俳優</title>
 		<titleShort>俳優</titleShort>
-		<desc>[PAWN_nameDef]は,[PAWN_possessive]母星で俳優仲間と旅しながら,どこに行っても,満員の舞台で演劇をして,観客達を魅了していました.[PAWN_pronoun]は完璧主義者で,小道具,衣装は,[PAWN_pronoun]に与えられた物ではなくて,自分で作っていました</desc>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]役者仲間と共に故郷の星を旅しながら,行く先々で満員の劇場を沸かせたり,観客たちを魅了したりしました.[PAWN_pronoun]は完璧主義で,小道具や衣装を自分自身で作り,誰かの用意したものを使うことはありませんでした.</desc>
 	</Actor42>
 	<Tactician37>
 		<title>戦術家</title>
@@ -357,13 +353,13 @@
 	</VRDesigner87>
 	<HumanComputer7>
 		<title>人間計算機</title>
-		<titleShort>コンピュータ</titleShort>
-		<desc>[PAWN_nameDef]は,優れた記憶力と,複雑な計算をこなせる頭脳を授けられました.Midworldの独裁者は,コンピュータがハッキングに対して脆弱なので,[PAWN_nameDef]を財政金融担当として雇う事を決めました.</desc>
+		<titleShort>計算機</titleShort>
+		<desc>[PAWN_nameDef]はその頭脳に,優れた記憶力と複雑な計算をこなせる天賦の才を持っていることが判明しました.ミッドワールドの独裁者は,国の財政と支出を監視させるため,[PAWN_nameDef]を雇い入れることにしました.なぜなら電子コンピュータはハッキングに対して脆弱だったからです.</desc>
 	</HumanComputer7>
 	<Architect28>
 		<title>建築士</title>
 		<titleShort>建築士</titleShort>
-		<desc>[PAWN_nameDef]は,建物を設計,建築してきました.Glitterworldでの[PAWN_possessive]家は,建築学的にもっともテクニカルな形状を,AIを使って行いました.これは,[PAWN_objective]建造物の美術的なレベルを押し上げるだけでなく,[PAWN_pronoun]は,美しくない建物には関わらないことをも意味します.</desc>
+		<desc>[PAWN_nameDef]は建物の設計と建築を行っていました.グリッターワールドにある[PAWN_possessive]自宅では,建築に関する技術的な側面の大部分をAIが担っていました.このことは工芸において[PAWN_possessive]芸術性の限界を引き上げる効果がありましたが,同時に[PAWN_pronoun]が建築現場で自分の手を汚す必要がないことも意味しました.</desc>
 	</Architect28>
 	<MessageCarrier77>
 		<title>配達人</title>
@@ -424,9 +420,9 @@
 		<desc>子供の頃,[PAWN_nameDef]は奇病に悩まされていました.研究施設のある大学病院に隔離され,[PAWN_pronoun]は必要最低限の人としか接触を持てず,ほとんど運動することができませんでした.不毛な病院生活だったけれども,[PAWN_pronoun]は科学と医学に,とても精通するようになりました.</desc>
 	</SicklyChild72>
 	<ShelterChild50>
-		<title>シェルターチルドレン</title>
-		<titleShort>シェルタキッド</titleShort>
-		<desc>[PAWN_nameDef]は,Toxicworldの地下深くにあるシェルターで育ちました.[PAWN_pronoun]は,総合的な教育を受けましたが,肉体労働をする機会には恵まれませんでした.</desc>
+		<title>避難所生活の子供</title>
+		<titleShort>避難児</titleShort>
+		<desc>[PAWN_nameDef]は,トキシックワールドの地下深くにある避難所で育ちました.[PAWN_pronoun]は総合的な教育を受けましたが,肉体労働をする機会には恵まれませんでした.</desc>
 	</ShelterChild50>
 	<IndustrialOrphan13>
 		<title>工業世界の孤児</title>
@@ -450,9 +446,9 @@
 その結果,[PAWN_pronoun]は料理と体調の自己管理法を身につけましたが,たくさんある恐怖対象は,大人になっても[PAWN_objective]悩ませました.</desc>
 	</FrightenedChild43>
 	<CaveworldTender20>
-		<title>Caveworldの子守</title>
+		<title>ケイブワールドの世話人</title>
 		<titleShort>洞窟児</titleShort>
-		<desc>[PAWN_nameDef]は,荒れ果てた世界の,地下深く複雑に入り組んだ洞窟で育ちました.[PAWN_pronoun]は,部族の他の子供達の面倒をみる仕事をしていました.</desc>
+		<desc>[PAWN_nameDef]は,地表が荒れ果てた惑星の地下深く,複雑に入り組んだ洞窟で育ちました.[PAWN_pronoun]は他の子供達と共に,部族の作物であるキノコ類の世話をして働きました.</desc>
 	</CaveworldTender20>
 	<CaveworldTunneler48>
 		<title>Caveworldの坑夫</title>
@@ -462,16 +458,14 @@
 [PAWN_pronoun]は,臭いの違いで洞窟の中を行き来できるぐらいに,岩石について非常に良く知ってました.</desc>
 	</CaveworldTunneler48>
 	<ComaChild57>
-		<title>昏睡児童</title>
-		<titleShort>昏睡</titleShort>
-		<desc>子供の時のアクシデントが原因で,[PAWN_nameDef]は昏睡状態になりました.[PAWN_pronoun]は,ハイティーンになるまで目覚めませんでした.[PAWN_pronoun]身体は不自由なままです,人々は,[PAWN_possessive]身の上話を聞くと,[PAWN_possessive]身に起きたことを憐れみました.</desc>
+		<title>植物状態の子供</title>
+		<titleShort>植物状態</titleShort>
+		<desc>子供の頃の事故で,[PAWN_nameDef]は昏睡状態に陥りました.[PAWN_pronoun]は十代後半になるまで目覚めませんでした.長期に渡る運動不足から[PAWN_possessive]身体が回復する見込みはありませんが,[PAWN_possessive]身の上は人々を同情的にさせる傾向があります.</desc>
 	</ComaChild57>
 	<Pyromaniac18>
 		<title>放火魔</title>
 		<titleShort>放火魔</titleShort>
-		<desc>若い頃,[PAWN_nameDef]は,炎に間違った強い興味を持っていました.[PAWN_pronoun]は,たくさんの燃え上がるゴミを用意して,炎をみてうっとりとし,自分自身が燃えてもぼんやりとしていました.
-
-ある日,マッチで遊んでいるさなか,[PAWN_pronoun]は不注意から自分の家を,全焼させてしまいました.</desc>
+		<desc>若い頃,[PAWN_nameDef]は炎というものに不穏な魅力を感じていました.[PAWN_pronoun]はゴミの山に火を付けて、放心した自分まで燃やしてしまう炎に陶酔したりしました.\n\nある日マッチで遊んでいると,[PAWN_pronoun]はうっかり自宅を全焼させてしまいました.</desc>
 	</Pyromaniac18>
 	<Mute34>
 		<title>失語症</title>
@@ -503,14 +497,14 @@
 [PAWN_pronoun]年齢で敵地に侵入し,戦争で破壊された[PAWN_possessive]世界の本質が意味するところは,[PAWN_pronoun]には,限られた教育の機会しか与えられなかったということになります.</desc>
 	</ChildSpy53>
 	<Shopkeeper36>
-		<title>店番</title>
-		<titleShort>店番</titleShort>
-		<desc>[PAWN_nameDef]の母親は病気がちで,家計の唯一の収入源である店の切り盛りは,[PAWN_pronoun]の肩にかかっていました.[PAWN_pronoun]は,ある程度の売っていたエキゾチックな工芸品の知識と,数多くの商売に関する知識を身につけました.</desc>
+		<title>小売店の店主</title>
+		<titleShort>店主</titleShort>
+		<desc>[PAWN_nameDef]の母親は病気がちで,家族にとって唯一の収入源である店の切り盛りは,[PAWN_pronoun]の肩にかかっていました.[PAWN_pronoun]は,商品である異国の工芸品に関する少々の知識と,取引に関する多くの知識を身につけました.</desc>
 	</Shopkeeper36>
 	<OrganFarm67>
-		<title>臓器ファーム</title>
-		<titleShort>臓器ファーム</titleShort>
-		<desc>[PAWN_nameDef]は,非合法の地下臓器ファームで育てられました.[PAWN_pronoun]身体は,怪我を負った傭兵の為の,有機インプラントを育成するのに,よく使われていました.[PAWN_possessive]生い立ちは[PAWN_possessive]脳裏に深く刻み込まれ,それは独特な人類生物学への理解として与えました.</desc>
+		<title>臓器工場</title>
+		<titleShort>臓器工場</titleShort>
+		<desc>[PAWN_nameDef]は,非合法な闇の臓器工場で育てられました.[PAWN_possessive]身体は,負傷した傭兵向けの有機インプラントを育成する培地として利用されました.[PAWN_possessive]生い立ちは心に傷を残しましたが,同時に人体生理学に関する独特な理解をもたらしました.</desc>
 	</OrganFarm67>
 	<ConventChild16>
 		<title>修道児</title>
@@ -542,9 +536,9 @@
 		<desc>[PAWN_nameDef]が生まれる二世代前に起きた,世紀末的な最終戦争が,[PAWN_possessive]母星を無秩序な乱世に引きずり込みました.[PAWN_nameDef]は,[PAWN_possessive]部族が飼う群れを,世話する仕事が課せられてましたが,しばしば,[PAWN_possessive]役務を放りだして,惑星上に散り散りになった難破宇宙船を探検していました.</desc>
 	</WreckageExplorer8>
 	<ApocalypseSurvivor23>
-		<title>世紀末からの生存者</title>
-		<titleShort>サバイバー</titleShort>
-		<desc>[PAWN_nameDef]は,[PAWN_possessive]母星に大規模な気候変動が発生し,それによる洪水と飢饉で絶滅の危機に面した不安な日々を送る中,生まれました.[PAWN_pronoun]が成長するにつれ状況は悪化していきました - 10億人が死に,平和的な国家が,無政府状態へと傾倒していきました.[PAWN_nameDef]と,[PAWN_possessive]両親は,どんなことをしてでも,生き残らなければなりませんでした.</desc>
+		<title>終末の生き残り</title>
+		<titleShort>生き残り</titleShort>
+		<desc>[PAWN_nameDef]は,故郷の星が不安に揺れる時代に生まれました.気候変動により大量の餓死と洪水が引き起こされる危険がありました.[PAWN_pronoun]が成長するにつれ状況は悪化していきました&#xA0;-&#xA0;何億人もの死者が発生し,平穏だった国は無政府状態に陥りました.[PAWN_nameDef]と両親は,生き延びるためにどんなことでもしました.</desc>
 	</ApocalypseSurvivor23>
 	<StoryWriter67>
 		<title>もの書き</title>
@@ -652,9 +646,9 @@
 [PAWN_pronoun]は古代の遺跡以外で,機械を見たことも聞いたこともありません.</desc>
 	</TribeChild68>
 	<AbandonedChild60>
-		<title>捨て子</title>
+		<title>捨てられた子供</title>
 		<titleShort>捨て子</titleShort>
-		<desc>[PAWN_nameDef]は,頭の回転が速く知恵がある特異な子供でした.ある日,[PAWN_pronoun]は,[PAWN_possessive]裕福な実の親とはぐれてしまい,最終的には,使われなくなった鉱石倉庫で見失ったと思われています.[PAWN_possessive]両親は,[PAWN_objective]探し続ける事に時間を掛けるよりも,クローンテクノロジーを使って,息子のクローンを作ることに時間を掛けた方が良いと判断しました.</desc>
+		<desc>[PAWN_nameDef]は生まれつき病弱でした.[PAWN_pronoun]は部族にとって重荷でしかないと思われ,両親は[PAWN_objective]大自然に置き去りにしました.どういうわけか,彼は生き延びました。</desc>
 	</AbandonedChild60>
 	<ReclusiveChild82>
 		<title>隠遁児</title>
@@ -729,9 +723,9 @@
 彼は両親についての質問に答えることが耐えられなかったので,彼は,社会と接触する代わりに,熱心に働きました.</desc>
 	</FarmerBoy63>
 	<ArmyCook51>
-		<title>調理兵</title>
-		<titleShort>調理兵</titleShort>
-		<desc>Benは労働者として軍に入隊し,多くの時間を修理と料理に費やしました.彼は危険な惑星に駐屯している間,基本的な射撃とサバイバルの訓練を受けました.</desc>
+		<title>軍の調理師</title>
+		<titleShort>料理人</titleShort>
+		<desc>[PAWN_nameDef]は労働者として軍に入隊し,多くの時間を料理と修理に費やしました.危険な惑星に駐留している間,[PAWN_pronoun]は射撃と生存術に関する基礎的な訓練を受けました.</desc>
 	</ArmyCook51>
 	<UrbworldCriminal64>
 		<title>Urbworldの犯罪者</title>
@@ -949,9 +943,7 @@
 	<Archaeologist85>
 		<title>考古学者</title>
 		<titleShort>探検家</titleShort>
-		<desc>[PAWN_pronoun]は退屈な人生に囚われていました.ある日,[PAWN_pronoun]は考古学を学ぶため,銀河を見て回るため宇宙船に飛び乗りました.
-
-[PAWN_pronoun]はサバイバルの方法を身に付けました.[PAWN_pronoun]は人々についても学びました-とはいえ,[PAWN_pronoun]は生きている者よりも,死者のほうを良く理解していましたが.</desc>
+		<desc>[PAWN_pronoun]は刺激のない人生に囚われていました.ある日,[PAWN_pronoun]は考古学を学ぶため,そして銀河を見て回るため宇宙船に飛び乗りました.\n\n[PAWN_pronoun]は生き延びる方法を学びました.同様に人々についても学びました&#xA0;-&#xA0;とはいえ,[PAWN_pronoun]が本当に理解しているのは,生者よりも死者のほうです.</desc>
 	</Archaeologist85>
 	<StationWhelp45>
 		<title>ガキ</title>
@@ -1046,9 +1038,9 @@
 彼は,生まれつきの射撃の名人でした.しかしながら,彼が本当に熱中するものは,新しいレシピとガジェットの分解でした.</desc>
 	</MercenaryChef58>
 	<AbandonedChild47>
-		<title>捨て子</title>
+		<title>捨てられた子供</title>
 		<titleShort>捨て子</titleShort>
-		<desc>[PAWN_nameDef]は頭の回転が速い,おかしな子でした.ある日,[PAWN_pronoun]は,[PAWN_possessive]裕福な実の親とはぐれてしまい,最終的には,使われなくなったと思われる鉱石倉庫で見失いました.クローンテクノロジーにより,[PAWN_possessive]両親は,[PAWN_objective]探し続ける事に時間を掛けるよりも,息子のクローンを作ることに時間を掛けた方が良いと判断しました.</desc>
+		<desc>[PAWN_nameDef]は機転の利く面白い子供でした.ある日[PAWN_pronoun]は裕福な実の親とはぐれてしまい,ついには使われなくなったと思われる鉱石倉庫で行方不明になりました.クローン技術により,[PAWN_possessive]両親は[PAWN_objective]探し続けるよりも,より優れた息子のクローンを作ることに時間を費やすほうがよいと決めました.</desc>
 	</AbandonedChild47>
 	<CargoPilot58>
 		<title>カーゴ船パイロット</title>
@@ -1165,8 +1157,7 @@
 	<AIResearcher30>
 		<title>AI研究者</title>
 		<titleShort>研究者</titleShort>
-		<desc>Daveは,ホログラフィ,ロボット工学,AIの名高い研究者です.
-        彼が創った人工知能との友情関係から,彼は,生身の人間と交流する為の信頼感を彼(AI)に与えたので,彼(AI)は,直ぐに人との会話に卓越しました.</desc>
+		<desc>[PAWN_nameDef]は,人工知能,ロボット工学,3D画像通信に関する名高い研究者でした.[PAWN_pronoun]の開発した人工知能との間に結ばれた友情は,[PAWN_pronoun]に生身の人間と交流する自信を与え,間もなく[PAWN_pronoun]は人付き合いに秀でるようになりました.</desc>
 	</AIResearcher30>
 	<MidworldGeek48>
 		<title>Midworldのオタク</title>
@@ -1174,9 +1165,9 @@
 		<desc>[PAWN_nameDef]は,都市近郊の静かな所で育ちました.彼は,人付き合いが大の苦手でしたが,若い時の,彼のコンピューターへの興味は,本物の才能へと花開きました.</desc>
 	</MidworldGeek48>
 	<ArmyScientist35>
-		<title>軍科学者</title>
+		<title>軍の科学者</title>
 		<titleShort>科学者</titleShort>
-		<desc>[PAWN_nameDef]は,惑星軍で科学研究をしていました.[PAWN_pronoun]は,戦争の筋書きと,最小の戦闘規模で,戦闘に勝つ事を手助けする武器システムを学んでいました.</desc>
+		<desc>[PAWN_nameDef]は惑星軍で科学研究をしていました.[PAWN_pronoun]は戦争の筋書きを研究し,最小限の労力で戦闘に勝利を収めるのに役立つ兵器システムの設計を行いました.</desc>
 	</ArmyScientist35>
 	<CatHerder12>
 		<title>猫のブリーダー</title>
@@ -1240,9 +1231,7 @@
 	<AceFighterPilot38>
 		<title>エースパイロット</title>
 		<titleShort>エース</titleShort>
-		<desc>[PAWN_nameDef]は, 星間大学を栄誉と共に卒業し,より高度な敵部隊との三度の戦役において,エースパイロットとして目覚ましい働きをしました.
-
-しかしながら,ある,ひどい戦闘の後,取り残されてしまい,彼の船も破壊されました.何処にも行くところがなく,彼は,祈りながら脱出ポッドに乗り込みました.</desc>
+		<desc>[PAWN_nameDef]は星間大学を優秀な成績で卒業し,執拗な侵略者との三度の戦役の中でエースパイロットとしての地位を確立しました.\n\nしかしあるとき,厳しい戦闘を終えると自身は航行不能に陥り,[PAWN_possessive]母船も破壊されていました.どこにも行き場がなく,[PAWN_pronoun]は祈りながら脱出ポッドに乗り込みました.</desc>
 	</AceFighterPilot38>
 	<Stableboy88>
 		<title>厩務員</title>
@@ -1345,12 +1334,12 @@
 	<AmateurEngineer34>
 		<title>アマチュア技術者</title>
 		<titleShort>技術者</titleShort>
-		<desc>[PAWN_nameDef]は,軍関連の技術屋の家族の元で育ちました.[PAWN_pronoun]は,軍に入隊したがりましたが,彼の父親は良く思っていません,彼の興味は,偉大な飛行機械と,その工学技術へと向いていました.[PAWN_pronoun]は,ある日,この機械が銀河系探索への旅に,導いてくれることを密かに望んでいました.</desc>
+		<desc>[PAWN_nameDef]は軍事技術に携わった経歴のある家族のもとで育ちました.[PAWN_pronoun]は軍への参加を望みましたが,父親は良い顔をせず,[PAWN_possessive]興味は偉大な航空機とその工学技術へと向かいました.[PAWN_pronoun]はこれが,いつの日か銀河系を探索するという生き方へ導いてくれることを密かに望んでいました.</desc>
 	</AmateurEngineer34>
 	<AerospaceEngineer44>
 		<title>航空宇宙技術者</title>
 		<titleShort>技術者</titleShort>
-		<desc>[PAWN_nameDef]は,航空機,宇宙船の製造責任を負う技術者でした.[PAWN_pronoun]は,製造ラインの改善を重点的に取り扱い,[PAWN_possessive]専門知識に精通している事で,良く知られていました.</desc>
+		<desc>[PAWN_nameDef]は航空機や宇宙船の製造を担当する技術者でした.[PAWN_pronoun]は製造ラインの改善に力を入れており,技術的問題および研究課題に対して精通していることで知られていました.</desc>
 	</AerospaceEngineer44>
 	<StreetUrchin62>
 		<title>街の悪ガキ</title>
@@ -1374,11 +1363,9 @@
 [PAWN_pronoun]は,戦うことだけではなく,生や未調理のまま食べることも,身につけました.</desc>
 	</WildChild2>
 	<AlcoholicTrucker58>
-		<title>アル中のドライバー</title>
+		<title>アル中の運転手</title>
 		<titleShort>アル中</titleShort>
-		<desc>[PAWN_nameDef]は,Arcknight Industrie社で,航宙便の配送をしていたとき,彼の起こした事故により,妻と娘を失いました.
-
-彼の身体は,ナノ遺伝子工学治療を用いて修復されました.今,彼の筋肉は,あらゆる動作が,細胞組織を再分裂させることで,頻繁に再建され固くなりました.彼は心に傷を負っています.</desc>
+		<desc>[PAWN_nameDef]はアークナイト産業で働く航宙便の運転手でしたが,事故を起こして妻と娘を失いました.\n\n[PAWN_pronoun]の身体はナノ遺伝子療法の治験によって回復しました.今や[PAWN_pronoun]の筋肉は絶え間なく再生を続けて頑丈になり,あらゆる動作が紙を引き裂くようです.[PAWN_pronoun]は黙って苦しみに耐えています.</desc>
 	</AlcoholicTrucker58>
 	<HackerProdigy70>
 		<title>天才ハッカー</title>
@@ -1522,9 +1509,7 @@
 	<NinjaAssassin31>
 		<title>忍者</title>
 		<titleShort>忍者</titleShort>
-		<desc>[PAWN_nameDef],惑星間巨大複合企業の為に,小剣ひとつでの暗殺を遂行してきました.[PAWN_pronoun]は,偽装,策略,暴力絡みの,もっとも複雑に入り組んだミッションを割り当てられました.
-
-盆栽にまつわる,むかつくようなアクシデントに巻き込まれて暗殺を失敗したことは,[PAWN_objective]植物嫌いにさせました.</desc>
+		<desc>[PAWN_nameDef]は,惑星間規模の巨大企業のために,小剣を用いた確実な暗殺を遂行してきました.[PAWN_pronoun]には,変装,偽計,詭弁,能率的な暴力などを伴う,とても複雑な任務が割り当てられました.\n\n盆栽にまつわる重大事故と暗殺の失敗は,[PAWN_objective]植物嫌いにさせました.</desc>
 	</NinjaAssassin31>
 	<MilitaryChild82>
 		<title>軍属の子</title>
@@ -1586,9 +1571,7 @@
 	<AIProgrammer5>
 		<title>AIプログラマー</title>
 		<titleShort>プログラマー</titleShort>
-		<desc>Michaelは,高性能な戦闘用AIを開発する為に,軍ロボティクス工廠に入隊しました.
-
-部隊にいる間,[PAWN_pronoun]は,他の隊員と話す事はありませんでした.[PAWN_pronoun]は,全ての時間を,[PAWN_pronoun]が作成したAIと会話することに費やしていました.</desc>
+		<desc>[PAWN_nameDef]は軍のロボット工学部門に参加し,高性能な戦闘用AIの開発に携わりました.\n\n軍にいる間,[PAWN_pronoun]は他の者と話すことはありませんでした.[PAWN_pronoun]は,全ての時間を自分の開発したAIとの会話に費やしました.</desc>
 	</AIProgrammer5>
 	<DiplomatsChild97>
 		<title>外交官の子</title>
@@ -1857,7 +1840,7 @@ G-nome研究者は,彼に,"Gizmo"というニックネームをつけ,彫刻に�
 	<AmateurBotanist14>
 		<title>アマチュア植物学者</title>
 		<titleShort>植物学者</titleShort>
-		<desc>夏季は,這いずり回って過ごし,Christianは,庭師の才能を持っていることに気が付きました.栽培した食材を調理することもせずに,ただただ,彼は栽培していました.</desc>
+		<desc>多くの夏を泥だらけで這い回りながら過ごした[PAWN_nameDef]は,自分に園芸の才能があることに気付きました.栽培した食材を調理する方法を学ぶこともせず,[PAWN_pronoun]はひたすら植物を育てました.</desc>
 	</AmateurBotanist14>
 	<Undertaker26>
 		<title>葬儀屋</title>
@@ -1875,11 +1858,9 @@ G-nome研究者は,彼に,"Gizmo"というニックネームをつけ,彫刻に�
 		<desc>Rimworldの奴隷集団から逃げ出し,Grahamは,人命の尊重が欠如していることが分かりました.傭兵となる為の契約書に署名する手続きをし,そこで,彼は,銃とサバイバルテクニックのスキルを成長させました.Grahamは,たくさんの世界を旅して回り,その地で見つけた汚れ仕事もしました.</desc>
 	</Mercenary75>
 	<AdventuringChild56>
-		<title>冒険家</title>
+		<title>冒険好きの子供</title>
 		<titleShort>冒険家</titleShort>
-		<desc>Axleは,成長して技術者になりました.何年間も,彼はカーゴ船で密航する計画を立て,今,新しい冒険への人生が始まろうとしていました.
-
-ある夜,両親が寝静まったあと,彼は,カーゴ船が港を出港する,まさに直前に,こっそりとカーゴ船に忍び込みました.</desc>
+		<desc>[PAWN_nameDef]は技術者となるべく育てられました.[PAWN_pronoun]は長年に渡り,貨物船に密航して冒険に満ちた新たな人生を始めることを計画していました.\n\nある晩,両親が寝静まったあと,[PAWN_pronoun]は何とか貨物船に忍び込み,出港に間に合うことができました.</desc>
 	</AdventuringChild56>
 	<HiredAssassin2>
 		<title>雇われ殺し屋</title>
@@ -1997,11 +1978,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_nameDef]は,怪我や病気を治すために,自身の医療スキルを使っていました.[PAWN_pronoun]は,銃や機械は,強力だろうが,医者のほうが,なおさらパワフルだと信じていました.</desc>
 	</MarbleDoctor70>
 	<ApocalypseChild57>
-		<title>啓示の子</title>
-		<titleShort>啓示</titleShort>
-		<desc>[PAWN_nameDef]は,子供時代を,世紀末後の世界で過ごしてきました.[PAWN_pronoun]は,若い頃から生き残る為に戦ってきたが,この惑星には,信じられる物など何処にもありませんでした
-
-[PAWN_pronoun]は,運が悪いと,回りに言っていました.</desc>
+		<title>終末の子供</title>
+		<titleShort>終末の子</titleShort>
+		<desc>[PAWN_nameDef]は,子供時代を文明の破滅した世界で過ごしました.[PAWN_pronoun]は若い頃から生き残るために戦いました.この惑星に信じられる物など何もありませんでした.\n\n[PAWN_pronoun]は誰に対しても自分には運がないと言いました.</desc>
 	</ApocalypseChild57>
 	<MobHenchman24>
 		<title>子分</title>
@@ -2075,11 +2054,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 脳神経の完全なマッピングに成功してから,Kevinは,異星人の脳神経地図を探索する科学者のチームに参加しました.</desc>
 	</NeuroScientist84>
 	<Abductee43>
-		<title>失踪者</title>
-		<titleShort>失踪者</titleShort>
-		<desc>[PAWN_nameDef]は,まだ赤ん坊の時に異種人間に拉致されました.やつらは,自分たちの遺伝的枠組みを理解するための実験を [PAWN_pronoun]にしました.
-
-[PAWN_nameDef]は,ほんのちょっと発育しただけで,とても大きく,やつらより強くなったので,ついには脱出しました.</desc>
+		<title>拉致被害者</title>
+		<titleShort>拉致被害者</titleShort>
+		<desc>[PAWN_nameDef]は幼い頃に拉致され、海賊船の下働きとして働くことを強いられました.</desc>
 	</Abductee43>
 	<PirateCaptain84>
 		<title>宙賊艦船長</title>
@@ -2101,11 +2078,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_pronoun]が星々をさまよっている間,彼は芸術の中に情熱を見つけ,上流階級のお客様用の傑作画を作るようになりました.</desc>
 	</HedgeFundManager85>
 	<AcademyStudent80>
-		<title>学士</title>
+		<title>学院の生徒</title>
 		<titleShort>学生</titleShort>
-		<desc>[PAWN_nameDef]は,成績の良い士官候補生のように振舞って学校に通っていました.[PAWN_pronoun]は,背がとても高く,イケメンで知られていました.
-
-成績よりもヘアスタイルを気にしていたのに,どういう訳か卒業試験をパスしました.</desc>
+		<desc>[PAWN_nameDef]は優秀な士官候補生のように学校へ通っていました.[PAWN_pronoun]の背はとても高く,優れた容姿で有名でした.\n\n成績よりも髪型を気にしていましたが,どうにか卒業試験には合格しました.</desc>
 	</AcademyStudent80>
 	<ComputerEngineer16>
 		<title>コンピュータ技術者</title>
@@ -2204,11 +2179,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_possessive]夢は,空の星々のむこうに何があるのか？,を問うことに[PAWN_objective]駆り立てました.</desc>
 	</PsychologyStudent20>
 	<AcolyteOfStars63>
-		<title>星を駆ける侍祭</title>
+		<title>星を駆ける信徒</title>
 		<titleShort>聖職者</titleShort>
-		<desc>かつて夢想家だった[PAWN_nameDef]は,感じている自分を呼ぶ声を探す為に,銀河を超えて旅をしました.
-
-[PAWN_pronoun]は,日に日に貧しくなりましたが,旅を続けて行く為には,ありとあらゆる可能な手段を使いました.</desc>
+		<desc>夢見がちだった[PAWN_nameDef]は,自分を呼んでいるように感じる声の主を探すため,銀河を超えて旅をしました.\n\n[PAWN_pronoun]は日に日に貧しくなりましたが,あらゆる手段を使って旅を続けました.</desc>
 	</AcolyteOfStars63>
 	<SpaceSmuggler10>
 		<title>密輸入者</title>
@@ -2223,11 +2196,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 		<desc>Taterは,宙賊のリーダーになりました.辺境の惑星間を飛び回り,彼は,多くの植民地から敵と恐れられる者になりました.</desc>
 	</SpaceRaider65>
 	<Abductee80>
-		<title>失踪者</title>
-		<titleShort>失踪者</titleShort>
-		<desc>[PAWN_nameDef]は,まだ赤ん坊の時に,異種人間によって拉致されました.やつらは,[PAWN_possessive]遺伝的枠組みを理解するための実験を[PAWN_pronoun]に施しました.
-
-[PAWN_nameDef]は,ほんのちょっと発育しただけで,捕らえた者よりも,とても大きく,強くなったので,ついに逃げ出すことができました.</desc>
+		<title>拉致被害者</title>
+		<titleShort>拉致被害者</titleShort>
+		<desc>[PAWN_nameDef]は,まだ赤ん坊の頃に異星人によって拉致されました.異星人は[PAWN_possessive]遺伝構造を理解するため[PAWN_objective]実験台にしました.\n\n[PAWN_nameDef]が成長すると,捕獲者にとって少しだけ大きく強くなりすぎたため,ついには逃げ出すことができました.</desc>
 	</Abductee80>
 	<Spy58>
 		<title>スパイ</title>
@@ -2322,11 +2293,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 すぐに銃器とサバイバル技術を身につけた[PAWN_pronoun]は,主席の成績で卒業し,極秘任務の指揮官に抜擢されました.</desc>
 	</MilitaryCadet16>
 	<AnarchistRebel83>
-		<title>反乱分子</title>
-		<titleShort>アナーキー</titleShort>
-		<desc>特別任務中に置き去りにされた[PAWN_nameDef]は復讐を誓いました.[PAWN_pronoun]はアナーキストグループを編成し,政府を転覆させることに時間を割きました.
-
-多くの危機一髪を逃れ,多くの成功ののちに,[PAWN_nameDef]は辺境地帯へと脱出しました.</desc>
+		<title>無政府主義の反乱分子</title>
+		<titleShort>反政府主義者</titleShort>
+		<desc>特別任務中に置き去りにされた[PAWN_nameDef]は,国家に復讐を誓いました.[PAWN_pronoun]は反政府勢力を組織し,中央政府を転覆させることに専念しました.\n\n何度も危機に陥り,ほとんど成果を上げることもなく,[PAWN_nameDef]は辺境へと逃げ延びました.</desc>
 	</AnarchistRebel83>
 	<Pickpocket19>
 		<title>スリ</title>
@@ -2421,16 +2390,12 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 	<Gymnast34>
 		<title>体操選手</title>
 		<titleShort>体操選手</titleShort>
-		<desc>[PAWN_nameDef]の若い頃はプロの体操選手でした.そのスキルのおかげで,彼女は母星を離れて,glitterworld大学に入学しました.
-
-体操競技のキャリアが欠けていたため,彼女は大学を去り,失業し,多額の負債を背負いました.</desc>
+		<desc>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてグリッターワールドの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</desc>
 	</Gymnast34>
 	<IntimateAssassin59>
-		<title>危険な誘惑</title>
-		<titleShort>アサシン</titleShort>
-		<desc>[PAWN_nameDef]はプロの暗殺者でした.彼女は,サディスティックで,計算高く,そして損害を全くうけません.
-
-彼女は,彼女のターゲットを殺すために,親密な手段を使うことを好んでました.これは,彼女自身の個人的欲求への制御と,契約の両方の条件を満たしました.</desc>
+		<title>妖艶な暗殺者</title>
+		<titleShort>暗殺者</titleShort>
+		<desc>[PAWN_nameDef]はプロの暗殺者でした.[PAWN_pronoun]は嗜虐的で計算高く,人畜無害に見受けられました.\n\n彼女は標的を殺害するのに官能的な手段を使うことを好みました.これは契約の遂行と,彼女の個人的な欲求の両方を満たしました.</desc>
 	</IntimateAssassin59>
 	<CorpBredStudent56>
 		<title>人工授精学生</title>
@@ -2529,11 +2494,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_pronoun]は,宇宙ステーションで防衛システム担当となり,急を要する場合は,大気圏突入艦で地上に降下する要員に配属されました.</desc>
 	</OrbitalReservist22>
 	<AccursedChild81>
-		<title>呪われた子</title>
-		<titleShort>呪い</titleShort>
-		<desc>[PAWN_nameDef]は,月の様に欠けた山頂で生まれました.年長者は闇の子であると宣言し,[PAWN_objective]彼らの庇護の元に置きました.
-
-[PAWN_pronoun]幼少期全ては,教えや,部族の儀式を学んで過ごしました - その時が来るまで</desc>
+		<title>呪われた子供</title>
+		<titleShort>忌み子</titleShort>
+		<desc>[PAWN_nameDef]は月食が最高潮を迎える中で生を享けました.長老たちは[PAWN_objective]闇の子供であると宣言し,自分たちの庇護の元に置きました.\n\n[PAWN_possessive]幼少期は,部族の伝承や儀式を学ぶために費やされました…来たるべき日のために.</desc>
 	</AccursedChild81>
 	<ShamanOfShadows47>
 		<title>影のシャーマン</title>
@@ -2545,9 +2508,7 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 	<AmateurAstronomer86>
 		<title>アマチュア天文家</title>
 		<titleShort>天文学者</titleShort>
-		<desc>[PAWN_nameDef]は,天体に心を奪われていました.[PAWN_pronoun]は,何時間も宙を見上げて過ごしたり,星雲を自分の望遠鏡で観察したものでした.
-
-[PAWN_pronoun]が発見したと信じられていた,小さな彗星が,何年か後,近くの月に衝突し,そこの採掘ステーションを破壊しました.</desc>
+		<desc>[PAWN_nameDef]は天体に心を奪われていました.[PAWN_pronoun]は何時間もの間,星々を見つめたり,星雲を望遠鏡で眺めたりして過ごしたものでした.\n\n[PAWN_pronoun]は小さな彗星の発見に功績がありましたが,その彗星は数年後に付近の月を直撃し,採掘事業を壊滅させてしまいました.</desc>
 	</AmateurAstronomer86>
 	<StationSecurity87>
 		<title>鉄道警察官</title>
@@ -3028,13 +2989,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_pronoun]誉れ高い地位によって,骨の折れる重労働からは無縁になり,[PAWN_pronoun]は文筆家として集中できるようになりました.[PAWN_pronoun]は鍛冶職を,他の人に任せました.</desc>
 	</EnvoyOfTheStars98>
 	<ApprenticeSmith42>
-		<title>鍛冶見習い</title>
+		<title>鍛冶師見習い</title>
 		<titleShort>見習い</titleShort>
-		<desc>[PAWN_nameDef]は,父の鍛冶屋を手伝って育ちました.
-
-彼らは,その惑星上にいくつか残った,昔ながらの方法を今に伝える最後の鍛冶屋でした.彼らは,幾つかの素材を,彼ら自身で,まさに集めています.
-
-仕事の後,ときどき,[PAWN_nameDef]は,[PAWN_pronoun]が鍛えた剣をつかって,剣の練習をしたものでした.</desc>
+		<desc>[PAWN_nameDef]は,父親の鍛冶屋を手伝って育ちました.\n\n彼ら親子は,この星で伝統的な技法を用いる最後の鍛冶師たちのうちの二人でした.彼らは幾つかの素材を自分たちで集めることさえあります.\n\n仕事の後,ときどき[PAWN_nameDef]は,自分が鍛えた剣を振るって修行をしたものでした.</desc>
 	</ApprenticeSmith42>
 	<Blacksmith7>
 		<title>鍛冶職人</title>
@@ -3115,11 +3072,9 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 [PAWN_pronoun]は,自己学習の能力が高いのですが,[PAWN_pronoun]は,人付き合いが苦手でできません.</desc>
 	</DataDecoder39>
 	<ArchotechSpy40>
-		<title>ARCHOTECHスパイ</title>
+		<title>アルコテックのスパイ</title>
 		<titleShort>AIスパイ</titleShort>
-		<desc>[PAWN_nameDef]は,人工知能の研究者でした.卓越した世界を研究し,[PAWN_pronoun]は,[PAWN_possessive]テーマに,あまりにも没頭してしまい,そのうち,ARCHOTECHマシンコアは,彼を機能の一つに採用し,スパイとして活用しました.
-
-のちに[PAWN_pronoun]は,[PAWN_possessive]非人間なマスターに反旗を翻すと,マスターは,[PAWN_objective]狩る為にメカノイドを送り込みました.</desc>
+		<desc>[PAWN_nameDef]はサイバネティクスの研究者でした.超越世界の研究を通じて,[PAWN_pronoun]は研究対象に深入りしすぎました.やがてアルコテック機構の中枢部は,彼を協力者として採用し,スパイとして活用しました.\n\nのちに[PAWN_pronoun]が人ならざる主人に反旗を翻すと,アルコテックは[PAWN_objective]捕縛すべく,はるばる宇宙を越えてメカノイドたちを送り込みました.</desc>
 	</ArchotechSpy40>
 	<WolfPackMember26>
 		<title>ウルフパックメンバー</title>
@@ -3215,9 +3170,7 @@ Mattは,彼の仲間から,ゲリラ戦術のトレーニングと,戦闘方法�
 	<AddictionCounsel60>
 		<title>依存症カウンセラー</title>
 		<titleShort>カウンセラー</titleShort>
-		<desc>ジョイワイヤー中毒を克服し,[PAWN_nameDef]は,非暴力な生き方を身につけ,他己を助けることを誓いました.
-
-生活共同体を渡り歩き,[PAWN_pronoun]は,中毒症状に苦しむ人を助けるために,治療薬や,絵画,工芸を用いています.</desc>
+		<desc>ジョイワイヤー依存症を克服した後,[PAWN_nameDef]は暴力を振るわない生き方を選び,他人を助けることを心に誓いました.\n\n依存症の会の間を渡り歩きながら,[PAWN_pronoun]は治療薬や絵画,工芸を駆使して依存症に苦しむ人々の手助けをしています.</desc>
 	</AddictionCounsel60>
 	<ChildKnave90>
 		<title>小姓</title>
@@ -3717,11 +3670,9 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 危険地帯に派兵され,[PAWN_pronoun]は,兵士の命を救うことや,勝つために必要な,テクノロジーを用いた機械を作ることには,なんの問題もありませんでした.</desc>
 	</CombatMedtech20>
 	<AnimalCaretaker20>
-		<title>動物の世話人</title>
-		<titleShort>世話人</titleShort>
-		<desc>中世紀の農家に生まれ,[PAWN_nameDef]は,家畜の世話をする仕事を与えられました.[PAWN_pronoun]は,動物への愛情を育みました.
-
-やがて,[PAWN_pronoun]は,野生動物を手懐ける術を身につけました.[PAWN_pronoun]は,いつの日かスランボと出会い,手懐ける日が来るのを夢見ています.</desc>
+		<title>動物の飼育員</title>
+		<titleShort>飼育員</titleShort>
+		<desc>中世の農家に生まれ,[PAWN_nameDef]は家畜の世話をする仕事を与えられました.成長した[PAWN_pronoun]は,動物へ愛情を注ぐようになりました.\n\nやがて[PAWN_pronoun]は野生の獣を飼い慣らす術を学びました.いつの日かスランボと出会い,手懐けることを夢見ていました.</desc>
 	</AnimalCaretaker20>
 	<WildlifeRanger99>
 		<title>野生生物レンジャー</title>
@@ -3731,11 +3682,9 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 [PAWN_pronoun]は,贅沢や金儲けの為に,動物を虐殺する人間に対して,憎悪を増していきました.</desc>
 	</WildlifeRanger99>
 	<AdventurousYouth79>
-		<title>若い冒険家</title>
+		<title>冒険好きの若者</title>
 		<titleShort>冒険家</titleShort>
-		<desc>[PAWN_nameDef]は,[PAWN_possessive]家族が所有する広大な地所の,地下墓地,川,洞窟のそばに隠れた,ちょっとした自然な不思議な物を発見する探検をしていました.
-
-ティーンエイジャーの時代に,[PAWN_nameDef]は,多くの敵を作りました.</desc>
+		<desc>[PAWN_nameDef]は,家族が所有する広大な敷地を探検しながら,地下墓地や川,洞窟のそばに隠されたちょっとした自然の不思議を発見しました.\n\n[PAWN_nameDef]は十代の頃に多くの敵を作りました.</desc>
 	</AdventurousYouth79>
 	<TreasureHunter30>
 		<title>トレジャーハンター</title>
@@ -3794,9 +3743,7 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 	<Adventurer19>
 		<title>冒険家</title>
 		<titleShort>冒険家</titleShort>
-		<desc>[PAWN_nameDef]の飢えた冒険心は,[PAWN_objective]多くの惑星へと冒険に連れだしました.[PAWN_pronoun]は,探求心から目新しい,わくわくする物を探しに,輝けるGlitterworldや,暗黒の戦争に満ちた有毒惑星を訪れました.
-
-[PAWN_pronoun]は,出来ることだけ働き,簡単に金を得るために,しばしば倫理的境界線を超えたりもしました.全ての仕事のうちで,[PAWN_pronoun]は,料理を最も嫌っています.</desc>
+		<desc>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるグリッターワールドや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</desc>
 	</Adventurer19>
 	<ExiledPrince1>
 		<title>追放王子</title>
@@ -4007,11 +3954,9 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 勤務時間外に,[PAWN_pronoun]は,出演者達を会話をし,役者達の社会劇についてあれこれ言うことは,[PAWN_pronoun]に上手な意思の疎通と,ヒトの操り方を身に付けさせました.</desc>
 	</TheaterTechnician98>
 	<AntisocialChild83>
-		<title>反社会的な少年</title>
-		<titleShort>反社会的</titleShort>
-		<desc>[PAWN_nameDef]は標準的な社会性能力に欠けていて,人とのつながりを避けていました.
-
-[PAWN_pronoun]は,規則的な作業からのみ満足を得ていました.[PAWN_pronoun]は,過度な創造的な話し合いや,社交的な個人を,ひどく嫌っていました.</desc>
+		<title>無愛想な子供</title>
+		<titleShort>無愛想</titleShort>
+		<desc>[PAWN_nameDef]は一般的な社交性に欠けており,人との繋がりを避けていました.\n\n[PAWN_pronoun]は堅実な作業を通じてしか満足を得られませんでした.創造性に溢れていたり,外向的な人物を特に嫌いました.</desc>
 	</AntisocialChild83>
 	<ArmySergeant1>
 		<title>軍曹</title>
@@ -4079,9 +4024,7 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 	<AngryStudent84>
 		<title>怒れる学生</title>
 		<titleShort>学生</titleShort>
-		<desc>[PAWN_nameDef]は,彼の故郷の議会で,働く事を夢をみて勉強していました.
-
-彼には全くわからない理由で,[PAWN_pronoun]は,クラスメートから冷酷ないじめを受けていました.[PAWN_pronoun]は,怒りを押し込めていました.</desc>
+		<desc>[PAWN_nameDef]は,故郷の地方議会で働くという夢に向けて勉強していました.\n\n本人には全く思い当たりのない理由で,[PAWN_pronoun]は同級生から冷酷ないじめを受けていました.[PAWN_pronoun]は怒りをこらえることを選びました.</desc>
 	</AngryStudent84>
 	<MadAccountant61>
 		<title>Mad 会計士</title>
@@ -4128,16 +4071,12 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 	<AdventurousWeirdo83>
 		<title>冒険好きの奇人</title>
 		<titleShort>奇人</titleShort>
-		<desc>創造的なのに変わった性格の,[PAWN_nameDef]は 中世世界の歴史と,高度なテクノロジーへの二つの熱意を,彼の人生に捧げました.
-
-[PAWN_pronoun]は,Glitterworld製のアーマーと剣を持った'スカイナイト'になるアイデアに,夢中になっていました.</desc>
+		<desc>創造性に溢れた変わり者の[PAWN_nameDef]は,中世の歴史と先進テクノロジーという二つの熱意に人生を捧げました.\n\n[PAWN_pronoun]は,光輝の鎧と巨大な剣で'天空の騎士'になるという考えに取り憑かれていました.</desc>
 	</AdventurousWeirdo83>
 	<ApprenticeOracle83>
-		<title>神官見習い</title>
-		<titleShort>神官</titleShort>
-		<desc>[PAWN_nameDef]は,若いときに,神託の神聖な儀式を維持するために村の年長より選ばれました..
-
-好奇心を抑えられない子供だった[PAWN_nameDef]は,知らず知らずのうちに「神の墓所」の扉を開けてしまうという,[PAWN_possessive]部族に対して信仰上の危機を招いてしまいました - 冷凍睡眠装置の内部には,まだ何が起きたのか判らず困惑した,彼らのご先祖様が居ました.</desc>
+		<title>預言者見習い</title>
+		<titleShort>預言者</titleShort>
+		<desc>[PAWN_nameDef]は幼い頃に,神聖なる託宣の儀式を受け継ぐ者として,村の長老たちに選ばれました.\n\n好奇心を抑えられない子供だった[PAWN_nameDef]は,ふとした拍子に「神の墓所」を開封するスイッチを入れてしまい,[PAWN_possessive]部族における宗教に危機的な状況を招きました&#xA0;-&#xA0;冬眠カプセルの中にいたのは,混乱を極める御先祖たちでした.</desc>
 	</ApprenticeOracle83>
 	<CasketBuilder76>
 		<title>棺職人</title>
@@ -4175,11 +4114,9 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 ある日,[PAWN_pronoun]は,うっかりストーブを付けっぱなしにして,建物全体を丸焼けにしてしましました.これは,[PAWN_pronoun]にショックを与えたので,二度とストーブには触れる事は,なくなりました.</desc>
 	</FearfulChef49>
 	<AnimalLabTech39>
-		<title>動物学研究所</title>
-		<titleShort>動物学研究所</titleShort>
-		<desc>[PAWN_nameDef]は,動物研究の専門家として働いていました.
-
-[PAWN_pronoun]は,動物の世話をしたり,研究を終えた彼らを始末する日々を過ごしていました.[PAWN_pronoun]は,いつの日か,自分の研究室を持つことが夢でした.</desc>
+		<title>動物研究室の助手</title>
+		<titleShort>研究室の助手</titleShort>
+		<desc>[PAWN_nameDef]は,動物の研究を行う研究室で助手として働いていました.\n\n[PAWN_pronoun]は動物の世話をしたり,役目を終えた動物を処分する日々を過ごしました.[PAWN_pronoun]はいつの日か,自分の研究室を持つことが夢でした.</desc>
 	</AnimalLabTech39>
 	<MuffaloResearcher67>
 		<title>マッファローの研究者</title>
@@ -4329,11 +4266,9 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 [PAWN_pronoun]は,最高の専門教育と広範囲に渡る火器トレーニングを受けたが,つまらないスキルには見向きもしませんでした.</desc>
 	</NavyTechOfficer0>
 	<AbandonedOrphan61>
-		<title>捨て子</title>
-		<titleShort>孤児</titleShort>
-		<desc>産まれた直後に棄てられ,幼い[PAWN_nameDef]は孤児としての人生をスタートさせました.
-
-ごろつき,悪党,[PAWN_pronoun]は賢いトラブルメーカーになりました.</desc>
+		<title>捨てられた孤児</title>
+		<titleShort>捨て子</titleShort>
+		<desc>産まれてすぐに捨てられ,幼い[PAWN_nameDef]は孤児として人生を始めました.\n\nごろつき,悪党,[PAWN_pronoun]はずる賢い厄介者になりました.</desc>
 	</AbandonedOrphan61>
 	<KingOfPirates25>
 		<title>海賊王</title>

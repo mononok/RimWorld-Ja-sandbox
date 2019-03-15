@@ -86,9 +86,9 @@
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>治療放棄</MedicalCareCategory_NoCare>
   <MedicalCareCategory_NoMeds>治療する(薬品は不使用)</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで投与)</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>治療する(薬剤まで投与)</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>最高品質の医薬品を投与</MedicalCareCategory_Best>
+  <MedicalCareCategory_HerbalOrWorse>治療する(薬草まで使用)</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>治療する(医薬品まで使用)</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>治療する(最先端医薬品まで使用)</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>無視</HostilityResponseMode_Ignore>

@@ -272,14 +272,14 @@
 
     <!-- Pause caravan -->
     <CommandPauseCaravan>休息</CommandPauseCaravan>
-    <CommandToggleCaravanPauseDesc>休みをとります.これは以下の恩恵があります:\n\n- 隊員がお互いに交流することができます.\n- 食料調達が{0}倍早くなります.\n- 目立ちやすさが {1}になります.</CommandToggleCaravanPauseDesc>
+    <CommandToggleCaravanPauseDesc>休息を取ります.これは以下の恩恵があります:\n\n-&#xA0;隊員同士で交流することができます.\n-&#xA0;食料調達が {0}倍 早くなります.\n-&#xA0;目立ちやすさが {1} になります.</CommandToggleCaravanPauseDesc>
 
     <!-- Show sellable items -->
     <CommandShowSellableItems>買い物リストを見せる</CommandShowSellableItems>
     <CommandShowSellableItemsDesc>このトレーダーの買い物リストを見せます.</CommandShowSellableItemsDesc>
 
     <!-- Attack settlement -->
-    <CommandAttackSettlement>攻撃</CommandAttackSettlement>
-    <CommandAttackSettlementDesc>この集落を攻撃せよ.</CommandAttackSettlementDesc>
+    <CommandAttackSettlement>襲撃</CommandAttackSettlement>
+    <CommandAttackSettlementDesc>この集落を襲撃します.</CommandAttackSettlementDesc>
 
 </LanguageData>

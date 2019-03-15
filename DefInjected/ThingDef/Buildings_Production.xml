@@ -16,28 +16,28 @@
     <TableButcher.description>死んだ生物を,小さい生肉の塊に加工する大きなテーブルです.</TableButcher.description>
 
     <HandTailoringBench.label>ミシン台</HandTailoringBench.label>
-    <HandTailoringBench.description>このミシン付き作業台では,衣服を作成できます.電動ミシン付き作業台の,50%程しか作成速度はありません.</HandTailoringBench.description>
+    <HandTailoringBench.description>手縫いの衣服を仕立てるための作業台です.電動ミシン台と比べて作業速度は50%しかありません.</HandTailoringBench.description>
 
     <ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
     <ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の50%に作成速度が落ちます.</ElectricTailoringBench.description>
 
     <FueledSmithy.label>工作台</FueledSmithy.label>
-    <FueledSmithy.description>シンプルな,燃料に薪を使った,メカニカルではない武器やツールを作る工作台です.</FueledSmithy.description>
+    <FueledSmithy.description>機械式ではない武器や道具を鍛造するための,燃料に薪を使った作業場です.</FueledSmithy.description>
 
     <ElectricSmithy.label>電動工作台</ElectricSmithy.label>
-    <ElectricSmithy.description>電動の,メカニカルではない武器やツールを作る工作台です.</ElectricSmithy.description>
+    <ElectricSmithy.description>機械式ではない武器や道具を鍛造するための,電動式の作業場です.</ElectricSmithy.description>
 
     <TableMachining.label>精密工作機械</TableMachining.label>
-    <TableMachining.description>銃,装弾,それとメカノイドの分解等のような機械を組み立てるためのワークステーションです.</TableMachining.description>
+    <TableMachining.description>銃や弾薬といった機械類を組み立てたり、機能停止したメカノイドを分解するための作業台です.</TableMachining.description>
 
     <ElectricStove.label>電気コンロ</ElectricStove.label>
-    <ElectricStove.description>天板に電気コンロが埋め込まれた,料理を作るためのコンロです.</ElectricStove.description>
+    <ElectricStove.description>食事の準備をする調理台が備え付けられた,電動式のコンロです.</ElectricStove.description>
 
     <FueledStove.label>カマド</FueledStove.label>
-    <FueledStove.description>肉を前処理する調理台がついた,燃料に薪を使うコンロです.</FueledStove.description>
+    <FueledStove.description>食事の準備をする調理台が備え付けられた,燃料に薪を使ったコンロです.</FueledStove.description>
 
     <TableStonecutter.label>ストーン カッター</TableStonecutter.label>
-    <TableStonecutter.description>大きめの岩石を使いやすいブロックに加工します.</TableStonecutter.description>
+    <TableStonecutter.description>石の塊を切断して使いやすい石材にするためのノコギリやノミが備わった作業台です.</TableStonecutter.description>
 
     <Brewery.label>醸造器</Brewery.label>
     <Brewery.description>ビールの原料となる麦汁を混合するのに必要な全ての機器を備えた作業台です.麦汁がビールになるためには発酵が欠かせません.</Brewery.description>
@@ -54,15 +54,15 @@
     <BiofuelRefinery.description>バイオ液化燃料の精製プラントです.木材をバイオ液化燃料に精製します.</BiofuelRefinery.description>
 
     <FabricationBench.label>コンポーネント工作台</FabricationBench.label>
-    <FabricationBench.description>シンプルな素材から高度なコンポーネントを組み立てるハイテクツールが組み込まれた工作台です.</FabricationBench.description>
+    <FabricationBench.description>単純な素材から,科学技術の粋を集めた製品を生み出す先進的な道具が備えられた作業台です.</FabricationBench.description>
 
     <!-- ========== Non-standard work buildings ==============-->
 
     <SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
-    <SimpleResearchBench.description>物書きをするシンプルな卓と,単純な計測デバイスです.研究者はここで新しい発見をします.</SimpleResearchBench.description>
+    <SimpleResearchBench.description>筆記用具と単純な計測器を備えた簡素な作業台です.研究者は新たな発見のためにここで活動します.</SimpleResearchBench.description>
 
     <HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
-    <HiTechResearchBench.description>コンピュータ,電気測定器などを備えたハイテク研究設備です.より早い研究を可能にし,さらに上位の研究プロジェクトをアンロックできます.</HiTechResearchBench.description>
+    <HiTechResearchBench.description>コンピュータと電子計測器を備えた最先端の設備です.より迅速な研究を可能にし,高度な研究プロジェクトの解禁も行います.</HiTechResearchBench.description>
 
     <ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>
     <ElectricCrematorium.description>極めて高温で死骸を気化させる大型の火葬炉です.</ElectricCrematorium.description>
@@ -75,7 +75,7 @@
     <FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です.</FermentingBarrel.description>
 
     <DeepDrill.label>深部ドリルマシン</DeepDrill.label>
-    <DeepDrill.description>地面深くから鉱物資源を掘削するための深部地殻ボーリングリグです.鉱物資源を探査するために,地殻深部スキャナーも使います.もし資源が存在しないとドリルは石塊を採掘します.</DeepDrill.description>
+    <DeepDrill.description>地表下の深部から鉱物資源を採掘する深部地殻用の掘削機です.資源の探査には地殻深部スキャナーを使います.資源が存在しない場合,ドリルは石の塊を採掘します.自由に再配置することができます.</DeepDrill.description>
 
     <!--======================== Nutrient dispenser ==============================-->
 

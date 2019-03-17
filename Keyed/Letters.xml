@@ -133,12 +133,12 @@
     <LetterNewParty>{1_labelShort}は, パーティを催しています!.みんな会話や娯楽を楽しむでしょう,これは"心情"を高める効果が長く続きます.</LetterNewParty>
 
     <!-- Newly addicted -->
-    <LetterLabelNewlyAddicted>{0} 中毒</LetterLabelNewlyAddicted>
-    <LetterNewlyAddicted>{PAWN_labelShort}は, {1}中毒を 患いました.\n\n{PAWN_pronoun} は, {1}欲求状態であることが, {PAWN_possessive}「欲求」タブで見て取れます. {PAWN_pronoun} は,{PAWN_possessive}欲求を満たすために,勝手にドラッグを消費するようになります. もし{PAWN_pronoun}が, {1}を手に入れられなければ, {PAWN_pronoun}には,禁断症状が起きるでしょう.</LetterNewlyAddicted>
+    <LetterLabelNewlyAddicted>{0}依存症</LetterLabelNewlyAddicted>
+    <LetterNewlyAddicted>{PAWN_labelShort}は,{1}依存症を患いました.\n\n今や{PAWN_pronoun}には{1}に対する欲求があり,それは{PAWN_possessive}「欲求」タブで見て取れます. {PAWN_pronoun}は自身の欲求を満たすために,勝手にドラッグを消費するようになります. もし{PAWN_pronoun}が{1}を手に入れられなければ,{PAWN_pronoun}は離脱症状を起こすことになるでしょう.</LetterNewlyAddicted>
 
     <!-- Drug binge -->
-    <LetterLabelDrugBinge>{0} 浪費</LetterLabelDrugBinge>
-    <LetterDrugBinge>{2_label}は, {1}を 浪費するようになった.</LetterDrugBinge>
+    <LetterLabelDrugBinge>{0}に 耽溺</LetterLabelDrugBinge>
+    <LetterDrugBinge>{2_label}は, {1}に 耽溺するようになった.</LetterDrugBinge>
 
     <!-- Caravan destroyed -->
     <LetterLabelAllCaravanColonistsDied>キャラバン隊壊滅</LetterLabelAllCaravanColonistsDied>

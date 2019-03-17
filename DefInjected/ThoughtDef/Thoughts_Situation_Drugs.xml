@@ -2,53 +2,53 @@
 <LanguageData>
 
     <!-- Alcohol_Beer.xml -->
-    <Inebriated.stages.alcohol_warmth.label>お酒でポカポカ</Inebriated.stages.alcohol_warmth.label>
-    <Inebriated.stages.alcohol_warmth.description>飲んだあとは,少しだけよりリラックスした気分になる.</Inebriated.stages.alcohol_warmth.description>
-    <Inebriated.stages.quite_inebriated.label>酔った(千鳥足)</Inebriated.stages.quite_inebriated.label>
-    <Inebriated.stages.quite_inebriated.description>少しだけフラフラするけど,とても楽しい気分になる.</Inebriated.stages.quite_inebriated.description>
-    <Inebriated.stages.drunk.label>酔った(酩酊)</Inebriated.stages.drunk.label>
-    <Inebriated.stages.drunk.description>なんでもできるし,怖い物なんかないぞ！</Inebriated.stages.drunk.description>
-    <Inebriated.stages.hammered.label>酔った(泥酔)</Inebriated.stages.hammered.label>
-    <Inebriated.stages.hammered.description>うおぉー!調子はどうだい?</Inebriated.stages.hammered.description>
+    <Inebriated.stages.alcohol_warmth.label>お酒でポカポカしている</Inebriated.stages.alcohol_warmth.label>
+    <Inebriated.stages.alcohol_warmth.description>飲んだあとは,少しだけ心がほぐれる気がするよ.いい気分だ.</Inebriated.stages.alcohol_warmth.description>
+    <Inebriated.stages.quite_inebriated.label>酒で気が大きくなっている</Inebriated.stages.quite_inebriated.label>
+    <Inebriated.stages.quite_inebriated.description>少しフラフラするな！これは本当に楽しいぞ.</Inebriated.stages.quite_inebriated.description>
+    <Inebriated.stages.drunk.label>酔っ払っている</Inebriated.stages.drunk.label>
+    <Inebriated.stages.drunk.description>なんでもできるし,怖い物なんかないぞ！なんて楽しいんだ！</Inebriated.stages.drunk.description>
+    <Inebriated.stages.hammered.label>泥酔している</Inebriated.stages.hammered.label>
+    <Inebriated.stages.hammered.description>うおおぉー！調子はどうだい？</Inebriated.stages.hammered.description>
 
-    <Hungover.stages.hung_over_hidden.label>hung over (hidden)</Hungover.stages.hung_over_hidden.label>
-    <Hungover.stages.mild_hangover.label>二日酔い(軽く)</Hungover.stages.mild_hangover.label>
+    <Hungover.stages.hung_over_hidden.label>二日酔い (非表示)</Hungover.stages.hung_over_hidden.label>
+    <Hungover.stages.mild_hangover.label>軽い二日酔い</Hungover.stages.mild_hangover.label>
     <Hungover.stages.mild_hangover.description>頭痛はほとんど無くなった.</Hungover.stages.mild_hangover.description>
-    <Hungover.stages.serious_hangover.label>二日酔い(強く)</Hungover.stages.serious_hangover.label>
-    <Hungover.stages.serious_hangover.description>酒のせいで,頭痛がひどい.</Hungover.stages.serious_hangover.description>
-    <Hungover.stages.pounding_hangover.label>二日酔い(酷い)</Hungover.stages.pounding_hangover.label>
+    <Hungover.stages.serious_hangover.label>酷い二日酔い</Hungover.stages.serious_hangover.label>
+    <Hungover.stages.serious_hangover.description>この頭痛は,みんなあの酒のせいだ.</Hungover.stages.serious_hangover.description>
+    <Hungover.stages.pounding_hangover.label>深刻な頭痛を伴う二日酔い</Hungover.stages.pounding_hangover.label>
     <Hungover.stages.pounding_hangover.description>まるでガチョウが集団で頭をつついているようだ.</Hungover.stages.pounding_hangover.description>
 
-    <AlcoholWithdrawal.stages.alcohol_withdrawal.label>アルコール禁断症状</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+    <AlcoholWithdrawal.stages.alcohol_withdrawal.label>アルコールによる離脱症状</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
     <AlcoholWithdrawal.stages.alcohol_withdrawal.description>なにか揺れている感じがする.何もかもにイライラする.飲みつづけるか.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
     <!-- wakeup.xml -->
-    <WakeUpWithdrawal.stages.wakeup_withdrawal.label>ウェイクアップ 禁断症状</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
-    <WakeUpWithdrawal.stages.wakeup_withdrawal.description>全てがぼやけた感じで集中できないし,とても疲れたんだ.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
+    <WakeUpWithdrawal.stages.wakeup_withdrawal.label>ウェイクアップによる離脱症状</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+    <WakeUpWithdrawal.stages.wakeup_withdrawal.description>全てがぼやけた感じで集中できない.とても疲れてるんだ.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
     <!-- Smokeleaf.xml -->
-    <SmokeleafHigh.stages.high_on_smokeleaf.label>スモークリーフでハイになる</SmokeleafHigh.stages.high_on_smokeleaf.label>
+    <SmokeleafHigh.stages.high_on_smokeleaf.label>スモークリーフでハイになっている</SmokeleafHigh.stages.high_on_smokeleaf.label>
     <SmokeleafHigh.stages.high_on_smokeleaf.description>おれは,かんぺき人間.</SmokeleafHigh.stages.high_on_smokeleaf.description>
-    <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>スモークリーフ 禁断症状</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
-    <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>マジに一本吸いてえ.神経がキリキリして,俺の気力がしきりに興奮している.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+    <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>スモークリーフによる離脱症状</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+    <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>マジで一服できたらいいのに.神経がキリキリして,ずっと腹の中に不安な感覚があるんだ.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
     <!-- Psychite_Flake.xml -->
-    <FlakeHigh.stages.high_on_flake.label>フレークでハイになる</FlakeHigh.stages.high_on_flake.label>
-    <FlakeHigh.stages.high_on_flake.description>いいよぉ,いいねぇ</FlakeHigh.stages.high_on_flake.description>
+    <FlakeHigh.stages.high_on_flake.label>フレークでハイになっている</FlakeHigh.stages.high_on_flake.label>
+    <FlakeHigh.stages.high_on_flake.description>いいよぉ,いいねぇ.</FlakeHigh.stages.high_on_flake.description>
     <!-- Phycite_Pekoe.xml -->
-    <PsychiteTeaHigh.stages.psychite_tea.label>サイカイトティーでハイになる</PsychiteTeaHigh.stages.psychite_tea.label>
-    <PsychiteTeaHigh.stages.psychite_tea.description>私の気分を素晴らしくしてくれるティを飲んでいる.この活力が好き!</PsychiteTeaHigh.stages.psychite_tea.description>
+    <PsychiteTeaHigh.stages.psychite_tea.label>サイカイトティーを飲んだ</PsychiteTeaHigh.stages.psychite_tea.label>
+    <PsychiteTeaHigh.stages.psychite_tea.description>例のお茶を飲んで気分が良くなった.これで元気になるのが好きなんだ！</PsychiteTeaHigh.stages.psychite_tea.description>
     <!-- Cocaine_Yayo.xml -->
-    <YayoHigh.stages.high_on_yayo.label>イェイョでハイになる</YayoHigh.stages.high_on_yayo.label>
+    <YayoHigh.stages.high_on_yayo.label>イェイョでハイになっている</YayoHigh.stages.high_on_yayo.label>
     <YayoHigh.stages.high_on_yayo.description>興奮してきた!やっちまおう!</YayoHigh.stages.high_on_yayo.description>
-    <PsychiteWithdrawal.stages.psychite_withdrawal.label>サイカイト 禁断症状</PsychiteWithdrawal.stages.psychite_withdrawal.label>
-    <PsychiteWithdrawal.stages.psychite_withdrawal.description>あぁ私は疲れた.何もかもが,ゆっくりと退屈に過ぎていく,特に私が.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+    <PsychiteWithdrawal.stages.psychite_withdrawal.label>サイカイトによる離脱症状</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+    <PsychiteWithdrawal.stages.psychite_withdrawal.description>やれやれ疲れたよ.のろますぎて,何もかもにウンザリする.特に自分に.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
     <!-- GoJuice.xml -->
-    <GoJuiceHigh.stages.high_on_gojuice.label>ゴージュースでハイになる</GoJuiceHigh.stages.high_on_gojuice.label>
-    <GoJuiceHigh.stages.high_on_gojuice.description>私はしっかりしてるが興奮してくる.私は空飛ぶ弾丸のごとく,仕事を手早くすませる準備ができた.</GoJuiceHigh.stages.high_on_gojuice.description>
-    <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>ゴージュース禁断症状</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
-    <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>すべてがぼんやりしていて,考えをまとめられない.手足が重くて,疲れていて,お腹もすいているし,目の焦点が合わせられないのはなぜなんだ？</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+    <GoJuiceHigh.stages.high_on_gojuice.label>ゴージュースでハイになっている</GoJuiceHigh.stages.high_on_gojuice.label>
+    <GoJuiceHigh.stages.high_on_gojuice.description>気が昂ぶってはいるが意識はしっかりしている.私は今にもお前を撃ち抜かんと飛翔する弾丸なのだ.</GoJuiceHigh.stages.high_on_gojuice.description>
+    <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>ゴージュースによる離脱症状</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+    <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>全てがぼんやりしていて考えをまとめられない.手足が重くて体もだるい.空腹だし全身に痛みがある.おまけに,目の焦点がきちんと合わないのは何故なんだ？</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
     <!--  Ambrosia.xml -->
-    <AmbrosiaHigh.stages.ambrosia_warmth.label>アンブロージアで火照る</AmbrosiaHigh.stages.ambrosia_warmth.label>
-    <AmbrosiaHigh.stages.ambrosia_warmth.description>アンブロージアは私をもっとリラックスさせると同時に,エネルギーを与えてくれる.</AmbrosiaHigh.stages.ambrosia_warmth.description>
-    <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>アンブロージア禁断症状</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
-    <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>ずっと身体が重いし,寒気もする.こんなにたくさんの果実は,もう絶対にやらないよ.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+    <AmbrosiaHigh.stages.ambrosia_warmth.label>アンブロージアでポカポカしている</AmbrosiaHigh.stages.ambrosia_warmth.label>
+    <AmbrosiaHigh.stages.ambrosia_warmth.description>アンブロージアは気分が和らぐし,元気も出てくるんだ.</AmbrosiaHigh.stages.ambrosia_warmth.description>
+    <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>アンブロージアによる離脱症状</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+    <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>ずっと身体が重いし,寒気もする.一切れの果実をあれほど欲しがるような真似は,もう絶対にしないよ.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
 
 </LanguageData>

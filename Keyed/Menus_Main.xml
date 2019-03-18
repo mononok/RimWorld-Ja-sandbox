@@ -10,10 +10,10 @@
     <LoadGame>ロード</LoadGame>
     <Options>オプション</Options>
     <Mods>MOD</Mods>
-    <SaveTranslationReport>翻訳結果レポート生成</SaveTranslationReport>
-    <GeneratingTranslationReport>翻訳結果レポート生成中</GeneratingTranslationReport>
-    <CleanupTranslationFiles>翻訳ファイルを全削除します</CleanupTranslationFiles>
-    <CleaningTranslationFiles>翻訳ファイルを全削除中</CleaningTranslationFiles>
+    <SaveTranslationReport>翻訳ファイルを検証する</SaveTranslationReport>
+    <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
+    <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
+    <CleaningTranslationFiles>翻訳ファイルを正規化しています</CleaningTranslationFiles>
     <Credits>クレジット</Credits>
     <QuitToMainMenu>タイトルに戻る</QuitToMainMenu>
     <SaveAndQuitToMainMenu>ゲームを保存して タイトルに戻る</SaveAndQuitToMainMenu>
@@ -30,12 +30,12 @@
     <CreateWorld>惑星を創造</CreateWorld>
 
     <!--=========== Main menu translations info window ===========-->
-    <TranslationThanks>Rimworldの,全ての多言語翻訳はファンが作った物です.次の素晴らしいボランティア達によって,ファン製の翻訳ファイルは作られました.\n\n{0}</TranslationThanks>
+    <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
     <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
     <LearnMore>もっと知る</LearnMore>
 
   <!-- Main menu dev build -->
-  <DevBuildWarning>Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
+  <DevBuildWarning>警告：これは不安定な開発ビルドです。これは私達が、設計上の実験と技術的な開発を行っていることを意味します。\n\n中には暫定措置として意図的にアンバランスになっている要素もあります。これは古典的なゲームデザインの手法で、バランスの匙加減をよりよく理解するために、故意に極端な調整になっています。我々はその情報を利用して、最終的な調整点を決定できます。\n\nまた、ゲームを壊してしまうものを含め、バグもあるでしょう。セーブデータの互換性はいつ壊れるか分かりません。\n\nこれら全てに問題がなければ、テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は、最新の安定版をプレイしてください。</DevBuildWarning>
 
     <!--=========== Create/review world ================-->
     <ReviewWorld>惑星を確認</ReviewWorld>

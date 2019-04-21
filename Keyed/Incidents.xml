@@ -76,8 +76,8 @@
     <BeaversArrived>今,腹を空かせたアルファビーバーの一団が現れました.\n\n一本残らず木が食い尽くされる前に,駆除する事を試しましょう.</BeaversArrived>
 
     <!-- Refugee chased -->
-    <RefugeeChasedTitle>{0}からの亡命者</RefugeeChasedTitle>
-    <RefugeeChasedInitial>{PAWN_nameDef}という名の[PAWN_title]が近くから,あなたを呼んでいます.{PAWN_pronoun}は,{3}からの{2}に追われています!\n\n{PAWN_pronoun}は,身の安全と,あなたのコロニーに加わりたいと命乞いをしています.{PAWN_pronoun}は,年齢が{4}歳で,,,それ以上の情報を聞き出す時間がありませんでした.\n\n【注意】:あなたが承知すると,[PAWN_possessive]背後の{2}と戦わないといけません.次で構成されています:\n\n{5}</RefugeeChasedInitial>
+    <RefugeeChasedTitle>{0}への亡命者</RefugeeChasedTitle>
+    <RefugeeChasedInitial>{PAWN_nameDef}という名の[PAWN_title]が近くから,あなたを呼んでいます.{PAWN_pronoun}は,{3}の{2}に追われています!\n\n{PAWN_pronoun}は,身の安全を求め,あなたのコロニーに加わりたいと命乞いをしています.{PAWN_pronoun}は,年齢が{4}歳で...それ以上の情報を聞き出す時間がありませんでした.\n\n【注意】:あなたが承知すると,[PAWN_possessive]背後の{2}と戦わないといけません.次で構成されています:\n\n{5}</RefugeeChasedInitial>
     <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
     <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
     <RefugeeChasedRejected>あなたが通信装置を切る間際,{1_labelShort}の 絶望してパニックを起こした叫び声が,スピーカから聞こえてきた.</RefugeeChasedRejected>

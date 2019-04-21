@@ -1,7 +1,7 @@
 RimWorld-Ja-sandbox
 ===========
 Ver: 1.0
-Original:1.0.2150
+Original:1.0.2231
 Description: 【確認済】Ver 1.0に向けての作業をしています。beta 0.19のファイルはリリースより取得してください。
 ToDo:
 Notify:【注意】日本語ファイルを書き換える時は、RimWorld/Mods/Core/Languages/JapaneseのフォルダーのDefInjectedフォルダ、Keyedフォルダ、Stringsフォルダ、そしてBackstoriesフォルダを"削除"してからコピーします。上書きすると起動しなくなります。

@@ -27,9 +27,9 @@
     <FreshMissingBodyPart>生々しい</FreshMissingBodyPart>
     <DevelopedImmunityLower>免疫がついた</DevelopedImmunityLower>
     <NeedsTendingNow>すぐに看病が必要</NeedsTendingNow>
-    <CanTendNow>今面倒を見る事ができる</CanTendNow>
-    <TreatmentExpiresIn>看病の期限切れまで{0}</TreatmentExpiresIn>
-    <NextTendIn>Can be tended in {0}</NextTendIn>
+    <CanTendNow>直ぐに看る事ができる</CanTendNow>
+    <TreatmentExpiresIn>治療効果切れまで{0}</TreatmentExpiresIn>
+    <NextTendIn>{0} 後に看る</NextTendIn>
     <TendQuality>看病品質</TendQuality>
     <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
     <Immunity>免疫</Immunity>
@@ -53,7 +53,7 @@
     <EggProgress>卵成長</EggProgress>
     <Fertilized>受精した</Fertilized>
     <ProgressStoppedUntilFertilized>受精するまで停止(Progress stopped until fertilized)</ProgressStoppedUntilFertilized>
-    <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+    <SkillTooLow>{0} には {2} 必要ですが, {1} しかありません</SkillTooLow>
     <Freezing>冷凍</Freezing>
     <Overheating>オーバーヒート</Overheating>
     <RuinedByTemperature>温度管理に失敗してダメになった</RuinedByTemperature>

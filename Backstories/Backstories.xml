@@ -114,7 +114,7 @@
 	<HiveworldDrone0>
 		<title>ハイブワールドのドローン</title>
 		<titleShort>ドローン</titleShort>
-		<desc>[PAWN_nameDef]は,巨大なハイブワールド文明で意思なき建設ドローンとして働きました.[PAWN_pronoun]は現在,残酷な社会実験からは解放されていますが,創造的な発想や人の上に立つようなことはできないままです.</desc>
+		<desc>[PAWN_nameDef]は,巨大なハイブワールド文明で意思なき建設ドローンとして機能していました.[PAWN_pronoun]は現在,残酷な社会実験からは解放されていますが,創造的な発想や人の上に立つようなことはできないままです.</desc>
 	</HiveworldDrone0>
 	<Evangelist39>
 		<title>福音伝道者</title>
@@ -414,8 +414,8 @@
 		<desc>子供の頃,[PAWN_nameDef]は奇病に悩まされていました.研究施設のある大学病院に隔離され,[PAWN_pronoun]は必要最低限の人としか接触を持てず,ほとんど運動することができませんでした.不毛な病院生活だったけれども,[PAWN_pronoun]は科学と医学に,とても精通するようになりました.</desc>
 	</SicklyChild72>
 	<ShelterChild50>
-		<title>避難所生活の子供</title>
-		<titleShort>避難児</titleShort>
+		<title>シェルターチルドレン</title>
+		<titleShort>シェルタキッド</titleShort>
 		<desc>[PAWN_nameDef]は,トキシックワールドの地下深くにある避難所で育ちました.[PAWN_pronoun]は総合的な教育を受けましたが,肉体労働をする機会には恵まれませんでした.</desc>
 	</ShelterChild50>
 	<IndustrialOrphan13>
@@ -452,7 +452,7 @@
 [PAWN_pronoun]は,臭いの違いで洞窟の中を行き来できるぐらいに,岩石について非常に良く知ってました.</desc>
 	</CaveworldTunneler48>
 	<ComaChild57>
-		<title>植物状態の子供</title>
+		<title>植物状態児</title>
 		<titleShort>植物状態</titleShort>
 		<desc>子供の頃の事故で,[PAWN_nameDef]は昏睡状態に陥りました.[PAWN_pronoun]は十代後半になるまで目覚めませんでした.長期に渡る運動不足から[PAWN_possessive]身体が回復する見込みはありませんが,[PAWN_possessive]身の上は人々を同情的にさせる傾向があります.</desc>
 	</ComaChild57>
@@ -718,7 +718,7 @@
 	</FarmerBoy63>
 	<ArmyCook51>
 		<title>軍の調理師</title>
-		<titleShort>料理人</titleShort>
+		<titleShort>炊事兵</titleShort>
 		<desc>[PAWN_nameDef]は労働者として軍に入隊し,多くの時間を料理と修理に費やしました.危険な惑星に駐留している間,[PAWN_pronoun]は射撃と生存術に関する基礎的な訓練を受けました.</desc>
 	</ArmyCook51>
 	<UrbworldCriminal64>
@@ -1481,6 +1481,20 @@
 		<titleShort>実験体</titleShort>
 		<desc>[PAWN_nameDef]は,"絶対痩せる!"と謳った科学的な調査に参加しました.不幸なことに,[PAWN_pronoun]が期待していたのと,かなり違った副作用がでました.[PAWN_pronoun]は,気が狂い,母星から逃げ出す前に,多くの人々を殺しました.</desc>
 	</TestSubject85>
+	<CommonerHeir25>
+		<title>平民出の後継者</title>
+		<titleShort>後継者</titleShort>
+		<desc>[PAWN_nameDef]は封建的な Steamworld の浮浪児でした.
+
+[PAWN_pronoun]は食料を盗もうと王宮に忍びこんだところ,世継ぎが欲しくて必死だった皇帝は,[PAWN_objective]を捕らえ,次の継承者となるべく仕込みました.</desc>
+	</CommonerHeir25>
+	<CommonerLord87>
+		<title>平民出の君主</title>
+		<titleShort>君主</titleShort>
+		<desc>数年かかって武術と礼儀を身に付けると,遂に[PAWN_nameDef]は領地と統治権を与えられました.
+
+[PAWN_nameDef]の出自のせいで,それに同意しなかった他の君主達が [PAWN_objective]に重罪の濡れ衣を着せたので,皇帝は [PAWN_objective]追放せざるを得ませんでした.</desc>
+	</CommonerLord87>
 	<ArtisanFarmer23>
 		<title>熟練した農夫</title>
 		<titleShort>農夫</titleShort>
@@ -2287,7 +2301,7 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 すぐに銃器とサバイバル技術を身につけた[PAWN_pronoun]は,主席の成績で卒業し,極秘任務の指揮官に抜擢されました.</desc>
 	</MilitaryCadet16>
 	<AnarchistRebel83>
-		<title>無政府主義の反乱分子</title>
+		<title>反乱分子</title>
 		<titleShort>反政府主義者</titleShort>
 		<desc>特別任務中に置き去りにされた[PAWN_nameDef]は,国家に復讐を誓いました.[PAWN_pronoun]は反政府勢力を組織し,中央政府を転覆させることに専念しました.\n\n何度も危機に陥り,ほとんど成果を上げることもなく,[PAWN_nameDef]は辺境へと逃げ延びました.</desc>
 	</AnarchistRebel83>

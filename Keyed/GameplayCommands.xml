@@ -222,7 +222,7 @@
     <CommandFulfillTradeOffer>取り引きの申し出を受ける</CommandFulfillTradeOffer>
     <CommandFulfillTradeOfferDesc>依頼を聞き入れて,謝礼を要求します.</CommandFulfillTradeOfferDesc>
     <CommandFulfillTradeOfferFailInsufficient>この取り引きを叶えるには,キャラバン隊は{0}を持っていなければなりません.</CommandFulfillTradeOfferFailInsufficient>
-    <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
+    <CommandFulfillTradeOfferConfirm>{1} を {0} で良いですか?</CommandFulfillTradeOfferConfirm>
 
     <!-- Take off -->
     <CommandTakeOff>離陸</CommandTakeOff>

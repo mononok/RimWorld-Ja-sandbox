@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>詳細な設定</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>優先度 高</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>優先度 低</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <RelevantSkills>該当スキル：{0} ： {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>クリックで移動：</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{1_labelShort} は この作業が できません</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>（なし）</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>この入植者は,健康上の理由から,このタイプのすべての作業を行うことができません.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>TODO</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>TODO</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>TODO</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>TODO</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>TODO</Priority4>
+  
+  <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
+  <ManageOutfits>服装を管理</ManageOutfits>
+  <!-- EN: Unchangeable -->
+  <Unchangeable>TODO</Unchangeable>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>服装を強制</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>服装を強制する</ForcedApparel>
+  <!-- EN: Edit... -->
+  <AssignTabEdit>編集...</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
+  <Copy>コピー</Copy>
+  <!-- EN: Paste -->
+  <Paste>ペースト</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>制限ゾーン</AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
+  <Master>主人</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>絆</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>TODO</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>敵対</Hostile>
+  <!-- EN: Ally -->
+  <Ally>同盟</Ally>
+  <!-- EN: defeated -->
+  <DefeatedLower>敗退</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>{0} と 敵対</HostileTo>
+  <!-- EN: Enemy of:  -->
+  <EnemyOf>TODO</EnemyOf>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>この派閥とは同盟です.彼らは,あなたを助ける為にできる限りの援軍を送ろうとするでしょう.もし関係性が{0}を下回ると,彼らとは中立的な関係になるでしょう.</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>この派閥とは中立です.彼らは,あなたと自由に話し,貿易をするでしょう.もし関係性が{0}を下回ると,彼らとは敵対するでしょう.もし関係性が{1}を上回ると,彼らは同盟となって,あなたの為に積極的に力になってくれ始めます.</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>この派閥と敵対です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.もし関係性が{0}を上回ると,かれらは中立となります.</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>この派閥は,{0}から{1}の友好値の幅を持っています.友好値が{1}を超えると,一日毎に{3}下がっていきます.友好値が{0}を下回ると,一日毎に{2}上がっていきます.</CurrentGoodwillTip_NaturalGoodwill>
+  
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>友人</Friend>
+  <!-- EN: Rival -->
+  <Rival>ライバル</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>知人</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>グラフ</Graph>
+  <!-- EN: Messages -->
+  <Messages>メッセージ</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>統計</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>グラフを選択</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>直近の30日</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>直近の100日</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>直近の300日</Last300Days>
+  <!-- EN: All -->
+  <AllDays>すべて</AllDays>
+  <!-- EN: Value -->
+  <Value>値</Value>
+  <!-- EN: External -->
+  <External>外部</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>レターを表示</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>メッセージを表示</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>このメッセージにピンを打つ(ピンを外す)\n\nもっとも古いピンを打っていないメッセージは,メッセージ数{0}の上限に達すると自動的に削除されます.</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>メッセージはありません</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>プレイ時間</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>AI脚本家</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>大きな脅威</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>殺された 入植者数</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: Research -->
+  <Research>研究</Research>
+  <!-- EN: Researched -->
+  <Researched>研究済み</Researched>
+  <!-- EN: Unresearched -->
+  <Unresearched>未研究</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>完成した</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>進行中</InProgress>
+  <!-- EN: Locked -->
+  <Locked>凍結</Locked>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>必要条件</ResearchPrerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>研究設備が必要</RequiredResearchBenchFacilities>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>あなたのテックレベルを考慮した結果,プロジェクトにかかる費用 {0} は最終的に {1} になりました.</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>TODO</TechLevelTooLow>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>TODO</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>TODO</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>TODO</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>TODO</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>TODO</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>TODO</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>TODO</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>TODO</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>TODO</AcceptWith>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a colonist with the title of {0}. -->
+  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>TODO</RoyalFavorOff>
+  
+  <!-- UNUSED -->
+  <ProjectTechLevel>プロジェクト テックレベル</ProjectTechLevel>
+  <YourTechLevel>あなたのテックレベル</YourTechLevel>
+  <ResearchCostMultiplier>コスト 倍率</ResearchCostMultiplier>
+
+</LanguageData>

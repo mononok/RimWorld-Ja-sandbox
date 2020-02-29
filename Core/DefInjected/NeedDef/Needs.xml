@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>美しさ</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>美しさは,直近に居た周りの環境から受けた視覚的な感じの良さを表しています.絵画のような美しいものを飾ると美しさは改善し,岩肌やゴミのような醜悪なものを低減させます.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>快適性</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>快適性は,気持ちよい家具に座ったり,寝たりすることで値が大きくなります.値は,ベッドに横になっている,仕事中イスに座っている間じゅう得られます.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>TODO</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>TODO</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>食事</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>食事は,その生き物が直近に摂った栄養物の量です. ゼロになるとだんだんと栄養失調になり,しまいには死に至ります.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>娯楽</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>娯楽は,楽しさへの欲求です.同じタイプのアクティビティを繰り返していると飽きが来るので,多様性が必要です.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>心情</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>心情は,どのくらい幸せか,ストレスを受けているかを表しています.もし心情が低すぎると,精神崩壊を起こす恐れがあります.心情の低さによって数日程度部屋に引き籠るか,殺人鬼に変貌するかが決まります.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>アウトドア</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>アウトドアは,屋内に閉じこもっていたくない欲求を表します.長い期間屋内に居ることで,特に地下に居ることで悪影響を受けます.空の下にいる時間を増やすことで,とりわけ屋外に居ると改善します.部屋の大きさは関係なく,その時々に外に居たい欲求です.外にいる時間が無いことは,地下拠点に住む者への重大な難問となります.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>睡眠</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>睡眠は,その生物が直近に摂った睡眠量です.ゼロになると,その場で眠り込んでしまいます.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>間取り</RoomSize.label>
+  
+</LanguageData>

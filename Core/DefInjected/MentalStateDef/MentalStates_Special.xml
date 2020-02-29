@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>殺人鬼</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>精神状態: 殺人鬼</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0}は殺人鬼となり殺し始めた!.</Manhunter.beginLetter>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0}の血に飢えた殺人は終わりをむかえた.</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>殺人鬼</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>狂気: 殺人鬼</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0}は殺人鬼となった！</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>殺人鬼</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0}の殺人衝動は無くなった.</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>パニックになり逃げ出した</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>精神状態: パニック</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0}はパニックになって逃げだした.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>逃避</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0}は正気を取り戻した.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>ケンカ</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>精神状態: ケンカ</SocialFighting.baseInspectLine>
+  <SocialFighting.recoveryMessage>{0}と{1}はケンカをやめた.</SocialFighting.recoveryMessage>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>混乱し歩きまわる</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>精神状態: 混乱</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0}は混乱して歩きまわる.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>混乱</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0}は正気を取り戻した</WanderConfused.recoveryMessage>
+  
+</LanguageData>

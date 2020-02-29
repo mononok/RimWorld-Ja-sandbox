@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>入植者 (総時間)</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>入植者として過ごした時間の合計</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>囚人 (総時間)</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>囚人として過ごした時間の合計</TimeAsPrisoner.description>
+  
+  <!-- EN: time hosted -->
+  <TimeAsQuestLodger.label>TODO</TimeAsQuestLodger.label>
+  <!-- EN: Total time spent hosted by your community through a quest. -->
+  <TimeAsQuestLodger.description>TODO</TimeAsQuestLodger.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>掃除 (総時間)</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>掃除に費やした総時間</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>建設解体 (総時間)</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>建設,解体に費やした総時間</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>気絶 (総時間)</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>気絶していた総時間</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>徴兵 (総時間)</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>徴兵されていた総時間</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>消火 (総時間)</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>消火活動に費やした総時間</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>摂食 (総時間)</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>食料調達や,食事を摂ることに費やした総時間</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>娯楽 (総時間)</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>娯楽に費やした総時間</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>家畜 (総時間)</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>家畜を扱っていた総時間</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>運搬 (総時間)</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>運搬に費やした総時間</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>狩猟 (総時間)</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>狩りに費やした総時間</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>睡眠時間 (総時間)</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>ベッドで睡眠をとった総時間</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>患者 (総時間)</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>医療目的でベッドに伏せっていた総時間：治療待ち時間,怪我の治療,手術など</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>精神衰弱 (総時間)</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>精神に異常をきたしていた総時間</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>採掘 (総時間)</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>採掘に費やした総時間</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>火だるま (総時間)</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>燃やされていた総時間</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>修理 (総時間)</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>修理に費やした総時間</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>研究 (総時間)</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>研究に費やした総時間</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>播種収穫 (総時間)</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>種蒔き,収穫,伐採に費やした総時間</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>看病 (総時間)</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>治療,看病に費やした総時間</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>屋内 (総時間)</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>屋内で生活していた総時間</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>看守 (総時間)</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>看守として活動した総時間</TimeWardening.description>
+  
+</LanguageData>

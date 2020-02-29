@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>快晴</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>良く晴れた日,天候による悪影響はありません.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>雷</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>落雷による火事がおきます. 雨が降らないので延焼は続くため雷は危険です.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>霧</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>霧で射撃精度が落ちます.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>霧雨</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>霧雨で射撃精度が落ちます. 人の歩みが遅くなります.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>雨</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>雨で射撃精度が落ちます. 火災が消えます. 人々の歩みが遅くなります.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>暴風雨</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>落雷による火事は雨で鎮火します. 雨で射撃精度が落ちます.人の歩みが遅くなります.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>小雪</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>小雪で射撃精度が落ちます. 火災が消えます. 人々の歩みが遅くなります.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>大雪</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>大雪で射撃精度が落ちます. 火災が消えます. 人々の歩みが遅くなります.</SnowHard.description>
+  
+</LanguageData>

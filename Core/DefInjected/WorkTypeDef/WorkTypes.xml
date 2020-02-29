@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>自然の素材から,絵画のように美しいものを創ります.</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>芸術</Art.gerundLabel>
+  <!-- EN: Art -->
+  <Art.labelShort>芸術</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>芸術家</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>芸術</Art.verb>
+  
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>スキルが不要な雑用.囚人の釈放,機械類のスイッチをオンオフします.</BasicWorker.description>
+  <!-- EN: dealing with -->
+  <BasicWorker.gerundLabel>対応</BasicWorker.gerundLabel>
+  <!-- EN: Basic -->
+  <BasicWorker.labelShort>雑用</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>雑用</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>対処</BasicWorker.verb>
+  
+  <!-- EN: Clear snow and clean the floor in the home area. -->
+  <Cleaning.description>コロニーゾーンの除雪や掃除をします.</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>掃除</Cleaning.gerundLabel>
+  <!-- EN: Clean -->
+  <Cleaning.labelShort>掃除</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>清掃人</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>掃く</Cleaning.verb>
+  
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>あなたが指示した建物を建てます,壊れたり,大部分が破壊された建物を修理します.</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>建築</Construction.gerundLabel>
+  <!-- EN: Construct -->
+  <Construction.labelShort>建築</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>大工</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>建築</Construction.verb>
+  
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>食事の支度をしたり,肉を捌いたりします.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>料理</Cooking.gerundLabel>
+  <!-- EN: Cook -->
+  <Cooking.labelShort>料理</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>料理人</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>料理</Cooking.verb>
+  
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>作業台で,スキルの低い一般的な作業をします.この作業には,ストーンカッター,溶解炉,等が含まれます.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>工芸</Crafting.gerundLabel>
+  <!-- EN: Craft -->
+  <Crafting.labelShort>工芸</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>工芸家</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>工芸</Crafting.verb>
+  
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>病を治療し,食事を与え,励まし,割り当てられた手術を行います.医者は,入植者と囚人の両方共に治療します.</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>治療</Doctor.gerundLabel>
+  <!-- EN: Doctor -->
+  <Doctor.labelShort>医者</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>医者</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>治療</Doctor.verb>
+  
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>コロニーの火災を消火します.</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>消火</Firefighter.gerundLabel>
+  <!-- EN: Firefight -->
+  <Firefighter.labelShort>消火</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>消防士</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>消火</Firefighter.verb>
+  
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>種を蒔き,作物を収穫し,野草を探し集めます.</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>栽培</Growing.gerundLabel>
+  <!-- EN: Grow -->
+  <Growing.labelShort>栽培</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>栽培者</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>栽培</Growing.verb>
+  
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>手懐けたり,調教,屠殺もします.</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>調教</Handling.gerundLabel>
+  <!-- EN: Handle -->
+  <Handling.labelShort>調教</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>調教師</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>調教</Handling.verb>
+  
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>必要な所へ必要な物を運びます.</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>運搬</Hauling.gerundLabel>
+  <!-- EN: Haul -->
+  <Hauling.labelShort>運搬</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>運送屋</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>運ぶ</Hauling.verb>
+  
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>獲物と指示された動物を狩ります.</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>狩猟</Hunting.gerundLabel>
+  <!-- EN: Hunt -->
+  <Hunting.labelShort>狩猟</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>狩人</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>狩猟</Hunting.verb>
+  
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>掘削とボーリング</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>採掘</Mining.gerundLabel>
+  <!-- EN: Mine -->
+  <Mining.labelShort>採掘</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>採掘者</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>掘る</Mining.verb>
+  
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>もし,直ぐにでも命に関わるような重篤な健康状態なら,治療のために医療用ベッドに行きます.</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>瀕死</Patient.gerundLabel>
+  <!-- EN: Patient -->
+  <Patient.labelShort>瀕死</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>瀕死</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>瀕死</Patient.verb>
+  
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>命に関わらない症状でも,回復する為にベッドで安静にしています.</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>安静</PatientBedRest.gerundLabel>
+  <!-- EN: Bed rest -->
+  <PatientBedRest.labelShort>病人</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>病人</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>病人になる</PatientBedRest.verb>
+  
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>指示された草木を伐採・収穫します.</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>収穫</PlantCutting.gerundLabel>
+  <!-- EN: Plant cut -->
+  <PlantCutting.labelShort>収穫</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>収穫者</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>収穫</PlantCutting.verb>
+  
+  <!-- EN: Perform research work. -->
+  <Research.description>研究を行います.</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>研究</Research.gerundLabel>
+  <!-- EN: Research -->
+  <Research.labelShort>研究</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>研究者</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>研究</Research.verb>
+  
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
+  <Smithing.description>原料から,鍛冶屋として,もしくは,機械加工を使って武器や工具を作ります.</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>鍛冶</Smithing.gerundLabel>
+  <!-- EN: Smith -->
+  <Smithing.labelShort>鍛冶</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>鍛冶屋</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>鍛冶</Smithing.verb>
+  
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>原材料から服を作ります.</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>裁縫</Tailoring.gerundLabel>
+  <!-- EN: Tailor -->
+  <Tailoring.labelShort>裁縫</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>裁縫家</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>裁縫</Tailoring.verb>
+  
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>管理,食事の世話,囚人と世間話と勧誘をします.</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>看守</Warden.gerundLabel>
+  <!-- EN: Warden -->
+  <Warden.labelShort>看守</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>看守</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>見守る</Warden.verb>
+  
+</LanguageData>

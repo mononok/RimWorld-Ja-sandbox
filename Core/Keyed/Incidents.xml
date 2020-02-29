@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} 暴走</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>この地域の {ANIMAL_label} が暴れだしました. 目にはいる 人を 攻撃します.</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
+  <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
+
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>疫病</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>ひとりの入植者が,作物が疫病に冒されている事に気がついた! 疫病が蔓延する前に,疫病に冒された作物を,刈り取るか焼却するべきです.</LetterCropBlight>
+
+  <!-- EN: Miracle -->
+  <LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
+  <MiracleHeal>{0}は 信じられない 回復力で 傷を いやしました！</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <EnemyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort} うちの１人は,この派閥のリーダーです.</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural} - {LEADER_labelShort}うちの１人は,この派閥のリーダーです.</FriendlyRaidLeaderPresent>
+
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>輸送ポッド事故</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>{PAWN_nameDef}という {PAWN_titleIndef}が乗った 輸送ポッドが近くに墜落してきます. もし{PAWN_pronoun}が衝撃から生き残ったとしても,{PAWN_pronoun}は重傷を負っているでしょう.</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef}は どこの派閥にも属していません. あなたは{PAWN_objective}助けて,{PAWN_pronoun}を加えることも自由ですし,{PAWN_objective}奴隷として勧誘することもできます.</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef}は あなたの敵{PAWN_factionName}から来ました. あなたは勧誘か奴隷目的で {PAWN_objective}捕らえることができます.</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef}は {PAWN_factionName}から来ました. あなたが{PAWN_objective}助けると, {PAWN_pronoun}は勝手に仲間になるかもしれません. そうでなくても,{PAWN_pronoun}は自分の本拠地に戻って, あなたがしてくれた善意を広めるでしょう.</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>漂着物</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>輸送ポッドが この近くに 墜落するのを見かけました.\n\nその付近を探せば 役に立つものが 見つかるでしょう.</CargoPodCrash>
+
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>電気ケーブル</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>{0}が故障し, ショートしました.</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>{0}が故障し,ショートした結果,火災が発生しました.</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>電気的爆発で バッテリーと繋がっていた {0} Wdのエネルギーが放電しました.</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>とても多くの電気が放電された結果 , かなり大きな 爆発が 起きました.</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です.</ShortCircuitWasHuge>
+
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>商船は, 惑星のそばを 通過しようと しています.\n\n彼らは {0} という名で\n {1} を なりわいと しています.</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>{1}の {PAWN_title}が 村の近くに います.{PAWN_pronoun}は {PAWN_nameFull}と名乗っています.</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います.</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
+  <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>{1}の {PAWN_titleIndef}が 村を 訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています.{3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun}は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
+  <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています.{1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {1_labelShort}は 派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>訪問中の {0}は 去りました.</VisitorsLeaving>
+
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました.</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました. このエリアの 人間は, 不安と, 恐怖と, 偏執衝動に さらされます.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <!-- EN: Agent -->
+  <LetterLabelAgentRevealed>代理人</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>{0} は あなたの敵  {1} の代理と 名乗りました.\n\n彼らは 逃げようと しています.</LetterAgentRevealed>
+
+  <!-- Beavers -->
+  <!-- EN: Beavers! -->
+  <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>今,腹を空かせたアルファビーバーの一団が現れました.\n\n一本残らず木が食い尽くされる前に,駆除する事を試しましょう.</BeaversArrived>
+  
+  <!-- Self-tame -->
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>{1_kind}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた.仮に{ANIMAL_nameFull}とした</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた.入植者達は{ANIMAL_nameFull}と名付けた</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>{0}が加わりました</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>放棄されたか,迷子になった {0}のグループが, 迷い込んできました.\n\n彼らは,ヒトには慣れていそうで,コロニーに加わりたそうです.</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>スランボの小さな群れが,このエリアに入り込んできました.\n\n基本的には大人しいですが,この希少な生き物と対決するときは非常に危険です.幾人かの貿易商は,これらの貴重な毛皮と角に多額の報酬を払うでしょう.\n\nスランボ達は数日で,ここから出て行くでしょう.</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
+  <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました.彼らは {1}です.\n\n 彼らは,ここを離れるまでの数日間,ここのコロニーをウロウロするつもりです.彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう. </LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+    
+  <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>{1}が 通信で あなたに呼びかけています.彼らは,入植者 {0}を 人質にしています.\n\n彼らは,身代金 {2}シルバーと交換に,{PAWN_objective} 解放する用意があると言ってきています.</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>Charlon Whitestoneが送ってきた座標に到着し,秘匿された宇宙船を発見した.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできない.コンピュータコアを使って操作すれば起動させることができる.\n\nCharlon Whitestoneは警告する.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうだろう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング共や,最悪なメカノイドの群れを惹きつけるだろう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想される.まずは最初に守りを確認すべきだ.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <!-- EN: Ship destroyed -->
+  <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
+  <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <EscapeShipLost>Charlon Whitestoneがメッセージを送ってきた.\n彼は,貴方が着陸船での姿勢制御を失っているところを見ている.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引いた結果,船は今やクレーターとなった.\nこの惑星から出る,別の手段を見つける必要があるだろう.</EscapeShipLost>
+
+  <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>キャラバン隊は,{0}と会いました.</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>{0}は {1}からきたキャラバン隊と平和的に出会いました.もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
+  <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>商取引できるメンバーがいない</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
+  <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>拠点の近く,{0},特別な取引を,あなたに持ちかけてきました.購入品:\n\n  {1} (価値 {2})\n\n見返りとして提示額:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求した品と共にキャラバン隊を送ります.到着までに必要な時間は{6}.この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>要求: {0}({3}),報酬: {1}({4}) (残り{2})</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>汚れなし</NotTainted>
+
+  <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>{0}からの ゆすり,たかり</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>{0}は,{1}から来た{2} {4}グループから待ち伏せされました.次の品を渡さないと攻撃されます:\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>渡して通る</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
+  <CaravanDemand_Fight>断固拒否,戦う</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>もうクエストは存在しません</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>もうクエストは存在しません</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>もう{0}とは敵対していないので,{1}は存在しません.</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>もう{0}とは敵対していないので,下記の物は存在しません.</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+
+  <!-- UNUSED -->
+  <LetterLabelPsychicDrone>サイコドローン</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>入植者の全{0}が痛みに顔をしかめます!\n\n少し遠い所にある 憎悪エンジンが 活発に活動しています.それは この一帯に 強力な サイコドローンを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当悪くなります.\n\nドローンレベル:{1}</LetterIncidentPsychicDrone>
+  <LetterLabelPsychicSoothe>サイコスード</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>入植者の全{0}が満足なほほえみを浮かべます！\n\n少し遠い所にある 幸福エンジンが 活発に活動しています. それは この一帯に 強力な サイコスードを 照射していますが,{0}だけに 影響をおよぼしているようです.数日のうちに その人々の"心情"は 相当良くなります.</LetterIncidentPsychicSoothe>
+  <RefugeeChasedTitle>{0}への亡命者</RefugeeChasedTitle>
+  <RefugeeChasedInitial>{PAWN_nameDef}という名の[PAWN_title]が近くから,あなたを呼んでいます.{PAWN_pronoun}は,{3}の{2}に追われています!\n\n{PAWN_pronoun}は,身の安全を求め,あなたのコロニーに加わりたいと命乞いをしています.{PAWN_pronoun}は,年齢が{4}歳で...それ以上の情報を聞き出す時間がありませんでした.\n\n【注意】:あなたが承知すると,[PAWN_possessive]背後の{2}と戦わないといけません.次で構成されています:\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>身の安全を申し出る</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>メッセージを無視する</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>あなたが通信装置を切る間際,{1_labelShort}の 絶望してパニックを起こした叫び声が,スピーカから聞こえてきた.</RefugeeChasedRejected>
+  <JourneyOffer>Charlon Whitestoneと言う名前の友好的なAIが,あなたにメッセージを送ってきました!\n\n彼は惑星上に秘匿された宇宙船を持っており,その座標をあなたに送る意志を明らかにしました.\n\n現在の宇宙船は深い休止状態となっています.あなたがそこに到着して起動し,起動シーケンスが完了するまで,それを盗みにくる襲撃者から守ります.\n\nもしあなたが,その宇宙船を離陸させることができたら,Charlonは,あなたをrimworldから脱出させてくれるでしょう.</JourneyOffer>
+
+</LanguageData>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>すり切れた服を着ている</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>私の格好は,ちょっとひどい.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>ボロボロの服を着ている</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>私はぼろをまとっている.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <!-- EN: tainted {0} -->
+  <DeadMansApparel.stages.tainted.label>死者{0}の遺服</DeadMansApparel.stages.tainted.label>
+  <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted.description>私は,死人が着ていた服を着ている,気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted.description>
+  <!-- EN: tainted {0} (+1) -->
+  <DeadMansApparel.stages.tainted_1.label>死者{0}の遺服 (+1)</DeadMansApparel.stages.tainted_1.label>
+  <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_1.description>私は,死人が着ていた服を二枚着ている.気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted_1.description>
+  <!-- EN: tainted {0} (+2) -->
+  <DeadMansApparel.stages.tainted_2.label>死者{0}の遺服 (+2)</DeadMansApparel.stages.tainted_2.label>
+  <!-- EN: I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_2.description>私は,死人が着ていた服を三枚着ている.気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted_2.description>
+  <!-- EN: tainted {0} etc -->
+  <DeadMansApparel.stages.tainted_etc.label>死者{0}の遺服 (etc)</DeadMansApparel.stages.tainted_etc.label>
+  <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_etc.description>私は,死人が着ていた服を三枚以上着ている.気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted_etc.description>
+  
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>冷える</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>寒くて不快だ.</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>寒い</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>とても寒いうえに,ガタガタ震えている.</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>寒くて痺れる</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>震えが止まらない.歯がガチガチと鳴っている.暖をとることばかり考えている.</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>凍える</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>歯がガチガチと強く鳴っていて,ほとんど話すことができない,足の指先はかじかんでいる.直ぐに暖房を用意して.</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <!-- EN: darkness -->
+  <EnvironmentDark.stages.darkness.label>暗闇</EnvironmentDark.stages.darkness.label>
+  <!-- EN: I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.darkness.description>一時の間,暗闇の中にいた.きにくわない.</EnvironmentDark.stages.darkness.description>
+  
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>暑い</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>暑くて不快,汗をかいている.</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>とても暑い</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>身体が本当にオーバーヒートしている.</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>極度に暑い</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>オーブンの中にいるようだ！,どの位耐えられるかわからない.</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>熱中症</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>体が燃えているようだ.この暑さで死んでしまうのかな.</EnvironmentHot.stages.blistering_hot.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>{0}の人革</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>他人の苦痛を身にまとうことを味わっている.</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>{0}の人革 (+1)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>これで脅せるだろう.私の力を知るがイイ</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>{0}の人革 (+2)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>服に浮かぶ人の顔は,笑ってはいないが,私を,愉快にさせてくれる.</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>{0}の人革 (etc)</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>これこそ人革!! 人革は勝利の証だ!</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>{0}の人皮</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparelSad.stages.human_leather.description>人皮製の服を着ていると不安になる.誰が,こんな服を着させてるの？</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>{0}の人皮 (+1)</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>狂人のような格好をさせられている.</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>{0}の人皮 (+2)</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>この服の,ここが,人の顔だと思うんだ.マジか,私の服が人の顔になっている.</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>{0}の人皮 (etc)</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>私は,ホラー映画から飛び出してきた変人のようで,ホラー映画の主人公のようだ.</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- UNUSED -->
+  <LowExpectations.stages.skyhigh_expectations.label>空まで高い将来への意気込み</LowExpectations.stages.skyhigh_expectations.label>
+  <LowExpectations.stages.skyhigh_expectations.description>ここは本当に豊かな場所だ.とても心地良い場所にさせてくれる筈だ.</LowExpectations.stages.skyhigh_expectations.description>
+  <LowExpectations.stages.high_expectations.label>希望が高い将来への意気込み</LowExpectations.stages.high_expectations.label>
+  <LowExpectations.stages.high_expectations.description>ここは,だいたい豊かな場所だ.私の望むことが,できない訳がない.</LowExpectations.stages.high_expectations.description>
+  <LowExpectations.stages.moderate_expectations.label>適度な将来への意気込み</LowExpectations.stages.moderate_expectations.label>
+  <LowExpectations.stages.moderate_expectations.description>ここは,本当に豊かな土地とはいえない.すっかり好きなようにする期待は出来そうにない.</LowExpectations.stages.moderate_expectations.description>
+  <LowExpectations.stages.low_expectations.label>希望が低い将来への意気込み</LowExpectations.stages.low_expectations.label>
+  <LowExpectations.stages.low_expectations.description>ここは多くの満足をもたらす富があるとは思えない土地だ.すばらしく住みよい期待はできない.</LowExpectations.stages.low_expectations.description>
+  <LowExpectations.stages.very_low_expectations.label>希望がとても低い将来への意気込み</LowExpectations.stages.very_low_expectations.label>
+  <LowExpectations.stages.very_low_expectations.description>この土地は非常に貧しい,ここで豊かに暮らせるとは期待できない.だからこそ,心を強く持たなければ…</LowExpectations.stages.very_low_expectations.description>
+  <LowExpectations.stages.extremely_low_expectations.label>希望が極めて低い将来への意気込み</LowExpectations.stages.extremely_low_expectations.label>
+  <LowExpectations.stages.extremely_low_expectations.description>私は避難設備なしでここに降りた.だからこそ,生きのびるには,鋼の心でとりかからないと...</LowExpectations.stages.extremely_low_expectations.description>
+  
+  <!-- EN: sick -->
+  <Sick.stages.sick.label>病気になった</Sick.stages.sick.label>
+  <!-- EN: I don't feel very well. -->
+  <Sick.stages.sick.description>気分が悪い,病気のようだ.</Sick.stages.sick.description>
+  
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>TODO</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>TODO</WrongApparelGender.stages.wearing_apparel.description>
+  
+</LanguageData>

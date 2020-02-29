@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cloth -->
+  <Cloth.label>布</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.description>木綿繊維を編んで作った布です.</Cloth.description>
+  
+  <!-- EN: devilstrand -->
+  <DevilstrandCloth.label>デビルストランド</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>デビルストランドマッシュルームから抽出したマイクロファイバーを紡いで繊維にしました.非常に頑丈で,断熱効果もよく,炎に対してもよく保護してくれます.</DevilstrandCloth.description>
+  
+  <!-- EN: gold -->
+  <Gold.label>ゴールド</Gold.label>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>全金属中で,もっとも人々の目を惹き付ける金属です.とても柔らかく実用的なのに,その際だった美しさが曇りません.何百万というヒトが,ゴールドへの飽くなき欲求を満たそうと死んできました.</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>金製</Gold.stuffProps.stuffAdjective>
+  
+  <!-- EN: hyperweave -->
+  <Hyperweave.label>ハイパーウィーブ </Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.description>ナノファイバーを分子間同士で織り込み,メカナイト製造に専門的に使用されます.何も無いときは柔軟ですが,衝撃を受けると吸収するために硬化し,信じられないくらい切れにくくなります.この製造方法の秘密は,最も進化したGlitterworldだけにしか知られていません.</Hyperweave.description>
+  
+  <!-- EN: jade -->
+  <Jade.label>ヒスイ</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.description>硬い,緑色の石.美しくて貴重なために,ヒスイはよく装飾な飾りに用いられます.その堅さと密度の高さから,優れた殴打武器の素材として使用されます.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>ヒスイ製</Jade.stuffProps.stuffAdjective>
+  
+  <!-- EN: plasteel -->
+  <Plasteel.label>プラスチール</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>ユニークな分子構造により 極めて強い高度な航宙艦構造素材です.</Plasteel.description>
+  
+  <!-- EN: silver -->
+  <Silver.label>シルバー</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>この金属は主に通貨として使われます.また,装飾物を作る為にも使われます.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>銀製</Silver.stuffProps.stuffAdjective>
+  
+  <!-- EN: steel -->
+  <Steel.label>スチール</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>炭素鋼は,非常の多くの種類,建造物,武器,そして機械をつくるために使われます.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>鉄製</Steel.stuffProps.stuffAdjective>
+  
+  <!-- EN: synthread -->
+  <Synthread.label>シンスレッド</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.description>進んだテクノロジーは,適した衣服を作る合成繊維を開発しました,それは柔らかで,軽く,強く,熱を逃がしません.</Synthread.description>
+  
+  <!-- EN: uranium -->
+  <Uranium.label>ウラン</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>色の黒い,重金属.最適な核燃料として知られ,その極めて高い密度と硬度が,信頼できる原始的な武器や防具を作るのに適しています.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>ウラニウム製</Uranium.stuffProps.stuffAdjective>
+  
+  <!-- EN: wood -->
+  <WoodLog.label>木材</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>樹木や他繊維状植物から採取した木材.建造物や武器を作るのに使われます.キャンプファイヤーや発電器の燃料としても適し,バイオ燃料に精製することも可能です.イザと言うときは,角材が,武器や脚としても使うことも可能です.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
+  
+  <!-- EN: alpaca wool -->
+  <WoolAlpaca.label>アルパカ毛</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
+  <WoolAlpaca.description>注目に値する程柔らかいアルパカの毛です.</WoolAlpaca.description>
+  
+  <!-- EN: bison wool -->
+  <WoolBison.label>TODO</WoolBison.label>
+  <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
+  <WoolBison.description>TODO</WoolBison.description>
+  
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>メガスロス毛</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>若干,ざらざらしているのに,メガスロスの長い毛足は非常に上部で,とくに暖かいです.</WoolMegasloth.description>
+  
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>マッファロ毛</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>柔らかく,軽い,とても良い断熱材です.毛で編んだ服は,どんな過酷な状況でも身体を温めておくことができます.</WoolMuffalo.description>
+  
+  <!-- EN: sheep wool -->
+  <WoolSheep.label>ラクダ毛</WoolSheep.label>
+  <!-- EN: Sheep's wool. It provides good insulation. -->
+  <WoolSheep.description>砂漠を旅する者たちは,熱波から自分を守るために,ラクダの毛で編んだ服をたいてい着ています.それは,毛のもつ自動温度調節機能によって素晴らしい遮熱効果をもたらすからです.</WoolSheep.description>
+  
+</LanguageData>

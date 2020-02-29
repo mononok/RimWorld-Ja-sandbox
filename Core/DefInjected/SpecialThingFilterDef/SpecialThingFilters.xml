@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>入植者の遺体を許可</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>入植者の遺体を許可します.</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>不審者の死体を許可</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>敵や不審者の死体を許可します.</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>穢れた衣服を許可</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>死体が,一度でも着用したことのある衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>新鮮を許可</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>腐敗していない,新鮮な有機物を許可します.</AllowFresh.description>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>穢れない衣服を許可</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>死体が,一度も着用したことの無い衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>不溶解な武器を許可</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>飼料を許可</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>干し草のような,食物同然な価値を持つ植物を許可します.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>腐敗を許可 </AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>腐敗した有機物を許可します.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>溶ける武器を許可</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  
+</LanguageData>

@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
+  <MessageSiegersAssaulting>{1}の{0}は コロニーへ包囲攻撃します.</MessageSiegersAssaulting>
+
+  <!-- EN: {0} from {1} are beginning their assault. -->
+  <MessageRaidersBeginningAssault>{1}の{0}は 襲撃を開始します.</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
+  <MessageRaidersDetectedEarlyAssault>{1}の{0}は あなたの斥候を発見したので襲撃を早めます.</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
+  <MessageRaidersKidnapping>{1}の{0}は 誰かを連れ去ることに決めました.</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
+  <MessageRaidersStealing>{1}の{0}は 何かを略奪することに決めました.</MessageRaidersStealing>
+
+  <!-- EN: {0} from {1} are leaving. -->
+  <MessageRaidersLeaving>{1}の{0}は 離れました.</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
+  <MessageRaidersGivenUpLeaving>{1}の{0}は 襲撃を諦め離脱しています.</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
+  <MessageRaidersSatisfiedLeaving>{1}の{0}は 成果に満足し離脱しています.</MessageRaidersSatisfiedLeaving>
+
+  <!-- EN: {0} from {1} are fleeing. -->
+  <MessageFightersFleeing>{1}の{0}は 逃げています.</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
+  <MessageFriendlyFightersLeaving>友軍{1}の{0}は 離脱しています.</MessageFriendlyFightersLeaving>
+
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
+  <MessageVisitorsTakingWounded>{1}の{0}を 怪我したゲストとして迎えます.</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
+  <MessageVisitorsTrappedLeaving>{1}の{0}は 閉じ込められたので脱出を試みています.</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
+  <MessageVisitorsDangerousTemperature>{1}の{0}は 危険な気温に達したので離脱しています.</MessageVisitorsDangerousTemperature>
+
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>{1}が身に着けていた{0}は ボロボロになって着れなくなりました.</MessageWornApparelDeterioratedAway>
+  <!-- EN: {0} has deteriorated away in storage. -->
+  <MessageDeterioratedAway>TODO</MessageDeterioratedAway>
+
+  <!-- EN: {0} has begun. -->
+  <MessageSeasonBegun>{0}が 始まります.</MessageSeasonBegun>
+
+  <!-- EN: {0} has left comms range. -->
+  <MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました.</MessageShipHasLeftCommsRange>
+
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
+  <MessageNeedBeaconToTradeWithShip>商船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
+
+  <!-- EN: {0} has been destroyed. -->
+  <MessageConditionCauserDespawned>TODO</MessageConditionCauserDespawned>
+  
+  <!-- EN: Bill complete: {0}. -->
+  <MessageBillComplete>作業終了：{0}</MessageBillComplete>
+
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>{1_label}の怪我が完治しました.</MessageFullyHealed>
+
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>囚人{1_labelShort} は逃げ出しています.</MessagePrisonerIsEscaping>
+
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort}は {GUN_label}に使う弾薬を見つけていません.</MessageOutOfNearbyShellsFor>
+
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
+  <MessageAnimalsGoPsychoHunted>【警告】: {ANIMAL_kindBasePlural}は ライフル射程から危害を被ると {1} で逆襲してきます.より近いと更に上昇します.上手いハンターは確率を下げます.</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>【警告】: {ANIMAL_kindBasePlural}は 手なずけるのに失敗すると,よく襲ってきます.({1})</MessageAnimalManhuntsOnTameFailed>
+  
+  <!-- EN: New recruit -->
+  <LetterLabelMessageRecruitSuccess>新人</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull}は 囚人{RECRUITEE_nameFull}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
+  <MessageTameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}). そして {RECRUITEE_objective} {RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
+
+  <!-- EN: The colony cannot afford this deal. -->
+  <MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません.</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
+  <MessageColonyNotEnoughSilver>取引するのに十分な量のシルバーを準備できていません.</MessageColonyNotEnoughSilver>
+
+  <!-- EN: Critical alert: {0} -->
+  <MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
+
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください.</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestableWood>木材として 十分に成長した 樹木を 指定してください.</MessageMustDesignateHarvestableWood>
+  <!-- EN: Must designate plants. -->
+  <MessageMustDesignatePlants>植物を 指定してください.</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
+  <MessageMustDesignateHaulable>運搬する アイテムを 指定してください.いくつかのアイテムは常に運搬できるので, これらを指定することは出来ません.</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
+  <MessageMustDesignateMineable>採掘できる 岩石を 指定してください.</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
+  <MessageMustDesignateHuntable>狩猟対象にする 動物を 指定してください.</MessageMustDesignateHuntable>
+  <!-- EN: Must designate tameable animals. -->
+  <MessageMustDesignateTameable>手なずける 動物を 指定してください.</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned artificial structures. -->
+  <MessageMustDesignateClaimable>放棄された 構造物を 指定してください.</MessageMustDesignateClaimable>
+  <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
+  <MessageMustDesignateDeconstructibleMechCluster>TODO</MessageMustDesignateDeconstructibleMechCluster>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>粗い岩の表面を 指定してください.</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Nothing can remove thick roofs. -->
+  <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません.</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
+  <MessageAlreadyInStorage>既に保管庫になっています,必要ならより優先度を高くすることができます.</MessageAlreadyInStorage>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
+  <MessageMustDesignateStrippable>衣服を着た,死体や心肺停止のキャラクターを指定してください.</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
+  <MessageMustDesignateSlaughterable>手なずけてある動物を指定してください.</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
+  <MessageMustDesignateOpenable>充分に詰まっている墓地や容器を指定してください.</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>禁止されていないアイテムを指定してください.</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>禁止されたアイテムを指定してください.</MessageMustDesignateUnforbiddable>
+
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>{1_labelShort}は 逮捕を拒否しました.</MessageRefusedArrest>
+  
+  <!-- EN: There are no medical beds available. -->
+  <MessageNoMedicalBeds>利用可能な医療用ベッドがありません.</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
+  <MessageNoAnimalBeds>利用可能な動物用ベッドがありません.</MessageNoAnimalBeds>
+  <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
+  <MessageTooLowMedCare>処置には {0}より上が必要ですが,{PAWN_labelShort}の治療レベルは "{2}"となっています.</MessageTooLowMedCare>
+  
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>{PAWN_labelShort}は命を落としました.原因: {1}</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>{1_labelShort}は命を落としました.</PawnDied>
+
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>{1_label}は 自由に歩き回れるようになりました.</MessageNoLongerDowned>
+
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
+
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
+
+  <!-- EN: This operation will anger {0}. -->
+  <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
+
+  <!-- EN: {0} has miscarried due to starvation. -->
+  <MessageMiscarriedStarvation>{0}は 飢えにより流産しました.</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
+  <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
+  <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
+  
+  <!-- EN: {PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsychicAmplifierNoSensitivity>TODO</MessagePsychicAmplifierNoSensitivity>
+  <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
+  <MessageLostImplantLevelFromHediff>TODO</MessageLostImplantLevelFromHediff>
+  <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
+  <MessageReceivedBrainDamageFromHediff>TODO</MessageReceivedBrainDamageFromHediff>
+  <!-- EN: {PAWN_labelShort} has exceeded the safe limit of psychic entropy. -->
+  <MessageWentOverPsychicEntropyLimit>TODO</MessageWentOverPsychicEntropyLimit>
+
+  <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
+  <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
+
+  <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>{ANIMAL_kindBase}は 誰にも手なずけられません({2}の必要レベル {1},最適任者 {HANDLER_labelShort}でもレベル {4}).</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>{EATEN_labelShort}は {PREDATOR}に喰われました.</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>{PREY_labelShort}は {PREDATOR}に襲われました! </MessageAttackedByPredator>
+  
+  <!-- EN: A bug hive has reproduced itself. -->
+  <MessageHiveReproduced>虫の巣は 自己再生しました.</MessageHiveReproduced>
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
+  <MessageTraderCaravanLeaving>{0}トレーダーの一行は 離れていきました.</MessageTraderCaravanLeaving>
+  
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>{1_labelShort}は 死んでいます.</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>{1_labelShort}は マップ外にいます.</MessageCantSelectOffMapPawn>
+  
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>{PAWN1_labelShort}は {PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
+  
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <MessageNewMarriageCeremony>入植者たちは,{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式を祝うために集いました.</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式が始まりました!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式は,お流れになってしまいました.</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>{PAWN1_labelShort}と {PAWN2_labelShort}は 家庭を持ちました.入植者たちは,この出来事を喜んでいます.</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort}と {PAWN2_labelShort}との結婚の儀式は,すべて無事に執り行われました.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>{HUMAN_labelShort}と {ANIMAL_labelShort}は絆で結ばれました.</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>{HUMAN_labelShort}と {1}は絆で結ばれました.{HUMAN_labelShort}は{ANIMAL_objective} {ANIMAL_nameFull}名付けました.</MessageNewBondRelationNewName>
+  
+  <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>{ANIMAL}は {HUMAN_labelShort}の死をきっかけにして,精神崩壊を起こしました.</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_label}と名づけられた{ANIMAL_kindIndef}は {HUMAN_labelShort}の死をきっかけにして精神崩壊を起こしました.</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>{0}たちは {HUMAN_labelShort}の死をきっかけにして精神崩壊を起こしました.</MessageBondedAnimalsMentalBreak>
+  
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}は {PATIENT_labelShort}の{HEDIFF}を 取り除くのに成功しました.</MessageSuccessfullyRemovedHediff>
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
+  <MessageShipChunkDrop>宇宙船の残骸が近くに落ちました.あなたは資源を得る為に,それを分解することができます.</MessageShipChunkDrop>
+
+  <!-- EN: Some items cannot be traded because of:  -->
+  <MessageCannotSellItemsReason>以下の理由で取引できません：</MessageCannotSellItemsReason>
+
+  <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>{WORKER_labelShort}は {0}の建造に失敗し,いくつかの資源が無駄になりました.</MessageConstructionFailed>
+
+  <!-- EN: Screenshot saved as: {0} -->
+  <MessageScreenshotSavedAs>スクリーンショットを保存しました: {0}</MessageScreenshotSavedAs>
+  
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort}と {PAWN2_labelShort}は, もうケンカをやめました.</MessageNoLongerSocialFighting>
+  
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>{2_labelShort}は もう{1}を浪費することをやめました.</MessageNoLongerBingingOnDrug>
+
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}は もう{TARGET_label}に侮辱や放言はしません.</MessageNoLongerOnTargetedInsultingSpree>
+
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>{1_label}は , 備蓄ゾーンの中で腐敗しました.</MessageRottedAwayInStorage>
+  
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>{PAWN_labelShort}は ,{FOOD_labelShort}の食中毒を起こしました.発生原因：{2}</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>{0}は キャラバン隊から取り除かれてしまった.</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>キャラバン隊の編成プロセスは終了しましたた.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
+  <MessageCaravanFormationPaused>キャラバン隊の編成プロセスは ,全員が精神崩壊より回復するときまで延長されるだろう.</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
+  <MessageCaravanFormationUnpaused>入植者達は キャラバン隊編成を続けようとしています.</MessageCaravanFormationUnpaused>
+  
+  <!-- EN: One of the caravan members has had a mental break. -->
+  <MessageCaravanMemberHasExtremeMentalBreak>キャラバン隊メンバーの一人が精神崩壊しました.</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
+  <MessageMaxPlanetCoveragePerformanceWarning>警告:惑星データの生成に 非常に長い処理時間を要します.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <!-- EN: {0} has died because of cold. -->
+  <MessagePlantDiedOfCold>{0}は 凍って枯れました.</MessagePlantDiedOfCold>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
+  <MessagePlantDiedOfRot_LeftUnharvested>{0}は 収穫されなかった為に腐って枯れました.</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
+  <MessagePlantDiedOfRot_ExposedToLight>{0}は 陽にあたって枯れました.</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
+  <MessagePlantDiedOfRot>{0}は 腐って枯れました.</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
+  <MessagePlantDiedOfPoison>{0}は 毒によって枯れました.</MessagePlantDiedOfPoison>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>{1_label}は 疫病によって枯れました.</MessagePlantDiedOfBlight>
+
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>{1_labelShort}は 高温に熱した大気で熱傷を負いました.</MessagePawnBeingBurned>
+
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>{INGESTER}は {DRUG_labelShort}を誤って過剰摂取しました!</MessageAccidentalOverdose>
+  
+  <!-- EN: {0} has arrived at its destination. -->
+  <MessageCaravanArrivedAtDestination>{0}は 目的地に到達しました</MessageCaravanArrivedAtDestination>
+  
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}は キャラバン隊を組んで,このエリアを後にしました.</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>あなた達の動物は加わるために移動しています.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
+  <MessageSettledInExistingMap>あなたは新しいエリアで定住する事に成功しました.</MessageSettledInExistingMap>
+  
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{PAWN_labelShort}の{2}は 治療されました.原因：{0}</MessagePermanentWoundHealed>
+  
+  <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
+  <MessageRescueeDidntJoin>TODO</MessageRescueeDidntJoin>
+  
+  <!-- EN: Some transport pods are unreachable. -->
+  <MessageTransporterUnreachable>いくつかの輸送ポッドは到達できません.</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
+  <MessageTransportersNotAdjacent>全てのポッドランチャーは輸送ポッドの隣に配置してください.</MessageTransportersNotAdjacent>
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
+  <MessageTransportersLoadCanceled_TransporterDestroyed>輸送ポッドの一つが破壊されたので荷積み作業は中止されました.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>TODO</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ポッドランチャーの一つが破壊されたので荷積み作業は中止されました.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
+  <MessageTransportersLoadingProcessStarted>入植者達は 輸送ポッドに指定のアイテムを積み込もうとします.</MessageTransportersLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <MessageTransporterSingleLoadingProcessStarted>TODO</MessageTransporterSingleLoadingProcessStarted>
+  
+  <!-- EN: Your transport pods have arrived. -->
+  <MessageTransportPodsArrived>輸送ポッドは到着しました.</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
+  <MessageTransportPodsArrivedAndLost>輸送ポッドは,いま到着しましたが,入植者が一人も乗っていないため,荷物は失われました.</MessageTransportPodsArrivedAndLost>
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
+  <MessageTransportPodsArrivedAndAddedToCaravan>あなたの輸送ポッドは,いま到着しました.積み荷は{0}に追加されました.</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <!-- EN: Transport pod loading complete. Launch when ready. -->
+  <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
+  <!-- EN: Shuttle is loaded with required cargo and can launch when ready. -->
+  <MessageFinishedLoadingTransporterSingle>TODO</MessageFinishedLoadingTransporterSingle>
+
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  
+  <!-- EN: Selected destination is invalid. -->
+  <MessageTransportPodsDestinationIsInvalid>目的地が不正です.</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
+  <MessageTransportPodsDestinationIsTooFar>それぞれのポッドランチャーは輸送ポッドを飛ばすのに少なくても x{0}の燃料を必要とします.</MessageTransportPodsDestinationIsTooFar>
+  
+  <!-- EN: The caravan has been reformed. -->
+  <MessageReformedCaravan>キャラバン隊を再編成しました.</MessageReformedCaravan>
+  
+  <!-- EN: You can't banish the last colonist. -->
+  <MessageCantBanishLastColonist>最後の一人を追放することはできません.</MessageCantBanishLastColonist>
+
+  <!-- EN: Cannot equip: {0}. -->
+  <MessageCantEquipCustom>TODO</MessageCantEquipCustom>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>装備不可:{1_labelShort}は暴力を否定しています.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: Incapable. -->
+  <MessageCantEquipIncapableOfManipulation>装備不可:欠点に該当しています.</MessageCantEquipIncapableOfManipulation>
+  <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
+  <MessageCantWearApparelMissingBodyParts>TODO</MessageCantWearApparelMissingBodyParts>
+  <!-- EN: This person refuses to remove this. -->
+  <MessageCantUnequipLockedApparel>TODO</MessageCantUnequipLockedApparel>
+  <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
+  <MessageWouldReplaceLockedApparel>TODO</MessageWouldReplaceLockedApparel>
+  
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>{DESIGNATED_labelShort}を 屠殺しようとすると 絆がある{BONDED_labelShort}を 不満にさせるでしょう.</MessageSlaughteringBondedAnimal>
+  
+  <!-- EN: {0} has run out of food ({PAWN_label}). -->
+  <MessageCaravanRanOutOfFood>{0}は 食料を食べ尽くしました({PAWN_label}).</MessageCaravanRanOutOfFood>
+  <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
+  <MessageCaravanDeathCorpseAddedToInventory>TODO</MessageCaravanDeathCorpseAddedToInventory>
+
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
+  <MessageSelectOwnBaseToFormCaravan>キャラバン隊を編成するには自身の入植者を選択してください.</MessageSelectOwnBaseToFormCaravan>
+
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
+  <MessageScreenResTooSmallForUIScale>この解像度とUIスケールでは ゲームインターフェースが はみ出してしまいます. UIスケールを下げるか解像度を上げてください.</MessageScreenResTooSmallForUIScale>
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
+  <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.</MessageYouHaveToReformCaravanNow>
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
+  <!-- EN: Mechanoids have been assembled and are attacking. -->
+  <MessageMechanoidsAssembled>TODO</MessageMechanoidsAssembled>
+  <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
+  <MessageMechanoidsReinforcementsDrop>TODO</MessageMechanoidsReinforcementsDrop>
+
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>自己治療をする為には {1_labelShort}に 医者の作業を割り当てていなければなりません.</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>{1_labelShort}は 医者の作業を行う能力に欠けています. よって自己治療ができません.</MessageCannotSelfTendEver>
+  
+  <!-- EN: This tile is impassable. -->
+  <MessageCantAddWaypointBecauseImpassable>このタイルは通行不能です.</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
+  <MessageCantAddWaypointBecauseUnreachable>最後のウェイポイントから,このタイルに到達することは不可能です.</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
+  <MessageCantAddWaypointBecauseLimit>{0}個以上のウェイポイントを追加することはできません.</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
+  <MessageCantRemoveWaypointBecauseFirst>このウェイポイントは削除できません.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>暴力行為を行える看守が一人もいません.処刑を行う事ができませんでした.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
+  <MessageSiteCountdownBecauseNoMoreEnemies>あなたは全ての敵を倒しました.{0},キャラバン隊は自動的に編成されます.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
+  <MessageSiteCountdownBecauseNoEnemiesInitially>{0} キャラバン隊は自動的に再編成されます.「World」画面で,ただちに再編成を行わせることもできます.</MessageSiteCountdownBecauseNoEnemiesInitially>
+
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>{1_labelShort}は 歩けなくなって以来,追放することは出来ません.</MessageCantBanishDownedPawn>
+
+  <!-- EN: {0} have woken up. -->
+  <MessageSleepingPawnsWokenUp>{0}は 目を覚ました.</MessageSleepingPawnsWokenUp>
+  <!-- EN: Mech cluster buildings have been defeated. -->
+  <MessageMechClusterDefeated>TODO</MessageMechClusterDefeated>
+
+  <!-- EN: Item produced: {0}. -->
+  <MessageCompSpawnerSpawnedItem>アイテムを生産しました：{0}</MessageCompSpawnerSpawnedItem>
+
+  <!-- EN: Health condition healed: {0}. -->
+  <MessageHediffCuredByItem>健康を回復しました：{0}</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
+  <MessageBodyPartCuredByItem>身体パーツを修復しました：{0}</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
+  <MessageResearchProjectFinishedByItem>テクノロジーが与えられました：{0}</MessageResearchProjectFinishedByItem>
+
+  <!-- EN: {0} has been brought back to life! -->
+  <MessagePawnResurrected>{0}は 息を吹き返した!</MessagePawnResurrected>
+
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>{PAWN_labelShort}の 命を救えなかった. {RELATIVE_labelShort}を悲しませるだろう.</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>{PAWN_labelShort}を救えた. {RELATIVE_labelShort}を喜ばせるだろう.</MessageRescuedRelative>
+
+  <!-- EN: The tornado has left the map. -->
+  <MessageTornadoLeftMap>竜巻は去りました.</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
+  <MessageTornadoDissipated>竜巻は散り散りになりました.</MessageTornadoDissipated>
+
+  <!-- EN: No conscious, capable diplomat. -->
+  <MessagePeaceTalksNoDiplomat>意識も外交能力もありません.</MessagePeaceTalksNoDiplomat>
+
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
+  <MessageWarningCavePlantsExposedToLight>警告：{0}は陽に当たると生きていけません.</MessageWarningCavePlantsExposedToLight>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort}は {OLDTARGET_label}まで辿り着けなかったので {PAWN_pronoun}は怒りの矛先を{TARGET_label}に向けることにしました.</MessageTargetedTantrumChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort}は {OLDTARGET_label}まで辿り着けなかったので {PAWN_pronoun}は怒りの矛先を{TARGET_label}に向けることにしました.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort}は 怒りの矛先を{TARGET_label}に向けることにしました.</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>{0}は 屋根の下では育つことは出来ません.</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>{0}の上に 屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: Caravan will automatically travel to the first waypoint. -->
+  <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>このマップから離れることができません.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>{0}との関係が {1}から{2}へと変わりました.</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>{0}との関係が {1}から{2}へと変わりました.({3}).</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>{1_labelShort}を 攻撃しました.</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>{TARGET_labelShort}に {ITEM_labelShort}を使いました.</GoodwillChangedReason_UsedItem>
+  <!-- EN: used {0} on {1} -->
+  <GoodwillChangedReason_UsedAbility>TODO</GoodwillChangedReason_UsedAbility>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>{0}を 摘出しました.</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: downgraded {0} -->
+  <GoodwillChangedReason_DowngradedImplant>TODO</GoodwillChangedReason_DowngradedImplant>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>{0}を 不必要にインストールしました.</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>{1_labelShort}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>{1_labelShort}は 死にました.</GoodwillChangedReason_PawnDied>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>売買されました.</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>キャラバン隊が攻撃されました.</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: natural tendency to reach {0} over time -->
+  <GoodwillChangedReason_NaturallyOverTime>時間が経つ毎に {0}に向かいます.</GoodwillChangedReason_NaturallyOverTime>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort}は 元気になってマップから出て行きました.</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>{1_labelShort}の 世話をします.</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>貢ぎ物を受け取りました.</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>相手の条件を満たしました.</GoodwillChangedReason_FulfilledTradeRequest>
+  <!-- EN: finished a quest -->
+  <GoodwillChangedReason_FinishedQuest>TODO</GoodwillChangedReason_FinishedQuest>
+  <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
+  <GoodwillChangedReason_UsedForbiddenThing>TODO</GoodwillChangedReason_UsedForbiddenThing>
+  <!-- EN: sold {0_labelShort} -->
+  <GoodwillChangedReason_SoldPawn>TODO</GoodwillChangedReason_SoldPawn>
+  <!-- EN: euthanized {PAWN_labelShort} -->
+  <GoodwillChangedReason_EuthanizedPawn>TODO</GoodwillChangedReason_EuthanizedPawn>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>キャラバン隊は 既に身動きとれないので これ以上運ぶ事はできません.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>キャラバン隊は これ以上運ぶ事はできません. 贈り物重量は{0}ですが キャラバン隊は{1}までしか 運ぶことができません.</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>{0}は 編成を終えて,ワールドマップを旅しています.</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>目的</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}に 運ぶ事ができません.</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}に 運ぶ事ができません.</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>{0}は{2}で"{1}"ができません. 制限ゾーンはもう削除されています.</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>{1}の"{0}"は 削除された備蓄ゾーン{2}を考慮しません.</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>{1}の"{0}"は 存在しない備蓄ゾーン{2}を考慮しません.</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>{1}の"{0}"は 全ての製品を備蓄ゾーン{2}へ運びません.</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>定期的に訓練していなかったので {ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>翻訳ファイルの検証結果を{0}に出力しました.</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: You can't re-enter for another {0} days. -->
+  <MessageEnterCooldownBlocksEntering>あなたは,{0}日間,別の場所に再入場できません.</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {0_labelShort} can now freely use "{1}". -->
+  <MessagePermitCooldownFinished>TODO</MessagePermitCooldownFinished>
+
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR}はエサとして{PREY_definite}を狩っています!</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>囚人{PRISONER_labelShort}の抵抗は {WARDEN_labelShort}によって打ち砕かれました.</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>勧誘を始めよう</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
+  <MessageModWithPackageIdAlreadyEnabled>TODO</MessageModWithPackageIdAlreadyEnabled>
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>このツールを使う前に,全てのMODを無効にしてください.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
+  <MessageUnpackBeforeCleaningTranslationFiles>TODO</MessageUnpackBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folders: {0} -->
+  <MessageTranslationFilesCleanupDone>完了.影響を受けたフォルダー: {0}</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
+
+  <!-- EN: None of your {0} can accept this quest now. -->
+  <MessageNoColonistCanAcceptQuest>TODO</MessageNoColonistCanAcceptQuest>
+  <!-- EN: Cannot accept this quest. -->
+  <MessageCannotAcceptQuest>TODO</MessageCannotAcceptQuest>
+  <!-- EN: {0_definite} has accepted a quest: {1} -->
+  <MessageQuestAccepted>TODO</MessageQuestAccepted>
+  <!-- EN: {0} is leaving. -->
+  <MessagePawnLeaving>TODO</MessagePawnLeaving>
+  <!-- EN: {0} are leaving. -->
+  <MessagePawnsLeaving>TODO</MessagePawnsLeaving>
+
+  <!-- EN: Warning: {0_label} can't be moved once installed. -->
+  <MessageThingInstalledPermanently>TODO</MessageThingInstalledPermanently>
+
+  <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>TODO</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
+  <MessageNoResearchBenchForTechprint>TODO</MessageNoResearchBenchForTechprint>
+
+  <!-- EN: No valid destination found for {0} -->
+  <NoValidDestinationFound>TODO</NoValidDestinationFound>
+  
+  <!-- Research -->
+  <!-- EN: Warning: Research will not begin until you build a research bench. -->
+  <MessageResearchMenuWithoutBench>TODO</MessageResearchMenuWithoutBench>
+
+  <!-- EN: {0_indefinite} has triggered a proximity activator. -->
+  <MessageActivatorProximityTriggered>TODO</MessageActivatorProximityTriggered>
+
+  <!-- EN: {0_label} is currently hidden. -->
+  <MessageCannotSelectInvisibleStat>TODO</MessageCannotSelectInvisibleStat>
+
+  <!-- UNUSED -->
+  <MessagePartyCalledOff>パーティは中止になりました.</MessagePartyCalledOff>
+  <MessagePartyFinished>パーティが終わりました.</MessagePartyFinished>
+  <MessageRescueeJoined>{!_objective}救出したことで{1_labelShort}が あなたのグループに加わりました!</MessageRescueeJoined>
+  <MessageCraftedMasterwork>{WORKER_labelShort}は {CRAFTED_labelShort}を作りました.</MessageCraftedMasterwork>
+
+</LanguageData>

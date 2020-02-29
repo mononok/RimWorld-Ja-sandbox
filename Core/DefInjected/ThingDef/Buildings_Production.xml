@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>製油施設</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>バイオ液化燃料の精製プラントです.木材をバイオ液化燃料に精製します.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>醸造器</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>ビールの原料となる麦汁を混合するのに必要な全ての機器を備えた作業台です.麦汁がビールになるためには発酵が欠かせません.</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>屠殺場</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>動物を屠殺する場所です.設備が欠けているため,ここで屠殺しても,肉や皮は70%しか取れません.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>工芸 作業場</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>ナイフや弓をつくる場所です.道具類が無いので,ここで作成すると作成速度が遅くなります.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>深部ドリルマシン</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>地表下の深部から鉱物資源を採掘する深部地殻用の掘削機です.資源の探査には地殻深部スキャナーを使います.資源が存在しない場合,ドリルは石の塊を採掘します.自由に再配置することができます.</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>ドラッグラボ</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>様々なドラッグを製造するために,いろいろな入れ物や,ヒーター,計測器を備えた作業台です.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>電気火葬炉</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>極めて高温で死骸を気化させる大型の火葬炉です.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>溶鉱炉</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>鉄くずやスラグなどから金属を精錬します.大量の電気を消費します.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>電動工作台</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>機械式ではない武器や道具を鍛造するための,電動式の作業場です.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>電気コンロ</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>食事の準備をする調理台が備え付けられた,電動式のコンロです.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>電動ミシン台</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>この電動ミシン付きの作業台では,素早く衣服を作成できます.電気がないと,通常の50%に作成速度が落ちます.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>コンポーネント工作台</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>単純な素材から,科学技術の粋を集めた製品を生み出す先進的な道具が備えられた作業台です.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>ビア樽</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>麦汁を発酵させてビールにするためのビア樽です.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>工作台</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>機械式ではない武器や道具を鍛造するための,燃料に薪を使った作業場です.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>カマド</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>食事の準備をする調理台が備え付けられた,燃料に薪を使ったコンロです.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>ミシン台</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>手縫いの衣服を仕立てるための作業台です.電動ミシン台と比べて作業速度は50%しかありません.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>ハイテク 研究設備</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>コンピュータと電子計測器を備えた最先端の設備です.より迅速な研究を可能にし,高度な研究プロジェクトの解禁も行います.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>食材ホッパー</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>ペースト ディスペンサのような機器を使うために資源を保持します.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>水耕栽培器</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>植物を育成するための人工培養容器です.培養ポンプは作動し続けなければなりません;もし電力が落ちると植物は枯れるでしょう.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>ペースト ディスペンサ</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>有機原料から栄養補給ペーストを合成する機械で,食材ホッパーの隣に置きます.料理するのに比べて,より少ない原料と時間で済みます.しかし栄養補給ペーストを好んで食べたがる人は一人も居ません.生の食材は原料になりますが,干し草などの植物は原料になりません.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>研究設備</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>筆記用具と単純な計測器を備えた簡素な作業台です.研究者は新たな発見のためにここで活動します.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>食肉加工台</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>死んだ生物を,小さい生肉の塊に加工する大きなテーブルです.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>精密工作機械</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>銃や弾薬といった機械類を組み立てたり、機能停止したメカノイドを分解するための作業台です.</TableMachining.description>
+  
+  <!-- EN: art bench -->
+  <TableSculpting.label>彫刻台</TableSculpting.label>
+  <!-- EN: A workbench equipped for creating art. -->
+  <TableSculpting.description>この彫刻台を使って,芸術作品を生み出します.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>ストーン カッター</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>石の塊を切断して使いやすい石材にするためのノコギリやノミが備わった作業台です.</TableStonecutter.description>
+  
+</LanguageData>

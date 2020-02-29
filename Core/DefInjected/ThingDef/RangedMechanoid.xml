@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge blaster shot -->
+  <Bullet_ChargeBlasterHeavy.label>ブラスター弾</Bullet_ChargeBlasterHeavy.label>
+  
+  <!-- EN: inferno cannon shell -->
+  <Bullet_InfernoCannon.label>焼夷弾</Bullet_InfernoCannon.label>
+  
+  <!-- EN: needle shot -->
+  <Bullet_NeedleGun.label>TODO</Bullet_NeedleGun.label>
+  
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.label>重ブラスター砲</Gun_ChargeBlasterHeavy.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. -->
+  <Gun_ChargeBlasterHeavy.description>メカノイド製の制圧用ブラスター兵器です.</Gun_ChargeBlasterHeavy.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>銃身</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>重ブラスター砲</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.label>焼夷弾投射器</Gun_InfernoCannon.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannon.description>メカノイド製の焼夷弾投射器です.</Gun_InfernoCannon.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannon.tools.barrel.label>銃身</Gun_InfernoCannon.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>焼夷弾投射器</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: needle gun -->
+  <Gun_Needle.label>TODO</Gun_Needle.label>
+  <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
+  <Gun_Needle.description>TODO</Gun_Needle.description>
+  <!-- EN: barrel -->
+  <Gun_Needle.tools.barrel.label>TODO</Gun_Needle.tools.barrel.label>
+  <!-- EN: needle gun -->
+  <Gun_Needle.verbs.Verb_Shoot.label>TODO</Gun_Needle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

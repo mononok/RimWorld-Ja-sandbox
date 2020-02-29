@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>地形</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>惑星</TabPlanet>
+  <!-- EN: Social -->
+  <TabCaravanSocial>社交</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>健康</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>欲求</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>装備</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>所持品</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>{{0}}x {0} を投棄する</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>本当に {0}を投棄する気ですか？\n\n投棄された所持品は消滅し回収できません.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>投棄する</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>追放する</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>投棄する (数量を指定)</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>投棄する (全て)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>投棄された所持品は消滅し,二度と取り戻すことはできません.</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort}は,まず間違いなく死ぬでしょう.</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>入植者</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>囚人と動物</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>所持品</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>クリックすると詳細タブを表示します.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>囚人</CaravanPrisoners>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>所持品</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>能力なし</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>休息中のため</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>再配置するにはドラッグ</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>ドラッグ適用方針の変更</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>この人物(もしくは動物)が病気のときに,キャラバン隊の他の仲間たちに運搬させます.\n\n運搬されている者は移動中も休息できますが,隊の移動速度は遅くなります.</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>シード値</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>範囲</PlanetCoverageShort>
+
+</LanguageData>

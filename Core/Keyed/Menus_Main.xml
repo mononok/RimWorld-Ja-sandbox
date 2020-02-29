@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>操作方法の説明</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>新しくはじめる</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>ゲーム再開</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>シナリオ表示</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>セーブ</Save>
+  <!-- EN: Load game -->
+  <LoadGame>ロード</LoadGame>
+  <!-- EN: Options -->
+  <Options>オプション</Options>
+  <!-- EN: Mod -->
+  <Mod>TODO</Mod>
+  <!-- EN: Mods -->
+  <Mods>MOD</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>翻訳ファイルを検証する</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>翻訳ファイルを正規化しています</CleaningTranslationFiles>
+  <!-- EN: Credits -->
+  <Credits>クレジット</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>タイトルに戻る</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>ゲームを保存して タイトルに戻る</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>ゲーム 終了</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>ゲームを保存して 終了する</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>Forums</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Official wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>惑星を創造</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>もっと知る</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>警告：これは不安定な開発ビルドです。これは私達が、設計上の実験と技術的な開発を行っていることを意味します。\n\n中には暫定措置として意図的にアンバランスになっている要素もあります。これは古典的なゲームデザインの手法で、バランスの匙加減をよりよく理解するために、故意に極端な調整になっています。我々はその情報を利用して、最終的な調整点を決定できます。\n\nまた、ゲームを壊してしまうものを含め、バグもあるでしょう。セーブデータの互換性はいつ壊れるか分かりません。\n\nこれら全てに問題がなければ、テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は、最新の安定版をプレイしてください。</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>惑星を確認</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>創造する</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
+  <!-- EN: Reset -->
+  <Reset>リセット</Reset>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>惑星表面データの生成範囲</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>平均降水量</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>平均気温</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>TODO</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>少雨</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>普通</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>多雨</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>低温</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>高温</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>シード値</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>ランダムシード</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>派閥</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>惑星を選択</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>選択</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>保存されたデータがありません,先に惑星を創造してください</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>新しい バージョン {0} が でました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>最新バージョン です.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>世界を創造</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり, ゲームは まったく 動作しません.\n\n他MODが 同じ defName を 使うことで, コアMODの def を 無視できるのを 活用して ください.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>TODO</ResolveModOrder>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています.よろしいですか？</ConfirmUnsubscribe>
+  <!-- EN: Author -->
+  <Author>作者</Author>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>Downloading</Downloading>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>TODO</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>Source</Source>
+  <!-- EN: For game version(s) -->
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <!-- EN: ID -->
+  <ModPackageId>TODO</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>TODO</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>順序変更はドラッグする</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>シナリオを選択</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>カスタム</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>シナリオ・エディター</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>削除</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>シード</Seed>
+  <!-- EN: Load -->
+  <Load>ロード</Load>
+  <!-- EN: edit mode -->
+  <EditMode>エディット・モード</EditMode>
+  <!-- EN: Summary -->
+  <Summary>概略</Summary>
+  <!-- EN: Add part -->
+  <AddPart>パーツを追加</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\nあなたは,"Steam Workshop terms of service"を承諾しなければなりません.全文はここにあります.\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>あなたは,明らかに,あなた自身が作成したコンテンツだけをアップロードしなければなりません.このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>適合しません</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>多すぎます(最大 {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>AIストーリーテラー (AI脚本家)は, 海賊の襲撃, 貨物 カプセルの 墜落, 動物の攻撃 など イベントを 生成します. 作家により あなたの 村の物語は 大きく 変化します.この設定はオプションメニューからいつでも変更できます.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>難易度</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>コミットメントモード</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>コミットメントモードか,無制限リロードモードを選択</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>開始位置を選択</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>開始位置・ランダム</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>決定</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>このタイルは占領下です</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>気候</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>地形</Terrain>
+  <!-- EN: Road -->
+  <Road>道</Road>
+  <!-- EN: River -->
+  <River>川</River>
+  <!-- EN: Elevation -->
+  <Elevation>高度</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>豊穣</Fertility>
+  <!-- EN: Average temperature -->
+  <AvgTemp>年平均気温</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>降雨量</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>特徴</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>北端は海岸</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>東端は海岸</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>南端は海岸</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>西端は海岸</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>洞窟あり</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>本拠地</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>主な地層</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>タイムゾーン</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>移動 難易度</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>牧草はある？</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>/年</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>食料調達性</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります.本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>キャラクターの 作成</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>キャラクターの名前です. \n\nこれは 特定のメニューで 表示されます.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>ランダム</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>年齢 {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>TODO</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>生い立ち</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>苦手・欠点</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by backstory: {0} -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title: {0} -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait: {0} -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by: {0} -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <!-- EN: Traits -->
+  <Traits>才能・性格</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>明るさ(性格)</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>スキル</Skills>
+  <!-- EN: none -->
+  <NoneLower>なし</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>成年期</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>幼年期</Childhood>
+  <!-- EN: Current -->
+  <Current>現在</Current>
+  <!-- EN: male -->
+  <Male>男性</Male>
+  <!-- EN: female -->
+  <Female>女性</Female>
+  <!-- EN: male -->
+  <MaleAnimal>オス</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>メス</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>痛み</Pain>
+  <!-- EN: Health -->
+  <Health>健康</Health>
+  <!-- EN: Relations -->
+  <Relations>相関関係</Relations>
+  <!-- EN: Team skills -->
+  <TeamSkills>チームスキル</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>選択済</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>置き去り</StartingPawnsLeftBehind>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>スタート</Start>
+  <!-- EN: Advanced -->
+  <Advanced>高度な設定</Advanced>
+  <!-- EN: Next -->
+  <Next>次</Next>
+  <!-- EN: Back -->
+  <Back>戻る</Back>
+  <!-- EN: Gameplay -->
+  <Gameplay>ゲームの設定</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>やめる</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>無視</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>世界を 生成しています</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>惑星を 生成しています</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>地図を 作成しています</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+
+</LanguageData>

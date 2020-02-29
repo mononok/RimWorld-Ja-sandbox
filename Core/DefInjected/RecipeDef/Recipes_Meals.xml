@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>手のこんだ食事</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>野菜系の食材と,肉系の食材を組み合わせて調理します.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>手のこんだ食事を調理中</CookMealFine.jobString>
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
+  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>贅沢な食事</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>野菜系の食材と,肉系の食材を組み合わせて,より手のこんだ調理をします.素材を厳選するので 多くの材料が無駄に捨てられます.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>贅沢な食事を創作中</CookMealLavish.jobString>
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>簡単な食事</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>ひとつの食材を簡単に調理します.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>簡単な食事を炊事中</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>非常用食品</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>生の肉と野菜を組み合わせた食材から,非常用食品を調理します.保存工程において 多くの材料が無駄に捨てられます.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>非常用食品を調理中</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

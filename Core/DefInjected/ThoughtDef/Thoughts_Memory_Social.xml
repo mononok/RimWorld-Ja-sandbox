@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: botched my surgery -->
+  <BotchedMySurgery.stages.botched_my_surgery.label>私の手術でヘマをした</BotchedMySurgery.stages.botched_my_surgery.label>
+  
+  <!-- EN: broke up with me -->
+  <BrokeUpWithMe.stages.broke_up_with_me.label>別れた</BrokeUpWithMe.stages.broke_up_with_me.label>
+  
+  <!-- EN: broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>{0}に振られた</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <!-- EN: I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>まるでゴミでも捨てるかのように振られた.</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  
+  <!-- EN: cheated on me -->
+  <CheatedOnMe.stages.cheated_on_me.label>裏切られた</CheatedOnMe.stages.cheated_on_me.label>
+  
+  <!-- EN: cheated on by {0} -->
+  <CheatedOnMeMood.stages.cheated_on_by.label>{0}に裏切られた</CheatedOnMeMood.stages.cheated_on_by.label>
+  <!-- EN: How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.cheated_on_by.description>よくも!私を騙してくれたな!</CheatedOnMeMood.stages.cheated_on_by.description>
+  
+  <!-- EN: chitchat -->
+  <Chitchat.stages.chitchat.label>世間話</Chitchat.stages.chitchat.label>
+  
+  <!-- EN: crashed together -->
+  <CrashedTogether.stages.crashed_together.label>一緒に不時着した</CrashedTogether.stages.crashed_together.label>
+  
+  <!-- EN: deep talk -->
+  <DeepTalk.stages.deep_talk.label>込み入った会話</DeepTalk.stages.deep_talk.label>
+  
+  <!-- EN: divorced me -->
+  <DivorcedMe.stages.divorced_me.label>離婚された</DivorcedMe.stages.divorced_me.label>
+  
+  <!-- EN: divorced by {0} -->
+  <DivorcedMeMood.stages.divorced_by.label>{0}に別れさせられた</DivorcedMeMood.stages.divorced_by.label>
+  <!-- EN: We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.divorced_by.description>私達は婚姻の約束までしたのにバラバラに引き裂かれた.</DivorcedMeMood.stages.divorced_by.description>
+  
+  <!-- EN: failed to romance me -->
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>私とのロマンスは失敗に終わった</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  
+  <!-- EN: had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>{0}にひじ鉄を打つ</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <!-- EN: Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>私の嫌いな奴が,私を誘おうとしてきた.</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  
+  <!-- EN: forced me to take drugs -->
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>無理やりドラッグをやらされた</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  
+  <!-- EN: forced to take drugs -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>無理やりドラッグをやらされた</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>私は薬物を絶対しない；私は自らドラッグを摂ることはないのに,無理強いされた,私は汚れた気がする.</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  
+  <!-- EN: forced me to take luciferium -->
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>無理やりルシフェリウムを打たれた</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  
+  <!-- EN: forced to take luciferium -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>無理やりルシフェリウムを打たれた</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>私は自然体主義; 私は自らルシフェリウムを打つことはないのに,無理強いされた,私は汚れた気がする.</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  
+  <!-- EN: got some lovin’ -->
+  <GotSomeLovin.stages.got_some_lovin.label>愛を育んだ</GotSomeLovin.stages.got_some_lovin.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.got_some_lovin.description>もう独りエッチしなくてすみます.</GotSomeLovin.stages.got_some_lovin.description>
+  
+  <!-- EN: angering fight -->
+  <HadAngeringFight.stages.angering_fight.label>カッとなった</HadAngeringFight.stages.angering_fight.label>
+  
+  <!-- EN: cathartic fight -->
+  <HadCatharticFight.stages.cathartic_fight.label>鬱憤がたまって喧嘩した</HadCatharticFight.stages.cathartic_fight.label>
+  
+  <!-- EN: harmed me -->
+  <HarmedMe.stages.harmed_me.label>傷つけられた</HarmedMe.stages.harmed_me.label>
+  
+  <!-- EN: honeymoon phase -->
+  <HoneymoonPhase.stages.honeymoon_phase.label>ハネムーン</HoneymoonPhase.stages.honeymoon_phase.label>
+  <HoneymoonPhase.stages.honeymoon_phase.description>二人一緒の素晴らしい新しい生活が始まる!</HoneymoonPhase.stages.honeymoon_phase.description>
+  
+  <!-- EN: insulted -->
+  <Insulted.stages.insulted.label>侮辱された</Insulted.stages.insulted.label>
+  
+  <!-- EN: insulted -->
+  <InsultedMood.stages.insulted.label>侮辱された</InsultedMood.stages.insulted.label>
+  <!-- EN: I've been directly insulted! What an awful person! -->
+  <InsultedMood.stages.insulted.description>私は面と向かって侮辱された,なんて嫌な奴!</InsultedMood.stages.insulted.description>
+  
+  <!-- EN: I rejected their proposal -->
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>プロポーズを断った</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  
+  <!-- EN: killed my bonded animal -->
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>絆で結ばれたペットが殺された</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  
+  <!-- EN: killed my brother -->
+  <KilledMyBrother.stages.killed_my_brother.label>兄弟が殺された</KilledMyBrother.stages.killed_my_brother.label>
+  
+  <!-- EN: killed my daughter -->
+  <KilledMyDaughter.stages.killed_my_daughter.label>娘が殺された</KilledMyDaughter.stages.killed_my_daughter.label>
+  
+  <!-- EN: killed my father -->
+  <KilledMyFather.stages.killed_my_father.label>父親が殺された</KilledMyFather.stages.killed_my_father.label>
+  
+  <!-- EN: killed my fiance -->
+  <KilledMyFiance.stages.killed_my_fiance.label>婚約者が殺された</KilledMyFiance.stages.killed_my_fiance.label>
+  
+  <!-- EN: killed my friend -->
+  <KilledMyFriend.stages.killed_my_friend.label>友人が殺された</KilledMyFriend.stages.killed_my_friend.label>
+  
+  <!-- EN: killed my kin -->
+  <KilledMyKin.stages.killed_my_kin.label>親族が殺された</KilledMyKin.stages.killed_my_kin.label>
+  
+  <!-- EN: killed my lover -->
+  <KilledMyLover.stages.killed_my_lover.label>恋人が殺された</KilledMyLover.stages.killed_my_lover.label>
+  
+  <!-- EN: killed my mother -->
+  <KilledMyMother.stages.killed_my_mother.label>母親が殺された</KilledMyMother.stages.killed_my_mother.label>
+  
+  <!-- EN: killed my rival -->
+  <KilledMyRival.stages.killed_my_rival.label>ライバルが殺された</KilledMyRival.stages.killed_my_rival.label>
+  
+  <!-- EN: killed my sister -->
+  <KilledMySister.stages.killed_my_sister.label>姉妹が殺された</KilledMySister.stages.killed_my_sister.label>
+  
+  <!-- EN: killed my son -->
+  <KilledMySon.stages.killed_my_son.label>息子が殺された</KilledMySon.stages.killed_my_son.label>
+  
+  <!-- EN: killed my spouse -->
+  <KilledMySpouse.stages.killed_my_spouse.label>配偶者が殺された</KilledMySpouse.stages.killed_my_spouse.label>
+  
+  <!-- EN: kind words -->
+  <KindWords.stages.kind_words.label>優しい言葉</KindWords.stages.kind_words.label>
+  
+  <!-- EN: kind words -->
+  <KindWordsMood.stages.kind_words.label>優しい言葉</KindWordsMood.stages.kind_words.label>
+  <!-- EN: I've been bestowed with kind words! What a nice person! -->
+  <KindWordsMood.stages.kind_words.description>優しい言葉で声をかけてくれた,とても良い人です！</KindWordsMood.stages.kind_words.description>
+  
+  <!-- EN: rapport built -->
+  <RapportBuilt.stages.rapport_built.label>親密な関係</RapportBuilt.stages.rapport_built.label>
+  
+  <!-- EN: rebuffed me -->
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>拒絶された</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  
+  <!-- EN: rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>{0}に拒絶された</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>いい親密な関係を築こうとしたけど無視された.ひどいやつ.</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  
+  <!-- EN: recruited me -->
+  <RecruitedMe.stages.recruited_me.label>スカウトされた</RecruitedMe.stages.recruited_me.label>
+  
+  <!-- EN: rejected my proposal -->
+  <RejectedMyProposal.stages.rejected_my_proposal.label>プロポーズを拒否された</RejectedMyProposal.stages.rejected_my_proposal.label>
+  
+  <!-- EN: my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>{0}にプロポーズを拒否された</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <!-- EN: I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>私達は結婚するものだと,私は本気にそう思っていた.でも私は,今,拒否された.</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  
+  <!-- EN: rescued me -->
+  <RescuedMe.stages.rescued_me.label>助けられた</RescuedMe.stages.rescued_me.label>
+  
+  <!-- EN: rescued me -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>TODO</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>TODO</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  
+  <!-- EN: slighted -->
+  <Slighted.stages.slighted.label>ばかにされた</Slighted.stages.slighted.label>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- UNUSED -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>絆で結ばれた動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>絆で結ばれている動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>私と特別な絆で結ばれている動物が,トレーダーに売られてしまった!.</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- EN: loved one sold -->
+  <SoldMyLovedOne.stages.loved_one_sold.label>最愛が売られた</SoldMyLovedOne.stages.loved_one_sold.label>
+  <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
+  <SoldMyLovedOne.stages.loved_one_sold.description>私の最愛の人を,肉でも売るかのように,トレーダーに売られてしまった.</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>最愛の人が売られた</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  
+</LanguageData>

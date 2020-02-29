@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>日</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>時</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>分</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>秒</LetterSecond>
+  <!-- EN: y -->
+  <LetterYear>TODO</LetterYear>
+  
+  <!-- EN: days -->
+  <DaysLower>日</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>TODO</HoursLower>
+  <!-- EN: seconds -->
+  <SecondsLower>秒</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>春</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>夏</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>秋</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>冬</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>常夏</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>常冬</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>卯月</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>文月</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>神無月</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>睦月</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
+  <Born>生年月日: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>暦上での年齢: {0}歳 {1} {2}日</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>生物学的年齢: {0}歳 {1} {2}日</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 年</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} 年</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 節</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} 節</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 日</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} 日</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 時間</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} 時間</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 秒</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} 秒</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>開始</Started>
+  <!-- EN: Lasted -->
+  <Lasted>継続</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>{0} 前</OccurredTimeAgo>
+  
+</LanguageData>

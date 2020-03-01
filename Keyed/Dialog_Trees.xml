@@ -6,9 +6,10 @@
     <FactionGreetingWary>{0}は 用心しつつも{NEGOTIATOR_labelShort}と挨拶を交わし, あなたが取引したいビジネスの事を尋ねてきました.</FactionGreetingWary>
     <FactionGreetingWarm>{0}は 暖かく{NEGOTIATOR_labelShort}を歓迎し, {LEADER_pronoun}は,あなたの力となれる事は何か？,と尋ねてきました.</FactionGreetingWarm>
 
+  <WorkTypeDisablesOption>won't do {0}</WorkTypeDisablesOption> <!-- TODO -->
     <Disconnect>切断</Disconnect>
 
-    <!-- gift offer -->
+  <!-- Gift offer -->
     <OfferGift>贈り物</OfferGift>
     <MustBeAlly>同盟である必要</MustBeAlly>
     <NeedGoodwill>{0}友好値が必要</NeedGoodwill>
@@ -17,7 +18,7 @@
     <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
     <SilverGiftSent>ありがとう {0}\n\n({1}により友好値上昇)</SilverGiftSent>
 
-    <!-- trade caravan request -->
+  <!-- Trade caravan request -->
     <RequestTrader>トレーダーキャラバンを要求する(コスト: {0}友好値)</RequestTrader>
     <ChooseTraderKind>{0}は, あなたが必要としているトレーダーキャラバンの種別を聞いています.</ChooseTraderKind>
     <TraderSent>{0}は, あなたにトレーダーキャラバンを送ることに承諾しました.2～3日以内には到着するでしょう.</TraderSent>
@@ -28,7 +29,7 @@
     <RequestAICoreInformationResult>{0}は要求された情報を伝え,あなたの成功を祈っています.</RequestAICoreInformationResult>
     <NoKnownAICore>これ以上の情報は無い</NoKnownAICore>
 
-    <!-- military aid request -->
+  <!-- Military aid request -->
     <RequestMilitaryAid>急ぎの援軍を要求する(コスト: {0}友好値)</RequestMilitaryAid>
     <MilitaryAidConfirmMutualEnemy>{0}は, 新たな敵を 作ってまで 助けるつもりはないと 言っています. どうやら あなたを 脅かしている {1}のことのようです. あなたは それでも 援助を 要請 しますか？</MilitaryAidConfirmMutualEnemy>
     <CallConfirm>はい, とにかく来て欲しい.</CallConfirm>

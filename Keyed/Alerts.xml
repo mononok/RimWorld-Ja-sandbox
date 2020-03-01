@@ -37,6 +37,9 @@
     <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
     <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
 
+    <AlertColonistLeftUnburied>Colonist left unburied</AlertColonistLeftUnburied><!-- TODO -->
+    <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affects your colonists mood.</AlertColonistLeftUnburiedDesc>
+
     <HunterLacksWeapon>武装する</HunterLacksWeapon>
     <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
 
@@ -86,6 +89,9 @@
     <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
     <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
 
+  <CaravanIdle>Caravan idle</CaravanIdle><!-- TODO -->
+  <CaravanIdleDesc>These caravans are waiting for you to set their next destination:\n\n{0}</CaravanIdleDesc>
+
     <ColonistNeedsTreatment>治療が必要</ColonistNeedsTreatment>
     <ColonistNeedsTreatmentDesc>次の入植者は 治療を必要としています.\n\n治療を行わずにいると,怪我が元で死に至るかもしれませんし,または慢性化するかもしれません.\n\n{0}\n直ちに医療用ベッドに寝かす必要があります.\n\n(最初に,ベッドを選択して 医療用ベッドに切り替えます そして治療が必要な入植者を 右クリックしてベッドへ誘導します )</ColonistNeedsTreatmentDesc>
 
@@ -116,4 +122,26 @@
     <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
     <ImmobileCaravanDesc>あるキャラバン隊は,荷物が多すぎて行動不能になりました.\n\n「アイテム」タブから幾つかのアイテムを放棄して,再び移動できるようにしてください.</ImmobileCaravanDesc>
 
+  <BuildingCantBeUsedRoofed>Building unusable due to roof</BuildingCantBeUsedRoofed><!-- TODO -->
+  <BuildingCantBeUsedRoofedDesc>One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof.</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>Heatstroke</AlertHeatstroke> <!-- TODO -->
+  <AlertHeatstrokeDesc>The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>Guest unhappy</QuestPartMoodBelowThreshold> <!-- TODO -->
+  <QuestPartMoodBelowThresholdDesc>The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>Shuttle leaving in {0}</QuestPartShuttleLeaveDelay> <!-- TODO -->
+  <QuestPartShuttleLeaveDelayDesc>The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+
+  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument> <!-- TODO -->
+  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown> <!-- TODO -->
+  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc> <!-- TODO -->
+  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple> <!-- TODO -->
+  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple> <!-- TODO -->
+
+  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon> <!-- TODO -->
+  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc> <!-- TODO -->
 </LanguageData>

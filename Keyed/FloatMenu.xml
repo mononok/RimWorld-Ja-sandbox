@@ -10,6 +10,7 @@
     <CannotUseFull>使用できない (満載)</CannotUseFull>
   <LeaderUnavailable>リーダー{1_labelShort}は存在しない</LeaderUnavailable>
     <LeaderUnavailableNoLeader>リーダーは存在しない</LeaderUnavailableNoLeader>
+  <NotAllowed>Not allowed</NotAllowed> <!-- TODO -->
 
 <FireAt>{1_label}に発射 (遠距離)</FireAt>
 
@@ -27,6 +28,7 @@
     <MeleeAttack>{1_label}に近接攻撃する</MeleeAttack>
     <MeleeAttackToDeath>{1_label}を殺すまで近接攻撃する</MeleeAttackToDeath>
     <NoPath>道順が無い</NoPath>
+  <Burying>burying</Burying> <!-- TODO -->
 
     <ForbiddenLower>禁止</ForbiddenLower>
     <ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
@@ -43,11 +45,12 @@
     <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
     <NoUsableFood>エサがない</NoUsableFood>
     <NoFood>エサがない</NoFood>
+  <FoodBelowTitleRequirements>below requirements of {0}</FoodBelowTitleRequirements> <!-- TODO -->
     <AnimalsSkillTooLow>動物スキルが低すぎる - {0} 必要</AnimalsSkillTooLow>
     <CantInteractAnimalDowned>動物は意識がない</CantInteractAnimalDowned>
     <CantInteractAnimalAsleep>動物は寝ている</CantInteractAnimalAsleep>
     <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
-    <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
+  <SkillTooLowForConstruction>{0} skill too low</SkillTooLowForConstruction> <!-- TODO -->
     <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
     <NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
     <NoWort>麦汁が必要</NoWort>
@@ -63,6 +66,11 @@
     <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
     <IncapableOfMining>掘削する能力がない</IncapableOfMining>
     <AngersFaction>怒っている派閥</AngersFaction>
+  <InstallImplantNoBodyPart>no body part</InstallImplantNoBodyPart> <!-- TODO -->
+  <InstallImplantNotAllowedForNonColonists>not a colonist</InstallImplantNotAllowedForNonColonists> <!-- TODO -->
+  <InstallImplantAlreadyInstalled>already installed</InstallImplantAlreadyInstalled> <!-- TODO -->
+  <InstallImplantAlreadyMaxLevel>max level</InstallImplantAlreadyMaxLevel> <!-- TODO -->
+  <UpgradeImplant>Upgrade {0} to level {1}</UpgradeImplant> <!-- TODO -->
 
     <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
 
@@ -82,7 +90,10 @@
     <CarryToCryptosleepCasket>{1_label}を 冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
     <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
 
+  <CarryToShuttle>Carry {0_label} to shuttle</CarryToShuttle> <!-- TODO -->
+
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
+  <CryptosleepCasketGuestsNotAllowed>Temporary faction members not allowed.</CryptosleepCasketGuestsNotAllowed> <!-- TODO -->
 <NoPrisonerBed>周囲と壁で遮断され.適温な,囚人用ベッドがない</NoPrisonerBed>
 <NoNonPrisonerBed>周囲と壁で遮断され,適温な,入植者用ベッドがない</NoNonPrisonerBed>
   <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
@@ -133,6 +144,10 @@
 
     <Strip>{1_label}を 剥ぐ</Strip>
     <CannotStrip>{1_label}を 剥ぎ取れない</CannotStrip>
+  <CannotDrop>Cannot drop {1_label}</CannotDrop> <!-- TODO -->
+  <QuestRelated>temporary faction member</QuestRelated> <!-- TODO -->
+  <QuestRelated_Outfit>Cannot change outfits on temporary faction members</QuestRelated_Outfit> <!-- TODO -->
+  <WouldReplaceLockedApparel>would replace locked apparel</WouldReplaceLockedApparel> <!-- TODO -->
 
     <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
 
@@ -156,21 +171,25 @@
     <ApproachSite>{0}に接触</ApproachSite>
     <ApproachingSite>{0}に接触中</ApproachingSite>
     <OfferGifts>贈り物を提供する</OfferGifts>
+  <TradeWithSettlement>Trade with {0}</TradeWithSettlement> <!-- TODO -->
 
     <!-- Specific thing interactions -->
     <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
     <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
+  <EnterShuttle>Get in shuttle</EnterShuttle> <!-- TODO -->
 
-    <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
     <CannotGenericWork>{1}を{0}できない</CannotGenericWork>
     <CannotGenericWorkCustom>{0}できない</CannotGenericWorkCustom>
 
     <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
-    <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-    <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}中です</CannotGenericAlreadyAm>
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+   <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}中です</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAmCustom>Already {0}</CannotGenericAlreadyAmCustom> <!-- TODO -->
 
     <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
+  <CannotTradeMissingTitleAbility>Cannot trade: lacking necessary title</CannotTradeMissingTitleAbility> <!-- TODO -->
 
     <CannotPrioritizeWorkGiverDisabled>優先できない ({0}しない)</CannotPrioritizeWorkGiverDisabled>
     <WillNever>"{0}" できない</WillNever>
@@ -184,8 +203,8 @@
     <CannotPrioritizeCellForbidden>優先できない (禁止事項)</CannotPrioritizeCellForbidden>
     <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-    <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-    <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+   <PrioritizeGeneric>いますぐ {1} {0}</PrioritizeGeneric>
 
     <DropAtEdge>端に落とす</DropAtEdge>
     <DropInCenter>真ん中に落とす</DropInCenter>
@@ -214,5 +233,7 @@
     <!-- Rescue quest -->
     <FreePrisoner>囚人解放</FreePrisoner>
     <OfferHelp>救助の申し出</OfferHelp>
+
+  <ApplyTechprint>apply {0}</ApplyTechprint> <!-- TODO -->
 
 </LanguageData>

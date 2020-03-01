@@ -8,15 +8,20 @@
 <AndLower>と</AndLower>
 <DisabledLower>スキル無し</DisabledLower>
 
-
 <VersionIndicator>Version {0}</VersionIndicator>
+  <GameVersionIndicator>Game version</GameVersionIndicator>
 <DevelopmentBuildLower>development build</DevelopmentBuildLower>
 <CompiledOn>Compiled {0}</CompiledOn>
 <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
 
+  <!-- ToCommaList() -->
+  <ToCommaListAnd>{0} and {1}</ToCommaListAnd>
+  
   <!-- General-use words -->
   <Yes>はい</Yes>
   <No>いいえ</No>
+  <New>new</New> <!-- TODO -->
+  <Gender>Gender</Gender> <!-- TODO -->
   <min>最小</min>
   <max>最大</max>
   <chance>確率</chance>
@@ -24,6 +29,7 @@
   <multiplier>掛け率</multiplier>
   <damage>ダメージ</damage>
   <radius>半径</radius>
+  <expired>expired</expired> <!-- TODO -->
   <durationDays>所要時間 (日)</durationDays>
   <intervalDays>間隔(日)</intervalDays>
   <repeat>繰り返す</repeat>
@@ -36,6 +42,7 @@
   <day>日</day>
   <Default>デフォルト</Default>
   <Average>平均</Average>
+  <Cause>Cause</Cause> <!-- TODO -->
   <MoneyFormat>${0}</MoneyFormat>
 
   <!-- Content generation-->
@@ -44,6 +51,13 @@
   <MeatDesc>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</MeatDesc>
   <MeatInsectDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.極めてマズイ</MeatInsectDesc>
   <MeatHumanDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う</MeatHumanDesc>
+
+  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel> <!-- TODO -->
+  <TechprintDesc>This is a techprint for the research project '{PROJECT_label}'. <!-- TODO -->
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc> <!-- TODO -->
+  <Unlocks>Unlocks</Unlocks> <!-- TODO -->
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>
@@ -61,9 +75,8 @@
 
   <FactionUnaffiliated>仲間では無い</FactionUnaffiliated>
 
-
   <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
 	<SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
@@ -80,5 +93,6 @@
   <West>西</West>
   <East>東</East>
 
+  <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint> <!-- TODO -->
 
 </LanguageData>

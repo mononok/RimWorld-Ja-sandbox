@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!--=========== Main menu ==========-->
+  <!-- Main menu -->
     <Tutorial>操作方法の説明</Tutorial>
     <NewColony>新しくはじめる</NewColony>
     <BackToGame>ゲーム再開</BackToGame>
@@ -9,7 +9,8 @@
     <Save>セーブ</Save>
     <LoadGame>ロード</LoadGame>
     <Options>オプション</Options>
-    <Mods>MOD</Mods>
+  <Mod>Mod</Mod>
+  <Mods>Mods</Mods>
     <SaveTranslationReport>翻訳ファイルを検証する</SaveTranslationReport>
     <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
     <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
@@ -29,7 +30,7 @@
     <BuySoundtrack>Buy soundtrack</BuySoundtrack>
     <CreateWorld>惑星を創造</CreateWorld>
 
-    <!--=========== Main menu translations info window ===========-->
+  <!-- Main menu translations info window -->
     <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
     <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
     <LearnMore>もっと知る</LearnMore>
@@ -37,7 +38,7 @@
   <!-- Main menu dev build -->
   <DevBuildWarning>警告：これは不安定な開発ビルドです。これは私達が、設計上の実験と技術的な開発を行っていることを意味します。\n\n中には暫定措置として意図的にアンバランスになっている要素もあります。これは古典的なゲームデザインの手法で、バランスの匙加減をよりよく理解するために、故意に極端な調整になっています。我々はその情報を利用して、最終的な調整点を決定できます。\n\nまた、ゲームを壊してしまうものを含め、バグもあるでしょう。セーブデータの互換性はいつ壊れるか分かりません。\n\nこれら全てに問題がなければ、テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は、最新の安定版をプレイしてください。</DevBuildWarning>
 
-    <!--=========== Create/review world ================-->
+  <!-- Create/review world -->
     <ReviewWorld>惑星を確認</ReviewWorld>
     <WorldGenerate>創造する</WorldGenerate>
     <WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
@@ -46,38 +47,43 @@
     <PlanetTemperature>平均気温</PlanetTemperature>
     <PlanetRainfall_Low>少雨</PlanetRainfall_Low>
     <PlanetRainfall_Normal>普通</PlanetRainfall_Normal>
+  <PlanetPopulation>Population</PlanetPopulation> <!-- TODO -->
     <PlanetRainfall_High>多雨</PlanetRainfall_High>
     <PlanetTemperature_Low>低温</PlanetTemperature_Low>
     <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
     <PlanetTemperature_High>高温</PlanetTemperature_High>
     <Reset>リセット</Reset>
     <WorldSeed>シード値</WorldSeed>
+  <PlanetPopulation_Low>Sparse</PlanetPopulation_Low> <!-- TODO -->
+  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal> <!-- TODO -->
+  <PlanetPopulation_High>Crowded</PlanetPopulation_High> <!-- TODO -->
     <RandomizeSeed>ランダムシード</RandomizeSeed>
     <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
     <WorldFactionsTab>派閥</WorldFactionsTab>
 
-    <!--=========== Select world ===================-->
+  <!-- Select world -->
     <SelectWorld>惑星を選択</SelectWorld>
     <WorldChooseButton>選択</WorldChooseButton>
     <NoWorldsFilesFound>保存されたデータがありません,先に惑星を創造してください</NoWorldsFilesFound>
 
-    <!--=========== Version info ==========-->
+  <!-- Version info -->
     <BuildNowAvailable>新しい バージョン {0} が でました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
     <BuildUpToDate>最新バージョン です.</BuildUpToDate>
     <ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
     <LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
 
-    <!--=========== World generator =========-->
+  <!-- World generator -->
     <GenerateWorld>世界を創造</GenerateWorld>
 
-    <!--=========== Mods screen ==========-->
+  <!-- Mods config -->
     <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
     <GetModsFromForum>Get mods from forum</GetModsFromForum>
     <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
     <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
     <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり, ゲームは まったく 動作しません.\n\n他MODが 同じ defName を 使うことで, コアMODの def を 無視できるのを 活用して ください.</ConfirmDisableCoreMod>
     <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
-    <Unsubscribe>Unsubscribe</Unsubscribe>
+    <Unsubscribe>Unsubscribe</Unsubscribe> <!-- TODO -->
+  <ResolveModOrder>Auto-sort mods</ResolveModOrder> <!-- TODO -->
     <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています.よろしいですか？</ConfirmUnsubscribe>
     <Author>作者</Author>
     <WorkshopPage>Workshop page</WorkshopPage>
@@ -87,21 +93,43 @@
     <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
     <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
     <Downloading>Downloading</Downloading>
+  <ModDisplayFulfilledRequirements>Display fulfilled requirements</ModDisplayFulfilledRequirements> <!-- TODO -->
+  <ModClickToSelect>Click to select.</ModClickToSelect> <!-- TODO -->
+  <ModClickToGoToWebsite>Click to go to website.</ModClickToGoToWebsite> <!-- TODO -->
     <Source>Source</Source>
     <ModTargetVersion>For version: {0}</ModTargetVersion>
     <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
+  <ModPackageId>ID</ModPackageId> <!-- TODO -->
+  <ModMustLoadBefore>This must be loaded before: {0}.</ModMustLoadBefore> <!-- TODO -->
+  <ModMustLoadAfter>This must be loaded after: {0}.</ModMustLoadAfter> <!-- TODO -->
+  <ModDependsOn>Depends on: {0}</ModDependsOn> <!-- TODO -->
+  <ModIncompatibleWith>Incompatible with: {0}</ModIncompatibleWith> <!-- TODO -->
+  <ModIncompatibleWithTip>This mod is incompatible with: {0}.</ModIncompatibleWithTip> <!-- TODO -->
+  <ModOrderingWarning>This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually.</ModOrderingWarning> <!-- TODO -->
+  <ModWithSameIdAlreadyActive>Another active mod uses the same ID: {0}.</ModWithSameIdAlreadyActive> <!-- TODO -->
+  <ModCyclicDependency>There is a cyclic mod dependency starting with {0}.</ModCyclicDependency> <!-- TODO -->
+  <ModUnsatisfiedDependency>This requires following mods to work: {0}.</ModUnsatisfiedDependency> <!-- TODO -->
     <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
     <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedPackageId>Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId> <!-- TODO -->
+  <ModHadLoadFolderIssues>This mod has issues in LoadFolders.xml, that you need to resolve before uploading:</ModHadLoadFolderIssues> <!-- TODO -->
+  <ModLoadFolderDoesntExist>Folder {0} specified for version {1} doesn't exist.</ModLoadFolderDoesntExist> <!-- TODO -->
+  <ModLoadFolderMalformedVersion>Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)</ModLoadFolderMalformedVersion> <!-- TODO -->
+  <ModLoadFolderListEmpty>The list of load folders for version {0} is empty.</ModLoadFolderListEmpty> <!-- TODO -->
+  <ModLoadFolderRepeatingFolder>Version {0} lists the same folder more than once: {1}.</ModLoadFolderRepeatingFolder> <!-- TODO -->
+  <ModLoadFolderOutOfOrder>Invalid version order: {0} should come before {1}.</ModLoadFolderOutOfOrder> <!-- TODO -->
+  <ModLoadFolderOutOfOrderDefault>Invalid version order: 'default' should be defined first.</ModLoadFolderOutOfOrderDefault> <!-- TODO -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml.</ModLoadFolderDefinesUnsupportedGameVersion> <!-- TODO -->
     <DragToReorder>順序変更はドラッグする</DragToReorder>
 
-    <!--=========== Select scenario =============-->
+  <!-- Select scenario -->
     <ChooseScenario>シナリオを選択</ChooseScenario>
     <ScenariosCustom>カスタム</ScenariosCustom>
     <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
     <ScenarioEditor>シナリオ・エディター</ScenarioEditor>
     <Delete>削除</Delete>
 
-    <!--============ Scenario editor ===============-->
+  <!-- Scenario editor -->
     <Seed>シード</Seed>
     <Load>ロード</Load>
     <EditMode>エディット・モード</EditMode>
@@ -114,7 +142,7 @@
     <TooMany>多すぎます(最大 {0}): </TooMany>
     <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
 
-    <!--=========== Storyteller chooser ==========-->
+  <!-- Select storyteller -->
     <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
     <HowStorytellersWork>AIストーリーテラー (AI脚本家)は, 海賊の襲撃, 貨物 カプセルの 墜落, 動物の攻撃 など イベントを 生成します. 作家により あなたの 村の物語は 大きく 変化します.この設定はオプションメニューからいつでも変更できます.</HowStorytellersWork>
     <MustChooseDifficulty>難易度を選択</MustChooseDifficulty>
@@ -128,7 +156,7 @@
     <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
     <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
-    <!--=========== Landing site select =========-->
+  <!-- Site select -->
     <SelectStartingSite>開始位置を選択</SelectStartingSite>
     <SelectRandomSite>開始位置・ランダム</SelectRandomSite>
     <SelectSite>決定</SelectSite>
@@ -164,16 +192,23 @@
     <Forageability>食料調達性</Forageability>
     <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくさせることになります.本当に良いですか？</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-    <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
     <CreateCharacters>キャラクターの 作成</CreateCharacters>
     <FirstNameDesc>キャラクターの名前です. \n\nこれは 特定のメニューで 表示されます.</FirstNameDesc>
     <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
     <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
     <Randomize>ランダム</Randomize>
     <AgeIndicator>年齢 {0}</AgeIndicator>
+  <PawnSummary>{PAWN_race}, age {PAWN_ageFull}</PawnSummary> <!-- TODO -->
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, age {PAWN_ageFull}</PawnSummaryWithGender> <!-- TODO -->
     <Backstory>生い立ち</Backstory>
     <IncapableOf>苦手・欠点</IncapableOf>
+  <Abilities>Abilities</Abilities> <!-- TODO -->
+  <IncapableOfTooltipBackstory>Caused by backstory: {0}</IncapableOfTooltipBackstory> <!-- TODO -->
+  <IncapableOfTooltipTitle>Caused by title: {0}</IncapableOfTooltipTitle> <!-- TODO -->
+  <IncapableOfTooltipTrait>Caused by trait: {0}</IncapableOfTooltipTrait> <!-- TODO -->
+  <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff> <!-- TODO -->
+  <IncapableOfTooltipWorkTypes>Disabled work types:</IncapableOfTooltipWorkTypes> <!-- TODO -->
     <Traits>才能・性格</Traits>
     <PermanentMoodEffect>明るさ(性格)</PermanentMoodEffect>
     <Skills>スキル</Skills>
@@ -191,7 +226,8 @@
     <TeamSkills>チームスキル</TeamSkills>
     <StartingPawnsSelected>選択済</StartingPawnsSelected>
     <StartingPawnsLeftBehind>置き去り</StartingPawnsLeftBehind>
-    <!--=========== Misc ==========-->
+
+  <!-- Misc -->
     <Start>スタート</Start>
     <Advanced>高度な設定</Advanced>
     <Next>次</Next>
@@ -203,10 +239,11 @@
     <Quit>やめる</Quit>
     <Ignore>無視</Ignore>
 
-    <!--============ Progress bar==============-->
+  <!-- Progress bar -->
     <GeneratingWorld>世界を 生成しています</GeneratingWorld>
     <GeneratingPlanet>惑星を 生成しています</GeneratingPlanet>
     <GeneratingMap>地図を 作成しています</GeneratingMap>
     <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
 
+  <ClickForMoreInfo>Click for more info</ClickForMoreInfo> <!-- TODO -->
 </LanguageData>

@@ -23,6 +23,7 @@
     <FilthOnFeet>足跡：</FilthOnFeet>
     <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
     <NothingLower>なし</NothingLower>
+  <Nothing>Nothing</Nothing> <!-- TODO -->
     <Adapted>順応した</Adapted>
     <FreshMissingBodyPart>生々しい</FreshMissingBodyPart>
     <DevelopedImmunityLower>免疫がついた</DevelopedImmunityLower>
@@ -33,6 +34,9 @@
     <TendQuality>看病品質</TendQuality>
     <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
     <Immunity>免疫</Immunity>
+  <DaysToRecover>{0} days to recover</DaysToRecover> <!-- TODO -->
+  <Ineffective>Ineffective</Ineffective> <!-- TODO -->
+  <Illegal>illegal</Illegal> <!-- TODO -->
     <Race>種</Race>
     <Description>概要</Description>
     <Equipment>装備</Equipment>
@@ -40,6 +44,8 @@
     <Inventory>アイテム一覧</Inventory>
     <ThingInfo>情報</ThingInfo>
     <DropThing>はずす</DropThing>
+  <DropThingLodger>Temporary faction members will not drop their items.</DropThingLodger> <!-- TODO -->
+  <DropThingLocked>This person refuses to drop this.</DropThingLocked> <!-- TODO -->
     <Rename>命名</Rename>
     <RenameAnimal>動物の名前を変更</RenameAnimal>
     <RenameColonist>ニックネームを変更</RenameColonist>
@@ -61,6 +67,7 @@
     <HiveReproducesIn>再生中</HiveReproducesIn>
     <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
     <NextSpawnedItemIn>次は {0}</NextSpawnedItemIn>
+  <NextSpawnedResourceIn>Next resource in</NextSpawnedResourceIn> <!-- TODO -->
     <BrokenDown>故障中</BrokenDown>
     <BondBrackets>(絆)</BondBrackets>
     <Fuel>燃料</Fuel>
@@ -105,6 +112,7 @@
     <CaravanEntering>参加中 {0}</CaravanEntering>
     <CaravanAttacking>攻撃中 {0}</CaravanAttacking>
     <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れる</CaravanOfferingGifts>
+  <CaravanTrading>Trading with {0}</CaravanTrading> <!-- TODO -->
     <WasWornByCorpse>死体が着用して穢れた</WasWornByCorpse>
     <WornByCorpseChar>霊</WornByCorpseChar>
     <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
@@ -132,16 +140,17 @@
     <WornBy>{1_labelShort}が着ている</WornBy>
     <EquippedBy>{1_labelShort}が装備している</EquippedBy>
     <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>{0} wants this destroyed.</QuestTargetDestroyInspectStringShort> <!-- TODO -->
+  <ShuttleDelayInspectString>Departing on shuttle in {0}</ShuttleDelayInspectString> <!-- TODO -->
+  <ShuttleLeaveDelayInspectString>Departing in {0}</ShuttleLeaveDelayInspectString> <!-- TODO -->
+  <ShouldDepartOnShuttleInspectString>Should depart on shuttle</ShouldDepartOnShuttleInspectString> <!-- TODO -->
     <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
-    <ItemStashContents>内容物: {0} ({1})</ItemStashContents>
     <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
     <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
     <WorkPriorityShiftClickEnableDisableTip>Shift + click: 全有効\nShift + right click: 全無効</WorkPriorityShiftClickEnableDisableTip>
     <AllowedAreaShiftClickTip>Shift + click: 全コロニー\nShift + right click: 全無制限</AllowedAreaShiftClickTip>
     <CheckboxShiftClickTip>Shift + click: 全選択\nShift + right click: 全無選択</CheckboxShiftClickTip>
-    <KnownSiteThreat>既知の脅威: {0}</KnownSiteThreat>
-    <KnownSiteThreats>既知の脅威: {0}</KnownSiteThreats>
-    <KnownSiteThreatsNone>既知の脅威: 無し</KnownSiteThreatsNone>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend> <!-- TODO -->
     <SkillRequirements>必要スキル</SkillRequirements>
     <Products>製品</Products>
     <Relationship>{1}の{0}</Relationship>
@@ -174,11 +183,47 @@
     <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
     <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
+  <CannotResearchNoBench>Cannot research: No research bench</CannotResearchNoBench> <!-- TODO -->
   <Turret>タレット</Turret>
   <Turrets>タレット群</Turrets>
   <Mortar>迫撃砲</Mortar>
   <Mortars>迫撃砲群</Mortars>
   <Enemy>敵対者</Enemy>
+  <Location>location</Location> <!-- TODO -->
+  <AnimalsLower>animals</AnimalsLower> <!-- TODO -->
+  <FilthLabel>{0} x{1}</FilthLabel> <!-- TODO -->
+  <FilthLabelWithSource>{0} of {1} x{2}</FilthLabelWithSource> <!-- TODO -->
+  <Required>Required</Required> <!-- TODO -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction?</GiveGiftViaTransportPodsTradeRequestWarning> <!-- TODO -->
+  <PrisonerLower>prisoner</PrisonerLower>
+  <PrisonersLower>prisoners</PrisonersLower>
+  <Complete>Complete</Complete>
+  <ClickToViewInQuestsTab>Click to view this quest in quests tab</ClickToViewInQuestsTab>
+  <Mood>Mood</Mood>
+  <Quest>Quest</Quest>
+  <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery>
+  <GeneratesResourcesEvery>Generates {0} every {1}</GeneratesResourcesEvery>
+  <FoliageKillRadius>Foliage kill radius</FoliageKillRadius>
+  <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
+  <ViewHyperlink>View: {0}</ViewHyperlink>
+  <DetonationCountdown>Detonates in {0} days</DetonationCountdown>
+  <ExplosionOnDamageWarning>Large explosion if damaged</ExplosionOnDamageWarning>
+  <MechCluster>Mech cluster</MechCluster>
+  <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
+  <MechAssemblyCompleteIn>{0} assembly completes in {1}</MechAssemblyCompleteIn>
+  <ThingsProduced>produced</ThingsProduced>
+  <PlantsHarvested>harvested</PlantsHarvested>
+  <PawnsKilled>{0} killed</PawnsKilled>
+  <PawnsLent>Sent {0}, will return in {1}</PawnsLent>
+  <DormantCompInactive>Dormant</DormantCompInactive>
+  <DormantCompSealed>Sealed</DormantCompSealed>
+  <DormantCompBeacon>Ready to drop mechanoids</DormantCompBeacon>
+  <DormantCompExpired>Expired</DormantCompExpired>
+  <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
+  <PsychicEntropy>Psychic entropy</PsychicEntropy>
+  <PsychicEntropyPainFocus>{0} pain focus</PsychicEntropyPainFocus>
+  <ConditionCauserRadius>radius {0}</ConditionCauserRadius>
+  <DurationLeft>{0} left</DurationLeft>
 
     <!-- Fermentation barrel -->
     <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -187,7 +232,7 @@
     <FermentationProgress>発酵中: {0} (残り{1})</FermentationProgress>
     <FermentationBarrelOutOfIdealTemperature>理想的な発酵温度ではありません.発酵速度 掛け率: {0}</FermentationBarrelOutOfIdealTemperature>
 
-    <!--TextMotes-->
+  <!-- TextMotes -->
     <Headshot>ヘッドショット</Headshot>
     <TextMote_TreatSuccess>治療に成功!\n成功率 {0}</TextMote_TreatSuccess>
     <TextMote_TreatFailed>治療に失敗\n成功率 {0}</TextMote_TreatFailed>
@@ -203,6 +248,7 @@
     <TextMote_FixBrokenDownBuildingFail>修理に失敗</TextMote_FixBrokenDownBuildingFail>
     <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
     <TextMote_Dodge>回避</TextMote_Dodge>
+  <TextMote_Immune>Immune</TextMote_Immune> <!-- TODO -->
     <TextMote_Tended>{0} 看病された</TextMote_Tended>
     <lowMood>低心情</lowMood>
     <lowOpinion>低評価</lowOpinion>
@@ -241,6 +287,7 @@
 
     <!-- Job reports -->
     <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
+  <ReportHaulingToGrave>burying {THING_label} in {DESTINATION}.</ReportHaulingToGrave> <!-- TODO -->
     <ReportHauling>{1_label} を 運搬中</ReportHauling>
     <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
     <ReportSleeping>睡眠中</ReportSleeping>
@@ -262,6 +309,10 @@
     <!-- Lord job reports -->
     <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
     <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
+  <LordReportAttendingConcert>Attending concert</LordReportAttendingConcert> <!-- TODO -->
+  <LordReportHoldingConcert>Holding a concert</LordReportHoldingConcert> <!-- TODO -->
+  <LordReportGivingSpeech>Giving a speech</LordReportGivingSpeech> <!-- TODO -->
+  <LordReportListeningSpeech>Listening to {ORGANIZER_labelShort}'s speech</LordReportListeningSpeech> <!-- TODO -->
     <LordReportFormingCaravan>キャラバン隊を編成中</LordReportFormingCaravan>
 
     <!-- Shooting report -->
@@ -279,6 +330,7 @@
 
     <!-- Generated recipes -->
     <RecipeMake>{0} を作る</RecipeMake>
+  <RecipeMakeDescription>Make {0}.</RecipeMakeDescription> <!-- TODO -->
     <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
     <RecipeAdminister>{0} を投与する</RecipeAdminister>
     <RecipeAdministerJobString>{0} を投与中</RecipeAdministerJobString>
@@ -287,6 +339,7 @@
 
     <!-- Thoughts -->
     <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
+  <ThoughtNullifiedBy>thought disabled by</ThoughtNullifiedBy> <!-- TODO -->
     <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
     <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
     <MentalBreakThresholdExtreme>精神崩壊：しきい値</MentalBreakThresholdExtreme>
@@ -296,8 +349,13 @@
     <!-- Pawn info readout -->
     <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
     <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
+  <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap> <!-- TODO -->
+  <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap> <!-- TODO -->
+  <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap> <!-- TODO -->
     <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
     <Faction>派閥</Faction>
+  <FactionDesc>The faction {PAWN_labelShort} currently belongs to.</FactionDesc> <!-- TODO -->
+  <ExtraFactionDesc>The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction.</ExtraFactionDesc> <!-- TODO -->
     <Equipped>装備品</Equipped>
     <EquippedNothing>素手</EquippedNothing>
     <Dead>死亡</Dead>
@@ -343,7 +401,7 @@
     <IndoorsUnroofed>室内温度(天井開放中)</IndoorsUnroofed>
     <Outdoors>外気温</Outdoors>
 
-    <!--Rotting-->
+  <!-- Rotting -->
     <RotStateFresh>新鮮</RotStateFresh>
     <RotStateRotting>腐敗</RotStateRotting>
     <RotStateDessicated>乾燥</RotStateDessicated>
@@ -407,6 +465,8 @@
     <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
     <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow.</ShowFertilityOverlayToggleButton> <!-- TODO -->
+  <ShowTerrainAffordanceOverlayToggleButton>Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water.</ShowTerrainAffordanceOverlayToggleButton> <!-- TODO -->
     <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
     <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
     <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
@@ -421,6 +481,9 @@
     <GameConditionsTip>この地域に影響を及ぼす特殊な条件</GameConditionsTip>
     <TimeLeft>残り時間</TimeLeft>
     <ImpactDate>衝突予測日</ImpactDate>
+  <SourceUnknown>Source unknown.</SourceUnknown> <!-- TODO -->
+  <ClickToJumpToSource>Click to jump to the source.</ClickToJumpToSource> <!-- TODO -->
+  <CausedByQuest>Caused by quest: {0}</CausedByQuest> <!-- TODO -->
 
     <!-- Building placement -->
     <NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
@@ -463,7 +526,10 @@
     <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
     <!-- Neurotrainer -->
-    <NeurotrainerUsed>{USER_labelShort}は,ニューロトレイナーを使って{1}スキルを{2}から{3}に上げた.</NeurotrainerUsed>
+  <SkillNeurotrainerLabel>neurotrainer ({0})</SkillNeurotrainerLabel> <!-- TODO -->
+  <SkillNeurotrainerUseLabel>Use skill neurotrainer to learn {0}</SkillNeurotrainerUseLabel> <!-- TODO -->
+  <SkillNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed.</SkillNeurotrainerDescription> <!-- TODO -->
+  <SkillNeurotrainerUsed>{USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}.</SkillNeurotrainerUsed> <!-- TODO -->
 
     <!-- Minification -->
     <Installed>インストール済</Installed>
@@ -493,10 +559,13 @@
 
     <!-- Game over -->
     <GameOverEveryoneDead>ある者は去りました. ある者は亡くなりました. そして全ての人が居なくなり, この物語は終わりを告げます.\n\nもしかすれば, 他の誰かが この廃墟の 使い道を 考えて くれるかもしれません.</GameOverEveryoneDead>
-    <GameOverShipLaunched>宇宙船は飛び立ちました！ 次の入植者は この惑星から 脱出できました:\n\n{0}\nそして 次の入植者は 惑星に残されました:\n\n{1}\n宇宙船の人工知能(AIコア)は RimWorldより ましな ところへ 船の進路を向けました. それは, この星系内にある もう少し程度の良い 惑星かも しれません. あるいは 他の恒星系へ向かう 世紀単位の 長い旅に なるのかも しれません. もしかすると, 時代が好転するまで 小惑星の 氷の中で 数千年間ほど 待つのかも….\n\nその日が いつになるのかは, 彼らだけが 知る事になるでしょう.</GameOverShipLaunched>
     <GameOverPlanetkillerImpact>1兆もの水素爆弾の力によって, 亜光速まで加速した対惑星兵器が, 惑星表面に激しく打ち込まれました. 水風船をライフル弾が撃ち抜いたごとく, この世界は 激しい衝撃と共に液状化し, 溶けた惑星の中心核は 宇宙空間に 吹き出しました.\n\n{0}の一部分は, 小さなアステロイドベルトとなっています. 溶岩があふれだし, 放射能にまみれ 地獄のようになった 残りの部分は, 絶えず巨大な 惑星全体の振動と共に キロメートル級の 波紋を起こしています.\n\n あなたは, 生き残ることができませんでした.</GameOverPlanetkillerImpact>
-    <GameOverArrivedAtJourneyDestination>あなたが, 宇宙船に乗り込むとき, クルーから 心からの歓迎を受けました. みんな嬉しそうです.\n\n脱出した入植者:\n\n{0}\n見送った入植者:\n\n{1}\n人工知能(AIコア)が, 宇宙船を安全な惑星まで, 誘導するでしょう. あなたの為に繁栄した惑星を, このAIが見つけられるかもしれませんが, 他の星雲への数世紀に及ぶ旅への始まりかもしれません. 何千年も, 小惑星の氷原下に船体を隠す決断をするかもしれませんし, 誰かが新しいGlitterworldを建設するまで, 待たなければならないかもしれません.\n\nあなたが, 冷凍睡眠装置に身を沈めるとき, この入植者達を信じることができるかどうか, わずかな疑いを感じて, ちょっとためらいます.\n\nその結果は, 次に, あなたが目覚めた時に, きっと判るのでしょう.</GameOverArrivedAtJourneyDestination>
-    <GameOverKeepPlaying>ゲームを続ける</GameOverKeepPlaying>
+  <GameOverShipLaunchedIntro>You've launched the ship!</GameOverShipLaunchedIntro> <!-- TODO -->
+  <GameOverShipLaunchedEnding>Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunchedEnding> <!-- TODO -->
+  <GameOverColonistsEscaped>These colonists escaped:\n\n{0}</GameOverColonistsEscaped> <!-- TODO -->
+  <GameOverColonistsLeft>These colonists were left behind:\n\n{0}</GameOverColonistsLeft> <!-- TODO -->
+  <GameOverInMemoryOf>In memory of:\n</GameOverInMemoryOf> <!-- TODO -->
+  <GameOverKeepPlaying>Keep playing</GameOverKeepPlaying> <!-- TODO -->
     <GameOverMainMenu>メニューに戻る</GameOverMainMenu>
 
     <!-- Generic lifespan -->
@@ -579,5 +648,47 @@
     <!-- Transport pods -->
     <ClickToSeeAvailableOrders_WorldObject>{0}: オーダーを見る...</ClickToSeeAvailableOrders_WorldObject>
     <ClickToSeeAvailableOrders_Empty>オーダーを見る...</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
+  <PawnTooltipPsychicEntropyPainFocus>Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy.</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyLimit>Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects.</PawnTooltipPsychicEntropyLimit>
+
+  <!-- Pawn tooltip description -->
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <Reward_Pawn_DropPod>a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Items>transport pods with the following resources will arrive (total value {1}):
+\n{0}</Reward_Items>
+  <Reward_Items_Caravan>you will receive (total value {1}):
+\n{0}</Reward_Items_Caravan>
+  <Reward_Goodwill>your faction relations with {0_name} will improve by {1}</Reward_Goodwill>
+  
+  <!-- Bladelink -->
+  <BondedWith>Bonded to: {PAWN_labelShort}</BondedWith>
+  <NotBonded>Not yet bonded</NotBonded>
+  <BladelinkBondedToSomeoneElse>bonded to someone else</BladelinkBondedToSomeoneElse>
+
+  <!-- Biocoded weapons -->
+  <Biocoded>biocoded {0}</Biocoded>
+  <CodedFor>Biocoding: {0}</CodedFor>
+  <BiocodedCodedForSomeoneElse>biocoded</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <InterceptsProjectilesEvery>Intercepts {0} every {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectiles>Intercepts {0}</InterceptsProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>ground projectiles</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>aerial projectiles</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <AffectedGender>Affected gender</AffectedGender>
+  
 
 </LanguageData>

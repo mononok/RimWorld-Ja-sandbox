@@ -40,8 +40,9 @@
     <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
     <CommandGetOutOfBedDesc>起きて布団から出ます.</CommandGetOutOfBedDesc>
 
-    <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
+<CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel> <!-- TODO -->
     <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
+<CommandThroneSetOwnerDesc>Assign this throne to be owned by a specific colonist.</CommandThroneSetOwnerDesc> <!-- TODO -->
     <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
     <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります.</CommandGraveAssignColonistDesc>
     <BuildingAssign>指定</BuildingAssign>
@@ -213,6 +214,7 @@
     <CommandTrade>貿易</CommandTrade>
     <CommandTradeDesc>この派閥と商売する.</CommandTradeDesc>
     <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
+<CommandTradeFailNeedPermit>None of your people have the required faction permission: {0}</CommandTradeFailNeedPermit> <!-- TODO -->
 
     <!-- Offer gifts -->
     <CommandOfferGifts>贈り物を申し出る</CommandOfferGifts>
@@ -233,6 +235,10 @@
     <CommandSetTargetFuelLevel>燃料搭載量を設定する</CommandSetTargetFuelLevel>
     <CommandSetTargetFuelLevelDesc>燃料搭載量を決定します.入植者は,燃料搭載量まで,燃料を注入しようとします.</CommandSetTargetFuelLevelDesc>
 
+  <!-- Refueling -->
+  <CommandToggleAllowAutoRefuel>Toggle automatic refuel</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuelDesc>Sets whether or not automatic refueling is allowed.</CommandToggleAllowAutoRefuelDesc>
+
     <!-- Cancel load -->
     <CommandCancelLoad>荷積みを中止</CommandCancelLoad>
     <CommandCancelLoadDesc>荷積みを中止して,既に積んであるものを下ろします.</CommandCancelLoadDesc>
@@ -249,6 +255,18 @@
     <CommandLoadTransporterDesc>選択した輸送ポッド(群)をグループとします."荷積み"ダイアログを開いて,誰が,何を運ぶべきか決めることができます.</CommandLoadTransporterDesc>
     <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドは,給油口に接続されていません.</CommandLoadTransporterFailNotConnectedToFuelingPort>
     <CommandLoadTransporterFailNoFuel>ポッドランチャーは,燃料がありません.</CommandLoadTransporterFailNoFuel>
+  
+  <!-- Load transporter (single) -->
+<CommandLoadTransporterSingle>Load</CommandLoadTransporterSingle> <!-- TODO -->
+<CommandLoadTransporterSingleDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterSingleDesc> <!-- TODO -->
+  
+  <!-- Transporters set to load -->
+<CommandSetToLoadTransporter>Set to load</CommandSetToLoadTransporter> <!-- TODO -->
+<CommandSetToLoadTransporterDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandSetToLoadTransporterDesc> <!-- TODO -->
+  
+  <!-- Autoload transporters -->
+<CommandAutoloadTransporters>Autoload</CommandAutoloadTransporters> <!-- TODO -->
+<CommandAutoloadTransportersDesc>Toggle loading all required cargo automatically as soon as they become available.</CommandAutoloadTransportersDesc> <!-- TODO -->
 
     <!-- Select previous transporter -->
     <CommandSelectPreviousTransporter>前のグループを選択</CommandSelectPreviousTransporter>
@@ -281,5 +299,25 @@
     <!-- Attack settlement -->
     <CommandAttackSettlement>襲撃</CommandAttackSettlement>
     <CommandAttackSettlementDesc>この集落を襲撃します.</CommandAttackSettlementDesc>
+
+  <!-- Send shuttle -->
+  <CommandSendShuttle>Send</CommandSendShuttle> <!-- TODO -->
+  <CommandSendShuttleDesc>Initiate takeoff and have the shuttle fly to its destination.</CommandSendShuttleDesc> <!-- TODO -->
+  <CommandSendShuttleFailUnderRoof>The shuttle is under a roof.</CommandSendShuttleFailUnderRoof> <!-- TODO -->
+  <CommandSendShuttleFailMissingRequiredThing>Some of the required items or people are missing.</CommandSendShuttleFailMissingRequiredThing> <!-- TODO -->
+
+  <!-- Place blueprints -->
+  <CommandPlaceBlueprints>Place blueprints</CommandPlaceBlueprints> <!-- TODO -->
+  <CommandPlaceBlueprintsDesc>Place all required blueprints where possible.</CommandPlaceBlueprintsDesc> <!-- TODO -->
+
+  <!-- Cancel monument marker -->
+  <CommandCancelMonumentMarker>Cancel</CommandCancelMonumentMarker> <!-- TODO -->
+  <CommandCancelMonumentMarkerDesc>Permanently remove this monument marker.</CommandCancelMonumentMarkerDesc> <!-- TODO -->
+
+  <!-- View quest -->
+  <CommandViewQuest>View quest: {0}</CommandViewQuest> <!-- TODO -->
+  <CommandViewQuestDesc>View this quest in quests tab.</CommandViewQuestDesc> <!-- TODO -->
+  <CommandOpenLinkedQuest>Open linked quest</CommandOpenLinkedQuest> <!-- TODO -->
+  <CommandOpenLinkedQuestDesc>Open linked quest in the quests tab.</CommandOpenLinkedQuestDesc> <!-- TODO -->
 
 </LanguageData>

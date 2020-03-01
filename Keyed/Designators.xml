@@ -81,7 +81,6 @@
 
     <DesignatorZoneExpand>ゾーン拡張</DesignatorZoneExpand>
 
-
     <DesignatorClaim>領有を主張</DesignatorClaim>
     <DesignatorClaimDesc>中立の構造物(遺跡や放棄された基地)の領有を主張します.こうすることで,入植者は 構造物の修理や維持を行うことができます.</DesignatorClaimDesc>
 
@@ -103,7 +102,6 @@
     <DesignatorTame>手なずける</DesignatorTame>
     <DesignatorTameDesc>野生動物を手なずけます.</DesignatorTameDesc>
 
-
     <!-- Failure messages -->
     <UnchosenStuff>素材が選ばれていません.</UnchosenStuff>
     <TooCloseToMapEdge>マップ端に近すぎます.</TooCloseToMapEdge>
@@ -119,21 +117,25 @@
     <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
     <TerrainCannotSupport>ここの地盤では支えられません.</TerrainCannotSupport>
     <TerrainCannotSupport_TerrainAffordance>{0_label}を支えられることのできる地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
+<TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (when made of {2_label}) requires terrain that supports: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff><!-- TODO -->
     <SpaceAlreadyOccupied>すでに この場所は塞がっています.</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください.</TerrainMustBeRemovable>
     <MustBeOnMovingWater>水車は流水に設置しなければなりません.</MustBeOnMovingWater>
+<InteractionSpotWillOverlap>Interaction spot will overlap with the interaction spot of {1_labelShort}.</InteractionSpotWillOverlap><!-- TODO -->
+<InteractionSpotOverlaps>Interaction spot overlaps with the interaction spot of {1_labelShort}.</InteractionSpotOverlaps><!-- TODO -->
+<MonumentAdjacentToBuilding>Monument markers can't be placed directly adjacent to any building.</MonumentAdjacentToBuilding><!-- TODO -->
 
-
-    <!-- placement of zones -->
+    <!-- Mouse attachments -->
     <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>
     <CreateNewZone>新しく{0}を作ります.</CreateNewZone>
 
-
-    <!-- desc helpers -->
+    <!-- Desc helpers -->
     <TransmitsPower>送電します.</TransmitsPower>
     <ConstructionNeeded>建設が必要です.</ConstructionNeeded>
-    <NoColonistWithConstructionSkillTip>このスキルを持っている{0}は一人もいません.</NoColonistWithConstructionSkillTip>
-    <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+    <NoColonistWithSkillTip>このスキルを持っている{0}は一人もいません.</NoColonistWithSkillTip>
+    <SkillNeededForConstructing>{0} needed</SkillNeededForConstructing><!-- TODO -->
+    <NoColonistWithAllSkillsForConstructing>None of your {0} have all skills required.</NoColonistWithAllSkillsForConstructing><!-- TODO -->
+    <AllColonistsWithSkillHaveDisabledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>

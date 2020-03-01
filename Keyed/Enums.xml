@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- glow -->
+	<!-- Glow -->
 	<Dark>暗い</Dark>
 	<Lit>光がある</Lit>
 	<LitBrightly>明るい</LitBrightly>
@@ -80,7 +80,8 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>修正履歴</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>ローカルフォルダー</ContentSource_LocalFolder>
+  <ContentSource_OfficialModsFolder>official content</ContentSource_OfficialModsFolder>
+  <ContentSource_ModsFolder>ローカルフォルダー</ContentSource_ModsFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
   <!-- Medical care category -->
@@ -165,5 +166,19 @@
   <PsychicDroneLevel_BadMedium>中</PsychicDroneLevel_BadMedium>
   <PsychicDroneLevel_BadHigh>高</PsychicDroneLevel_BadHigh>
   <PsychicDroneLevel_BadExtreme>極度</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <AutomaticPauseMode_Never>Never</AutomaticPauseMode_Never> <!-- TODO -->
+  <AutomaticPauseMode_MajorThreat>Major threats</AutomaticPauseMode_MajorThreat> <!-- TODO -->
+  <AutomaticPauseMode_AnyThreat>Any threat</AutomaticPauseMode_AnyThreat> <!-- TODO -->
+  <AutomaticPauseMode_AnyLetter>Any letter</AutomaticPauseMode_AnyLetter> <!-- TODO -->
 
+  <!-- Pain category -->
+  <PainCategory_LowPain>itchy</PainCategory_LowPain> <!-- TODO -->
+  <PainCategory_MediumPain>aching</PainCategory_MediumPain> <!-- TODO -->
+  <PainCategory_HighPain>painful</PainCategory_HighPain> <!-- TODO -->
+  
+  <!-- ExtraFactionType -->
+  <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction> <!-- TODO -->
+  <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction> <!-- TODO -->
 </LanguageData>

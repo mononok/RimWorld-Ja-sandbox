@@ -22,6 +22,7 @@
     <TabLog>ログ</TabLog>
     <TabFormingCaravan>キャラバン</TabFormingCaravan>
     <TabTransporterContents>積載物</TabTransporterContents>
+  <TabCasketContents>Contents</TabCasketContents> <!-- TODO -->
 
     <!-- Bills tab  -->
     <AddBill>新しい 加工</AddBill>
@@ -42,6 +43,15 @@
     <!-- Guest/prisoner tab -->
     <RecruitmentResistance>敵対心が残っています</RecruitmentResistance>
     <RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
+  <RecruitmentChance>Recruitment chance</RecruitmentChance> <!-- TODO -->
+  <RecruitmentChanceExplanation>Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2}</RecruitmentChanceExplanation> <!-- TODO -->
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart> <!-- TODO -->
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nResistance reduction: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart> <!-- TODO -->
+  <PrisonerReleasePotentialRelationGains>Relations gain on release</PrisonerReleasePotentialRelationGains> <!-- TODO -->
+  <PrisonerReleaseRelationGainsDesc>The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition.</PrisonerReleaseRelationGainsDesc> <!-- TODO -->
+  <PrisonBreakMTBDays>Prison break interval</PrisonBreakMTBDays> <!-- TODO -->
+  <PrisonBreakMTBDaysDescription>The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer.</PrisonBreakMTBDaysDescription> <!-- TODO -->
+  <SlavePrice>Slave price</SlavePrice> <!-- TODO -->
     <GetsFood>食べ物を 与えます</GetsFood>
     <DoctorsCare>医者に 診せます</DoctorsCare>
     <GetsMedicine>薬を 与えます</GetsMedicine>
@@ -61,6 +71,7 @@
     <InPain>痛み</InPain>
     <PainLevel>痛みの強さ</PainLevel>
     <Injured>怪我</Injured>
+  <UntendedInjury>Untended injury</UntendedInjury> <!-- TODO -->
     <NoHealthConditions>(目立った怪我無し)</NoHealthConditions>
     <WholeBody>全身</WholeBody>
     <DataProcessing>データ処理</DataProcessing>
@@ -101,7 +112,7 @@
     <SeverePain>激しい痛み</SeverePain>
     <ExtremePain>猛烈な痛み</ExtremePain>
 
-    <!-- Training tab-->
+  <!-- Training tab -->
     <Trainability>調教しやすさ</Trainability>
     <CannotTrainNotSmartEnough>調教しやすさ {0}が必要です.</CannotTrainNotSmartEnough>
     <CannotTrainTooSmall>この調教をするには {1_labelShort}は あまりにも小さすぎます.</CannotTrainTooSmall>
@@ -111,6 +122,7 @@
     <!-- Social tab -->
     <NoRelationships>(無関係)</NoRelationships>
     <Kidnapped>誘拐</Kidnapped>
+  <Lent>Lent to {FACTION_name}, returns in {1}</Lent> <!-- TODO -->
     <Missing>消息不明</Missing>
     <Slave>奴隷</Slave>
     <FactionLeader>派閥のリーダー</FactionLeader>
@@ -155,6 +167,12 @@
 
     <!-- Transporter contents -->
     <RemoveSliderText>削除 {{0}}x {0}</RemoveSliderText>
+  <ContainedItems>Contained items</ContainedItems> <!-- TODO -->
     <ConfirmRemoveItemDialog>{0}を本当に取り除きますか?</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <DismissQuest>Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests.</DismissQuest> <!-- TODO -->
+  <UnDismissQuest>Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled.</UnDismissQuest> <!-- TODO -->
+  <QuestDismissed>This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires.</QuestDismissed> <!-- TODO -->
 
 </LanguageData>

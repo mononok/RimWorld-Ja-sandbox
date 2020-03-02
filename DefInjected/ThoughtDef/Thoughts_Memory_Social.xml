@@ -33,6 +33,9 @@
 
     <RescuedMe.stages.rescued_me.label>助けられた</RescuedMe.stages.rescued_me.label>
 
+    <RescuedMeByOfferingHelp.stages.rescued_me.label>rescued me</RescuedMeByOfferingHelp.stages.rescued_me.label> <!-- TODO -->
+    <RescuedMeByOfferingHelp.stages.rescued_me.description>I was rescued by someone! I almost thought I was done for back there. I'm so thankful.</RescuedMeByOfferingHelp.stages.rescued_me.description> <!-- TODO -->
+
     <RecruitedMe.stages.recruited_me.label>スカウトされた</RecruitedMe.stages.recruited_me.label>
 
     <CrashedTogether.stages.crashed_together.label>一緒に不時着した</CrashedTogether.stages.crashed_together.label>
@@ -41,16 +44,19 @@
     <SoldMyLovedOne.stages.loved_one_sold.labelSocial>最愛の人が売られた</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
     <SoldMyLovedOne.stages.loved_one_sold.description>私の最愛の人を,肉でも売るかのように,トレーダーに売られてしまった.</SoldMyLovedOne.stages.loved_one_sold.description>
 
-    <SoldMyBondedAnimal.stages.bonded_animal_sold.label>絆で結ばれた動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-    <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>絆で結ばれている動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
-    <SoldMyBondedAnimal.stages.bonded_animal_sold.description>私と特別な絆で結ばれている動物が,トレーダーに売られてしまった!.</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.label>bonded animal given away</SoldMyBondedAnimal.stages.bonded_animal_given_away.label> <!-- TODO -->
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.description>My special bonded animal was given away!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description> <!-- TODO -->
+	<SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>gave away my bonded animal</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial> <!-- TODO -->
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>bonded animal given away</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label> <!-- TODO -->
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>My special bonded animal was given away!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description> <!-- TODO -->
+	<SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>gave away my bonded animal</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial> <!-- TODO -->
 
-    <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>無理やりドラッグをやらされた</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
-    <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>無理やりドラッグをやらされた</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+    <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>ドラッグを強要された</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+    <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>ドラッグを強要された</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
     <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>私は薬物を絶対しない；私は自らドラッグを摂ることはないのに,無理強いされた,私は汚れた気がする.</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
 
-    <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>無理やりルシフェリウムを打たれた</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
-    <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>無理やりルシフェリウムを打たれた</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+    <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>ルシフェリウムを強要された</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+    <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>ルシフェリウムを強要された</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
     <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>私は自然体主義; 私は自らルシフェリウムを打つことはないのに,無理強いされた,私は汚れた気がする.</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
 
     <!-- Romance -->

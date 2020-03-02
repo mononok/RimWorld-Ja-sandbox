@@ -2,11 +2,13 @@
 <LanguageData>
 
     <Animal_Flu.label>インフルエンザ</Animal_Flu.label>
+    <Animal_Flu.description>An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species.</Animal_Flu.description> <!-- TODO -->
     <Animal_Flu.stages.minor.label>軽度</Animal_Flu.stages.minor.label>
     <Animal_Flu.stages.major.label>中度</Animal_Flu.stages.major.label>
     <Animal_Flu.stages.extreme.label>重度</Animal_Flu.stages.extreme.label>
 
     <Animal_Plague.label>ペスト</Animal_Plague.label>
+    <Animal_Plague.description>An infectious disease caused by bacteria. This strain is adapted to infecting non-human species.</Animal_Plague.description> <!-- TODO -->
     <Animal_Plague.stages.minor.label>軽度</Animal_Plague.stages.minor.label>
     <Animal_Plague.stages.major.label>中度</Animal_Plague.stages.major.label>
     <Animal_Plague.stages.extreme.label>重度</Animal_Plague.stages.extreme.label>

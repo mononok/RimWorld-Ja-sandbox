@@ -5,60 +5,86 @@
 
     <PegLeg.label>木製義足(杖)</PegLeg.label>
     <PegLeg.labelNoun>木製義足(杖)</PegLeg.labelNoun>
+    <PegLeg.description>An installed peg leg.</PegLeg.description> <!-- TODO -->
 
+    <WoodenHand.label>wooden hand</WoodenHand.label> <!-- TODO -->
+    <WoodenHand.description>An installed wooden hand.</WoodenHand.description> <!-- TODO -->
+    <WoodenHand.labelNoun>a wooden hand</WoodenHand.labelNoun> <!-- TODO -->
+    <WoodenFoot.description>An installed wooden foot.</WoodenFoot.description> <!-- TODO -->
+    
     <WoodenFoot.label>木製義足(足形)</WoodenFoot.label>
     <WoodenFoot.labelNoun>木製義足(足形)</WoodenFoot.labelNoun>
 
     <Denture.label>入れ歯</Denture.label>
     <Denture.labelNoun>入れ歯</Denture.labelNoun>
+    <Denture.description>An installed denture.</Denture.description> <!-- TODO -->
 
     <SimpleProstheticLeg.label>人造下肢</SimpleProstheticLeg.label>
     <SimpleProstheticLeg.labelNoun>人造下肢</SimpleProstheticLeg.labelNoun>
+    <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description> <!-- TODO -->
 
     <SimpleProstheticArm.label>人造上肢</SimpleProstheticArm.label>
     <SimpleProstheticArm.labelNoun>人造上肢</SimpleProstheticArm.labelNoun>
+    <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description> <!-- TODO -->
     <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
     <SimpleProstheticHeart.label>人工心臓</SimpleProstheticHeart.label>
     <SimpleProstheticHeart.labelNoun>人工心臓</SimpleProstheticHeart.labelNoun>
+    <SimpleProstheticHeart.description>An installed prosthetic heart.</SimpleProstheticHeart.description> <!-- TODO -->
 
     <CochlearImplant.label>人工耳</CochlearImplant.label>
     <CochlearImplant.labelNoun>人工耳</CochlearImplant.labelNoun>
+    <CochlearImplant.description>An installed cochlear implant.</CochlearImplant.description> <!-- TODO -->
 
     <BionicEye.label>強化視覚センサー</BionicEye.label>
     <BionicEye.labelNoun>強化視覚センサー</BionicEye.labelNoun>
+    <BionicEye.description>An installed bionic eye.</BionicEye.description> <!-- TODO -->
 
     <BionicArm.label>強化上肢</BionicArm.label>
     <BionicArm.labelNoun>強化上肢</BionicArm.labelNoun>
+    <BionicArm.description>An installed bionic arm.</BionicArm.description> <!-- TODO -->
     <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
     <BionicLeg.label>強化下肢</BionicLeg.label>
     <BionicLeg.labelNoun>強化下肢</BionicLeg.labelNoun>
+    <BionicLeg.description>An installed bionic leg.</BionicLeg.description> <!-- TODO -->
 
     <BionicSpine.label>強化脊椎</BionicSpine.label>
     <BionicSpine.labelNoun>強化脊椎</BionicSpine.labelNoun>
+    <BionicSpine.description>An installed bionic spine.</BionicSpine.description> <!-- TODO -->
 
     <BionicHeart.label>強化心臓</BionicHeart.label>
     <BionicHeart.labelNoun>強化心臓</BionicHeart.labelNoun>
+    <BionicHeart.description>An installed bionic heart.</BionicHeart.description> <!-- TODO -->
 
     <BionicStomach.label>強化胃</BionicStomach.label>
     <BionicStomach.labelNoun>強化胃</BionicStomach.labelNoun>
+    <BionicStomach.description>An installed bionic stomach.</BionicStomach.description> <!-- TODO -->
 
+    <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
+    <DeathAcidifier.labelNoun>a death acidifier</DeathAcidifier.labelNoun>
+    <DeathAcidifier.description>An installed death acidifier.</DeathAcidifier.description>
+    
     <BionicEar.label>強化耳</BionicEar.label>
     <BionicEar.labelNoun>強化耳</BionicEar.labelNoun>
+    <BionicEar.description>An installed bionic ear.</BionicEar.description> <!-- TODO -->
 
     <PowerClaw.label>機械化かぎ爪</PowerClaw.label>
     <PowerClaw.labelNoun>機械化かぎ爪</PowerClaw.labelNoun>
+    <PowerClaw.description>An installed power claw.</PowerClaw.description> <!-- TODO -->
     <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
 
     <ArchotechEye.label>アルコテック眼</ArchotechEye.label>
     <ArchotechEye.labelNoun>アルコテック眼</ArchotechEye.labelNoun>
+    <ArchotechEye.description>An installed archotech eye.</ArchotechEye.description> <!-- TODO -->
 
     <ArchotechArm.label>アルコテック腕</ArchotechArm.label>
     <ArchotechArm.labelNoun>アルコテック腕</ArchotechArm.labelNoun>
+    <ArchotechArm.description>An installed archotech arm.</ArchotechArm.description> <!-- TODO -->
     <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
 
     <ArchotechLeg.label>アルコテック脚</ArchotechLeg.label>
     <ArchotechLeg.labelNoun>アルコテック脚</ArchotechLeg.labelNoun>
+    <ArchotechLeg.description>An installed archotech leg.</ArchotechLeg.description> <!-- TODO -->
 
 </LanguageData>

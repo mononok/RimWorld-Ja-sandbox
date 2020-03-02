@@ -19,6 +19,9 @@
 	<Scratch.label>裂く</Scratch.label>
 	<Scratch.deathMessage>{0}は爪で引き裂かれて死んだ</Scratch.deathMessage>
 
+    <ScratchToxic.label>toxic scratch</ScratchToxic.label> <!-- TODO -->
+    <ScratchToxic.deathMessage>{0} has been torn to death.</ScratchToxic.deathMessage> <!-- TODO -->
+
 	<Bite.label>噛む</Bite.label>
 	<Bite.deathMessage>{0}は噛まれて死んだ</Bite.deathMessage>
 

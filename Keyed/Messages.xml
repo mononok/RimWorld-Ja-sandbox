@@ -82,9 +82,9 @@
 
     <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
 
-    <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
-    <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
-    <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+    <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- TODO -->
+    <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- TODO -->
+    <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- TODO -->
     <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
     <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>

@@ -44,7 +44,7 @@
     <NewDiseaseAnimal>{PAWN_labelShort}は 病気を発症しました: {1}</NewDiseaseAnimal>
     <NewPartDiseaseAnimal>{PAWN_possessive} {1}の{PAWN_labelShort}は 病気を発症しました: {3}</NewPartDiseaseAnimal>
 
-    <PawnWasFormerlyColonist>{1_labelShort}は,かつて貴方の派閥の一員でした.</PawnWasFormerlyColonist>
+    <PawnWasFormerlyColonist>{0} was formerly part of your faction.</PawnWasFormerlyColonist> <!-- TODO -->
   <PawnWasFormerlyLodger>You previously hosted {0}.</PawnWasFormerlyLodger> <!-- TODO -->
     <PawnHasTheseRelationshipsWithColonists>{1_labelShort}は,入植者達と,これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
 

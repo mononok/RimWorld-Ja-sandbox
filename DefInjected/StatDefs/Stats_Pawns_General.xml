@@ -11,6 +11,16 @@
     <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
     <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.</PsychicSensitivity.description>
 
+	<PsychicEntropyMax.label>psychic entropy limit</PsychicEntropyMax.label> <!-- TODO -->
+	<PsychicEntropyMax.description>The maximum amount of psychic entropy individual can tolerate safely.</PsychicEntropyMax.description> <!-- TODO --> 
+
+	<PsychicEntropyRecoveryRate.label>psychic entropy recovery rate</PsychicEntropyRecoveryRate.label> <!-- TODO --> 
+	<PsychicEntropyRecoveryRate.description>The rate at which this person reduces psychic entropy.</PsychicEntropyRecoveryRate.description> <!-- TODO --> 
+	<PsychicEntropyRecoveryRate.formatString>{0}/30s</PsychicEntropyRecoveryRate.formatString> <!-- TODO --> 
+
+	<PsychicEntropyGain.label>psychic entropy gain</PsychicEntropyGain.label> <!-- TODO --> 
+	<PsychicEntropyGain.description>A multiplier on psychic entropy gained from any source.</PsychicEntropyGain.description> <!-- TODO --> 
+
     <ToxicSensitivity.label>毒に対する感受性</ToxicSensitivity.label>
     <ToxicSensitivity.description>有毒なものの影響を受けやすい倍率を表します.</ToxicSensitivity.description>
 
@@ -54,6 +64,7 @@
     <ForagedNutritionPerDay.description>このキャラクターが,キャラバン隊として旅行中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
 
     <ShootingAccuracyTurret.label>精密射撃</ShootingAccuracyTurret.label>
+    <ShootingAccuracyTurret.labelForFullStatList>shooting accuracy (turrets)</ShootingAccuracyTurret.labelForFullStatList> <!-- TODO -->
     <ShootingAccuracyTurret.description>射撃距離毎の命中率です.命中率は様々な要因でも変化します.命中率に関しての説明は,射手を選んだ後に,目標をマウスオーバーすると確認することができます.</ShootingAccuracyTurret.description>
 
 </LanguageData>

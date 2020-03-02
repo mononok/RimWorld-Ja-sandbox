@@ -32,6 +32,8 @@
 
     <UseVerbOnThing.reportString>Verb を使用中</UseVerbOnThing.reportString>
 
+    <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString> <!-- TODO -->
+
     <Equip.reportString>TargetA を装備中</Equip.reportString>
 
 	<TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
@@ -60,6 +62,8 @@
 	<FillFermentingBarrel.reportString>TargetA を詰めている</FillFermentingBarrel.reportString>
 
 	<TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
+
+    <ApplyTechprint.reportString>applying techprint TargetB.</ApplyTechprint.reportString> <!-- TODO -->
 
     <UnloadInventory.reportString>TargetA 荷下ろししている</UnloadInventory.reportString>
 
@@ -109,5 +113,7 @@
     <LayDown.reportString>睡眠中</LayDown.reportString>
 
     <Lovin.reportString>ウフフ,アハハ</Lovin.reportString>
+
+    <GotoMindControlled.reportString>moving.</GotoMindControlled.reportString> <!-- TODO -->
 
 </LanguageData>

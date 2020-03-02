@@ -22,6 +22,9 @@
 	<Outdoors.label>アウトドア</Outdoors.label>
 	<Outdoors.description>アウトドアは,屋内に閉じこもっていたくない欲求を表します.長い期間屋内に居ることで,特に地下に居ることで悪影響を受けます.空の下にいる時間を増やすことで,とりわけ屋外に居ると改善します.部屋の大きさは関係なく,その時々に外に居たい欲求です.外にいる時間が無いことは,地下拠点に住む者への重大な難問となります.</Outdoors.description>
 
+    <DrugDesire.label>chemical</DrugDesire.label> <!-- TODO -->
+    <DrugDesire.description>Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood.</DrugDesire.description> <!-- TODO -->
+
 	<RoomSize.label>間取り</RoomSize.label>
 
     <!-- Alcohol_Beer.xml -->

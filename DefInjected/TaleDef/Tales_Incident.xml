@@ -396,9 +396,9 @@
 	    <li>desc_sentence->視界には[Enemy]一人いない.</li>
     </Eclipse.rulePack.rulesStrings>
 
-    <!-- JourneyOffer -->
-    <JourneyOffer.label>journey offer</JourneyOffer.label>
-    <JourneyOffer.rulePack.rulesStrings>
+    <!-- EndGame_ShipEscape -->
+    <EndGame_ShipEscape.label>journey offer</EndGame_ShipEscape.label>
+    <EndGame_ShipEscape.rulePack.rulesStrings>
 	    <li>tale_noun->[PAWN_nameDef],旧友から一通のメッセージを受け取る</li>
 	    <li>tale_noun->[PAWN_nameDef]の[Community],チャンス到来</li>
 	    <li>image->[circumstance_group],[PAWN_nameDef][delivery_method]によって運ばれてきた手紙を開ける</li>
@@ -426,7 +426,7 @@
 	    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]のそばに腰を下ろす.</li>
 	    <li>desc_sentence->[Community]がはるか遠くに見える.</li>
 	    <li>desc_sentence->宇宙船がはるか遠くに見える.</li>
-    </JourneyOffer.rulePack.rulesStrings>
+    </EndGame_ShipEscape.rulePack.rulesStrings>
 
 	<!-- Tornado -->
 	<Tornado.label>tornado</Tornado.label>

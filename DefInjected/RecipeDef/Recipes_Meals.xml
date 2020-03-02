@@ -17,4 +17,20 @@
         <CookMealSurvival.description>生の肉と野菜を組み合わせた食材から,非常用食品を調理します.保存工程において 多くの材料が無駄に捨てられます.</CookMealSurvival.description>
         <CookMealSurvival.jobString>非常用食品を調理中</CookMealSurvival.jobString>
 
+		<CookMealSimpleBulk.label>cook simple meal x4</CookMealSimpleBulk.label> <!-- TODO -->
+		<CookMealSimpleBulk.description>Cook 4 straightforward meals from one ingredient.</CookMealSimpleBulk.description> <!-- TODO -->
+		<CookMealSimpleBulk.jobString>Cooking 4 simple meals.</CookMealSimpleBulk.jobString> <!-- TODO -->
+
+		<CookMealFineBulk.label>cook fine meal x4</CookMealFineBulk.label> <!-- TODO -->
+		<CookMealFineBulk.description>Cook 4 somewhat complex meals from a combination of meat and plant ingredients.</CookMealFineBulk.description> <!-- TODO -->
+		<CookMealFineBulk.jobString>Cooking 4 fine meals.</CookMealFineBulk.jobString> <!-- TODO -->
+
+		<CookMealLavishBulk.label>cook lavish meal x4</CookMealLavishBulk.label> <!-- TODO -->
+		<CookMealLavishBulk.description>Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted.</CookMealLavishBulk.description> <!-- TODO -->
+		<CookMealLavishBulk.jobString>Cooking 4 lavish meals.</CookMealLavishBulk.jobString> <!-- TODO -->
+
+		<CookMealSurvivalBulk.label>cook packaged survival meal x4</CookMealSurvivalBulk.label> <!-- TODO -->
+		<CookMealSurvivalBulk.description>Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process.</CookMealSurvivalBulk.description> <!-- TODO -->
+		<CookMealSurvivalBulk.jobString>Cooking 4 survival meals.</CookMealSurvivalBulk.jobString> <!-- TODO -->
+
 </LanguageData>

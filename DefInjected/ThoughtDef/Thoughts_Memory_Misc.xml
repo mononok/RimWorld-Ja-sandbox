@@ -25,8 +25,14 @@
     <SleptInHeat.stages.slept_in_the_heat.label>熱帯夜</SleptInHeat.stages.slept_in_the_heat.label>
     <SleptInHeat.stages.slept_in_the_heat.description>私は熱帯夜の中で寝るしかなかった.エアコンがあってもよくない?</SleptInHeat.stages.slept_in_the_heat.description>
 
-    <KnowPrisonerSold.stages.a_prisoner_was_sold.label>奴隷売買</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
-    <KnowPrisonerSold.stages.a_prisoner_was_sold.description>このコロニーでは囚人を奴隷として売っている.よくない事だと思う.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+    <KnowPrisonerSold.stages.prisoner_sold.label>prisoner sold</KnowPrisonerSold.stages.prisoner_sold.label> <!-- TODO -->
+    <KnowPrisonerSold.stages.prisoner_sold.description>This colony sold a prisoner into slavery. That's a worrying thought.</KnowPrisonerSold.stages.prisoner_sold.description> <!-- TODO -->
+
+    <FreedFromSlavery.stages.freed_from_slavery.label>freed from slavery</FreedFromSlavery.stages.freed_from_slavery.label> <!-- TODO -->
+    <FreedFromSlavery.stages.freed_from_slavery.description>I have been freed from slavery. I'm so thankful!</FreedFromSlavery.stages.freed_from_slavery.description> <!-- TODO -->
+
+    <ReleasedHealthyPrisoner.stages.prisoner_released.label>prisoner released</ReleasedHealthyPrisoner.stages.prisoner_released.label> <!-- TODO -->
+    <ReleasedHealthyPrisoner.stages.prisoner_released.description>We released a healthy prisoner. It feels good to know we even treat prisoners well.</ReleasedHealthyPrisoner.stages.prisoner_released.description> <!-- TODO -->
 
     <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>誰かの臓器を摘出した</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
     <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>入植者が,犯罪者かゲストから臓器を摘出した.おぞましい.臓器のため解体される彼らに選択肢はない.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>

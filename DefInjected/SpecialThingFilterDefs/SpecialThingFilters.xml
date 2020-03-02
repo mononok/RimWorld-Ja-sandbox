@@ -26,4 +26,16 @@
     <AllowDeadmansApparel.label>穢れた衣服を許可</AllowDeadmansApparel.label>
     <AllowDeadmansApparel.description>死体が,一度でも着用したことのある衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowDeadmansApparel.description>
 
+	<AllowSmeltableApparel.label>allow smeltable</AllowSmeltableApparel.label> <!-- TODO -->
+	<AllowNonSmeltableApparel.label>allow non-smeltable</AllowNonSmeltableApparel.label> <!-- TODO -->
+
+	<AllowBurnableApparel.label>allow burnable</AllowBurnableApparel.label> <!-- TODO -->
+	<AllowNonBurnableApparel.label>allow non-burnable</AllowNonBurnableApparel.label> <!-- TODO -->
+
+	<AllowNonBurnableWeapons.label>allow non-burnable</AllowNonBurnableWeapons.label> <!-- TODO -->
+	<AllowBurnableWeapons.label>allow burnable</AllowBurnableWeapons.label> <!-- TODO -->
+
+	<AllowBiocodedWeapons.label>allow biocoded weapons</AllowBiocodedWeapons.label> <!-- TODO -->
+	<AllowNonBiocodedWeapons.label>allow non-biocoded weapons</AllowNonBiocodedWeapons.label> <!-- TODO -->
+
 </LanguageData>

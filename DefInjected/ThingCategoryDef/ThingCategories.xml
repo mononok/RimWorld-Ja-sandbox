@@ -49,15 +49,26 @@
 
     <Artifacts.label>アーティファクト</Artifacts.label>
 
+    <Neurotrainers.label>neurotrainers</Neurotrainers.label> <!-- TODO -->
+    <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label> <!-- TODO -->
+
+    <Techprints.label>techprints</Techprints.label> <!-- TODO -->
+
     <BodyParts.label>義肢</BodyParts.label>
     <BodyPartsNatural.label>生体</BodyPartsNatural.label>
-    <BodyPartsArtificial.label>人造</BodyPartsArtificial.label>
+	<BodyPartsSimple.label>simple parts</BodyPartsSimple.label> <!-- TODO -->
+	<BodyPartsProsthetic.label>prosthetic</BodyPartsProsthetic.label> <!-- TODO -->
+	<BodyPartsBionic.label>bionic</BodyPartsBionic.label> <!-- TODO -->
+	<BodyPartsUltra.label>ultratech</BodyPartsUltra.label> <!-- TODO -->
+	<BodyPartsArchotech.label>archotech</BodyPartsArchotech.label> <!-- TODO -->
 
     <!-- Weapons -->
 
     <Weapons.label>武器</Weapons.label>
 
     <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
+    
+    <WeaponsMeleeBladelink.label>bladelink weapons</WeaponsMeleeBladelink.label> <!-- TODO -->
 
     <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
 
@@ -67,7 +78,15 @@
 
     <Apparel.label>衣服</Apparel.label>
 
+    <ApparelArmor.label>armor</ApparelArmor.label> <!-- TODO -->
+
     <Headgear.label>ヘッドギア</Headgear.label>
+
+    <ArmorHeadgear.label>headgear</ArmorHeadgear.label> <!-- TODO -->
+
+    <ApparelNoble.label>noble apparel</ApparelNoble.label> <!-- TODO -->
+
+    <HeadgearNoble.label>headgear</HeadgearNoble.label> <!-- TODO -->
 
     <Buildings.label>建築物</Buildings.label>
     <BuildingsArt.label>絵画</BuildingsArt.label>

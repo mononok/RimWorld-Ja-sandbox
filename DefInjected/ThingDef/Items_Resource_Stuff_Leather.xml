@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!--========== Basic leathers ============-->
+    <Leather_Plain.label>なめし革</Leather_Plain.label>
+    <Leather_Plain.description>なめして,乾燥させ,そぎ落とした皮.衣類やバッグを作るための,上質で伝統的な素材です.</Leather_Plain.description>
+
+    <Leather_Dog.label>犬の革</Leather_Dog.label>
+    <Leather_Dog.description>なめして,乾燥させ,そぎ落とした皮.衣類やバッグを作るための,上質で伝統的な素材です.</Leather_Dog.description>
+    <Leather_Wolf.label>狼の革</Leather_Wolf.label>
+    <Leather_Wolf.description>柔らかい毛皮は,オオカミ類の生物から獲れます.突き通しづらくて,防寒に適しています.</Leather_Wolf.description>
+    <Leather_Panthera.label>パンサーの毛皮</Leather_Panthera.label>
+    <Leather_Panthera.description>柔らかい毛皮は,大型猫類の生物から獲れます.突き通しづらくて,防暑に適しています.</Leather_Panthera.description>
+    <Leather_Camel.label>ラクダの革</Leather_Camel.label>
+    <Leather_Camel.description>なめして,乾燥させ,そぎ落としたラクダ皮.暑い地方での温度調整に役立ちます.</Leather_Camel.description>
+    <Leather_Bluefur.label>ブルーファー</Leather_Bluefur.label>
+    <Leather_Bluefur.description>マッファローの柔らかい毛皮.独特な青い色彩で判別できます.寒い地方での温度調整に役立ちます.</Leather_Bluefur.description>
+    <Leather_Bear.label>熊の革</Leather_Bear.label>
+    <Leather_Bear.description>熊の堅い毛皮.代表的な毛皮と比較すると,かなり頑丈で,少しだけ温度調整機能が勝っています.</Leather_Bear.description>
+    <Leather_GuineaPig.label>guinea pig fur</Leather_GuineaPig.label> <!-- TODO -->
+    <Leather_GuineaPig.description>Sheets of guinea pig fur. It is delicate, but luxurious.</Leather_GuineaPig.description> <!-- TODO -->
+
+    <!--========== Basic leathers: skin ============-->
+    <Leather_Human.label>人皮</Leather_Human.label>
+    <Leather_Human.description>なめして,乾燥させ,そぎ落としたヒトの皮.たいていの人間は,この素材に恐怖を感じます.多少のヒトは,これに惹き付けられます.まあまあの革ですが,保護も断熱も,とりわけ優れていることはありません.</Leather_Human.description>
+    <Leather_Pig.label>豚の皮</Leather_Pig.label>
+    <Leather_Pig.description>なめして,乾燥させ,そぎ落としたブタの皮.まあまあの革ですが,保護も断熱も,とりわけ優れているということはありません..</Leather_Pig.description>
+
+    <!--========== Thin leathers ============-->
+    <Leather_Light.label>軽量な革</Leather_Light.label>
+    <Leather_Light.description>軽量で,薄い革です.大抵は小さな動物から獲れます.身体の保護作用は,厚い皮ほどはありません.</Leather_Light.description>
+    <Leather_Bird.label>鳥の皮</Leather_Bird.label>
+    <Leather_Bird.description>なめして,乾燥させ,そぎ落とした鳥の皮.羽毛以外はとても華奢で,熱と寒さを少しだけ防ぎます.</Leather_Bird.description>
+    <Leather_Chinchilla.label>チンチラの毛皮</Leather_Chinchilla.label>
+    <Leather_Chinchilla.description>なめして,乾燥させ,そぎ落としたチンチラの皮.非常にとても豪華で熱を通さない毛皮として知られています.群を抜いて非常に貴重な品です.</Leather_Chinchilla.description>
+    <Leather_Fox.label>狐の毛皮</Leather_Fox.label>
+    <Leather_Fox.description>キツネの毛皮です.寒さをよく防ぎ,素晴らしく豪華で,高値で売られています.</Leather_Fox.description>
+    <Leather_Lizard.label>トカゲの皮</Leather_Lizard.label>
+    <Leather_Lizard.description>冷血爬虫類をなめした革です.ワニ革はかなり丈夫ですが,断熱効果はまったくありません.</Leather_Lizard.description>
+
+    <!--========== Tough leathers ============-->
+    <Leather_Elephant.label>象の皮</Leather_Elephant.label>
+    <Leather_Elephant.description>なめして,乾燥させ,そぎ落としたゾウの皮.丈夫な革ですが,断熱効果は薄いようです.</Leather_Elephant.description>
+    <Leather_Heavy.label>重い毛皮</Leather_Heavy.label>
+    <Leather_Heavy.description>厚い革を,長くて,ゴツゴツした荒い毛が覆っています.大型の強い動物から獲れます.この厚い革は,とても保護と断熱に優れています.</Leather_Heavy.description>
+    <Leather_Rhinoceros.label>サイの皮</Leather_Rhinoceros.label>
+    <Leather_Rhinoceros.description>なめして,乾燥させ,そぎ落としたサイの皮.戦闘時の耐久力は群を抜いていますが,少ししか温度変化への保護を与えてくれません.</Leather_Rhinoceros.description>
+
+    <!--========== Super leathers ============-->
+    <Leather_Thrumbo.label>スランボの毛皮</Leather_Thrumbo.label>
+    <Leather_Thrumbo.description>スランボの柔らかい毛皮です.豪華で並外れた耐久力を持っています.この革のもつ断熱性と強さは,高級品の製作に使用されます.</Leather_Thrumbo.description>
+
+    <!--========== Awful leathers ============-->
+    <Leather_Patch.label>パッチレザー</Leather_Patch.label>
+    <Leather_Patch.description>劣った織物状の革は,色々な種類の革を切って,縫い集めて作られています.何の種の革であるかに関係なく作られます,パッチレザーのデコボコな形状は,通常の革製品よりは,脆くて断熱効果も少なくなります.</Leather_Patch.description>
+
+</LanguageData>

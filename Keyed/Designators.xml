@@ -115,7 +115,7 @@
     <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>
     <IdenticalThingExists>すでに 同じ物があります.</IdenticalThingExists>
     <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
-    <TerrainCannotSupport>ここの地盤では支えられません.</TerrainCannotSupport>
+    <TerrainCannotSupport>{0_label} cannot be built on this terrain.</TerrainCannotSupport> <!-- TODO -->
     <TerrainCannotSupport_TerrainAffordance>{0_label}を支えられることのできる地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
 <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (when made of {2_label}) requires terrain that supports: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff><!-- TODO -->
     <SpaceAlreadyOccupied>すでに この場所は塞がっています.</SpaceAlreadyOccupied>

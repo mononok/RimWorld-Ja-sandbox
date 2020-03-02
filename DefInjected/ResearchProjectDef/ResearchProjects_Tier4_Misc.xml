@@ -15,12 +15,17 @@
 
 	<Fabrication.label>組立製造</Fabrication.label>
 	<Fabrication.description>コンポーネント組み立てから,パワーアーマー建造までの,ハイテクプロジェクトの遂行能力がある組立製造台を作成できるようになります.</Fabrication.description>
+	<Fabrication.discoveredLetterText>You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components.\n  -Some special threats drop them when defeated.</Fabrication.discoveredLetterText> <!-- TODO -->
+	<Fabrication.discoveredLetterTitle>About: Getting advanced components</Fabrication.discoveredLetterTitle> <!-- TODO -->
 
 	<AdvancedFabrication.label>先進組立製造</AdvancedFabrication.label>
 	<AdvancedFabrication.description>並コンポーネントや他の素材から,先進コンポーネントを加工できるようになります.</AdvancedFabrication.description>
 
 	<Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
 	<Cryptosleep.description>生体活動を仮死状態にさせる,冬眠カプセルを作成できるようになります.</Cryptosleep.description>
+
+    <ReconArmor.label>recon armor</ReconArmor.label> <!-- TODO -->
+    <ReconArmor.description>Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components.</ReconArmor.description> <!-- TODO -->
 
 	<PoweredArmor.label>パワーアーマー</PoweredArmor.label>
     <PoweredArmor.description>パワーアーマー,パワーアーマ－ヘルメットを作れるようになります.【ノート】先進コンポーネントが必要です.</PoweredArmor.description>

@@ -39,6 +39,10 @@
 	<Nutrition.description>この食べ物の栄養価です.</Nutrition.description>
 
 	<FoodPoisonChanceFixedHuman.label>食中毒発生率</FoodPoisonChanceFixedHuman.label>
+	<FoodPoisonChanceFixedHuman.labelForFullStatList>food poison chance (food stat)</FoodPoisonChanceFixedHuman.labelForFullStatList> <!-- TODO -->
 	<FoodPoisonChanceFixedHuman.description>この食べ物で食中毒を発症する確率です.</FoodPoisonChanceFixedHuman.description>
+
+    <RoyalFavorValue.label>royal favor value</RoyalFavorValue.label> <!-- TODO -->
+    <RoyalFavorValue.description>The amount of royal favor your trader will earn for giving this to a tribute collector.</RoyalFavorValue.description> <!-- TODO -->
 
 </LanguageData>

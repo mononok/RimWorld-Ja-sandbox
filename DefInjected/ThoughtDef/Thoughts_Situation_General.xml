@@ -1,20 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <LowExpectations.stages.skyhigh_expectations.label>空まで高い将来への意気込み</LowExpectations.stages.skyhigh_expectations.label>
-    <LowExpectations.stages.skyhigh_expectations.description>ここは本当に豊かな場所だ.とても心地良い場所にさせてくれる筈だ.</LowExpectations.stages.skyhigh_expectations.description>
-    <LowExpectations.stages.high_expectations.label>希望が高い将来への意気込み</LowExpectations.stages.high_expectations.label>
-    <LowExpectations.stages.high_expectations.description>ここは,だいたい豊かな場所だ.私の望むことが,できない訳がない.</LowExpectations.stages.high_expectations.description>
-    <LowExpectations.stages.moderate_expectations.label>適度な将来への意気込み</LowExpectations.stages.moderate_expectations.label>
-    <LowExpectations.stages.moderate_expectations.description>ここは,本当に豊かな土地とはいえない.すっかり好きなようにする期待は出来そうにない.</LowExpectations.stages.moderate_expectations.description>
-    <LowExpectations.stages.low_expectations.label>希望が低い将来への意気込み</LowExpectations.stages.low_expectations.label>
-    <LowExpectations.stages.low_expectations.description>ここは多くの満足をもたらす富があるとは思えない土地だ.すばらしく住みよい期待はできない.</LowExpectations.stages.low_expectations.description>
-    <LowExpectations.stages.very_low_expectations.label>希望がとても低い将来への意気込み</LowExpectations.stages.very_low_expectations.label>
-    <LowExpectations.stages.very_low_expectations.description>この土地は非常に貧しい,ここで豊かに暮らせるとは期待できない.だからこそ,心を強く持たなければ…</LowExpectations.stages.very_low_expectations.description>
-    <LowExpectations.stages.extremely_low_expectations.label>希望が極めて低い将来への意気込み</LowExpectations.stages.extremely_low_expectations.label>
-    <LowExpectations.stages.extremely_low_expectations.description>私は避難設備なしでここに降りた.だからこそ,生きのびるには,鋼の心でとりかからないと...</LowExpectations.stages.extremely_low_expectations.description>
-
-
     <EnvironmentDark.stages.darkness.label>暗闇</EnvironmentDark.stages.darkness.label>
     <EnvironmentDark.stages.darkness.description>一時の間,暗闇の中にいた.きにくわない.</EnvironmentDark.stages.darkness.description>
 
@@ -22,6 +8,9 @@
     <ApparelDamaged.stages.ratty_apparel.description>私の格好は,ちょっとひどい.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.ratty_apparel.description>
     <ApparelDamaged.stages.tattered_apparel.label>ボロボロの服を着ている</ApparelDamaged.stages.tattered_apparel.label>
     <ApparelDamaged.stages.tattered_apparel.description>私はぼろをまとっている.もう少し身なりを整えることはできないのだろうか？</ApparelDamaged.stages.tattered_apparel.description>
+
+    <WrongApparelGender.stages.wearing_apparel.label>wearing {0} apparel</WrongApparelGender.stages.wearing_apparel.label> <!-- TODO -->
+    <WrongApparelGender.stages.wearing_apparel.description>I'm wearing apparel that was clearly made for {0}s! This is embarrassing.</WrongApparelGender.stages.wearing_apparel.description> <!-- TODO -->
 
     <DeadMansApparel.stages.tainted.label>死者{0}の遺服</DeadMansApparel.stages.tainted.label>
     <DeadMansApparel.stages.tainted.description>私は,死人が着ていた服を着ている,気味が悪くて不潔な感じがする.</DeadMansApparel.stages.tainted.description>

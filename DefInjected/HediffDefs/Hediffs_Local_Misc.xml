@@ -3,14 +3,19 @@
 
     <TraumaSavant.label>後天性サヴァン症</TraumaSavant.label>
     <TraumaSavant.labelNoun>後天性サヴァン症</TraumaSavant.labelNoun>
+    <TraumaSavant.description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</TraumaSavant.description> <!-- TODO -->
 
     <ChemicalDamageModerate.label>化学的損傷</ChemicalDamageModerate.label>
+    <ChemicalDamageModerate.description>Chemical damage at the cellular level.</ChemicalDamageModerate.description> <!-- TODO -->
     <ChemicalDamageSevere.label>化学的損傷</ChemicalDamageSevere.label>
+    <ChemicalDamageSevere.description>Chemical damage at the cellular level.</ChemicalDamageSevere.description> <!-- TODO -->
 
     <Cirrhosis.label>肝硬変</Cirrhosis.label>
     <Cirrhosis.labelNoun>肝硬変</Cirrhosis.labelNoun>
+    <Cirrhosis.description>A degenerative liver disease caused by excessive alcohol consumption.</Cirrhosis.description> <!-- TODO -->
 
     <ResurrectionPsychosis.label>蘇生精神病</ResurrectionPsychosis.label>
+    <ResurrectionPsychosis.description>Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence.</ResurrectionPsychosis.description> <!-- TODO -->
     <ResurrectionPsychosis.stages.early-0.label>初期</ResurrectionPsychosis.stages.early-0.label>
     <ResurrectionPsychosis.stages.early-1.label>初期</ResurrectionPsychosis.stages.early-1.label>
     <ResurrectionPsychosis.stages.moderate.label>中期</ResurrectionPsychosis.stages.moderate.label>

@@ -12,4 +12,8 @@
 	<Wall.label>壁</Wall.label>
 	<Wall.description>壁です.屋根を支えます.</Wall.description>
 
+  <!--============================== Misc ==============================-->
+    <Column.label>column</Column.label> <!-- TODO -->
+    <Column.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</Column.description> <!-- TODO -->
+
 </LanguageData>

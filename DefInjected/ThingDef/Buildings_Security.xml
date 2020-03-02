@@ -4,6 +4,9 @@
     <Sandbags.label>土のう</Sandbags.label>
     <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしいカバーを与えます.</Sandbags.description>
 
+    <Barricade.label>barricade</Barricade.label> <!-- TODO -->
+    <Barricade.description>A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects.</Barricade.description> <!-- TODO -->
+
     <!--=============== Improvised turret ===============-->
     <Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
     <Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>

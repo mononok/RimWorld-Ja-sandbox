@@ -16,6 +16,12 @@
     <NegotiationAbility.label>外交力</NegotiationAbility.label>
     <NegotiationAbility.description>この人が,どれだけ交渉人として効果があるかを表します.この人が他の派閥に贈り物をしたときの,相手派閥への影響度合いを表します. 他の派閥との和平交渉にも影響を及ぼします.</NegotiationAbility.description>
 
+    <PawnBeauty.label>beauty</PawnBeauty.label> <!-- TODO -->
+    <PawnBeauty.description>How physically attractive this person is. This affects social interactions.</PawnBeauty.description> <!-- TODO -->
+
+    <ArrestSuccessChance.label>Arrest success chance</ArrestSuccessChance.label> <!-- TODO -->
+    <ArrestSuccessChance.description>How effective this person is in arresting people.\n\nThis affects the success chance of arresting tries.</ArrestSuccessChance.description> <!-- TODO -->
+
     <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
     <TradePriceImprovement.description>価格について交渉した時に,どれだけ良い条件で売り買いできるかを表します.</TradePriceImprovement.description>
 

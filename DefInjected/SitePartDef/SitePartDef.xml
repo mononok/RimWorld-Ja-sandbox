@@ -1,34 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<BanditCamp.label>bandit camp</BanditCamp.label> <!-- TODO -->
+	<BanditCamp.description>A bandit camp.</BanditCamp.description> <!-- TODO -->
+	<BanditCamp.approachingReportString>Attacking {0}</BanditCamp.approachingReportString> <!-- TODO -->
+	<BanditCamp.approachOrderString>Attack {0}</BanditCamp.approachOrderString> <!-- TODO -->
+	<BanditCamp.arrivedLetter>There is an enemy outpost in this area.</BanditCamp.arrivedLetter> <!-- TODO -->
+
 	<Manhunters.label>人狩りの群れ</Manhunters.label>
 	<Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
-	<Manhunters.descriptionDialogue>ヒト狩り,{1}頭の{0}の群れが辺りをうろついています.</Manhunters.descriptionDialogue>
     <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます.</Manhunters.arrivedLetter>
 
 	<Outpost.label>前哨基地</Outpost.label>
 	<Outpost.description>小規模,守備されている前哨基地</Outpost.description>
-	<Outpost.descriptionDialogue>{0}人の敵によって守られている前哨基地があります.</Outpost.descriptionDialogue>
     <Outpost.arrivedLetter>敵の前哨基地がこのエリアにあります.</Outpost.arrivedLetter>
     <Outpost.approachOrderString>{0}を攻撃</Outpost.approachOrderString>
     <Outpost.approachingReportString>{0}を攻撃中</Outpost.approachingReportString>
 
 	<Turrets.label>タレット</Turrets.label>
 	<Turrets.description>タレット群</Turrets.description>
-	<Turrets.descriptionDialogue>タレットが {0}あります.</Turrets.descriptionDialogue>
     <Turrets.arrivedLetter>敵のタレットがこのエリアにあります.</Turrets.arrivedLetter>
 
 	<AmbushEdge.label>待ち伏せ</AmbushEdge.label>
 	<AmbushEdge.description>待ち伏せ</AmbushEdge.description>
-	<AmbushEdge.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています.</AmbushEdge.descriptionDialogue>
 
 	<AmbushHidden.label>待ち伏せ</AmbushHidden.label>
 	<AmbushHidden.description>待ち伏せ</AmbushHidden.description>
-	<AmbushHidden.descriptionDialogue>敵の部隊がここに近寄る者を待ち伏せて待っています.</AmbushHidden.descriptionDialogue>
 
 	<SleepingMechanoids.label>スリープ状態のメカノイド</SleepingMechanoids.label>
 	<SleepingMechanoids.description>機能休眠中のメカノイドのグループがいます.</SleepingMechanoids.description>
-	<SleepingMechanoids.descriptionDialogue>{0}体の,機能休眠中メカノイドが,このエリアにいます.</SleepingMechanoids.descriptionDialogue>
     <SleepingMechanoids.arrivedLetter>機能休眠中メカノイドが,このエリアにいます.\n\nあなたが彼らに接触したとき,起きだすかも,起きださないかもしれません,気を付けて</SleepingMechanoids.arrivedLetter>
+
+    <DownedRefugee.label>行き倒れの難民</DownedRefugee.label>
+    <DownedRefugee.description>取り残され助けを乞う難民</DownedRefugee.description>
+
+    <ItemStash.label>埋蔵品</ItemStash.label>
+    <ItemStash.description>隠された貴重な品々</ItemStash.description>
+
+	<PossibleUnknownThreatMarker.label>possible unknown threat</PossibleUnknownThreatMarker.label> <!-- TODO -->
+	<PossibleUnknownThreatMarker.description>A possible, unknown threat.</PossibleUnknownThreatMarker.description> <!-- TODO -->
+
+    <PreciousLump.label>希少鉱物の岩塊</PreciousLump.label>
+    <PreciousLump.description>希少鉱物の岩塊</PreciousLump.description>
+
+    <PrisonerWillingToJoin.label>囚人キャンプ</PrisonerWillingToJoin.label>
+    <PrisonerWillingToJoin.description>敵対勢力に捕らわれた囚人,救助すると仲間に加わるだろう.</PrisonerWillingToJoin.description>
 
 </LanguageData>

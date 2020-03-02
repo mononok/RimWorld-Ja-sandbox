@@ -3,6 +3,7 @@
 
     <Misc.label>その他</Misc.label>
     <Misc.labelNoun>ケガ</Misc.labelNoun>
+    <Misc.description>Miscellanous injuries.</Misc.description> <!-- TODO -->
     <Misc.labelNounPretty>{1}内の{0}</Misc.labelNounPretty>
     <Misc.comps.HediffComp_TendDuration.labelTendedWell>包帯</Misc.comps.HediffComp_TendDuration.labelTendedWell>
     <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -12,6 +13,7 @@
     <Burn.label>やけど</Burn.label>
     <Burn.labelNoun>やけど</Burn.labelNoun>
     <Burn.labelNounPretty>{1}内の{0}</Burn.labelNounPretty>
+    <Burn.description>A burn.</Burn.description> <!-- TODO -->
     <Burn.comps.HediffComp_GetsPermanent.permanentLabel>火傷痕</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
     <Burn.comps.HediffComp_TendDuration.labelTendedWell>包帯</Burn.comps.HediffComp_TendDuration.labelTendedWell>
     <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -19,9 +21,18 @@
     <Burn.injuryProps.destroyedLabel>焼け落ちた</Burn.injuryProps.destroyedLabel>
     <Burn.injuryProps.destroyedOutLabel>焼け落ちた</Burn.injuryProps.destroyedOutLabel>
 
+    <ChemicalBurn.label>chemical burn</ChemicalBurn.label> <!-- TODO -->
+    <ChemicalBurn.labelNoun>a chemical burn</ChemicalBurn.labelNoun> <!-- TODO -->
+    <ChemicalBurn.labelNounPretty>{0} in the {1}</ChemicalBurn.labelNounPretty> <!-- TODO -->
+    <ChemicalBurn.description>A chemical burn.</ChemicalBurn.description> <!-- TODO -->
+    <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>chemical burn scar</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel> <!-- TODO -->
+    <ChemicalBurn.injuryProps.destroyedLabel>Burned off (chemical)</ChemicalBurn.injuryProps.destroyedLabel> <!-- TODO -->
+    <ChemicalBurn.injuryProps.destroyedOutLabel>Burned out (chemical)</ChemicalBurn.injuryProps.destroyedOutLabel> <!-- TODO -->
+
     <Crush.label>ひしゃげた</Crush.label>
     <Crush.labelNoun>ひしゃげた</Crush.labelNoun>
     <Crush.labelNounPretty>{1}内の{0}</Crush.labelNounPretty>
+    <Crush.description>A crushing wound.</Crush.description> <!-- TODO -->
     <Crush.comps.HediffComp_GetsPermanent.permanentLabel>傷痕</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
     <Crush.comps.HediffComp_TendDuration.labelTendedWell>包帯</Crush.comps.HediffComp_TendDuration.labelTendedWell>
     <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -31,6 +42,7 @@
     <Crack.label>ひびが入った</Crack.label>
     <Crack.labelNoun>ひびが入った</Crack.labelNoun>
     <Crack.labelNounPretty>{1}内の{0}</Crack.labelNounPretty>
+    <Crack.description>A crack.</Crack.description> <!-- TODO -->
     <Crack.comps.HediffComp_GetsPermanent.permanentLabel>ひび傷痕</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
     <Crack.comps.HediffComp_TendDuration.labelTendedWell>治療</Crack.comps.HediffComp_TendDuration.labelTendedWell>
     <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>治療</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -40,6 +52,7 @@
     <Cut.label>切創</Cut.label>
     <Cut.labelNoun>切創</Cut.labelNoun>
     <Cut.labelNounPretty>{1}内の{0}</Cut.labelNounPretty>
+    <Cut.description>A cut.</Cut.description> <!-- TODO -->
     <Cut.comps.HediffComp_GetsPermanent.permanentLabel>切創痕</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
     <Cut.comps.HediffComp_TendDuration.labelTendedWell>包帯</Cut.comps.HediffComp_TendDuration.labelTendedWell>
     <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -50,6 +63,7 @@
     <SurgicalCut.label>医療事故(切創)</SurgicalCut.label>
     <SurgicalCut.labelNoun>医療事故(切創)</SurgicalCut.labelNoun>
     <SurgicalCut.labelNounPretty>{1}内の{0}</SurgicalCut.labelNounPretty>
+    <SurgicalCut.description>A cut made during surgery.</SurgicalCut.description> <!-- TODO -->
     <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>手術痕</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
     <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>包帯</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
     <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -58,6 +72,7 @@
     <Scratch.label>ひっかき傷</Scratch.label>
     <Scratch.labelNoun>ひっかき傷</Scratch.labelNoun>
     <Scratch.labelNounPretty>{1}内の{0}</Scratch.labelNounPretty>
+    <Scratch.description>A scratch or tear.</Scratch.description> <!-- TODO -->
     <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>掻傷痕</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
     <Scratch.comps.HediffComp_TendDuration.labelTendedWell>包帯</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
     <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -68,6 +83,7 @@
     <Bite.label>噛み傷</Bite.label>
     <Bite.labelNoun>噛み傷</Bite.labelNoun>
     <Bite.labelNounPretty>{1}内の{0}</Bite.labelNounPretty>
+    <Bite.description>A bite wound.</Bite.description> <!-- TODO -->
     <Bite.comps.HediffComp_GetsPermanent.permanentLabel>噛傷痕</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
     <Bite.comps.HediffComp_TendDuration.labelTendedWell>包帯</Bite.comps.HediffComp_TendDuration.labelTendedWell>
     <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -78,6 +94,7 @@
     <Stab.label>刺し傷</Stab.label>
     <Stab.labelNoun>刺し傷</Stab.labelNoun>
     <Stab.labelNounPretty>{1}内の{0}</Stab.labelNounPretty>
+    <Stab.description>A stab wound.</Stab.description> <!-- TODO -->
     <Stab.comps.HediffComp_GetsPermanent.permanentLabel>刺傷痕</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
     <Stab.comps.HediffComp_TendDuration.labelTendedWell>包帯</Stab.comps.HediffComp_TendDuration.labelTendedWell>
     <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -88,6 +105,7 @@
     <Gunshot.label>銃創</Gunshot.label>
     <Gunshot.labelNoun>銃創</Gunshot.labelNoun>
     <Gunshot.labelNounPretty>{1}内の{0}</Gunshot.labelNounPretty>
+    <Gunshot.description>A gunshot wound.</Gunshot.description> <!-- TODO -->
     <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>銃創痕</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
     <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>銃創痕</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
     <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>包帯</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
@@ -99,6 +117,7 @@
     <Shredded.label>裂傷</Shredded.label>
     <Shredded.labelNoun>裂傷</Shredded.labelNoun>
     <Shredded.labelNounPretty>{1}内の{0}</Shredded.labelNounPretty>
+    <Shredded.description>A part of the body has been shredded and torn.</Shredded.description> <!-- TODO -->
     <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>裂傷痕</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
     <Shredded.comps.HediffComp_TendDuration.labelTendedWell>包帯</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
     <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -109,6 +128,7 @@
     <Bruise.label>打撲傷</Bruise.label>
     <Bruise.labelNoun>打撲傷</Bruise.labelNoun>
     <Bruise.labelNounPretty>{1}内の{0}</Bruise.labelNounPretty>
+    <Bruise.description>A bruise.</Bruise.description> <!-- TODO -->
     <Bruise.comps.HediffComp_TendDuration.labelTendedWell>包帯</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
     <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
     <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
@@ -116,6 +136,7 @@
 
     <Frostbite.label>凍傷</Frostbite.label>
     <Frostbite.labelNounPretty>{1}内の{0}</Frostbite.labelNounPretty>
+    <Frostbite.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</Frostbite.description> <!-- TODO -->
     <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>凍傷痕</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
     <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>包帯</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
     <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
@@ -124,6 +145,7 @@
 
     <!-- Missing body part -->
     <MissingBodyPart.label>身体の一部分を失った</MissingBodyPart.label>
+    <MissingBodyPart.description>A body part is entirely missing.</MissingBodyPart.description> <!-- TODO -->
     <MissingBodyPart.labelNoun>身体欠損</MissingBodyPart.labelNoun>
     <MissingBodyPart.labelNounPretty>{0}こと</MissingBodyPart.labelNounPretty>
 

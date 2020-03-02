@@ -46,6 +46,13 @@
     <Wander_Psychotic.recoveryMessage>{0}はフラフラしなくなった.</Wander_Psychotic.recoveryMessage>
     <Wander_Psychotic.baseInspectLine>精神状態: 精神衰弱</Wander_Psychotic.baseInspectLine>
 
+    <Wander_Psychotic_Short.label>wandering in psychosis</Wander_Psychotic_Short.label> <!-- TODO -->
+    <Wander_Psychotic_Short.baseInspectLine>Mental state: Psychotic wandering</Wander_Psychotic_Short.baseInspectLine> <!-- TODO -->
+    <Wander_Psychotic_Short.beginLetter>{0} is wandering around in a psychotic state.</Wander_Psychotic_Short.beginLetter> <!-- TODO -->
+    <Wander_Psychotic_Short.beginLetterLabel>daze</Wander_Psychotic_Short.beginLetterLabel> <!-- TODO -->
+    <Wander_Psychotic_Short.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic_Short.recoveryMessage> <!-- TODO -->
+
+
     <Tantrum.label>癇癪持ち</Tantrum.label>
     <Tantrum.beginLetter>{0}は癇癪を起こした.\n\n[PAWN_pronoun]は,手当たり次第に家具,アイテム,建物を壊します.</Tantrum.beginLetter>
     <Tantrum.recoveryMessage>{0}の癇癪は落ち着いた.</Tantrum.recoveryMessage>

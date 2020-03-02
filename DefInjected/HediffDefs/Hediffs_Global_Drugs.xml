@@ -4,6 +4,7 @@
     <!-- Alcohol_Beer.xml -->
     <AlcoholHigh.label>飲酒</AlcoholHigh.label>
     <AlcoholHigh.labelNoun>飲酒</AlcoholHigh.labelNoun>
+    <AlcoholHigh.description>Alcohol in the bloodstream. It makes people happy, but reduces capacities.</AlcoholHigh.description> <!-- TODO -->
     <AlcoholHigh.stages.warm.label>酔い始め</AlcoholHigh.stages.warm.label>
     <AlcoholHigh.stages.tipsy.label>ほろ酔い</AlcoholHigh.stages.tipsy.label>
     <AlcoholHigh.stages.drunk.label>酩酊</AlcoholHigh.stages.drunk.label>
@@ -11,76 +12,99 @@
     <AlcoholHigh.stages.blackout.label>昏酔</AlcoholHigh.stages.blackout.label>
     <Hangover.label>二日酔い</Hangover.label>
     <Hangover.labelNoun>二日酔い</Hangover.labelNoun>
+    <Hangover.description>An unpleasant delayed after-effect of alcohol intoxication.</Hangover.description> <!-- TODO -->
     <Hangover.stages.slight.label>軽度</Hangover.stages.slight.label>
     <Hangover.stages.strong.label>重度</Hangover.stages.strong.label>
     <Hangover.stages.pounding.label>酷い</Hangover.stages.pounding.label>
 
     <AlcoholTolerance.label>アルコール耐性</AlcoholTolerance.label>
+    <AlcoholTolerance.description>A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect.</AlcoholTolerance.description> <!-- TODO -->
     <AlcoholTolerance.stages.small-0.label>小</AlcoholTolerance.stages.small-0.label>
     <AlcoholTolerance.stages.small-1.label>小</AlcoholTolerance.stages.small-1.label>
     <AlcoholTolerance.stages.large.label>大</AlcoholTolerance.stages.large.label>
     <AlcoholTolerance.stages.massive.label>極大</AlcoholTolerance.stages.massive.label>
     <AlcoholAddiction.label>アルコール依存症</AlcoholAddiction.label>
+    <AlcoholAddiction.description>A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AlcoholAddiction.description> <!-- TODO -->
     <AlcoholAddiction.stages.withdrawal.label>離脱症状</AlcoholAddiction.stages.withdrawal.label>
     <!-- WakeUp.xml -->
     <WakeUpHigh.label>ウェイクアップによる興奮状態</WakeUpHigh.label>
     <WakeUpHigh.labelNoun>ウェイクアップ・ハイ</WakeUpHigh.labelNoun>
+    <WakeUpHigh.description>Wake-up in the bloodstream. Fills the need for rest by stimulating the brain.</WakeUpHigh.description> <!-- TODO -->
     <WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
+    <WakeUpTolerance.description>A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect.</WakeUpTolerance.description> <!-- TODO -->
     <WakeUpTolerance.stages.small-0.label>小</WakeUpTolerance.stages.small-0.label>
     <WakeUpTolerance.stages.small-1.label>小</WakeUpTolerance.stages.small-1.label>
     <WakeUpTolerance.stages.large.label>大</WakeUpTolerance.stages.large.label>
     <WakeUpTolerance.stages.massive.label>極大</WakeUpTolerance.stages.massive.label>
     <WakeUpAddiction.label>ウェイクアップ依存症</WakeUpAddiction.label>
+    <WakeUpAddiction.description>A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</WakeUpAddiction.description> <!-- TODO -->
     <WakeUpAddiction.stages.withdrawal.label>離脱症状</WakeUpAddiction.stages.withdrawal.label>
     <!-- Smokeleaf.xml -->
     <SmokeleafHigh.label>スモークリーフによる酩酊状態</SmokeleafHigh.label>
     <SmokeleafHigh.labelNoun>スモークリーフ・ハイ</SmokeleafHigh.labelNoun>
+    <SmokeleafHigh.description>Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being.</SmokeleafHigh.description> <!-- TODO -->
     <SmokeleafTolerance.label>スモークリーフ耐性</SmokeleafTolerance.label>
+    <SmokeleafTolerance.description>A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect.</SmokeleafTolerance.description> <!-- TODO -->
     <SmokeleafTolerance.stages.small-0.label>小</SmokeleafTolerance.stages.small-0.label>
     <SmokeleafTolerance.stages.small-1.label>小</SmokeleafTolerance.stages.small-1.label>
     <SmokeleafTolerance.stages.large.label>大</SmokeleafTolerance.stages.large.label>
     <SmokeleafTolerance.stages.massive.label>極大</SmokeleafTolerance.stages.massive.label>
     <SmokeleafAddiction.label>スモークリーフ依存症</SmokeleafAddiction.label>
+    <SmokeleafAddiction.description>A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</SmokeleafAddiction.description> <!-- TODO -->
     <SmokeleafAddiction.stages.withdrawal.label>離脱症状</SmokeleafAddiction.stages.withdrawal.label>
     <!-- Psychite_Flake.xml -->
     <FlakeHigh.label>フレークによる興奮状態</FlakeHigh.label>
+    <FlakeHigh.description>Active flake in the bloodstream. Generates a euphoric, debilitating high.</FlakeHigh.description> <!-- TODO -->
     <FlakeHigh.labelNoun>フレーク・ハイ</FlakeHigh.labelNoun>
     <PsychiteTeaHigh.label>サイカイトティーによる興奮状態</PsychiteTeaHigh.label>
+    <PsychiteTeaHigh.description>Active psychite tea in the bloodstream. Generates a mild euphoric effect.</PsychiteTeaHigh.description> <!-- TODO -->
     <PsychiteTeaHigh.labelNoun>サイカイト・ハイ</PsychiteTeaHigh.labelNoun>
     <!-- Psychite_Yayo.xml -->
     <YayoHigh.label>イェイョによる興奮状態</YayoHigh.label>
+    <YayoHigh.description>Active yayo in the bloodstream. Generates an intense euphoric high.</YayoHigh.description> <!-- TODO -->
     <YayoHigh.labelNoun>イェイョ・ハイ</YayoHigh.labelNoun>
     <PsychiteTolerance.label>サイカイト耐性</PsychiteTolerance.label>
+    <PsychiteTolerance.description>A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect.</PsychiteTolerance.description> <!-- TODO -->
     <PsychiteTolerance.stages.small-0.label>小</PsychiteTolerance.stages.small-0.label>
     <PsychiteTolerance.stages.small-1.label>小</PsychiteTolerance.stages.small-1.label>
     <PsychiteTolerance.stages.large.label>大</PsychiteTolerance.stages.large.label>
     <PsychiteTolerance.stages.massive.label>極大</PsychiteTolerance.stages.massive.label>
     <PsychiteAddiction.label>サイカイト依存症</PsychiteAddiction.label>
+    <PsychiteAddiction.description>A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</PsychiteAddiction.description> <!-- TODO -->
     <PsychiteAddiction.stages.withdrawal.label>離脱症状</PsychiteAddiction.stages.withdrawal.label>
     <!-- GoJuice.xml -->
     <GoJuiceHigh.label>ゴージュースによる興奮状態</GoJuiceHigh.label>
+    <GoJuiceHigh.description>Go-Juice in the bloodstream. It supercharges combat-related abilities.</GoJuiceHigh.description> <!-- TODO -->
     <GoJuiceHigh.labelNoun>ゴージュース・ハイ</GoJuiceHigh.labelNoun>
     <GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
+    <GoJuiceTolerance.description>A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect.</GoJuiceTolerance.description> <!-- TODO -->
     <GoJuiceTolerance.stages.small-0.label>小</GoJuiceTolerance.stages.small-0.label>
     <GoJuiceTolerance.stages.small-1.label>小</GoJuiceTolerance.stages.small-1.label>
     <GoJuiceTolerance.stages.large.label>大</GoJuiceTolerance.stages.large.label>
     <GoJuiceTolerance.stages.massive.label>極大</GoJuiceTolerance.stages.massive.label>
     <GoJuiceAddiction.label>ゴージュース依存症</GoJuiceAddiction.label>
+    <GoJuiceAddiction.description>A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</GoJuiceAddiction.description> <!-- TODO -->
     <GoJuiceAddiction.stages.withdrawal.label>離脱症状</GoJuiceAddiction.stages.withdrawal.label>
     <!-- Luciferium.xml -->
     <LuciferiumHigh.label>ルシフェリウム</LuciferiumHigh.label>
+    <LuciferiumHigh.description>Active luciferium mechanites in the body. They improve the body's functioning in all respects. However, if they are not regularly replenished with more doses of luciferium, they lose cohesion and drive the user insane.</LuciferiumHigh.description> <!-- TODO -->
     <LuciferiumAddiction.label>ルシフェリウム依存症</LuciferiumAddiction.label>
+    <LuciferiumAddiction.description>Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.\n\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die.</LuciferiumAddiction.description> <!-- TODO -->
     <LuciferiumAddiction.stages.unmet.label>未対処</LuciferiumAddiction.stages.unmet.label>
     <!-- MalariBlock.xml -->
     <PenoxycylineHigh.label>ペノキシリン</PenoxycylineHigh.label>
+    <PenoxycylineHigh.description>Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant.</PenoxycylineHigh.description> <!-- TODO -->
 
     <AmbrosiaHigh.label>アンブロージアによる高揚状態</AmbrosiaHigh.label>
+    <AmbrosiaHigh.description>Ambrosia chemicals in the bloodstream. It lifts the mood.</AmbrosiaHigh.description> <!-- TODO -->
     <AmbrosiaTolerance.label>アンブロージア耐性</AmbrosiaTolerance.label>
+    <AmbrosiaTolerance.description>A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect.</AmbrosiaTolerance.description> <!-- TODO -->
     <AmbrosiaTolerance.stages.small-0.label>小</AmbrosiaTolerance.stages.small-0.label>
     <AmbrosiaTolerance.stages.small-1.label>小</AmbrosiaTolerance.stages.small-1.label>
     <AmbrosiaTolerance.stages.large.label>大</AmbrosiaTolerance.stages.large.label>
     <AmbrosiaTolerance.stages.massive.label>極大</AmbrosiaTolerance.stages.massive.label>
     <AmbrosiaAddiction.label>アンブロージア依存症</AmbrosiaAddiction.label>
+    <AmbrosiaAddiction.description>A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AmbrosiaAddiction.description> <!-- TODO -->
     <AmbrosiaAddiction.stages.withdrawal.label>離脱症状</AmbrosiaAddiction.stages.withdrawal.label>
 
 </LanguageData>

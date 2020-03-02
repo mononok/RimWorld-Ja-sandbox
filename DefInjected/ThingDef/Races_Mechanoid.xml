@@ -7,7 +7,7 @@
     <Corpse_Mech_Centipede.description>機械化ムカデの故障個体</Corpse_Mech_Centipede.description>
     <Mech_Centipede.tools.head.label>頭部</Mech_Centipede.tools.head.label>
 
-    <Mech_Lancer.label>機械化lancer</Mech_Lancer.label>
+    <Mech_Lancer.label>機械化lancer</Mech_Lancer.label> <!-- TODO -->
     <Mech_Lancer.description>ロングレンジから狙撃するための巨大な光学センサーを顔面に装備したヒトサイズの戦闘メカノイドです.距離があれば効果的なのに,近接戦闘が弱点です.メカノイドとの戦闘に慣れたベテランは,ランスと対峙するときにする安全策は,突撃することだと,よく知っています.</Mech_Lancer.description>
     <Corpse_Mech_Lancer.label>機械化ムカデの故障個体</Corpse_Mech_Lancer.label>
     <Corpse_Mech_Lancer.description>機械化ムカデの故障個体</Corpse_Mech_Lancer.description>
@@ -22,5 +22,11 @@
     <Mech_Scyther.tools.left_blade.label>左刃</Mech_Scyther.tools.left_blade.label>
     <Mech_Scyther.tools.right_blade.label>右刃</Mech_Scyther.tools.right_blade.label>
     <Mech_Scyther.tools.head.label>頭部</Mech_Scyther.tools.head.label>
+
+	<Mech_Pikeman.label>pikeman</Mech_Pikeman.label> <!-- TODO -->
+	<Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it.</Mech_Pikeman.description> <!-- TODO -->
+	<Mech_Pikeman.tools.front_left_leg.label>front left leg</Mech_Pikeman.tools.front_left_leg.label> <!-- TODO -->
+	<Mech_Pikeman.tools.front_right_leg.label>front right leg</Mech_Pikeman.tools.front_right_leg.label> <!-- TODO -->
+	<Mech_Pikeman.tools.head.label>head</Mech_Pikeman.tools.head.label> <!-- TODO -->
 
 </LanguageData>

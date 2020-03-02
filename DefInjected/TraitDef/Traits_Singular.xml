@@ -43,6 +43,12 @@
     <Gay.degreeDatas.gay.label>同性愛者</Gay.degreeDatas.gay.label>
     <Gay.degreeDatas.gay.description>{PAWN_nameDef}は同性にロマンティックな魅力を感じ惹きつけられます.</Gay.degreeDatas.gay.description>
 
+    <Bisexual.degreeDatas.bisexual.label>bisexual</Bisexual.degreeDatas.bisexual.label> <!-- TODO -->
+    <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} is romantically attracted to both men and women.</Bisexual.degreeDatas.bisexual.description> <!-- TODO -->
+
+    <Asexual.degreeDatas.asexual.label>asexual</Asexual.degreeDatas.asexual.label> <!-- TODO -->
+    <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} has no sexual attraction to anyone at all.</Asexual.degreeDatas.asexual.description> <!-- TODO -->
+
     <AnnoyingVoice.degreeDatas.annoying_voice.label>気に障る声</AnnoyingVoice.degreeDatas.annoying_voice.label>
     <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}は鼻声のように曇った声で,要領を得ない言い回しや咳払いも織り交ぜて話しがちな事が,ことさら人をイライラさせます.この事が,他者から{PAWN_objective}嫌われやすくします.</AnnoyingVoice.degreeDatas.annoying_voice.description>
 
@@ -60,6 +66,9 @@
 
     <FastLearner.degreeDatas.fast_learner.label>物覚えが早い</FastLearner.degreeDatas.fast_learner.label>
     <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef}は物覚えのコツを持っています.{PAWN_pronoun}は他者より早く物事を覚えます.</FastLearner.degreeDatas.fast_learner.description>
+
+    <SlowLearner.degreeDatas.slow_learner.label>slow learner</SlowLearner.degreeDatas.slow_learner.label> <!-- TODO -->
+    <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.</SlowLearner.degreeDatas.slow_learner.description> <!-- TODO -->
 
     <Undergrounder.degreeDatas.undergrounder.label>地底人</Undergrounder.degreeDatas.undergrounder.label>
     <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}は明かりも,外での経験も必要ありません.{PAWN_pronoun}は,窮屈感を感じたり,キャビンフィーバーになったりしないでしょう,{PAWN_pronoun}は,どれだけ閉じこもっても気にしないし,暗闇を気にする事もありません.</Undergrounder.degreeDatas.undergrounder.description>
@@ -82,6 +91,9 @@
 
     <Tough.degreeDatas.tough.label>屈強</Tough.degreeDatas.tough.label>
     <Tough.degreeDatas.tough.description>{PAWN_nameDef}は,厚い皮膚,良い肉付き,丈夫な骨という体格の持ち主です. {PAWN_pronoun}は,同じように殴られたとしても,他者よりダメージが少なくなります.</Tough.degreeDatas.tough.description>
+
+    <TorturedArtist.degreeDatas.tortured_artist.label>tortured artist</TorturedArtist.degreeDatas.tortured_artist.label> <!-- TODO -->
+    <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.</TorturedArtist.degreeDatas.tortured_artist.description> <!-- TODO -->
 
     <Gourmand.degreeDatas.gourmand.label>食道楽</Gourmand.degreeDatas.gourmand.label>
     <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}の生活は,食物を中心に回っています.{PAWN_pronoun}は飢えやすく,たとえ空腹でなくとも,ちょくちょくガツガツとした強い食欲に襲われます.</Gourmand.degreeDatas.gourmand.description>

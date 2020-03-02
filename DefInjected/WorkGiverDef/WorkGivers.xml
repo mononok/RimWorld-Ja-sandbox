@@ -32,6 +32,10 @@
     <DoctorTendToSelf.verb>自己治療</DoctorTendToSelf.verb>
     <DoctorTendToSelf.gerund>自己治療する</DoctorTendToSelf.gerund>
 
+	<DoctorTendToSelfEmergency.label>tend to self</DoctorTendToSelfEmergency.label> <!-- TODO -->
+	<DoctorTendToSelfEmergency.gerund>tending to</DoctorTendToSelfEmergency.gerund> <!-- TODO -->
+	<DoctorTendToSelfEmergency.verb>tend to</DoctorTendToSelfEmergency.verb> <!-- TODO -->
+
     <DoctorFeedHumanlikes.label>患者に食事</DoctorFeedHumanlikes.label>
     <DoctorFeedHumanlikes.verb>給仕</DoctorFeedHumanlikes.verb>
     <DoctorFeedHumanlikes.gerund>に食事を与える</DoctorFeedHumanlikes.gerund>
@@ -374,8 +378,12 @@
     <Research.verb>研究</Research.verb>
     <Research.gerund>研究すること</Research.gerund>
 
-    <Scan.label>スキャナー操作</Scan.label>
-    <Scan.verb>スキャン</Scan.verb>
-    <Scan.gerund>スキャン</Scan.gerund>
+	<LongRangeScan.label>operate long range scanner</LongRangeScan.label> <!-- TODO -->
+	<LongRangeScan.gerund>scanning at</LongRangeScan.gerund> <!-- TODO -->
+	<LongRangeScan.verb>scan</LongRangeScan.verb> <!-- TODO -->
+
+	<GroundPenetratingScan.label>operate ground penetrating scanner</GroundPenetratingScan.label> <!-- TODO -->
+	<GroundPenetratingScan.gerund>scanning at</GroundPenetratingScan.gerund> <!-- TODO -->
+	<GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb> <!-- TODO -->
 
 </LanguageData>

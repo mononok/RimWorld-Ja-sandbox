@@ -29,4 +29,8 @@
 	    <li>stumbled->よろよろと歩き出した</li>
     </Event_Stun.rulePack.rulesStrings>
  
+    <Event_AbilityUsed.rulePack.rulesStrings> <!-- TODO -->
+        <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite]</li>
+    </Event_AbilityUsed.rulePack.rulesStrings>
+
 </LanguageData>

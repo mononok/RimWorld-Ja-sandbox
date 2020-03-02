@@ -6,18 +6,23 @@
     <StuffEffectMultiplierArmor.label>アーマー - 素材効果の掛け率</StuffEffectMultiplierArmor.label>
 
     <ArmorRating_Sharp.label>アーマー - 突刺系</ArmorRating_Sharp.label>
+    <ArmorRating_Sharp.labelForFullStatList>Armor - Sharp (armor stat)</ArmorRating_Sharp.labelForFullStatList> <!-- TODO -->
     <ArmorRating_Sharp.description>弾丸,ナイフ,爆発,動物の咬傷などの鋭利なダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力で打撲系ダメージに変換されます.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Sharp.description>
 
 	<ArmorRating_Blunt.label>アーマー - 打撲系</ArmorRating_Blunt.label>
+	<ArmorRating_Blunt.labelForFullStatList>Armor - Blunt (armor stat)</ArmorRating_Blunt.labelForFullStatList> <!-- TODO -->
 	<ArmorRating_Blunt.description>拳・クラブによる殴打,落石などの殴打系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Blunt.description>
 
 	<ArmorRating_Heat.label>アーマー - 熱系</ArmorRating_Heat.label>
+	<ArmorRating_Heat.labelForFullStatList>Armor - Heat (armor stat)</ArmorRating_Heat.labelForFullStatList> <!-- TODO -->
 	<ArmorRating_Heat.description>炎のような温度系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Heat.description>
 
-	<Insulation_Cold.label>断熱材(低温)</Insulation_Cold.label>
+	<Insulation_Cold.label>保温材</Insulation_Cold.label>
+	<Insulation_Cold.labelForFullStatList>Insulation - Cold (armor stat)</Insulation_Cold.labelForFullStatList> <!-- TODO -->
 	<Insulation_Cold.description>この衣服が改善する,快適温度の低温側への補正値です.大きいほど低い温度でも何とかなります.</Insulation_Cold.description>
 
-	<Insulation_Heat.label>断熱材(高温)</Insulation_Heat.label>
+	<Insulation_Heat.label>遮熱材</Insulation_Heat.label>
+	<Insulation_Heat.labelForFullStatList>Insulation - Heat (armor stat)</Insulation_Heat.labelForFullStatList> <!-- TODO -->
 	<Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
 
 	<EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>

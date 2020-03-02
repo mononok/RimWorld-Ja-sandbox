@@ -6,7 +6,7 @@
     <LetterLabelAnimalInsanityMultiple>{0} 暴走群!!</LetterLabelAnimalInsanityMultiple>
     <AnimalInsanityMultiple>サイコウェーブの 一種が このあたりに 吹き荒れました.\n\n入植者は 大丈夫です. しかし... 多くの {0} は 正気を 失い 暴れだした ようです.</AnimalInsanityMultiple>
 
-    <LetterLabelCropBlight>疫病</LetterLabelCropBlight>
+    <LetterLabelCropBlight>Blight: {PLANTDEF_labelPlural}</LetterLabelCropBlight> <!-- TODO -->
     <LetterCropBlight>Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads.</LetterCropBlight> <!-- TODO -->
 
@@ -35,7 +35,7 @@
     <ShortCircuitWasLarge>とても多くの電気が放電された結果 , かなり大きな 爆発が 起きました.</ShortCircuitWasLarge>
     <ShortCircuitWasHuge>うわぁ！ それは まさに 大爆発です.</ShortCircuitWasHuge>
 
-    <TraderArrival>商船は, 惑星のそばを 通過しようと しています.\n\n彼らは {0} という名で\n {1} を なりわいと しています.</TraderArrival>
+    <TraderArrival>A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2}</TraderArrival> <!-- TODO -->
   <TraderArrivalFromFaction>They're affiliated with {FACTION_name}.</TraderArrivalFromFaction> <!-- TODO -->
   <TraderArrivalNoFaction>They are not affiliated with any faction.</TraderArrivalNoFaction> <!-- TODO -->
 
@@ -56,7 +56,7 @@
     <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
 
     <!-- Crashed ship part-->
-    <MessageAnimalInsanityPulse>古代の宇宙船は サイコパルスを使って ちかくの動物に 狂気を 照射しました.</MessageAnimalInsanityPulse>
+    <MessageAnimalInsanityPulse>The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad.</MessageAnimalInsanityPulse> <!-- TODO -->
     <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
     <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
   <ActivatedDaysAgo>Activated {0} days ago</ActivatedDaysAgo> <!-- TODO -->

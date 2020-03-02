@@ -8,6 +8,7 @@
 	<MedicalQualityMax.description>医療看護の最大品質表します.良い看護品質は,スキルを持った医者により良い怪我の治療と確実性を可能にします.</MedicalQualityMax.description>
 
 	<ConstructionSpeedFactor.label>建造速度</ConstructionSpeedFactor.label>
+    <ConstructionSpeedFactor.labelForFullStatList>construction speed (material factor)</ConstructionSpeedFactor.labelForFullStatList> <!-- TODO -->
 	<ConstructionSpeedFactor.description>建築速度への掛率です.石材などのある素材で建てる場合に遅くなり,木材のような素材では早くなります.</ConstructionSpeedFactor.description>
 
 </LanguageData>

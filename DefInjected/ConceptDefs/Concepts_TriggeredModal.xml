@@ -14,4 +14,7 @@
     <MaxNumberOfPlayerSettlements.label>コロニー最大数</MaxNumberOfPlayerSettlements.label>
     <MaxNumberOfPlayerSettlements.helpText>【警告】: Rimworldは,一度にひとつのコロニーで遊べるようにデザインされました.複数のコロニーを持つことも可能ですが,これはゲーム全体のアンバランスとパフォーマンス低下を引き起こすと思われます.私達は,少なくとも最初は一つのコロニーでゲームすることをお勧めします.</MaxNumberOfPlayerSettlements.helpText>
 
+    <TradingRequiresPermit.label>Trading permit requirements</TradingRequiresPermit.label> <!-- TODO -->
+    <TradingRequiresPermit.helpText>Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher.</TradingRequiresPermit.helpText> <!-- TODO -->
+
 </LanguageData>

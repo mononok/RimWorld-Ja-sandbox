@@ -26,6 +26,11 @@
     <Inspired_Recruitment.endMessage>{0}のやる気が落ち着いた(勧誘意欲).</Inspired_Recruitment.endMessage>
     <Inspired_Recruitment.baseInspectLine>やる気: 勧誘意欲</Inspired_Recruitment.baseInspectLine>
 
+    <Inspired_Taming.label>inspired taming</Inspired_Taming.label> <!-- TODO -->
+    <Inspired_Taming.baseInspectLine>Inspired: Inspired taming</Inspired_Taming.baseInspectLine> <!-- TODO -->
+    <Inspired_Taming.beginLetter>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed.</Inspired_Taming.beginLetter> <!-- TODO -->
+    <Inspired_Taming.endMessage>{0} is no longer inspired (inspired taming).</Inspired_Taming.endMessage> <!-- TODO -->
+
     <Inspired_Surgery.label>手術意欲</Inspired_Surgery.label>
     <Inspired_Surgery.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]がする次回の手術成功率は,2倍になるでしょう.最低限度の失敗率は変わらず存在します.\n\nやる気は,次の手術が終わるか,8日後に終わります.</Inspired_Surgery.beginLetter>
     <Inspired_Surgery.endMessage>{0}のやる気が落ち着いた(手術意欲).</Inspired_Surgery.endMessage>

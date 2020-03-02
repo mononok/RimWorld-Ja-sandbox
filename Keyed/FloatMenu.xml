@@ -78,7 +78,7 @@
     <GoHere>ここに移動する</GoHere>
 
     <Arrest>{0}を 逮捕する</Arrest>
-    <TryToArrest>{1_label}の逮捕を試みる</TryToArrest>
+    <TryToArrest>Try to arrest {1_label} ({2} chance)</TryToArrest> <!-- TODO -->
     <CannotArrest>逮捕できない</CannotArrest>
 
     <Capture>{1_label}を 捕らえる</Capture>

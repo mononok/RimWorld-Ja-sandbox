@@ -4,38 +4,52 @@
     <SolarFlare.label>太陽フレア</SolarFlare.label>
 	<SolarFlare.description>太陽フレアが惑星に吹き続けています.電磁気障害が,ほとんどの電気機器を働きを妨げます.</SolarFlare.description>
     <SolarFlare.endMessage>太陽フレアは終わろうとしている.</SolarFlare.endMessage>
+    <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText> <!-- TODO -->
 
 	<Eclipse.label>日食</Eclipse.label>
 	<Eclipse.description>日食の影が地面を覆っていきます,やがて昼間であっても暗くなるでしょう.</Eclipse.description>
     <Eclipse.endMessage>日食は終わろうとしている.</Eclipse.endMessage>
+    <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText> <!-- TODO -->
 
 	<PsychicDrone.label>サイコドローン</PsychicDrone.label>
 	<PsychicDrone.description>離れたところにある強力なAIが,人々を狂気へいざなおうとサイコウェーブを照射しています.</PsychicDrone.description>
+	<PsychicDrone.descriptionFuture>a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity</PsychicDrone.descriptionFuture> <!-- TODO -->
 	<PsychicDrone.endMessage>サイコドローンは終わろうとしている.</PsychicDrone.endMessage>
+    <PsychicDrone.letterText>Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}.</PsychicDrone.letterText> <!-- TODO -->
 
 	<PsychicSoothe.label>サイコスード</PsychicSoothe.label>
 	<PsychicSoothe.description>離れたところにある強力なAIが,人々の心を穏やかにさせようとサイコウェーブを照射しています</PsychicSoothe.description>
 	<PsychicSoothe.endMessage>サイコスードは終わろうとしている.</PsychicSoothe.endMessage>
+	<PsychicSoothe.letterText>Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better.</PsychicSoothe.letterText> <!-- TODO -->
 
 	<ToxicFallout.label>死の灰</ToxicFallout.label>
 	<ToxicFallout.description>少し遠い所で発生した,もくもくと立ち上がる有毒な塵が,ゆっくりと惑星全体を覆っていきます.屋根の無い所にいる人は,ゆっくりと毒に冒され,外にあるものは腐食するでしょう.</ToxicFallout.description>
+	<ToxicFallout.descriptionFuture>a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life</ToxicFallout.descriptionFuture> <!-- TODO -->
     <ToxicFallout.endMessage>最悪だった死の灰は解決した.</ToxicFallout.endMessage>
+    <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum.</ToxicFallout.letterText> <!-- TODO -->
 
 	<VolcanicWinter.label>火山の冬 </VolcanicWinter.label>
 	<VolcanicWinter.description>大規模噴火による火山灰が,大気を覆ってしまった為,地表に届く日射量が著しく減っています.気温はより寒くなり植物の成長が遅くなるでしょう.</VolcanicWinter.description>
+	<VolcanicWinter.descriptionFuture>a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem</VolcanicWinter.descriptionFuture> <!-- TODO -->
 	<VolcanicWinter.endMessage>ほとんどの火山灰は落ち着いてきた.</VolcanicWinter.endMessage>
+	<VolcanicWinter.letterText>Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText> <!-- TODO -->
 
 	<HeatWave.label>熱波</HeatWave.label>
 	<HeatWave.description>この辺り一帯を猛暑が襲います.</HeatWave.description>
+	<HeatWave.descriptionFuture>a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas</HeatWave.descriptionFuture> <!-- TODO -->
 	<HeatWave.endMessage>熱波は過ぎ去った.</HeatWave.endMessage>
+	<HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool.</HeatWave.letterText> <!-- TODO -->
 
 	<ColdSnap.label>寒波</ColdSnap.label>
 	<ColdSnap.description>この辺り一帯を寒波が襲います.</ColdSnap.description>
+	<ColdSnap.descriptionFuture>a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection</ColdSnap.descriptionFuture> <!-- TODO -->
 	<ColdSnap.endMessage>寒波は過ぎ去った.</ColdSnap.endMessage>
+	<ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText> <!-- TODO -->
 
 	<Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
 	<Flashstorm.description>局所的な異常な嵐が狭い範囲に吹き荒れ,落雷が繰り返し発生します.</Flashstorm.description>
 	<Flashstorm.endMessage>ゲリラ雷雨は過ぎ去った.</Flashstorm.endMessage>
+	<Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText> <!-- TODO -->
 
 	<ClimateCycle.label>気候の変動周期</ClimateCycle.label>
 	<ClimateCycle.description>この惑星は,太陽に対して楕円軌道を周回しているため,気候の変動周期が不規則です.</ClimateCycle.description>
@@ -46,5 +60,10 @@
     <Aurora.label>オーロラ</Aurora.label>
     <Aurora.description>輝くオーロラが空を照らします.息を呑むその光景は,外に出て観る者全ての"心情"を高めるでしょう.</Aurora.description>
     <Aurora.endMessage>オーロラが終わった</Aurora.endMessage>
+    <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText> <!-- TODO -->
+
+    <PsychicDroner.label>psychic droner</PsychicDroner.label> <!-- TODO -->
+    <PsychicDroner.description>A psychic droner tuned to the {0} gender is driving {0}s mad.</PsychicDroner.description> <!-- TODO -->
+    <PsychicDroner.letterText>A psychic droner machine has begun affecting this region.</PsychicDroner.letterText> <!-- TODO -->
 
 </LanguageData>

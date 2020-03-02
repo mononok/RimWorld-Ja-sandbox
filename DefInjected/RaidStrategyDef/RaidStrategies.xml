@@ -11,6 +11,11 @@
     <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
     <ImmediateAttackSmart.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttackSmart.arrivalTextFriendly>
 
+    <ImmediateAttackFriendly.arrivalTextEnemy>They are attacking immediately.</ImmediateAttackFriendly.arrivalTextEnemy> <!-- TODO -->
+    <ImmediateAttackFriendly.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackFriendly.arrivalTextFriendly> <!-- TODO -->
+    <ImmediateAttackFriendly.letterLabelEnemy>Raid</ImmediateAttackFriendly.letterLabelEnemy> <!-- TODO -->
+    <ImmediateAttackFriendly.letterLabelFriendly>Friendlies</ImmediateAttackFriendly.letterLabelFriendly> <!-- TODO -->
+
     <!-- StageThenAttack -->
     <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
     <StageThenAttack.arrivalTextEnemy>彼らは,しばらくの間,準備を整えて,それから攻撃してくるでしょう.\n\n身を守る準備をするか,先制攻撃を仕掛けてください.</StageThenAttack.arrivalTextEnemy>
@@ -27,4 +32,8 @@
     <Siege.arrivalTextEnemy>彼らは,離れた所に迫撃砲を配置して包囲しようとしています.あなたは待つことも,こちらから打って出ることもできます.</Siege.arrivalTextEnemy>
     <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
     <Siege.arrivalTextFriendly>彼らは,あなたを助ける為に包囲作戦をとるようです.</Siege.arrivalTextFriendly>
+
+    <SiegeMechanoid.arrivalTextEnemy>Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack them in order to finally remove the threat.</SiegeMechanoid.arrivalTextEnemy> <!-- TODO -->
+    <SiegeMechanoid.letterLabelEnemy>Mechanoid Siege</SiegeMechanoid.letterLabelEnemy> <!-- TODO -->
+
 </LanguageData>

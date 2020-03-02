@@ -22,4 +22,7 @@
 	<BluntDamageMultiplier.label>近接武器(殴)倍率</BluntDamageMultiplier.label>
 	<BluntDamageMultiplier.description>この武器を使って,殴った時のダメージ倍率です.</BluntDamageMultiplier.description>
 
+    <Bladelink_DetectionChance.label>detection chance</Bladelink_DetectionChance.label> <!-- TODO -->
+    <Bladelink_DetectionChance.description>The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences.\n\nThe psychic signature can be silenced by use of a psychic silencer implant.</Bladelink_DetectionChance.description> <!-- TODO -->
+
 </LanguageData>

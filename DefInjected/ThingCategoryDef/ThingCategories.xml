@@ -49,18 +49,18 @@
 
     <Artifacts.label>アーティファクト</Artifacts.label>
 
-    <Neurotrainers.label>neurotrainers</Neurotrainers.label> <!-- TODO -->
-    <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label> <!-- TODO -->
+    <Neurotrainers.label>ニューロトレイナー</Neurotrainers.label>
+    <NeurotrainersPsycast.label>サイコトレイナー</NeurotrainersPsycast.label>
 
     <Techprints.label>techprints</Techprints.label> <!-- TODO -->
 
     <BodyParts.label>義肢</BodyParts.label>
     <BodyPartsNatural.label>生体</BodyPartsNatural.label>
 	<BodyPartsSimple.label>simple parts</BodyPartsSimple.label> <!-- TODO -->
-	<BodyPartsProsthetic.label>prosthetic</BodyPartsProsthetic.label> <!-- TODO -->
-	<BodyPartsBionic.label>bionic</BodyPartsBionic.label> <!-- TODO -->
-	<BodyPartsUltra.label>ultratech</BodyPartsUltra.label> <!-- TODO -->
-	<BodyPartsArchotech.label>archotech</BodyPartsArchotech.label> <!-- TODO -->
+	<BodyPartsProsthetic.label>人造</BodyPartsProsthetic.label>
+	<BodyPartsBionic.label>強化</BodyPartsBionic.label>
+	<BodyPartsUltra.label>ウルトラテック</BodyPartsUltra.label>
+	<BodyPartsArchotech.label>アルコテック</BodyPartsArchotech.label>
 
     <!-- Weapons -->
 
@@ -68,7 +68,7 @@
 
     <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
     
-    <WeaponsMeleeBladelink.label>bladelink weapons</WeaponsMeleeBladelink.label> <!-- TODO -->
+    <WeaponsMeleeBladelink.label>護り刀</WeaponsMeleeBladelink.label>
 
     <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
 
@@ -78,15 +78,15 @@
 
     <Apparel.label>衣服</Apparel.label>
 
-    <ApparelArmor.label>armor</ApparelArmor.label> <!-- TODO -->
+    <ApparelArmor.label>アーマー</ApparelArmor.label>
 
     <Headgear.label>ヘッドギア</Headgear.label>
 
-    <ArmorHeadgear.label>headgear</ArmorHeadgear.label> <!-- TODO -->
+    <ArmorHeadgear.label>ヘッドギア</ArmorHeadgear.label>
 
     <ApparelNoble.label>noble apparel</ApparelNoble.label> <!-- TODO -->
 
-    <HeadgearNoble.label>headgear</HeadgearNoble.label> <!-- TODO -->
+    <HeadgearNoble.label>ヘッドギア</HeadgearNoble.label>
 
     <Buildings.label>建築物</Buildings.label>
     <BuildingsArt.label>絵画</BuildingsArt.label>

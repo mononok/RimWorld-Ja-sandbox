@@ -13,18 +13,19 @@
 
     <ManhunterPack.label>人狩りの群れ</ManhunterPack.label>
 
-    <DefoliatorShipPartCrash.label>ship part crash (defoliator)</DefoliatorShipPartCrash.label> <!-- TODO -->
-    <DefoliatorShipPartCrash.letterLabel>Defoliator ship</DefoliatorShipPartCrash.letterLabel> <!-- TODO -->
-    <DefoliatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</DefoliatorShipPartCrash.letterText> <!-- TODO -->
+    <DefoliatorShipPartCrash.label>汚染船の一部(枯葉剤)</DefoliatorShipPartCrash.label>
+    <DefoliatorShipPartCrash.letterLabel>汚染された船</DefoliatorShipPartCrash.letterLabel>
+    <DefoliatorShipPartCrash.letterText>古代宇宙船の大きなパーツが近くに墜落しました.\n\nその不可解な影響で,円状に広がる枠内の全ての植物を枯らしています.\n\nできるだけ早く破壊してください.船の自己防衛機能に気をつけてください.</DefoliatorShipPartCrash.letterText>
 
-    <MechCluster.label>mech cluster</MechCluster.label> <!-- TODO -->
-    <MechCluster.letterLabel>Mechanoid cluster</MechCluster.letterLabel> <!-- TODO -->
-    <MechCluster.letterText>A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText> <!-- TODO -->
 
-    <GiveQuest_Random.label>quest</GiveQuest_Random.label> <!-- TODO -->
-    <GiveQuest_Random.letterLabel>Quest available</GiveQuest_Random.letterLabel> <!-- TODO -->
-    <GiveQuest_EndGame_ShipEscape.label>journey offer</GiveQuest_EndGame_ShipEscape.label> <!-- TODO -->
-    <GiveQuest_EndGame_ShipEscape.letterLabel>Journey offer</GiveQuest_EndGame_ShipEscape.letterLabel> <!-- TODO -->
+    <MechCluster.label>メッククラスター</MechCluster.label>
+    <MechCluster.letterLabel>メカノイド戦闘群</MechCluster.letterLabel>
+    <MechCluster.letterText>メカノイドの戦闘群が近くに降下しています. 降下した当初は休止状態なので,あなたには戦法を決める時間があります.\n\n刺激を受けるまで休止状態で居続けるか,時限式タイマーや,近接信管を備えているかもしれません.\n\n休止状態の群でさえ無害ではありません. 休止状態の群はメカノイドのアタッカーを招集したり,最終的には対処しなければならない,より広範囲な悪影響を及ぼしたりします.</MechCluster.letterText>
+
+    <GiveQuest_Random.label>クエスト</GiveQuest_Random.label>
+    <GiveQuest_Random.letterLabel>クエスト発生</GiveQuest_Random.letterLabel>
+    <GiveQuest_EndGame_ShipEscape.label>宇宙への旅</GiveQuest_EndGame_ShipEscape.label>
+    <GiveQuest_EndGame_ShipEscape.letterLabel>宇宙への旅</GiveQuest_EndGame_ShipEscape.letterLabel>
 
     <PsychicEmanatorShipPartCrash.label>サイキック船</PsychicEmanatorShipPartCrash.label>
     <PsychicEmanatorShipPartCrash.letterLabel>サイキック船</PsychicEmanatorShipPartCrash.letterLabel>

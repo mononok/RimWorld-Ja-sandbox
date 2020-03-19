@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<BloodLoss.label>失血</BloodLoss.label>
-	<BloodLoss.description>A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply.</BloodLoss.description> <!-- TODO -->
+	<BloodLoss.description>標準血液量の減少.少量の出血は相対的に軽く済みますが,大量出血では酸素運搬量が非常に損なわれ動けなくなります.大量失血は死につながります.\n\n失血は身体が持つ造血機能で徐々に血液が再生され自然と元に戻ります.</BloodLoss.description>
 	<BloodLoss.stages.minor-0.label>微量</BloodLoss.stages.minor-0.label>
 	<BloodLoss.stages.minor-1.label>少量</BloodLoss.stages.minor-1.label>
 	<BloodLoss.stages.moderate.label>中程度</BloodLoss.stages.moderate.label>
@@ -10,38 +10,40 @@
 	<BloodLoss.stages.extreme.label>致死量</BloodLoss.stages.extreme.label>
 
 	<Anesthetic.label>麻酔</Anesthetic.label>
-	<Anesthetic.description>Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious.</Anesthetic.description> <!-- TODO -->
-	<Anesthetic.stages.wearing_off.label>wearing off</Anesthetic.stages.wearing_off.label> <!-- TODO -->
-	<Anesthetic.stages.woozy.label>woozy</Anesthetic.stages.woozy.label> <!-- TODO -->
-	<Anesthetic.stages.sedated.label>sedated</Anesthetic.stages.sedated.label> <!-- TODO -->
+	<Anesthetic.description>動脈に注入する催眠薬.麻酔は生物を昏睡させます.</Anesthetic.description>
+	<Anesthetic.stages.wearing_off.label>痛みが消える</Anesthetic.stages.wearing_off.label>
+	<Anesthetic.stages.woozy.label>ぼんやりする</Anesthetic.stages.woozy.label>
+	<Anesthetic.stages.sedated.label>おとなしくなった</Anesthetic.stages.sedated.label>
+
     <CatatonicBreakdown.label>緊張性衰弱</CatatonicBreakdown.label>
     <CatatonicBreakdown.labelNoun>緊張性衰弱</CatatonicBreakdown.labelNoun>
-    <CatatonicBreakdown.description>A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious.</CatatonicBreakdown.description> <!-- TODO -->
+    <CatatonicBreakdown.description>精神的打撃をうけ混乱状態になり機能不全に導きます.精神的にぶっ倒れて事実上は意識を失います.</CatatonicBreakdown.description>
 
 	<PsychicShock.label>サイキックショック</PsychicShock.label>
 	<PsychicShock.labelNoun>サイキックショック</PsychicShock.labelNoun>
-    <PsychicShock.description>A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of psychic entropy, this effect is debilitating until it wears off.</PsychicShock.description> <!-- TODO -->
-    <PsychicHangover.label>psychic hangover</PsychicHangover.label> <!-- TODO -->
-    <PsychicHangover.description>An after-effect of psychic entropy. Psychic hangover is bothersome, but not dangerous.</PsychicHangover.description> <!-- TODO -->
-    <PsychicHangover.labelNoun>a psychic hangover</PsychicHangover.labelNoun> <!-- TODO -->
-    <PsychicHangover.stages.forming.label>forming</PsychicHangover.stages.forming.label> <!-- TODO -->
-    <PsychicHangover.stages.buzzing.label>buzzing</PsychicHangover.stages.buzzing.label> <!-- TODO -->
+    <PsychicShock.description>脳と心のサイキック的な混乱状態です.サイキック攻撃,又はサイキックエントロピーの臨界によって起き,その効果は徐々に薄れていきます.</PsychicShock.description>
 
-    <BrainShock.label>brain shock</BrainShock.label> <!-- TODO -->
-    <BrainShock.description>After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses.</BrainShock.description> <!-- TODO -->
-    <BrainShock.labelNoun>a brain shock</BrainShock.labelNoun> <!-- TODO -->
+    <PsychicHangover.label>サイキック酔い</PsychicHangover.label>
+    <PsychicHangover.description>サイキックエントロピーの後遺症です.サイキック酔いは面倒ですが危険性はありません.</PsychicHangover.description>
+    <PsychicHangover.labelNoun>サイキック酔い</PsychicHangover.labelNoun>
+    <PsychicHangover.stages.forming.label>ムカムカ</PsychicHangover.stages.forming.label>
+    <PsychicHangover.stages.buzzing.label>酔う</PsychicHangover.stages.buzzing.label>
+
+    <BrainShock.label>脳波ショック</BrainShock.label>
+    <BrainShock.description>脳に電気ショックを加えた後の余波.これは通常,EMPパルスが当たった脳に埋め込まれたインプラントからのフィードバックが原因です.</BrainShock.description>
+    <BrainShock.labelNoun>脳波ショック</BrainShock.labelNoun>
 
 	<CryptosleepSickness.label>冷凍睡眠病</CryptosleepSickness.label>
-	<CryptosleepSickness.description>After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind.</CryptosleepSickness.description> <!-- TODO -->
+	<CryptosleepSickness.description>冬眠カプセル使用後の後遺症です.冬眠カプセルは 老化や寿命による 死を防ぐために 多くの身体機能を 一時停止し 代替機能に 切り替えます. 冬眠カプセルから出ると 身体のリスタートや 新陳代謝系の バランスを とるために 時間がかかります. これが継続中の患者は,ひどい吐き気,めまい,頭がぼーっとするなどで苦しみます.</CryptosleepSickness.description>
 
 	<FoodPoisoning.label>食中毒</FoodPoisoning.label>
-	<FoodPoisoning.description>Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time.</FoodPoisoning.description> <!-- TODO -->
-	
+	<FoodPoisoning.description>不潔だったり腐乱した食べ物が原因で引き起こされる胃腸病です. 無能なコックが誤って作った毒の有る食事や安全ではない野生の物を食べても起きることがあります.長期間,患者には嘔吐と悪い体調が続きます.</FoodPoisoning.description>
 	<FoodPoisoning.stages.recovering.label>回復</FoodPoisoning.stages.recovering.label>
 	<FoodPoisoning.stages.major.label>重大</FoodPoisoning.stages.major.label>
 	<FoodPoisoning.stages.initial.label>初期症状</FoodPoisoning.stages.initial.label>
+
 	<ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>
-	<ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten.</ToxicBuildup.description> <!-- TODO -->
+	<ToxicBuildup.description>血中内に毒があります.これには色々な原因,環境中に毒素を含む場合,毒を持った噛み傷による場合,毒が塗られた武器などの場合が考えられます.\n\n高濃度の毒の場合は致命的となります.低濃度であっても発がん性があるかもしれません.\n\n毒物によって死亡した生物を食べることはできません.</ToxicBuildup.description>
 	<ToxicBuildup.stages.initial-0.label>症状なし</ToxicBuildup.stages.initial-0.label>
 	<ToxicBuildup.stages.initial-1.label>初期</ToxicBuildup.stages.initial-1.label>
 	<ToxicBuildup.stages.minor.label>軽度</ToxicBuildup.stages.minor.label>
@@ -51,7 +53,7 @@
 
 	<Pregnant.label>妊娠</Pregnant.label>
 	<Pregnant.labelNoun>妊娠</Pregnant.labelNoun>
-	<Pregnant.description>This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage.</Pregnant.description> <!-- TODO -->
+	<Pregnant.description>この生物は子を宿しています.臨月になれば子を産みます.もしも飢えたり,ケガをすると流産するかもしれません.</Pregnant.description>
 	<Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} おめでた!!</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
 	<Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0}は身籠もった</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
 	<Pregnant.stages.earlystage.label>初期</Pregnant.stages.earlystage.label>
@@ -60,14 +62,14 @@
 
 	<HeartAttack.label>心筋梗塞</HeartAttack.label>
 	<HeartAttack.labelNoun>心筋梗塞</HeartAttack.labelNoun>
-	<HeartAttack.description>A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover.</HeartAttack.description> <!-- TODO -->
+	<HeartAttack.description>規則正しい心拍が乱れています.心筋梗塞は激しい痛みに襲われます.更に悪化するか,死に至るか,持ち直すかもしれません.</HeartAttack.description>
 	<HeartAttack.stages.painful.label>苦痛</HeartAttack.stages.painful.label>
 	<HeartAttack.stages.debilitating.label>衰弱</HeartAttack.stages.debilitating.label>
 	<HeartAttack.stages.fatal.label>致命的</HeartAttack.stages.fatal.label>
 
 	<DrugOverdose.label>ドラッグの過剰摂取</DrugOverdose.label>
 	<DrugOverdose.labelNoun>ドラッグ過剰摂取</DrugOverdose.labelNoun>
-	<DrugOverdose.description>Generalized toxic effects due to over-concentration of drugs in the bloodstream.</DrugOverdose.description> <!-- TODO -->
+	<DrugOverdose.description>ドラッグの過剰摂取による血中濃度の上昇によって中毒症状が起きています.</DrugOverdose.description>
 	<DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>過剰摂取: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
 	<DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0}は過剰に摂取している！</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
 	<DrugOverdose.stages.minor-0.label>(Hidden)</DrugOverdose.stages.minor-0.label>
@@ -75,6 +77,6 @@
 	<DrugOverdose.stages.major.label>重度</DrugOverdose.stages.major.label>
 
     <ResurrectionSickness.label>蘇生後遺症</ResurrectionSickness.label>
-    <ResurrectionSickness.description>After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves.</ResurrectionSickness.description> <!-- TODO -->
+    <ResurrectionSickness.description>メカナイト注入による蘇生処置の後遺症です.人工的な蘇生行為は新陳代謝のバランスを取り直すのに時間がかかります.</ResurrectionSickness.description>
 
 </LanguageData>

@@ -5,10 +5,10 @@
     <LetterHour>時</LetterHour>
     <LetterMinute>分</LetterMinute>
     <LetterSecond>秒</LetterSecond>
-  <LetterYear>y</LetterYear> <!-- TODO -->
+    <LetterYear>年</LetterYear>
 
     <DaysLower>日</DaysLower>
-  <HoursLower>hours</HoursLower> <!-- TODO -->
+    <HoursLower>時</HoursLower>
     <SecondsLower>秒</SecondsLower>
 
     <SeasonSpring>春</SeasonSpring>
@@ -18,14 +18,14 @@
     <SeasonPermanentSummer>常夏</SeasonPermanentSummer>
     <SeasonPermanentWinter>常冬</SeasonPermanentWinter>
 
-    <QuadrumAprimay>卯月</QuadrumAprimay>
-    <QuadrumJugust>文月</QuadrumJugust>
-    <QuadrumSeptober>神無月</QuadrumSeptober>
-    <QuadrumDecembary>睦月</QuadrumDecembary>
-  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short> <!-- TODO -->
-  <QuadrumJugust_Short>Jug</QuadrumJugust_Short> <!-- TODO -->
-  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short> <!-- TODO -->
-  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short> <!-- TODO -->
+    <QuadrumAprimay>第一</QuadrumAprimay>
+    <QuadrumJugust>第二</QuadrumJugust>
+    <QuadrumSeptober>第三</QuadrumSeptober>
+    <QuadrumDecembary>第四</QuadrumDecembary>
+    <QuadrumAprimay_Short>第一</QuadrumAprimay_Short>
+    <QuadrumJugust_Short>第二</QuadrumJugust_Short>
+    <QuadrumSeptober_Short>第三</QuadrumSeptober_Short>
+    <QuadrumDecembary_Short>第四</QuadrumDecembary_Short>
 
     <Born>生年月日: {0}</Born>
     <AgeChronological>暦上での年齢: {0}歳 {1} {2}日</AgeChronological>

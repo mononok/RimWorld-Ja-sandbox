@@ -19,7 +19,7 @@
     <Flammability.description>どのくらい火が付きやすいか,どのくらい延焼しやすいかを表します.</Flammability.description>
 
 	<WorkToMake.label>工数</WorkToMake.label>
-	<WorkToMake.description>作成に必要な,素材やツールが用意されたのちに,物を作成するのにかかる時間です.</WorkToMake.description>
+	<WorkToMake.description>作成に必要な,素材やツールが用意されたのちに,物を作成するのにかかる工数です.</WorkToMake.description>
 
 	<DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
 	<DeteriorationRate.description>アイテムが野外に放置された時の劣化しやすさ,一日のダメージ量.劣化しやすさは,天候,屋根の有無,死の灰,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
@@ -39,7 +39,7 @@
 	<Nutrition.description>この食べ物の栄養価です.</Nutrition.description>
 
 	<FoodPoisonChanceFixedHuman.label>食中毒発生率</FoodPoisonChanceFixedHuman.label>
-	<FoodPoisonChanceFixedHuman.labelForFullStatList>food poison chance (food stat)</FoodPoisonChanceFixedHuman.labelForFullStatList> <!-- TODO -->
+	<FoodPoisonChanceFixedHuman.labelForFullStatList>食中毒発生率</FoodPoisonChanceFixedHuman.labelForFullStatList>
 	<FoodPoisonChanceFixedHuman.description>この食べ物で食中毒を発症する確率です.</FoodPoisonChanceFixedHuman.description>
 
     <RoyalFavorValue.label>royal favor value</RoyalFavorValue.label> <!-- TODO -->

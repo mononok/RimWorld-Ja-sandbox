@@ -6,7 +6,7 @@
 <Colony>あなたのコロニー</Colony>
 <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
 <AndLower>と</AndLower>
-<DisabledLower>スキル無し</DisabledLower>
+<DisabledLower>不可</DisabledLower>
 
 <VersionIndicator>Version {0}</VersionIndicator>
   <GameVersionIndicator>Game version</GameVersionIndicator>
@@ -20,8 +20,8 @@
   <!-- General-use words -->
   <Yes>はい</Yes>
   <No>いいえ</No>
-  <New>new</New> <!-- TODO -->
-  <Gender>Gender</Gender> <!-- TODO -->
+  <New>新規</New>
+  <Gender>性別</Gender>
   <min>最小</min>
   <max>最大</max>
   <chance>確率</chance>
@@ -29,7 +29,7 @@
   <multiplier>掛け率</multiplier>
   <damage>ダメージ</damage>
   <radius>半径</radius>
-  <expired>expired</expired> <!-- TODO -->
+  <expired>有効期限</expired>
   <durationDays>所要時間 (日)</durationDays>
   <intervalDays>間隔(日)</intervalDays>
   <repeat>繰り返す</repeat>
@@ -42,7 +42,7 @@
   <day>日</day>
   <Default>デフォルト</Default>
   <Average>平均</Average>
-  <Cause>Cause</Cause> <!-- TODO -->
+  <Cause>理由</Cause>
   <MoneyFormat>${0}</MoneyFormat>
 
   <!-- Content generation-->
@@ -57,7 +57,7 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc> <!-- TODO -->
-  <Unlocks>Unlocks</Unlocks> <!-- TODO -->
+  <Unlocks>アンロック</Unlocks>
 
 <CorpseLabel>{0} の死骸</CorpseLabel>
 <CorpseDesc>{0} の死骸</CorpseDesc>

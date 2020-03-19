@@ -3,29 +3,29 @@
 
     <EdgeWalkIn.textEnemy>{1}から来た{0}が,すぐ近くに到着しました.</EdgeWalkIn.textEnemy>
     <EdgeWalkIn.textFriendly>{1}から来た友好的な{0}が,すぐ近くに到着しました.</EdgeWalkIn.textFriendly>
-    <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} will arrive on foot.</EdgeWalkIn.textWillArrive> <!-- TODO -->
+    <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef}は歩いて到着します.</EdgeWalkIn.textWillArrive>
 
     <EdgeDrop.textEnemy>{1}から来た{0}が,すぐ近くに輸送ポッドで到着しました.</EdgeDrop.textEnemy>
     <EdgeDrop.textFriendly>{1}から来た友好的な{0}が,すぐ近くに輸送ポッドで到着しました.</EdgeDrop.textFriendly>
-    <EdgeDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods.</EdgeDrop.textWillArrive> <!-- TODO -->
+    <EdgeDrop.textWillArrive>{0_pawnsPluralDef}は輸送ポッドで到着します.</EdgeDrop.textWillArrive>
 
     <EdgeWalkInGroups.textEnemy>{1}から来た{0}が,いくつもに分かれて,すぐ近くに到着しました.</EdgeWalkInGroups.textEnemy>
     <EdgeWalkInGroups.textFriendly>{1}から来た友好的な{0}が,いくつもに分かれて,すぐ近くに到着しました.</EdgeWalkInGroups.textFriendly>
-    <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} will arrive on foot, approaching from several angles at once.</EdgeWalkInGroups.textWillArrive> <!-- TODO -->
+    <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef}は一度に複数の角度から,歩いて到着します.</EdgeWalkInGroups.textWillArrive>
 
     <EdgeDropGroups.textEnemy>{1}から来た{0}が,いくつもに分かれて,すぐ近くに輸送ポッドで到着しました.</EdgeDropGroups.textEnemy>
     <EdgeDropGroups.textFriendly>{1}から来た友好的な{0}が,いくつもに分かれて,すぐ近くに輸送ポッドで到着しました.</EdgeDropGroups.textFriendly>
-    <EdgeDropGroups.textWillArrive>Several separate groups of {0_pawnsPluralDef} will arrive in transport pods.</EdgeDropGroups.textWillArrive> <!-- TODO -->
+    <EdgeDropGroups.textWillArrive>いくつにも分かれた{0_pawnsPluralDef}のグループが輸送ポットで到着します.</EdgeDropGroups.textWillArrive>
 
     <CenterDrop.textEnemy>{1}から来た{0}が,どんぴしゃり,あなたの頭上に降下してきた!</CenterDrop.textEnemy>
     <CenterDrop.textFriendly>{1}から来た友好的な{0}が,どんぴしゃり,あなたの頭上に降下してきた!</CenterDrop.textFriendly>
-    <CenterDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods right on top of you.</CenterDrop.textWillArrive> <!-- TODO -->
+    <CenterDrop.textWillArrive>{0_pawnsPluralDef}は,あなたの頭上に到着します.</CenterDrop.textWillArrive>
 
     <RandomDrop.textEnemy>{1}から来た{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸している!</RandomDrop.textEnemy>
     <RandomDrop.textFriendly>{1}からの友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラになって,このエリア一体に散在して着陸している!</RandomDrop.textFriendly>
-    <RandomDrop.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods.</RandomDrop.textWillArrive> <!-- TODO -->
+    <RandomDrop.textWillArrive>{0_pawnsPluralDef}は輸送ポットで到着します.</RandomDrop.textWillArrive>
 
-    <MechClusterDrop.textEnemy>A cluster of {0} have landed in drop pods nearby.</MechClusterDrop.textEnemy> <!-- TODO -->
-    <MechClusterDrop.textWillArrive>The mech cluster will arrive in drop pods.</MechClusterDrop.textWillArrive> <!-- TODO -->
+    <MechClusterDrop.textEnemy>{0}の戦闘群が,近くに輸送ポッドで降下してきた.</MechClusterDrop.textEnemy>
+    <MechClusterDrop.textWillArrive>メカノイド戦闘群は輸送ポッドで到着します.</MechClusterDrop.textWillArrive>
 
 </LanguageData>

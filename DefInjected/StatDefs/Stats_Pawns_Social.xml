@@ -11,16 +11,16 @@
     <TrainAnimalChance.description>この人が生き物を調教する時の基本的な成功率です.実際の成功率は,動物の野生度,トレイナーとの絆,その他の影響も受けます.</TrainAnimalChance.description>
 
     <SocialImpact.label>政治力</SocialImpact.label>
-    <SocialImpact.description>社交性を発揮した時に どれだけの影響を与えるかを表します.</SocialImpact.description>
+    <SocialImpact.description>社交性を発揮した時に,どれだけの影響を与えるかを表します.</SocialImpact.description>
 
     <NegotiationAbility.label>外交力</NegotiationAbility.label>
     <NegotiationAbility.description>この人が,どれだけ交渉人として効果があるかを表します.この人が他の派閥に贈り物をしたときの,相手派閥への影響度合いを表します. 他の派閥との和平交渉にも影響を及ぼします.</NegotiationAbility.description>
 
-    <PawnBeauty.label>beauty</PawnBeauty.label> <!-- TODO -->
-    <PawnBeauty.description>How physically attractive this person is. This affects social interactions.</PawnBeauty.description> <!-- TODO -->
+    <PawnBeauty.label>美しさ</PawnBeauty.label>
+    <PawnBeauty.description>どれだけ魅力的な外見をしているかを表します.これは社交性(人付き合い)に影響します.</PawnBeauty.description>
 
-    <ArrestSuccessChance.label>Arrest success chance</ArrestSuccessChance.label> <!-- TODO -->
-    <ArrestSuccessChance.description>How effective this person is in arresting people.\n\nThis affects the success chance of arresting tries.</ArrestSuccessChance.description> <!-- TODO -->
+    <ArrestSuccessChance.label>逮捕成功率</ArrestSuccessChance.label>
+    <ArrestSuccessChance.description>この人が,逮捕しようとした時に,どれだけ効果的かを表します.\n\nこれは逮捕を試みた時の成功率に影響します.</ArrestSuccessChance.description>
 
     <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
     <TradePriceImprovement.description>価格について交渉した時に,どれだけ良い条件で売り買いできるかを表します.</TradePriceImprovement.description>

@@ -168,17 +168,17 @@
   <PsychicDroneLevel_BadExtreme>極度</PsychicDroneLevel_BadExtreme>
   
   <!-- Automatic pause mode -->
-  <AutomaticPauseMode_Never>Never</AutomaticPauseMode_Never> <!-- TODO -->
-  <AutomaticPauseMode_MajorThreat>Major threats</AutomaticPauseMode_MajorThreat> <!-- TODO -->
-  <AutomaticPauseMode_AnyThreat>Any threat</AutomaticPauseMode_AnyThreat> <!-- TODO -->
-  <AutomaticPauseMode_AnyLetter>Any letter</AutomaticPauseMode_AnyLetter> <!-- TODO -->
+  <AutomaticPauseMode_Never>使用しない</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_MajorThreat>重大な脅威</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_AnyThreat>あらゆる脅威</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyLetter>あらゆる通知</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
-  <PainCategory_LowPain>itchy</PainCategory_LowPain> <!-- TODO -->
-  <PainCategory_MediumPain>aching</PainCategory_MediumPain> <!-- TODO -->
-  <PainCategory_HighPain>painful</PainCategory_HighPain> <!-- TODO -->
-  
+  <PainCategory_LowPain>痒い</PainCategory_LowPain>
+  <PainCategory_MediumPain>痛い</PainCategory_MediumPain>
+  <PainCategory_HighPain>苦痛</PainCategory_HighPain>
+
   <!-- ExtraFactionType -->
-  <ExtraFactionType_HomeFaction>home faction</ExtraFactionType_HomeFaction> <!-- TODO -->
-  <ExtraFactionType_HostFaction>remote host faction</ExtraFactionType_HostFaction> <!-- TODO -->
+  <ExtraFactionType_HomeFaction>出身派閥</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HostFaction>リモートホスト派閥</ExtraFactionType_HostFaction>
 </LanguageData>

@@ -6,24 +6,24 @@
     <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
 
 	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄から使える金属を抽出します.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄を分解し有益な資源に変えます.</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
 
 	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
-	<SmeltWeapon.description>高温と強力な磁石を使い,武器から使える資源を取り出します.</SmeltWeapon.description>
+	<SmeltWeapon.description>高温と強力な電磁石を使い,武器を分解し有益な資源に変えます.</SmeltWeapon.description>
 	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
 
-    <SmeltApparel.label>smelt apparel</SmeltApparel.label> <!-- TODO -->
-    <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description> <!-- TODO -->
-    <SmeltApparel.jobString>Smelting apparel.</SmeltApparel.jobString> <!-- TODO -->
+    <SmeltApparel.label>衣服を溶解する</SmeltApparel.label>
+    <SmeltApparel.description>高温と強力な電磁石を使い,アーマーのような金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
+    <SmeltApparel.jobString>衣服を溶解中.</SmeltApparel.jobString>
 
-    <DestroyWeapon.label>武器を破壊する</DestroyWeapon.label>
-    <DestroyWeapon.description>不要な武器を高温で溶かして破壊します.この作業は溶解するより早く,溶解できないアイテムにも可能ですが,何の資源も得られません.</DestroyWeapon.description>
+    <DestroyWeapon.label>武器を破棄する</DestroyWeapon.label>
+    <DestroyWeapon.description>高温で不要な武器を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyWeapon.description>
     <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
 
-    <DestroyApparel.label>destroy apparel</DestroyApparel.label> <!-- TODO -->
-    <DestroyApparel.description>Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description> <!-- TODO -->
-    <DestroyApparel.jobString>Destroying apparel.</DestroyApparel.jobString> <!-- TODO -->
+    <DestroyApparel.label>衣服を破棄する</DestroyApparel.label>
+    <DestroyApparel.description>高温で不要な衣服を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyApparel.description>
+    <DestroyApparel.jobString>衣服を破壊中</DestroyApparel.jobString>
 
     <Make_ChemfuelFromWood.label>液化燃料を精製(木材)</Make_ChemfuelFromWood.label>
     <Make_ChemfuelFromWood.description>木材から抽出し濃縮したガスを使ってバイオ液化燃料を作成します.</Make_ChemfuelFromWood.description>

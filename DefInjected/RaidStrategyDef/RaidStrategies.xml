@@ -11,10 +11,11 @@
     <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
     <ImmediateAttackSmart.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttackSmart.arrivalTextFriendly>
 
-    <ImmediateAttackFriendly.arrivalTextEnemy>They are attacking immediately.</ImmediateAttackFriendly.arrivalTextEnemy> <!-- TODO -->
-    <ImmediateAttackFriendly.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackFriendly.arrivalTextFriendly> <!-- TODO -->
-    <ImmediateAttackFriendly.letterLabelEnemy>Raid</ImmediateAttackFriendly.letterLabelEnemy> <!-- TODO -->
-    <ImmediateAttackFriendly.letterLabelFriendly>Friendlies</ImmediateAttackFriendly.letterLabelFriendly> <!-- TODO -->
+    <ImmediateAttackFriendly.arrivalTextEnemy>すぐに彼らは戦います.</ImmediateAttackFriendly.arrivalTextEnemy>
+    <ImmediateAttackFriendly.arrivalTextFriendly>すぐに彼らはあなたを助けに戦います.</ImmediateAttackFriendly.arrivalTextFriendly>
+
+    <ImmediateAttackFriendly.letterLabelEnemy>襲撃</ImmediateAttackFriendly.letterLabelEnemy>
+    <ImmediateAttackFriendly.letterLabelFriendly>援軍</ImmediateAttackFriendly.letterLabelFriendly>
 
     <!-- StageThenAttack -->
     <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
@@ -33,7 +34,7 @@
     <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
     <Siege.arrivalTextFriendly>彼らは,あなたを助ける為に包囲作戦をとるようです.</Siege.arrivalTextFriendly>
 
-    <SiegeMechanoid.arrivalTextEnemy>Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack them in order to finally remove the threat.</SiegeMechanoid.arrivalTextEnemy> <!-- TODO -->
-    <SiegeMechanoid.letterLabelEnemy>Mechanoid Siege</SiegeMechanoid.letterLabelEnemy> <!-- TODO -->
+    <SiegeMechanoid.arrivalTextEnemy>直接攻撃よりも,メカノイドはメッククラスターをコロニーの近くに降下させる準備をしています. 脅威を取り除くためにも,あなたはこれらを殲滅しなければなりません.\n\n 降下した当初は休止状態なので,あなたには戦法を決める時間があります.\n\n刺激を受けるまで休止状態で居続けるか,時限式タイマーや,近接信管を備えているかもしれません.\n\n休止状態の群でさえ無害ではありません. 休止状態の群はメカノイドのアタッカーを招集したり,最終的には対処しなければならない,より広範囲な悪影響を及ぼしたりします.</SiegeMechanoid.arrivalTextEnemy>
+    <SiegeMechanoid.letterLabelEnemy>メカノイド 包囲戦</SiegeMechanoid.letterLabelEnemy>
 
 </LanguageData>

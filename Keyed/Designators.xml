@@ -115,16 +115,16 @@
     <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>
     <IdenticalThingExists>すでに 同じ物があります.</IdenticalThingExists>
     <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
-    <TerrainCannotSupport>{0_label} cannot be built on this terrain.</TerrainCannotSupport> <!-- TODO -->
-    <TerrainCannotSupport_TerrainAffordance>{0_label}を支えられることのできる地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
-<TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (when made of {2_label}) requires terrain that supports: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff><!-- TODO -->
+    <TerrainCannotSupport>この地形の上には {0_label}を 建てることが できません.</TerrainCannotSupport>
+    <TerrainCannotSupport_TerrainAffordance>{0_label}の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
+    <TerrainCannotSupport_TerrainAffordanceFromStuff>{2_label}製{0_label}の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
     <SpaceAlreadyOccupied>すでに この場所は塞がっています.</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>
     <TerrainMustBeRemovable>剥がせるフロアを指定してください.</TerrainMustBeRemovable>
     <MustBeOnMovingWater>水車は流水に設置しなければなりません.</MustBeOnMovingWater>
-<InteractionSpotWillOverlap>Interaction spot will overlap with the interaction spot of {1_labelShort}.</InteractionSpotWillOverlap><!-- TODO -->
-<InteractionSpotOverlaps>Interaction spot overlaps with the interaction spot of {1_labelShort}.</InteractionSpotOverlaps><!-- TODO -->
-<MonumentAdjacentToBuilding>Monument markers can't be placed directly adjacent to any building.</MonumentAdjacentToBuilding><!-- TODO -->
+    <InteractionSpotWillOverlap>作用空間が{1_labelShort}の作用空間と干渉しそうです.</InteractionSpotWillOverlap>
+    <InteractionSpotOverlaps>作用空間が{1_labelShort}の作用空間と干渉しています.</InteractionSpotOverlaps>
+    <MonumentAdjacentToBuilding>遺跡マーカーを建物の隣に配置することは出来ません.</MonumentAdjacentToBuilding>
 
     <!-- Mouse attachments -->
     <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>
@@ -134,8 +134,8 @@
     <TransmitsPower>送電します.</TransmitsPower>
     <ConstructionNeeded>建設が必要です.</ConstructionNeeded>
     <NoColonistWithSkillTip>このスキルを持っている{0}は一人もいません.</NoColonistWithSkillTip>
-    <SkillNeededForConstructing>{0} needed</SkillNeededForConstructing><!-- TODO -->
-    <NoColonistWithAllSkillsForConstructing>None of your {0} have all skills required.</NoColonistWithAllSkillsForConstructing><!-- TODO -->
+    <SkillNeededForConstructing>必要 {0}スキル</SkillNeededForConstructing>
+    <NoColonistWithAllSkillsForConstructing>{0}はひとりも必要なスキルを持っていません.</NoColonistWithAllSkillsForConstructing>
     <AllColonistsWithSkillHaveDisabledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>

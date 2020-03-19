@@ -21,7 +21,7 @@
     <WoodLog.label>木材</WoodLog.label>
     <WoodLog.description>樹木や他繊維状植物から採取した木材.建造物や武器を作るのに使われます.キャンプファイヤーや発電器の燃料としても適し,バイオ燃料に精製することも可能です.イザと言うときは,角材が,武器や脚としても使うことも可能です.</WoodLog.description>
     <WoodLog.stuffProps.stuffAdjective>木製</WoodLog.stuffProps.stuffAdjective>
-    <WoodLog.tools.log.label>log</WoodLog.tools.log.label> <!-- TODO -->
+    <WoodLog.tools.log.label>丸太</WoodLog.tools.log.label>
 
     <Uranium.label>ウラン</Uranium.label>
     <Uranium.description>色の黒い,重金属.最適な核燃料として知られ,その極めて高い密度と硬度が,信頼できる原始的な武器や防具を作るのに適しています.</Uranium.description>
@@ -50,11 +50,11 @@
     <WoolMuffalo.label>マッファロ毛</WoolMuffalo.label>
     <WoolMuffalo.description>柔らかく,軽い,とても良い断熱材です.毛で編んだ服は,どんな過酷な状況でも身体を温めておくことができます.</WoolMuffalo.description>
 
-    <WoolBison.label>bison wool</WoolBison.label> <!-- TODO -->
-    <WoolBison.description>Thick and coarse wool of a bison. Quite warm.</WoolBison.description> <!-- TODO -->
+    <WoolBison.label>バイソン毛</WoolBison.label>
+    <WoolBison.description>バイソンの毛は厚くてゴワゴワしています.</WoolBison.description>
 
-    <WoolSheep.label>sheep wool</WoolSheep.label> <!-- TODO -->
-    <WoolSheep.description>Sheep's wool. It provides good insulation.</WoolSheep.description> <!-- TODO -->
+    <WoolSheep.label>羊毛</WoolSheep.label>
+    <WoolSheep.description>ヒツジの毛です.防寒に良いです.</WoolSheep.description>
 
     <WoolAlpaca.label>アルパカ毛</WoolAlpaca.label>
     <WoolAlpaca.description>注目に値する程柔らかいアルパカの毛です.</WoolAlpaca.description>

@@ -12,20 +12,20 @@
     <IncapableOfWorkTypeBecauseOfCapacities>この入植者は,健康上の理由から,このタイプのすべての作業を行うことができません.</IncapableOfWorkTypeBecauseOfCapacities>
     <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
     <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
-  <PriorityOneDoneFirst>Priority 1 is done first. Priority 4 is done last.</PriorityOneDoneFirst>
-  <Priority0>Will not do</Priority0> <!-- TODO -->
-  <Priority1>Top priority</Priority1> <!-- TODO -->
-  <Priority2>High priority</Priority2> <!-- TODO -->
-  <Priority3>Normal priority</Priority3> <!-- TODO -->
-  <Priority4>Low priority</Priority4> <!-- TODO -->
+    <PriorityOneDoneFirst>優先順位1位は最優先で,優先順位4位は最劣後です.</PriorityOneDoneFirst>
+    <Priority0>行なわない</Priority0>
+    <Priority1>最優先</Priority1>
+    <Priority2>優先</Priority2>
+    <Priority3>通常</Priority3>
+    <Priority4>劣後</Priority4>
 
     <!-- Assign tab -->
     <ManageOutfits>服装を管理</ManageOutfits>
-  <Unchangeable>Unchangeable</Unchangeable> <!-- TODO -->
+    <Unchangeable>服装は変更不可</Unchangeable>
     <ClearForcedApparel>服装を自由にさせる</ClearForcedApparel>
     <ApparelForcedLower>服装を強制</ApparelForcedLower>
-  <ApparelLockedLower>locked</ApparelLockedLower> <!-- TODO -->
-   <ForcedApparel>服装を強制する</ForcedApparel>
+    <ApparelLockedLower>ロック</ApparelLockedLower>
+    <ForcedApparel>服装を強制する</ForcedApparel>
     <AssignTabEdit>編集...</AssignTabEdit>
     <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
     <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
@@ -42,14 +42,14 @@
 
     <!-- Wildlife tab -->
     <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
-  <IsInMentalState>This creature is currently in mental state: {0}</IsInMentalState> <!-- TODO -->
+    <IsInMentalState>この生物の精神状態: {0}</IsInMentalState>
 
     <!-- Factions tab -->
     <Hostile>敵対</Hostile>
     <Ally>同盟</Ally>
     <DefeatedLower>敗退</DefeatedLower>
     <HostileTo>{0} と 敵対</HostileTo>
-  <EnemyOf>Enemy of: </EnemyOf> <!-- TODO -->
+    <EnemyOf>敵対: </EnemyOf>
     <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
     <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
     <CurrentGoodwillTip_Ally>この派閥とは同盟です.彼らは,あなたを助ける為にできる限りの援軍を送ろうとするでしょう.もし関係性が{0}を下回ると,彼らとは中立的な関係になるでしょう.</CurrentGoodwillTip_Ally>
@@ -96,54 +96,55 @@
     <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 
     <!-- Research tab -->
-  <Research>Research</Research> <!-- TODO -->
-  <Researched>Researched</Researched> <!-- TODO -->
-  <Unresearched>Unresearched</Unresearched> <!-- TODO -->
-  <Finished>Finished</Finished> <!-- TODO -->
-  <InProgress>In Progress</InProgress> <!-- TODO -->
-  <Locked>Locked</Locked> <!-- TODO -->
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites> <!-- TODO -->
-  <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement> <!-- TODO -->
-  <InsufficientTechprintsApplied>Insufficient techprints applied ({0} / {1})</InsufficientTechprintsApplied> <!-- TODO -->
-  <PrerequisitesNotCompleted>Prerequisite(s) not completed</PrerequisitesNotCompleted> <!-- TODO -->
-  <RequiredResearchBench>Required research bench</RequiredResearchBench> <!-- TODO -->
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities> <!-- TODO -->
+    <Research>研究</Research>
+    <Researched>研究済</Researched>
+    <Unresearched>未研究</Unresearched>
+    <Finished>完了</Finished>
+    <InProgress>研究中</InProgress>
+    <Locked>ロック</Locked>
+    <ResearchPrerequisites>研究の必要条件</ResearchPrerequisites>
+    <ResearchTechprintRequirement>Techprintsが必要 {0} / {1}</ResearchTechprintRequirement>
+    <InsufficientTechprintsApplied>Techprintsが足りない ({0} / {1})</InsufficientTechprintsApplied>
+    <PrerequisitesNotCompleted>必要条件を満たしていない</PrerequisitesNotCompleted>
+    <RequiredResearchBench>必要な研究卓</RequiredResearchBench>
+    <RequiredResearchBenchFacilities>必要な研究設備</RequiredResearchBenchFacilities>
     <ResearchCostComparison>あなたのテックレベルを考慮した結果,プロジェクトにかかる費用 {0} は最終的に {1} になりました.</ResearchCostComparison>
-  <ResearchTechprintsFromFactions>Techprints are available from these factions via trade and quests:</ResearchTechprintsFromFactions> <!-- TODO -->
-  <TechLevelTooLow>Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}.</TechLevelTooLow> <!-- TODO -->
+    <ResearchTechprintsFromFactions>Techprints are available from these factions via trade and quests:</ResearchTechprintsFromFactions> <!-- TODO -->
+    <TechLevelTooLow>あなたの派閥のテックレベルは{0}ですが,この研究のテックレベルは{1}です.研究速度は本来の{2}となります.</TechLevelTooLow>
 
   <!-- Quests tab -->
-  <AvailableQuests>Available</AvailableQuests> <!-- TODO -->
-  <ActiveQuests>Active</ActiveQuests> <!-- TODO -->
-  <HistoricalQuests>Historical</HistoricalQuests> <!-- TODO -->
-  <NoQuestSelected>no quest selected</NoQuestSelected> <!-- TODO -->
-  <AppearedDaysAgo>Appeared {0} days ago</AppearedDaysAgo> <!-- TODO -->
-  <AppearedOn>Appeared on {0}</AppearedOn> <!-- TODO -->
-  <AcceptedAgo>Accepted {0} ago</AcceptedAgo> <!-- TODO -->
-  <AcceptedOn>Accepted on {0}</AcceptedOn> <!-- TODO -->
+  <AvailableQuests>保留</AvailableQuests>
+  <ActiveQuests>受領</ActiveQuests>
+  <HistoricalQuests>却下</HistoricalQuests>
+  <NoQuestSelected>クエストはありません</NoQuestSelected>
+  <AppearedDaysAgo>{0}日 経過</AppearedDaysAgo>
+  <AppearedOn>{0} 開始</AppearedOn>
+  <AcceptedAgo>受領後 {0}経過</AcceptedAgo>
+  <AcceptedOn>{0} 受領</AcceptedOn>
   <AcceptedAgoBy>Accepted {0} ago by {1}</AcceptedAgoBy> <!-- TODO -->
   <AcceptedOnBy>Accepted on {0} by {1}</AcceptedOnBy> <!-- TODO -->
-  <QuestExpiresIn>Expires in {0}</QuestExpiresIn> <!-- TODO -->
-  <QuestExpiresOn>Expires on {0}</QuestExpiresOn> <!-- TODO -->
-  <ShuttleArrivesIn>Shuttle arrives in {0}</ShuttleArrivesIn> <!-- TODO -->
-  <ShuttleArrivesOn>Shuttle arrives on {0}</ShuttleArrivesOn> <!-- TODO -->
-  <ShuttleDepartsIn>Shuttle departs in {0}</ShuttleDepartsIn> <!-- TODO -->
-  <ShuttleDepartsOn>Shuttle departs on {0}</ShuttleDepartsOn> <!-- TODO -->
-  <QuestFinishedAgo>Finished {0} ago</QuestFinishedAgo> <!-- TODO -->
-  <AcceptQuest>Accept quest</AcceptQuest> <!-- TODO -->
-  <AcceptWith>Accept with {0_labelShort}</AcceptWith> <!-- TODO -->
-  <QuestOutcomeInfo_OfferExpired>The offer expired.</QuestOutcomeInfo_OfferExpired> <!-- TODO -->
-  <QuestOutcomeInfo_UnknownOrSuccess>You completed this quest.</QuestOutcomeInfo_UnknownOrSuccess> <!-- TODO -->
-  <QuestOutcomeInfo_Failed>You failed this quest.</QuestOutcomeInfo_Failed> <!-- TODO -->
-  <JumpToTargetCustom>Jump to {0}</JumpToTargetCustom> <!-- TODO -->
-  <QuestChallengeRatingTip>Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate</QuestChallengeRatingTip> <!-- TODO -->
-  <QuestAcceptanceRequirementsDescription>To accept this quest, you need</QuestAcceptanceRequirementsDescription> <!-- TODO -->
-  <QuestBedroomRequirementsUnsatisfied>free bedrooms that satisfy the title requirements of</QuestBedroomRequirementsUnsatisfied> <!-- TODO -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>a free bedroom that satisfies the title requirements of</QuestBedroomRequirementsUnsatisfiedSingle> <!-- TODO -->
+  <QuestExpiresIn>期限切れまで あと{0}</QuestExpiresIn>
+  <QuestExpiresOn>期日：{0}</QuestExpiresOn>
+  <ShuttleArrivesIn>{0}にシャトルは着きます</ShuttleArrivesIn>
+  <ShuttleArrivesOn>{0}にシャトルは着きます</ShuttleArrivesOn>
+  <ShuttleDepartsIn>{0}にシャトルは発ちます</ShuttleDepartsIn>
+  <ShuttleDepartsOn>{0}にシャトルは発ちます</ShuttleDepartsOn>
+  <QuestFinishedAgo>{0}前に完了</QuestFinishedAgo>
+  <AcceptQuest>クエストを受領</AcceptQuest>
+  <AcceptWith>{0_labelShort}を受領</AcceptWith>
+  <QuestOutcomeInfo_OfferExpired>期限切れ</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_UnknownOrSuccess>クエスト完了</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_Failed>クエスト失敗</QuestOutcomeInfo_Failed>
+  <JumpToTargetCustom>{0}をワールドマップ上で表示</JumpToTargetCustom>
+  <SelectHiveTargets>Select hives</SelectHiveTargets> <!-- TODO -->
+  <QuestChallengeRatingTip>これは難易度を表します. このクエストが あなたの今の能力と比べて, どれくらい難しいかを表したものです. より挑戦的であれば, より報酬も多くなります.\n\n1: 普通\n2: 難しい\n3: とても難しい\n4: 最高に難しい</QuestChallengeRatingTip>
+  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,あなたの力が必要です.</QuestAcceptanceRequirementsDescription>
+  <QuestBedroomRequirementsUnsatisfied>爵位持ちが満足する予約されていない複数の寝室</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfiedSingle>爵位持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
   <QuestNoColonistWithTitle>a colonist with the title of {0}.</QuestNoColonistWithTitle> <!-- TODO -->
-  <AcceptRoyalFavor>Accept {FACTION_royalFavorLabel}</AcceptRoyalFavor> <!-- TODO -->
+  <AcceptRoyalFavor>{FACTION_royalFavorLabel}を受諾した.</AcceptRoyalFavor>
   <AcceptRoyalFavorDesc>Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests.</AcceptRoyalFavorDesc> <!-- TODO -->
-  <RoyalFavorOn>You are currently opting in to receive {FACTION_royalFavorLabel}.</RoyalFavorOn> <!-- TODO -->
-  <RoyalFavorOff>You are currently opting out of receiving {FACTION_royalFavorLabel}.</RoyalFavorOff> <!-- TODO -->
+  <RoyalFavorOn>現在,あなたは{FACTION_royalFavorLabel}に同意しています.</RoyalFavorOn>
+  <RoyalFavorOff>現在,あなたは{FACTION_royalFavorLabel}から脱退しています.</RoyalFavorOff>
 
 </LanguageData>

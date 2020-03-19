@@ -22,11 +22,11 @@
     <TabLog>ログ</TabLog>
     <TabFormingCaravan>キャラバン</TabFormingCaravan>
     <TabTransporterContents>積載物</TabTransporterContents>
-  <TabCasketContents>Contents</TabCasketContents> <!-- TODO -->
+    <TabCasketContents>収容者</TabCasketContents>
 
     <!-- Bills tab  -->
     <AddBill>新しい 加工</AddBill>
-    <RecipeRequiresSkills>そのレシピは, スキルが {0}以上 必要です. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
+    <RecipeRequiresSkills>{0}が必要とするスキルは足りません. 入植者の いずれも そのスキルを 持っていません. 誰も このレシピを 実行 できません.</RecipeRequiresSkills>
     <MinimumSkill>必要スキル</MinimumSkill>
     <SuspendedCaps>一時停止</SuspendedCaps>
     <BoundWorkerIs>担当: {1_labelShort}</BoundWorkerIs>
@@ -43,15 +43,15 @@
     <!-- Guest/prisoner tab -->
     <RecruitmentResistance>敵対心が残っています</RecruitmentResistance>
     <RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
-  <RecruitmentChance>Recruitment chance</RecruitmentChance> <!-- TODO -->
-  <RecruitmentChanceExplanation>Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2}</RecruitmentChanceExplanation> <!-- TODO -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart> <!-- TODO -->
+    <RecruitmentChance>勧誘率</RecruitmentChance>
+    <RecruitmentChanceExplanation>勧誘難易度要因：{0}\n心情要因：{1}\n合算した基礎成功率：{2}</RecruitmentChanceExplanation>
+    <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\n前回の勧誘試み\n勧誘者：{3}\n交渉能力要因：{4}\n評価要因：{5} ({6})\n最終的な確率 {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nResistance reduction: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart> <!-- TODO -->
-  <PrisonerReleasePotentialRelationGains>Relations gain on release</PrisonerReleasePotentialRelationGains> <!-- TODO -->
-  <PrisonerReleaseRelationGainsDesc>The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition.</PrisonerReleaseRelationGainsDesc> <!-- TODO -->
-  <PrisonBreakMTBDays>Prison break interval</PrisonBreakMTBDays> <!-- TODO -->
-  <PrisonBreakMTBDaysDescription>The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer.</PrisonBreakMTBDaysDescription> <!-- TODO -->
-  <SlavePrice>Slave price</SlavePrice> <!-- TODO -->
+    <PrisonerReleasePotentialRelationGains>囚人解放時の関係改善利得</PrisonerReleasePotentialRelationGains>
+    <PrisonerReleaseRelationGainsDesc>あなたが囚人を解放したときに得られる派閥関係の改善値です.これには囚人の健康状態と精神状態も加味されます.</PrisonerReleaseRelationGainsDesc>
+    <PrisonBreakMTBDays>脱獄試行間隔</PrisonBreakMTBDays>
+    <PrisonBreakMTBDaysDescription>脱獄を企てる平均間隔時間です.最後に脱獄を試みてからの,心情,流動性,時間に影響されます.\n\nこの時間には睡眠時間は含まれません,実際の間隔時間は通常長くなる傾向にあります.</PrisonBreakMTBDaysDescription>
+    <SlavePrice>奴隷価格</SlavePrice>
     <GetsFood>食べ物を 与えます</GetsFood>
     <DoctorsCare>医者に 診せます</DoctorsCare>
     <GetsMedicine>薬を 与えます</GetsMedicine>
@@ -71,7 +71,7 @@
     <InPain>痛み</InPain>
     <PainLevel>痛みの強さ</PainLevel>
     <Injured>怪我</Injured>
-  <UntendedInjury>Untended injury</UntendedInjury> <!-- TODO -->
+    <UntendedInjury>ほったらかしのケガ</UntendedInjury>
     <NoHealthConditions>(目立った怪我無し)</NoHealthConditions>
     <WholeBody>全身</WholeBody>
     <DataProcessing>データ処理</DataProcessing>
@@ -122,7 +122,7 @@
     <!-- Social tab -->
     <NoRelationships>(無関係)</NoRelationships>
     <Kidnapped>誘拐</Kidnapped>
-  <Lent>Lent to {FACTION_name}, returns in {1}</Lent> <!-- TODO -->
+    <Lent>{FACTION_name}に貸した, {1}に返還予定</Lent>
     <Missing>消息不明</Missing>
     <Slave>奴隷</Slave>
     <FactionLeader>派閥のリーダー</FactionLeader>
@@ -167,12 +167,12 @@
 
     <!-- Transporter contents -->
     <RemoveSliderText>削除 {{0}}x {0}</RemoveSliderText>
-  <ContainedItems>Contained items</ContainedItems> <!-- TODO -->
+    <ContainedItems>収納しているアイテム</ContainedItems>
     <ConfirmRemoveItemDialog>{0}を本当に取り除きますか?</ConfirmRemoveItemDialog>
-  
+
   <!-- Quests tab -->
-  <DismissQuest>Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests.</DismissQuest> <!-- TODO -->
-  <UnDismissQuest>Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled.</UnDismissQuest> <!-- TODO -->
-  <QuestDismissed>This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires.</QuestDismissed> <!-- TODO -->
+  <DismissQuest>このクエストを却下して却下タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報奨と有効期限は普通通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
+  <UnDismissQuest>このクエストの却下を取り消します.\n\nクエストは保留か受領タブへ戻り,通知は再び有効となります.</UnDismissQuest>
+  <QuestDismissed>このクエストは却下されたので,ここにあります.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
 
 </LanguageData>

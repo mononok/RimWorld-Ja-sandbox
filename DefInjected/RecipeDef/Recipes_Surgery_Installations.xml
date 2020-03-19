@@ -23,9 +23,9 @@
         <InstallPegLeg.description>木製の義足(杖)を装着します.</InstallPegLeg.description>
         <InstallPegLeg.jobString>木製義足(杖)を移植中</InstallPegLeg.jobString>
 
-        <InstallWoodenHand.label>install wooden hand</InstallWoodenHand.label> <!-- TODO -->
-        <InstallWoodenHand.description>Install a wooden hand.</InstallWoodenHand.description> <!-- TODO -->
-        <InstallWoodenHand.jobString>Installing wooden hand.</InstallWoodenHand.jobString> <!-- TODO -->
+        <InstallWoodenHand.label>木製義手 移植</InstallWoodenHand.label>
+        <InstallWoodenHand.description>木製義手を装着します.</InstallWoodenHand.description>
+        <InstallWoodenHand.jobString>木製義手を移植中</InstallWoodenHand.jobString>
 
 		<InstallWoodenFoot.label>木製義足(足形) 移植</InstallWoodenFoot.label>
 		<InstallWoodenFoot.description>木製の義足(足形)を装着します.</InstallWoodenFoot.description>
@@ -47,9 +47,9 @@
 	<InstallSimpleProstheticHeart.description>人工心臓を移植します.</InstallSimpleProstheticHeart.description>
 	<InstallSimpleProstheticHeart.jobString>人工心臓を移植中</InstallSimpleProstheticHeart.jobString>
 
-    <InstallCochlearImplant.label>人工耳 移植</InstallCochlearImplant.label>
-    <InstallCochlearImplant.description>人工耳を移植します.</InstallCochlearImplant.description>
-    <InstallCochlearImplant.jobString>人工耳を移植中</InstallCochlearImplant.jobString>
+    <InstallCochlearImplant.label>人工内耳 移植</InstallCochlearImplant.label>
+    <InstallCochlearImplant.description>人工内耳を移植します.</InstallCochlearImplant.description>
+    <InstallCochlearImplant.jobString>人工内耳を移植中</InstallCochlearImplant.jobString>
 
         <InstallBionicArm.label>強化上肢 移植</InstallBionicArm.label>
         <InstallBionicArm.description>機械化された上肢を移植します.</InstallBionicArm.description>
@@ -71,9 +71,9 @@
 	<InstallBionicStomach.description>強化胃を移植します.</InstallBionicStomach.description>
 	<InstallBionicStomach.jobString>強化胃を移植中</InstallBionicStomach.jobString>
 
-	<InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label> <!-- TODO -->
-	<InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description> <!-- TODO -->
-	<InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString> <!-- TODO -->
+	<InstallDeathAcidifier.label>亡者の酸 移植</InstallDeathAcidifier.label>
+	<InstallDeathAcidifier.description>亡者の酸を移植します.</InstallDeathAcidifier.description>
+	<InstallDeathAcidifier.jobString>亡者の酸を移植中</InstallDeathAcidifier.jobString>
 
 	<InstallBionicEar.label>強化耳 移植</InstallBionicEar.label>
 	<InstallBionicEar.description>強化耳を移植します.</InstallBionicEar.description>

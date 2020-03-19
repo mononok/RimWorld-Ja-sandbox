@@ -20,6 +20,27 @@
         <li>numGroupsOf(raidCount>=4)->[raidCount] groups of</li>
     </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
 
-    <Util_GenerateSite.root.singleSitePartRules.slateRef><rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)-&gt;there's a climate adjuster machine there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)-&gt;there's a psychic droner machine there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==PsychicSuppressor)-&gt;there's a psychic suppressor machine there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==WeatherController)-&gt;there's a weather controller machine there forcing weather in the whole region to [weather_label]</li><li>root(priority=1,sitePart==SmokeSpewer)-&gt;there's a smoke spewer machine there belching smoke over the whole region</li><li>root(priority=1,sitePart==SunBlocker)-&gt;there's a sun blocker machine there shadowing the whole region</li><li>root(priority=1,sitePart==EMIDynamo)-&gt;there's an EMI dynamo machine there which can disable electrical devices across the region</li><li>root(priority=1,sitePart==ToxicSpewer)-&gt;there's a toxic spewer machine there blanketing the whole region in poison</li><li>root(priority=1,sitePart==RaidSource)-&gt;there's a military staging area guarded by [enemiesCount] enemies that will launch raids on you every [mtbDays]</li><li>root(priority=1,sitePart==Outpost)-&gt;there's an enemy outpost at the site guarded by [enemiesCount] enemies</li><li>root(priority=1,sitePart==BanditCamp)-&gt;there's a bandit camp at the site guarded by [enemiesCount] enemies</li><li>root(priority=1,sitePart==Manhunters,count==1)-&gt;a manhunting [kindLabel] are wandering nearby</li><li>root(priority=1,sitePart==Manhunters,count&gt;1)-&gt;[count] manhunting [kindLabel] are wandering nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count==1)-&gt;a mechanoid is sleeping nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count&gt;1)-&gt;[count] mechanoids are sleeping nearby</li><li>root(priority=1,sitePart==Turrets)-&gt;[threatsInfo] defend the site</li><li>root(priority=1,sitePart==AmbushEdge)-&gt;an enemy force is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==AmbushHidden)-&gt;an enemy force is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==MechCluster)-&gt;there's a cluster of hostile mechanoid structures</li><li>root(priority=1,sitePart==PossibleUnknownThreatMarker)-&gt;there may be an unknown threat</li><li>root-&gt;there's [label]</li></rulesStrings></Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <Util_GenerateSite.root.singleSitePartRules.slateRef><rulesStrings>
+        <li>root(priority=1,sitePart==ClimateAdjuster)->there's a climate adjuster machine there shifting the regional temperature by [temperatureOffset]</li>
+        <li>root(priority=1,sitePart==PsychicDroner)->there's a psychic droner machine there tuned to the [affectedGender] gender</li>
+        <li>root(priority=1,sitePart==PsychicSuppressor)->there's a psychic suppressor machine there tuned to the [affectedGender] gender</li>
+        <li>root(priority=1,sitePart==WeatherController)->there's a weather controller machine there forcing weather in the whole region to [weather_label]</li>
+        <li>root(priority=1,sitePart==SmokeSpewer)->there's a smoke spewer machine there belching smoke over the whole region</li>
+        <li>root(priority=1,sitePart==SunBlocker)->there's a sun blocker machine there shadowing the whole region</li>
+        <li>root(priority=1,sitePart==EMIDynamo)->there's an EMI dynamo machine there which can disable electrical devices across the region</li>
+        <li>root(priority=1,sitePart==ToxicSpewer)->there's a toxic spewer machine there blanketing the whole region in poison</li>
+        <li>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by [enemiesCount] enemies that will launch raids on you every [mtbDays]</li>
+        <li>root(priority=1,sitePart==Outpost)->[enemiesCount]名の敵によって前哨基地は守られている</li>
+        <li>root(priority=1,sitePart==BanditCamp)->[enemiesCount]名の敵によって野営地は守られている</li>
+        <li>root(priority=1,sitePart==Manhunters,count==1)->a manhunting [kindLabel] are wandering nearby</li>
+        <li>root(priority=1,sitePart==Manhunters,count>1)->[count] manhunting [kindLabel] are wandering nearby</li>
+        <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->a mechanoid is sleeping nearby</li>
+        <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->[count] mechanoids are sleeping nearby</li>
+        <li>root(priority=1,sitePart==Turrets)->[threatsInfo] defend the site</li>
+        <li>root(priority=1,sitePart==AmbushEdge)->an enemy force is waiting to ambush anyone who comes near</li>
+        <li>root(priority=1,sitePart==AmbushHidden)->an enemy force is waiting to ambush anyone who comes near</li>
+        <li>root(priority=1,sitePart==MechCluster)->there's a cluster of hostile mechanoid structures</li>
+        <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->未知の脅威があると思われます</li>
+        <li>root->there's [label]</li></rulesStrings></Util_GenerateSite.root.singleSitePartRules.slateRef>
 
 </LanguageData>

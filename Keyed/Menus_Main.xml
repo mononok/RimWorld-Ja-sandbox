@@ -47,16 +47,16 @@
     <PlanetTemperature>平均気温</PlanetTemperature>
     <PlanetRainfall_Low>少雨</PlanetRainfall_Low>
     <PlanetRainfall_Normal>普通</PlanetRainfall_Normal>
-  <PlanetPopulation>Population</PlanetPopulation> <!-- TODO -->
+    <PlanetPopulation>人口</PlanetPopulation>
     <PlanetRainfall_High>多雨</PlanetRainfall_High>
     <PlanetTemperature_Low>低温</PlanetTemperature_Low>
     <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
     <PlanetTemperature_High>高温</PlanetTemperature_High>
     <Reset>リセット</Reset>
     <WorldSeed>シード値</WorldSeed>
-  <PlanetPopulation_Low>Sparse</PlanetPopulation_Low> <!-- TODO -->
-  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal> <!-- TODO -->
-  <PlanetPopulation_High>Crowded</PlanetPopulation_High> <!-- TODO -->
+    <PlanetPopulation_Low>希薄</PlanetPopulation_Low>
+    <PlanetPopulation_Normal>普通</PlanetPopulation_Normal>
+    <PlanetPopulation_High>混雑</PlanetPopulation_High>
     <RandomizeSeed>ランダムシード</RandomizeSeed>
     <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
     <WorldFactionsTab>派閥</WorldFactionsTab>
@@ -82,45 +82,45 @@
     <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
     <ConfirmDisableCoreMod>コアMODを無効にしますか？ コア機能を 完全に代用する MODが ないかぎり, ゲームは まったく 動作しません.\n\n他MODが 同じ defName を 使うことで, コアMODの def を 無視できるのを 活用して ください.</ConfirmDisableCoreMod>
     <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか？</ConfirmDeleteMod>
-    <Unsubscribe>Unsubscribe</Unsubscribe> <!-- TODO -->
-  <ResolveModOrder>Auto-sort mods</ResolveModOrder> <!-- TODO -->
-    <ConfirmUnsubscribe>{0}を アンサブスクライブ しようとしています.よろしいですか？</ConfirmUnsubscribe>
+    <Unsubscribe>サブスクライブを解除</Unsubscribe>
+    <ResolveModOrder>MOD自動並べ替え</ResolveModOrder>
+    <ConfirmUnsubscribe>{0}の サブスクライブを 解除しようとしています. よろしいですか？</ConfirmUnsubscribe>
     <Author>作者</Author>
-    <WorkshopPage>Workshop page</WorkshopPage>
-    <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-    <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-    <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-    <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-    <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-    <Downloading>Downloading</Downloading>
-  <ModDisplayFulfilledRequirements>Display fulfilled requirements</ModDisplayFulfilledRequirements> <!-- TODO -->
-  <ModClickToSelect>Click to select.</ModClickToSelect> <!-- TODO -->
-  <ModClickToGoToWebsite>Click to go to website.</ModClickToGoToWebsite> <!-- TODO -->
-    <Source>Source</Source>
-    <ModTargetVersion>For version: {0}</ModTargetVersion>
+    <WorkshopPage>ワークショップ</WorkshopPage>
+    <UploadToSteamWorkshop>ワークショップにアップロードする.</UploadToSteamWorkshop>
+    <UpdateOnSteamWorkshop>ワークショップからアップデートする.</UpdateOnSteamWorkshop>
+    <UploadAlreadyInProgress>既にアップロードは進行中です.</UploadAlreadyInProgress>
+    <WorkshopSubmissionFailed>ワークショップへの提出が失敗しました.\n\n理由：{0}</WorkshopSubmissionFailed>
+    <WorkshopUploadSucceeded>{0}アップロードは成功しました.</WorkshopUploadSucceeded>
+    <Downloading>ダウンロード中</Downloading>
+    <ModDisplayFulfilledRequirements>実行済みの案件を表示する</ModDisplayFulfilledRequirements>
+    <ModClickToSelect>選択するにはクリック</ModClickToSelect>
+    <ModClickToGoToWebsite>ウェブサイトへ行くにはクリック</ModClickToGoToWebsite>
+    <Source>ソース</Source>
+    <ModTargetVersion>ターゲットバージョン: {0}</ModTargetVersion>
     <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
-  <ModPackageId>ID</ModPackageId> <!-- TODO -->
-  <ModMustLoadBefore>This must be loaded before: {0}.</ModMustLoadBefore> <!-- TODO -->
-  <ModMustLoadAfter>This must be loaded after: {0}.</ModMustLoadAfter> <!-- TODO -->
-  <ModDependsOn>Depends on: {0}</ModDependsOn> <!-- TODO -->
-  <ModIncompatibleWith>Incompatible with: {0}</ModIncompatibleWith> <!-- TODO -->
-  <ModIncompatibleWithTip>This mod is incompatible with: {0}.</ModIncompatibleWithTip> <!-- TODO -->
-  <ModOrderingWarning>This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually.</ModOrderingWarning> <!-- TODO -->
-  <ModWithSameIdAlreadyActive>Another active mod uses the same ID: {0}.</ModWithSameIdAlreadyActive> <!-- TODO -->
-  <ModCyclicDependency>There is a cyclic mod dependency starting with {0}.</ModCyclicDependency> <!-- TODO -->
-  <ModUnsatisfiedDependency>This requires following mods to work: {0}.</ModUnsatisfiedDependency> <!-- TODO -->
+    <ModPackageId>ID</ModPackageId>
+    <ModMustLoadBefore>次よりも先にロードが必要: {0}.</ModMustLoadBefore>
+    <ModMustLoadAfter>次より後にロードが必要: {0}.</ModMustLoadAfter>
+    <ModDependsOn>次に依存する: {0}</ModDependsOn>
+    <ModIncompatibleWith>次と両立しない: {0}</ModIncompatibleWith>
+    <ModIncompatibleWithTip>このMODは,次と両立しない: {0}.</ModIncompatibleWithTip>
+    <ModOrderingWarning>このMODは他のMODとの相対的位置を間違ってロードしています.「MOD自動並べ替え」ボタンを使うか,手動でMODの順序を入れ替えてください.</ModOrderingWarning>
+    <ModWithSameIdAlreadyActive>別の有効なMODが同じIDを使用している: {0}.</ModWithSameIdAlreadyActive>
+    <ModCyclicDependency>{0}から始まるMODの依存関係が循環している.</ModCyclicDependency>
+    <ModUnsatisfiedDependency>動作させるには次のMODが必要: {0}.</ModUnsatisfiedDependency>
     <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
-    <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <MessageModNeedsWellFormattedPackageId>Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId> <!-- TODO -->
-  <ModHadLoadFolderIssues>This mod has issues in LoadFolders.xml, that you need to resolve before uploading:</ModHadLoadFolderIssues> <!-- TODO -->
-  <ModLoadFolderDoesntExist>Folder {0} specified for version {1} doesn't exist.</ModLoadFolderDoesntExist> <!-- TODO -->
-  <ModLoadFolderMalformedVersion>Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)</ModLoadFolderMalformedVersion> <!-- TODO -->
-  <ModLoadFolderListEmpty>The list of load folders for version {0} is empty.</ModLoadFolderListEmpty> <!-- TODO -->
-  <ModLoadFolderRepeatingFolder>Version {0} lists the same folder more than once: {1}.</ModLoadFolderRepeatingFolder> <!-- TODO -->
-  <ModLoadFolderOutOfOrder>Invalid version order: {0} should come before {1}.</ModLoadFolderOutOfOrder> <!-- TODO -->
-  <ModLoadFolderOutOfOrderDefault>Invalid version order: 'default' should be defined first.</ModLoadFolderOutOfOrderDefault> <!-- TODO -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml.</ModLoadFolderDefinesUnsupportedGameVersion> <!-- TODO -->
-    <DragToReorder>順序変更はドラッグする</DragToReorder>
+    <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+    <MessageModNeedsWellFormattedPackageId>MODには About.xml 内に正しいフォーマットで書かれた固有のパッケージIDが必要です.次の必須条件があります:\n\n - 半角英数とピリオドのみ.\n - スペースは含まない.\n - 最低1つのピリオドがある.\n - ピリオドは連続してはいけない,頭と尻にあってはいけない.\n - 60文字以内.\n - ”Ludeon”という文字を含んではいけない.\n\n例えば:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+    <ModHadLoadFolderIssues>このMODの LoadFolders.xml には問題がありアップロードする前に解決する必要があります:</ModHadLoadFolderIssues>
+    <ModLoadFolderDoesntExist>{0} フォルダーには {1}が存在しません.</ModLoadFolderDoesntExist>
+    <ModLoadFolderMalformedVersion>バージョン表記に間違いがあります：'{0}'. 正しいフォーマットは, メジャー番号.マイナー番号です. (例 1.1)</ModLoadFolderMalformedVersion>
+    <ModLoadFolderListEmpty>ロードフォルダーリストにバージョン{0}がありません.</ModLoadFolderListEmpty>
+    <ModLoadFolderRepeatingFolder>バージョン{0}には同名のフォルダーが列挙されています：{1}.</ModLoadFolderRepeatingFolder>
+    <ModLoadFolderOutOfOrder>バージョン順序が不正です：{0}は{1}の前に来なければなりません.</ModLoadFolderOutOfOrder>
+    <ModLoadFolderOutOfOrderDefault>バージョン順序が不正です：'default'は最初に定義されてなければなりません.</ModLoadFolderOutOfOrderDefault>
+    <ModLoadFolderDefinesUnsupportedGameVersion>ロードフォルダーにバージョン{0}が定義されています,しかしMODのAbout.xmlにある'supportedVersions'にはありません.</ModLoadFolderDefinesUnsupportedGameVersion>
+    <DragToReorder>順序を変更するにはドラッグ</DragToReorder>
 
   <!-- Select scenario -->
     <ChooseScenario>シナリオを選択</ChooseScenario>
@@ -199,16 +199,16 @@
     <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
     <Randomize>ランダム</Randomize>
     <AgeIndicator>年齢 {0}</AgeIndicator>
-  <PawnSummary>{PAWN_race}, age {PAWN_ageFull}</PawnSummary> <!-- TODO -->
-  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, age {PAWN_ageFull}</PawnSummaryWithGender> <!-- TODO -->
+  <PawnSummary>{PAWN_race}, {PAWN_ageFull}歳</PawnSummary>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, {PAWN_ageFull}歳</PawnSummaryWithGender>
     <Backstory>生い立ち</Backstory>
     <IncapableOf>苦手・欠点</IncapableOf>
-  <Abilities>Abilities</Abilities> <!-- TODO -->
-  <IncapableOfTooltipBackstory>Caused by backstory: {0}</IncapableOfTooltipBackstory> <!-- TODO -->
-  <IncapableOfTooltipTitle>Caused by title: {0}</IncapableOfTooltipTitle> <!-- TODO -->
-  <IncapableOfTooltipTrait>Caused by trait: {0}</IncapableOfTooltipTrait> <!-- TODO -->
-  <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff> <!-- TODO -->
-  <IncapableOfTooltipWorkTypes>Disabled work types:</IncapableOfTooltipWorkTypes> <!-- TODO -->
+    <Abilities>才能</Abilities>
+    <IncapableOfTooltipBackstory>生い立ち {0}が原因</IncapableOfTooltipBackstory>
+    <IncapableOfTooltipTitle>爵位 {0}が原因</IncapableOfTooltipTitle>
+    <IncapableOfTooltipTrait>正確 {0}が原因</IncapableOfTooltipTrait>
+    <IncapableOfTooltipHediff>{0}が原因</IncapableOfTooltipHediff>
+    <IncapableOfTooltipWorkTypes>無効な職業:</IncapableOfTooltipWorkTypes>
     <Traits>才能・性格</Traits>
     <PermanentMoodEffect>明るさ(性格)</PermanentMoodEffect>
     <Skills>スキル</Skills>
@@ -245,5 +245,5 @@
     <GeneratingMap>地図を 作成しています</GeneratingMap>
     <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
 
-  <ClickForMoreInfo>Click for more info</ClickForMoreInfo> <!-- TODO -->
+  <ClickForMoreInfo>更に知りたい時はクリック</ClickForMoreInfo>
 </LanguageData>

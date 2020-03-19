@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<BanditCamp.label>bandit camp</BanditCamp.label> <!-- TODO -->
-	<BanditCamp.description>A bandit camp.</BanditCamp.description> <!-- TODO -->
-	<BanditCamp.approachingReportString>Attacking {0}</BanditCamp.approachingReportString> <!-- TODO -->
-	<BanditCamp.approachOrderString>Attack {0}</BanditCamp.approachOrderString> <!-- TODO -->
-	<BanditCamp.arrivedLetter>There is an enemy outpost in this area.</BanditCamp.arrivedLetter> <!-- TODO -->
+	<BanditCamp.label>野営地</BanditCamp.label>
+	<BanditCamp.description>野営地です.</BanditCamp.description>
+	<BanditCamp.approachingReportString>{0}を攻撃中</BanditCamp.approachingReportString>
+	<BanditCamp.approachOrderString>{0}を攻撃</BanditCamp.approachOrderString>
+	<BanditCamp.arrivedLetter>このエリアにある敵の前哨基地です.</BanditCamp.arrivedLetter>
 
 	<Manhunters.label>人狩りの群れ</Manhunters.label>
 	<Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
@@ -37,8 +37,8 @@
     <ItemStash.label>埋蔵品</ItemStash.label>
     <ItemStash.description>隠された貴重な品々</ItemStash.description>
 
-	<PossibleUnknownThreatMarker.label>possible unknown threat</PossibleUnknownThreatMarker.label> <!-- TODO -->
-	<PossibleUnknownThreatMarker.description>A possible, unknown threat.</PossibleUnknownThreatMarker.description> <!-- TODO -->
+	<PossibleUnknownThreatMarker.label>未知の脅威の可能性アリ</PossibleUnknownThreatMarker.label>
+	<PossibleUnknownThreatMarker.description>未知の脅威が隠れている.</PossibleUnknownThreatMarker.description>
 
     <PreciousLump.label>希少鉱物の岩塊</PreciousLump.label>
     <PreciousLump.description>希少鉱物の岩塊</PreciousLump.description>

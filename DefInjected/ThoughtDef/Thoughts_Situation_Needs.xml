@@ -76,28 +76,28 @@
     <NeedOutdoors.stages.stuck_indoors.label>身動きできない</NeedOutdoors.stages.stuck_indoors.label>
     <NeedOutdoors.stages.stuck_indoors.description>外に出て新鮮な空気を吸いたい.</NeedOutdoors.stages.stuck_indoors.description>
 
-	<DrugDesireFascination.stages.chemical_desire-0.label>chemical desire</DrugDesireFascination.stages.chemical_desire-0.label> <!-- TODO --> -->
-	<DrugDesireFascination.stages.chemical_desire-0.description>I want to experience the exciting effects of drugs.</DrugDesireFascination.stages.chemical_desire-0.description> <!-- TODO -->
-	<DrugDesireFascination.stages.chemical_desire-1.label>chemical desire</DrugDesireFascination.stages.chemical_desire-1.label> <!-- TODO -->
-	<DrugDesireFascination.stages.chemical_desire-1.description>I want to experience the exciting effects of drugs. I havent had the chance to experience them in quite some time.</DrugDesireFascination.stages.chemical_desire-1.description> <!-- TODO -->
-	<DrugDesireFascination.stages.chemical_desire-2.label>chemical desire</DrugDesireFascination.stages.chemical_desire-2.label> <!-- TODO -->
-	<DrugDesireFascination.stages.chemical_desire-2.description>I want to experience the exciting effects of drugs. I havent had the chance to experience them for a long time now.</DrugDesireFascination.stages.chemical_desire-2.description> <!-- TODO -->
+	<DrugDesireFascination.stages.chemical_want.label>薬物が欲しい</DrugDesireFascination.stages.chemical_want.label>
+	<DrugDesireFascination.stages.chemical_want.description>ドラッグにハマっている.もう一回キメてからだいぶ経っている.</DrugDesireFascination.stages.chemical_want.description>
+	<DrugDesireFascination.stages.chemical_hunger.label>薬物を熱望</DrugDesireFascination.stages.chemical_hunger.label>
+	<DrugDesireFascination.stages.chemical_hunger.description>ドラッグにハマっている.一回キメてから,かなり長い時間が経っている.</DrugDesireFascination.stages.chemical_hunger.description>
+	<DrugDesireFascination.stages.chemical_starvation.label>薬物に飢えている</DrugDesireFascination.stages.chemical_starvation.label>
+	<DrugDesireFascination.stages.chemical_starvation.description>ドラッグにハマっている.一回キメてから,永遠と言える時間が経っている.</DrugDesireFascination.stages.chemical_starvation.description>
 
-	<DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.label>chemical statisfaction</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.label> <!-- TODO -->
-	<DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.description>I am fascinated by the exciting effects of drugs.</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.description> <!-- TODO -->
-	<DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.label>chemical statisfaction</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.label> <!-- TODO -->
-	<DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.description>I am fascinated by the exciting effects of drugs. Ive recently taken drugs and enjoyed their effect on me!</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.description> <!-- TODO -->
+	<DrugDesireFascinationSatisfied.stages.chemical_comfort.label>安楽(薬物)</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+	<DrugDesireFascinationSatisfied.stages.chemical_comfort.description>ドラッグにハマっている.ちょっと前にヤッたよ.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+	<DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>喜び(薬物)</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+	<DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>ドラッグにハマっている.ちょっと前にヤッたよ.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
 
-	<DrugDesireInterest.stages.chemical_desire-0.label>chemical desire</DrugDesireInterest.stages.chemical_desire-0.label> <!-- TODO -->
-	<DrugDesireInterest.stages.chemical_desire-0.description>I want to experience the exciting effects of drugs.</DrugDesireInterest.stages.chemical_desire-0.description> <!-- TODO -->
-	<DrugDesireInterest.stages.chemical_desire-1.label>chemical desire</DrugDesireInterest.stages.chemical_desire-1.label> <!-- TODO -->
-	<DrugDesireInterest.stages.chemical_desire-1.description>I want to experience the exciting effects of drugs. I havent had the chance to experience them in quite some time.</DrugDesireInterest.stages.chemical_desire-1.description> <!-- TODO -->
-	<DrugDesireInterest.stages.chemical_desire-2.label>chemical desire</DrugDesireInterest.stages.chemical_desire-2.label> <!-- TODO -->
-	<DrugDesireInterest.stages.chemical_desire-2.description>I want to experience the exciting effects of drugs. I havent had the chance to experience them for a long time now.</DrugDesireInterest.stages.chemical_desire-2.description> <!-- TODO -->
+	<DrugDesireInterest.stages.chemical_want.label>薬物が欲しい</DrugDesireInterest.stages.chemical_want.label>
+	<DrugDesireInterest.stages.chemical_want.description>ドラッグに興味がある.一回試してみてから時間が経った.</DrugDesireInterest.stages.chemical_want.description>
+	<DrugDesireInterest.stages.chemical_hunger.label>薬物を熱望</DrugDesireInterest.stages.chemical_hunger.label>
+	<DrugDesireInterest.stages.chemical_hunger.description>ドラッグに興味がある.もう長いこと試してみるチャンスがない.</DrugDesireInterest.stages.chemical_hunger.description>
+	<DrugDesireInterest.stages.chemical_starvation.label>薬物に飢えている</DrugDesireInterest.stages.chemical_starvation.label>
+	<DrugDesireInterest.stages.chemical_starvation.description>ドラッグに興味がある.一度試してからかなり時間が経った.</DrugDesireInterest.stages.chemical_starvation.description>
 
-	<DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.label>chemical statisfaction</DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.label> <!-- TODO -->
-	<DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.description>I am interested in experiencing the exciting effects of drugs.</DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.description> <!-- TODO -->
-	<DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.label>chemical statisfaction</DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.label> <!-- TODO -->
-	<DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.description>I am fascinated by the exciting effects of drugs. Ive recently taken drugs and enjoyed their effect on me!</DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.description> <!-- TODO -->
+	<DrugDesireInterestSatisfied.stages.chemical_comfort.label>安楽(薬物)</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+	<DrugDesireInterestSatisfied.stages.chemical_comfort.description>ドラッグに興味がある.ちょっと前にヤッてみたら,良かったよ.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+	<DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>喜び(薬物)</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+	<DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>ドラッグに興味がある.ちょうどヤッたばかり,これはすごい!</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
 
 </LanguageData>

@@ -44,8 +44,8 @@
     <NewDiseaseAnimal>{PAWN_labelShort}は 病気を発症しました: {1}</NewDiseaseAnimal>
     <NewPartDiseaseAnimal>{PAWN_possessive} {1}の{PAWN_labelShort}は 病気を発症しました: {3}</NewPartDiseaseAnimal>
 
-    <PawnWasFormerlyColonist>{0} was formerly part of your faction.</PawnWasFormerlyColonist> <!-- TODO -->
-  <PawnWasFormerlyLodger>You previously hosted {0}.</PawnWasFormerlyLodger> <!-- TODO -->
+    <PawnWasFormerlyColonist>かつて{0}は 派閥の一員でした.</PawnWasFormerlyColonist>
+    <PawnWasFormerlyLodger>{0}は,あなたの世話になったことがあります.</PawnWasFormerlyLodger>
     <PawnHasTheseRelationshipsWithColonists>{1_labelShort}は,入植者達と,これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
 
     <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
@@ -81,9 +81,9 @@
     <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
     <ReadMore>もっと読む</ReadMore>
-  <ViewRelatedQuest>View related quest</ViewRelatedQuest> <!-- TODO -->
-  <ViewQuest>View quest</ViewQuest> <!-- TODO -->
-    <LastEventsInLife>{PAWN_definite}の一生に起きた最後の出来事</LastEventsInLife>
+    <ViewRelatedQuest>関連するクエストを参照</ViewRelatedQuest>
+    <ViewQuest>クエストを参照</ViewQuest>
+    <LastEventsInLife>{PAWN_definite}の人生で 最後に起きた出来事</LastEventsInLife>
 
     <!-- Related pawns -->
     <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
@@ -108,12 +108,12 @@
     <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
     <LetterNewLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は 互いに寄り添って眠りたがっています.彼らにダブルベッドはどうでしょう.</LetterNewLovers>
     <LetterNoLongerLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は その関係を断ちました.</LetterNoLongerLovers>
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name.</LetterNoLongerLovers_BackToBirthName> <!-- TODO -->
+    <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort}の名字は旧姓に戻ります.</LetterNoLongerLovers_BackToBirthName>
     <LetterLabelBreakup>振られた</LetterLabelBreakup>
     <LetterLabelAcceptedProposal>喜んで!結婚しよう</LetterLabelAcceptedProposal>
     <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
     <LetterAcceptedProposal>来るべき日がくれば,彼らは結婚式を執り行い,すべての入植者を招待します.どこで結婚式を行うかを思い通りにしたければ,結婚を誓う場の検討をします.</LetterAcceptedProposal>
-  <LetterAcceptedProposal_NameChange>{PAWN_label} will change {PAWN_possessive} last name to {1}.</LetterAcceptedProposal_NameChange> <!-- TODO -->
+  <LetterAcceptedProposal_NameChange>{PAWN_label}の名字は {1}に変わります.</LetterAcceptedProposal_NameChange>
     <LetterRejectedProposal>{INITIATOR_nameFull}は,このことで不幸になるでしょう.</LetterRejectedProposal>
 
     <!-- Generalized letter labels -->
@@ -167,11 +167,11 @@
 
   <!-- Long-range mineral scanner -->
     <LetterLabelFoundPreciousLump>稀少鉱物を探知</LetterLabelFoundPreciousLump>
-    <LetterFoundPreciousLump>長距離鉱物スキャナーを使い,{WORKER_labelShort}は,すぐ近くに{0}鉱床を見つけた.\n\n残念ながら,そう長くは持たない - 他の住人が{1}日以内に先に採掘するだろう・・\n\n{2}</LetterFoundPreciousLump>
+    <LetterFoundPreciousLump>長距離鉱物スキャナーを使用して,{WORKER_labelShort}は,すぐ近くに{0}鉱床を発見した.\n\n残念ながら,そう長くは持たない - 他の住人が{1}日以内に先に採掘するだろう・・\n\n{2}</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
-  <LetterLabelDeepScannerFoundLump>Scanned underground</LetterLabelDeepScannerFoundLump> <!-- TODO -->
-  <LetterDeepScannerFoundLump>{FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner!</LetterDeepScannerFoundLump> <!-- TODO -->
+  <LetterLabelDeepScannerFoundLump>地質を走査した</LetterLabelDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>地質貫通型スキャナーを使用して,{FINDER_nameDef}は{0}鉱床を発見した!.</LetterDeepScannerFoundLump>
 
     <!-- Ambush -->
     <LetterLabelAmbushInExistingMap>待ち伏せ</LetterLabelAmbushInExistingMap>
@@ -201,16 +201,16 @@
 
   <!-- Crafting letters -->
     <LetterCraftedLegendaryLabel>伝説的な仕事</LetterCraftedLegendaryLabel>
-    <LetterCraftedLegendaryMessage>{WORKER_labelShort}は,{CRAFTED_labelShort}を作りました.\n\nこの貴重なアーティファクトに関するニュースは,全国に知れ渡りました.</LetterCraftedLegendaryMessage>
-  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessageArt> <!-- TODO -->
+    <LetterCraftedLegendaryMessage>{WORKER_labelShort}は,{CRAFTED_labelShort}を作り上げました.\n\nこの高価なアーティファクトに関するニュースは世界中へと拡散されました.</LetterCraftedLegendaryMessage>
+    <LetterCraftedLegendaryMessageArt>{WORKER_labelShort}は,{CRAFTED_labelShort}を創り上げました.\n\n{0}\n\nこの高価な芸術品に関するニュースは世界中へと拡散されました.</LetterCraftedLegendaryMessageArt>
 
-  <LetterCraftedMasterworkLabel>Masterwork</LetterCraftedMasterworkLabel> <!-- TODO -->
-  <LetterCraftedMasterworkMessage>{WORKER_labelShort} has created a {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage> <!-- TODO -->
-  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt> <!-- TODO -->
+    <LetterCraftedMasterworkLabel>傑作</LetterCraftedMasterworkLabel>
+    <LetterCraftedMasterworkMessage>{WORKER_labelShort}は,{CRAFTED_labelShort}を作り上げました.</LetterCraftedMasterworkMessage>
+    <LetterCraftedMasterworkMessageArt>{WORKER_labelShort}は,{CRAFTED_labelShort}を創り上げました.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
     <!-- Pawns lost because map closed -->
     <LetterLabelPawnsLostBecauseMapClosed_Caravan>キャラバン隊全滅</LetterLabelPawnsLostBecauseMapClosed_Caravan>
-    <LetterPawnsLostBecauseMapClosed_Caravan>キャラバン隊が全滅しました.次の人々と家畜も一緒に失いました.</LetterPawnsLostBecauseMapClosed_Caravan>
+    <LetterPawnsLostBecauseMapClosed_Caravan>キャラバン隊は全滅し,次の人々もろとも家畜も一緒に失いました.</LetterPawnsLostBecauseMapClosed_Caravan>
 
     <LetterLabelPawnsLostBecauseMapClosed_Home>住民の放棄</LetterLabelPawnsLostBecauseMapClosed_Home>
     <LetterPawnsLostBecauseMapClosed_Home>次の人々と家畜は放棄されました.</LetterPawnsLostBecauseMapClosed_Home>
@@ -247,69 +247,67 @@
   <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドとドクターを確保してください. {PAWN_pronoun}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
 
   <!-- Quests -->
-  <LetterQuestBecameAvailable>A new quest has become available. It is called '{0}'.</LetterQuestBecameAvailable>
-  <LetterQuestRequiresAcceptance>If you don’t accept the quest within {0}, it will expire.</LetterQuestRequiresAcceptance>
-  <LetterQuestBecameActive>A new quest has become active. It is called '{0}'.</LetterQuestBecameActive>
-  <LetterQuestAutomaticallyAcceptedTitle>Quest active: {0}</LetterQuestAutomaticallyAcceptedTitle>
-  <LetterQuestActiveNowTime>It will expire in {0}.</LetterQuestActiveNowTime>
+  <LetterQuestBecameAvailable>新しいクエスト {0} が入手可能になりました.</LetterQuestBecameAvailable>
+  <LetterQuestRequiresAcceptance>このクエストは,{0}以内に受領しないと期限切れになります.</LetterQuestRequiresAcceptance>
+  <LetterQuestBecameActive>新しいクエスト {0} を受領しました.</LetterQuestBecameActive>
+  <LetterQuestAutomaticallyAcceptedTitle>クエスト受領: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestActiveNowTime>有効期限 {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
-  <LetterLabelQuestDropPodsArrived>Pods arrived</LetterLabelQuestDropPodsArrived> <!-- TODO -->
-  <LetterQuestDropPodsArrived>Transport pods with the following contents have arrived:\n\n{0}</LetterQuestDropPodsArrived> <!-- TODO -->
+  <LetterLabelQuestDropPodsArrived>ポッド到着</LetterLabelQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>次の積荷を積んだ輸送ポッドが到着しました:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Refugee joins -->
-  <LetterLabelRefugeeJoins>{PAWN_nameDef} joins</LetterLabelRefugeeJoins> <!-- TODO -->
-  <LetterRefugeeJoins>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.</LetterRefugeeJoins> <!-- TODO -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef}が仲間に</LetterLabelRefugeeJoins>
+  <LetterRefugeeJoins>{PAWN_nameDef}と名乗る{PAWN_title}が到着しコロニーに加わりました.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
-  <LetterLabelRescueeJoins>{PAWN_nameDef} joins</LetterLabelRescueeJoins> <!-- TODO -->
-  <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony.</LetterRescueeJoins> <!-- TODO -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef}が参加</LetterLabelRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef}は あなたが助けた{PAWN_objective}に感謝しています. {PAWN_pronoun}は,ここを離れるより,みんなと一緒に居たほうが良いと判断しコロニーに参加します.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
-  <LetterLabelPawnsArriveAndJoin>People join</LetterLabelPawnsArriveAndJoin> <!-- TODO -->
-  <LetterPawnsArriveAndJoin>The following people have arrived and joined the colony:\n\n{0}</LetterPawnsArriveAndJoin> <!-- TODO -->
+  <LetterLabelPawnsArriveAndJoin>参入者</LetterLabelPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>これらの人達が到着しコロニーに加わります:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
-  <LetterLabelPawnsArrive>People arrived</LetterLabelPawnsArrive> <!-- TODO -->
-  <LetterPawnsArrive>The following people have arrived:\n\n{0}</LetterPawnsArrive> <!-- TODO -->
+  <LetterLabelPawnsArrive>到着</LetterLabelPawnsArrive>
+  <LetterPawnsArrive>これらの人達が到着しました:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
-  <LetterLabelPawnLeaving>{0} leaving</LetterLabelPawnLeaving> <!-- TODO -->
-  <LetterPawnLeaving>{0} is leaving.</LetterPawnLeaving> <!-- TODO -->
+  <LetterLabelPawnLeaving>{0}は去っていきます</LetterLabelPawnLeaving>
+  <LetterPawnLeaving>{0}は去っていきます</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
-  <LetterLabelPawnsLeaving>{0} leaving</LetterLabelPawnsLeaving> <!-- TODO -->
-  <LetterPawnsLeaving>{0} are leaving.</LetterPawnsLeaving> <!-- TODO -->
-  
+  <LetterLabelPawnsLeaving>{0}は去っていきます</LetterLabelPawnsLeaving>
+  <LetterPawnsLeaving>{0}は去っていきます</LetterPawnsLeaving>
+
   <!-- Colonist kidnapped -->
-  <LetterLabelPawnsKidnapped>{PAWN_nameDef} kidnapped</LetterLabelPawnsKidnapped> <!-- TODO -->
-  <LetterPawnsKidnapped>{PAWN_nameDef} has been kidnapped by {FACTION_name}!
-\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years.</LetterPawnsKidnapped> <!-- TODO -->
-  
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef}が誘拐された</LetterLabelPawnsKidnapped>
+  <LetterPawnsKidnapped>{FACTION_name}によって{PAWN_nameDef}は連れ去られました!\nでも{PAWN_pronoun}を諦めることはありません. {PAWN_objective}を救出する機会は,きっと訪れるはずです.</LetterPawnsKidnapped>
+
   <!-- Techprints -->
   <LetterTechprintAppliedLabel>Techprint applied: {PROJECT_label}</LetterTechprintAppliedLabel> <!-- TODO -->
   <LetterTechprintAppliedPartIntro>A techprint has been applied to the research project: {PROJECT_label}.</LetterTechprintAppliedPartIntro> <!-- TODO -->
-  <LetterTechprintAppliedPartJustUnlocked>You're completed the projects techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches.</LetterTechprintAppliedPartJustUnlocked> <!-- TODO -->
+  <LetterTechprintAppliedPartJustUnlocked>You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches.</LetterTechprintAppliedPartJustUnlocked>
   <LetterTechprintAppliedPartNotUnlockedYet>This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total.</LetterTechprintAppliedPartNotUnlockedYet> <!-- TODO -->
   <LetterTechprintAppliedPartAlreadyUnlocked>This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed.</LetterTechprintAppliedPartAlreadyUnlocked> <!-- TODO -->
   <LetterTechprintAppliedPartAlreadyResearched>This project is already fully researched, so the techprint didn't advance your knowledge at all.</LetterTechprintAppliedPartAlreadyResearched> <!-- TODO -->
   <LetterTechprintAppliedPartExpAwarded>By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill.</LetterTechprintAppliedPartExpAwarded> <!-- TODO -->
-  
+
   <!-- Quest Completed -->
-  <LetterQuestCompletedLabel>Quest completed</LetterQuestCompletedLabel> <!-- TODO -->
-  <LetterQuestFailedLabel>Quest failed</LetterQuestFailedLabel> <!-- TODO -->
-  <LetterQuestConcludedLabel>Quest concluded</LetterQuestConcludedLabel> <!-- TODO -->
-  <LetterQuestCompletedSuccess>You have successfully completed the quest '{0}'!</LetterQuestCompletedSuccess> <!-- TODO -->
-  <LetterQuestCompletedFail>You have failed the quest '{0}'.</LetterQuestCompletedFail> <!-- TODO -->
-  <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded> <!-- TODO -->
-  
-  <!-- Bladelink -->
-  <LetterBladelinkWeaponBondedLabel>Bladelink bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel> <!-- TODO -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
-\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}.</LetterBladelinkWeaponBonded> <!-- TODO -->
-  
+  <LetterQuestCompletedLabel>クエスト完了</LetterQuestCompletedLabel>
+  <LetterQuestFailedLabel>クエスト失敗</LetterQuestFailedLabel>
+  <LetterQuestConcludedLabel>クエスト完結</LetterQuestConcludedLabel>
+  <LetterQuestCompletedSuccess>'{0}'クエストを成功させた!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedFail>'{0}'クエストを失敗させた.</LetterQuestCompletedFail>
+  <LetterQuestCompletedConcluded>あなたはクエスト'{0}'を完結させました.</LetterQuestCompletedConcluded>
+
+    <!-- Bladelink -->
+    <LetterBladelinkWeaponBondedLabel>護り刀: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+    <LetterBladelinkWeaponBonded>{PAWN_labelShort}は {WEAPON_labelShort}の人格と親密な絆を確立した.\nこの瞬間より,{WEAPON_labelShort}は,{PAWN_labelShort}以外に,扱われるのを拒絶するだろう.</LetterBladelinkWeaponBonded>
+
   <!-- Mech cluster -->
-  <LetterLabelMechClusterArrived>Mechanoids arrived</LetterLabelMechClusterArrived> <!-- TODO -->
-  <LetterMechClusterArrived>Mechanoids have arrived.</LetterMechClusterArrived> <!-- TODO -->
+  <LetterLabelMechClusterArrived>メカノイド到着</LetterLabelMechClusterArrived>
+  <LetterMechClusterArrived>メカノイドが到着した.</LetterMechClusterArrived>
 
 </LanguageData>

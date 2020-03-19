@@ -33,50 +33,58 @@
     <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
     <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
 
-	<Duck.label>duck</Duck.label> <!-- TODO -->
-	<Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily.</Duck.description> <!-- TODO -->
-	<Duck.tools.claws.label>claws</Duck.tools.claws.label> <!-- TODO -->
-	<Duck.tools.beak.label>beak</Duck.tools.beak.label> <!-- TODO -->
-	<Duck.tools.head.label>head</Duck.tools.head.label> <!-- TODO -->
-	<Bison.label>bison</Bison.label> <!-- TODO -->
-	<Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description> <!-- TODO -->
-	<Bison.tools.head.label>head</Bison.tools.head.label> <!-- TODO -->
-	<Bison.tools.left_hoof.label>left hoof</Bison.tools.left_hoof.label> <!-- TODO -->
-	<Bison.tools.right_hoof.label>right hoof</Bison.tools.right_hoof.label> <!-- TODO -->
-	<Goat.label>goat</Goat.label> <!-- TODO -->
-	<Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description> <!-- TODO -->
-	<Goat.tools.head.label>head</Goat.tools.head.label> <!-- TODO -->
-	<Goose.label>goose</Goose.label> <!-- TODO -->
-	<Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description> <!-- TODO -->
-	<Goose.tools.claws.label>claws</Goose.tools.claws.label> <!-- TODO -->
-	<Goose.tools.beak.label>beak</Goose.tools.beak.label> <!-- TODO -->
-	<Goose.tools.head.label>head</Goose.tools.head.label> <!-- TODO -->
-	<Sheep.label>sheep</Sheep.label> <!-- TODO -->
-	<Sheep.description>Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns.</Sheep.description> <!-- TODO -->
-	<Sheep.tools.head.label>head</Sheep.tools.head.label> <!-- TODO -->
-	<Sheep.tools.left_hoof.label>left hoof</Sheep.tools.left_hoof.label> <!-- TODO -->
-	<Sheep.tools.right_hoof.label>right hoof</Sheep.tools.right_hoof.label> <!-- TODO -->
-	<Horse.label>horse</Horse.label> <!-- TODO -->
-	<Horse.description>A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.</Horse.description> <!-- TODO -->
-	<Horse.race.meatLabel>horse meat</Horse.race.meatLabel> <!-- TODO -->
-	<Horse.tools.head.label>head</Horse.tools.head.label> <!-- TODO -->
-	<Horse.tools.left_hoof.label>left hoof</Horse.tools.left_hoof.label> <!-- TODO -->
-	<Horse.tools.right_hoof.label>right hoof</Horse.tools.right_hoof.label> <!-- TODO -->
-	<Yak.label>yak</Yak.label> <!-- TODO -->
-	<Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description> <!-- TODO -->
-	<Yak.race.meatLabel>yak beef</Yak.race.meatLabel> <!-- TODO -->
-	<Yak.tools.head.label>head</Yak.tools.head.label> <!-- TODO -->
-	<Yak.tools.left_hoof.label>left hoof</Yak.tools.left_hoof.label> <!-- TODO -->
-	<Yak.tools.right_hoof.label>right hoof</Yak.tools.right_hoof.label> <!-- TODO -->
-	<GuineaPig.label>guinea pig</GuineaPig.label> <!-- TODO -->
-	<GuineaPig.description>Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner.</GuineaPig.description> <!-- TODO -->
-	<GuineaPig.tools.left_claw.label>left claw</GuineaPig.tools.left_claw.label> <!-- TODO -->
-	<GuineaPig.tools.right_claw.label>right claw</GuineaPig.tools.right_claw.label> <!-- TODO -->
-	<GuineaPig.tools.head.label>head</GuineaPig.tools.head.label> <!-- TODO -->
-	<Donkey.label>donkey</Donkey.label> <!-- TODO -->
-	<Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.</Donkey.description> <!-- TODO -->
-	<Donkey.tools.head.label>head</Donkey.tools.head.label> <!-- TODO -->
-	<Donkey.tools.left_hoof.label>left hoof</Donkey.tools.left_hoof.label> <!-- TODO -->
-	<Donkey.tools.right_hoof.label>right hoof</Donkey.tools.right_hoof.label> <!-- TODO -->
+	<Duck.label>カモ</Duck.label>
+	<Duck.description>非常に一般的な家禽,野生でも姿を見ることがあります.カモは美味しい肉のため飼育されています.成長も早く非常に多くの卵を産みます.</Duck.description>
+	<Duck.tools.claws.label>爪</Duck.tools.claws.label>
+	<Duck.tools.beak.label>嘴</Duck.tools.beak.label>
+	<Duck.tools.head.label>頭</Duck.tools.head.label>
+
+	<Bison.label>バイソン</Bison.label>
+	<Bison.description>サバンナの荒野で見かける大型の草食哺乳類です. 飼いならし易いですが,気性が荒く危険でもあります.</Bison.description>
+	<Bison.tools.head.label>頭</Bison.tools.head.label>
+	<Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
+	<Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
+
+	<Goat.label>ヤギ</Goat.label>
+	<Goat.description>自然界では珍しいですが,ヤギは人類が繁殖させた人懐っこい家畜です.</Goat.description>
+	<Goat.tools.head.label>頭</Goat.tools.head.label>
+
+	<Goose.label>ガチョウ</Goose.label>
+	<Goose.description>肉と卵を摂る家禽として人間によって飼いならされた鳥類です.非常によく卵を産みますが,孵化させるには時間がかかります.</Goose.description>
+	<Goose.tools.claws.label>爪</Goose.tools.claws.label>
+	<Goose.tools.beak.label>嘴</Goose.tools.beak.label>
+	<Goose.tools.head.label>頭</Goose.tools.head.label>
+
+	<Sheep.label>ヒツジ</Sheep.label>
+	<Sheep.description>ヒツジの飼育はヒトが住んでいる大部分で実践されていますが,RimWorldでは最近になって導入されました. この世界のヒツジは比較的に小さな草食動物で,大抵は黄色がかった羊毛と中型の角があります.</Sheep.description>
+	<Sheep.tools.head.label>頭</Sheep.tools.head.label>
+	<Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
+	<Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
+
+	<Horse.label>ウマ</Horse.label>
+	<Horse.description>短い毛,長いたてがみと尻尾を持つ大型の有蹄哺乳類です.ウマは古来よりヒトに飼いならされてきました.</Horse.description>
+	<Horse.race.meatLabel>馬肉</Horse.race.meatLabel>
+	<Horse.tools.head.label>頭</Horse.tools.head.label>
+	<Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+	<Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+
+	<Yak.label>ヤク</Yak.label>
+	<Yak.description>ヤクは分厚い骨格と,太くて短い脚,雪の中でも歩きやすく広がった丸みのある裂けた蹄を持つ丈夫な牛です.</Yak.description>
+	<Yak.race.meatLabel>ヤクの肉</Yak.race.meatLabel>
+	<Yak.tools.head.label>頭</Yak.tools.head.label>
+	<Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
+	<Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
+
+	<GuineaPig.label>モルモット</GuineaPig.label>
+	<GuineaPig.description>英名ギニアピッグは,豚でも,ギニアから来たわけでもない,この小さなげっ歯類は,ペットや美味しい晩御飯のおかずとして飼育されて来ました.</GuineaPig.description>
+	<GuineaPig.tools.left_claw.label>左爪</GuineaPig.tools.left_claw.label>
+	<GuineaPig.tools.right_claw.label>右爪</GuineaPig.tools.right_claw.label>
+	<GuineaPig.tools.head.label>頭</GuineaPig.tools.head.label>
+
+	<Donkey.label>ロバ</Donkey.label>
+	<Donkey.description>ウマと比べて小さく,古来より農作業のために家畜にされてきました.その間抜けな鳴き声は,うっとうしいと同時に可愛らしいです.</Donkey.description>
+	<Donkey.tools.head.label>頭</Donkey.tools.head.label>
+	<Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
+	<Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
 
 </LanguageData>

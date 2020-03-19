@@ -84,14 +84,14 @@
     <ChangeWorkSettings.text>あなたは,チェックボックスを使って誰に何の種類の仕事をさせるかコントロールすることができます.入植者は優先順位(左から右）に従って作業をしようとします.\n\nいくつかの設定を変えてみましょう\n\n注意 - 入植者は,どんなにクダラナイ事でも,常に自分の優先順序に従います.効率的な作業体制を敷くことは,リムワールドでの成功のカギとなります.だから,優先順位の設定は慎重に行い,何度も見直しましょう!</ChangeWorkSettings.text>
     <ChangeWorkSettings.rejectInputMessage>「優先順位」タブを開いてください,そして設定を変えてみましょう</ChangeWorkSettings.rejectInputMessage>
 
-    <BuildSimpleResearchBench.text>次に進むためには,新しいテクノロジーを研究してみましょう.\n\n木製の"研究設備"を部屋の中に作ります.</BuildSimpleResearchBench.text>
-    <BuildSimpleResearchBench.rejectInputMessage>早いうちに,部屋の中に"研究設備"を作ってみましょう.</BuildSimpleResearchBench.rejectInputMessage>
-    <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"研究設備"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
+    <BuildSimpleResearchBench.text>次に進むためには,新しいテクノロジーを研究してみましょう.\n\n木製の"研究卓"を部屋の中に作ります.</BuildSimpleResearchBench.text>
+    <BuildSimpleResearchBench.rejectInputMessage>早いうちに,部屋の中に"研究卓"を作ってみましょう.</BuildSimpleResearchBench.rejectInputMessage>
+    <BuildSimpleResearchBench.onMapInstruction>木製のシンプルな"研究卓"を作ります\n室内に</BuildSimpleResearchBench.onMapInstruction>
 
     <OpenMainTabResearch.text>大変素晴らしい! 次は,あなたが研究させたいテクノロジーを選択してみましょう.\n\n「研究」タブを開きます.</OpenMainTabResearch.text>
     <OpenMainTabResearch.rejectInputMessage>「研究」タブを開きましょう</OpenMainTabResearch.rejectInputMessage>
 
-    <SelectResearchProject.text>さて,真っ先に研究させたい対象を選択します.\n\nあなたは,木が切り倒されて木材となり,研究設備が作られるまで,待たなければならないかもしれません.\n\nもし待ちきれないなら,「優先順位」タブを開いて,もっと多くの入植者に,建築作業を割り当てます.</SelectResearchProject.text>
+    <SelectResearchProject.text>さて,真っ先に研究させたい対象を選択します.\n\nあなたは,木が切り倒されて木材となり,研究卓が作られるまで,待たなければならないかもしれません.\n\nもし待ちきれないなら,「優先順位」タブを開いて,もっと多くの入植者に,建築作業を割り当てます.</SelectResearchProject.text>
     <SelectResearchProject.rejectInputMessage>研究プロジェクトを選択してください.</SelectResearchProject.rejectInputMessage>
 
     <ExpandAreaHome.text>次に,ホームエリアの拡張方法を学習してみましょう.\n\n入植者達は,ホームエリア内側だけ,床を掃除したり,火を消したりしますが,外側の汚れや火災は無視します.\n\nホームエリアは,あなたが建造したときに自動的に追加されていきます.しかし,手動で範囲を広げることもできます.\n\n「コロニーゾーン」ツールを使って,マップ上に新しいホームエリアを作りましょう.</ExpandAreaHome.text>

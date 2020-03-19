@@ -40,7 +40,7 @@
     <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
     <CommandGetOutOfBedDesc>起きて布団から出ます.</CommandGetOutOfBedDesc>
 
-<CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel> <!-- TODO -->
+    <CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel>
     <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
 <CommandThroneSetOwnerDesc>Assign this throne to be owned by a specific colonist.</CommandThroneSetOwnerDesc> <!-- TODO -->
     <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
@@ -187,12 +187,12 @@
     <CommandSettleFailAlreadyHaveBase>あなたの派閥は,ただ一つだけしか本拠地を持てません.</CommandSettleFailAlreadyHaveBase>
     <CommandSettleFailReachedMaximumNumberOfBases>入植者数が最大人数に達しました.</CommandSettleFailReachedMaximumNumberOfBases>
     <CommandSettleFailNoColonists>この入植地を主張する人が誰もいません.</CommandSettleFailNoColonists>
-  <CommandSettleFailEnemies>ここには,敵がいます.</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>ここには敵がいます.</CommandSettleFailEnemies>
 
     <!-- Abandon home -->
     <CommandAbandonHome>放棄</CommandAbandonHome>
-    <CommandAbandonHomeDesc>このエリアは放棄されました.このエリアには,近づきにくくなり,ここには二度と戻ってこれなくなるでしょう.あなたの本拠地を放棄した後は,あなたのキャラバン隊のうちの一つが,新しいエリアに入植することができます.</CommandAbandonHomeDesc>
-    <CommandAbandonHomeFailAllColonistsThere>入植者全員が集合しています.</CommandAbandonHomeFailAllColonistsThere>
+    <CommandAbandonHomeDesc>このエリアを放棄します.このエリアには二度と戻ってこれなくなるでしょう.本拠地を放棄した後は,あなたのキャラバン隊のうちの一つが,新しいエリアに入植することができます.</CommandAbandonHomeDesc>
+    <CommandAbandonHomeFailAllColonistsThere>入植者全員がここに居ます.</CommandAbandonHomeFailAllColonistsThere>
 
     <!-- Cancel forming caravan -->
     <CommandCancelFormingCaravan>キャラバン隊編成の中止</CommandCancelFormingCaravan>
@@ -214,7 +214,7 @@
     <CommandTrade>貿易</CommandTrade>
     <CommandTradeDesc>この派閥と商売する.</CommandTradeDesc>
     <CommandTradeFailNoNegotiator>意識のしっかりした,まともな交渉人が居ません.</CommandTradeFailNoNegotiator>
-<CommandTradeFailNeedPermit>None of your people have the required faction permission: {0}</CommandTradeFailNeedPermit> <!-- TODO -->
+    <CommandTradeFailNeedPermit>要求された派閥の許可証をひとりも持っていません: {0}</CommandTradeFailNeedPermit>
 
     <!-- Offer gifts -->
     <CommandOfferGifts>贈り物を申し出る</CommandOfferGifts>
@@ -256,17 +256,17 @@
     <CommandLoadTransporterFailNotConnectedToFuelingPort>輸送ポッドは,給油口に接続されていません.</CommandLoadTransporterFailNotConnectedToFuelingPort>
     <CommandLoadTransporterFailNoFuel>ポッドランチャーは,燃料がありません.</CommandLoadTransporterFailNoFuel>
   
-  <!-- Load transporter (single) -->
-<CommandLoadTransporterSingle>Load</CommandLoadTransporterSingle> <!-- TODO -->
-<CommandLoadTransporterSingleDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterSingleDesc> <!-- TODO -->
+    <!-- Load transporter (single) -->
+    <CommandLoadTransporterSingle>積載</CommandLoadTransporterSingle>
+    <CommandLoadTransporterSingleDesc>積載ダイアログを開き,誰を,何を積載するかを決めることができます.</CommandLoadTransporterSingleDesc>
   
-  <!-- Transporters set to load -->
-<CommandSetToLoadTransporter>Set to load</CommandSetToLoadTransporter> <!-- TODO -->
-<CommandSetToLoadTransporterDesc>Opens the loading dialog so you can decide who and what should be loaded inside.</CommandSetToLoadTransporterDesc> <!-- TODO -->
+    <!-- Transporters set to load -->
+    <CommandSetToLoadTransporter>積載</CommandSetToLoadTransporter>
+    <CommandSetToLoadTransporterDesc>積載ダイアログを開き,誰を,何を積載するかを決めることができます.</CommandSetToLoadTransporterDesc>
   
-  <!-- Autoload transporters -->
-<CommandAutoloadTransporters>Autoload</CommandAutoloadTransporters> <!-- TODO -->
-<CommandAutoloadTransportersDesc>Toggle loading all required cargo automatically as soon as they become available.</CommandAutoloadTransportersDesc> <!-- TODO -->
+    <!-- Autoload transporters -->
+    <CommandAutoloadTransporters>自動積載</CommandAutoloadTransporters>
+    <CommandAutoloadTransportersDesc>積載物が用意できたら,直ちに自動的に積載するかを切り替えます.</CommandAutoloadTransportersDesc>
 
     <!-- Select previous transporter -->
     <CommandSelectPreviousTransporter>前のグループを選択</CommandSelectPreviousTransporter>
@@ -300,24 +300,24 @@
     <CommandAttackSettlement>襲撃</CommandAttackSettlement>
     <CommandAttackSettlementDesc>この集落を襲撃します.</CommandAttackSettlementDesc>
 
-  <!-- Send shuttle -->
-  <CommandSendShuttle>Send</CommandSendShuttle> <!-- TODO -->
-  <CommandSendShuttleDesc>Initiate takeoff and have the shuttle fly to its destination.</CommandSendShuttleDesc> <!-- TODO -->
-  <CommandSendShuttleFailUnderRoof>The shuttle is under a roof.</CommandSendShuttleFailUnderRoof> <!-- TODO -->
-  <CommandSendShuttleFailMissingRequiredThing>Some of the required items or people are missing.</CommandSendShuttleFailMissingRequiredThing> <!-- TODO -->
+    <!-- Send shuttle -->
+    <CommandSendShuttle>発送</CommandSendShuttle>
+    <CommandSendShuttleDesc>シャトルに対し目的地に向けての離陸手順を開始します.</CommandSendShuttleDesc>
+    <CommandSendShuttleFailUnderRoof>シャトルは屋根の下にあります.</CommandSendShuttleFailUnderRoof>
+    <CommandSendShuttleFailMissingRequiredThing>ある人か荷物が,積載されていません.</CommandSendShuttleFailMissingRequiredThing>
 
-  <!-- Place blueprints -->
-  <CommandPlaceBlueprints>Place blueprints</CommandPlaceBlueprints> <!-- TODO -->
-  <CommandPlaceBlueprintsDesc>Place all required blueprints where possible.</CommandPlaceBlueprintsDesc> <!-- TODO -->
+    <!-- Place blueprints -->
+    <CommandPlaceBlueprints>Place blueprints</CommandPlaceBlueprints> <!-- TODO -->
+    <CommandPlaceBlueprintsDesc>Place all required blueprints where possible.</CommandPlaceBlueprintsDesc> <!-- TODO -->
 
-  <!-- Cancel monument marker -->
-  <CommandCancelMonumentMarker>Cancel</CommandCancelMonumentMarker> <!-- TODO -->
-  <CommandCancelMonumentMarkerDesc>Permanently remove this monument marker.</CommandCancelMonumentMarkerDesc> <!-- TODO -->
+    <!-- Cancel monument marker -->
+    <CommandCancelMonumentMarker>中止</CommandCancelMonumentMarker>
+    <CommandCancelMonumentMarkerDesc>この遺跡マーカーを永久に取り除きます.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
-  <CommandViewQuest>View quest: {0}</CommandViewQuest> <!-- TODO -->
-  <CommandViewQuestDesc>View this quest in quests tab.</CommandViewQuestDesc> <!-- TODO -->
-  <CommandOpenLinkedQuest>Open linked quest</CommandOpenLinkedQuest> <!-- TODO -->
-  <CommandOpenLinkedQuestDesc>Open linked quest in the quests tab.</CommandOpenLinkedQuestDesc> <!-- TODO -->
+  <CommandViewQuest>クエストを見る：{0}</CommandViewQuest>
+  <CommandViewQuestDesc>このクエストをクエストタブで見る.</CommandViewQuestDesc>
+  <CommandOpenLinkedQuest>関連クエストを開く</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuestDesc>関連クエストをクエストタブで開く</CommandOpenLinkedQuestDesc>
 
 </LanguageData>

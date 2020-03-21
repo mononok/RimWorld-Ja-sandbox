@@ -50,9 +50,9 @@
     <Rename>命名</Rename>
     <RenameAnimal>動物の名前を変更</RenameAnimal>
     <RenameColonist>ニックネームを変更</RenameColonist>
-    <RenounceTitle>爵位を放棄</RenounceTitle>
+    <RenounceTitle>称号を放棄</RenounceTitle>
     <TitleOfFaction>{1}の{0}</TitleOfFaction>
-    <RenounceTitleDescription>これは{PAWN_nameDef}の爵位 {TITLE}を失わせます.あなたは爵位を放棄させても,なにも損害補償を受けません.\n次の影響があります:\n\n{EFFECTS}</RenounceTitleDescription>
+    <RenounceTitleDescription>これは{PAWN_nameDef}の称号 {TITLE}を失わせます.あなたは称号を放棄させても,なにも損害補償を受けません.\n次の影響があります:\n\n{EFFECTS}</RenounceTitleDescription>
     <UnknownLower>身元不明</UnknownLower>
     <On>On</On>
     <Off>Off</Off>
@@ -172,7 +172,7 @@
     <Winter>冬季</Winter>
     <MovementDifficultyOffsetInWinter>冬季間 {0}</MovementDifficultyOffsetInWinter>
     <RangeTo>～</RangeTo>
-    <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
+    <NoDietCategoryLetter>(無印)</NoDietCategoryLetter>
     <ExpiresIn>有効期限</ExpiresIn>
     <CaravanLeaderCaravanName>{1_labelShort}のキャラバン隊</CaravanLeaderCaravanName>
     <Reason>理由</Reason>
@@ -205,12 +205,12 @@
   <ClickToViewInQuestsTab>このクエストをクエストタブ内でみるにはクリック</ClickToViewInQuestsTab>
   <Mood>心情</Mood>
   <Quest>クエスト</Quest>
-  <BringsRaidsEvery>Brings raids every {0}</BringsRaidsEvery> <!-- TODO -->
-  <GeneratesResourcesEvery>Generates {0} every {1}</GeneratesResourcesEvery> <!-- TODO -->
-  <FoliageKillRadius>Foliage kill radius</FoliageKillRadius> <!-- TODO -->
+  <BringsRaidsEvery>{0}毎に襲撃</BringsRaidsEvery>
+  <GeneratesResourcesEvery>{1}毎に{0}を産出</GeneratesResourcesEvery>
+  <FoliageKillRadius>枯病 殺傷範囲</FoliageKillRadius>
   <RadiusExpandRate>Radius expand rate</RadiusExpandRate> <!-- TODO -->
   <ViewHyperlink>{0}を表示</ViewHyperlink>
-  <DetonationCountdown>Detonates in {0} days</DetonationCountdown> <!-- TODO -->
+  <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
   <ExplosionOnDamageWarning>ダメージを受けると大きく爆発しますよ.</ExplosionOnDamageWarning>
   <MechCluster>メッククラスター</MechCluster>
   <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn> <!-- TODO -->
@@ -231,8 +231,8 @@
   <DurationLeft>残 {0}</DurationLeft>
 
   <!-- Scanning -->
-  <UserScanAbility>User scanning speed</UserScanAbility> <!-- TODO -->
-  <ScanAverageInterval>Random find interval</ScanAverageInterval> <!-- TODO -->
+  <UserScanAbility>スキャン速度</UserScanAbility>
+  <ScanAverageInterval>発見間隔</ScanAverageInterval>
   <ScanningProgressToGuaranteedFind>Progress to guaranteed find</ScanningProgressToGuaranteedFind> <!-- TODO -->
 
     <!-- Fermentation barrel -->
@@ -476,7 +476,7 @@
     <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
     <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
     <ShowFertilityOverlayToggleButton>肥沃度の可視 切り替え\n\nこれは,この土地で,どの植物が良く早く育つかどうかを表示します.</ShowFertilityOverlayToggleButton>
-  <ShowTerrainAffordanceOverlayToggleButton>Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water.</ShowTerrainAffordanceOverlayToggleButton> <!-- TODO -->
+    <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられ,重い建物は建てられない.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
     <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
     <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
     <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
@@ -673,10 +673,10 @@
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
-  <Reward_Pawn_DropPod>a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
-  <Reward_Pawn_WalkIn>a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
-  <Reward_Pawn_Caravan>a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
-  <Reward_Items>transport pods with the following resources will arrive (total value {1}):
+  <Reward_Pawn_DropPod>{0_age}歳の{0_nameDef}と言う名の{0_title}が輸送ポッドで到着します. {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>{0_age}歳の{0_nameDef}と言う名の{0_title}がやってきて加わります. {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{0_age}歳の{0_nameDef}と言う名の{0_title}が加わります. {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Items>次の資源を積んだ輸送ポッドが到着します(総価値 {1}):
 \n{0}</Reward_Items>
   <Reward_Items_Caravan>あなたは (総価値 {1}) を受け取るでしょう.:
 \n{0}</Reward_Items_Caravan>

@@ -116,7 +116,7 @@
     <IdenticalThingExists>すでに 同じ物があります.</IdenticalThingExists>
     <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
     <TerrainCannotSupport>この地形の上には {0_label}を 建てることが できません.</TerrainCannotSupport>
-    <TerrainCannotSupport_TerrainAffordance>{0_label}の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
+    <TerrainCannotSupport_TerrainAffordance>{0_label}には,次の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordance>
     <TerrainCannotSupport_TerrainAffordanceFromStuff>{2_label}製{0_label}の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
     <SpaceAlreadyOccupied>すでに この場所は塞がっています.</SpaceAlreadyOccupied>
     <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>

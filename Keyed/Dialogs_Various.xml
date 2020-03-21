@@ -218,7 +218,7 @@
     <TamenessWillNotDecay>一度懐くと忘れません</TamenessWillNotDecay>
     <AnimalFilthRate>床を汚す度合い</AnimalFilthRate>
     <AnimalFilthRateExplanation>動物は,作られた床の上を歩き回ると,床を汚してしまいます.この動物が床を汚す平均の量は {0}セルです.\n\n大きくて,ペットには向かない動物は,より汚すようになります.</AnimalFilthRateExplanation>
-    <TimeRecordsCategory>時</TimeRecordsCategory>
+    <TimeRecordsCategory>時間</TimeRecordsCategory>
     <MiscRecordsCategory>その他</MiscRecordsCategory>
     <Addictiveness>依存症</Addictiveness>
     <PackAnimal>駄載獣</PackAnimal>
@@ -329,7 +329,7 @@
     <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
     <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
     <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
-    <NutritionEatenPerDayTip>一日に摂取する栄養素数.参考までに,簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
+    <NutritionEatenPerDayTip>一日に摂取する栄養素の数です. 参考までに簡単な食事は {0} 栄養素です.\n\n食性: {2}\n\n凡例:\n{1}</NutritionEatenPerDayTip>
     <MassCarriedSimple>積載量</MassCarriedSimple>
     <MassCapacity>最大積載量</MassCapacity>
     <Mass>重量</Mass>

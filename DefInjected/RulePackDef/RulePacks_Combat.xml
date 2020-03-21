@@ -156,59 +156,59 @@
 	    <li>expert->芸術的な</li>
 	</Combat_WoundIncludes.rulePack.rulesStrings>
 
-    <Combat_SkillIncludes.rulePack.rulesStrings> <!-- TODO -->
-        <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li> <!-- armed -->
+    <Combat_SkillIncludes.rulePack.rulesStrings>
+        <li>skillDescMelee->[skillAdv] [INITIATOR_possessive] [WEAPON_label] [wielding] </li> <!-- armed -->
         <li>skillDescMelee->[using] [implement] [skillAdv]</li> <!-- unarmed -->
 
-        <li>wielding(p=4)->wielding</li>
-        <li>wielding(p=3)->using</li>
-        <li>wielding(p=2)->handling</li>
-        <li>wielding->brandishing</li>
-        <li>wielding->manipulating</li>
+        <li>wielding(p=4)->行使している</li>
+        <li>wielding(p=3)->使っている</li>
+        <li>wielding(p=2)->扱った</li>
+        <li>wielding->振りかざしている</li>
+        <li>wielding->立ち回っている</li>
 
-        <li>using(p=4)->using</li>
+        <li>using(p=4)->使っている</li>
         <li>using->driving</li>
         <li>using->thrusting</li>
         <li>using->utilizing</li>
         <li>using->moving</li>
 
-        <li>skillAdv(INITIATOR_skill&lt;=3)->incompetently</li>
-        <li>skillAdv(INITIATOR_skill&lt;=3)->ineptly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=3)->wildly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=3)->randomly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=3)->flailingly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=4)->awkwardly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=4)->clumsily</li>
-        <li>skillAdv(INITIATOR_skill&lt;=5)->fearfully</li>
-        <li>skillAdv(INITIATOR_skill&lt;=5)->falteringly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=5)->foolishly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->hesitantly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->reluctantly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->slowly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->tentatively</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->inexpertly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->amateurishly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=6)->timidly</li>
-        <li>skillAdv(INITIATOR_skill&lt;=8)->enthusiastically</li>
-        <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->proficiently</li>
-        <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->competently</li>
-        <li>skillAdv(INITIATOR_skill>=8)->professionally</li>
-        <li>skillAdv(INITIATOR_skill>=8)->deftly</li>
-        <li>skillAdv(INITIATOR_skill>=8)->aptly</li>
-        <li>skillAdv(INITIATOR_skill>=8)->cleverly</li>
-        <li>skillAdv(INITIATOR_skill>=8)->dexterously</li>
-        <li>skillAdv(INITIATOR_skill>=8)->skillfully</li>
-        <li>skillAdv(INITIATOR_skill>=10)->adeptly</li>
-        <li>skillAdv(INITIATOR_skill>=10)->slickly</li>
-        <li>skillAdv(INITIATOR_skill>=12)->expertly</li>
-        <li>skillAdv(INITIATOR_skill>=12)->precisely</li>
-        <li>skillAdv(INITIATOR_skill>=14)->masterfully</li>
-        <li>skillAdv(INITIATOR_skill>=16)->artistically</li>
-        <li>skillAdv(INITIATOR_skill>=16)->gracefully</li>
+        <li>skillAdv(INITIATOR_skill&lt;=3)->役に立たずの</li>
+        <li>skillAdv(INITIATOR_skill&lt;=3)->下手な</li>
+        <li>skillAdv(INITIATOR_skill&lt;=3)->激しく</li>
+        <li>skillAdv(INITIATOR_skill&lt;=3)->手当たりしだいに</li>
+        <li>skillAdv(INITIATOR_skill&lt;=3)->壊れやすい</li>
+        <li>skillAdv(INITIATOR_skill&lt;=4)->ぎこちない手つきで</li>
+        <li>skillAdv(INITIATOR_skill&lt;=4)->不器用な</li>
+        <li>skillAdv(INITIATOR_skill&lt;=5)->おそるおそる</li>
+        <li>skillAdv(INITIATOR_skill&lt;=5)->ためらいながら</li>
+        <li>skillAdv(INITIATOR_skill&lt;=5)->愚かにも</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->躊躇しながら</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->仕方なく</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->ゆっくりと</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->試しに</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->不器用に</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->素人のように</li>
+        <li>skillAdv(INITIATOR_skill&lt;=6)->こわごわ</li>
+        <li>skillAdv(INITIATOR_skill&lt;=8)->熱狂的に</li>
+        <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->熟練した手つきで</li>
+        <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->うってつけの</li>
+        <li>skillAdv(INITIATOR_skill>=8)->専門的</li>
+        <li>skillAdv(INITIATOR_skill>=8)->器用に</li>
+        <li>skillAdv(INITIATOR_skill>=8)->うまく</li>
+        <li>skillAdv(INITIATOR_skill>=8)->巧妙に</li>
+        <li>skillAdv(INITIATOR_skill>=8)->機敏に</li>
+        <li>skillAdv(INITIATOR_skill>=8)->巧みに</li>
+        <li>skillAdv(INITIATOR_skill>=10)->名人級に</li>
+        <li>skillAdv(INITIATOR_skill>=10)->滑らかに</li>
+        <li>skillAdv(INITIATOR_skill>=12)->エキスパートのように</li>
+        <li>skillAdv(INITIATOR_skill>=12)->正確に</li>
+        <li>skillAdv(INITIATOR_skill>=14)->マスタークラスの</li>
+        <li>skillAdv(INITIATOR_skill>=16)->芸術的に</li>
+        <li>skillAdv(INITIATOR_skill>=16)->優雅に</li>
 
-        <li>skillAdv(initiator_flesh==Mechanoid)->mechanically</li>
-        <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
-        <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
+        <li>skillAdv(initiator_flesh==Mechanoid)->メカノイド的に</li>
+        <li>skillAdv(initiator_flesh==Mechanoid)->機械的に</li>
+        <li>skillAdv(initiator_flesh==Mechanoid)->直接</li>
     </Combat_SkillIncludes.rulePack.rulesStrings>
 
     <!-- Combat_DeflectIncludes -->

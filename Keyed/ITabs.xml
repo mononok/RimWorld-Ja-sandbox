@@ -41,16 +41,16 @@
     <PasteBillTip_LimitReached>これ以上追加できません</PasteBillTip_LimitReached>
 
     <!-- Guest/prisoner tab -->
-    <RecruitmentResistance>敵対心が残っています</RecruitmentResistance>
-    <RecruitmentDifficulty>勧誘の難易度</RecruitmentDifficulty>
-    <RecruitmentChance>勧誘率</RecruitmentChance>
-    <RecruitmentChanceExplanation>勧誘難易度要因：{0}\n心情要因：{1}\n合算した基礎成功率：{2}</RecruitmentChanceExplanation>
+    <RecruitmentResistance>敵対心がある</RecruitmentResistance>
+    <RecruitmentDifficulty>勧誘 難易度</RecruitmentDifficulty>
+    <RecruitmentChance>勧誘 成功率</RecruitmentChance>
+    <RecruitmentChanceExplanation>難易度要因：{0}\n心情要因：{1}\n最終的な基礎成功率：{2}</RecruitmentChanceExplanation>
     <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\n前回の勧誘試み\n勧誘者：{3}\n交渉能力要因：{4}\n評価要因：{5} ({6})\n最終的な確率 {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nResistance reduction: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart> <!-- TODO -->
-    <PrisonerReleasePotentialRelationGains>囚人解放時の関係改善利得</PrisonerReleasePotentialRelationGains>
+    <PrisonerReleasePotentialRelationGains>囚人解放時の関係改善値</PrisonerReleasePotentialRelationGains>
     <PrisonerReleaseRelationGainsDesc>あなたが囚人を解放したときに得られる派閥関係の改善値です.これには囚人の健康状態と精神状態も加味されます.</PrisonerReleaseRelationGainsDesc>
     <PrisonBreakMTBDays>脱獄試行間隔</PrisonBreakMTBDays>
-    <PrisonBreakMTBDaysDescription>脱獄を企てる平均間隔時間です.最後に脱獄を試みてからの,心情,流動性,時間に影響されます.\n\nこの時間には睡眠時間は含まれません,実際の間隔時間は通常長くなる傾向にあります.</PrisonBreakMTBDaysDescription>
+    <PrisonBreakMTBDaysDescription>脱獄を企てる平均間隔時間です.最後に脱獄を試みてからの,心情,流動性,時間の影響を受けます.\n\nこの時間には睡眠時間は含まれません,実際の間隔時間は通常長くなる傾向にあります.</PrisonBreakMTBDaysDescription>
     <SlavePrice>奴隷価格</SlavePrice>
     <GetsFood>食べ物を 与えます</GetsFood>
     <DoctorsCare>医者に 診せます</DoctorsCare>

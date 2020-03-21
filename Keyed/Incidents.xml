@@ -105,13 +105,13 @@
     <EscapeShipLost>Charlon Whitestoneがメッセージを送ってきた.\n彼は,貴方が着陸船での姿勢制御を失っているところを見ている.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引いた結果,船は今やクレーターとなった.\nこの惑星から出る,別の手段を見つける必要があるだろう.</EscapeShipLost>
 
     <!-- Caravan meeting -->
-    <CaravanMeetingTitle>キャラバン隊は,{0}と会いました.</CaravanMeetingTitle>
-    <CaravanMeeting>{0}は {1}からきたキャラバン隊と平和的に出会いました.もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
+    <CaravanMeetingTitle>{0}は,キャラバン隊と会いました.</CaravanMeetingTitle>
+    <CaravanMeeting>{0}は {1}から来た キャラバン隊と 平和的に 出会いました. もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
     <CaravanMeeting_Trade>売買</CaravanMeeting_Trade>
     <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
     <CaravanMeeting_MoveOn>移動</CaravanMeeting_MoveOn>
     <CaravanMeeting_TradeIncapable>商取引できるメンバーがいない</CaravanMeeting_TradeIncapable>
-    <CaravanMeeting_NoPermit>{1_name}出身の{0}の爵位を持ったトレーダーが必要です.</CaravanMeeting_NoPermit>
+    <CaravanMeeting_NoPermit>{1_name}出身の{0}の称号を持ったトレーダーが必要です.</CaravanMeeting_NoPermit>
 
     <!-- Caravan request -->
     <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>

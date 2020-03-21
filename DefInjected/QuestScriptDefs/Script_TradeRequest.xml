@@ -25,7 +25,7 @@
         <li>qualityInfo-></li>
     </TradeRequest.questDescriptionRules.rulesStrings>
 
-    <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef> <!-- TODO -->
-    <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request?</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef> <!-- TODO  -->
+    <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+    <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>この貿易要求を満たすために,誰が[asker_faction_royalFavorLabel]を持っていると信じるべきですか？</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
 
 </LanguageData>

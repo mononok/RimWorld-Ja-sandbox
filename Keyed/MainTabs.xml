@@ -121,8 +121,8 @@
   <AppearedOn>{0} 開始</AppearedOn>
   <AcceptedAgo>受領後 {0}経過</AcceptedAgo>
   <AcceptedOn>{0} 受領</AcceptedOn>
-  <AcceptedAgoBy>Accepted {0} ago by {1}</AcceptedAgoBy> <!-- TODO -->
-  <AcceptedOnBy>Accepted on {0} by {1}</AcceptedOnBy> <!-- TODO -->
+  <AcceptedAgoBy>{1}によって受領後 {0}経過</AcceptedAgoBy>
+  <AcceptedOnBy>{1}によって {0}受領</AcceptedOnBy>
   <QuestExpiresIn>期限切れまで あと{0}</QuestExpiresIn>
   <QuestExpiresOn>期日：{0}</QuestExpiresOn>
   <ShuttleArrivesIn>{0}にシャトルは着きます</ShuttleArrivesIn>
@@ -139,11 +139,11 @@
   <SelectHiveTargets>Select hives</SelectHiveTargets> <!-- TODO -->
   <QuestChallengeRatingTip>これは難易度を表します. このクエストが あなたの今の能力と比べて, どれくらい難しいかを表したものです. より挑戦的であれば, より報酬も多くなります.\n\n1: 普通\n2: 難しい\n3: とても難しい\n4: 最高に難しい</QuestChallengeRatingTip>
   <QuestAcceptanceRequirementsDescription>このクエストを受けるには,あなたの力が必要です.</QuestAcceptanceRequirementsDescription>
-  <QuestBedroomRequirementsUnsatisfied>爵位持ちが満足する予約されていない複数の寝室</QuestBedroomRequirementsUnsatisfied>
-  <QuestBedroomRequirementsUnsatisfiedSingle>爵位持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
-  <QuestNoColonistWithTitle>a colonist with the title of {0}.</QuestNoColonistWithTitle> <!-- TODO -->
-  <AcceptRoyalFavor>{FACTION_royalFavorLabel}を受諾した.</AcceptRoyalFavor>
-  <AcceptRoyalFavorDesc>Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests.</AcceptRoyalFavorDesc> <!-- TODO -->
+  <QuestBedroomRequirementsUnsatisfied>称号持ちが満足する予約されていない複数の寝室</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfiedSingle>称号持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
+  <AcceptRoyalFavor>{FACTION_royalFavorLabel}を受諾.</AcceptRoyalFavor>
+  <AcceptRoyalFavorDesc>あなたが,{FACTION_name}の{FACTION_royalFavorLabel}に報いたいかどうか.\n\n無効なら,{FACTION_name}は代わりに別のタイプの報奨を提示します.\n\nこの設定は,設定後に起きたクエストから,そのクエストに影響します.</AcceptRoyalFavorDesc>
   <RoyalFavorOn>現在,あなたは{FACTION_royalFavorLabel}に同意しています.</RoyalFavorOn>
   <RoyalFavorOff>現在,あなたは{FACTION_royalFavorLabel}から脱退しています.</RoyalFavorOff>
 

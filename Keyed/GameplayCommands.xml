@@ -42,7 +42,7 @@
 
     <CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel>
     <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
-<CommandThroneSetOwnerDesc>Assign this throne to be owned by a specific colonist.</CommandThroneSetOwnerDesc> <!-- TODO -->
+    <CommandThroneSetOwnerDesc>王座の所有者を割り当てます.</CommandThroneSetOwnerDesc>
     <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
     <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります.</CommandGraveAssignColonistDesc>
     <BuildingAssign>指定</BuildingAssign>
@@ -307,8 +307,8 @@
     <CommandSendShuttleFailMissingRequiredThing>ある人か荷物が,積載されていません.</CommandSendShuttleFailMissingRequiredThing>
 
     <!-- Place blueprints -->
-    <CommandPlaceBlueprints>Place blueprints</CommandPlaceBlueprints> <!-- TODO -->
-    <CommandPlaceBlueprintsDesc>Place all required blueprints where possible.</CommandPlaceBlueprintsDesc> <!-- TODO -->
+    <CommandPlaceBlueprints>設計図を設置します.</CommandPlaceBlueprints>
+    <CommandPlaceBlueprintsDesc>可能な全ての設計図を設置します.</CommandPlaceBlueprintsDesc>
 
     <!-- Cancel monument marker -->
     <CommandCancelMonumentMarker>中止</CommandCancelMonumentMarker>

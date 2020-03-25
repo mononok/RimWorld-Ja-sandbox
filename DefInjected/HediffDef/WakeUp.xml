@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up addiction -->
+  <WakeUpAddiction.label>ウェイクアップ依存症</WakeUpAddiction.label>
+  <!-- EN: A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <WakeUpAddiction.description>ウェイクアップによる薬物中毒.長期間ウェイクアップを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nウェイクアップを定期的に摂らないと禁断症状が始まります.しかし長期間,ウェイクアップを断つことで,脳を正常に機能させ依存症を解決できます.</WakeUpAddiction.description>
+  <!-- EN: withdrawal -->
+  <WakeUpAddiction.stages.withdrawal.label>離脱症状</WakeUpAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on wake-up -->
+  <WakeUpHigh.label>ウェイクアップによる興奮状態</WakeUpHigh.label>
+  <!-- EN: Wake-up in the bloodstream. Fills the need for rest by stimulating the brain. -->
+  <WakeUpHigh.description>血中にウェイクアップが浸透しています.脳を刺激し睡眠欲求を満足させます.</WakeUpHigh.description>
+  <!-- EN: a wake-up high -->
+  <WakeUpHigh.labelNoun>ウェイクアップ・ハイ</WakeUpHigh.labelNoun>
+  
+  <!-- EN: wake-up tolerance -->
+  <WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
+  <!-- EN: A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect. -->
+  <WakeUpTolerance.description>ウェイクアップに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのウェイクアップが必要です.</WakeUpTolerance.description>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-0.label>小</WakeUpTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-1.label>小</WakeUpTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <WakeUpTolerance.stages.large.label>大</WakeUpTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <WakeUpTolerance.stages.massive.label>極大</WakeUpTolerance.stages.massive.label>
+  
+</LanguageData>

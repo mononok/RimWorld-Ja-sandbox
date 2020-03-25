@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-
-    <TropicalRainforest.label>熱帯雨林</TropicalRainforest.label>
-    <TropicalRainforest.description>濃密で湿ったジャングル.見た目の美しさとは裏腹に,とても危険な気候帯です.息苦しいほどに繁茂した植物,攻撃的な野生動物と,頻発する疫病が,なぜ探検者達が,ここを「グリーンヘル」と呼んだのか,その意味がわかります.</TropicalRainforest.description>
-
-    <TropicalSwamp.label>熱帯湿地</TropicalSwamp.label>
-    <TropicalSwamp.description>植物に満ち溢れた,高温多湿の沼地は寄生虫と病原体が渦巻いています.ほとんどの土地は,建物を建てるにはぬかるんでいます.攻撃的な野生動物と,頻発する疾病が,ここで暮らすことを悪夢のように思わせます.</TropicalSwamp.description>
-
+  
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>熱帯雨林</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>濃密で湿ったジャングル.見た目の美しさとは裏腹に,とても危険な気候帯です.息苦しいほどに繁茂した植物,攻撃的な野生動物と,頻発する疫病が,なぜ探検者達が,ここを「グリーンヘル」と呼んだのか,その意味がわかります.</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>熱帯湿地</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>植物に満ち溢れた,高温多湿の沼地は寄生虫と病原体が渦巻いています.ほとんどの土地は,建物を建てるにはぬかるんでいます.攻撃的な野生動物と,頻発する疾病が,ここで暮らすことを悪夢のように思わせます.</TropicalSwamp.description>
+  
 </LanguageData>

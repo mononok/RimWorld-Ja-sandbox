@@ -1,76 +1,124 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<ColonistLost.stages.colonist_lost.label>入植者を失った</ColonistLost.stages.colonist_lost.label>
-	<ColonistLost.stages.colonist_lost.description>私達はこのコロニーのヒトを失った.</ColonistLost.stages.colonist_lost.description>
-
-	<BondedAnimalLost.stages.bonded_animal_lost.label>絆で結ばれた家畜 {0}を失った</BondedAnimalLost.stages.bonded_animal_lost.label>
-	<BondedAnimalLost.stages.bonded_animal_lost.description>こんな優しい動物は他にはいない.この世は悪いことばかり!</BondedAnimalLost.stages.bonded_animal_lost.description>
-	k
-	<PawnWithGoodOpinionLost.stages.my_friend_lost.label>私の親友 {0}を失った</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
-	<PawnWithGoodOpinionLost.stages.my_friend_lost.description>あんな良い奴を失ってしまった,この世は日に日に闇に包まれていく.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
-
-	<PawnWithBadOpinionLost.stages.my_rival_lost.label>私のライバル {0}を失った</PawnWithBadOpinionLost.stages.my_rival_lost.label>
-	<PawnWithBadOpinionLost.stages.my_rival_lost.description>ざまあみろ,少なくとも,この世界にも少しは正義がある.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
-
-	<MySonLost.stages.my_son_lost.label>私の息子 {0}を失った</MySonLost.stages.my_son_lost.label>
-	<MySonLost.stages.my_son_lost.description>息子を失ってしまった.いつか私達の所に戻ってくることを願っています.</MySonLost.stages.my_son_lost.description>
-
-	<MyDaughterLost.stages.my_daughter_lost.label>私の娘 {0}を失った</MyDaughterLost.stages.my_daughter_lost.label>
-	<MyDaughterLost.stages.my_daughter_lost.description>娘を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyDaughterLost.stages.my_daughter_lost.description>
-
-	<MyHusbandLost.stages.my_husband_lost.label>私の夫 {0}を失った</MyHusbandLost.stages.my_husband_lost.label>
-	<MyHusbandLost.stages.my_husband_lost.description>夫を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyHusbandLost.stages.my_husband_lost.description>
-
-	<MyWifeLost.stages.my_wife_lost.label>私の妻 {0}を失った</MyWifeLost.stages.my_wife_lost.label>
-	<MyWifeLost.stages.my_wife_lost.description>妻を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyWifeLost.stages.my_wife_lost.description>
-
-	<MyFianceLost.stages.my_fiance_lost.label>私の婚約者 {0}を失った</MyFianceLost.stages.my_fiance_lost.label>
-	<MyFianceLost.stages.my_fiance_lost.description>婚約者を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFianceLost.stages.my_fiance_lost.description>
-
-	<MyFianceeLost.stages.my_fiance_lost.label>私の婚約者 {0}を失った</MyFianceeLost.stages.my_fiance_lost.label>
-	<MyFianceeLost.stages.my_fiance_lost.description>婚約者を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFianceeLost.stages.my_fiance_lost.description>
-
-	<MyLoverLost.stages.my_lover_lost.label>私の恋人 {0}を失った</MyLoverLost.stages.my_lover_lost.label>
-	<MyLoverLost.stages.my_lover_lost.description>恋人を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyLoverLost.stages.my_lover_lost.description>
-
-	<MyBrotherLost.stages.my_brother_lost.label>私の兄弟 {0}を失った</MyBrotherLost.stages.my_brother_lost.label>
-	<MyBrotherLost.stages.my_brother_lost.description>兄弟を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyBrotherLost.stages.my_brother_lost.description>
-
-	<MySisterLost.stages.my_sister_lost.label>私の姉妹 {0}を失った</MySisterLost.stages.my_sister_lost.label>
-	<MySisterLost.stages.my_sister_lost.description>姉妹を失ってしまった.いつか私達の所に戻ってくることを願っています.</MySisterLost.stages.my_sister_lost.description>
-
-	<MyGrandchildLost.stages.my_grandchild_lost.label>私の孫 {0}を失った</MyGrandchildLost.stages.my_grandchild_lost.label>
-	<MyGrandchildLost.stages.my_grandchild_lost.description>孫を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyGrandchildLost.stages.my_grandchild_lost.description>
-
-	<MyFatherLost.stages.my_father_lost.label>私の父 {0}を失った</MyFatherLost.stages.my_father_lost.label>
-	<MyFatherLost.stages.my_father_lost.description>父を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFatherLost.stages.my_father_lost.description>
-
-	<MyMotherLost.stages.my_mother_lost.label>私の母 {0}を失った</MyMotherLost.stages.my_mother_lost.label>
-	<MyMotherLost.stages.my_mother_lost.description>母を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyMotherLost.stages.my_mother_lost.description>
-
-	<MyNieceLost.stages.my_niece_lost.label>私の姪 {0}を失った</MyNieceLost.stages.my_niece_lost.label>
-	<MyNieceLost.stages.my_niece_lost.description>姪を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyNieceLost.stages.my_niece_lost.description>
-
-	<MyNephewLost.stages.my_nephew_lost.label>私の甥 {0}を失った</MyNephewLost.stages.my_nephew_lost.label>
-	<MyNephewLost.stages.my_nephew_lost.description>甥を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyNephewLost.stages.my_nephew_lost.description>
-
-	<MyHalfSiblingLost.stages.my_halfsibling_lost.label>私の異兄弟 {0}を失った</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
-	<MyHalfSiblingLost.stages.my_halfsibling_lost.description>異兄弟を失ってしまった.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
-
-	<MyAuntLost.stages.my_aunt_lost.label>私の叔母 {0}を失った</MyAuntLost.stages.my_aunt_lost.label>
-	<MyAuntLost.stages.my_aunt_lost.description>叔母を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyAuntLost.stages.my_aunt_lost.description>
-
-	<MyUncleLost.stages.my_uncle_lost.label>私の叔父 {0}を失った</MyUncleLost.stages.my_uncle_lost.label>
-	<MyUncleLost.stages.my_uncle_lost.description>叔父を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyUncleLost.stages.my_uncle_lost.description>
-
-	<MyGrandparentLost.stages.my_grandparent_lost.label>私の祖父母 {0}を失った</MyGrandparentLost.stages.my_grandparent_lost.label>
-	<MyGrandparentLost.stages.my_grandparent_lost.description>祖父母を失ってしまった.</MyGrandparentLost.stages.my_grandparent_lost.description>
-
-	<MyCousinLost.stages.my_cousin_lost.label>私のいとこ {0}を失った</MyCousinLost.stages.my_cousin_lost.label>
-	<MyCousinLost.stages.my_cousin_lost.description>いとこを失ってしまった.いつか私達の所に戻ってくることを願っています.</MyCousinLost.stages.my_cousin_lost.description>
-
-	<MyKinLost.stages.my_kin_lost.label>私の親族 {0}を失った</MyKinLost.stages.my_kin_lost.label>
-	<MyKinLost.stages.my_kin_lost.description>親族を失ってしまった</MyKinLost.stages.my_kin_lost.description>
-
+  
+  <!-- EN: bonded animal {0} lost -->
+  <BondedAnimalLost.stages.bonded_animal_lost.label>絆で結ばれた家畜 {0}を失った</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalLost.stages.bonded_animal_lost.description>こんな優しい動物は他にはいない.この世は悪いことばかり!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <!-- EN: colonist lost -->
+  <ColonistLost.stages.colonist_lost.label>入植者を失った</ColonistLost.stages.colonist_lost.label>
+  <!-- EN: We just lost someone of our colony in a tragic way. -->
+  <ColonistLost.stages.colonist_lost.description>私達はこのコロニーのヒトを失った.</ColonistLost.stages.colonist_lost.description>
+  
+  <!-- EN: my aunt {0} lost -->
+  <MyAuntLost.stages.my_aunt_lost.label>私の叔母 {0}を失った</MyAuntLost.stages.my_aunt_lost.label>
+  <!-- EN: My aunt has gone lost. I hope she will get back to us someday. -->
+  <MyAuntLost.stages.my_aunt_lost.description>叔母を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyAuntLost.stages.my_aunt_lost.description>
+  
+  <!-- EN: my brother {0} lost -->
+  <MyBrotherLost.stages.my_brother_lost.label>私の兄弟 {0}を失った</MyBrotherLost.stages.my_brother_lost.label>
+  <!-- EN: My brother has gone lost. I hope he will get back to us someday. -->
+  <MyBrotherLost.stages.my_brother_lost.description>兄弟を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyBrotherLost.stages.my_brother_lost.description>
+  
+  <!-- EN: my cousin {0} lost -->
+  <MyCousinLost.stages.my_cousin_lost.label>私のいとこ {0}を失った</MyCousinLost.stages.my_cousin_lost.label>
+  <!-- EN: My cousin has gone lost. -->
+  <MyCousinLost.stages.my_cousin_lost.description>いとこを失ってしまった.いつか私達の所に戻ってくることを願っています.</MyCousinLost.stages.my_cousin_lost.description>
+  
+  <!-- EN: my daughter {0} lost -->
+  <MyDaughterLost.stages.my_daughter_lost.label>私の娘 {0}を失った</MyDaughterLost.stages.my_daughter_lost.label>
+  <!-- EN: My daughter has gone lost. I hope she will get back to us someday. -->
+  <MyDaughterLost.stages.my_daughter_lost.description>娘を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  <!-- EN: my father {0} lost -->
+  <MyFatherLost.stages.my_father_lost.label>私の父 {0}を失った</MyFatherLost.stages.my_father_lost.label>
+  <!-- EN: My father has gone lost. I hope he will get back to us someday. -->
+  <MyFatherLost.stages.my_father_lost.description>父を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFatherLost.stages.my_father_lost.description>
+  
+  <!-- EN: my fiancée {0} lost -->
+  <MyFianceeLost.stages.my_fiance_lost.label>私の婚約者 {0}を失った</MyFianceeLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiancée has gone lost. I hope she will get back to us someday. -->
+  <MyFianceeLost.stages.my_fiance_lost.description>婚約者を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my fiance {0} lost -->
+  <MyFianceLost.stages.my_fiance_lost.label>私の婚約者 {0}を失った</MyFianceLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiance has gone lost. I hope he will get back to us someday. -->
+  <MyFianceLost.stages.my_fiance_lost.description>婚約者を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyFianceLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my grandchild {0} lost -->
+  <MyGrandchildLost.stages.my_grandchild_lost.label>私の孫 {0}を失った</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <!-- EN: My grandchild has gone lost. I hope they will get back to us someday. -->
+  <MyGrandchildLost.stages.my_grandchild_lost.description>孫を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  <!-- EN: my grandparent {0} lost -->
+  <MyGrandparentLost.stages.my_grandparent_lost.label>私の祖父母 {0}を失った</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <!-- EN: My grandparent has gone lost. -->
+  <MyGrandparentLost.stages.my_grandparent_lost.description>祖父母を失ってしまった.</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  <!-- EN: my half-sibling {0} lost -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>私の異兄弟 {0}を失った</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <!-- EN: My half-sibling has gone lost. -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>異兄弟を失ってしまった.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  <!-- EN: my husband {0} lost -->
+  <MyHusbandLost.stages.my_husband_lost.label>私の夫 {0}を失った</MyHusbandLost.stages.my_husband_lost.label>
+  <!-- EN: My husband has gone lost. I hope he will get back to us someday. -->
+  <MyHusbandLost.stages.my_husband_lost.description>夫を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyHusbandLost.stages.my_husband_lost.description>
+  
+  <!-- EN: my kin {0} lost -->
+  <MyKinLost.stages.my_kin_lost.label>私の親族 {0}を失った</MyKinLost.stages.my_kin_lost.label>
+  <!-- EN: My kin has gone lost. -->
+  <MyKinLost.stages.my_kin_lost.description>親族を失ってしまった</MyKinLost.stages.my_kin_lost.description>
+  
+  <!-- EN: my lover {0} lost -->
+  <MyLoverLost.stages.my_lover_lost.label>私の恋人 {0}を失った</MyLoverLost.stages.my_lover_lost.label>
+  <!-- EN: My lover has gone lost. I hope he will get back to us someday. -->
+  <MyLoverLost.stages.my_lover_lost.description>恋人を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyLoverLost.stages.my_lover_lost.description>
+  
+  <!-- EN: my mother {0} lost -->
+  <MyMotherLost.stages.my_mother_lost.label>私の母 {0}を失った</MyMotherLost.stages.my_mother_lost.label>
+  <!-- EN: My mother has gone lost. I hope she will get back to us someday. -->
+  <MyMotherLost.stages.my_mother_lost.description>母を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyMotherLost.stages.my_mother_lost.description>
+  
+  <!-- EN: my nephew {0} lost -->
+  <MyNephewLost.stages.my_nephew_lost.label>私の甥 {0}を失った</MyNephewLost.stages.my_nephew_lost.label>
+  <!-- EN: My nephew has gone lost. I hope he will get back to us someday. -->
+  <MyNephewLost.stages.my_nephew_lost.description>甥を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyNephewLost.stages.my_nephew_lost.description>
+  
+  <!-- EN: my niece {0} lost -->
+  <MyNieceLost.stages.my_niece_lost.label>私の姪 {0}を失った</MyNieceLost.stages.my_niece_lost.label>
+  <!-- EN: My niece has gone lost. I hope she will get back to us someday. -->
+  <MyNieceLost.stages.my_niece_lost.description>姪を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyNieceLost.stages.my_niece_lost.description>
+  
+  <!-- EN: my sister {0} lost -->
+  <MySisterLost.stages.my_sister_lost.label>私の姉妹 {0}を失った</MySisterLost.stages.my_sister_lost.label>
+  <!-- EN: My sister has gone lost. I hope she will get back to us someday. -->
+  <MySisterLost.stages.my_sister_lost.description>姉妹を失ってしまった.いつか私達の所に戻ってくることを願っています.</MySisterLost.stages.my_sister_lost.description>
+  
+  <!-- EN: my son {0} lost -->
+  <MySonLost.stages.my_son_lost.label>私の息子 {0}を失った</MySonLost.stages.my_son_lost.label>
+  <!-- EN: My son has gone lost. I hope he will get back to us someday. -->
+  <MySonLost.stages.my_son_lost.description>息子を失ってしまった.いつか私達の所に戻ってくることを願っています.</MySonLost.stages.my_son_lost.description>
+  
+  <!-- EN: my uncle {0} lost -->
+  <MyUncleLost.stages.my_uncle_lost.label>私の叔父 {0}を失った</MyUncleLost.stages.my_uncle_lost.label>
+  <!-- EN: My uncle has gone lost. I hope he will get back to us someday. -->
+  <MyUncleLost.stages.my_uncle_lost.description>叔父を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyUncleLost.stages.my_uncle_lost.description>
+  
+  <!-- EN: my wife {0} lost -->
+  <MyWifeLost.stages.my_wife_lost.label>私の妻 {0}を失った</MyWifeLost.stages.my_wife_lost.label>
+  <!-- EN: My wife has gone lost. I hope she will get back to us someday. -->
+  <MyWifeLost.stages.my_wife_lost.description>妻を失ってしまった.いつか私達の所に戻ってくることを願っています.</MyWifeLost.stages.my_wife_lost.description>
+  
+  <!-- EN: my rival {0} lost -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>私のライバル {0}を失った</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>ざまあみろ,少なくとも,この世界にも少しは正義がある.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  <!-- EN: my friend {0} lost -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>私の親友 {0}を失った</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <!-- EN: Such a wonderful person, lost. The universe gets darker every day. -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>あんな良い奴を失ってしまった,この世は日に日に闇に包まれていく.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+  
 </LanguageData>

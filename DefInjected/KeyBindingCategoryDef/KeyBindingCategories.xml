@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>アーキテクト</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>アーキテクトメニューで使用する操作</Architect.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>開発者モード</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>開発者・Mod制作者用の操作</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>ゲーム内操作</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>ゲーム内で最も頻繁に行う操作</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>カメラコントロール</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>カメラ操作</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>メインタブ</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>メインタブの操作</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>修飾</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>他の行動を修飾するために使用する操作</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>その他操作</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>アイテムやオブジェクトの再使用等を行う操作</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>特別な操作</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>特別なオブジェクトに行える特別な操作</SelectionSpecial.description>
+  
+</LanguageData>

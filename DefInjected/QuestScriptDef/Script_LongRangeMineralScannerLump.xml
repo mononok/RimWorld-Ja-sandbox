@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->[worker_definite]は 長距離鉱物センサーを使って [targetMineable_label]の塊を見つけました.\n\nあいにく[timeoutTicks_duration]以内に掘らないと,他の者達に採掘されてしまいます.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [subName]</li>
+    <li>questName->[subName]</li>
+    <li>subName->[adj] Resources</li>
+    <li>subName->[adj] Minerals</li>
+    <li>subName->[adj] Ores</li>
+    <li>subName->[adj] Wealth</li>
+    <li>subName->[adj] Mineables</li>
+    <li>subName->[adj] Lump</li>
+    <li>subName->[adj] Mining Project</li>
+    <li>adj->Distant</li>
+    <li>adj->Far</li>
+    <li>adj->Long-Range</li>
+    <li>adj->Unknown</li>
+    <li>adj->Discovered</li>
+    <li>adj->Scanned</li>
+    <li>adj->Detected</li>
+    <li>adj->Found</li>
+  -->
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->ある[subName]</li>
+    <li>questName->[subName]</li>
+    <li>subName->[adj] 資源</li>
+    <li>subName->[adj] 鉱物</li>
+    <li>subName->[adj] 鉱石</li>
+    <li>subName->[adj] 富</li>
+    <li>subName->[adj] 鉱</li>
+    <li>subName->[adj] 塊</li>
+    <li>subName->[adj] 採鉱</li>
+    <li>adj->離れた所の</li>
+    <li>adj->遠くの</li>
+    <li>adj->長距離にある</li>
+    <li>adj->未知の</li>
+    <li>adj->発見した</li>
+    <li>adj->スキャンで見つけた</li>
+    <li>adj->探知した</li>
+    <li>adj->見つけた</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエスト期限切れ: [resolvedQuestName]</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
+  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>他の者たちが [targetMineable_label]の塊を採掘しました.クエスト [resolvedQuestName] は期限が切れました.</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

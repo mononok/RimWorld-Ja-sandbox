@@ -1,97 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Sandbags.label>土のう</Sandbags.label>
-    <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしいカバーを与えます.</Sandbags.description>
-
-    <Barricade.label>バリケード</Barricade.label>
-    <Barricade.description>銃弾から身を守る腰までの高さの防壁です.バリケードは見た目は悪いですが,他の背の低い物よりも良い遮蔽物になります.</Barricade.description>
-
-    <!--=============== Improvised turret ===============-->
-    <Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
-    <Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>
-    <Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Turret_MiniTurret.description>
-    <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
-    <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
-    <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
-
-    <Bullet_MiniTurret.label>ミニ-タレット弾</Bullet_MiniTurret.label>
-    <Gun_MiniTurret.label>ミニ-タレット銃</Gun_MiniTurret.label>
-    <Gun_MiniTurret.description>タレットに銃を取り付けただけのシンプルな自動銃です.</Gun_MiniTurret.description>
-    <Gun_MiniTurret.verbs.Verb_Shoot.label>mini-turret gun</Gun_MiniTurret.verbs.Verb_Shoot.label>
-  <!--=============== Autocannon turret ===============-->
-    <Turret_Autocannon.label>オートキャノンタレット</Turret_Autocannon.label>
-    <Turret_Autocannon.description>全自動,重タレットです.大口径弾が広範囲に渡って大ダメージを叩き出しますが,使用後は銃身の一新が必須となります.至近距離のターゲットには発砲できません,そしてダメージを受けると爆発することがあります.</Turret_Autocannon.description>
-    <Turret_Autocannon.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
-    <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
-    <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
-
-    <Bullet_AutocannonTurret.label>オートキャノン弾</Bullet_AutocannonTurret.label>
-    <Gun_AutocannonTurret.label>オートキャノン</Gun_AutocannonTurret.label>
-    <Gun_AutocannonTurret.description>タレットに取り付けられるよう設計された,自動装填式,大口径キャノン砲です.</Gun_AutocannonTurret.description>
-    <Gun_AutocannonTurret.verbs.Verb_Shoot.label>オートキャノン</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
-
-    <Turret_Sniper.label>ウランスラグタレット</Turret_Sniper.label>
-    <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラン弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウランスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
-    <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelLabel>
-    <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
-    <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
-
-    <Bullet_TurretSniper.label>ウラニウムスラグ弾</Bullet_TurretSniper.label>
-    <Gun_TurretSniper.label>ウラニウム・スラグタレット</Gun_TurretSniper.label>
-    <Gun_TurretSniper.description>タレットに取り付けられるよう設計された,自動装填式のスナイパータレットです.遠距離に適格ですが,至近距離のターゲットを追尾するには不適格です.</Gun_TurretSniper.description>
-    <Gun_TurretSniper.verbs.Verb_Shoot.label>ウラニウム・スラグキャノン</Gun_TurretSniper.verbs.Verb_Shoot.label>
-
-  <!--=============== Mortar bomb turret ===============-->
-    <Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
-    <Blueprint_Install_Turret_Mortar.label>溜弾迫撃砲(移動先)</Blueprint_Install_Turret_Mortar.label>
-    <Turret_Mortar.description>全弾種を投射できる手動式の迫撃砲です.衝撃系のダメージを加えることができますが,迫撃砲特有の不正確さが,フィールド上の敵グループを攻撃するよりも,大きな防御施設を攻撃するような用途に向いています.</Turret_Mortar.description>
-
-    <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
-    <Artillery_Mortar.description>榴弾を打ち出す迫撃砲.壁を越えて曲射弾道を描きます,長距離兵器ですが命中精度に欠けます.</Artillery_Mortar.description>
-    <Artillery_Mortar.verbs.Verb_Shoot.label>迫撃砲</Artillery_Mortar.verbs.Verb_Shoot.label>
-
-  <!--==================== Traps ======================== -->
-
-    <TrapSpike.label>スパイクトラップ</TrapSpike.label>
-    <TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
-
-    <TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
-    <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
-
-    <TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
-    <TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
-
-    <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
-    <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
-
-    <TrapIED_Firefoam.label>IED 消火剤トラップ</TrapIED_Firefoam.label>
-    <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
-
-    <TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ</TrapIED_AntigrainWarhead.label>
-    <TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_AntigrainWarhead.description>
-
-<!--
-    <Turret_MortarIncendiary.label>焼夷迫撃砲</Turret_MortarIncendiary.label>
-    <Turret_MortarIncendiary.description>手動でのみ焼夷弾を投射できます,ダメージを受けると爆発します.</Turret_MortarIncendiary.description>
-    <Turret_Blueprint_MortarIncendiary.label>焼夷迫撃砲(設計)</Turret_Blueprint_MortarIncendiary.label>
-    <Turret_Frame_MortarIncendiary.label>焼夷迫撃砲(施工)</Turret_Frame_MortarIncendiary.label>
-    <Artillery_MortarIncendiary.label>迫撃砲(焼夷弾)</Artillery_MortarIncendiary.label>
-    <Artillery_MortarIncendiary.description>焼夷弾を打ち出す迫撃砲.壁を越えて曲射弾道を描きます,長距離兵器ですが命中精度に欠けます.</Artillery_MortarIncendiary.description>
-    <Bullet_MortarIncendiary.label>焼夷弾(迫撃砲用)</Bullet_MortarIncendiary.label>
-
-    <Turret_MortarEMP.label>EMP迫撃砲</Turret_MortarEMP.label>
-    <Turret_MortarEMP.description>手動でのみEMP弾を投射できます,ダメージを受けると爆発します.</Turret_MortarEMP.description>
-    <Turret_Blueprint_MortarEMP.label>EMP迫撃砲(設計)</Turret_Blueprint_MortarEMP.label>
-    <Turret_Frame_MortarEMP.label>EMP迫撃砲(施工)</Turret_Frame_MortarEMP.label>
-    <Artillery_MortarEMP.label>迫撃砲(EMP)</Artillery_MortarEMP.label>
-    <Artillery_MortarEMP.description>EMP弾を打ち出す迫撃砲.壁を越えて曲射弾道を描きます,長距離兵器ですが命中精度に欠けます.</Artillery_MortarEMP.description>
-    <Bullet_MortarEMP.label>EMP(迫撃砲用)</Bullet_MortarEMP.label>
-
-    <TrapIEDBomb.label>IED トラップ</TrapIEDBomb.label>
-    <TrapIEDBomb.description>自家製の引き金をつけた迫撃砲弾.犠牲者となる者が引き金に触れた時,炸裂します.即興で作った引き金なので,敵に逃げる隙を与えてしまうランダムな遅れがあります.</TrapIEDBomb.description>
-    <Blueprint_TrapIEDBomb.label>IED トラップ(設計)</Blueprint_TrapIEDBomb.label>
-    <Frame_TrapIEDBomb.label>IED トラップ(施工)</Frame_TrapIEDBomb.label>
--->
-
+  
+  <!-- EN: barricade -->
+  <Barricade.label>バリケード</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
+  <Barricade.description>銃弾から身を守る腰までの高さの防壁です.バリケードは見た目は悪いですが,他の背の低い物よりも良い遮蔽物になります.</Barricade.description>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>土のう</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
+  <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしいカバーを与えます.</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>IED 反物質弾トラップ</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>一対の反物質・反粒子弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>IED 消火剤トラップ</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>スパイクトラップ</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
+  
 </LanguageData>

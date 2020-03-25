@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mortar -->
+  <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <Artillery_Mortar.description>榴弾を打ち出す迫撃砲.壁を越えて曲射弾道を描きます,長距離兵器ですが命中精度に欠けます.</Artillery_Mortar.description>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>迫撃砲</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autocannon shell -->
+  <Bullet_AutocannonTurret.label>オートキャノン弾</Bullet_AutocannonTurret.label>
+  
+  <!-- EN: mini-turret bullet -->
+  <Bullet_MiniTurret.label>ミニ-タレット弾</Bullet_MiniTurret.label>
+  
+  <!-- EN: uranium slug -->
+  <Bullet_TurretSniper.label>ウラニウムスラグ弾</Bullet_TurretSniper.label>
+  
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.label>オートキャノン</Gun_AutocannonTurret.label>
+  <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+  <Gun_AutocannonTurret.description>タレットに取り付けられるよう設計された,自動装填式,大口径キャノン砲です.</Gun_AutocannonTurret.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>オートキャノン</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.label>ミニ-タレット銃</Gun_MiniTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_MiniTurret.description>タレットに銃を取り付けただけのシンプルな自動銃です.</Gun_MiniTurret.description>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>mini-turret gun</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.label>ウラニウム・スラグタレット</Gun_TurretSniper.label>
+  <!-- EN: A self-loading uranium slug cannon designed to attach to a turret. -->
+  <Gun_TurretSniper.description>タレットに取り付けられるよう設計された,自動装填式のスナイパータレットです.遠距離に適格ですが,至近距離のターゲットを追尾するには不適格です.</Gun_TurretSniper.description>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>ウラニウム・スラグキャノン</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autocannon turret -->
+  <Turret_Autocannon.label>オートキャノンタレット</Turret_Autocannon.label>
+  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+  <Turret_Autocannon.description>全自動,重タレットです.大口径弾が広範囲に渡って大ダメージを叩き出しますが,使用後は銃身の一新が必須となります.至近距離のターゲットには発砲できません,そしてダメージを受けると爆発することがあります.</Turret_Autocannon.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mini-turret -->
+  <Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
+  <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Turret_MiniTurret.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mortar -->
+  <Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
+  <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
+  <Turret_Mortar.description>全弾種を投射できる手動式の迫撃砲です.衝撃系のダメージを加えることができますが,迫撃砲特有の不正確さが,フィールド上の敵グループを攻撃するよりも,大きな防御施設を攻撃するような用途に向いています.</Turret_Mortar.description>
+  
+  <!-- EN: uranium slug turret -->
+  <Turret_Sniper.label>ウランスラグタレット</Turret_Sniper.label>
+  <!-- EN: An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
+  <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラン弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウランスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs rearm -->
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

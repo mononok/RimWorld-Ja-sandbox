@@ -1,11 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Save -->
   <SaveButton>保存</SaveButton>
+  <!-- EN: Clear -->
   <ClearBinding>クリア</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>デフォルトに戻す</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>左クリックでキーを割り当て,右クリックでオプションを選択</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>設定したいキーを押します(中止するにはESCキー)</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>キー設定を上書き: {0}</KeyBindingOverwritten>
-
+  
 </LanguageData>

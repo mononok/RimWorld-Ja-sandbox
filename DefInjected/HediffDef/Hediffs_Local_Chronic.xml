@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>アルツハイマー病</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>通常は老化に関係する脳の疾患です. アルツハイマー病は思考と記憶能力の劣化が進行します. 患者は,近親者のことを忘れたり,ときどき徘徊することが知られています.</Alzheimers.description>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>軽度</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>軽度</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>重度</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>重度</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>ぜんそく</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>長期間にわたって気管に炎症が起きます.発作を抑えるため定期的な管理が必要です.</Asthma.description>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>軽度</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>重度</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>重度</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>腰痛</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>脊柱を取り囲む筋肉組織の悪化です.腰痛は移動と腰の曲げ伸ばしを困難にさせます.</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>腰痛</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>失明</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>完全に視力を失います.</Blindness.description>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>悪性腫瘍</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>がん細胞の塊,治療せずにおくと,悪性腫瘍は独りでに肥大し,症状が悪化して最終的には死に至ります.\n\n熟練した医師なら悪性腫瘍を摘出できます.ヤブ医者では,単純に身体の一部ごと 悪性腫瘍を切り取るぐらいは できるかもしれません.</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>悪性腫瘍</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>軽度</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>軽度</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>中度</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>中度</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>重度</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>重度</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>白内障</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>目の水晶体が白く濁って見え,白内障は視力を損ないます.</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>白内障</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>認知症</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>脳細胞の劣化によって思考と記憶力の欠損が引き起こされます.認知症の原因は,老化も含め様々な要因,特定疾患,毒素などがあります.</Dementia.description>
+  
+  <!-- EN: frail -->
+  <Frail.label>虚弱</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>一般的には筋肉と骨密度の減退を言います.</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>虚弱</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>聴力損失</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>蝸牛内部の有毛細胞の劣化によって音を聴く能力を失います.</HearingLoss.description>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>心臓の大動脈のひとつが詰まることです.心筋梗塞は不規則に心臓麻痺を引き起こします.</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>心筋梗塞</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>軽度</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>軽度</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>中度</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>中度</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>重度</HeartArteryBlockage.stages.extreme.label>
+  
+</LanguageData>

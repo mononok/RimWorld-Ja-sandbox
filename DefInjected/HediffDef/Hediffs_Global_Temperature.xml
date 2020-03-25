@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heatstroke -->
+  <Heatstroke.label>熱中症</Heatstroke.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
+  <Heatstroke.description>過度に太陽光線と熱波に晒されると起きる身体機能の変調です.発症者は,めまい,倦怠,そして意識混濁になります. 回復手段は,すぐに冷えた場所にいくことです,そのまま熱波に晒されていると,熱中症は死に至ります.</Heatstroke.description>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>初期</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>初期段階</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>わずかに</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>深刻な</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>致命的</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
+  <Hypothermia.label>低体温症</Hypothermia.label>
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
+  <Hypothermia.description>危険なまでに深部体温が低いことです.暖をとらないと低体温症は死に至ります.回復手段は,すぐに暖めてることです.寒い気候では暖かい服装をすることで低体温症が防げます.</Hypothermia.description>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>初期</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>初期段階</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>わずかに</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>深刻な</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>致命的</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>低体温による動作緩慢</HypothermicSlowdown.label>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>極寒で生き抜くため一部の生物がとる特別な生物学的状態です. 体温を暖めようとする代わりに,極低温による組織の凍結を防ぐため,生物の化学的性質を適応させました. 身体機能は緩慢になり,能力は落ちますが,低温によって永久的な損傷は受けません.一部の生物学者は,覚醒状態の冬眠と呼んでいます.</HypothermicSlowdown.description>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>軽度</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>軽度</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>中程度</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>重大</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>極度</HypothermicSlowdown.stages.extreme.label>
+  
+</LanguageData>

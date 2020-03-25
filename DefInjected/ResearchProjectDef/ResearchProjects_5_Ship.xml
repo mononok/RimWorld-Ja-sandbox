@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>宇宙船 基礎工学</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>宇宙船の構造,サポート部材を作れるようになります.この恒星系を離れるための宇宙船建造の第一歩となります.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>惑星からの脱出 - ついに自由を手に入れたのか,家に帰れるのか.\n\nしかし,信じられない程の危険もあります.\n\n多くの命知らず達も惑星から出たがっています.船の反応炉は稼働するまでに15日掛かります.一旦このプロセスを始めると,船の反応炉は数千キロ彼方からでも探知できるエネルギー波紋を放射するでしょう.あなたが今まで見た事もない位の熾烈さで,襲撃者が群れをなして襲ってくるでしょう,メカノイドも,理由はわかりませんが,そのようなエネルギー波紋に反応することが判っています.\n\nあなたが船の反応炉を稼働させなければ,このような事は起こりませんが,稼働させたときは,恐ろしいことになります.生きて,ここを出たければ,保管庫に資源と,突撃してくる輩に対しての守りが必要になるでしょう.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>宇宙船打ち上げについて</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>AIコンピュータコア</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>既存の人工知能(AI)を宇宙船のAI船長として仕えさせるリワードシグナルシステムを作成できるようになります.船員が恒星間旅行で冬眠に入っている間,AIコアは,長期間の恒星間航行中に複雑な決定事項を裁くことが必要とされます.</ShipComputerCore.description>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>耐圧冬眠カプセル</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>恒星間を年単位で旅するときにつかう,真空状態に露出しても大丈夫なように強化された冬眠カプセルを作れるようになります.</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>ジョンソン-タナカ ドライブ</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>宇宙船用のジョンソン-タナカドライブを作れるようになります.JTドライブは,量子スケール効果を利用して遠い恒星系への推進力を発し,あなたを他の恒星系に送り出すことができます.もちろん,全ての宇宙船と同様に,何処に行くにしても多くの年月が掛かります.</ShipEngine.description>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>宇宙船 反応炉</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>宇宙船にパワーを供給する長寿命核物質反応炉を作れるようになります.【ノート】反応炉は長い起動時間を必要とするので,レイダー達の興味をそそります.</ShipReactor.description>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>宇宙船センサー</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>宇宙船用の長距離センサーを作れるようになります.このセンサーは,航法,通信,危機回避に絶対不可欠なものです.</ShipSensorCluster.description>
+  
+</LanguageData>

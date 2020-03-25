@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <AncientConcreteBarrier.label>古代のコンクリート製壁</AncientConcreteBarrier.label>
-    <AncientConcreteBarrier.description>遥か昔に使われていた通行止めの手段.</AncientConcreteBarrier.description>
-
-    <AncientLamppost.label>古代の街灯</AncientLamppost.label>
-    <AncientLamppost.description>もう長いこと機能していない昔からの道路照明.</AncientLamppost.description>
-
-    <Urn.label>古代の壺</Urn.label>
-    <Urn.description>古代の装飾を施された入れ物.</Urn.description>
-
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>古代のコンクリート製壁</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>遥か昔に使われていた通行止めの手段.</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>古代の街灯</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>もう長いこと機能していない昔からの道路照明.</AncientLamppost.description>
+  
+  <!-- EN: urn -->
+  <Urn.label>古代の壺</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>古代の装飾を施された入れ物.</Urn.description>
+  
 </LanguageData>

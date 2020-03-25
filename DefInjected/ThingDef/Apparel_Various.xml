@@ -1,43 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Apparel_TribalA.label>一枚布</Apparel_TribalA.label>
-	<Apparel_TribalA.description>新石器時代のツールを使って作られた全身を覆う衣服です.原始的な見た目ですが断熱効果があります.</Apparel_TribalA.description>
-
-	<Apparel_Parka.label>パーカー</Apparel_Parka.label>
-	<Apparel_Parka.description>パーカーは気温が低く寒い日でも暖かくいられます.</Apparel_Parka.description>
-
-	<Apparel_Pants.label>ズボン</Apparel_Pants.label>
-	<Apparel_Pants.description>シンプルなズボンです.</Apparel_Pants.description>
-
-	<Apparel_BasicShirt.label>Ｔシャツ</Apparel_BasicShirt.label>
-	<Apparel_BasicShirt.description>Ｔシャツです.</Apparel_BasicShirt.description>
-
-	<Apparel_CollarShirt.label>襟付きシャツ</Apparel_CollarShirt.label>
-	<Apparel_CollarShirt.description>見なりが整ってみえるボタンのついた襟付きシャツです.</Apparel_CollarShirt.description>
-
-	<Apparel_Duster.label>ダスターコート</Apparel_Duster.label>
-	<Apparel_Duster.description>ダスターコートは,屋外において日差しや砂塵を寄せつけません.</Apparel_Duster.description>
-
-	<Apparel_Jacket.label>ジャケット</Apparel_Jacket.label>
-	<Apparel_Jacket.description>丈夫なジャケットは,引っ掻き傷を受けなくなります.薄ら寒い日でも身体を暖かいままにします.</Apparel_Jacket.description>
-
-	<Apparel_PlateArmor.label>プレートアーマー</Apparel_PlateArmor.label>
-	<Apparel_PlateArmor.description>アーマーの重なり合う鉄板が,首から足までの全身を覆っています.</Apparel_PlateArmor.description>
-
-	<Apparel_FlakVest.label>防弾チョッキ</Apparel_FlakVest.label>
-	<Apparel_FlakVest.description>胸と背中にアーマープレートが入ったベストです.胸部への銃弾と突き刺す攻撃を,完璧に反らせる効果があるのに,手足は全く守られません.</Apparel_FlakVest.description>
-
-	<Apparel_FlakPants.label>防弾パンツ</Apparel_FlakPants.label>
-	<Apparel_FlakPants.description>アーマープレートが縫い込まれたパンツです.アーマー程良くはないが,いたって快適なのに,あらゆる攻撃から守る効果があります.</Apparel_FlakPants.description>
-
-    <Apparel_FlakJacket.label>防弾ジャケット</Apparel_FlakJacket.label>
-    <Apparel_FlakJacket.description>アーマープレートを縫い込んだ強化繊維のジャケットです.アーマー程良くはないが,いたって快適なのに,あらゆる攻撃から守る効果があります.</Apparel_FlakJacket.description>
-
-	<Apparel_PowerArmor.label>マリーンアーマー</Apparel_PowerArmor.label>
-	<Apparel_PowerArmor.description>軽装パワードアーマー一式です.層状の編み込まれたプラスチールが,攻撃を非常に効果的に防ぎます,ニューロ-メメティックロボティクスが,移動が楽なままで,人がヘビーアーマーを着用することを可能にしました.\n\nパワードアーマーは通常は,重歩兵や,スペースマリーンが使用しています.</Apparel_PowerArmor.description>
-
-    <Apparel_ArmorRecon.label>レコンアーマー</Apparel_ArmorRecon.label>
-    <Apparel_ArmorRecon.description>軽やかな動作に重点を置いてデザインされた軽量な部分的パワーアーマーです.軽量のプラスチール繊維装甲は,身軽さを犠牲にすることなく攻撃から守り,胴体下部に設置されたニューロ-ミームテックアシスターが装着時の負担を減らし,移動しやすくします.\n\nこのような装備は,グリッターワールドポリスや,帝国偵察部隊などでよく採用されています.</Apparel_ArmorRecon.description>
-
+  
+  <!-- EN: recon armor -->
+  <Apparel_ArmorRecon.label>レコンアーマー</Apparel_ArmorRecon.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+  <Apparel_ArmorRecon.description>軽やかな動作に重点を置いてデザインされた軽量な部分的パワーアーマーです.軽量のプラスチール繊維装甲は,身軽さを犠牲にすることなく攻撃から守り,胴体下部に設置されたニューロ-ミームテックアシスターが装着時の負担を減らし,移動しやすくします.\n\nこのような装備は,グリッターワールドポリスや,帝国偵察部隊などでよく採用されています.</Apparel_ArmorRecon.description>
+  
+  <!-- EN: T-shirt -->
+  <Apparel_BasicShirt.label>Ｔシャツ</Apparel_BasicShirt.label>
+  <!-- EN: A simple T-shirt. -->
+  <Apparel_BasicShirt.description>Ｔシャツです.</Apparel_BasicShirt.description>
+  
+  <!-- EN: button-down shirt -->
+  <Apparel_CollarShirt.label>襟付きシャツ</Apparel_CollarShirt.label>
+  <!-- EN: A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>見なりが整ってみえるボタンのついた襟付きシャツです.</Apparel_CollarShirt.description>
+  
+  <!-- EN: duster -->
+  <Apparel_Duster.label>ダスターコート</Apparel_Duster.label>
+  <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>ダスターコートは,屋外において日差しや砂塵を寄せつけません.</Apparel_Duster.description>
+  
+  <!-- EN: flak jacket -->
+  <Apparel_FlakJacket.label>防弾ジャケット</Apparel_FlakJacket.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>アーマープレートを縫い込んだ強化繊維のジャケットです.アーマー程良くはないが,いたって快適なのに,あらゆる攻撃から守る効果があります.</Apparel_FlakJacket.description>
+  
+  <!-- EN: flak pants -->
+  <Apparel_FlakPants.label>防弾パンツ</Apparel_FlakPants.label>
+  <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>アーマープレートが縫い込まれたパンツです.アーマー程良くはないが,いたって快適なのに,あらゆる攻撃から守る効果があります.</Apparel_FlakPants.description>
+  
+  <!-- EN: flak vest -->
+  <Apparel_FlakVest.label>防弾チョッキ</Apparel_FlakVest.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>胸と背中にアーマープレートが入ったベストです.胸部への銃弾と突き刺す攻撃を,完璧に反らせる効果があるのに,手足は全く守られません.</Apparel_FlakVest.description>
+  
+  <!-- EN: jacket -->
+  <Apparel_Jacket.label>ジャケット</Apparel_Jacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>丈夫なジャケットは,引っ掻き傷を受けなくなります.薄ら寒い日でも身体を暖かいままにします.</Apparel_Jacket.description>
+  
+  <!-- EN: pants -->
+  <Apparel_Pants.label>ズボン</Apparel_Pants.label>
+  <!-- EN: A simple set of pants. -->
+  <Apparel_Pants.description>シンプルなズボンです.</Apparel_Pants.description>
+  
+  <!-- EN: parka -->
+  <Apparel_Parka.label>パーカー</Apparel_Parka.label>
+  <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>パーカーは気温が低く寒い日でも暖かくいられます.</Apparel_Parka.description>
+  
+  <!-- EN: plate armor -->
+  <Apparel_PlateArmor.label>プレートアーマー</Apparel_PlateArmor.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>アーマーの重なり合う鉄板が,首から足までの全身を覆っています.</Apparel_PlateArmor.description>
+  
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>マリーンアーマー</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>軽装パワードアーマー一式です.層状の編み込まれたプラスチールが,攻撃を非常に効果的に防ぎます,ニューロ-メメティックロボティクスが,移動が楽なままで,人がヘビーアーマーを着用することを可能にしました.\n\nパワードアーマーは通常は,重歩兵や,スペースマリーンが使用しています.</Apparel_PowerArmor.description>
+  
+  <!-- EN: tribalwear -->
+  <Apparel_TribalA.label>一枚布</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>新石器時代のツールを使って作られた全身を覆う衣服です.原始的な見た目ですが断熱効果があります.</Apparel_TribalA.description>
+  
 </LanguageData>

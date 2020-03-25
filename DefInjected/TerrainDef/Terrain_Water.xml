@@ -1,26 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Marsh.label>沼</Marsh.label>
-	<Marsh.tools.water.label>水面</Marsh.tools.water.label>
-	<Marsh.tools.mud.label>泥</Marsh.tools.mud.label>
-
-	<WaterDeep.label>海</WaterDeep.label>
-	<WaterDeep.tools.water.label>水面</WaterDeep.tools.water.label>
-
-	<WaterOceanDeep.label>外洋</WaterOceanDeep.label>
-	<WaterOceanDeep.tools.water.label>水面</WaterOceanDeep.tools.water.label>
-
-	<WaterMovingChestDeep.label>小川</WaterMovingChestDeep.label>
-	<WaterMovingChestDeep.tools.water.label>水面</WaterMovingChestDeep.tools.water.label>
-
-	<WaterShallow.label>浅瀬</WaterShallow.label>
-	<WaterShallow.tools.water.label>水面</WaterShallow.tools.water.label>
-
-	<WaterOceanShallow.label>浅海</WaterOceanShallow.label>
-	<WaterOceanShallow.tools.water.label>水面</WaterOceanShallow.tools.water.label>
-
-	<WaterMovingShallow.label>流水</WaterMovingShallow.label>
-	<WaterMovingShallow.tools.water.label>水面</WaterMovingShallow.tools.water.label>
-
+  
+  <!-- EN: marsh -->
+  <Marsh.label>沼</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>水面</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>泥</Marsh.tools.mud.label>
+  
+  <!-- EN: deep water -->
+  <WaterDeep.label>海</WaterDeep.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>水面</WaterDeep.tools.water.label>
+  
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>小川</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>水面</WaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: shallow moving water -->
+  <WaterMovingShallow.label>流水</WaterMovingShallow.label>
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>水面</WaterMovingShallow.tools.water.label>
+  
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>外洋</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>水面</WaterOceanDeep.tools.water.label>
+  
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>浅海</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>水面</WaterOceanShallow.tools.water.label>
+  
+  <!-- EN: shallow water -->
+  <WaterShallow.label>浅瀬</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>水面</WaterShallow.tools.water.label>
+  
 </LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: detection chance -->
+  <Bladelink_DetectionChance.label>被探知率</Bladelink_DetectionChance.label>
+  <!-- EN: The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences.\n\nThe psychic signature can be silenced by use of a psychic silencer implant. -->
+  <Bladelink_DetectionChance.description>戦闘で使用される度に護り刀が探知される可能性です.\n\n一部の派閥では護り刀の使用は特定の称号を持つものだけに制限する法律を施行しようとしています.護り刀を使用すると遠くからでも探知される可能性がある心紋が放出されます.もし違法に使用され探知されると,外交的な結果をもたらします.\n\nサイキック心紋は,サイキックサイレンサーインプラントを使って消すことができます.</Bladelink_DetectionChance.description>
+  
+  <!-- EN: blunt damage -->
+  <BluntDamageMultiplier.label>近接武器(殴)倍率</BluntDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>この武器を使って,殴った時のダメージ倍率です.</BluntDamageMultiplier.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>AP値(白兵戦)</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- EN: Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>白兵戦時においての平均的なアーマー貫通力(AP)です.</MeleeWeapon_AverageArmorPenetration.description>
+  
+  <!-- EN: melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>攻撃力(白兵戦)/秒</MeleeWeapon_AverageDPS.label>
+  <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>白兵戦における一秒あたりの平均ダメージ量です.</MeleeWeapon_AverageDPS.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>クールダウン時間(近接武器)</MeleeWeapon_CooldownMultiplier.label>
+  <!-- EN: A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>この武器での,一度使った後に必要な待たなければならない時間です.</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.formatString>{0} 秒</MeleeWeapon_CooldownMultiplier.formatString>
+  
+  <!-- EN: melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>近接武器でのダメージ倍率です.</MeleeWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>ダメージ倍率は近接戦闘時に適用されます.</MeleeWeapon_DamageMultiplier.description>
+  
+  <!-- EN: sharp damage -->
+  <SharpDamageMultiplier.label>近接武器(突,斬)倍率</SharpDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
+  <SharpDamageMultiplier.description>この武器を使って,突いたり,斬ったりした時のダメージ倍率です.</SharpDamageMultiplier.description>
+  
+</LanguageData>

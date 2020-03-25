@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Beer.label>ビール</Beer.label>
-    <Beer.description>人類において,水以外で初めて消費された飲料です.ビールはとてもおいしいですが,主な効能は酔っ払うことです.過度の飲酒はアルコール急性中毒を引き起こし,やがて依存症に繋がります.</Beer.description>
-    <Beer.ingestible.ingestCommandString>{0}を 飲む</Beer.ingestible.ingestCommandString>
-    <Beer.ingestible.ingestReportString>{0}を 飲んでいる</Beer.ingestible.ingestReportString>
-    <Beer.tools.neck.label>首</Beer.tools.neck.label>
-    <Beer.tools.bottle.label>ビン</Beer.tools.bottle.label>
-
-    <Wort.label>麦汁</Wort.label>
-    <Wort.description>ビールの発酵前のものです.ビールにするには,ビア樽にて発酵する必要があります.</Wort.description>
-
+  
+  <!-- EN: beer -->
+  <Beer.label>ビール</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>人類において,水以外で初めて消費された飲料です.ビールはとてもおいしいですが,主な効能は酔っ払うことです.過度の飲酒はアルコール急性中毒を引き起こし,やがて依存症に繋がります.</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>{0}を 飲む</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>{0}を 飲んでいる</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>ビン</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>首</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>麦汁</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>ビールの発酵前のものです.ビールにするには,ビア樽にて発酵する必要があります.</Wort.description>
+  
 </LanguageData>

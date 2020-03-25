@@ -1,12 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<MarryAdjacentPawn.reportString>TargetA と結婚式を挙げる</MarryAdjacentPawn.reportString>
-
-	<SpectateCeremony.reportString>結婚式に参列する</SpectateCeremony.reportString>
-
-	<StandAndBeSociallyActive.reportString>くつろいでいる</StandAndBeSociallyActive.reportString>
-
-    <GiveSpeech.reportString>話している</GiveSpeech.reportString>
-
+  
+  <!-- EN: talking. -->
+  <GiveSpeech.reportString>話している</GiveSpeech.reportString>
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>TargetA と結婚式を挙げる</MarryAdjacentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>結婚式に参列する</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>くつろいでいる</StandAndBeSociallyActive.reportString>
+  
 </LanguageData>

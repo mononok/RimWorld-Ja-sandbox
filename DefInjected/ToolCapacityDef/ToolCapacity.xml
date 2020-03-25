@@ -1,14 +1,31 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Stab.label>刺す</Stab.label>
-	<Cut.label>切る</Cut.label>
-	<Blunt.label>殴る</Blunt.label>
-	<Scratch.label>裂く</Scratch.label>
-	<Poke.label>突く</Poke.label>
-	<Bite.label>噛む</Bite.label>
-	<ToxicBite.label>噛む</ToxicBite.label>
-	<ScratchToxic.label>裂く</ScratchToxic.label>
-	<KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label> <!-- TODO -->
-
+  
+  <!-- EN: bite -->
+  <Bite.label>噛む</Bite.label>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>殴る</Blunt.label>
+  
+  <!-- EN: cut -->
+  <Cut.label>切る</Cut.label>
+  
+  <!-- EN: kick material in eyes -->
+  <KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label>
+  
+  <!-- EN: poke -->
+  <Poke.label>突く</Poke.label>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>裂く</Scratch.label>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>裂く</ScratchToxic.label>
+  
+  <!-- EN: stab -->
+  <Stab.label>刺す</Stab.label>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>噛む</ToxicBite.label>
+  
 </LanguageData>

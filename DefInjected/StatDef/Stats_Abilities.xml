@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: casting time -->
+  <Ability_CastingTime.label>詠唱時間</Ability_CastingTime.label>
+  <!-- EN: How long it takes to perform this ability. -->
+  <Ability_CastingTime.description>この能力を行使するのにかかる時間です.</Ability_CastingTime.description>
+  <!-- EN: {0} s -->
+  <Ability_CastingTime.formatString>{0}秒</Ability_CastingTime.formatString>
+  
+  <!-- EN: detection chance -->
+  <Ability_DetectChancePerEntropy.label>被探知率</Ability_DetectChancePerEntropy.label>
+  <!-- EN: The likelihood of this psycast being detected when it is performed.\n\nSome factions try to enforce laws which restrict some psycasts to those holding specific titles. When you use a psycast, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences.\n\nThe chance of detection can be eliminated using a psychic silencer implant. -->
+  <Ability_DetectChancePerEntropy.description>これを行使したときに詠唱者が検出される可能性です.\n\n一部の派閥では詠唱は特定の称号を持つものだけに制限する法律を施行しようとしています.詠唱すると遠くからでも探知される可能性がある心紋が放出されます.もし違法に使用され探知されると,外交的な結果をもたらします.\n\nサイキック心紋は,サイキックサイレンサーインプラントを使って消すことができます.</Ability_DetectChancePerEntropy.description>
+  
+  <!-- EN: duration -->
+  <Ability_Duration.label>効果時間</Ability_Duration.label>
+  <!-- EN: How long the effects of this ability last. -->
+  <Ability_Duration.description>この能力が効果を発揮し続ける時間です.</Ability_Duration.description>
+  <!-- EN: {0} s -->
+  <Ability_Duration.formatString>{0}秒</Ability_Duration.formatString>
+  
+  <!-- EN: effect radius -->
+  <Ability_EffectRadius.label>効果範囲</Ability_EffectRadius.label>
+  <!-- EN: The radius of the area of effect of this ability. -->
+  <Ability_EffectRadius.description>この能力が効果を表す半径です.</Ability_EffectRadius.description>
+  
+  <!-- EN: entropy gain -->
+  <Ability_EntropyGain.label>エントロピー量</Ability_EntropyGain.label>
+  <!-- EN: How much psychic entropy will be added as a result of performing this ability. -->
+  <Ability_EntropyGain.description>この能力を行使した結果得られるサイキックエントロピー量です.</Ability_EntropyGain.description>
+  
+  <!-- EN: goodwill impact -->
+  <Ability_GoodwillImpact.label>友好影響度</Ability_GoodwillImpact.label>
+  <!-- EN: How casting this ability on someone will impact relations with their faction. -->
+  <Ability_GoodwillImpact.description>この能力を行使した相手の,派閥の関係性に与える影響度です.</Ability_GoodwillImpact.description>
+  
+  <!-- EN: range -->
+  <Ability_Range.label>到達距離</Ability_Range.label>
+  <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
+  <Ability_Range.description>この能力を行使できる相手までの最大距離です.</Ability_Range.description>
+  
+  <!-- EN: psychic amplifier level -->
+  <Ability_RequiredAmplifier.label>最低サイキックレベル</Ability_RequiredAmplifier.label>
+  <!-- EN: Minimum level of psychic amplifier implant required to perform this psycast. -->
+  <Ability_RequiredAmplifier.description>サイキック増幅インプラントが必要とする最小レベルです.</Ability_RequiredAmplifier.description>
+  
+</LanguageData>

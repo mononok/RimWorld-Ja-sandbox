@@ -1,90 +1,147 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Chicken.label>ニワトリ</Chicken.label>
-    <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
-    <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
-    <Meat_Chicken.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.とても成長が速く,よく卵を産みます.</Meat_Chicken.description>
-    <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
-    <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
-    <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
-
-    <Pig.label>ブタ</Pig.label>
-    <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
-    <Meat_Pig.label>ブタ肉</Meat_Pig.label>
-    <Meat_Pig.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Pig.description>
-    <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
-    <Pig.tools.head.label>頭部</Pig.tools.head.label>
-
-    <Cow.label>ウシ</Cow.label>
-    <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
-    <Meat_Cow.label>ウシの肉</Meat_Cow.label>
-    <Meat_Cow.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cow.description>
-    <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
-    <Cow.tools.head.label>頭部</Cow.tools.head.label>
-    <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
-    <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
-
-    <Alpaca.label>アルパカ</Alpaca.label>
-    <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
-    <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
-    <Meat_Alpaca.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alpaca.description>
-    <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
-    <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
-    <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
-
-	<Duck.label>カモ</Duck.label>
-	<Duck.description>非常に一般的な家禽,野生でも姿を見ることがあります.カモは美味しい肉のため飼育されています.成長も早く非常に多くの卵を産みます.</Duck.description>
-	<Duck.tools.claws.label>爪</Duck.tools.claws.label>
-	<Duck.tools.beak.label>嘴</Duck.tools.beak.label>
-	<Duck.tools.head.label>頭</Duck.tools.head.label>
-
-	<Bison.label>バイソン</Bison.label>
-	<Bison.description>サバンナの荒野で見かける大型の草食哺乳類です. 飼いならし易いですが,気性が荒く危険でもあります.</Bison.description>
-	<Bison.tools.head.label>頭</Bison.tools.head.label>
-	<Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
-	<Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
-
-	<Goat.label>ヤギ</Goat.label>
-	<Goat.description>自然界では珍しいですが,ヤギは人類が繁殖させた人懐っこい家畜です.</Goat.description>
-	<Goat.tools.head.label>頭</Goat.tools.head.label>
-
-	<Goose.label>ガチョウ</Goose.label>
-	<Goose.description>肉と卵を摂る家禽として人間によって飼いならされた鳥類です.非常によく卵を産みますが,孵化させるには時間がかかります.</Goose.description>
-	<Goose.tools.claws.label>爪</Goose.tools.claws.label>
-	<Goose.tools.beak.label>嘴</Goose.tools.beak.label>
-	<Goose.tools.head.label>頭</Goose.tools.head.label>
-
-	<Sheep.label>ヒツジ</Sheep.label>
-	<Sheep.description>ヒツジの飼育はヒトが住んでいる大部分で実践されていますが,RimWorldでは最近になって導入されました. この世界のヒツジは比較的に小さな草食動物で,大抵は黄色がかった羊毛と中型の角があります.</Sheep.description>
-	<Sheep.tools.head.label>頭</Sheep.tools.head.label>
-	<Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
-	<Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
-
-	<Horse.label>ウマ</Horse.label>
-	<Horse.description>短い毛,長いたてがみと尻尾を持つ大型の有蹄哺乳類です.ウマは古来よりヒトに飼いならされてきました.</Horse.description>
-	<Horse.race.meatLabel>馬肉</Horse.race.meatLabel>
-	<Horse.tools.head.label>頭</Horse.tools.head.label>
-	<Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
-	<Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
-
-	<Yak.label>ヤク</Yak.label>
-	<Yak.description>ヤクは分厚い骨格と,太くて短い脚,雪の中でも歩きやすく広がった丸みのある裂けた蹄を持つ丈夫な牛です.</Yak.description>
-	<Yak.race.meatLabel>ヤクの肉</Yak.race.meatLabel>
-	<Yak.tools.head.label>頭</Yak.tools.head.label>
-	<Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
-	<Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
-
-	<GuineaPig.label>モルモット</GuineaPig.label>
-	<GuineaPig.description>英名ギニアピッグは,豚でも,ギニアから来たわけでもない,この小さなげっ歯類は,ペットや美味しい晩御飯のおかずとして飼育されて来ました.</GuineaPig.description>
-	<GuineaPig.tools.left_claw.label>左爪</GuineaPig.tools.left_claw.label>
-	<GuineaPig.tools.right_claw.label>右爪</GuineaPig.tools.right_claw.label>
-	<GuineaPig.tools.head.label>頭</GuineaPig.tools.head.label>
-
-	<Donkey.label>ロバ</Donkey.label>
-	<Donkey.description>ウマと比べて小さく,古来より農作業のために家畜にされてきました.その間抜けな鳴き声は,うっとうしいと同時に可愛らしいです.</Donkey.description>
-	<Donkey.tools.head.label>頭</Donkey.tools.head.label>
-	<Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
-	<Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
-
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>アルパカ</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
+  <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
+  
+  <!-- EN: bison -->
+  <Bison.label>バイソン</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>サバンナの荒野で見かける大型の草食哺乳類です. 飼いならし易いですが,気性が荒く危険でもあります.</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>頭</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ニワトリ</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>ウシ</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>頭部</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>ロバ</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing. -->
+  <Donkey.description>ウマと比べて小さく,古来より農作業のために家畜にされてきました.その間抜けな鳴き声は,うっとうしいと同時に可愛らしいです.</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>頭</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>カモ</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarily. -->
+  <Duck.description>非常に一般的な家禽,野生でも姿を見ることがあります.カモは美味しい肉のため飼育されています.成長も早く非常に多くの卵を産みます.</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>爪</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>嘴</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>頭</Duck.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>ヤギ</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>自然界では珍しいですが,ヤギは人類が繁殖させた人懐っこい家畜です.</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>頭</Goat.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>ガチョウ</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>肉と卵を摂る家禽として人間によって飼いならされた鳥類です.非常によく卵を産みますが,孵化させるには時間がかかります.</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>爪</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>嘴</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>頭</Goose.tools.head.label>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>モルモット</GuineaPig.label>
+  <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
+  <GuineaPig.description>英名ギニアピッグは,豚でも,ギニアから来たわけでもない,この小さなげっ歯類は,ペットや美味しい晩御飯のおかずとして飼育されて来ました.</GuineaPig.description>
+  <!-- EN: left claw -->
+  <GuineaPig.tools.left_claw.label>左爪</GuineaPig.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <GuineaPig.tools.right_claw.label>右爪</GuineaPig.tools.right_claw.label>
+  <!-- EN: head -->
+  <GuineaPig.tools.head.label>頭</GuineaPig.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>ウマ</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
+  <Horse.description>短い毛,長いたてがみと尻尾を持つ大型の有蹄哺乳類です.ウマは古来よりヒトに飼いならされてきました.</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>馬肉</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>頭</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>ブタ</Pig.label>
+  <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
+  <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>頭部</Pig.tools.head.label>
+  
+  <!-- EN: sheep -->
+  <Sheep.label>ヒツジ</Sheep.label>
+  <!-- EN: Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <Sheep.description>ヒツジの飼育はヒトが住んでいる大部分で実践されていますが,RimWorldでは最近になって導入されました. この世界のヒツジは比較的に小さな草食動物で,大抵は黄色がかった羊毛と中型の角があります.</Sheep.description>
+  <!-- EN: head -->
+  <Sheep.tools.head.label>頭</Sheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>ヤク</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>ヤクは分厚い骨格と,太くて短い脚,雪の中でも歩きやすく広がった丸みのある裂けた蹄を持つ丈夫な牛です.</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>ヤクの肉</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>頭</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
+  
 </LanguageData>

@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <NoInteraction.label>相互交流無し</NoInteraction.label>
-    <AttemptRecruit.label>雑談と勧誘</AttemptRecruit.label>
-    <Release.label>解放</Release.label>
-    <Execution.label>処刑</Execution.label>
-    <ReduceResistance.label>敵対心を緩和</ReduceResistance.label>
-
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>雑談と勧誘</AttemptRecruit.label>
+  
+  <!-- EN: execute -->
+  <Execution.label>処刑</Execution.label>
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>相互交流無し</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>敵対心を緩和</ReduceResistance.label>
+  
+  <!-- EN: release -->
+  <Release.label>解放</Release.label>
+  
 </LanguageData>

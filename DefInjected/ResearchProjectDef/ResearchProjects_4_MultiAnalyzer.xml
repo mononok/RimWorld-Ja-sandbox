@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>先進組立製造</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>並コンポーネントや他の素材から,先進コンポーネントを加工できるようになります.</AdvancedFabrication.description>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>バイオニクス</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>失われた手足や眼の代わりとなるハイテク人造器官を作れるようになります.装着には医者のスキルを必要とします.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>チャージライフル</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>追加ダメージを与えるパルスチャージされた弾丸を発射する武器を作成できるようになります.【ノート】これも先進コンポーネントが必要です.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>冬眠カプセル</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>生体活動を仮死状態にさせる,冬眠カプセルを作成できるようになります.</Cryptosleep.description>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>深部ドリルマシン</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>地殻深部から資源を抽出するための深部ドリルマシンを作成できるようになります.資源を見つけるための地殻深部スキャナーが必要です.</DeepDrilling.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>組立製造</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>コンポーネント組み立てから,パワーアーマー建造までの,ハイテクプロジェクトの遂行能力がある組立製造台を作成できるようになります.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components.\n  -Some special threats drop them when defeated. -->
+  <Fabrication.discoveredLetterText>あなたは組立製造機器を作成できるテクノロジーを持ちました-まだ始めるには複数の先進コンポーネントが必要です. 複数の方法で先進コンポーネントを集める事ができます:\n\n-異国人の集落は先進コンポーネントを売っています.キャラバン隊を買いに行かせます.\n-貿易人の一部は先進コンポーネントを売っています.彼らを招待するか待ちます.\n-クエストの一部では先進コンポーネントが報酬となっています.\n-特別な脅威を撃退すると先進コンポーネントを落としていきます.</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>先進コンポーネントの入手方法について</Fabrication.discoveredLetterTitle>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>地殻深部スキャナー</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
+  <GroundPenetratingScanner.description>地表より深部にある掘削可能な資源を探知できる,地殻深部スキャナーを作成できるようになります.製造には先進コンポーネントが必要です.</GroundPenetratingScanner.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>マルチアナライザー</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>高いレベルの研究プロジェクトを遂行できるようになり,研究速度が上がるマルチアナライザーを作れるようになります.</MultiAnalyzer.description>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>パワーアーマー</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>パワーアーマー,パワーアーマ－ヘルメットを作れるようになります.【ノート】先進コンポーネントが必要です.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>レコンアーマー</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>レコンアーマーを作れるようになります.動きがある中でも防護が必要とされる偵察部隊によって使われている軽量パワーアーマーです.【ノート】先進コンポーネントが必要です.</ReconArmor.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>ウランスラグタレット</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>装甲貫通能力のあるウランスラグタレットを作れるようになります.ウランスラグ弾はプラスチールを紙のごとく切り裂きますが,至近距離では十分な効果を発揮しません.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>バイタルモニター</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>病院用ベッドの横に置き,医療効果を改善するバイタルモニターを作成できるようになります.</VitalsMonitor.description>
+  
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>化学的損傷</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>細胞レベルでの化学的損傷.</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>化学的損傷</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>細胞レベルでの化学的損傷</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>肝硬変</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>過度の飲酒が引き起こす肝機能変性です.</Cirrhosis.description>
+  <Cirrhosis.labelNoun>肝硬変</Cirrhosis.labelNoun>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>蘇生精神病</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>結合した蘇生メカナイトの分解が引き起こす混沌とした思考パターンです.蘇生精神病は進行し,最終的には完全に精神を病んで死に至ります.\n\n蘇生された人は,細胞レベルでの肉体機能の再生のためにメカナイトを必要とします.メカナイトは常にその結合性を失う可能性があり,もしそうなった場合,中枢神経の壊滅的破壊をもたらします.死後の時間が長い遺体を蘇生するには,より多くのメカナイトの作用を必要とするため,結果として起こるべき分解可能性も高くなります.</ResurrectionPsychosis.description>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>初期</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>初期</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>中期</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>後期</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>完全</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>完全</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>カタトニー</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>後天性サヴァン症</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>脳への外傷によって並外れた状況を引き起こします.脳への,損傷にも関わらず,多くの機能野に並外れた能力が発現しますが,その間,会話能力を失います.</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>後天性サヴァン症</TraumaSavant.labelNoun>
+  
+</LanguageData>

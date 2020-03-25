@@ -1,118 +1,181 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Root.label>目次</Root.label>
-
-    <Foods.label>食物</Foods.label>
-
-    <FoodMeals.label>調理済</FoodMeals.label>
-
-    <FoodRaw.label>生食材</FoodRaw.label>
-
-    <MeatRaw.label>生肉</MeatRaw.label>
-
-    <PlantFoodRaw.label>生野菜</PlantFoodRaw.label>
-
-	<AnimalProductRaw.label>生卵</AnimalProductRaw.label>
-    <EggsUnfertilized.label>卵(無精卵)</EggsUnfertilized.label>
-    <EggsFertilized.label>卵(有精卵)</EggsFertilized.label>
-
-    <!-- Manufactured -->
-
-    <Manufactured.label>加工品</Manufactured.label>
-
-    <Textiles.label>織物</Textiles.label>
-
-    <Leathers.label>革</Leathers.label>
-
-    <Medicine.label>薬</Medicine.label>
-
-    <Drugs.label>ドラッグ</Drugs.label>
-
-	<MortarShells.label>迫撃砲弾</MortarShells.label>
-
-    <!-- Raw resources -->
-
-    <ResourcesRaw.label>原材料</ResourcesRaw.label>
-
-    <PlantMatter.label>植物原料</PlantMatter.label>
-
-    <StoneBlocks.label>石材</StoneBlocks.label>
-
-    <!--==================== Non-resource readout categories =====================-->
-
-    <!-- Items -->
-
-    <Items.label>物品</Items.label>
-
-    <Unfinished.label>未完成品</Unfinished.label>
-
-    <Artifacts.label>アーティファクト</Artifacts.label>
-
-    <Neurotrainers.label>ニューロトレイナー</Neurotrainers.label>
-    <NeurotrainersPsycast.label>サイコトレイナー</NeurotrainersPsycast.label>
-
-    <Techprints.label>techprints</Techprints.label> <!-- TODO -->
-
-    <BodyParts.label>義肢</BodyParts.label>
-    <BodyPartsNatural.label>生体</BodyPartsNatural.label>
-	<BodyPartsSimple.label>粗末な義肢</BodyPartsSimple.label>
-	<BodyPartsProsthetic.label>人造</BodyPartsProsthetic.label>
-	<BodyPartsBionic.label>強化</BodyPartsBionic.label>
-	<BodyPartsUltra.label>ウルトラテック</BodyPartsUltra.label>
-	<BodyPartsArchotech.label>アルコテック</BodyPartsArchotech.label>
-
-    <!-- Weapons -->
-
-    <Weapons.label>武器</Weapons.label>
-
-    <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
-    
-    <WeaponsMeleeBladelink.label>護り刀</WeaponsMeleeBladelink.label>
-
-    <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
-
-    <Grenades.label>投擲武器</Grenades.label>
-
-    <!-- Apparel -->
-
-    <Apparel.label>衣服</Apparel.label>
-
-    <ApparelArmor.label>アーマー</ApparelArmor.label>
-
-    <Headgear.label>ヘッドギア</Headgear.label>
-
-    <ArmorHeadgear.label>ヘッドギア</ArmorHeadgear.label>
-
-    <ApparelNoble.label>高貴な装束</ApparelNoble.label>
-
-    <HeadgearNoble.label>ヘッドギア</HeadgearNoble.label>
-
-    <Buildings.label>建築物</Buildings.label>
-    <BuildingsArt.label>絵画</BuildingsArt.label>
-    <BuildingsProduction.label>生産物</BuildingsProduction.label>
-    <BuildingsFurniture.label>家具</BuildingsFurniture.label>
-    <BuildingsPower.label>パワー</BuildingsPower.label>
-    <BuildingsSecurity.label>防衛</BuildingsSecurity.label>
-    <BuildingsMisc.label>その他</BuildingsMisc.label>
-    <BuildingsJoy.label>娯楽</BuildingsJoy.label>
-    <BuildingsTemperature.label>温度</BuildingsTemperature.label>
-    <BuildingsSpecial.label>スペシャル</BuildingsSpecial.label>
-
-    <Chunks.label>塊</Chunks.label>
-
-    <StoneChunks.label>岩塊</StoneChunks.label>
-
-    <!-- 死骸 -->
-
-    <Corpses.label>死骸</Corpses.label>
-
-    <CorpsesHumanlike.label>ヒト型の死骸</CorpsesHumanlike.label>
-
-    <CorpsesAnimal.label>動物の死骸</CorpsesAnimal.label>
-
-    <CorpsesInsect.label>虫の死骸</CorpsesInsect.label>
-
-    <CorpsesMechanoid.label>機械の残骸</CorpsesMechanoid.label>
-
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>生卵</AnimalProductRaw.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>衣服</Apparel.label>
+  
+  <!-- EN: armor -->
+  <ApparelArmor.label>アーマー</ApparelArmor.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>高貴な装束</ApparelNoble.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>ヘッドギア</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>アーティファクト</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>義肢</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>アルコテック</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>強化</BodyPartsBionic.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>生体</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>人造</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>粗末な義肢</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>ウルトラテック</BodyPartsUltra.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>建築物</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>絵画</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>家具</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>娯楽</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>その他</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>パワー</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>生産物</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>防衛</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>スペシャル</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>温度</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>塊</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>死骸</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>動物の死骸</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>ヒト型の死骸</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>虫の死骸</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>機械の残骸</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>ドラッグ</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>卵(有精卵)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>卵(無精卵)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>調理済</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>生食材</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>食物</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>投擲武器</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>ヘッドギア</Headgear.label>
+  
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>ヘッドギア</HeadgearNoble.label>
+  
+  <!-- EN: items -->
+  <Items.label>物品</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>革</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>加工品</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>生肉</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>薬</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>迫撃砲弾</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>ニューロトレイナー</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>サイコトレイナー</NeurotrainersPsycast.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>生野菜</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>植物原料</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>原材料</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>目次</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>石材</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>岩塊</StoneChunks.label>
+  
+  <!-- EN: techprints -->
+  <Techprints.label>techprints</Techprints.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>織物</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>未完成品</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>武器</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>白兵戦武器</WeaponsMelee.label>
+  
+  <!-- EN: bladelink weapons -->
+  <WeaponsMeleeBladelink.label>護り刀</WeaponsMeleeBladelink.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>遠距離武器</WeaponsRanged.label>
+  
 </LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off the [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+  -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[joiner_age]歳の[joiner_nameDef]と言う名の[joiner_title]が呼び出している. [joiner_pronoun]は,[enemyFaction_name]の[enemyFaction_pawnsPlural]に追われている!\n\n[joiner_pronoun]は,[map_definite]で,あなた達に加わるから身の安全を保証してほしいと懇願している.[joiner_relationInfo]\n\nあなたが承諾すれば,[joiner_possessive]後からやって来る [enemyFaction_pawnsPluralDef]と戦う羽目になるでしょう. [enemyFaction_pawnsPlural]の集団は,このような編成です: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef]は,死にものぐるいで,さらに情報を提供しています.</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [runnerIndef]</li>
+    <li>questName->The Salvation of [runnerIndef]</li>
+    <li>questName->Helping [runnerIndef]</li>
+    <li>questName->Accepting [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
+    <li>questName->[runnerIndef] on the Run</li>
+    <li>questName->[runnerIndef] Seeks a Home</li>
+    <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->a Refugee</li>
+  -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>questName->[runnerIndef]を救え</li>
+    <li>questName->[runnerIndef]の救済</li>
+    <li>questName->[runnerIndef]を助ける</li>
+    <li>questName->[runnerIndef]の身受け</li>
+    <li>questName->[runnerIndef]を追う[enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef]の明日はどっちだ</li>
+    <li>questName->故郷を探す[runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural]に追われる[runnerIndef]</li>
+    <li>questName->逃亡者[runnerIndef]と追跡者[enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->亡命者</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL} chasing [../joiner_nameDef]</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

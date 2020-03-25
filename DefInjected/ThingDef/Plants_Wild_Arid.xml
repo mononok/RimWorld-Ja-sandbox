@@ -1,18 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
-	<Plant_Agave.label>アガベ</Plant_Agave.label>
-	<Plant_Agave.description>葉の大きな砂漠の植物で,花と茎が食用となります.</Plant_Agave.description>
-
-	<Plant_PincushionCactus.label>丸サボテン</Plant_PincushionCactus.label>
-	<Plant_PincushionCactus.description>小さな丸い,針刺しのようなサボテン</Plant_PincushionCactus.description>
-
-	<!--============================ Wild - Cacti ============================-->
-	<Plant_SaguaroCactus.label>ベンケイチュウ</Plant_SaguaroCactus.label>
-	<Plant_SaguaroCactus.description>乾燥地帯に生まれつきの大型のサボテンです.樹木ではないのに,わずかに採れる繊維素材は樹木のように使うことができます.</Plant_SaguaroCactus.description>
-
-    <Plant_TreeDrago.label>リュウケツジュ</Plant_TreeDrago.label>
-    <Plant_TreeDrago.description>太い尖った葉を頂いた丈夫な砂漠の木です.</Plant_TreeDrago.description>
-
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>アガベ</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>葉の大きな砂漠の植物で,花と茎が食用となります.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>丸サボテン</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>小さな丸い,針刺しのようなサボテン</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>ベンケイチュウ</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>乾燥地帯に生まれつきの大型のサボテンです.樹木ではないのに,わずかに採れる繊維素材は樹木のように使うことができます.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>リュウケツジュ</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>太い尖った葉を頂いた丈夫な砂漠の木です.</Plant_TreeDrago.description>
+  
 </LanguageData>

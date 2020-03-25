@@ -1,23 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-<WorkTagNone>特になし</WorkTagNone>
-<WorkTagIntellectual>研究</WorkTagIntellectual>
-<WorkTagManualDumb>雑用</WorkTagManualDumb>
-<WorkTagManualSkilled>高度な作業</WorkTagManualSkilled>
-<WorkTagViolent>戦闘</WorkTagViolent>
-<WorkTagCaring>看護</WorkTagCaring>
-<WorkTagSocial>人付き合い</WorkTagSocial>
-<WorkTagAnimals>動物の世話</WorkTagAnimals>
-<WorkTagArtistic>アート</WorkTagArtistic>
-<WorkTagCrafting>工芸</WorkTagCrafting>
-<WorkTagCooking>料理</WorkTagCooking>
-<WorkTagFirefighting>消火</WorkTagFirefighting>
-<WorkTagCleaning>清掃</WorkTagCleaning>
-<WorkTagHauling>運搬</WorkTagHauling>
-<WorkTagPlantWork>農業</WorkTagPlantWork>
-<WorkTagMining>採掘</WorkTagMining>
-<WorkTagHunting>狩猟</WorkTagHunting>
-<WorkTagCommoner>一般作業</WorkTagCommoner>
+  <!-- EN: none -->
+  <WorkTagNone>特になし</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>研究</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>雑用</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>高度な作業</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>戦闘</WorkTagViolent>
+  <!-- EN: caring -->
+  <WorkTagCaring>看護</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>人付き合い</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>動物の世話</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>アート</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>工芸</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>料理</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>消火</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>清掃</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>運搬</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>農業</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>採掘</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>狩猟</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>一般作業</WorkTagCommoner>
 
 </LanguageData>

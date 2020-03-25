@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<WakeUp.label>ウェイクアップ</WakeUp.label>
-	<WakeUp.description>合成覚醒剤です.ウェイクアップは休息の欲求を解消し,疲労感を覚えることなく長時間の労働を可能にします.しかし繰り返し使用することで,知的活動を減退させ,精神崩壊まで招きかねない依存症を引き起こします.\n\n多くの惑星における競争の激しい大学や企業では,ときおり高い成果を上げている者がウェイクアップ依存症によって心を病んでしまうことが知られています.</WakeUp.description>
-    <WakeUp.ingestible.ingestCommandString>{0}を 飲む</WakeUp.ingestible.ingestCommandString>
-    <WakeUp.ingestible.ingestReportString>{0}を 飲んでいる</WakeUp.ingestible.ingestReportString>
-
+  
+  <!-- EN: wake-up -->
+  <WakeUp.label>ウェイクアップ</WakeUp.label>
+  <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, and allows users to work for extended periods without getting tired. However, repeated use will produce an addiction which reduces mental performance and can even generate psychotic breaks.\n\nIn the most competitive universities and companies of many worlds, high-flying achievers are known for occasionally breaking down into psychosis due to wake-up addiction. -->
+  <WakeUp.description>合成覚醒剤です.ウェイクアップは休息の欲求を解消し,疲労感を覚えることなく長時間の労働を可能にします.しかし繰り返し使用することで,知的活動を減退させ,精神崩壊まで招きかねない依存症を引き起こします.\n\n多くの惑星における競争の激しい大学や企業では,ときおり高い成果を上げている者がウェイクアップ依存症によって心を病んでしまうことが知られています.</WakeUp.description>
+  <!-- EN: Take {0} -->
+  <WakeUp.ingestible.ingestCommandString>{0}を 飲む</WakeUp.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <WakeUp.ingestible.ingestReportString>{0}を 飲んでいる</WakeUp.ingestible.ingestReportString>
+  
 </LanguageData>

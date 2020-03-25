@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>インフルエンザ</Animal_Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.description>インフルエンザウイルスが引き起こす感染症です.この菌株はヒト以外の種に感染するよう順応しています.</Animal_Flu.description>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>軽度</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>中度</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>重度</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>ペスト</Animal_Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.description>細菌が引き起こす感染症です.この菌株はヒト以外の種に感染するように順応しています.</Animal_Plague.description>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>軽度</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>中度</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>重度</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>重度</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>筋繊維 機械化症</FibrousMechanites.label>
+  <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
+  <FibrousMechanites.description>筋肉組織内部に半凝集性メカナイトが繊維状となって現れます.発症者の筋力が増強されますが激しい痛みを伴います.これはおそらく筋力増強メカナイトの変異種です.</FibrousMechanites.description>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>弱い痛み</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>激しい痛み</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>インフルエンザ</Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.description>インフルエンザウイルスが引き起こす感染症です.</Flu.description>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>軽度</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>中度</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>重度</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>回虫</GutWorms.label>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger. -->
+  <GutWorms.description>内蔵に生息する寄生虫です.嘔吐を引き起こします.宿主の食べた食物を横取りするので,宿主は空腹を訴えがちになります.</GutWorms.description>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>マラリア</Malaria.label>
+  <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
+  <Malaria.description>蚊が寄生虫を媒介して引き起こす感染症です.</Malaria.description>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>軽度</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>中度</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>重度</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>せん毛虫</MuscleParasites.label>
+  <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.description>筋肉組織内に生息する寄生虫です.筋力低下と身体の協調動作の欠如をもたらします.</MuscleParasites.description>
+  
+  <!-- EN: plague -->
+  <Plague.label>ペスト</Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.description>細菌が引き起こす感染症です.</Plague.description>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>軽度</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>中度</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>重度</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>重度</Plague.stages.extreme-1.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>感覚器 機械化症</SensoryMechanites.label>
+  <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
+  <SensoryMechanites.description>神経系内部に半凝集性メカナイトが潜伏しています.発症者の感覚が増強されますが激しい痛みを伴います.これはおそらく感覚増強メカナイトの変異種です.</SensoryMechanites.description>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>弱い痛み</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>激しい痛み</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>眠り病</SleepingSickness.label>
+  <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
+  <SleepingSickness.description>虫が寄生虫を媒介して引き起こす感染症です.眠り病は他の病気ほど致命的ではありませんが,ゆっくりと進行していきます.身体から感染を取り除くには長い時間を必要とします.</SleepingSickness.description>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>軽度</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>軽度</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>中度</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>重度</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>重度</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>傷からの感染症</WoundInfection.label>
+  <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
+  <WoundInfection.description>傷口への細菌感染です.治療せずにいると細菌は増殖し,傷口の組織を壊死させ,最終的には敗血症や死に至ります.\n\n人の戦いの長い歴史を通して,しばしば感染症は,その傷自体が原因よりも多くの命を奪ってきました.</WoundInfection.description>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>傷感染症</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>軽度</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>中度</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>重度</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>重度</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

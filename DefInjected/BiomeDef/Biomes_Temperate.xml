@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <TemperateForest.label>温帯森林</TemperateForest.label>
-    <TemperateForest.description>落葉樹の森が作り出した豊かな自然のなかに,肥沃な土地が点在しています.多くの種類の動物達が木々の間や草原を走り回っています.</TemperateForest.description>
-
-    <TemperateSwamp.label>温帯湿地</TemperateSwamp.label>
-    <TemperateSwamp.description>湿地は植物と病気で満ちています.濃く繁茂した植物は,移動を困難なものにし,建てる為に更地にする時間が長くかかります.大きな建物を建てるにはとてもぬかるんでいます.</TemperateSwamp.description>
-
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>温帯森林</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>落葉樹の森が作り出した豊かな自然のなかに,肥沃な土地が点在しています.多くの種類の動物達が木々の間や草原を走り回っています.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>温帯湿地</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>湿地は植物と病気で満ちています.濃く繁茂した植物は,移動を困難なものにし,建てる為に更地にする時間が長くかかります.大きな建物を建てるにはとてもぬかるんでいます.</TemperateSwamp.description>
+  
 </LanguageData>

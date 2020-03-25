@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>ゴージュース依存症</GoJuiceAddiction.label>
+  <!-- EN: A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GoJuiceAddiction.description>ゴージュースによる薬物中毒.長期間ゴージュースを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nゴージュースを定期的に摂らないと禁断症状が始まります.しかし長期間,ゴージュースを断つことで,脳を正常に機能させ依存症を解決できます.</GoJuiceAddiction.description>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>離脱症状</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>ゴージュースによる興奮状態</GoJuiceHigh.label>
+  <!-- EN: Go-Juice in the bloodstream. It supercharges combat-related abilities. -->
+  <GoJuiceHigh.description>血中にゴージュースが浸透しています.戦闘関連の能力がアップしています.</GoJuiceHigh.description>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>ゴージュース・ハイ</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
+  <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
+  <GoJuiceTolerance.description>ゴージュースに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのゴージュースが必要です.</GoJuiceTolerance.description>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small-0.label>小</GoJuiceTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small-1.label>小</GoJuiceTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>大</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>極大</GoJuiceTolerance.stages.massive.label>
+  
+</LanguageData>

@@ -1,15 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<ClockTime>時刻</ClockTime>
-	<ClockDate>日付</ClockDate>
-	<ClockYear>星歴</ClockYear>
-    <DateReadoutTip>惑星での生存日数: {0}\n現在の節: {4}\n季節: {2}\n一年は,それぞれが {3}日の４節に分けられます.１節はどこでも同じですが,季節は場所によって違います.\n\n節における季節:\n{5}</DateReadoutTip>
+  <!-- EN: Time -->
+  <ClockTime>時刻</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>日付</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>星歴</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>惑星での生存日数: {0}\n現在の節: {4}\n季節: {2}\n一年は,それぞれが {3}日の４節に分けられます.１節はどこでも同じですが,季節は場所によって違います.\n\n節における季節:\n{5}</DateReadoutTip>
 
-	<FullDate>{2}年 {1}節 {0}日</FullDate>
-    <ShortDate>{2}年 {1}節 {0}日</ShortDate>
-	<DateReadout>{2}年 {1}節 {0}日</DateReadout>
-	<SeasonFullDate>{1}節 {0}日</SeasonFullDate>
-	<WholeYear>一年中</WholeYear>
-
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{2}年 {1}節 {0}日</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{2}年 {1}節 {0}日</ShortDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{2}年 {1}節 {0}日</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{1}節 {0}日</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>一年中</WholeYear>
+  
 </LanguageData>

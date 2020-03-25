@@ -1,36 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Filth_Dirt.label>泥汚れ</Filth_Dirt.label>
-	<Filth_AnimalFilth.label>家畜の泥汚れ</Filth_AnimalFilth.label>
-
-<!--	<Filth_HumanFilth.label>手垢</Filth_HumanFilth.label> -->
-
-    <Filth_Trash.label>ゴミ</Filth_Trash.label>
-
-	<Filth_Sand.label>砂汚れ</Filth_Sand.label>
-
-	<Filth_RubbleRock.label>砂利</Filth_RubbleRock.label>
-
-	<Filth_RubbleBuilding.label>瓦礫</Filth_RubbleBuilding.label>
-
-	<SandbagRubble.label>くずれた土嚢</SandbagRubble.label>
-
-	<SlagRubble.label>撒かれたスラグ</SlagRubble.label>
-
-
-  <!--=================== Fluids etc =================-->
-	<Filth_Blood.label>血のり</Filth_Blood.label>
-	<Filth_BloodInsect.label>虫の体液</Filth_BloodInsect.label>
-	<Filth_MachineBits.label>切削クズ</Filth_MachineBits.label>
-	<Filth_AmnioticFluid.label>羊膜</Filth_AmnioticFluid.label>
-	<Filth_Slime.label>ぬめり</Filth_Slime.label>
-	<Filth_Vomit.label>ゲロ</Filth_Vomit.label>
-	<Filth_FireFoam.label>消火剤</Filth_FireFoam.label>
-	<Filth_Fuel.label>油膜</Filth_Fuel.label>
-	<Filth_Fuel.description>可燃性液体</Filth_Fuel.description>
-
-	<Filth_CorpseBile.label>死体から染みでた体液</Filth_CorpseBile.label>
-	<Filth_Ash.label>灰</Filth_Ash.label>
-
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>羊膜</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>家畜の泥汚れ</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>灰</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>血のり</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>虫の体液</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>死体から染みでた体液</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>泥汚れ</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>消火剤</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>油膜</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>可燃性液体</Filth_Fuel.description>
+  
+  <!-- EN: machine bits -->
+  <Filth_MachineBits.label>切削クズ</Filth_MachineBits.label>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>瓦礫</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>砂利</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>砂汚れ</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>ぬめり</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>ゴミ</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>ゲロ</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>くずれた土嚢</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>撒かれたスラグ</SlagRubble.label>
+  
 </LanguageData>

@@ -102,8 +102,10 @@
   <RenounceTitle>称号を放棄</RenounceTitle>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
-  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>これは{PAWN_nameDef}の称号 {TITLE}を失わせます.あなたは称号を放棄させても,なにも損害補償を受けません.\n次の影響があります:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>これは{PAWN_nameDef}の称号 {TITLE}を失わせます.あなたは称号を放棄させても,なにも損害補償を受けません.\n\n次の影響があります:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_possessive}は同意を失うでしょう.</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>身元不明</UnknownLower>
   <!-- EN: On -->

@@ -1,28 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Orders.label>命令</Orders.label>
-
-    <Zone.label>ゾーン</Zone.label>
-
-    <Structure.label>建築</Structure.label>
-
-    <Production.label>製造</Production.label>
-
-    <Furniture.label>家具</Furniture.label>
-
-    <Power.label>電力</Power.label>
-
-    <Security.label>防衛</Security.label>
-
-    <Misc.label>その他</Misc.label>
-
-    <Joy.label>娯楽</Joy.label>
-
-    <Floors.label>フロア</Floors.label>
-
-    <Ship.label>宇宙船</Ship.label>
-
-    <Temperature.label>冷暖房</Temperature.label>
-
+  
+  <!-- EN: floors -->
+  <Floors.label>フロア</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>家具</Furniture.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>娯楽</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>その他</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>命令</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>電力</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>製造</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>防衛</Security.label>
+  
+  <!-- EN: ship -->
+  <Ship.label>宇宙船</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>建築</Structure.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>冷暖房</Temperature.label>
+  
+  <!-- EN: zone -->
+  <Zone.label>ゾーン</Zone.label>
+  
 </LanguageData>

@@ -1,103 +1,163 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <KnowGuestExecuted.stages.justified_execution.label>死刑執行</KnowGuestExecuted.stages.justified_execution.label>
-    <KnowGuestExecuted.stages.justified_execution.description>有罪と認められる囚人,ゲストの死刑執行を行った.正当な行為だが,それでも悲しい.</KnowGuestExecuted.stages.justified_execution.description>
-    <KnowGuestExecuted.stages.someone_was_euthanized.label>誰かが安楽死させられた</KnowGuestExecuted.stages.someone_was_euthanized.label>
-    <KnowGuestExecuted.stages.someone_was_euthanized.description>犯罪者かゲストの誰かが安楽死させられた.それは,慈悲深い行為だが,それでもなお悲しい.</KnowGuestExecuted.stages.someone_was_euthanized.description>
-    <KnowGuestExecuted.stages.someone_was_executed.label>誰かが処刑された</KnowGuestExecuted.stages.someone_was_executed.label>
-    <KnowGuestExecuted.stages.someone_was_executed.description>犯罪者かゲストの誰かが平然と殺された.それは,ちょっと良くない気がする.</KnowGuestExecuted.stages.someone_was_executed.description>
-    <KnowGuestExecuted.stages.someone_was_organmurdered.label>誰かの臓器が抜かれた</KnowGuestExecuted.stages.someone_was_organmurdered.label>
-    <KnowGuestExecuted.stages.someone_was_organmurdered.description>犯罪者かゲストの誰かが死んだ,なぜならコロニーの連中が,彼の身体から臓器を取り出したからだ.おぞましい.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
-
-    <KnowColonistExecuted.stages.justified_execution_of_colonist.label>死刑執行(入植者)</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
-    <KnowColonistExecuted.stages.justified_execution_of_colonist.description>有罪と認められる入植者の死刑執行を行った.正当な行為だが,それでも悲しい.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
-    <KnowColonistExecuted.stages.colonist_euthanized.label>入植者が安楽死させられた</KnowColonistExecuted.stages.colonist_euthanized.label>
-    <KnowColonistExecuted.stages.colonist_euthanized.description>入植者が安楽死させられた.それは,慈悲深い行為だが,それでもなお悲しい.</KnowColonistExecuted.stages.colonist_euthanized.description>
-    <KnowColonistExecuted.stages.colonist_executed.label>入植者が処刑された</KnowColonistExecuted.stages.colonist_executed.label>
-    <KnowColonistExecuted.stages.colonist_executed.description>入植者が平然と殺された.それは,ちょっと良くない気がする.</KnowColonistExecuted.stages.colonist_executed.description>
-    <KnowColonistExecuted.stages.colonist_organharvested.label>入植者の臓器が抜かれた</KnowColonistExecuted.stages.colonist_organharvested.label>
-    <KnowColonistExecuted.stages.colonist_organharvested.description>入植者が死んだ,なぜならコロニーの連中が,彼の身体から臓器を取り出したからだ.おぞましい.</KnowColonistExecuted.stages.colonist_organharvested.description>
-
-	<KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>無実の囚人が死んだ</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
-	<KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>何も害がない囚人の一人が死んだ.残った囚人のケアをしなければならない.もし彼らを処刑するなら,少なくとも,野蛮な方法ではなく,整然ととりおこなわければならない.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
-
-	<KnowColonistDied.stages.colonist_died.label>入植者が死んだ</KnowColonistDied.stages.colonist_died.label>
-	<KnowColonistDied.stages.colonist_died.description>仲間のうちの一人が死んだ.残った仲間のケアをしなければならない.</KnowColonistDied.stages.colonist_died.description>
-
-	<!--===================== bonded animal died =====================-->
-
-	<BondedAnimalDied.stages.bonded_animal_died.label>絆で結ばれた家畜 {0}が死んだ</BondedAnimalDied.stages.bonded_animal_died.label>
-	<BondedAnimalDied.stages.bonded_animal_died.description>こんな優しい動物は他にはいない.この世は悪いことばかり!!</BondedAnimalDied.stages.bonded_animal_died.description>
-
-    <!--===================== friend/rival died =====================-->
-
-	<PawnWithGoodOpinionDied.stages.my_friend_died.label>私の親友 {0}が死んだ</PawnWithGoodOpinionDied.stages.my_friend_died.label>
-	<PawnWithGoodOpinionDied.stages.my_friend_died.description>あんな良い奴が死んでしまった,この世は日に日に闇に包まれていく.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
-
-	<PawnWithBadOpinionDied.stages.my_rival_died.label>私のライバル {0}が死んだ</PawnWithBadOpinionDied.stages.my_rival_died.label>
-	<PawnWithBadOpinionDied.stages.my_rival_died.description>ざまあみろ,少なくとも,この世界にも少しは正義がある.</PawnWithBadOpinionDied.stages.my_rival_died.description>
-
-    <!--===================== Family member died thoughts =====================-->
-
-	<MySonDied.stages.my_son_died.label>私の息子 {0}が死んだ</MySonDied.stages.my_son_died.label>
-	<MySonDied.stages.my_son_died.description>私の息子が死んだ.自分の血肉をわけた...</MySonDied.stages.my_son_died.description>
-
-    <MyDaughterDied.stages.my_daughter_died.label>私の娘 {0}が死んだ</MyDaughterDied.stages.my_daughter_died.label>
-	<MyDaughterDied.stages.my_daughter_died.description>私の娘が死んだ.自分の血肉をわけた...</MyDaughterDied.stages.my_daughter_died.description>
-
-	<MyHusbandDied.stages.my_husband_died.label>私の夫 {0}が死んだ</MyHusbandDied.stages.my_husband_died.label>
-	<MyHusbandDied.stages.my_husband_died.description>私の夫が死んだ.そして独りになった.</MyHusbandDied.stages.my_husband_died.description>
-
-	<MyWifeDied.stages.my_wife_died.label>私の妻 {0}が死んだ</MyWifeDied.stages.my_wife_died.label>
-	<MyWifeDied.stages.my_wife_died.description>私の妻が死んだ.そして独りになった.</MyWifeDied.stages.my_wife_died.description>
-
-	<MyFianceDied.stages.my_fiance_died.label>私の婚約者 {0}が死んだ</MyFianceDied.stages.my_fiance_died.label>
-	<MyFianceDied.stages.my_fiance_died.description>私の婚約者が死んだ.彼との未来は消え去ってしまった.</MyFianceDied.stages.my_fiance_died.description>
-
-	<MyFianceeDied.stages.my_fiance_died.label>私の婚約者 {0}が死んだ</MyFianceeDied.stages.my_fiance_died.label>
-	<MyFianceeDied.stages.my_fiance_died.description>私の婚約者が死んだ.彼女との未来は消え去ってしまった.</MyFianceeDied.stages.my_fiance_died.description>
-
-	<MyLoverDied.stages.my_lover_died.label>私の恋人 {0}が死んだ</MyLoverDied.stages.my_lover_died.label>
-	<MyLoverDied.stages.my_lover_died.description>恋人が死んで,独りになった.</MyLoverDied.stages.my_lover_died.description>
-
-	<MyBrotherDied.stages.my_brother_died.label>私の兄弟 {0}が死んだ</MyBrotherDied.stages.my_brother_died.label>
-	<MyBrotherDied.stages.my_brother_died.description>私の兄弟が死んだ.自分の血肉をわけた...</MyBrotherDied.stages.my_brother_died.description>
-
-	<MySisterDied.stages.my_sister_died.label>私の姉妹 {0}が死んだ</MySisterDied.stages.my_sister_died.label>
-	<MySisterDied.stages.my_sister_died.description>私の姉妹が死んだ.自分の血肉を分けた...</MySisterDied.stages.my_sister_died.description>
-
-	<MyFatherDied.stages.my_father_died.label>私の父 {0}が死んだ</MyFatherDied.stages.my_father_died.label>
-	<MyFatherDied.stages.my_father_died.description>私の父が死んだ.彼は永遠の彼方へいった</MyFatherDied.stages.my_father_died.description>
-
-	<MyMotherDied.stages.my_mother_died.label>私の母 {0}が死んだ</MyMotherDied.stages.my_mother_died.label>
-	<MyMotherDied.stages.my_mother_died.description>私の母が死んだ.彼女は永遠の彼方へいった</MyMotherDied.stages.my_mother_died.description>
-
-	<MyNieceDied.stages.my_niece_died.label>私の姪 {0}が死んだ</MyNieceDied.stages.my_niece_died.label>
-	<MyNieceDied.stages.my_niece_died.description>私の姪が死んだ.とても良い子だった.</MyNieceDied.stages.my_niece_died.description>
-
-	<MyNephewDied.stages.my_nephew_died.label>私の甥 {0}が死んだ</MyNephewDied.stages.my_nephew_died.label>
-	<MyNephewDied.stages.my_nephew_died.description>私の甥が死んだ.とても良い子だった.</MyNephewDied.stages.my_nephew_died.description>
-
-	<MyAuntDied.stages.my_aunt_died.label>私の叔母 {0}が死んだ</MyAuntDied.stages.my_aunt_died.label>
-	<MyAuntDied.stages.my_aunt_died.description>私の叔母が死んだ</MyAuntDied.stages.my_aunt_died.description>
-
-	<MyUncleDied.stages.my_uncle_died.label>私の叔父 {0}が死んだ</MyUncleDied.stages.my_uncle_died.label>
-	<MyUncleDied.stages.my_uncle_died.description>私の叔父が死んだ</MyUncleDied.stages.my_uncle_died.description>
-
-	<MyHalfSiblingDied.stages.my_halfsibling_died.label>異兄弟 {0}が死んだ</MyHalfSiblingDied.stages.my_halfsibling_died.label>
-	<MyHalfSiblingDied.stages.my_halfsibling_died.description>異兄弟が死んだ.自分の血肉を分けた...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
-
-	<MyGrandchildDied.stages.my_grandchild_died.label>私の孫 {0}が死んだ</MyGrandchildDied.stages.my_grandchild_died.label>
-	<MyGrandchildDied.stages.my_grandchild_died.description>私の孫が死んだ.自分の血肉を分けた...</MyGrandchildDied.stages.my_grandchild_died.description>
-
-	<MyGrandparentDied.stages.my_grandparent_died.label>私の祖父母 {0}が死んだ</MyGrandparentDied.stages.my_grandparent_died.label>
-	<MyGrandparentDied.stages.my_grandparent_died.description>私の祖父母が死んだ</MyGrandparentDied.stages.my_grandparent_died.description>
-
-	<MyCousinDied.stages.my_cousin_died.label>私のいとこ {0}が死んだ</MyCousinDied.stages.my_cousin_died.label>
-	<MyCousinDied.stages.my_cousin_died.description>私のいとこが死んだ.自分の血肉を分けた...</MyCousinDied.stages.my_cousin_died.description>
-
-	<MyKinDied.stages.my_kin_died.label>私の親族 {0}が死んだ</MyKinDied.stages.my_kin_died.label>
-	<MyKinDied.stages.my_kin_died.description>私の親族が死んだ</MyKinDied.stages.my_kin_died.description>
-
+  
+  <!-- EN: bonded animal {0} died -->
+  <BondedAnimalDied.stages.bonded_animal_died.label>絆で結ばれた家畜 {0}が死んだ</BondedAnimalDied.stages.bonded_animal_died.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalDied.stages.bonded_animal_died.description>こんな優しい動物は他にはいない.この世は悪いことばかり!!</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  <!-- EN: colonist died -->
+  <KnowColonistDied.stages.colonist_died.label>入植者が死んだ</KnowColonistDied.stages.colonist_died.label>
+  <!-- EN: One of our people died. We should be able to take care of our people. -->
+  <KnowColonistDied.stages.colonist_died.description>仲間のうちの一人が死んだ.残った仲間のケアをしなければならない.</KnowColonistDied.stages.colonist_died.description>
+  
+  <!-- EN: justified execution of colonist -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>死刑執行(入植者)</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>有罪と認められる入植者の死刑執行を行った.正当な行為だが,それでも悲しい.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <!-- EN: colonist euthanized -->
+  <KnowColonistExecuted.stages.colonist_euthanized.label>入植者が安楽死させられた</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
+  <KnowColonistExecuted.stages.colonist_euthanized.description>入植者が安楽死させられた.それは,慈悲深い行為だが,それでもなお悲しい.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <!-- EN: colonist executed -->
+  <KnowColonistExecuted.stages.colonist_executed.label>入植者が処刑された</KnowColonistExecuted.stages.colonist_executed.label>
+  <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
+  <KnowColonistExecuted.stages.colonist_executed.description>入植者が平然と殺された.それは,ちょっと良くない気がする.</KnowColonistExecuted.stages.colonist_executed.description>
+  <!-- EN: colonist organ-harvested -->
+  <KnowColonistExecuted.stages.colonist_organharvested.label>入植者の臓器が抜かれた</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_organharvested.description>入植者が死んだ,なぜならコロニーの連中が,彼の身体から臓器を取り出したからだ.おぞましい.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  
+  <!-- EN: justified execution -->
+  <KnowGuestExecuted.stages.justified_execution.label>死刑執行</KnowGuestExecuted.stages.justified_execution.label>
+  <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
+  <KnowGuestExecuted.stages.justified_execution.description>有罪と認められる囚人,ゲストの死刑執行を行った.正当な行為だが,それでも悲しい.</KnowGuestExecuted.stages.justified_execution.description>
+  <!-- EN: someone was euthanized -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>誰かが安楽死させられた</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>犯罪者かゲストの誰かが安楽死させられた.それは,慈悲深い行為だが,それでもなお悲しい.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <!-- EN: someone was executed -->
+  <KnowGuestExecuted.stages.someone_was_executed.label>誰かが処刑された</KnowGuestExecuted.stages.someone_was_executed.label>
+  <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
+  <KnowGuestExecuted.stages.someone_was_executed.description>犯罪者かゲストの誰かが平然と殺された.それは,ちょっと良くない気がする.</KnowGuestExecuted.stages.someone_was_executed.description>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>誰かの臓器が抜かれた</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>犯罪者かゲストの誰かが死んだ,なぜならコロニーの連中が,彼の身体から臓器を取り出したからだ.おぞましい.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  
+  <!-- EN: innocent prisoner died -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>無実の囚人が死んだ</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>何も害がない囚人の一人が死んだ.残った囚人のケアをしなければならない.もし彼らを処刑するなら,少なくとも,野蛮な方法ではなく,整然ととりおこなわければならない.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  <!-- EN: my aunt {0} died -->
+  <MyAuntDied.stages.my_aunt_died.label>私の叔母 {0}が死んだ</MyAuntDied.stages.my_aunt_died.label>
+  <!-- EN: My aunt died. -->
+  <MyAuntDied.stages.my_aunt_died.description>私の叔母が死んだ</MyAuntDied.stages.my_aunt_died.description>
+  
+  <!-- EN: my brother {0} died -->
+  <MyBrotherDied.stages.my_brother_died.label>私の兄弟 {0}が死んだ</MyBrotherDied.stages.my_brother_died.label>
+  <!-- EN: My brother died. My own flesh and blood... -->
+  <MyBrotherDied.stages.my_brother_died.description>私の兄弟が死んだ.自分の血肉をわけた...</MyBrotherDied.stages.my_brother_died.description>
+  
+  <!-- EN: my cousin {0} died -->
+  <MyCousinDied.stages.my_cousin_died.label>私のいとこ {0}が死んだ</MyCousinDied.stages.my_cousin_died.label>
+  <!-- EN: My cousin died. My own flesh and blood... -->
+  <MyCousinDied.stages.my_cousin_died.description>私のいとこが死んだ.自分の血肉を分けた...</MyCousinDied.stages.my_cousin_died.description>
+  
+  <!-- EN: my daughter {0} died -->
+  <MyDaughterDied.stages.my_daughter_died.label>私の娘 {0}が死んだ</MyDaughterDied.stages.my_daughter_died.label>
+  <!-- EN: My daughter is dead. My own flesh and blood... -->
+  <MyDaughterDied.stages.my_daughter_died.description>私の娘が死んだ.自分の血肉をわけた...</MyDaughterDied.stages.my_daughter_died.description>
+  
+  <!-- EN: my father {0} died -->
+  <MyFatherDied.stages.my_father_died.label>私の父 {0}が死んだ</MyFatherDied.stages.my_father_died.label>
+  <!-- EN: My father died. He's gone forever. -->
+  <MyFatherDied.stages.my_father_died.description>私の父が死んだ.彼は永遠の彼方へいった</MyFatherDied.stages.my_father_died.description>
+  
+  <!-- EN: my fiance {0} died -->
+  <MyFianceDied.stages.my_fiance_died.label>私の婚約者 {0}が死んだ</MyFianceDied.stages.my_fiance_died.label>
+  <!-- EN: My fiance died. Such a man... my future is gone. -->
+  <MyFianceDied.stages.my_fiance_died.description>私の婚約者が死んだ.彼との未来は消え去ってしまった.</MyFianceDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my fiancée {0} died -->
+  <MyFianceeDied.stages.my_fiance_died.label>私の婚約者 {0}が死んだ</MyFianceeDied.stages.my_fiance_died.label>
+  <!-- EN: My fiancée died. Such a woman... my future is gone. -->
+  <MyFianceeDied.stages.my_fiance_died.description>私の婚約者が死んだ.彼女との未来は消え去ってしまった.</MyFianceeDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my grandchild {0} died -->
+  <MyGrandchildDied.stages.my_grandchild_died.label>私の孫 {0}が死んだ</MyGrandchildDied.stages.my_grandchild_died.label>
+  <!-- EN: My grandchild died. My own flesh and blood... -->
+  <MyGrandchildDied.stages.my_grandchild_died.description>私の孫が死んだ.自分の血肉を分けた...</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  <!-- EN: my grandparent {0} died -->
+  <MyGrandparentDied.stages.my_grandparent_died.label>私の祖父母 {0}が死んだ</MyGrandparentDied.stages.my_grandparent_died.label>
+  <!-- EN: My grandparent died. -->
+  <MyGrandparentDied.stages.my_grandparent_died.description>私の祖父母が死んだ</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  <!-- EN: my half-sibling {0} died -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>異兄弟 {0}が死んだ</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <!-- EN: My half-sibling died. My own flesh and blood... -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>異兄弟が死んだ.自分の血肉を分けた...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  <!-- EN: my husband {0} died -->
+  <MyHusbandDied.stages.my_husband_died.label>私の夫 {0}が死んだ</MyHusbandDied.stages.my_husband_died.label>
+  <!-- EN: My husband is dead. I am alone. -->
+  <MyHusbandDied.stages.my_husband_died.description>私の夫が死んだ.そして独りになった.</MyHusbandDied.stages.my_husband_died.description>
+  
+  <!-- EN: my kin {0} died -->
+  <MyKinDied.stages.my_kin_died.label>私の親族 {0}が死んだ</MyKinDied.stages.my_kin_died.label>
+  <!-- EN: My kin died. -->
+  <MyKinDied.stages.my_kin_died.description>私の親族が死んだ</MyKinDied.stages.my_kin_died.description>
+  
+  <!-- EN: my lover {0} died -->
+  <MyLoverDied.stages.my_lover_died.label>私の恋人 {0}が死んだ</MyLoverDied.stages.my_lover_died.label>
+  <!-- EN: My lover died. I am so alone. -->
+  <MyLoverDied.stages.my_lover_died.description>恋人が死んで,独りになった.</MyLoverDied.stages.my_lover_died.description>
+  
+  <!-- EN: my mother {0} died -->
+  <MyMotherDied.stages.my_mother_died.label>私の母 {0}が死んだ</MyMotherDied.stages.my_mother_died.label>
+  <!-- EN: My mother died. She's gone forever. -->
+  <MyMotherDied.stages.my_mother_died.description>私の母が死んだ.彼女は永遠の彼方へいった</MyMotherDied.stages.my_mother_died.description>
+  
+  <!-- EN: my nephew {0} died -->
+  <MyNephewDied.stages.my_nephew_died.label>私の甥 {0}が死んだ</MyNephewDied.stages.my_nephew_died.label>
+  <!-- EN: My nephew died. Such a wonderful child. -->
+  <MyNephewDied.stages.my_nephew_died.description>私の甥が死んだ.とても良い子だった.</MyNephewDied.stages.my_nephew_died.description>
+  
+  <!-- EN: my niece {0} died -->
+  <MyNieceDied.stages.my_niece_died.label>私の姪 {0}が死んだ</MyNieceDied.stages.my_niece_died.label>
+  <!-- EN: My niece died. Such a wonderful child. -->
+  <MyNieceDied.stages.my_niece_died.description>私の姪が死んだ.とても良い子だった.</MyNieceDied.stages.my_niece_died.description>
+  
+  <!-- EN: my sister {0} died -->
+  <MySisterDied.stages.my_sister_died.label>私の姉妹 {0}が死んだ</MySisterDied.stages.my_sister_died.label>
+  <!-- EN: My sister died. My own flesh and blood... -->
+  <MySisterDied.stages.my_sister_died.description>私の姉妹が死んだ.自分の血肉を分けた...</MySisterDied.stages.my_sister_died.description>
+  
+  <!-- EN: my son {0} died -->
+  <MySonDied.stages.my_son_died.label>私の息子 {0}が死んだ</MySonDied.stages.my_son_died.label>
+  <!-- EN: My son is dead. My own flesh and blood... -->
+  <MySonDied.stages.my_son_died.description>私の息子が死んだ.自分の血肉をわけた...</MySonDied.stages.my_son_died.description>
+  
+  <!-- EN: my uncle {0} died -->
+  <MyUncleDied.stages.my_uncle_died.label>私の叔父 {0}が死んだ</MyUncleDied.stages.my_uncle_died.label>
+  <!-- EN: My uncle died. -->
+  <MyUncleDied.stages.my_uncle_died.description>私の叔父が死んだ</MyUncleDied.stages.my_uncle_died.description>
+  
+  <!-- EN: my wife {0} died -->
+  <MyWifeDied.stages.my_wife_died.label>私の妻 {0}が死んだ</MyWifeDied.stages.my_wife_died.label>
+  <!-- EN: My wife is dead. I am alone. -->
+  <MyWifeDied.stages.my_wife_died.description>私の妻が死んだ.そして独りになった.</MyWifeDied.stages.my_wife_died.description>
+  
+  <!-- EN: my rival {0} died -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>私のライバル {0}が死んだ</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>ざまあみろ,少なくとも,この世界にも少しは正義がある.</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  <!-- EN: my friend {0} died -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>私の親友 {0}が死んだ</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>あんな良い奴が死んでしまった,この世は日に日に闇に包まれていく.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
 </LanguageData>

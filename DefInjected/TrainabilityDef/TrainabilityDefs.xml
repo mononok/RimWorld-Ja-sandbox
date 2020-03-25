@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<None.label>無し</None.label>
-	<Simple.label>単純</Simple.label>
-	<Intermediate.label>中級</Intermediate.label>
-	<Advanced.label>上級</Advanced.label>
-
+  
+  <!-- EN: advanced -->
+  <Advanced.label>上級</Advanced.label>
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>中級</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>無し</None.label>
+  
+  <!-- EN: simple -->
+  <Simple.label>単純</Simple.label>
+  
 </LanguageData>

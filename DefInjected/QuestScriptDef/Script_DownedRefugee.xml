@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef] contacts you and requests help. [refugee_pronoun] is wounded and unable to move.\n\n[refugee_nameDef] is a [refugee_age]-year-old [refugee_title]. [refugee_pronoun] promises to join you if you rescue [refugee_objective].\n\n[refugee_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] friend has been wounded while traveling. The victim is [refugee_nameIndef], a [refugee_age]-year-old [refugee_title].\n\n[asker_nameDef] has nobody to spare to rescue [refugee_nameDef], but says that if you can make it to [refugee_nameDef]'s position and rescue [refugee_objective], [refugee_pronoun] will join you.\n\n[asker_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-></li>
+  -->
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <!-- No asker -->
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef]は助けを求めています. [refugee_pronoun]がケガをして動けません.\n\n[refugee_nameDef]は [refugee_age]歳の [refugee_title]です. もし[refugee_objective]を助けてくれれば,[refugee_pronoun]はあなたに加わると約束しています.\n\n[refugee_nameDef]は [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo] とも言っています.</li>
+    <!-- Faction leader asker -->
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle], [asker_nameDef]は, [asker_possessive]友人が旅行中にケガをしたと言っています. ケガを負ったのは[refugee_nameIndef]で,[refugee_age]歳の [refugee_title]です.\n\n[asker_nameDef]には[refugee_nameDef]を救う余裕が無く,もしあなたが[refugee_nameDef]の所まで行って,[refugee_objective]を助ければ,きっと[refugee_pronoun]は,あなたに加わるだろうと言っています.\n\n[asker_nameDef]は, [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo] とも言っています.</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-></li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [refugee_nameDef]</li>
+    <li>questName->The Rescue of [refugee_nameDef]</li>
+    <li>questName->[refugee_nameDef]'s Rescue</li>
+    <li>questName->[refugee_nameDef]'s Salvation</li>
+  -->
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>questName->[refugee_nameDef]を救え</li>
+    <li>questName->[refugee_nameDef]の救出</li>
+    <li>questName->レスキュー [refugee_nameDef]</li>
+    <li>questName->[refugee_nameDef]に救いの手を</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[refugee_nameDef]のシグナルが消え, もう[refugee_pronoun]を救うことが出来なくなった. クエスト [resolvedQuestName] は期限が切れた.</OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

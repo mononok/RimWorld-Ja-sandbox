@@ -1,20 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<CremateCorpse.label>火葬にする</CremateCorpse.label>
-    <CremateCorpse.description>遺体を荼毘に付します.</CremateCorpse.description>
-    <CremateCorpse.jobString>火葬中</CremateCorpse.jobString>
-
-	<BurnApparel.label>衣服を焼却する</BurnApparel.label>
-    <BurnApparel.description>不要な衣服を完全に焼却します.</BurnApparel.description>
-    <BurnApparel.jobString>衣服を焼却中</BurnApparel.jobString>
-
-	<BurnDrugs.label>ドラッグを焼却する</BurnDrugs.label>
-	<BurnDrugs.description>不要なドラッグを完全に焼却します.</BurnDrugs.description>
-	<BurnDrugs.jobString>ドラッグを焼却中</BurnDrugs.jobString>
-
-    <BurnWeapon.label>武器を焼却する</BurnWeapon.label>
-    <BurnWeapon.description>必要のない武器を完全に焼却します.</BurnWeapon.description>
-    <BurnWeapon.jobString>武器を焼却中</BurnWeapon.jobString>
-
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>衣服を焼却する</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>不要な衣服を完全に焼却します.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>衣服を焼却中</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>ドラッグを焼却する</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>不要なドラッグを完全に焼却します.</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>ドラッグを焼却中</BurnDrugs.jobString>
+  
+  <!-- EN: burn weapon -->
+  <BurnWeapon.label>武器を焼却する</BurnWeapon.label>
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <BurnWeapon.description>必要のない武器を完全に焼却します.</BurnWeapon.description>
+  <!-- EN: Burning weapon. -->
+  <BurnWeapon.jobString>武器を焼却中</BurnWeapon.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>火葬にする</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>遺体を荼毘に付します.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>火葬中</CremateCorpse.jobString>
+  
 </LanguageData>

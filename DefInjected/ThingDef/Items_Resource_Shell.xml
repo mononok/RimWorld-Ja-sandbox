@@ -1,28 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Bullet_Shell_HighExplosive.label>高性能炸薬弾</Bullet_Shell_HighExplosive.label>
-<!--
-    <Shell_HighExplosive.label>high-explosive shell</Shell_HighExplosive.label>
-    <Shell_HighExplosive.description>A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_HighExplosive.description>
--->
-
-    <Bullet_Shell_Incendiary.label>焼夷弾</Bullet_Shell_Incendiary.label>
-    <Shell_Incendiary.label>焼夷弾</Shell_Incendiary.label>
-    <Shell_Incendiary.description>満たされた可燃性のゲルと信管からなる装弾です.起爆されれば燃焼を開始します.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_Incendiary.description>
-
-    <Bullet_Shell_EMP.label>EMP弾</Bullet_Shell_EMP.label>
-    <Shell_EMP.label>EMP弾</Shell_EMP.label>
-    <Shell_EMP.description>起爆された時に電磁パルスを発生するように,バッテリーとアンテナが詰め込まれた装弾です.電磁波パルスが一時的に電子回路を使用不能にします.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_EMP.description>
-
-  <!-- Firefoam -->
-    <Shell_Firefoam.label>消火剤弾</Shell_Firefoam.label>
-    <Shell_Firefoam.description>消火剤を加圧充填した装弾です.迫撃砲弾やトラップに装填します.ダメージを受ければ爆発します.</Shell_Firefoam.description>
-
-    <Bullet_Shell_Firefoam.label>消火剤弾</Bullet_Shell_Firefoam.label>
-
-    <Shell_AntigrainWarhead.label>反物質弾</Shell_AntigrainWarhead.label>
-    <Shell_AntigrainWarhead.description>反物質粒子を使ったウルトラテック弾頭です.通常は,Gliterworldの戦闘マシーンや,宇宙船で使われます,その巨大な爆発でターゲット付近を焼き尽くします.迫撃砲として発射されるか,罠として設置されます.ダメージを受けると爆発します.</Shell_AntigrainWarhead.description>
-    <Bullet_Shell_AntigrainWarhead.label>反物質弾</Bullet_Shell_AntigrainWarhead.label>
-
+  
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>反物質弾</Bullet_Shell_AntigrainWarhead.label>
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>EMP弾</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>消火剤弾</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>高性能炸薬弾</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>焼夷弾</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>反物質弾</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>反物質粒子を使ったウルトラテック弾頭です.通常は,Gliterworldの戦闘マシーンや,宇宙船で使われます,その巨大な爆発でターゲット付近を焼き尽くします.迫撃砲として発射されるか,罠として設置されます.ダメージを受けると爆発します.</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>EMP弾</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>起爆された時に電磁パルスを発生するように,バッテリーとアンテナが詰め込まれた装弾です.電磁波パルスが一時的に電子回路を使用不能にします.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>消火剤弾</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>消火剤を加圧充填した装弾です.迫撃砲弾やトラップに装填します.ダメージを受ければ爆発します.</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>迫撃砲弾</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>迫撃砲の砲弾です.</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>焼夷弾</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>満たされた可燃性のゲルと信管からなる装弾です.起爆されれば燃焼を開始します.迫撃砲弾やトラップに装填して発火させます.ダメージを受ければ爆発します.</Shell_Incendiary.description>
+  
 </LanguageData>

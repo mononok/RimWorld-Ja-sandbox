@@ -1,19 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <MoodOffsetSanguine.stages.sanguine.label>陽気な性格</MoodOffsetSanguine.stages.sanguine.label>
-    <MoodOffsetSanguine.stages.sanguine.description>陽気な性格がもたらすボーナス</MoodOffsetSanguine.stages.sanguine.description>
-
-    <MoodOffsetOptimist.stages.optimist.label>楽天家</MoodOffsetOptimist.stages.optimist.label>
-    <MoodOffsetOptimist.stages.optimist.description>楽天家の資質がもたらすボーナス</MoodOffsetOptimist.stages.optimist.description>
-
-    <MoodOffsetPessimist.stages.pessimist.label>悲観主義者</MoodOffsetPessimist.stages.pessimist.label>
-    <MoodOffsetPessimist.stages.pessimist.description>悲観主義な資質がもたらすペナルティ</MoodOffsetPessimist.stages.pessimist.description>
-
-    <MoodOffsetDepressive.stages.depressive.label>抑うつ病者</MoodOffsetDepressive.stages.depressive.label>
-    <MoodOffsetDepressive.stages.depressive.description>抑うつ病者の資質がもたらすペナルティ</MoodOffsetDepressive.stages.depressive.description>
-
-    <MoodOffsetTorturedArtist.stages.Tortured_artist.label>歪んだ芸術家</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
-    <MoodOffsetTorturedArtist.stages.Tortured_artist.description>歪んだ芸術家の脂質がもたらすペナルティ</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
-
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>抑うつ病者</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>抑うつ病者の資質がもたらすペナルティ</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>楽天家</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>楽天家の資質がもたらすボーナス</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>悲観主義者</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>悲観主義な資質がもたらすペナルティ</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>陽気な性格</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>陽気な性格がもたらすボーナス</MoodOffsetSanguine.stages.sanguine.description>
+  
+  <!-- EN: Tortured artist -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>歪んだ芸術家</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <!-- EN: Natural penalty from 'tortured artist' trait. -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>歪んだ芸術家の脂質がもたらすペナルティ</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+  
 </LanguageData>

@@ -1,118 +1,146 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!--============================== Beds ==============================-->
-	<SleepingSpot.label>寝床</SleepingSpot.label>
-	<SleepingSpot.description>人が寝る場所を,地面の上に指示します.寝心地は良くはありません.</SleepingSpot.description>
-
-	<DoubleSleepingSpot.label>二人用寝床</DoubleSleepingSpot.label>
-	<DoubleSleepingSpot.description>二人分の寝る場所を,地面の上に指示します.寝心地は良くはありません.</DoubleSleepingSpot.description>
-
-	<Bed.label>ベッド</Bed.label>
-	<Bed.description>フレームの上に心地よいマットレスとシーツが掛けてある,休息する為のベッドです.</Bed.description>
-	<Blueprint_Install_Bed.label>ベッド(移動先)</Blueprint_Install_Bed.label>
-
-	<DoubleBed.label>ダブルベッド</DoubleBed.label>
-	<DoubleBed.description>シンプルで,二人で寝るにはちょうど良いダブルベッドです.</DoubleBed.description>
-	<Blueprint_Install_DoubleBed.label>ダブルベッド(移動先)</Blueprint_Install_DoubleBed.label>
-
-	<RoyalBed.label>豪華なベッド</RoyalBed.label>
-	<RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです.非常に快適で美しく,それ自体が工芸品です.二人で寝るのにぴったりです.</RoyalBed.description>
-	<Blueprint_Install_RoyalBed.label>豪華なベッド(移動先)</Blueprint_Install_RoyalBed.label>
-
-	<HospitalBed.label>病院用ベッド</HospitalBed.label>
-	<HospitalBed.description>病院で使うために特別に設計されたベッドです.患者に合わせて調整可能で,組み込まれた各種機能で飾られています.普通のベッドよりも医療成果が改善されています.</HospitalBed.description>
-	<Blueprint_Install_HospitalBed.label>病院用ベッド(移動先)</Blueprint_Install_HospitalBed.label>
-
-    <Bedroll.label>寝袋</Bedroll.label>
-    <Bedroll.description>地面に置く簡素な寝袋です.大抵は布や革で作られ,毛皮で裏打ちされています.とても軽く,簡単に持ち運びできるよう巻くことができますが,普通のベッドのような快適さはありません.\nキャラバン隊は寝袋を使って旅のあいだ質の良い睡眠を取ることができます.</Bedroll.description>
-	<Blueprint_Install_Bedroll.label>寝袋(移動先)</Blueprint_Install_Bedroll.label>
-
-    <BedrollDouble.label>ダブルの寝袋</BedrollDouble.label>
-    <BedrollDouble.description>地面に置く簡素なダブルサイズの寝袋です.大抵は布や革で作られ,毛皮で裏打ちされています.とても軽く,簡単に持ち運びできるよう巻くことができますが,普通のベッドのような快適さはありません.\nキャラバン隊は寝袋を使って旅のあいだ質の良い睡眠を取ることができます.</BedrollDouble.description>
-	<Blueprint_Install_BedrollDouble.label>ダブルの寝袋(移動先)</Blueprint_Install_BedrollDouble.label>
-
-    <!--=========================== Animal beds ===============================-->
-    <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
-	<AnimalSleepingSpot.description>家畜の寝床を指示します.</AnimalSleepingSpot.description>
-
-	<AnimalSleepingBox.label>家畜小屋</AnimalSleepingBox.label>
-	<AnimalSleepingBox.description>家畜が寝るための小さな小屋です.ニワトリやネコ,小さなイヌなどに,ぴったりです.</AnimalSleepingBox.description>
-	<Blueprint_Install_AnimalSleepingBox.label>家畜小屋(移動先)</Blueprint_Install_AnimalSleepingBox.label>
-
-	<AnimalBed.label>家畜用ベッド</AnimalBed.label>
-	<AnimalBed.description>全ての家畜にぴったりな,家畜が寝るためのベッドです.</AnimalBed.description>
-	<Blueprint_Install_AnimalBed.label>家畜用ベッド(移動先)</Blueprint_Install_AnimalBed.label>
-
-	<!--======================= Basic domestic furniture ==============================-->
-	<Stool.label>スツール</Stool.label>
-	<Stool.description>座るだけのシンプルな骨格です.とても快適とは言えませんが,何もないよりはマシです.テーブル,作業机などと使います.</Stool.description>
-	<Blueprint_Install_Stool.label>スツール(移動先)</Blueprint_Install_Stool.label>
-
-	<DiningChair.label>ダイニング チェア</DiningChair.label>
-	<DiningChair.description>快適で見栄えがいいイスです.テーブル,作業机などと使います.</DiningChair.description>
-	<Blueprint_Install_DiningChair.label>ダイニング チェア(移動先)</Blueprint_Install_DiningChair.label>
-
-	<Armchair.label>アームチェア</Armchair.label>
-	<Armchair.description>大きく,柔らかい,快適な座り心地.非常にリラックスできる.テーブル,作業机などと使います.</Armchair.description>
-	<Blueprint_Install_Armchair.label>アームチェア(移動先)</Blueprint_Install_Armchair.label>
-
-	<!--======================= Tables ==============================-->
-	<EndTable.label>エンドテーブル</EndTable.label>
-	<EndTable.description>小型のベッドサイドテーブルです.近くにあるベッドをちょっとだけ快適にさせます.それらの頭部分の横に直接置かなければなりません.同じベッドに一つより多くのエンドテーブルを置いても効果はありません.</EndTable.description>
-	<Blueprint_Install_EndTable.label>エンドテーブル(移動先)</Blueprint_Install_EndTable.label>
-
-
-	<Table1x2c.label>テーブル(1x2)</Table1x2c.label>
-	<Table1x2c.description>イスを向き合うように配置すると,ここで食事を摂るようになります.</Table1x2c.description>
-	<Blueprint_Install_Table1x2c.label>テーブル(1x2)(移動先)</Blueprint_Install_Table1x2c.label>
-
-	<Table3x3c.label>テーブル(3x3)</Table3x3c.label>
-	<Table3x3c.description>イスを向き合うように配置すると,ここで食事を摂るようになります.</Table3x3c.description>
-	<Blueprint_Install_Table3x3c.label>テーブル(3x3)(移動先)</Blueprint_Install_Table3x3c.label>
-
-	<Table2x2c.label>テーブル(2x2)</Table2x2c.label>
-	<Table2x2c.description>椅子をテーブルに向けて配置すると,人々はそこで食事を摂るようになります.</Table2x2c.description>
-
-	<Table2x4c.label>テーブル(2x4)</Table2x4c.label>
-	<Table2x4c.description>椅子をテーブルに向けて配置すると,人々はそこで食事を摂るようになります.</Table2x4c.description>
-
-	<PlantPot.label>植木鉢</PlantPot.label>
-	<PlantPot.description>花や植物を飾ると,そばにいる人の気分が,良くなります.</PlantPot.description>
-	<Blueprint_Install_PlantPot.label>植木鉢(移動先)</Blueprint_Install_PlantPot.label>
-
-	<!-- ======================== Lighting ======================= -->
-	<TorchLamp.label>トーチランプ</TorchLamp.label>
-	<TorchLamp.description>木製のトーチランプが辺りを照らします.木があれば自動的に燃料補給できます.少しの熱しか産出しません.</TorchLamp.description>
-
-	<StandingLamp.label>電気スタンド</StandingLamp.label>
-	<StandingLamp.description>辺りを照らします.</StandingLamp.description>
-	<Blueprint_Install_StandingLamp.label>電気スタンド(移動先)</Blueprint_Install_StandingLamp.label>
-
-	<StandingLamp_Red.label>電気スタンド(赤色)</StandingLamp_Red.label>
-	<StandingLamp_Red.description>辺りを赤く照らします.</StandingLamp_Red.description>
-	<Blueprint_Install_StandingLamp_Red.label>電気スタンド(赤色)(移動先)</Blueprint_Install_StandingLamp_Red.label>
-
-	<StandingLamp_Green.label>電気スタンド(緑)</StandingLamp_Green.label>
-	<StandingLamp_Green.description>辺りを緑に照らします.</StandingLamp_Green.description>
-	<Blueprint_Install_StandingLamp_Green.label>電気スタンド(緑)(移動先)</Blueprint_Install_StandingLamp_Green.label>
-
-	<StandingLamp_Blue.label>電気スタンド(青)</StandingLamp_Blue.label>
-	<StandingLamp_Blue.description>辺りを青く照らします.</StandingLamp_Blue.description>
-	<Blueprint_Install_StandingLamp_Blue.label>電気スタンド(青)(移動先)</Blueprint_Install_StandingLamp_Blue.label>
-
-	<SunLamp.label>太陽灯</SunLamp.label>
-	<Blueprint_Install_SunLamp.label>太陽灯(移動先)</Blueprint_Install_SunLamp.label>
-	<SunLamp.description>植物が生育するのに十分な光で辺りを照らします.夜になると自動的に消灯します.</SunLamp.description>
-	<SunLamp.comps.CompSchedule.offMessage>植物が成長しない時間帯は消灯</SunLamp.comps.CompSchedule.offMessage>
-
-	<!--============================== Storage ==============================-->
-	<Shelf.label>ロッカー</Shelf.label>
-	<Blueprint_Install_Shelf.label>ロッカー(移動先)</Blueprint_Install_Shelf.label>
-	<Shelf.description>この中に保存されたアイテムは,ロッカーが外気に触れていても劣化しません.</Shelf.description>
-
-	<Dresser.label>タンス</Dresser.label>
-	<Blueprint_Install_Dresser.label>タンス(移動先)</Blueprint_Install_Dresser.label>
-	<Dresser.description>どのベッドでもそばに置くことで僅かな快適性ボーナスを与えてくれます.同じベッドに一つより多くのタンスを置いても効果はありません.</Dresser.description>
-
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>家畜用ベッド</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>全ての家畜にぴったりな,家畜が寝るためのベッドです.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>家畜小屋</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>家畜が寝るための小さな小屋です.ニワトリやネコ,小さなイヌなどに,ぴったりです.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>家畜の寝床</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>家畜の寝床を指示します.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>アームチェア</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>大きく,柔らかい,快適な座り心地.非常にリラックスできる.テーブル,作業机などと使います.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>ベッド</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>フレームの上に心地よいマットレスとシーツが掛けてある,休息する為のベッドです.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>寝袋</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>地面に置く簡素な寝袋です.大抵は布や革で作られ,毛皮で裏打ちされています.とても軽く,簡単に持ち運びできるよう巻くことができますが,普通のベッドのような快適さはありません.\nキャラバン隊は寝袋を使って旅のあいだ質の良い睡眠を取ることができます.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>ダブルの寝袋</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>地面に置く簡素なダブルサイズの寝袋です.大抵は布や革で作られ,毛皮で裏打ちされています.とても軽く,簡単に持ち運びできるよう巻くことができますが,普通のベッドのような快適さはありません.\nキャラバン隊は寝袋を使って旅のあいだ質の良い睡眠を取ることができます.</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>ダイニング チェア</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>快適で見栄えがいいイスです.テーブル,作業机などと使います.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>ダブルベッド</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>シンプルで,二人で寝るにはちょうど良いダブルベッドです.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>二人用寝床</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>二人分の寝る場所を,地面の上に指示します.寝心地は良くはありません.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>タンス</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>どのベッドでもそばに置くことで僅かな快適性ボーナスを与えてくれます.同じベッドに一つより多くのタンスを置いても効果はありません.</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>エンドテーブル</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>小型のベッドサイドテーブルです.近くにあるベッドをちょっとだけ快適にさせます.それらの頭部分の横に直接置かなければなりません.同じベッドに一つより多くのエンドテーブルを置いても効果はありません.</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>病院用ベッド</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>病院で使うために特別に設計されたベッドです.患者に合わせて調整可能で,組み込まれた各種機能で飾られています.普通のベッドよりも医療成果が改善されています.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>植木鉢</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>花や植物を飾ると,そばにいる人の気分が,良くなります.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>豪華なベッド</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>高貴な生まれの方にピッタリの豪華な金がちりばめられたベッドです.非常に快適で美しく,それ自体が工芸品です.二人で寝るのにぴったりです.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>ロッカー</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <Shelf.description>この中に保存されたアイテムは,ロッカーが外気に触れていても劣化しません.</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>寝床</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>人が寝る場所を,地面の上に指示します.寝心地は良くはありません.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>電気スタンド</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>辺りを照らします.</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>電気スタンド(青)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>辺りを青く照らします.</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>電気スタンド(緑)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>辺りを緑に照らします.</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>電気スタンド(赤色)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>辺りを赤く照らします.</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>スツール</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>座るだけのシンプルな骨格です.とても快適とは言えませんが,何もないよりはマシです.テーブル,作業机などと使います.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>太陽灯</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>植物が生育するのに十分な光で辺りを照らします.夜になると自動的に消灯します.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>植物が成長しない時間帯は消灯</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>テーブル(1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>イスを向き合うように配置すると,ここで食事を摂るようになります.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>テーブル(2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>椅子をテーブルに向けて配置すると,人々はそこで食事を摂るようになります.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>テーブル(2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>椅子をテーブルに向けて配置すると,人々はそこで食事を摂るようになります.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>テーブル(3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>イスを向き合うように配置すると,ここで食事を摂るようになります.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>トーチランプ</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>木製のトーチランプが辺りを照らします.木があれば自動的に燃料補給できます.少しの熱しか産出しません.</TorchLamp.description>
+  
 </LanguageData>

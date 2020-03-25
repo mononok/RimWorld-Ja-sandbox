@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>拉致監禁による関係悪化</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
+  <ArrestingCreatesEnemies.helpText>【警告】あなたが,他人を拘束しようとするなら,穏やかには済まなくなるでしょう.\n\n入植者ではない者を拘束した場合,彼らはあなたの敵対派閥になります.</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>コロニー最大数</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>【警告】: Rimworldは,一度にひとつのコロニーで遊べるようにデザインされました.複数のコロニーを持つことも可能ですが,これはゲーム全体のアンバランスとパフォーマンス低下を引き起こすと思われます.私達は,少なくとも最初は一つのコロニーでゲームすることをお勧めします.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>スイッチ操作</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>【ノート】入植者達だけがスイッチを入り切りできます.\n\n(作業種別"雑用"を与えられた)入植者が手で直接スイッチを切り替えるまで何も起こりません.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>星間貿易</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>軌道上の貿易商人と取引するには,備蓄ゾーンのそばに"貿易ビーコン"の建造が必要不可欠です.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>交易許可証が必要</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>ここで商売するには{0}の爵位が必要です.\n\nあなたが送り出すキャラバン隊を,確かなものにするためには{0}以上の称号を持つ者を含めます.</TradingRequiresPermit.helpText>
+  
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>食肉加工・収率</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>食肉加工後にできる食肉の量です.実際の肉の量は,生物の体格にも関係があります.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>食肉加工・速度</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>食肉加工する速度です.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid disassembly efficiency -->
+  <ButcheryMechanoidEfficiency.label>メカノイド・解体収率</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>メカノイドを解体する時に得られる収量です.実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid disassembly speed -->
+  <ButcheryMechanoidSpeed.label>メカノイド・解体速度</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
+  <ButcheryMechanoidSpeed.description>メカノイドを解体する速度です.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>調理・速度</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>食事を作る速度です.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>ドラッグ・速度</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>この人が作る,ビール,ティー,ジョイントのような単純なドラッグを作る速度です.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>合成・速度</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>薬物を調合して生成する速度です.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>食中毒・発生率</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>このキャラクターが料理したときに,うかつにも料理を汚染してしまう確率です.一時的な食中毒は当たった人を衰弱させます.</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>食中毒・発生率</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>作業・速度</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>この人が,ブロックを作る,精油施設で燃料を作る,アイテムを燃やす,衣服を仕立てる,芸術品を創る,鎧や武器を鍛える,スラグを溶かすなどの一般的な作業を行う速度です.このステータスはスキルを必要としない作業と,スキルが生産速度ではなく製品の品質に影響を与える作業の両方に適用されます.</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>精錬・速度</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>この人が製錬する時の速度です.\n\n溶かすのは雑用仕事なので,いかなるスキルによっても速度は影響を受けません.</SmeltingSpeed.description>
+  
+</LanguageData>

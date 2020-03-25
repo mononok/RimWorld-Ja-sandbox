@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<RectTrigger.label>rect trigger</RectTrigger.label>
-
-    <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
-
-    <Explosion.label>爆発</Explosion.label>
-
-    <Blight.label>枯病</Blight.label>
-
-    <Tornado.label>竜巻</Tornado.label>
-
-	<TunnelHiveSpawner.label>トンネル</TunnelHiveSpawner.label>
-
+  
+  <!-- EN: blight -->
+  <Blight.label>枯病</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>爆発</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>rect trigger</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>竜巻</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>トンネル</TunnelHiveSpawner.label>
+  
 </LanguageData>

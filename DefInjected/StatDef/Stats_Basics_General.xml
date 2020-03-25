@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>美しさ</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>その物を見た時の美しさです.美しい物はキャラクターの美への欲求を満たします.</Beauty.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>清潔さ</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>その物が,そのエリアの清潔度に寄与する値です.</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>快適さ</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>座ったり,横たわったときの快適さです.快適な物はキャラクターの快適さへの欲求を満たします.</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>劣化しやすさ</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>アイテムが野外に放置された時の劣化しやすさ,一日のダメージ量.劣化しやすさは,天候,屋根の有無,死の灰,浅瀬に放置などの影響も受けます.</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>{0}/日</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>燃えやすさ</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>どのくらい火が付きやすいか,どのくらい延焼しやすいかを表します.</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>食中毒発生率</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>この食べ物で食中毒を発症する確率です.</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>食中毒発生率</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>金額</MarketValue.label>
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>市場価格を表します.実際の値段は,売買するお互いの関係性でさらに変動します.</MarketValue.description>
+  <!-- EN: ${0} -->
+  <MarketValue.formatString>${0}</MarketValue.formatString>
+  
+  <!-- EN: mass -->
+  <Mass.label>重量</Mass.label>
+  <!-- EN: The physical mass of an object. -->
+  <Mass.description>オブジェクトの重量です.</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>{0} ㌔</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>最大HP</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>破壊するのに必要なダメージ量です.</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>栄養</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>この食べ物の栄養価です.</Nutrition.description>
+  
+  <!-- EN: royal favor value -->
+  <RoyalFavorValue.label>寵愛値</RoyalFavorValue.label>
+  <!-- EN: The amount of royal favor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>これを徴税官に差し出すことで得られる寵愛の量です.</RoyalFavorValue.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>売ろうするアイテムの,売り値に掛けられる倍率です.</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>精密射撃</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>射撃距離毎の命中率です.命中率は様々な要因でも変化します.命中率に関しての説明は,射手を選んだ後に,目標をマウスオーバーすると確認することができます.</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>命中率(タレット)</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>工数</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>作成に必要な,素材やツールが用意されたのちに,物を作成するのにかかる工数です.</WorkToMake.description>
+  
+</LanguageData>

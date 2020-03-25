@@ -1,34 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Grenadier_Destructive.label>傭兵(擲弾兵)</Grenadier_Destructive.label>
-
-	<Grenadier_EMP.label>傭兵(EMP擲弾兵)</Grenadier_EMP.label>
-
-    <Grenadier_Smoke.label>傭兵(煙幕擲弾兵)</Grenadier_Smoke.label>
-
-	<Mercenary_Gunner.label>傭兵(機銃手)</Mercenary_Gunner.label>
-
-	<Mercenary_Sniper.label>傭兵(狙撃手)</Mercenary_Sniper.label>
-
-	<Mercenary_Slasher.label>傭兵(特殊部隊兵)</Mercenary_Slasher.label>
-
-	<Mercenary_Heavy.label>傭兵(重火器)</Mercenary_Heavy.label>
-	<Mercenary_Heavy.labelPlural>傭兵達(重火器)</Mercenary_Heavy.labelPlural>
-
-    <Mercenary_Gunner_Acidifier.label>傭兵(ガナー)</Mercenary_Gunner_Acidifier.label>
-
-    <Mercenary_Sniper_Acidifier.label>傭兵(スナイパー)</Mercenary_Sniper_Acidifier.label>
-
-    <Mercenary_Slasher_Acidifier.label>傭兵(スラッシャー)</Mercenary_Slasher_Acidifier.label>
-
-    <Mercenary_Elite_Acidifier.label>傭兵(エリート)</Mercenary_Elite_Acidifier.label>
-    <Mercenary_Elite_Acidifier.labelPlural>傭兵達(エリート)</Mercenary_Elite_Acidifier.labelPlural>
-
-	<PirateBoss.label>カシラ</PirateBoss.label>
-	<PirateBoss.labelPlural>カシラたち</PirateBoss.labelPlural>
-
-	<Mercenary_Elite.label>傭兵(エリート)</Mercenary_Elite.label>
-	<Mercenary_Elite.labelPlural>傭兵達(エリート)</Mercenary_Elite.labelPlural>
-
+  
+  <!-- EN: grenadier -->
+  <Grenadier_Destructive.label>傭兵(擲弾兵)</Grenadier_Destructive.label>
+  
+  <!-- EN: EMP grenadier -->
+  <Grenadier_EMP.label>傭兵(EMP擲弾兵)</Grenadier_EMP.label>
+  
+  <!-- EN: smoke grenadier -->
+  <Grenadier_Smoke.label>傭兵(煙幕擲弾兵)</Grenadier_Smoke.label>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite.label>傭兵(エリート)</Mercenary_Elite.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite.labelPlural>傭兵達(エリート)</Mercenary_Elite.labelPlural>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite_Acidifier.label>傭兵(エリート)</Mercenary_Elite_Acidifier.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Acidifier.labelPlural>傭兵達(エリート)</Mercenary_Elite_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner.label>傭兵(機銃手)</Mercenary_Gunner.label>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner_Acidifier.label>傭兵(ガナー)</Mercenary_Gunner_Acidifier.label>
+  
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy.label>傭兵(重火器)</Mercenary_Heavy.label>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy.labelPlural>傭兵達(重火器)</Mercenary_Heavy.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher.label>傭兵(特殊部隊兵)</Mercenary_Slasher.label>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher_Acidifier.label>傭兵(スラッシャー)</Mercenary_Slasher_Acidifier.label>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper.label>傭兵(狙撃手)</Mercenary_Sniper.label>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper_Acidifier.label>傭兵(スナイパー)</Mercenary_Sniper_Acidifier.label>
+  
+  <!-- EN: boss -->
+  <PirateBoss.label>カシラ</PirateBoss.label>
+  <!-- EN: bosses -->
+  <PirateBoss.labelPlural>カシラたち</PirateBoss.labelPlural>
+  
 </LanguageData>

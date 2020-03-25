@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]はプロポーズを受け入れて二人は結ばれた.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]はプロポーズを断った.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->二人の関係は,あまりにも長い間続いてきたが,いま二人に別れが訪れた.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は惹きつけられ,いま[INITIATOR_nameDef]の恋人になった.</li>
+    <li>sent->[RECIPIENT_nameDef]ははっきりと返答し,いま[INITIATOR_nameDef]の恋人になった.</li>
+    <li>sent->[RECIPIENT_nameDef]は性的に興奮し,[INITIATOR_nameDef]の恋人になることに同意した.</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は誘惑を断った.</li>
+    <li>sent->[RECIPIENT_nameDef]は誘惑を無視した.</li>
+    <li>sent->[RECIPIENT_nameDef]は背を向けた.</li>
+    <li>sent->[RECIPIENT_nameDef]はそっぽを向いた.</li>
+    <li>sent->[RECIPIENT_nameDef]は素っ気ないふりをした.</li>
+    <li>sent->[RECIPIENT_nameDef]は応じなかった.</li>
+    <li>sent->[RECIPIENT_nameDef]ははねつけた.</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

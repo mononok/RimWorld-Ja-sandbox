@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tantrum -->
+  <BedroomTantrum.label>癇癪(寝室)</BedroomTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <BedroomTantrum.baseInspectLine>精神状態: 癇癪持ち(寝室)</BedroomTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{0}は癇癪をおこした.\n\n[PAWN_pronoun]は,[PAWN_possessive]部屋を壊そうとします.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>癇癪(寝室)</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>{0}の癇癪は落ち着いた.</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>狂暴化</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>精神状態: 狂暴化</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{0}は狂暴になった.\n\n[PAWN_pronoun]は,見るもの全てを攻撃します.</Berserk.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>{0}の狂暴化の波は終わりを迎えた.</Berserk.recoveryMessage>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>薬物中毒</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>精神状態: {0}薬物中毒</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>薬物に溺れる</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>精神状態: {0}薬物依存</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>食べずにはいられない</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>精神状態: 過食症</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{0}は ブタのように ガツガツと食べずにいられない.</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>過食症</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{0}は もうブタのように ガツガツと食べなくなった.</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
+  <CorpseObsession.label>死体への執着</CorpseObsession.label>
+  <!-- EN: Mental state: Corpse obsession -->
+  <CorpseObsession.baseInspectLine>精神状態: 死体への執着</CorpseObsession.baseInspectLine>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0}は 心の内面がおかしくなって死体に取り憑かれた.\n\n[PAWN_pronoun]は死体を掘り起こして,みんなが見えるところに飾ります.</CorpseObsession.beginLetter>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>{0}は もう死体に執着しない.</CorpseObsession.recoveryMessage>
+  
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>放火魔</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>精神状態: 放火魔</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{0}は手当たりしだいに火をつける.\n\n[PAWN_pronoun]は,しばらくの間,うろうろしながら,手当たり次第に放火します.</FireStartingSpree.beginLetter>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>{0}は放火しなくなった.</FireStartingSpree.recoveryMessage>
+  
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>ギブアップ</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>精神状態: ギブアップ</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{0}は全てを投げ出して コロニーから離れようとする.\n\n[PAWN_pronoun]は,どこかにあるもっと良い人生を追い求めて,出て行くことに決めました.あなたは[PAWN_objective]脱走者として逮捕を試みることができますし,放っておけば,またいつの日か再会するかもしれません.</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>ギブアップ</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>{0}は心変わりをして コロニーに戻ってこようとする.</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <InsultingSpree.label>侮辱・放言</InsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree -->
+  <InsultingSpree.baseInspectLine>精神状態: 侮辱放言</InsultingSpree.baseInspectLine>
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{0}は放言をまき散らす.\n\n[PAWN_pronoun]はうろついては,手当たり次第に他の人を侮辱します.</InsultingSpree.beginLetter>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>{0}は もう侮辱,放言をしなくなった.</InsultingSpree.recoveryMessage>
+  
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>脱走をそそのかす</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>精神状態: 脱獄</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{0}は重度のストレスから 他の囚人に脱走を そそのかしている.</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>脱獄</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>{0}は もう脱走をそそのかすつもりは無くなった.</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>激情の殺意</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>精神状態: 激情の殺意</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{0}は激情の殺意へと感情が流れた.\n\n[PAWN_pronoun]は,{1}を殺す事に決めた.</MurderousRage.beginLetter>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>{0}の激情した殺意は無くなった.</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>サディスティックな激情</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>精神状態: 虐待</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{0}はサディスティックな激情に流れた.\n\n[PAWN_pronoun]は,怒りの憂さを囚人で晴らそうとします.</SadisticRage.beginLetter>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>{0}の虐待的感情は無くなった.</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>屠殺者</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>精神状態: 屠殺者</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{0}は 重度のストレスから [PAWN_possessive]怒りのはけ口を 動物に向けようとしている.</Slaughterer.beginLetter>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>{0}は 手当たりしだいに動物を屠殺しなくなった.</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>癇癪持ち</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>精神状態: 癇癪持ち</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{0}は癇癪を起こした.\n\n[PAWN_pronoun]は,手当たり次第に家具,アイテム,建物を壊します.</Tantrum.beginLetter>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>{0}の癇癪は落ち着いた.</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <TargetedInsultingSpree.label>侮辱・放言(人物)</TargetedInsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree against {0} -->
+  <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>{0}は[PAWN_possessive]怒りの矛先を{1}にだけ向ける.\n\n[PAWN_pronoun]は{1}をつけ回して侮辱し続けます.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>癇癪(人)</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>精神状態: 癇癪持ち(人)</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{0}は癇癪をおこした.\n\n[PAWN_pronoun]は{1}を叩こうとします.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>癇癪(人)</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>{0}の癇癪は落ち着いた.</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>ひきこもり</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>精神状態: ひきこもり</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{0}は[PAWN_possessive]部屋に引き籠もる.</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>ひきこもり</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{0}は もう[PAWN_possessive]部屋に引き籠もらなくなった.</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>精神を病んでフラフラする</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>精神状態: 精神衰弱</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{0}は 精神を病んで あたりをうろついている.</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>呆然</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>{0}はフラフラしなくなった.</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic_Short.label>精神を病んで徘徊する</Wander_Psychotic_Short.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic_Short.baseInspectLine>精神状態: 徘徊</Wander_Psychotic_Short.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic_Short.beginLetter>{0}は 精神を病んで あたりを徘徊している.</Wander_Psychotic_Short.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic_Short.beginLetterLabel>呆然</Wander_Psychotic_Short.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic_Short.recoveryMessage>{0}は徘徊しなくなった.</Wander_Psychotic_Short.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>悲しみに暮れている</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>精神状態: 悲観</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{0}は精神を病んで,悲しみのあまりにフラフラとうろついている.</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>悲観</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>{0}は もう悲しみで フラフラしなくなった.</Wander_Sad.recoveryMessage>
+  
+</LanguageData>

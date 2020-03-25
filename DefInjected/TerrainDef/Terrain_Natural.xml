@@ -1,29 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Soil.label>土</Soil.label>
-	<Soil.tools.dirt.label>土埃</Soil.tools.dirt.label>
-
-    <MossyTerrain.label>苔むした土</MossyTerrain.label>
-
-	<MarshyTerrain.label>湿地</MarshyTerrain.label>
-	<MarshyTerrain.tools.mud.label>泥</MarshyTerrain.tools.mud.label>
-
-    <SoilRich.label>肥えた土</SoilRich.label>
-	<SoilRich.tools.dirt.label>土埃</SoilRich.tools.dirt.label>
-
-    <Gravel.label>砂利</Gravel.label>
-	<Gravel.tools.gravel.label>グラベル</Gravel.tools.gravel.label>
-
-    <Sand.label>砂地</Sand.label>
-	<Sand.tools.sand.label>砂</Sand.tools.sand.label>
-
-    <SoftSand.label>柔砂</SoftSand.label>
-	<SoftSand.tools.sand.label>砂</SoftSand.tools.sand.label>
-
-	<Mud.label>泥</Mud.label>
-	<Mud.tools.mud.label>泥</Mud.tools.mud.label>
-
-	<Ice.label>氷面</Ice.label>
-
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>砂利</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>グラベル</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>氷面</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>湿地</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>泥</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>苔むした土</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>泥</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>泥</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>砂地</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>砂</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>柔砂</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>砂</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>土</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>土埃</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>肥えた土</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>土埃</SoilRich.tools.dirt.label>
+  
 </LanguageData>

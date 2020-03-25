@@ -1,12 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <ShipChunk.label>宇宙船の残骸</ShipChunk.label>
-    <ShipChunk.description>宇宙船の残骸.使えそうな資源を得るために分解できます.</ShipChunk.description>
-
-    <PsychicDronerShipPart.label>宇宙船の残骸(サイコドローン)</PsychicDronerShipPart.label>
-    <PsychicDronerShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれにはサイキック妨害装置が組み込まれています.理解不能なアーキテックテクノロジーを使い,近くにいるヒトや動物を狂わせるサイキックシグナルを広域に発生させます.</PsychicDronerShipPart.description>
-
-    <DefoliatorShipPart.label>宇宙船の残骸(ブライト)</DefoliatorShipPart.label>
-    <DefoliatorShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれには生物には影響を与えること無く,近くの植物を全滅させる装置が組み込まれています.この種類の兵器は,敵の食料供給と,領地を荒廃させること無く隠れた敵を排除するために.たまに農地や森で散見します.通常は軌道降下型メカノイドと共に一体で運用されます.</DefoliatorShipPart.description>
+  
+  <!-- EN: ship part (defoliator) -->
+  <DefoliatorShipPart.label>宇宙船の残骸(ブライト)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests during land, to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれには生物には影響を与えること無く,近くの植物を全滅させる装置が組み込まれています.この種類の兵器は,敵の食料供給と,領地を荒廃させること無く隠れた敵を排除するために.たまに農地や森で散見します.通常は軌道降下型メカノイドと共に一体で運用されます.</DefoliatorShipPart.description>
+  
+  <!-- EN: ship part (psychic droner) -->
+  <PsychicDronerShipPart.label>宇宙船の残骸(サイコドローン)</PsychicDronerShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
+  <PsychicDronerShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれにはサイキック妨害装置が組み込まれています.理解不能なアーキテックテクノロジーを使い,近くにいるヒトや動物を狂わせるサイキックシグナルを広域に発生させます.</PsychicDronerShipPart.description>
+  
+  <!-- EN: ship chunk -->
+  <ShipChunk.label>宇宙船の残骸</ShipChunk.label>
+  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <ShipChunk.description>宇宙船の残骸.使えそうな資源を得るために分解できます.</ShipChunk.description>
+  
 </LanguageData>

@@ -1,52 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Shooting.label>射撃</Shooting.label>
-    <Shooting.description>ハイテク,ローテクどちらかの武器を使った遠距離戦闘です.</Shooting.description>
-    <Shooting.skillLabel>射撃</Shooting.skillLabel>
-
-    <Melee.label>格闘</Melee.label>
-    <Melee.description>武装,非武装のどちらかの近接戦闘です.</Melee.description>
-    <Melee.skillLabel>格闘</Melee.skillLabel>
-
-    <Construction.label>建築</Construction.label>
-    <Construction.description>建造物,家具の製造と解体です.</Construction.description>
-    <Construction.skillLabel>建築</Construction.skillLabel>
-
-    <Mining.label>採掘</Mining.label>
-    <Mining.description>トンネル掘削と埋蔵資源の抽出です.</Mining.description>
-    <Mining.skillLabel>採掘</Mining.skillLabel>
-
-    <Cooking.label>料理</Cooking.label>
-    <Cooking.description>食中毒を起こさぬように,生食材から手早く食事をつくります.</Cooking.description>
-    <Cooking.skillLabel>料理</Cooking.skillLabel>
-
-    <Plants.label>栽培</Plants.label>
-    <Plants.description>種を蒔き,育て,収穫します.旅の間は食料調達もします.</Plants.description>
-    <Plants.skillLabel>栽培</Plants.skillLabel>
-
-    <Animals.label>動物</Animals.label>
-    <Animals.description>飼い慣らし,訓練し,動物をコントロールします.</Animals.description>
-    <Animals.skillLabel>動物</Animals.skillLabel>
-
-    <Crafting.label>工芸</Crafting.label>
-    <Crafting.description>武器,コンポーネント,資源精製を含む一般的なアイテム作成をします.</Crafting.description>
-    <Crafting.skillLabel>工芸</Crafting.skillLabel>
-
-    <Artistic.label>芸術</Artistic.label>
-    <Artistic.description>芸術作品を作るスキルです.</Artistic.description>
-    <Artistic.skillLabel>芸術</Artistic.skillLabel>
-
-    <Medicine.label>医術</Medicine.label>
-    <Medicine.description>怪我と疾病の世話,手術も行います.</Medicine.description>
-    <Medicine.skillLabel>医術</Medicine.skillLabel>
-
-    <Social.label>社交</Social.label>
-    <Social.description>交渉,説得,扇動,他に勇気を与えるスキルです.</Social.description>
-    <Social.skillLabel>社交</Social.skillLabel>
-
-	<Intellectual.label>知力</Intellectual.label>
-	<Intellectual.description>研究とドラッグ合成を行います.</Intellectual.description>
-	<Intellectual.skillLabel>知力</Intellectual.skillLabel>
-
+  
+  <!-- EN: animals -->
+  <Animals.label>動物</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>飼い慣らし,訓練し,動物をコントロールします.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>動物</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>芸術</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>芸術作品を作るスキルです.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>芸術</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>建築</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>建造物,家具の製造と解体です.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>建築</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>料理</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>食中毒を起こさぬように,生食材から手早く食事をつくります.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>料理</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>工芸</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>武器,コンポーネント,資源精製を含む一般的なアイテム作成をします.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>工芸</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>知力</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>研究とドラッグ合成を行います.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>知力</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>医術</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>怪我と疾病の世話,手術も行います.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>医術</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>格闘</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>武装,非武装のどちらかの近接戦闘です.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>格闘</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>採掘</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>トンネル掘削と埋蔵資源の抽出です.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>採掘</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>栽培</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>種を蒔き,育て,収穫します.旅の間は食料調達もします.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>栽培</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>射撃</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>ハイテク,ローテクどちらかの武器を使った遠距離戦闘です.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>射撃</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>社交</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>交渉,説得,扇動,他に勇気を与えるスキルです.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>社交</Social.skillLabel>
+  
 </LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>アルファビーバー</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>アンブロージアの発芽</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>アンブロージアの発芽</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>すぐ近くのミステリアスなアンブロージアの木立で新芽が発芽しました!.成長するまで待てば,美味しくて喜ばしい,プチ病みつきになるフルーツを収穫できるでしょう.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>寒波</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>枯病</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>熱波</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>大群の移動</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>{0}の大移動</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>{0}の群れが,このエリアを通り過ぎようとしています.\n\n彼らは挑発されない限り,攻撃してきません.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>隕石衝突</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました.それは{0}の塊を残しました.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>サイコドローン</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>サイコスード</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>身代金要求</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>身代金要求</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>輸送ポッド落下</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>輸送ポッド落下</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>新たなペット</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>電力線ショート</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>スランボの群れ</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>死の灰</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>死の灰</ToxicFallout.letterLabel>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>火山の冬</VolcanicWinter.letterLabel>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>新たな入植者</WandererJoin.label>
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <WandererJoin.letterLabel>新たな入植者 </WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>{PAWN_nameDef}と名のる{PAWN_kind}が到着すると,コロニーに加わりました.{PAWN_pronoun}は{PAWN_title}です.\n\n{PAWN_pronoun}は役に立ちたいと思っているので自分から去ることは無いでしょう.{PAWN_nameDef}を必要としないなら,{PAWN_objective}追放,奴隷として売却,もっと簡単に始末することもできます.しかしながら,他の入植者達は,この騒乱を見つけると思います.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>放浪の野蛮人</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>放浪の野蛮人</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>野生動物と暮らす人間が,このエリアに彷徨って来ました.{0}と呼ばれています.\n\nあなたは{PAWN_objective}手懐けることができます.</WildManWandersIn.letterText>
+  
+</LanguageData>

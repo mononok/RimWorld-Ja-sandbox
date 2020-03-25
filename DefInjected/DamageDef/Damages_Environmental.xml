@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>火傷</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0}は火傷で死んだ</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>焼身</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0}は燃えて死んだ</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>凍傷</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0}は凍傷になって死んだ</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>外傷</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0}は竜巻に巻かれて死んだ</TornadoScratch.deathMessage>
+  
+</LanguageData>

@@ -1,41 +1,50 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Cassowary.label>ヒクイドリ</Cassowary.label>
-    <Cassowary.description>大型の色鮮やかな羽を持った飛べない鳥です.本当に美しい鳥ですが,その蹴りは非常に危険です.暴力によって傷つけられたり,能力のない飼い主と対峙したとき,直ぐに攻撃的になることが知られています.</Cassowary.description>
-    <Meat_Cassowary.label>ヒクイドリの肉</Meat_Cassowary.label>
-    <Meat_Cassowary.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cassowary.description>
-    <Corpse_Cassowary.label>ヒクイドリの死骸</Corpse_Cassowary.label>
-    <Corpse_Cassowary.description>ヒクイドリの死骸</Corpse_Cassowary.description>
-    <Cassowary.race.meatLabel>鶏肉</Cassowary.race.meatLabel>
-    <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
-    <Cassowary.tools.beak.label>嘴</Cassowary.tools.beak.label>
-    <Cassowary.tools.head.label>頭部</Cassowary.tools.head.label>
-
-    <Emu.label>エミュー</Emu.label>
-    <Emu.description>大型の醜い顔にビーズのような目を持った飛べない鳥です.悪い姿勢が原因で,自然界の愚か者とされています.ちょっかいをださないで,復讐してくること間違いなしです.</Emu.description>
-    <Corpse_Emu.label>エミューの死骸</Corpse_Emu.label>
-    <Corpse_Emu.description>エミューの死骸</Corpse_Emu.description>
-    <Emu.tools.claws.label>爪</Emu.tools.claws.label>
-    <Emu.tools.beak.label>嘴</Emu.tools.beak.label>
-    <Emu.tools.head.label>頭部</Emu.tools.head.label>
-
-    <Ostrich.label>ダチョウ</Ostrich.label>
-    <Ostrich.description>鳥類最大の種で,ダチョウは,早い足,巨大な卵,そして力強いキックで有名です.</Ostrich.description>
-    <Corpse_Ostrich.label>ダチョウの死骸</Corpse_Ostrich.label>
-    <Corpse_Ostrich.description>ダチョウの死骸</Corpse_Ostrich.description>
-    <Ostrich.tools.claws.label>爪</Ostrich.tools.claws.label>
-    <Ostrich.tools.beak.label>嘴</Ostrich.tools.beak.label>
-    <Ostrich.tools.head.label>頭部</Ostrich.tools.head.label>
-
-    <Turkey.label>シチメンチョウ</Turkey.label>
-    <Turkey.description>小さい,太った,飛べない鳥で,とても,可笑しな鳴き声で有名です.飼い慣らされて長いこと経ちますが,いまだに野性を残しています.</Turkey.description>
-    <Meat_Turkey.label>シチメンチョウの肉</Meat_Turkey.label>
-    <Meat_Turkey.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Turkey.description>
-    <Corpse_Turkey.label>シチメンチョウの死骸</Corpse_Turkey.label>
-    <Corpse_Turkey.description>シチメンチョウの死骸</Corpse_Turkey.description>
-    <Turkey.tools.claws.label>爪</Turkey.tools.claws.label>
-    <Turkey.tools.beak.label>嘴</Turkey.tools.beak.label>
-    <Turkey.tools.head.label>頭部</Turkey.tools.head.label>
-
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>ヒクイドリ</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>大型の色鮮やかな羽を持った飛べない鳥です.本当に美しい鳥ですが,その蹴りは非常に危険です.暴力によって傷つけられたり,能力のない飼い主と対峙したとき,直ぐに攻撃的になることが知られています.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>鶏肉</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>嘴</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>頭部</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>エミュー</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>大型の醜い顔にビーズのような目を持った飛べない鳥です.悪い姿勢が原因で,自然界の愚か者とされています.ちょっかいをださないで,復讐してくること間違いなしです.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>爪</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>嘴</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>頭部</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>ダチョウ</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>鳥類最大の種で,ダチョウは,早い足,巨大な卵,そして力強いキックで有名です.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>爪</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>嘴</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>頭部</Ostrich.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>シチメンチョウ</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>小さい,太った,飛べない鳥で,とても,可笑しな鳴き声で有名です.飼い慣らされて長いこと経ちますが,いまだに野性を残しています.</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>爪</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>嘴</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>頭部</Turkey.tools.head.label>
+  
 </LanguageData>

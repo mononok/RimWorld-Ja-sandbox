@@ -1,41 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
-	<UnfinishedSculpture.description>未完成な彫刻</UnfinishedSculpture.description>
-
-    <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
-	<UnfinishedGun.description>未完成な銃の類い</UnfinishedGun.description>
-
-	<UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
-	<UnfinishedWeapon.description>未完成な武器</UnfinishedWeapon.description>
-
-	<UnfinishedArmor.label>シンプルアーマー(未完成)</UnfinishedArmor.label>
-	<UnfinishedArmor.description>未完成なシンプルアーマーの部品</UnfinishedArmor.description>
-
-    <UnfinishedTechArmor.label>ハイテクアーマー(未完成)</UnfinishedTechArmor.label>
-	<UnfinishedTechArmor.description>未完成なハイテクアーマーの部品</UnfinishedTechArmor.description>
-    
-    <UnfinishedMetallicTechArmor.label>メタルアーマー(未完成)</UnfinishedMetallicTechArmor.label>
-	<UnfinishedMetallicTechArmor.description>未完成なメタルアーマーの部品</UnfinishedMetallicTechArmor.description>
-
-	<UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
-	<UnfinishedApparel.description>未完成な衣服の一部</UnfinishedApparel.description>
-
-	<UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
-	<UnfinishedBelt.description>未完成なベルトの一部</UnfinishedBelt.description>
-
-	<UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
-	<UnfinishedComponent.description>未完成なコンポーネント</UnfinishedComponent.description>
-
-  <!-- ======================= Minified things ========================= -->
-
-	<MinifiedThing.label>(梱包)</MinifiedThing.label>
-
-	<UnfinishedHealthItemProsthetic.label>人工装具(未完成)</UnfinishedHealthItemProsthetic.label>
-	<UnfinishedHealthItemProsthetic.description>未完成な人工装具</UnfinishedHealthItemProsthetic.description>
-
-	<UnfinishedHealthItemBionic.label>バイオニクス(未完成)</UnfinishedHealthItemBionic.label>
-	<UnfinishedHealthItemBionic.description>未完成なバイオニクス</UnfinishedHealthItemBionic.description>
-
+  
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>(梱包)</MinifiedThing.label>
+  
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>未完成な衣服の一部</UnfinishedApparel.description>
+  
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>シンプルアーマー(未完成)</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>未完成なシンプルアーマーの部品</UnfinishedArmor.description>
+  
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>未完成なベルトの一部</UnfinishedBelt.description>
+  
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>未完成なコンポーネント</UnfinishedComponent.description>
+  
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>未完成な銃の類い</UnfinishedGun.description>
+  
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>バイオニクス(未完成)</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>未完成なバイオニクス</UnfinishedHealthItemBionic.description>
+  
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>人工装具(未完成)</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>未完成な人工装具</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>メタルアーマー(未完成)</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>未完成なメタルアーマーの部品</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>未完成な彫刻</UnfinishedSculpture.description>
+  
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>ハイテクアーマー(未完成)</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>未完成なハイテクアーマーの部品</UnfinishedTechArmor.description>
+  
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>未完成な武器</UnfinishedWeapon.description>
+  
 </LanguageData>

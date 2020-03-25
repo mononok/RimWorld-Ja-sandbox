@@ -1,48 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Make_StoneBlocksAny.label>石材に切り出す</Make_StoneBlocksAny.label>
-    <Make_StoneBlocksAny.description>岩の塊を使いやすい石材に切り出します.</Make_StoneBlocksAny.description>
-    <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
-
-	<ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄を分解し有益な資源に変えます.</ExtractMetalFromSlag.description>
-    <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
-
-	<SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
-	<SmeltWeapon.description>高温と強力な電磁石を使い,武器を分解し有益な資源に変えます.</SmeltWeapon.description>
-	<SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
-
-    <SmeltApparel.label>衣服を溶解する</SmeltApparel.label>
-    <SmeltApparel.description>高温と強力な電磁石を使い,アーマーのような金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
-    <SmeltApparel.jobString>衣服を溶解中.</SmeltApparel.jobString>
-
-    <DestroyWeapon.label>武器を破棄する</DestroyWeapon.label>
-    <DestroyWeapon.description>高温で不要な武器を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyWeapon.description>
-    <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
-
-    <DestroyApparel.label>衣服を破棄する</DestroyApparel.label>
-    <DestroyApparel.description>高温で不要な衣服を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyApparel.description>
-    <DestroyApparel.jobString>衣服を破壊中</DestroyApparel.jobString>
-
-    <Make_ChemfuelFromWood.label>液化燃料を精製(木材)</Make_ChemfuelFromWood.label>
-    <Make_ChemfuelFromWood.description>木材から抽出し濃縮したガスを使ってバイオ液化燃料を作成します.</Make_ChemfuelFromWood.description>
-    <Make_ChemfuelFromWood.jobString>木材を精製中</Make_ChemfuelFromWood.jobString>
-
-    <Make_ChemfuelFromOrganics.label>液化燃料を精製(有機物)</Make_ChemfuelFromOrganics.label>
-    <Make_ChemfuelFromOrganics.description>有機物から抽出した生体燃料を使ってバイオ液化燃料を作成します.</Make_ChemfuelFromOrganics.description>
-    <Make_ChemfuelFromOrganics.jobString>有機物を精製中</Make_ChemfuelFromOrganics.jobString>
-
-	<Make_ComponentIndustrial.label>コンポーネントを作成する</Make_ComponentIndustrial.label>
-	<Make_ComponentIndustrial.description>コンポーネントを作成します.</Make_ComponentIndustrial.description>
-	<Make_ComponentIndustrial.jobString>コンポーネントを作成中</Make_ComponentIndustrial.jobString>
-
-    <Make_ComponentSpacer.label>先進コンポーネントを作成する</Make_ComponentSpacer.label>
-    <Make_ComponentSpacer.description>先進コンポーネントを作成する.</Make_ComponentSpacer.description>
-    <Make_ComponentSpacer.jobString>先進コンポーネントを作成中</Make_ComponentSpacer.jobString>
-
-	<Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
-	<Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します.</Make_Patchleather.description>
-	<Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
-
+  
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>衣服を破棄する</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>高温で不要な衣服を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>衣服を破壊中</DestroyApparel.jobString>
+  
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>武器を破棄する</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>高温で不要な武器を破棄します.この作業は溶解より早く,溶解不可のアイテムでも可能ですが,資源は何も得られません</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>武器を破壊中</DestroyWeapon.jobString>
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄を分解し有益な資源に変えます.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>液化燃料を精製(有機物)</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>有機物から抽出した生体燃料を使ってバイオ液化燃料を作成します.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>有機物を精製中</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>液化燃料を精製(木材)</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>木材から抽出し濃縮したガスを使ってバイオ液化燃料を作成します.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>木材を精製中</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>コンポーネントを作成する</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>コンポーネントを作成します.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>コンポーネントを作成中</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>先進コンポーネントを作成する</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>先進コンポーネントを作成する.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>先進コンポーネントを作成中</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>パッチレザーを作成する</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>色んな種類の革を継ぎはぎして作成します.</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>パッチレザーを作成中</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>石材に切り出す</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>岩の塊を使いやすい石材に切り出します.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>衣服を溶解する</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>高温と強力な電磁石を使い,アーマーのような金属製衣服を分解し有益な資源に変えます.</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>衣服を溶解中.</SmeltApparel.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>高温と強力な電磁石を使い,武器を分解し有益な資源に変えます.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>武器を溶解中</SmeltWeapon.jobString>
+  
 </LanguageData>

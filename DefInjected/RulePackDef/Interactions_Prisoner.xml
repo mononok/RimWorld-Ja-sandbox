@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
+  -->
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は,[INITIATOR_nameDef]の社会に加わることを受け入れた.</li>
+  </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] refused.</li>
+  -->
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]は申し出を断った.</li>
+  </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

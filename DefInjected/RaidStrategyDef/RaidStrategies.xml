@@ -1,40 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    <!-- ImmediateAttack -->
-    <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
-    <ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます.\n\n警戒 - 彼らは利口な戦術を使ってやって来ます.\nタレットを無効化しようとし,トラップに注意を払うでしょう.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
-    <ImmediateAttack.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttack.arrivalTextFriendly>
-
-    <ImmediateAttackSmart.letterLabelEnemy>襲撃</ImmediateAttackSmart.letterLabelEnemy>
-    <ImmediateAttackSmart.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!\n\n注意してください！彼らは狡猾な作戦を仕掛けてきます.</ImmediateAttackSmart.arrivalTextEnemy>
-    <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
-    <ImmediateAttackSmart.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttackSmart.arrivalTextFriendly>
-
-    <ImmediateAttackFriendly.arrivalTextEnemy>すぐに彼らは戦います.</ImmediateAttackFriendly.arrivalTextEnemy>
-    <ImmediateAttackFriendly.arrivalTextFriendly>すぐに彼らはあなたを助けに戦います.</ImmediateAttackFriendly.arrivalTextFriendly>
-
-    <ImmediateAttackFriendly.letterLabelEnemy>襲撃</ImmediateAttackFriendly.letterLabelEnemy>
-    <ImmediateAttackFriendly.letterLabelFriendly>援軍</ImmediateAttackFriendly.letterLabelFriendly>
-
-    <!-- StageThenAttack -->
-    <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>彼らは,しばらくの間,準備を整えて,それから攻撃してくるでしょう.\n\n身を守る準備をするか,先制攻撃を仕掛けてください.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
-    <StageThenAttack.arrivalTextFriendly>彼らは,あなたを助けに行く前に,しばらくの間,準備を整えるでしょう.</StageThenAttack.arrivalTextFriendly>
-
-
-    <!--ImmediateAttackSappers -->
-    <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
-    <ImmediateAttackSappers.arrivalTextEnemy>彼らは,あなたの防御を破るためにトンネルを掘ろうとしています.</ImmediateAttackSappers.arrivalTextEnemy>
-
-    <!--Siege -->
-    <Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
-    <Siege.arrivalTextEnemy>彼らは,離れた所に迫撃砲を配置して包囲しようとしています.あなたは待つことも,こちらから打って出ることもできます.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
-    <Siege.arrivalTextFriendly>彼らは,あなたを助ける為に包囲作戦をとるようです.</Siege.arrivalTextFriendly>
-
-    <SiegeMechanoid.arrivalTextEnemy>直接攻撃よりも,メカノイドはメッククラスターをコロニーの近くに降下させる準備をしています. 脅威を取り除くためにも,あなたはこれらを殲滅しなければなりません.\n\n 降下した当初は休止状態なので,あなたには戦法を決める時間があります.\n\n刺激を受けるまで休止状態で居続けるか,時限式タイマーや,近接信管を備えているかもしれません.\n\n休止状態の群でさえ無害ではありません. 休止状態の群はメカノイドのアタッカーを招集したり,最終的には対処しなければならない,より広範囲な悪影響を及ぼしたりします.</SiegeMechanoid.arrivalTextEnemy>
-    <SiegeMechanoid.letterLabelEnemy>メカノイド 包囲戦</SiegeMechanoid.letterLabelEnemy>
-
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます.\n\n警戒 - 彼らは利口な戦術を使ってやって来ます.\nタレットを無効化しようとし,トラップに注意を払うでしょう.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttackFriendly.arrivalTextEnemy>すぐに彼らは戦います.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackFriendly.arrivalTextFriendly>すぐに彼らはあなたを助けに戦います.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackFriendly.letterLabelEnemy>襲撃</ImmediateAttackFriendly.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackFriendly.letterLabelFriendly>援軍</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>彼らは,あなたの防御を破るためにトンネルを掘ろうとしています.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!\n\n注意してください！彼らは狡猾な作戦を仕掛けてきます.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>襲撃</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>彼らは,離れた所に迫撃砲を配置して包囲しようとしています.あなたは待つことも,こちらから打って出ることもできます.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>彼らは,あなたを助ける為に包囲作戦をとるようです.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
+  
+  <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack it to finally remove the threat.\n\nThe cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <SiegeMechanoid.arrivalTextEnemy>直接攻撃よりも,メカノイドはメッククラスターをコロニーの近くに降下させる準備をしています. 脅威を取り除くためにも,あなたはこれらを殲滅しなければなりません.\n\n 降下した当初は休止状態なので,あなたには戦法を決める時間があります.\n\n刺激を受けるまで休止状態で居続けるか,時限式タイマーや,近接信管を備えているかもしれません.\n\n休止状態の群でさえ無害ではありません. 休止状態の群はメカノイドのアタッカーを招集したり,最終的には対処しなければならない,より広範囲な悪影響を及ぼしたりします.</SiegeMechanoid.arrivalTextEnemy>
+  <!-- EN: Mechanoid Siege -->
+  <SiegeMechanoid.letterLabelEnemy>メカノイド 包囲戦</SiegeMechanoid.letterLabelEnemy>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>彼らは,しばらくの間,準備を整えて,それから攻撃してくるでしょう.\n\n身を守る準備をするか,先制攻撃を仕掛けてください.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>彼らは,あなたを助けに行く前に,しばらくの間,準備を整えるでしょう.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>

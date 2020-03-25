@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 家畜用ベッド(設計) -->
+  <Blueprint_Install_AnimalBed.label>家畜用ベッド(移動先)</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: 家畜小屋(設計) -->
+  <Blueprint_Install_AnimalSleepingBox.label>家畜小屋(移動先)</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: アームチェア(設計) -->
+  <Blueprint_Install_Armchair.label>アームチェア(移動先)</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: バッテリー(設計) -->
+  <Blueprint_Install_Battery.label>バッテリー(移動先)</Blueprint_Install_Battery.label>
+  
+  <!-- EN: ベッド(設計) -->
+  <Blueprint_Install_Bed.label>ベッド(移動先)</Blueprint_Install_Bed.label>
+  
+  <!-- EN: 寝袋(設計) -->
+  <Blueprint_Install_Bedroll.label>寝袋(移動先)</Blueprint_Install_Bedroll.label>
+  
+  <!-- EN: ダブルの寝袋(設計) -->
+  <Blueprint_Install_BedrollDouble.label>ダブルの寝袋(移動先)</Blueprint_Install_BedrollDouble.label>
+  
+  <!-- EN: ビリヤード台(設計) -->
+  <Blueprint_Install_BilliardsTable.label>ビリヤード台(移動先)</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: チェス盤(設計) -->
+  <Blueprint_Install_ChessTable.label>チェス盤(移動先)</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: ダイニング チェア(設計) -->
+  <Blueprint_Install_DiningChair.label>ダイニング チェア(移動先)</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: ダブルベッド(設計) -->
+  <Blueprint_Install_DoubleBed.label>ダブルベッド(移動先)</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: タンス(設計) -->
+  <Blueprint_Install_Dresser.label>タンス(移動先)</Blueprint_Install_Dresser.label>
+  
+  <!-- EN: エンドテーブル(設計) -->
+  <Blueprint_Install_EndTable.label>エンドテーブル(移動先)</Blueprint_Install_EndTable.label>
+  
+  <!-- EN: ビア樽(設計) -->
+  <Blueprint_Install_FermentingBarrel.label>ビア樽(移動先)</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: 泡消火器(設計) -->
+  <Blueprint_Install_FirefoamPopper.label>泡消火器(移動先)</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: フラットスクリーンテレビ(設計) -->
+  <Blueprint_Install_FlatscreenTelevision.label>フラットスクリーンテレビ(移動先)</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: 発光ポッド(設計) -->
+  <Blueprint_Install_GlowPod.label>発光ポッド(移動先)</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: 電気ストーブ(設計) -->
+  <Blueprint_Install_Heater.label>電気ストーブ(移動先)</Blueprint_Install_Heater.label>
+  
+  <!-- EN: フープストーンの輪(設計) -->
+  <Blueprint_Install_HoopstoneRing.label>フープストーンの輪(移動先)</Blueprint_Install_HoopstoneRing.label>
+  
+  <!-- EN: 輪投げのピン(設計) -->
+  <Blueprint_Install_HorseshoesPin.label>輪投げのピン(移動先)</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: 病院用ベッド(設計) -->
+  <Blueprint_Install_HospitalBed.label>病院用ベッド(移動先)</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: 無限化学反応炉(設計) -->
+  <Blueprint_Install_InfiniteChemreactor.label>無限化学反応炉(設計)</Blueprint_Install_InfiniteChemreactor.label>
+  
+  <!-- EN: メガスクリーンテレビ(設計) -->
+  <Blueprint_Install_MegascreenTelevision.label>メガスクリーンテレビ(移動先)</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: マルチ アナライザ(設計) -->
+  <Blueprint_Install_MultiAnalyzer.label>マルチ アナライザ(移動先)</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: 貿易用 ビーコン(設計) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>貿易用 ビーコン(移動先)</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: 植木鉢(設計) -->
+  <Blueprint_Install_PlantPot.label>植木鉢(移動先)</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: ポーカーテーブル(設計) -->
+  <Blueprint_Install_PokerTable.label>ポーカーテーブル(移動先)</Blueprint_Install_PokerTable.label>
+  
+  <!-- EN: サイコスード波動器(設計) -->
+  <Blueprint_Install_PsychicEmanator.label>サイコスード波動器(設計)</Blueprint_Install_PsychicEmanator.label>
+  
+  <!-- EN: 豪華なベッド(設計) -->
+  <Blueprint_Install_RoyalBed.label>豪華なベッド(移動先)</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: 巨大な彫刻(設計) -->
+  <Blueprint_Install_SculptureGrand.label>巨大な彫刻(移動先)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: 大ぶりの彫刻(設計) -->
+  <Blueprint_Install_SculptureLarge.label>大ぶりの彫刻(移動先)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: 小ぶりの彫刻(設計) -->
+  <Blueprint_Install_SculptureSmall.label>小ぶりの彫刻(移動先)</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: ロッカー(設計) -->
+  <Blueprint_Install_Shelf.label>ロッカー(移動先)</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: 電気スタンド(設計) -->
+  <Blueprint_Install_StandingLamp.label>電気スタンド(移動先)</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: 電気スタンド(青)(設計) -->
+  <Blueprint_Install_StandingLamp_Blue.label>電気スタンド(青)(移動先)</Blueprint_Install_StandingLamp_Blue.label>
+  
+  <!-- EN: 電気スタンド(緑)(設計) -->
+  <Blueprint_Install_StandingLamp_Green.label>電気スタンド(緑)(移動先)</Blueprint_Install_StandingLamp_Green.label>
+  
+  <!-- EN: 電気スタンド(赤色)(設計) -->
+  <Blueprint_Install_StandingLamp_Red.label>電気スタンド(赤色)(移動先)</Blueprint_Install_StandingLamp_Red.label>
+  
+  <!-- EN: スツール(設計) -->
+  <Blueprint_Install_Stool.label>スツール(移動先)</Blueprint_Install_Stool.label>
+  
+  <!-- EN: 太陽灯(設計) -->
+  <Blueprint_Install_SunLamp.label>太陽灯(移動先)</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: テーブル(1x2)(設計) -->
+  <Blueprint_Install_Table1x2c.label>テーブル(1x2)(移動先)</Blueprint_Install_Table1x2c.label>
+  
+  <!-- EN: テーブル(3x3)(設計) -->
+  <Blueprint_Install_Table3x3c.label>テーブル(3x3)(移動先)</Blueprint_Install_Table3x3c.label>
+  
+  <!-- EN: 望遠鏡(設計) -->
+  <Blueprint_Install_Telescope.label>望遠鏡(移動先)</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: ツール キャビネット(設計) -->
+  <Blueprint_Install_ToolCabinet.label>ツール キャビネット(移動先)</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: ブラウン管テレビ(設計) -->
+  <Blueprint_Install_TubeTelevision.label>ブラウン管テレビ(移動先)</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: タレット(設計) -->
+  <Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>
+  
+  <!-- EN: 榴弾迫撃砲(設計) -->
+  <Blueprint_Install_Turret_Mortar.label>溜弾迫撃砲(移動先)</Blueprint_Install_Turret_Mortar.label>
+  
+  <!-- EN: ワノメトリック発電器(設計) -->
+  <Blueprint_Install_VanometricPowerCell.label>ワノメトリック発電器(設計)</Blueprint_Install_VanometricPowerCell.label>
+  
+  <!-- EN: バイタル モニター(設計) -->
+  <Blueprint_Install_VitalsMonitor.label>バイタル モニター(移動先)</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: アルファビーバー の死骸 -->
+  <Corpse_Alphabeaver.label>アルファビーバーの死骸</Corpse_Alphabeaver.label>
+  <!-- EN: アルファビーバー の死骸 -->
+  <Corpse_Alphabeaver.description>アルファビーバーの死骸</Corpse_Alphabeaver.description>
+  
+  <!-- EN: ボムネズミ の死骸 -->
+  <Corpse_Boomrat.label>ボムネズミの死骸</Corpse_Boomrat.label>
+  <!-- EN: ボムネズミ の死骸 -->
+  <Corpse_Boomrat.description>ボムネズミの死骸</Corpse_Boomrat.description>
+  
+  <!-- EN: カピバラ の死骸 -->
+  <Corpse_Capybara.label>カピバラの死骸</Corpse_Capybara.label>
+  <!-- EN: カピバラ の死骸 -->
+  <Corpse_Capybara.description>カピバラの死骸</Corpse_Capybara.description>
+  
+  <!-- EN: ヒクイドリ の死骸 -->
+  <Corpse_Cassowary.label>ヒクイドリの死骸</Corpse_Cassowary.label>
+  <!-- EN: ヒクイドリ の死骸 -->
+  <Corpse_Cassowary.description>ヒクイドリの死骸</Corpse_Cassowary.description>
+  
+  <!-- EN: チンチラ の死骸 -->
+  <Corpse_Chinchilla.label>チンチラの死骸</Corpse_Chinchilla.label>
+  <!-- EN: チンチラ の死骸 -->
+  <Corpse_Chinchilla.description>チンチラの死骸</Corpse_Chinchilla.description>
+  
+  <!-- EN: クーガー の死骸 -->
+  <Corpse_Cougar.label>クーガーの死骸</Corpse_Cougar.label>
+  <!-- EN: クーガー の死骸 -->
+  <Corpse_Cougar.description>クーガーの死骸</Corpse_Cougar.description>
+  
+  <!-- EN: ゾウ の死骸 -->
+  <Corpse_Elephant.label>ゾウの死骸</Corpse_Elephant.label>
+  <!-- EN: ゾウ の死骸 -->
+  <Corpse_Elephant.description>ゾウの死骸</Corpse_Elephant.description>
+  
+  <!-- EN: エミュー の死骸 -->
+  <Corpse_Emu.label>エミューの死骸</Corpse_Emu.label>
+  <!-- EN: エミュー の死骸 -->
+  <Corpse_Emu.description>エミューの死骸</Corpse_Emu.description>
+  
+  <!-- EN: ホッキョクギツネ の死骸 -->
+  <Corpse_Fox_Arctic.label>ホッキョクギツネの死骸</Corpse_Fox_Arctic.label>
+  <!-- EN: ホッキョクギツネ の死骸 -->
+  <Corpse_Fox_Arctic.description>ホッキョクギツネの死骸</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: フェネックキツネ の死骸 -->
+  <Corpse_Fox_Fennec.label>フェネックキツネの死骸</Corpse_Fox_Fennec.label>
+  <!-- EN: フェネックキツネ の死骸 -->
+  <Corpse_Fox_Fennec.description>フェネックキツネの死骸</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: アカギツネ の死骸 -->
+  <Corpse_Fox_Red.label>アカギツネの死骸</Corpse_Fox_Red.label>
+  <!-- EN: アカギツネ の死骸 -->
+  <Corpse_Fox_Red.description>アカギツネの死骸</Corpse_Fox_Red.description>
+  
+  <!-- EN: ヒト の死骸 -->
+  <Corpse_Human.label>ヒトの死体</Corpse_Human.label>
+  <!-- EN: ヒト の死骸 -->
+  <Corpse_Human.description>ヒトの死体です.</Corpse_Human.description>
+  
+  <!-- EN: ヤマネコ の死骸 -->
+  <Corpse_Lynx.label>ヤマネコの死骸</Corpse_Lynx.label>
+  <!-- EN: ヤマネコ の死骸 -->
+  <Corpse_Lynx.description>ヤマネコの死骸</Corpse_Lynx.description>
+  
+  <!-- EN: 機械化ムカデ の死骸 -->
+  <Corpse_Mech_Centipede.label>機械化ムカデ故障個体</Corpse_Mech_Centipede.label>
+  <!-- EN: 機械化ムカデ の死骸 -->
+  <Corpse_Mech_Centipede.description>機械化ムカデの故障個体</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: 機械化ランス の死骸 -->
+  <Corpse_Mech_Lancer.label>機械化ランス故障個体</Corpse_Mech_Lancer.label>
+  <!-- EN: 機械化ランス の死骸 -->
+  <Corpse_Mech_Lancer.description>機械化ランスの故障個体</Corpse_Mech_Lancer.description>
+  
+  <!-- EN: 機械化パイク の死骸 -->
+  <Corpse_Mech_Pikeman.label>機械化パイク故障個体</Corpse_Mech_Pikeman.label>
+  <!-- EN: 機械化パイク の死骸 -->
+  <Corpse_Mech_Pikeman.description>機械化パイクの故障個体</Corpse_Mech_Pikeman.description>
+  
+  <!-- EN: 機械化カマキリ の死骸 -->
+  <Corpse_Mech_Scyther.label>機械化カマキリ故障個体</Corpse_Mech_Scyther.label>
+  <!-- EN: 機械化カマキリ の死骸 -->
+  <Corpse_Mech_Scyther.description>機械化カマキリの故障個体</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: メガスロス の死骸 -->
+  <Corpse_Megasloth.label>メガスロスの死骸</Corpse_Megasloth.label>
+  <!-- EN: メガスロス の死骸 -->
+  <Corpse_Megasloth.description>メガスロスの死骸</Corpse_Megasloth.description>
+  
+  <!-- EN: ダチョウ の死骸 -->
+  <Corpse_Ostrich.label>ダチョウの死骸</Corpse_Ostrich.label>
+  <!-- EN: ダチョウ の死骸 -->
+  <Corpse_Ostrich.description>ダチョウの死骸</Corpse_Ostrich.description>
+  
+  <!-- EN: パンサー の死骸 -->
+  <Corpse_Panther.label>パンサーの死骸</Corpse_Panther.label>
+  <!-- EN: パンサー の死骸 -->
+  <Corpse_Panther.description>パンサーの死骸</Corpse_Panther.description>
+  
+  <!-- EN: アライグマ の死骸 -->
+  <Corpse_Raccoon.label>アライグマの死骸</Corpse_Raccoon.label>
+  <!-- EN: アライグマ の死骸 -->
+  <Corpse_Raccoon.description>アライグマの死骸</Corpse_Raccoon.description>
+  
+  <!-- EN: ネズミ の死骸 -->
+  <Corpse_Rat.label>ネズミの死骸</Corpse_Rat.label>
+  <!-- EN: ネズミ の死骸 -->
+  <Corpse_Rat.description>ネズミの死骸</Corpse_Rat.description>
+  
+  <!-- EN: リス の死骸 -->
+  <Corpse_Squirrel.label>リスの死骸</Corpse_Squirrel.label>
+  <!-- EN: リス の死骸 -->
+  <Corpse_Squirrel.description>リスの死骸</Corpse_Squirrel.description>
+  
+  <!-- EN: スランボ の死骸 -->
+  <Corpse_Thrumbo.label>スランボの死骸</Corpse_Thrumbo.label>
+  <!-- EN: スランボ の死骸 -->
+  <Corpse_Thrumbo.description>スランボの死骸</Corpse_Thrumbo.description>
+  
+  <!-- EN: シチメンチョウ の死骸 -->
+  <Corpse_Turkey.label>シチメンチョウの死骸</Corpse_Turkey.label>
+  <!-- EN: シチメンチョウ の死骸 -->
+  <Corpse_Turkey.description>シチメンチョウの死骸</Corpse_Turkey.description>
+  
+  <!-- EN: ワーグ の死骸 -->
+  <Corpse_Warg.label>ワーグの死骸</Corpse_Warg.label>
+  <!-- EN: ワーグ の死骸 -->
+  <Corpse_Warg.description>ワーグの死骸</Corpse_Warg.description>
+  
+  <!-- EN: ホッキョクオオカミ の死骸 -->
+  <Corpse_Wolf_Arctic.label>ホッキョクオオカミの死骸</Corpse_Wolf_Arctic.label>
+  <!-- EN: ホッキョクオオカミ の死骸 -->
+  <Corpse_Wolf_Arctic.description>ホッキョクオオカミの死骸</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: シンリンオオカミ の死骸 -->
+  <Corpse_Wolf_Timber.label>シンリンオオカミの死骸</Corpse_Wolf_Timber.label>
+  <!-- EN: シンリンオオカミ の死骸 -->
+  <Corpse_Wolf_Timber.description>シンリンオオカミの死骸</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: アルパカ の肉 -->
+  <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Alpaca.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alpaca.description>
+  
+  <!-- EN: アルファビーバー の肉 -->
+  <Meat_Alphabeaver.label>アルファビーバーの肉</Meat_Alphabeaver.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Alphabeaver.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alphabeaver.description>
+  
+  <!-- EN: 熊肉 -->
+  <Meat_Bear_Grizzly.label>グリズリーの肉</Meat_Bear_Grizzly.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Bear_Grizzly.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: ボマロープ の肉 -->
+  <Meat_Boomalope.label>ボマロープの肉</Meat_Boomalope.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Boomalope.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Boomalope.description>
+  
+  <!-- EN: ボムネズミ の肉 -->
+  <Meat_Boomrat.label>ボムネズミの肉</Meat_Boomrat.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Boomrat.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Boomrat.description>
+  
+  <!-- EN: カピバラ の肉 -->
+  <Meat_Capybara.label>カピバラの肉</Meat_Capybara.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Capybara.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Capybara.description>
+  
+  <!-- EN: カリブー の肉 -->
+  <Meat_Caribou.label>カリブーの肉</Meat_Caribou.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Caribou.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Caribou.description>
+  
+  <!-- EN: 鶏肉 -->
+  <Meat_Cassowary.label>ヒクイドリの肉</Meat_Cassowary.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Cassowary.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cassowary.description>
+  
+  <!-- EN: ネコ の肉 -->
+  <Meat_Cat.label>ネコの肉</Meat_Cat.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Cat.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cat.description>
+  
+  <!-- EN: ニワトリ の肉 -->
+  <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Chicken.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.とても成長が速く,よく卵を産みます.</Meat_Chicken.description>
+  
+  <!-- EN: チンチラ の肉 -->
+  <Meat_Chinchilla.label>チンチラの肉</Meat_Chinchilla.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Chinchilla.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Chinchilla.description>
+  
+  <!-- EN: コブラ肉 -->
+  <Meat_Cobra.label>コブラの肉</Meat_Cobra.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Cobra.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cobra.description>
+  
+  <!-- EN: クーガー の肉 -->
+  <Meat_Cougar.label>クーガーの肉</Meat_Cougar.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Cougar.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cougar.description>
+  
+  <!-- EN: 牛肉 -->
+  <Meat_Cow.label>ウシの肉</Meat_Cow.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Cow.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cow.description>
+  
+  <!-- EN: 鹿肉 -->
+  <Meat_Deer.label>シカの肉</Meat_Deer.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Deer.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Deer.description>
+  
+  <!-- EN: ヒトコブラクダ の肉 -->
+  <Meat_Dromedary.label>ヒトコブラクダの肉</Meat_Dromedary.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Dromedary.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Dromedary.description>
+  
+  <!-- EN: ゾウ の肉 -->
+  <Meat_Elephant.label>ゾウの肉</Meat_Elephant.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Elephant.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Elephant.description>
+  
+  <!-- EN: ヘラジカ の肉 -->
+  <Meat_Elk.label>ヘラジカの肉</Meat_Elk.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Elk.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Elk.description>
+  
+  <!-- EN: 狐肉 -->
+  <Meat_Fox_Fennec.label>フェネックキツネの肉</Meat_Fox_Fennec.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Fox_Fennec.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Fox_Fennec.description>
+  
+  <!-- EN: ガゼル の肉 -->
+  <Meat_Gazelle.label>ガゼルの肉</Meat_Gazelle.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Gazelle.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Gazelle.description>
+  
+  <!-- EN: ノウサギ の肉 -->
+  <Meat_Hare.label>ノウサギの肉</Meat_Hare.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Hare.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Hare.description>
+  
+  <!-- EN: ヒト の肉 -->
+  <Meat_Human.label>ヒトの肉</Meat_Human.label>
+  <!-- EN: 生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う -->
+  <Meat_Human.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Human.description>
+  
+  <!-- EN: ハスキー の肉 -->
+  <Meat_Husky.label>ハスキーの肉</Meat_Husky.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Husky.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Husky.description>
+  
+  <!-- EN: アイベックス の肉 -->
+  <Meat_Ibex.label>アイベックスの肉</Meat_Ibex.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Ibex.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Ibex.description>
+  
+  <!-- EN: イグアナ の肉 -->
+  <Meat_Iguana.label>イグアナの肉</Meat_Iguana.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Iguana.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Iguana.description>
+  
+  <!-- EN: ラブラドールリトリーバー の肉 -->
+  <Meat_LabradorRetriever.label>ラブラドールリトリーバーの肉</Meat_LabradorRetriever.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_LabradorRetriever.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_LabradorRetriever.description>
+  
+  <!-- EN: ヤマネコ の肉 -->
+  <Meat_Lynx.label>ヤマネコの肉</Meat_Lynx.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Lynx.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Lynx.description>
+  
+  <!-- EN: メガスロス の肉 -->
+  <Meat_Megasloth.label>メガスロスの肉</Meat_Megasloth.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Megasloth.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Megasloth.description>
+  
+  <!-- EN: 虫肉 -->
+  <Meat_Megaspider.label>メガスパイダーの肉</Meat_Megaspider.label>
+  <!-- EN: 生の切り分けられた肉.調理しても,生のままでも食べられる.極めてマズイ -->
+  <Meat_Megaspider.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Megaspider.description>
+  
+  <!-- EN: サル の肉 -->
+  <Meat_Monkey.label>サルの肉</Meat_Monkey.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Monkey.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Monkey.description>
+  
+  <!-- EN: マッファロー の肉 -->
+  <Meat_Muffalo.label>マッファローの肉</Meat_Muffalo.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Muffalo.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Muffalo.description>
+  
+  <!-- EN: パンサー の肉 -->
+  <Meat_Panther.label>パンサーの肉</Meat_Panther.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Panther.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Panther.description>
+  
+  <!-- EN: 豚肉 -->
+  <Meat_Pig.label>ブタ肉</Meat_Pig.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Pig.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Pig.description>
+  
+  <!-- EN: アライグマ の肉 -->
+  <Meat_Raccoon.label>アライグマの肉</Meat_Raccoon.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Raccoon.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Raccoon.description>
+  
+  <!-- EN: ネズミ の肉 -->
+  <Meat_Rat.label>ネズミの肉</Meat_Rat.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Rat.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Rat.description>
+  
+  <!-- EN: サイ の肉 -->
+  <Meat_Rhinoceros.label>サイの肉</Meat_Rhinoceros.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Rhinoceros.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Rhinoceros.description>
+  
+  <!-- EN: リス の肉 -->
+  <Meat_Squirrel.label>リスの肉</Meat_Squirrel.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Squirrel.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Squirrel.description>
+  
+  <!-- EN: スランボ の肉 -->
+  <Meat_Thrumbo.label>スランボの肉</Meat_Thrumbo.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Thrumbo.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Thrumbo.description>
+  
+  <!-- EN: カメ の肉 -->
+  <Meat_Tortoise.label>カメの肉</Meat_Tortoise.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Tortoise.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Tortoise.description>
+  
+  <!-- EN: シチメンチョウ の肉 -->
+  <Meat_Turkey.label>シチメンチョウの肉</Meat_Turkey.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Turkey.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Turkey.description>
+  
+  <!-- EN: ワーグ の肉 -->
+  <Meat_Warg.label>ワーグの肉</Meat_Warg.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Warg.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Warg.description>
+  
+  <!-- EN: 狼肉 -->
+  <Meat_Wolf_Timber.label>シンリンオオカミの肉</Meat_Wolf_Timber.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_Wolf_Timber.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Wolf_Timber.description>
+  
+  <!-- EN: ヨークシャーテリア の肉 -->
+  <Meat_YorkshireTerrier.label>ヨークシャーテリアの肉</Meat_YorkshireTerrier.label>
+  <!-- EN: 生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます. -->
+  <Meat_YorkshireTerrier.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

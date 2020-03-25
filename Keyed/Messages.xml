@@ -469,6 +469,8 @@
   <GoodwillChangedReason_UsedAbility>{1} に {0}を使いました.</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>{0}を 摘出しました.</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: removed {0} -->
+  <GoodwillChangedReason_RemovedImplant>{0}を 除去しました.</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>{0}を ダウングレードしました.</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -501,6 +503,10 @@
   <GoodwillChangedReason_SoldPawn>{0_labelShort}は 売られました.</GoodwillChangedReason_SoldPawn>
   <!-- EN: euthanized {PAWN_labelShort} -->
   <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort}は 安楽死させられました.</GoodwillChangedReason_EuthanizedPawn>
+  <!-- EN: requested military aid -->
+  <GoodwillChangedReason_RequestedMilitaryAid>援軍を求められました.</GoodwillChangedReason_RequestedMilitaryAid>
+  <!-- EN: requested trader caravan -->
+  <GoodwillChangedReason_RequestedTrader>キャラバン隊を求められました.</GoodwillChangedReason_RequestedTrader>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>

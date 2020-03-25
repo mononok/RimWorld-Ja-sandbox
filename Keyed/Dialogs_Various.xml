@@ -530,6 +530,8 @@
   <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name}はキャラバン隊を送るつもりはありません.なぜなら{NEGOTIATOR_nameDef}には{TITLE}の肩書が欠けているからです.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->

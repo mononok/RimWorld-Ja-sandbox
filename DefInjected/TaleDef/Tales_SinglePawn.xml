@@ -111,9 +111,9 @@
     <li>quality_sentence->[THING_definite]は,見た目[THING_quality]品質のようだ.</li>
     <li>quality_sentence->[THING_definite]は,[THING_quality]品質だ.</li>
     <li>quality_sentence->[PAWN_nameDef]は,[THING_quality]品質の仕事をした.</li>
-    <li>title_sentence->[PAWN_nameDef]は,[THING_definite]の底面にタイトルを,このようにつけた: [thing_title]</li>
-    <li>title_sentence->[THING_definite]は,そのタイトルで飾られている: [thing_title]</li>
-    <li>title_sentence->[THING_definite]のタイトル, [thing_title]の背景は不明となっている.</li>
+    <li>title_sentence->[PAWN_nameDef]は,[THING_definite]の底面にタイトルを,このようにつけた: [THING_title]</li>
+    <li>title_sentence->[THING_definite]は,そのタイトルで飾られている: [THING_title]</li>
+    <li>title_sentence->[THING_definite]のタイトル, [THING_title]の背景は不明となっている.</li>
   </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->

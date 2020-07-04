@@ -488,9 +488,9 @@
     <li>tale_noun->[TRAINER_nameDef]は[ANIMAL_nameDef]を調教している</li>
     <li>tale_noun->[ANIMAL_nameDef]の調教</li>
     <li>tale_noun->[ANIMAL_nameDef]を調教する</li>
-    <li>image->[TAMER_nameDef]は,[circumstance_group] [ANIMAL_nameFull]に[TRAINABLE_label]を[train_syn]する</li>
-    <li>image->[TAMER_nameDef]は,[circumstance_group] [ANIMAL_nameFull]に[TRAINABLE_label]を教える</li>
-    <li>image->[TAMER_nameDef],[circumstance_group] [ANIMAL_nameFull]と[TRAINABLE_label]を練習する</li>
+    <li>image->[TRAINER_nameDef]は,[circumstance_group] [ANIMAL_nameFull]に[TRAINABLE_label]を[train_syn]する</li>
+    <li>image->[TRAINER_nameDef]は,[circumstance_group] [ANIMAL_nameFull]に[TRAINABLE_label]を教える</li>
+    <li>image->[TRAINER_nameDef],[circumstance_group] [ANIMAL_nameFull]と[TRAINABLE_label]を練習する</li>
     <li>train_syn->調教</li>
     <li>train_syn->訓練</li>
     <li>train_syn->指導</li>

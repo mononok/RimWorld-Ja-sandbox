@@ -400,10 +400,10 @@
   <TamedAnimal.rulePack.rulesStrings>
     <li>tale_noun->[ANIMAL_nameDef]が[TAMER_nameDef]に飼い慣らされる</li>
     <li>tale_noun->[TAMER_nameDef]が[ANIMAL_nameDef]を飼い慣らす</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group], [ANIMAL_nameFull]を 飼い慣らしている</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group], [ANIMAL_nameFull]に ご馳走を与えている</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group],驚きやすい [ANIMAL_nameFull]に 小声で話しかけている</li>
-    <li>image-> [TAMER_nameFull]が [circumstance_group],野性の [ANIMAL_nameFull]を なだめている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],[ANIMAL_nameFull]を飼い慣らしている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],[ANIMAL_nameFull]にご馳走を与えている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],驚きやすい[ANIMAL_nameFull]に小声で話しかけている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],野性の[ANIMAL_nameFull]をなだめている</li>
     <li>circumstance_phrase->最大限の注意と世話を払いつつ</li>
     <li>circumstance_phrase->笑顔と共に</li>
     <li>circumstance_phrase->疲れ果てながらも幸せそうに</li>
@@ -488,9 +488,9 @@
     <li>tale_noun->[TRAINER_nameDef]が[ANIMAL_nameDef]を調教する</li>
     <li>tale_noun->[ANIMAL_nameDef]の調教の</li>
     <li>tale_noun->[TRAINER_nameDef]による[ANIMAL_nameDef]の調教の</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]に [TRAINABLE_label]の[train_syn]をしている</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]に [TRAINABLE_label]を教えている</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]と [TRAINABLE_label]の練習をしている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]の[train_syn]をしている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]を教えている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]と[TRAINABLE_label]の練習をしている</li>
     <li>train_syn->調教</li>
     <li>train_syn->訓練</li>
     <li>train_syn->指導</li>

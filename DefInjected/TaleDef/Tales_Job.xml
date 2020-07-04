@@ -334,10 +334,10 @@
     <li>tale_noun(p=3)->[HUMAN_nameDef]が増える家畜の[AnimalGroup]に,さらに新しい動物を加えようとする</li>
     <li>tale_noun->[HUMAN_nameDef]が[AnimalGroup]に追い回される</li>
     <li>tale_noun->[HUMAN_nameDef]が[ANIMAL_nameDef]を手懐ける</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase] [ANIMAL_nameFull]を 手懐ける</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase] [ANIMAL_nameFull]を 一口分の食べ物で釣ろうとする</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]臆病な [ANIMAL_nameFull]に 囁くように声をかける</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]野生の [ANIMAL_nameFull]を なだめる</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を手懐ける</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を一口分の食べ物で釣ろうとする</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]臆病な[ANIMAL_nameFull]に囁くように声をかける</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_phrase]野生の[ANIMAL_nameFull]をなだめる</li>
     <li>circumstance_phrase->たくさんの注意と配慮をもって,</li>
     <li>circumstance_phrase->笑顔で</li>
     <li>circumstance_phrase->ヘトヘトになりつつも満足しながら,</li>

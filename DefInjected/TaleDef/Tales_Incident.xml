@@ -69,14 +69,14 @@
   -->
   <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊がアンブッシュに遭う</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]縮こまる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]仲間を守るべく移動する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]攻撃するために移動する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]攻撃する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]大きな声叫んでいる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]走っている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]敵と対抗する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]自分たちを守る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]縮こまる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]仲間を守るべく移動する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]攻撃するために移動する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]攻撃する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]大きな声叫んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]走っている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]敵と対抗する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]自分たちを守る</li>
     <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
     <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
     <li>circumstance_phrase->武器を振り回しながら</li>
@@ -112,12 +112,12 @@
   -->
   <CaravanAmbushedByManhunter.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が人狩りのアンブッシュに遭う</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]縮こまる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]仲間を守るべく移動する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]攻撃するために移動する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]攻撃する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]大きな声叫んでいる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]走っている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]縮こまる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]仲間を守るべく移動する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]攻撃するために移動する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]攻撃する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]大きな声叫んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]走っている</li>
     <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
     <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
     <li>circumstance_phrase->[PAWN_possessive]武器を振り回してるなか</li>
@@ -159,12 +159,12 @@
   <CaravanDemand.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が不当な要求に応じる</li>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が脅迫される</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]縮こまる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]大きな声叫んでいる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]考えている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]睨んでいる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]らによって脅迫される</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group][Weapon]を振り回す</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]縮こまる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]大きな声叫んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]考えている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]睨んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]らによって脅迫される</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group][Weapon]を振り回す</li>
     <li>circumstance_phrase->[AdjectiveBadass]表情を浮かべつつ</li>
     <li>circumstance_phrase->[AdjectiveAngsty]表情を浮かべつつ</li>
     <li>circumstance_phrase->他の者も立ち会っている中</li>
@@ -210,13 +210,13 @@
   -->
   <CaravanMeeting.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が別のキャラバン隊と会う</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]と挨拶を交わす</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]の素性を調べている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]に声をかけている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]に向かって歩き出す</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],落ち着いて話している</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],大きな声叫んでいる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[PersonJob]と[Game]を楽しんでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]と挨拶を交わす</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]の素性を調べている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]に声をかけている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]に向かって歩き出す</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],落ち着いて話している</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],大きな声叫んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[PersonJob]と[Game]を楽しんでいる</li>
     <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべつつ</li>
     <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべつつ</li>
     <li>circumstance_phrase->[VerbFriendly]さなか</li>
@@ -305,12 +305,12 @@
   <EndGame_ShipEscape.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が旧友から一通のメッセージを受け取った</li>
     <li>tale_noun->[PAWN_nameDef]の[Community]にチャンスが到来した</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[delivery_method]によって運ばれてきた手紙を開ける</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[delivery_method]によって運ばれてきたデータクリスタルを使う</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[delivery_method]によって運ばれてきた巻物を紐解く</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[transmission_source]送られた電送文を受信する</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[transmission_source]送られたメッセージを受け取る</li>
-    <li>image-> [PAWN_nameFull] [circumstance_group],[transmission_source]送られた通信メッセージを受け取る</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[delivery_method]によって運ばれてきた手紙を開ける</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[delivery_method]によって運ばれてきたデータクリスタルを使う</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[delivery_method]によって運ばれてきた巻物を紐解く</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[transmission_source]送られた電送文を受信する</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[transmission_source]送られたメッセージを受け取る</li>
+    <li>image-> [PAWN_nameFull][circumstance_group],[transmission_source]送られた通信メッセージを受け取る</li>
     <li>delivery_method->[Animal]</li>
     <li>delivery_method->[PersonJob]</li>
     <li>delivery_method->[Quantity_adjphrase]匹の[Animal]</li>

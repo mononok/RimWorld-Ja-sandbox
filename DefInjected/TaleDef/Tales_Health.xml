@@ -46,10 +46,10 @@
     <li>tale_noun->[VICTIM_nameDef]を[wound_name_present][KILLER_nameDef]の</li>
     <li>tale_noun->[VICTIM_nameDef]を[WEAPON_label]で[wound_name_present],[KILLER_nameDef]の</li>
     <li>tale_noun->[VICTIM_nameDef]を[wound_name_present]</li>
-    <li>image-> [VICTIM_nameFull] が [KILLER_nameFull] に [with_weapon_optional][wound_name_past]</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [KILLER_nameFull] が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [VICTIM_nameFull] が, [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [VICTIM_nameFull]が [KILLER_nameFull]に [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [VICTIM_nameFull]が, [with_weapon_optional][wound_name_past]</li>
     <li>wound_name_past->動けなくさせられる</li>
     <li>wound_name_past->手足の自由が効かなくさせられる</li>
     <li>wound_name_past->意識不明にさせられる</li>
@@ -99,11 +99,11 @@
   -->
   <Exhausted.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が過労で倒れる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]過労で地面に倒れこむ</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]地面にへたりこむ</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]ベッドに横たわる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]イスに倒れこむ</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]穏やかに眠る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]過労で地面に倒れこむ</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]地面にへたりこむ</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]ベッドに横たわる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]イスに倒れこむ</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]穏やかに眠る</li>
     <li>circumstance_phrase->両目を閉じて</li>
     <li>circumstance_phrase->目に見える程の過労で</li>
     <li>circumstance_phrase->大汗にまみれながら</li>
@@ -137,10 +137,10 @@
   -->
   <GaveBirth.rulePack.rulesStrings>
     <li>tale_noun->[MOTHER_nameDef]が[CHILD_nameDef]を出産する</li>
-    <li>image-> [MOTHER_nameFull] が [circumstance_group]を出産している</li>
-    <li>image-> [MOTHER_nameFull] が, [MOTHER_possessive][baby]である[circumstance_group] を 抱きかかえている</li>
-    <li>image-> [MOTHER_nameFull] が, [MOTHER_possessive][baby]である[circumstance_group] を ベッドに寝かしつけている</li>
-    <li>image-> [MOTHER_nameFull] が, [MOTHER_possessive][baby]である[circumstance_group] と 共に椅子に座り込んだ</li>
+    <li>image-> [MOTHER_nameFull]が [circumstance_group]を出産している</li>
+    <li>image-> [MOTHER_nameFull]が, [MOTHER_possessive][baby]である[circumstance_group] を 抱きかかえている</li>
+    <li>image-> [MOTHER_nameFull]が, [MOTHER_possessive][baby]である[circumstance_group] を ベッドに寝かしつけている</li>
+    <li>image-> [MOTHER_nameFull]が, [MOTHER_possessive][baby]である[circumstance_group] と 共に椅子に座り込んだ</li>
     <li>baby->赤ちゃん</li>
     <li>baby->新生児</li>
     <li>baby->赤ん坊</li>
@@ -179,11 +179,11 @@
   <HeatstrokeRevealed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が熱中症になる</li>
     <li>tale_noun->[PAWN_nameDef]がオーバーヒートする</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],砂の上をトボトボと歩いている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[TerrainFeature]の日陰に群がっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],水を探し求めている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],日陰を求めている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],焼けた大地をノロノロ進んでいる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],砂の上をトボトボと歩いている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[TerrainFeature]の日陰に群がっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],水を探し求めている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],日陰を求めている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],焼けた大地をノロノロ進んでいる</li>
     <li>circumstance_phrase->日焼けしながら</li>
     <li>circumstance_phrase->汗をかきながら</li>
     <li>circumstance_phrase->乾いた唇をひび割れさせながら</li>
@@ -222,11 +222,11 @@
   <HypothermiaRevealed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が低体温症になる</li>
     <li>tale_noun->[PAWN_nameDef]が凍死する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],雪の中をトボトボ歩いている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[TerrainFeature]の傍らに群がっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],暖かい[Apparel]を探し回っている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],暖の傍にうずくまっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],火を起こそうとしている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],雪の中をトボトボ歩いている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[TerrainFeature]の傍らに群がっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],暖かい[Apparel]を探し回っている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],暖の傍にうずくまっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],火を起こそうとしている</li>
     <li>circumstance_phrase->顔色がゆっくりと青ざめていく中</li>
     <li>circumstance_phrase->震えが止まらない様子で</li>
     <li>circumstance_phrase->寒気に包まれつつ</li>
@@ -265,12 +265,12 @@
   -->
   <IllnessRevealed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が[ILLNESS_label]を患う</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],外でふらつく</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],地面に横たわる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],ベッドに横たわる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],病院用ベッドに横たわる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],イスに倒れこむ</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],暖のそばにうずくまる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],外でふらつく</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],地面に横たわる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],ベッドに横たわる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],病院用ベッドに横たわる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],イスに倒れこむ</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],暖のそばにうずくまる</li>
     <li>circumstance_phrase->止めどもなく汗をかきながら</li>
     <li>circumstance_phrase->震えが止まらない様子で</li>
     <li>circumstance_phrase->汗と震えの両方が止まらない中</li>
@@ -321,8 +321,8 @@
   <KilledCapacity.rulePack.rulesStrings>
     <li>tale_noun->[KILLER_nameDef]が[VICTIM_nameDef]を[wound_name_present]</li>
     <li>tale_noun->[KILLER_nameDef]が[WEAPON_label]で[VICTIM_nameDef]を[wound_name_present]</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] の [CAPACITY_label]を[cap_removal]</li>
-    <li>image-> [KILLER_nameFull] が [VICTIM_nameFull] の [CAPACITY_label]を[cap_removal]ことによって,[VICTIM_possessive]を[wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]の [CAPACITY_label]を[cap_removal]</li>
+    <li>image-> [KILLER_nameFull]が [VICTIM_nameFull]の [CAPACITY_label]を[cap_removal]ことによって,[VICTIM_possessive]を[wound_name_present]</li>
     <li>cap_removal->破壊する</li>
     <li>cap_removal->除去する</li>
     <li>cap_removal->絶つ</li>
@@ -392,10 +392,10 @@
     <li>tale_noun->[KILLER_nameDef]が長距離から[WEAPON_label]で[VICTIM_nameDef]を[wound_name_present]</li>
     <li>tale_noun->[VICTIM_nameDef]を長距離から[wound_name_present][KILLER_nameDef]の</li>
     <li>tale_noun->[VICTIM_nameDef]を[WEAPON_label]で長距離から[wound_name_present],[KILLER_nameDef]の</li>
-    <li>image-> [KILLER_nameFull] が [VICTIM_nameFull] を [with_weapon_optional],狙いをつけている</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] を [wound_name_past]</li>
-    <li>image-> [KILLER_nameFull] が 冷淡に,そして[with_weapon_optional], [VICTIM_nameFull] を [wound_name_past]</li>
-    <li>image-> [VICTIM_nameFull] が [weapon_optinal][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [VICTIM_nameFull]を [with_weapon_optional],狙いをつけている</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が 冷淡に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_past]</li>
+    <li>image-> [VICTIM_nameFull]が [weapon_optinal][wound_name_past]</li>
     <li>wound_name_past->殺害される</li>
     <li>wound_name_past->殺される</li>
     <li>wound_name_past->打ちのめされる</li>
@@ -469,10 +469,10 @@
     <li>tale_noun->[KILLER_nameDef]が[WEAPON_label]で[VICTIM_nameDef]を[wound_name_present]</li>
     <li>tale_noun->[KILLER_nameDef]に[wound_name_past][VICTIM_nameDef]の</li>
     <li>tale_noun->[WEAPON_label]で[wound_name_past][VICTIM_nameDef]の</li>
-    <li>image-> [VICTIM_nameFull] が [KILLER_nameFull] に [with_weapon_optional][wound_name_past]</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [KILLER_nameFull] が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [VICTIM_nameFull] が [weapon_optinal][wound_name_past]</li>
+    <li>image-> [VICTIM_nameFull]が [KILLER_nameFull]に [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [VICTIM_nameFull]が [weapon_optinal][wound_name_past]</li>
     <li>wound_name_past->殺される</li>
     <li>wound_name_past->負けさせられる</li>
     <li>wound_name_past->圧倒される</li>
@@ -548,10 +548,10 @@
     <li>tale_noun->[KILLER_nameDef]が[WEAPON_label]を使った格闘戦で,[VICTIM_nameDef]を[wound_name_present]</li>
     <li>tale_noun->[KILLER_nameDef]に[wound_name_past][VICTIM_nameDef]の格闘戦の</li>
     <li>tale_noun->[KILLER_nameDef]に[WEAPON_label]で[wound_name_past][VICTIM_nameDef]の白兵戦の</li>
-    <li>image-> [VICTIM_nameFull] が [KILLER_nameFull] に [with_weapon_optional][wound_name_past]</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [KILLER_nameFull] が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull] を [wound_name_present]</li>
-    <li>image-> [VICTIM_nameFull] が [weapon_optinal][wound_name_past]</li>
+    <li>image-> [VICTIM_nameFull]が [KILLER_nameFull]に [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull]を [wound_name_present]</li>
+    <li>image-> [VICTIM_nameFull]が [weapon_optinal][wound_name_past]</li>
     <li>wound_name_past->殺害される</li>
     <li>wound_name_past->殺される</li>
     <li>wound_name_past->打ちのめされる</li>
@@ -609,14 +609,14 @@
   <KilledMortar.rulePack.rulesStrings>
     <li>tale_noun->[KILLER_nameDef]が迫撃砲で[VICTIM_nameDef]を殺す</li>
     <li>tale_noun->[VICTIM_nameDef]が[KILLER_nameDef]の迫撃砲で殺される</li>
-    <li>image->[circumstance_group] [KILLER_nameFull] が, 慎重に照準を合わせている</li>
-    <li>image->[circumstance_group] [KILLER_nameFull] が, 遠くに目をやっている</li>
-    <li>image->[circumstance_group] [KILLER_nameFull] が, 砲撃諸元値を求めている</li>
-    <li>image->[circumstance_group] [KILLER_nameFull] が, 風向きを確認している</li>
-    <li>circumstance_phrase-> [VICTIM_nameFull] が 大量の爆発に曝されている中,</li>
-    <li>circumstance_phrase->砲弾が放物線を描いて [VICTIM_nameFull] に 向かうのを確認した</li>
-    <li>circumstance_phrase-> [VICTIM_nameFull] が 辺り構わず歩き回っている中,</li>
-    <li>circumstance_phrase-> [VICTIM_nameFull] が 走るのを確認した</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]が, 慎重に照準を合わせている</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]が, 遠くに目をやっている</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]が, 砲撃諸元値を求めている</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]が, 風向きを確認している</li>
+    <li>circumstance_phrase-> [VICTIM_nameFull]が 大量の爆発に曝されている中,</li>
+    <li>circumstance_phrase->砲弾が放物線を描いて [VICTIM_nameFull]に 向かうのを確認した</li>
+    <li>circumstance_phrase-> [VICTIM_nameFull]が 辺り構わず歩き回っている中,</li>
+    <li>circumstance_phrase-> [VICTIM_nameFull]が 走るのを確認した</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が傍観している.</li>
     <li>desc_sentence->[PersonJob]が[side_position]で静かに注意を向けている.</li>
     <li>desc_sentence->[VICTIM_nameDef]は[AdjectiveAngsty]人のようだ.</li>
@@ -656,12 +656,12 @@
   <ToxicityRevealed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]の身体が毒に侵される</li>
     <li>tale_noun->[PAWN_nameDef]が外界の毒を取り込む</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],外でふらついている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],地面に横たわっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],ベッドに横たわっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],暖のそばにうずくまっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],火を起こそうとしている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],愚かにも自分の衣服を脱ごうとしている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],外でふらついている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],地面に横たわっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],ベッドに横たわっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],暖のそばにうずくまっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],火を起こそうとしている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],愚かにも自分の衣服を脱ごうとしている</li>
     <li>circumstance_phrase->止めどもなく汗をかきながら</li>
     <li>circumstance_phrase->震えが止まらない様子で</li>
     <li>circumstance_phrase->汗と震えの両方が止まらない中</li>
@@ -726,10 +726,10 @@
     <li>tale_noun->[KILLER_nameDef]に[wound_name_past][VICTIM_nameDef]の</li>
     <li>tale_noun->[KILLER_nameDef]に[WEAPON_label]で[wound_name_past],[VICTIM_nameDef]の</li>
     <li>tale_noun->[wound_name_past][VICTIM_nameDef]の</li>
-    <li>image-> [VICTIM_nameFull] が [KILLER_nameFull] に [with_weapon_optional][wound_name_past]</li>
-    <li>image-> [KILLER_nameFull] が [with_weapon_optional], [VICTIM_nameFull] に [wound_name_present]</li>
-    <li>image-> [KILLER_nameFull] が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull] に [wound_name_present]</li>
-    <li>image-> [VICTIM_nameFull] が [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [VICTIM_nameFull]が [KILLER_nameFull]に [with_weapon_optional][wound_name_past]</li>
+    <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]に [wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が 残忍に,そして[with_weapon_optional], [VICTIM_nameFull]に [wound_name_present]</li>
+    <li>image-> [VICTIM_nameFull]が [with_weapon_optional][wound_name_past]</li>
     <li>wound_name_past->傷を負わされる</li>
     <li>wound_name_past->危害を加えられる</li>
     <li>wound_name_past->苦痛を与えられる</li>

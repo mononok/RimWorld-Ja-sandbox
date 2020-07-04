@@ -32,9 +32,9 @@
     <li>tale_noun->[CAPTURER_nameDef]が[PRISONER_nameDef]を逮捕する</li>
     <li>tale_noun->[PRISONER_nameDef]が[CAPTURER_nameDef]によって逮捕される</li>
     <li>tale_noun->[PRISONER_nameDef]の逮捕の</li>
-    <li>image-> [CAPTURER_nameFull] が [circumstance_group] [PRISONER_nameFull] を 捕まえている</li>
-    <li>image-> [CAPTURER_nameFull] が [circumstance_group] [PRISONER_nameFull] の 手を縛っている</li>
-    <li>image-> [CAPTURER_nameFull] が [PRISONER_nameFull] を 捕まえつつ,[circumstance_group][PRISONER_objective]ぴしゃりと手で打っている</li>
+    <li>image-> [CAPTURER_nameFull]が [circumstance_group] [PRISONER_nameFull]を 捕まえている</li>
+    <li>image-> [CAPTURER_nameFull]が [circumstance_group] [PRISONER_nameFull]の 手を縛っている</li>
+    <li>image-> [CAPTURER_nameFull]が [PRISONER_nameFull]を 捕まえつつ,[circumstance_group][PRISONER_objective]ぴしゃりと手で打っている</li>
     <li>circumstance_phrase->地面をのたうちまわる</li>
     <li>circumstance_phrase->痛みで身をよじる</li>
     <li>circumstance_phrase->専門的な能力で,</li>
@@ -79,9 +79,9 @@
     <li>tale_noun->[SURGEON_nameDef]が[PATIENT_nameDef]に外科手術を行う</li>
     <li>tale_noun->[SURGEON_nameDef]が[PATIENT_nameDef]に医療行為を施す</li>
     <li>tale_noun->[PATIENT_nameDef]の外科手術の</li>
-    <li>image-> [SURGEON_nameFull] が [circumstance_group] [PATIENT_nameFull] を 麻酔で眠らせている</li>
-    <li>image-> [SURGEON_nameFull] が 手術中に[circumstance_group] [PATIENT_nameFull] の 肘まで深く差し込んでいる</li>
-    <li>image-> [SURGEON_nameFull] が 手術中に[circumstance_group] [PATIENT_nameFull] を 切り刻んでいる</li>
+    <li>image-> [SURGEON_nameFull]が [circumstance_group] [PATIENT_nameFull]を 麻酔で眠らせている</li>
+    <li>image-> [SURGEON_nameFull]が 手術中に[circumstance_group] [PATIENT_nameFull]の 肘まで深く差し込んでいる</li>
+    <li>image-> [SURGEON_nameFull]が 手術中に[circumstance_group] [PATIENT_nameFull]を 切り刻んでいる</li>
     <li>circumstance_phrase->恐怖に震える</li>
     <li>circumstance_phrase->足元に血だまりを作りながら,</li>
     <li>circumstance_phrase->見るも恐ろしい手術道具に囲まれている中で,</li>
@@ -127,10 +127,10 @@
     <li>tale_noun->[executioner]が[PRISONER_nameDef]を処刑する</li>
     <li>tale_noun->[PRISONER_nameDef]が[EXECUTIONER_nameDef]に処刑される</li>
     <li>tale_noun->[PRISONER_nameDef]の処刑の</li>
-    <li>image-> [EXECUTIONER_nameFull] が [circumstance_group] [PRISONER_nameFull] を 処刑している</li>
-    <li>image-> [EXECUTIONER_nameFull] が [circumstance_group] [PRISONER_nameFull] を 死の淵においやっている</li>
-    <li>image-> [EXECUTIONER_nameFull] が [circumstance_group] [PRISONER_nameFull] の 処刑の準備をしている</li>
-    <li>image-> [EXECUTIONER_nameFull] が [PRISONER_nameFull] の いる牢獄に入り,[circumstance_group][PRISONER_pronoun]を処刑するために連れ出している</li>
+    <li>image-> [EXECUTIONER_nameFull]が [circumstance_group] [PRISONER_nameFull]を 処刑している</li>
+    <li>image-> [EXECUTIONER_nameFull]が [circumstance_group] [PRISONER_nameFull]を 死の淵においやっている</li>
+    <li>image-> [EXECUTIONER_nameFull]が [circumstance_group] [PRISONER_nameFull]の 処刑の準備をしている</li>
+    <li>image-> [EXECUTIONER_nameFull]が [PRISONER_nameFull]の いる牢獄に入り,[circumstance_group][PRISONER_pronoun]を処刑するために連れ出している</li>
     <li>circumstance_phrase->地面をのたうちまわる</li>
     <li>circumstance_phrase->痛みで身をよじる</li>
     <li>circumstance_phrase->恐怖で叫ぶ</li>
@@ -173,9 +173,9 @@
     <li>tale_noun->[HUNTER_nameDef]が[PREY_nameDef]を狩る</li>
     <li>tale_noun->[PREY_nameDef]が[HUNTER_nameDef]によって狩猟される</li>
     <li>tale_noun->[HUNTER_nameDef]の狩りに成功の</li>
-    <li>image-> [PREY_nameFull] が [circumstance_group]隙に, [HUNTER_nameFull] に よって狩られている</li>
-    <li>image-> [HUNTER_nameFull] が, [circumstance_group] [PREY_nameFull] の そばへと遠くからこっそり忍び寄っている</li>
-    <li>image-> [HUNTER_nameFull] が, [circumstance_group] [PREY_nameFull] を 狩っている</li>
+    <li>image-> [PREY_nameFull]が [circumstance_group]隙に, [HUNTER_nameFull]によって 狩られている</li>
+    <li>image-> [HUNTER_nameFull]が, [circumstance_group] [PREY_nameFull]の そばへと遠くからこっそり忍び寄っている</li>
+    <li>image-> [HUNTER_nameFull]が, [circumstance_group] [PREY_nameFull]を 狩っている</li>
     <li>circumstance_phrase->気を緩めている</li>
     <li>circumstance_phrase->移動している</li>
     <li>circumstance_phrase->餌を食べている</li>
@@ -211,9 +211,9 @@
     <li>tale_noun->[KIDNAPPER_nameDef]が[VICTIM_nameDef]を誘拐する</li>
     <li>tale_noun->[VICTIM_nameDef]が[KIDNAPPER_nameDef]に拐われる</li>
     <li>tale_noun->[VICTIM_nameDef]の誘拐の</li>
-    <li>image-> [KIDNAPPER_nameFull] が [circumstance_group] [VICTIM_nameFull] を [KIDNAPPER_factionName]に連れ去っている</li>
-    <li>image->[KIDNAPPER_factionName]の [KIDNAPPER_nameFull] が, [circumstance_group] [VICTIM_nameFull] を 誘拐している</li>
-    <li>image-> [KIDNAPPER_nameFull] が [circumstance_group] [VICTIM_nameFull] を 誘拐している</li>
+    <li>image-> [KIDNAPPER_nameFull]が [circumstance_group] [VICTIM_nameFull]を [KIDNAPPER_factionName]に連れ去っている</li>
+    <li>image->[KIDNAPPER_factionName]の [KIDNAPPER_nameFull]が, [circumstance_group] [VICTIM_nameFull]を 誘拐している</li>
+    <li>image-> [KIDNAPPER_nameFull]が [circumstance_group] [VICTIM_nameFull]を 誘拐している</li>
     <li>circumstance_phrase->痛みで身をよじる</li>
     <li>circumstance_phrase->プロフェッショナルな手際の良さで,</li>
     <li>circumstance_phrase->素人っぽい雑さで,</li>
@@ -264,11 +264,11 @@
     <li>tale_noun->[VICTIM_nameDef]が[KILLER_nameDef]に殺される</li>
     <li>tale_noun->[KILLER_nameDef]による[VICTIM_nameDef]の殺害の</li>
     <li>tale_noun->[VICTIM_nameDef]の殺害の</li>
-    <li>image-> [VICTIM_nameFull] が, [KILLER_nameFull] に [circumstance_group]殺されている</li>
-    <li>image-> [KILLER_nameFull] が [circumstance_group], [VICTIM_nameFull] を 殺している</li>
-    <li>image-> [KILLER_nameFull] が [circumstance_group], [VICTIM_nameFull] の 人生を終わらせている</li>
-    <li>image-> [KILLER_nameFull] が [circumstance_group],そして残忍に [VICTIM_nameFull] を 殺している</li>
-    <li>image-> [VICTIM_nameFull] が [circumstance_group]殺されている</li>
+    <li>image-> [VICTIM_nameFull]が, [KILLER_nameFull]に [circumstance_group]殺されている</li>
+    <li>image-> [KILLER_nameFull]が [circumstance_group], [VICTIM_nameFull]を 殺している</li>
+    <li>image-> [KILLER_nameFull]が [circumstance_group], [VICTIM_nameFull]の 人生を終わらせている</li>
+    <li>image-> [KILLER_nameFull]が [circumstance_group],そして残忍に [VICTIM_nameFull]を 殺している</li>
+    <li>image-> [VICTIM_nameFull]が [circumstance_group]殺されている</li>
     <li>circumstance_phrase->一見したところ無慈悲に</li>
     <li>circumstance_phrase->冷酷に</li>
     <li>circumstance_phrase->激しい怒りと共に</li>
@@ -317,9 +317,9 @@
     <li>tale_noun->[RECRUITER_nameDef]が[JOINER_nameDef]を勧誘する</li>
     <li>tale_noun->[JOINER_nameDef]が[RECRUITER_nameDef]からの誘いを受ける</li>
     <li>tale_noun->[JOINER_nameDef]の勧誘の</li>
-    <li>image-> [RECRUITER_nameFull] が [circumstance_group], [JOINER_nameFull] を 勧誘している</li>
-    <li>image-> [RECRUITER_nameFull] が [circumstance_group], [JOINER_nameFull] が 入植者になることを歓迎している</li>
-    <li>image-> [RECRUITER_nameFull] が [circumstance_group], [JOINER_nameFull] が 納得のいくように話している</li>
+    <li>image-> [RECRUITER_nameFull]が [circumstance_group], [JOINER_nameFull]を 勧誘している</li>
+    <li>image-> [RECRUITER_nameFull]が [circumstance_group], [JOINER_nameFull]が 入植者になることを歓迎している</li>
+    <li>image-> [RECRUITER_nameFull]が [circumstance_group], [JOINER_nameFull]が 納得のいくように話している</li>
     <li>circumstance_phrase->誠意を表しつつ</li>
     <li>circumstance_phrase->心暖かい握手をしながら</li>
     <li>circumstance_phrase->皆に微笑みながら</li>
@@ -359,8 +359,8 @@
     <li>tale_noun->[PRISONER_nameDef]がトレーダーに売られる</li>
     <li>tale_noun->[SELLER_nameDef]が[PRISONER_nameDef]を奴隷として売る</li>
     <li>tale_noun->[PRISONER_nameDef]が奴隷として[SELLER_nameDef]に売られる</li>
-    <li>image-> [TRADER_nameFull] が [circumstance_group] [PRISONER_nameFull] を [SELLER_nameFull] から 買いとっている</li>
-    <li>image-> [SELLER_nameFull] が [circumstance_group] [PRISONER_nameFull] を [TRADER_nameFull] に 売っている</li>
+    <li>image-> [TRADER_nameFull]が [circumstance_group] [PRISONER_nameFull]を [SELLER_nameFull]から 買いとっている</li>
+    <li>image-> [SELLER_nameFull]が [circumstance_group] [PRISONER_nameFull]を [TRADER_nameFull]に 売っている</li>
     <li>circumstance_phrase->他の入植者に非難されながら,</li>
     <li>circumstance_phrase->取引金額を計算しながら,</li>
     <li>circumstance_phrase->悲しげな唸り声をあげている</li>
@@ -400,10 +400,10 @@
   <TamedAnimal.rulePack.rulesStrings>
     <li>tale_noun->[ANIMAL_nameDef]が[TAMER_nameDef]に飼い慣らされる</li>
     <li>tale_noun->[TAMER_nameDef]が[ANIMAL_nameDef]を飼い慣らす</li>
-    <li>image-> [TAMER_nameFull] が [circumstance_group], [ANIMAL_nameFull] を 飼い慣らしている</li>
-    <li>image-> [TAMER_nameFull] が [circumstance_group], [ANIMAL_nameFull] に ご馳走を与えている</li>
-    <li>image-> [TAMER_nameFull] が [circumstance_group],驚きやすい [ANIMAL_nameFull] に 小声で話しかけている</li>
-    <li>image-> [TAMER_nameFull] が [circumstance_group],野性の [ANIMAL_nameFull] を なだめている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group], [ANIMAL_nameFull]を 飼い慣らしている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group], [ANIMAL_nameFull]に ご馳走を与えている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],驚きやすい [ANIMAL_nameFull]に 小声で話しかけている</li>
+    <li>image-> [TAMER_nameFull]が [circumstance_group],野性の [ANIMAL_nameFull]を なだめている</li>
     <li>circumstance_phrase->最大限の注意と世話を払いつつ</li>
     <li>circumstance_phrase->笑顔と共に</li>
     <li>circumstance_phrase->疲れ果てながらも幸せそうに</li>
@@ -434,8 +434,8 @@
   -->
   <TradedWith.rulePack.rulesStrings>
     <li>tale_noun->[SELLER_nameDef]と[BUYER_nameDef]の商取引の</li>
-    <li>image->[circumstance_group] [BUYER_nameFull] が [SELLER_nameFull] から アイテムを買い取っている</li>
-    <li>image->[circumstance_group] [SELLER_nameFull] が [BUYER_nameFull] に アイテムを売りつけている</li>
+    <li>image->[circumstance_group] [BUYER_nameFull]が [SELLER_nameFull]から アイテムを買い取っている</li>
+    <li>image->[circumstance_group] [SELLER_nameFull]が [BUYER_nameFull]に アイテムを売りつけている</li>
     <li>circumstance_phrase->貪欲な目つきの</li>
     <li>circumstance_phrase->[SELLER_nameDef]がニヤニヤとした笑みを[BUYER_nameDef]に向け,</li>
     <li>desc_sentence->[BUYER_nameDef]は[SELLER_nameDef]の商品を品定めしている.</li>
@@ -488,9 +488,9 @@
     <li>tale_noun->[TRAINER_nameDef]が[ANIMAL_nameDef]を調教する</li>
     <li>tale_noun->[ANIMAL_nameDef]の調教の</li>
     <li>tale_noun->[TRAINER_nameDef]による[ANIMAL_nameDef]の調教の</li>
-    <li>image-> [TRAINER_nameFull] が [circumstance_group] [ANIMAL_nameFull] に [TRAINABLE_label]の[train_syn]をしている</li>
-    <li>image-> [TRAINER_nameFull] が [circumstance_group] [ANIMAL_nameFull] に [TRAINABLE_label]を教えている</li>
-    <li>image-> [TRAINER_nameFull] が [circumstance_group] [ANIMAL_nameFull] と [TRAINABLE_label]の練習をしている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]に [TRAINABLE_label]の[train_syn]をしている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]に [TRAINABLE_label]を教えている</li>
+    <li>image-> [TRAINER_nameFull]が [circumstance_group] [ANIMAL_nameFull]と [TRAINABLE_label]の練習をしている</li>
     <li>train_syn->調教</li>
     <li>train_syn->訓練</li>
     <li>train_syn->指導</li>

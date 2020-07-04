@@ -30,12 +30,12 @@
   <CaravanAmbushDefeated.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]キャラバン隊の鉄壁防御の</li>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が待ち伏せを返り討ちにする</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],組織的に抵抗する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],防衛的に[Weapon]を振るう</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[Weapon]を持って報復する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],仁王立ちして立ちはだかる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[AdjectiveBadass]表情を浮かべる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[AdjectiveAngsty]表情を浮かべる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],組織的に抵抗する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],防衛的に[Weapon]を振るう</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[Weapon]を持って報復する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],仁王立ちして立ちはだかる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[AdjectiveBadass]表情を浮かべる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[AdjectiveAngsty]表情を浮かべる</li>
     <li>circumstance_phrase->前進してくる大群に立ち向かいながら</li>
     <li>circumstance_phrase->回りを囲まれながら</li>
     <li>circumstance_phrase->勝利への雄叫びをあげるながら</li>
@@ -75,10 +75,10 @@
   -->
   <CaravanAssaultSuccessful.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が敵要塞を陥落させる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[Enemy]に走り向かう</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[Weapon]を振り回す</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[Weapon]を振り下ろす</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],仁王立ちして立ちはだかる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[Enemy]に走り向かう</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[Weapon]を振り回す</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[Weapon]を振り下ろす</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],仁王立ちして立ちはだかる</li>
     <li>circumstance_phrase->両目に[AdjectiveBadass]表情を浮かべながら</li>
     <li>circumstance_phrase->両目に[AdjectiveAngsty]表情を浮かべながら</li>
     <li>circumstance_phrase->勝利への雄叫びをあげながら</li>
@@ -122,11 +122,11 @@
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が危機から脱出する</li>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が間一髪で脱出する</li>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊が敵に追われる身となる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],必死に走る</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],全速力で走る</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],逃げようと[TerrainFeature]の影に身体を滑りこませて隠れる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],逃げ隠れせずに抵抗する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],それでも呑気にぶらぶら歩く</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],必死に走る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],全速力で走る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],逃げようと[TerrainFeature]の影に身体を滑りこませて隠れる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],逃げ隠れせずに抵抗する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],それでも呑気にぶらぶら歩く</li>
     <li>circumstance_phrase->[Quantity_adjphrase]体の[Enemy]達に追われて</li>
     <li>circumstance_phrase->[Quantity_adjphrase]体の[Enemy]達に行方を探されている中で</li>
     <li>circumstance_phrase->[Quantity_adjphrase]体の[Enemy]達の追手がいる中で</li>
@@ -164,10 +164,10 @@
   <CaravanFormed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が冒険に旅立つ</li>
     <li>tale_noun->[PAWN_nameDef]がキャラバン隊を編成する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],目的を持って大股で歩き出す</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],水平線の向こうへ視線をやる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],旅の準備のために荷造りをする</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],旅の計画を練る</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],目的を持って大股で歩き出す</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],水平線の向こうへ視線をやる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],旅の準備のために荷造りをする</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],旅の計画を練る</li>
     <li>circumstance_phrase->戦いの準備をしつつ</li>
     <li>circumstance_phrase->サバイバルに備え</li>
     <li>circumstance_phrase->探検の装備を整えつつ</li>
@@ -204,11 +204,11 @@
   -->
   <CaravanRemoteMining.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]のキャラバン隊がその土地の豊富な[MATERIAL_label]鉱脈を掘る</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group]掘削ツールを使い,[MATERIAL_label]の岩肌で作業する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[MATERIAL_label]の鉱石を持ち上げる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],[MATERIAL_label]の岩肌の前で休憩する</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],豊富な[MATERIAL_label]鉱脈を前にし,掘削チームの調整をする</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],注意深く豊富な[MATERIAL_label]鉱脈を探査する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group]掘削ツールを使い,[MATERIAL_label]の岩肌で作業する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[MATERIAL_label]の鉱石を持ち上げる</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],[MATERIAL_label]の岩肌の前で休憩する</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],豊富な[MATERIAL_label]鉱脈を前にし,掘削チームの調整をする</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],注意深く豊富な[MATERIAL_label]鉱脈を探査する</li>
     <li>circumstance_phrase->汗だくになりながら</li>
     <li>circumstance_phrase->[AdjectiveFriendly]表情を浮かべながら</li>
     <li>circumstance_phrase->誇らしげに微笑みながら</li>

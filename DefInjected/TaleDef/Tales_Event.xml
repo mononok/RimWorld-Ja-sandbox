@@ -21,10 +21,10 @@
   <CollapseDodged.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が崩落事故から身をかわす</li>
     <li>tale_noun->[PAWN_nameDef]の周囲が崩落による落下物で粉々にされる</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],崩落してきた岩のかけらを飛び跳ねて避けている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],かろうじて崩落事故を避けている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],落下してきた天井を避けている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],落石で死ぬところを免れている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],崩落してきた岩のかけらを飛び跳ねて避けている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],かろうじて崩落事故を避けている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],落下してきた天井を避けている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],落石で死ぬところを免れている</li>
     <li>circumstance_phrase->一面の塵と粉塵の中に消えるように</li>
     <li>circumstance_phrase->下にある物全てを粉々にする程の規模の中</li>
     <li>circumstance_phrase->尋常ではない衝撃を受けながらも</li>
@@ -62,10 +62,10 @@
   <LaunchedShip.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が惑星から脱出する</li>
     <li>tale_noun->[PAWN_nameDef]が宇宙船で旅立つ</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],宇宙へと打ち上げられている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],天に向かっている</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],重力圏離脱速度に向けて加速している</li>
-    <li>image-> [PAWN_nameFull] が [circumstance_group],ロケットを操縦している</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],宇宙へと打ち上げられている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],天に向かっている</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],重力圏離脱速度に向けて加速している</li>
+    <li>image-> [PAWN_nameFull]が [circumstance_group],ロケットを操縦している</li>
     <li>circumstance_phrase->[TerrainFeature]を前にして</li>
     <li>circumstance_phrase->途方もない力を使って</li>
     <li>circumstance_phrase->吹き飛ばされる塵や岩の中で</li>
@@ -120,27 +120,27 @@
   -->
   <SocialFight.rulePack.rulesStrings>
     <li>tale_noun->[INITIATOR_nameDef]が[RESPONDER_nameDef][fight_name_present]</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]侮辱している</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]罵っている</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]脅している</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]怖がらせている</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]攻撃している</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]暴行している</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]殴っている</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]蹴っている</li>
-    <li>image-> [INITIATOR_nameFull] が [circumstance_group],[RESPONDER_objective]委縮させている</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]侮辱している</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]罵っている</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]脅している</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]怖がらせている</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]攻撃している</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]暴行している</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]殴っている</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]蹴っている</li>
+    <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]委縮させている</li>
     <li>fight_name_present->に暴行を加える</li>
     <li>fight_name_present->に攻撃する</li>
     <li>fight_name_present->と闘う</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 侮辱されつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 罵られつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 脅されつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 怖がらせられつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 攻撃されつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 暴行されつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 殴られつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 蹴られつつ</li>
-    <li>circumstance_phrase->[RESPONDER_nameFull] に 委縮させられつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 侮辱されつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 罵られつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 脅されつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 怖がらせられつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 攻撃されつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 暴行されつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 殴られつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 蹴られつつ</li>
+    <li>circumstance_phrase->[RESPONDER_nameFull]に 委縮させられつつ</li>
     <li>desc_sentence->[target]は後悔していないようだ.</li>
     <li>desc_sentence->[target]は怒りの矛先を向けられている.</li>
     <li>desc_sentence->[target]の顔には何の感情も表情も浮かんでいない.</li>

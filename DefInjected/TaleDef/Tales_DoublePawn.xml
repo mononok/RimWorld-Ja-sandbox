@@ -488,19 +488,19 @@
     <li>tale_noun->[TRAINER_nameDef]が[ANIMAL_nameDef]を調教する</li>
     <li>tale_noun->[ANIMAL_nameDef]の調教の</li>
     <li>tale_noun->[TRAINER_nameDef]による[ANIMAL_nameDef]の調教の</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]の[train_syn]をしている</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]を教えている</li>
-    <li>image-> [TRAINER_nameFull]が [circumstance_group][ANIMAL_nameFull]と[TRAINABLE_label]の練習をしている</li>
+    <li>image-> [TRAINER_nameFull]が[circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]の[train_syn]をしている</li>
+    <li>image-> [TRAINER_nameFull]が[circumstance_group][ANIMAL_nameFull]に[TRAINABLE_label]を教えている</li>
+    <li>image-> [TRAINER_nameFull]が[circumstance_group][ANIMAL_nameFull]と[TRAINABLE_label]の練習をしている</li>
     <li>train_syn->調教</li>
     <li>train_syn->訓練</li>
     <li>train_syn->指導</li>
     <li>train_syn->教え込み</li>
     <li>train_syn->教育</li>
-    <li>circumstance_phrase->他の動物にも見えるように,</li>
-    <li>circumstance_phrase->野性の[Animal]に嫌悪の目で見られつつ,</li>
-    <li>circumstance_phrase->,自分がまだ野生動物だった頃の単純な日々に思いを馳せる</li>
-    <li>circumstance_phrase->今日のランチのことに気を取られながら,</li>
-    <li>circumstance_phrase->他の入植者は何をしているんだろうと気をとられながら,</li>
+    <li>circumstance_phrase-> 他の動物にも見えるように,</li>
+    <li>circumstance_phrase-> 野性の[Animal]に嫌悪の目で見られつつ,</li>
+    <li>circumstance_phrase->, 自分がまだ野生動物だった頃の単純な日々に思いを馳せる</li>
+    <li>circumstance_phrase-> ランチの内容について考えながら,</li>
+    <li>circumstance_phrase-> 他の入植者達がそれ以外の仕事をしているなか,</li>
     <li>desc_sentence->[TRAINER_nameDef]は喜びを表にだしている.</li>
     <li>desc_sentence->[TRAINER_nameDef]は微笑んでいる.</li>
     <li>desc_sentence->[TRAINER_nameDef]はうんざりして飽きている.</li>

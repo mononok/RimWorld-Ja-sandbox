@@ -110,8 +110,8 @@
     <li>circumstance_phrase->身体も動かせずに</li>
     <li>desc_sentence->[PAWN_nameDef]のようやく完了させたプロジェクトが,傍らに置いてある.</li>
     <li>desc_sentence->驚嘆に値する建造物が[PAWN_nameDef]を囲んでいる.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,[PAWN_nameDef]の英雄的な努力に感謝しているようだ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,同じような状況に近いまま置かれている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が[PAWN_nameDef]の英雄的な努力に感謝しているようだ.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が同じような状況に近いまま置かれている.</li>
     <li>desc_sentence->この場面は,新しく作られた[Community]の中で起きているようだ.</li>
   </Exhausted.rulePack.rulesStrings>
   
@@ -189,7 +189,7 @@
     <li>circumstance_phrase->乾いた唇をひび割れさせながら</li>
     <li>circumstance_phrase->吐きながら</li>
     <li>desc_sentence->[Quantity_adjphrase]体の,カラカラに乾いた[Animal]の屍骸が辺りを囲んでいる.</li>
-    <li>desc_sentence->[PAWN_nameDef]の衣服はボロボロに敗れたり裂けたりしている.</li>
+    <li>desc_sentence->[PAWN_nameDef]の衣服はボロボロに破れ,裂けている.</li>
     <li>desc_sentence->背景には灼熱の太陽がぼんやりと姿を現している.</li>
     <li>desc_sentence->この場面は,灼熱の砂漠の中で起きているようだ.</li>
     <li>desc_sentence->この場面は,屋内にあるストーブの真横で起きているようだ.</li>
@@ -221,7 +221,7 @@
   -->
   <HypothermiaRevealed.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]が低体温症になる</li>
-    <li>tale_noun->[PAWN_nameDef]が凍死する</li>
+    <li>tale_noun->[PAWN_nameDef]が凍死しかける</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],雪の中をトボトボ歩いている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[TerrainFeature]の傍らに群がっている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],暖かい[Apparel]を探し回っている</li>
@@ -232,7 +232,7 @@
     <li>circumstance_phrase->寒気に包まれつつ</li>
     <li>circumstance_phrase->白い息を口から吐きながら</li>
     <li>desc_sentence->[Quantity_adjphrase]体の,凍った[Animal]の屍骸が周りを囲んでいる.</li>
-    <li>desc_sentence->[PAWN_nameDef]の衣服はボロボロに敗れたりすり減っている.</li>
+    <li>desc_sentence->[PAWN_nameDef]の衣服はボロボロに破れ,すり減っている.</li>
     <li>desc_sentence->背景には凍てついた月がぼんやりと姿を現している.</li>
     <li>desc_sentence->この場面は,樹氷となった[TreeType]の森で起きているようだ.</li>
     <li>desc_sentence->この場面は,冷凍庫の中で起きているようだ.</li>
@@ -322,7 +322,7 @@
     <li>tale_noun->[KILLER_nameDef]が[VICTIM_nameDef]を[wound_name_present]</li>
     <li>tale_noun->[KILLER_nameDef]が[WEAPON_label]で[VICTIM_nameDef]を[wound_name_present]</li>
     <li>image-> [KILLER_nameFull]が [with_weapon_optional], [VICTIM_nameFull]の [CAPACITY_label]を[cap_removal]</li>
-    <li>image-> [KILLER_nameFull]が [VICTIM_nameFull]の [CAPACITY_label]を[cap_removal]ことによって,[VICTIM_possessive]を[wound_name_present]</li>
+    <li>image-> [KILLER_nameFull]が [VICTIM_nameFull]の [CAPACITY_label]を[cap_removal]ことによって,[VICTIM_pronoun]を[wound_name_present]</li>
     <li>cap_removal->破壊する</li>
     <li>cap_removal->除去する</li>
     <li>cap_removal->絶つ</li>

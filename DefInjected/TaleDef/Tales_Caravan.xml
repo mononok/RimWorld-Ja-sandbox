@@ -41,12 +41,12 @@
     <li>circumstance_phrase->勝利への雄叫びをあげるながら</li>
     <li>circumstance_phrase->[Weapon]を振り回しながら</li>
     <li>circumstance_phrase->[Gore]に覆われながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が,[Weapon]を大げさに振り回しながら迫ってきている.</li>
-    <li>desc_sentence->巨大な[Enemy]が,[Weapon]を大げさに振り回しながら迫ってきている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が,両目に[AdjectiveBadass]光をたぎらせながら迫ってきている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が,両目に[AdjectiveAngsty]光をたぎらせながら迫ってきている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,両目に[Color]色の光をたぎらせながら迫ってきている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,全身[Gore]まみれになりながら迫ってきている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が[Weapon]を大げさに振り回しながら迫ってきている.</li>
+    <li>desc_sentence->巨大な[Enemy]が[Weapon]を大げさに振り回しながら迫ってきている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が両目に[AdjectiveBadass]光をたぎらせながら迫ってきている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が両目に[AdjectiveAngsty]光をたぎらせながら迫ってきている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が両目に[Color]色の光をたぎらせながら迫ってきている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が全身[Gore]まみれになりながら迫ってきている.</li>
     <li>desc_sentence->辺り一面[Gore]まみれになっている.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達はその場から逃げている.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]はその場から逃げている.</li>
@@ -215,7 +215,7 @@
     <li>circumstance_phrase->[PAWN_possessive]顔に満足げな笑みを浮かべながら</li>
     <li>circumstance_phrase->危険に用心しながら</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[ally]達も協力している.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]らが辺りをうろついている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が辺りをうろついている.</li>
     <li>desc_sentence->一時しのぎの隠れ家としての思惑もあるようだ.</li>
     <li>desc_sentence->[Quantity_adjphrase]個のさらなる鉱脈も遠くに見える.</li>
     <li>desc_sentence->遠くには[TerrainFeature]が見える.</li>

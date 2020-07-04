@@ -246,7 +246,7 @@
     <li>subimagesingle->一本の[TreeType]の樹</li>
     <li>subimagesingle->一つの[Vegetable]</li>
     <li>subimagesingle->一つの[Animal]の[AnimalGroup]</li>
-    <li>subimageplural(p=3)->[Quantity_adjphrase]体の[Character]達</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase]体の[Character]</li>
     <li>subimageplural->[Quantity_adjphrase]個の[Vegetable]</li>
     <li>subimageplural->[Quantity_adjphrase]個の[Shape]</li>
     <li>pawn_adj->死んだ</li>
@@ -294,8 +294,8 @@
     <li>side_position->主題の下部</li>
     <li>side_position->後ろ焦点</li>
     <!--=== style_clause ===-->
-    <li>style_clause(p=4)->この作品は[ConceptAny][symbolizes]</li>
-    <li>artextra_clause->[side_position]にある[subimagesingle]は,[ConceptAny][symbolizes] </li>
+    <li>style_clause(p=4)->この作品は「[ConceptAny]」[symbolizes]</li>
+    <li>artextra_clause->[side_position]にある[subimagesingle]は,「[ConceptAny]」[symbolizes] </li>
     <li>style_clause->この作品は[ConceptAny]のアイデアが吹き込まれ,[artstyle_adj]様式となっている</li>
     <li>style_clause->この作品は[artstyle_adj]様式で創作されている</li>
     <li>style_clause->主要なシーンの[artstyle_adj]様式は,[artstyle_adj]様式の背景描写とぶつかり合っている</li>
@@ -315,7 +315,7 @@
     <li>symbolizes->を見る者に思い起こさせる</li>
     <li>symbolizes->の感動を伝えているようだ</li>
     <li>symbolizes->を見る者に想起させる</li>
-    <li>symbolizes->を,作者の立場から表しているようだ</li>
+    <li>symbolizes->を作者の立場から表しているようだ</li>
     <li>symbolizes->の概念を暗示しているようだ</li>
     <li>depicts->描写している</li>
     <li>depicts->示している</li>

@@ -170,7 +170,7 @@
     <li>circumstance_phrase->他の者も立ち会っている中</li>
     <li>circumstance_phrase->[Enemy]達に脅迫されつつ</li>
     <li>desc_sentence->[Enemy]達によって[PAWN_nameDef]は実質的に囲まれている.</li>
-    <li>desc_sentence->すぐそばにいる[Quantity_adjphrase]体の[Enemy]達は,[action].</li>
+    <li>desc_sentence->すぐそばにいる[Quantity_adjphrase]体の[Enemy]達は[action].</li>
     <li>desc_sentence->太陽が[TerrainFeature]に沈んでいる.</li>
     <li>desc_sentence->太陽が[TerrainFeature]から昇っている.</li>
     <li>desc_sentence->遠くでは[PersonJob]が見張っている.</li>
@@ -845,7 +845,7 @@
     <li>desc_sentence->[Quantity_adjphrase]匹の飢えた[Animal]が,この作品の周囲を囲っている.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の震えた[Animal]が,この作品の周囲を囲っている.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Animal]の屍骸が地面に散らばっている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,困惑しながらあてどなく歩き回っている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が困惑しながらあてどなく歩き回っている.</li>
   </VolcanicWinter.rulePack.rulesStrings>
   
 </LanguageData>

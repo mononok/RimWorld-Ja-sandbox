@@ -115,7 +115,7 @@
     <li>desc_sentence->[AdjectiveFriendly]表情を浮かべた[CORPSE_nameDef]の霊が,[DIGGER_nameDef]の前に立っている.</li>
     <li>desc_sentence->[CORPSE_nameDef]の霊が[AdjectiveAngsty]表情で上から見ている.</li>
     <li>desc_sentence->[AdjectiveAngsty]表情を浮かべた[CORPSE_nameDef]の霊が,[DIGGER_nameDef]の前に立っている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,その近くで安らかに休んでいる.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がその近くで安らかに休んでいる.</li>
   </BuriedCorpse.rulePack.rulesStrings>
   
   <!-- EN: completed long construction project -->
@@ -151,8 +151,8 @@
     <li>desc_sentence->[PAWN_nameDef]の眼前に[OBJECT_label]のタワーが現れている.</li>
     <li>desc_sentence->[OBJECT_label]は滑らかな[Color]色に輝いている.</li>
     <li>desc_sentence->[OBJECT_label]の細部は複雑な見た目だ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,[OBJECT_label]を見て驚いている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,畏怖の念を込めながらそれをジッと見ている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が[OBJECT_label]を見て驚いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が畏怖の念を込めながらそれをジッと見ている.</li>
   </CompletedLongConstructionProject.rulePack.rulesStrings>
   
   <!-- EN: completed long crafting project -->
@@ -188,8 +188,8 @@
     <li>desc_sentence->[OBJECT_label]は滑らかな[Color]色に輝いている.</li>
     <li>desc_sentence->[OBJECT_label]の細部は複雑な見た目だ.</li>
     <li>desc_sentence->[PAWN_nameDef]は,一見したところ軽々と[OBJECT_label]を持ち上げているようだ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,この装置を見て驚いていようだ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が,畏怖の念を込めながらそれをジッと見ている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達がこの装置を見て驚いていようだ.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が畏怖の念を込めながらそれをジッと見ている.</li>
   </CompletedLongCraftingProject.rulePack.rulesStrings>
   
   <!-- EN: entered cryptosleep -->
@@ -221,7 +221,7 @@
     <li>circumstance_phrase->思いに耽けながら</li>
     <li>circumstance_phrase->遠くの[TerrainFeature]をじっと見つめながら</li>
     <li>circumstance_phrase->静かな会話を交わしながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,その近くで安らかに休んでいる.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がその近くで安らかに休んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が迫ってきている.</li>
     <li>desc_sentence->[PAWN_nameDef]は自分の決意を伝達しているようだ.</li>
     <li>desc_sentence->[PAWN_nameDef]は目に見える傷を負っている.</li>
@@ -471,12 +471,12 @@
     <li>desc_sentence->空では[Color]色のオーロラが輝いている.</li>
     <li>desc_sentence->遥か遠くには[Community]が見える.</li>
     <li>desc_sentence->遥か遠くには[TerrainFeature]が見える.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は,[PAWN_nameDef]と同様にプレイがうまいようだ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]は,近くで遊んでいる.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_nameDef]と同様にプレイがうまいようだ.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]は近くで遊んでいる.</li>
     <li>desc_sentence->[PAWN_nameDef]は,[Color]色のオーラに包まれている.</li>
     <li>desc_sentence->[PAWN_nameDef]の特徴が誇張されている.</li>
     <li>desc_sentence->この場面では,[PAWN_nameDef]は群を抜いているようだ.</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は,負けこんでスランプに落ちているようだ.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は負けこんでスランプに落ちているようだ.</li>
   </PlayedGame.rulePack.rulesStrings>
   
   <!-- EN: prayed -->
@@ -510,7 +510,7 @@
     <li>circumstance_phrase->希望に満ちた表情を浮かべ</li>
     <li>circumstance_phrase->心静かに成長させながら</li>
     <li>circumstance_phrase->[Color]色のオーラに包まれながら</li>
-    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は,[PAWN_pronoun]に驚いている.</li>
+    <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達は[PAWN_pronoun]に驚いている.</li>
     <li>desc_sentence->[PAWN_pronoun]は,[Quantity_adjphrase]匹の[Animal]に囲まれている.</li>
     <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が安らかに休んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達はこれを見て畏敬の念を起こしているようだ.</li>
@@ -545,7 +545,7 @@
     <li>circumstance_phrase->思いに耽けながら</li>
     <li>circumstance_phrase->遠くの[TerrainFeature]をじっと見つめながら</li>
     <li>circumstance_phrase->緊張しつつ</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,その近くで安らかに休んでいる.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がその近くで安らかに休んでいる.</li>
     <li>desc_sentence->[Quantity_adjphrase]体の[Enemy]達が迫ってきている.</li>
     <li>desc_sentence->[CARRIER_nameDef]は自分の決意を伝達しているようだ.</li>
     <li>desc_sentence->[SLEEPER_nameDef]は目に見える傷を負っている.</li>
@@ -630,7 +630,7 @@
     <li>desc_sentence->[AdjectiveFriendly]表情を浮かべた[CORPSE_nameDef]の霊が,[VISITOR_nameDef]の前に立っている.</li>
     <li>desc_sentence->[CORPSE_nameDef]の霊が[AdjectiveAngsty]表情で上から見ている.</li>
     <li>desc_sentence->[AdjectiveAngsty]表情を浮かべた[CORPSE_nameDef]の霊が,[VISITOR_nameDef]の前に立っている.</li>
-    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]が,その近くで安らかに休んでいる.</li>
+    <li>desc_sentence->[Quantity_adjphrase]匹の[Animal]がその近くで安らかに休んでいる.</li>
   </VisitedGrave.rulePack.rulesStrings>
   
 </LanguageData>

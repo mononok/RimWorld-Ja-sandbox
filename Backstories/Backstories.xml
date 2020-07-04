@@ -1380,7 +1380,7 @@
         <titleShort>後継者</titleShort>
         <desc>[PAWN_nameDef]は封建的な Steamworld の浮浪児でした.
 
-[PAWN_pronoun]は食料を盗もうと王宮に忍びこんだところ,世継ぎが欲しくて必死だった皇帝は,[PAWN_objective]を捕らえ,次の継承者となるべく仕込みました.</desc>
+[PAWN_pronoun]は食料を盗もうと王宮に忍びこんだところ,世継ぎが欲しくて必死だった皇帝は,[PAWN_objective]捕らえ,次の継承者となるべく仕込みました.</desc>
     </CommonerHeir5>
     <CommonerLord45>
         <title>平民出の君主</title>
@@ -4150,7 +4150,7 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 	<PlanetaryMiner64>
 		<title>惑星鉱山労働者</title>
 		<titleShort>鉱山労働者</titleShort>
-		<desc>[PAWN_nameDef]は,大手惑星鉱山会社のマイニングエンジニアでした. [PAWN_pronoun]の作業は,一度に[PAWN_objective]を数週間地下に保持し,[PAWN_pronoun]は暗闇を高く評価するようになりました.</desc>
+		<desc>[PAWN_nameDef]は,大手惑星鉱山会社のマイニングエンジニアでした. [PAWN_pronoun]の作業は,一度に[PAWN_objective]数週間地下に保持し,[PAWN_pronoun]は暗闇を高く評価するようになりました.</desc>
 	</PlanetaryMiner64>
 	<Mailman2>
 		<title>郵便配達員</title>
@@ -4255,7 +4255,7 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
         <titleShort>兵士</titleShort>
         <desc>[PAWN_pronoun]は,長い間続く戦争で強い兵士でした. [PAWN_possessive]最終戦闘で,[PAWN_possessive]ユニットは退却をカバーするために犠牲になりました. [PAWN_nameDef]は[PAWN_possessive]仲間が死ぬのを見て,唯一の生存者でした.
 
-経験は[PAWN_objective]を破壊し,[PAWN_objective]の感情を和らげる対処戦略なしで[PAWN_objective]を残しました.
+経験は[PAWN_objective]破壊し,[PAWN_objective]の感情を和らげる対処戦略なしで[PAWN_objective]残しました.
 
 [PAWN_nameDef]は病院に引き込むことを学びました.</desc>
 	</BrokenSoldier29>
@@ -4383,7 +4383,7 @@ On the rare occasion a battle occurred, [PAWN_nameDef] directed the military com
         <titleShort>獣使い</titleShort>
         <desc>[PAWN_nameDef]の家族には,継承する適切な肩書きよりも多くの子供がいました. [PAWN_nameDef]は,出生順位が低いため,獣使いの称号を与えられました.
 
-[PAWN_nameDef]は家族の大規模な動物園を管理しました. [PAWN_pronoun]は実際に獣の世話をしたことはありませんでしたが,[PAWN_pronoun]は多くの獣と関わりました. [PAWN_objective]を評価した他の人はほとんどいませんでした.</desc>
+[PAWN_nameDef]は家族の大規模な動物園を管理しました. [PAWN_pronoun]は実際に獣の世話をしたことはありませんでしたが,[PAWN_pronoun]は多くの獣と関わりました. [PAWN_objective]評価した他の人はほとんどいませんでした.</desc>
 	</Beastmaster67>
 	<ArtsPatron54>
         <title>芸術家のパトロン</title>
@@ -4442,9 +4442,9 @@ They pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from develo
 	<UnwantedSurvivor67>
         <title>望まない生存者</title>
         <titleShort>生存者</titleShort>
-        <desc>[PAWN_nameDef]の貴族は[PAWN_objective]を望んでいませんでしたが,[PAWN_objective]を直接暗殺することは出来ませんでした. 彼らは,若すぎる年齢で適切な保護なしに[PAWN_objective]を危険な任務に割り当てることにより,[PAWN_objective]を殺そうとしました.
+        <desc>[PAWN_nameDef]の貴族は[PAWN_objective]望んでいませんでしたが,[PAWN_objective]直接暗殺することは出来ませんでした. 彼らは,若すぎる年齢で適切な保護なしに[PAWN_objective]危険な任務に割り当てることにより,[PAWN_objective]殺そうとしました.
 
-馬上槍試合,競馬の試合,リバーランの大会,および戦場.すべての予想に反して,[PAWN_nameDef]は生き残りました. それらの試みは結果的に[PAWN_objective]を精強にしただけに終わりました.</desc>
+馬上槍試合,競馬の試合,リバーランの大会,および戦場.すべての予想に反して,[PAWN_nameDef]は生き残りました. それらの試みは結果的に[PAWN_objective]精強にしただけに終わりました.</desc>
 	</UnwantedSurvivor67>
 	<MedievalSailor97>
         <title>中世の船乗り</title>
@@ -4482,7 +4482,7 @@ They pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from develo
 	<MusicalKid86>
         <title>ミュージカルキッド</title>
         <titleShort>ミュージシャン</titleShort>
-        <desc>子供の頃,[PAWN_nameDef]は楽器を演奏したり歌ったりする才能がありました. [PAWN_pronoun]は専門家のトレーニングを受け,リサイタルやコンサートで演奏するのが大好きでしたが,豪華な賞賛[PAWN_pronoun]は[PAWN_objective]を少し自己執着にしました.</desc>
+        <desc>子供の頃,[PAWN_nameDef]は楽器を演奏したり歌ったりする才能がありました. [PAWN_pronoun]は専門家のトレーニングを受け,リサイタルやコンサートで演奏するのが大好きでしたが,豪華な賞賛[PAWN_pronoun]は[PAWN_objective]少し自己執着にしました.</desc>
 	</MusicalKid86>
 	<ShopKid36>
         <title>店番の子供</title>

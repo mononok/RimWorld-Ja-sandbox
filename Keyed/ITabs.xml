@@ -96,6 +96,10 @@
   <PrisonBreakMTBDays>脱獄試行間隔</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
   <PrisonBreakMTBDaysDescription>脱獄を企てる平均間隔時間です.最後に脱獄を試みてからの,心情,流動性,時間の影響を受けます.\n\nこの時間には睡眠時間は含まれません,実際の間隔時間は通常長くなる傾向にあります.</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>脱獄しません</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>眠っていない時</NotWhileAsleep>
   <!-- EN: Slave price -->
   <SlavePrice>奴隷価格</SlavePrice>
   <!-- EN: Gets food -->
@@ -318,10 +322,12 @@
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>このクエストを却下して却下タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報奨と有効期限は普通通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
+  <DismissQuest>このクエストを却下して却下タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報酬と有効期限は普通通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
   <UnDismissQuest>このクエストの却下を取り消します.\n\nクエストは保留か受領タブへ戻り,通知は再び有効となります.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
   <QuestDismissed>このクエストは却下されたので,ここにあります.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>このクエストを削除して,クエストリストから完全に消去します.</DeleteQuest>
 
 </LanguageData>

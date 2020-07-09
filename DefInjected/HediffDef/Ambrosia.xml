@@ -18,12 +18,13 @@
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
   <AmbrosiaTolerance.description>アンブロージアに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのアンブロージアが必要です.</AmbrosiaTolerance.description>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-0.label>小</AmbrosiaTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-1.label>小</AmbrosiaTolerance.stages.small-1.label>
+  <AmbrosiaTolerance.stages.small.label>小</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->
   <AmbrosiaTolerance.stages.large.label>大</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->
   <AmbrosiaTolerance.stages.massive.label>極大</AmbrosiaTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <AmbrosiaTolerance.stages.small-1.label>小</AmbrosiaTolerance.stages.small-1.label>
   
 </LanguageData>

@@ -69,11 +69,11 @@
   <Turret_Sniper.label>ウランスラグタレット</Turret_Sniper.label>
   <!-- EN: An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
   <Turret_Sniper.description>長距離,装甲貫通弾タレットです.超高密度ウラン弾が長距離からでも重装甲を貫通することが可能ですが,使用毎に,新しいウランスラグ弾の装填が必要となります.距離が遠くなるほど,より精度が高くなりますが,至近距離には発砲できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
-  <!-- EN: Barrel durability -->
-  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium slugs -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>ウランスラグ弾</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until rearm -->
   <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelLabel>
-  <!-- EN: Cannot shoot: Needs rearm -->
-  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Cannot shoot: No slugs -->
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 弾がない</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
   
 </LanguageData>

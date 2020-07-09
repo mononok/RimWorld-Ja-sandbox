@@ -26,6 +26,8 @@
   <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>翻訳ファイルを更新する(TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>翻訳ファイルを正規化しています</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -392,6 +394,8 @@
   <IncapableOfTooltipHediff>{0}が原因</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>無効な職業:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by quest status: {0} -->
+  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>才能・性格</Traits>
   <!-- EN: Permanent mood effect -->
@@ -463,5 +467,7 @@
 
   <!-- EN: Click for more info -->
   <ClickForMoreInfo>更に知りたい時はクリック</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
 </LanguageData>

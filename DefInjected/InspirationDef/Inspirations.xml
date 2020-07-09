@@ -5,8 +5,8 @@
   <Frenzy_Go.label>熱狂的な意欲</Frenzy_Go.label>
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>やる気: 意欲</Frenzy_Go.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は,今後8日間に渡って歩行速度が速くなります.</Frenzy_Go.beginLetter>
+  <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetter>[PAWN_pronoun]は,今後8日間に渡って歩行速度が速くなります.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
   <Frenzy_Go.endMessage>{0}のやる気が落ち着いた(熱狂的意欲).</Frenzy_Go.endMessage>
   
@@ -14,8 +14,8 @@
   <Frenzy_Shoot.label>熱狂的な射撃意欲</Frenzy_Shoot.label>
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>やる気: 射撃意欲</Frenzy_Shoot.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]射撃精度は,今後8日間正確になります.</Frenzy_Shoot.beginLetter>
+  <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetter>[PAWN_pronoun]射撃精度は,今後8日間正確になります.</Frenzy_Shoot.beginLetter>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
   <Frenzy_Shoot.endMessage>{0}のやる気が落ち着いた(熱狂的射撃).</Frenzy_Shoot.endMessage>
   
@@ -23,8 +23,8 @@
   <Frenzy_Work.label>熱狂的な労働意欲</Frenzy_Work.label>
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>やる気: 労働意欲</Frenzy_Work.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は,今後8日間に渡って作業速度が速くなります.</Frenzy_Work.beginLetter>
+  <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetter>[PAWN_pronoun]は,今後8日間に渡って作業速度が速くなります.</Frenzy_Work.beginLetter>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
   <Frenzy_Work.endMessage>{0}のやる気が落ち着いた(熱狂的労働).</Frenzy_Work.endMessage>
   
@@ -32,8 +32,8 @@
   <Inspired_Creativity.label>創作意欲</Inspired_Creativity.label>
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>やる気: 創作意欲</Inspired_Creativity.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]が作る次回の絵画,彫刻などの芸術は普段より2レベル高い品質で完成するでしょう.\n\nやる気は,芸術を完成させるか,8日後に終わります.</Inspired_Creativity.beginLetter>
+  <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetter>[PAWN_pronoun]が作る次回の絵画,彫刻などの芸術は普段より2レベル高い品質で完成するでしょう.\n\nやる気は,芸術を完成させるか,8日後に終わります.</Inspired_Creativity.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
   <Inspired_Creativity.endMessage>{0}のやる気が落ち着いた(創作意欲).</Inspired_Creativity.endMessage>
   
@@ -41,8 +41,8 @@
   <Inspired_Recruitment.label>勧誘意欲</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>やる気: 勧誘意欲</Inspired_Recruitment.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は,難易度に関係なく,次の囚人勧誘に成功するでしょう.\n\nやる気は,次の勧誘が終わるか,8日後に終わります.</Inspired_Recruitment.beginLetter>
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun]は,難易度に関係なく,次の囚人勧誘に成功するでしょう.\n\nやる気は,次の勧誘が終わるか,8日後に終わります.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0}のやる気が落ち着いた(勧誘意欲).</Inspired_Recruitment.endMessage>
   
@@ -50,8 +50,8 @@
   <Inspired_Surgery.label>手術意欲</Inspired_Surgery.label>
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>やる気: 手術意欲</Inspired_Surgery.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]がする次回の手術成功率は,2倍になるでしょう.最低限度の失敗率は変わらず存在します.\n\nやる気は,次の手術が終わるか,8日後に終わります.</Inspired_Surgery.beginLetter>
+  <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter>[PAWN_pronoun]がする次回の手術成功率は,2倍になるでしょう.最低限度の失敗率は変わらず存在します.\n\nやる気は,次の手術が終わるか,8日後に終わります.</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0}のやる気が落ち着いた(手術意欲).</Inspired_Surgery.endMessage>
   
@@ -59,8 +59,8 @@
   <Inspired_Taming.label>調教意欲</Inspired_Taming.label>
   <!-- EN: Inspired: Inspired taming -->
   <Inspired_Taming.baseInspectLine>やる気: 調教意欲</Inspired_Taming.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
-  <Inspired_Taming.beginLetter>高い"心情"の結果,[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は,難易度に関係なく,次の調教に成功するでしょう.\n\nやる気は,次の調教が終わるか,8日後に終わります.</Inspired_Taming.beginLetter>
+  <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
+  <Inspired_Taming.beginLetter>[PAWN_pronoun]は,難易度に関係なく,次の調教に成功するでしょう.\n\nやる気は,次の調教が終わるか,8日後に終わります.</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
   <Inspired_Taming.endMessage>{0}のやる気が落ち着いた(調教意欲).</Inspired_Taming.endMessage>
   
@@ -68,8 +68,8 @@
   <Inspired_Trade.label>売買意欲</Inspired_Trade.label>
   <!-- EN: Inspired: Inspired trade -->
   <Inspired_Trade.baseInspectLine>やる気: 売買意欲</Inspired_Trade.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
-  <Inspired_Trade.beginLetter>[PAWN_nameIndef]は奮い立った!\n\n[PAWN_pronoun]は,次の商取引で重要な価格へのボーナスを受け取れるでしょう.\n\nやる気は,次の取引が終わるか,8日後に終わります.</Inspired_Trade.beginLetter>
+  <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetter>[PAWN_pronoun]は,次の商取引で重要な価格へのボーナスを受け取れるでしょう.\n\nやる気は,次の取引が終わるか,8日後に終わります.</Inspired_Trade.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
   <Inspired_Trade.endMessage>{0}のやる気が落ち着いた(売買意欲).</Inspired_Trade.endMessage>
   

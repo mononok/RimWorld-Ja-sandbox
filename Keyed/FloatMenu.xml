@@ -173,7 +173,9 @@
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>一時的な派閥メンバーは許されない</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>一時的な派閥メンバーは許可されていない</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていない</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>周囲と壁で遮断され.適温な,囚人用ベッドがない</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -226,7 +228,7 @@
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>{1_labelShort} x{{0}}を拾う</PickUpCount>
   
-  <!-- EN: Load {1_label} onto pack animal -->
+  <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>{1_label}を 駄載獣に与えられない</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
   <CannotGiveToPackAnimalAll>{1_label}(全て)を 駄載獣に与えられない</CannotGiveToPackAnimalAll>

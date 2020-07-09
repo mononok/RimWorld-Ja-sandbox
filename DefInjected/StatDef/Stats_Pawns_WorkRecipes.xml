@@ -11,15 +11,15 @@
   <!-- EN: The speed at which this person butchers flesh creatures. -->
   <ButcheryFleshSpeed.description>食肉加工する速度です.</ButcheryFleshSpeed.description>
   
-  <!-- EN: mechanoid disassembly efficiency -->
-  <ButcheryMechanoidEfficiency.label>メカノイド・解体収率</ButcheryMechanoidEfficiency.label>
-  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>メカノイドを解体する時に得られる収量です.実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>メカノイド・寸断収率</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>メカノイドを寸断する時に得られる資源の収量です.実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
   
-  <!-- EN: mechanoid disassembly speed -->
-  <ButcheryMechanoidSpeed.label>メカノイド・解体速度</ButcheryMechanoidSpeed.label>
-  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
-  <ButcheryMechanoidSpeed.description>メカノイドを解体する速度です.</ButcheryMechanoidSpeed.description>
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>メカノイド・寸断速度</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>メカノイドを寸断して資源にする速度です.</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
   <CookSpeed.label>調理・速度</CookSpeed.label>

@@ -21,7 +21,7 @@
     <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
   -->
   <BecameLover.rulePack.rulesStrings>
-    <li>tale_noun->[PURSUER_nameDef]と[ACCEPTER_nameDef]が恋人同士になる</li>
+    <li>tale_noun->恋人同士になる[PURSUER_nameDef]と[ACCEPTER_nameDef]</li>
     <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 耳に甘い言葉を囁いている</li>
     <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 手を取りベッドの中に潜り込んでいる</li>
     <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ベッドの上で飛び跳ねている</li>
@@ -54,7 +54,7 @@
     <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
   -->
   <BondedWithAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[HUMAN_nameDef]と[ANIMAL_nameDef]の間の絆の</li>
+    <li>tale_noun->[ANIMAL_nameDef]と[HUMAN_nameDef]の絆</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]との間に絆を生んでいる</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]と深い絆を結んでいる</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]を本当に愛していることに気付く</li>
@@ -86,7 +86,7 @@
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
   <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->[DUMPER_nameDef]と[REJECTED_nameDef]の別れの</li>
+    <li>tale_noun->[DUMPER_nameDef]と[REJECTED_nameDef]の別れ</li>
     <li>image-> [DUMPER_nameFull]が [circumstance_group],嫌な話をするために [REJECTED_nameFull]の そばに腰を下ろしている</li>
     <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]から 距離をおいて立っている</li>
     <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]を ベッドから突き飛ばしている</li>
@@ -121,7 +121,7 @@
     <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
   -->
   <Marriage.rulePack.rulesStrings>
-    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚の</li>
+    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚</li>
     <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚している</li>
     <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚することを宣言している</li>
     <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 一緒にバージンロードを歩いている</li>

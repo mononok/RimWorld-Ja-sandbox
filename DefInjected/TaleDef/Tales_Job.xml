@@ -21,8 +21,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
   -->
   <AttendedParty.rulePack.rulesStrings>
-    <li>tale_noun->[ATTENDER_nameDef]が[ORGANIZER_nameDef]のパーティに参加する</li>
-    <li>tale_noun->[ATTENDER_nameDef]が[ORGANIZER_nameDef]主催のパーティでくつろぐ</li>
+    <li>tale_noun->[ORGANIZER_nameDef]のパーティに参加している[ATTENDER_nameDef]</li>
+    <li>tale_noun->[ORGANIZER_nameDef]主催のパーティでくつろいでいる[ATTENDER_nameDef]</li>
     <li>image-> [ATTENDER_nameFull]が [circumstance_group], [ORGANIZER_nameFull]と 会話する</li>
     <li>image-> [ATTENDER_nameFull]が [circumstance_group], [ORGANIZER_nameFull]から 飲み物を受け取る</li>
     <li>image-> [ATTENDER_nameFull]が [circumstance_group], [ORGANIZER_nameFull]と おしゃべりする</li>
@@ -57,8 +57,8 @@
     <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
   -->
   <BuiltSnowman.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の雪だるまの</li>
-    <li>tale_noun->[PAWN_nameDef]が雪と戯れた</li>
+    <li>tale_noun->雪だるまを作っている[PAWN_nameDef]</li>
+    <li>tale_noun->雪と戯れている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],雪玉を握って作る</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],大きな雪玉を地面で転がす</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],人の顔のように[Vegetable]を配置する</li>
@@ -97,8 +97,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
   <BuriedCorpse.rulePack.rulesStrings>
-    <li>tale_noun->[DIGGER_nameDef]が[CORPSE_nameDef]を埋葬する</li>
-    <li>tale_noun->[DIGGER_nameDef]が[CORPSE_nameDef]を安らかな眠りへと送る</li>
+    <li>tale_noun->[CORPSE_nameDef]を埋葬している[DIGGER_nameDef]</li>
+    <li>tale_noun->[CORPSE_nameDef]を安らかな眠りへと送っている[DIGGER_nameDef]</li>
     <li>image-> [DIGGER_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓の前に立つ</li>
     <li>image-> [DIGGER_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓の前に座る</li>
     <li>image-> [DIGGER_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓にもたれかかる</li>
@@ -138,7 +138,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongConstructionProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]の仕上げを終える</li>
+    <li>tale_noun->[OBJECT_label]の仕上げを終えている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],複雑な[OBJECT_label]の内装を組み立てる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[OBJECT_label]の表面を磨く</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[OBJECT_label]の表面の細部を作りこむ</li>
@@ -175,7 +175,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongCraftingProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]の製造を終える</li>
+    <li>tale_noun->[OBJECT_label]の製造を終えている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],複雑な[OBJECT_label]の内部を組み立てる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[OBJECT_label]の表面を磨く</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[OBJECT_label]の表面の細部を作りこむ</li>
@@ -212,7 +212,7 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <EnteredCryptosleep.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が冷凍睡眠装置に入る</li>
+    <li>tale_noun->冷凍睡眠装置に入っている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],冷凍睡眠装置の中に横たわる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],空の冷凍睡眠装置を開ける</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],冷凍睡眠装置の内部が密閉される</li>
@@ -250,7 +250,7 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[SKILL_label]の技術を極める</li>
+    <li>tale_noun->[SKILL_label]の技術を極めている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の練習をしている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の大きな本を読んでいる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の訓練を受けている</li>
@@ -291,7 +291,7 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithPassion.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[SKILL_label]の技術を極める</li>
+    <li>tale_noun->[SKILL_label]の技術を極めている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の練習をしている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の大きな本を読んでいる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_phrase],[SKILL_label]の訓練を受けている</li>
@@ -331,9 +331,9 @@
     <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
   -->
   <IncreasedMenagerie.rulePack.rulesStrings>
-    <li>tale_noun(p=3)->[HUMAN_nameDef]が増える家畜の[AnimalGroup]に,さらに新しい動物を加えようとする</li>
-    <li>tale_noun->[HUMAN_nameDef]が[AnimalGroup]に追い回される</li>
-    <li>tale_noun->[HUMAN_nameDef]が[ANIMAL_nameDef]を手懐ける</li>
+    <li>tale_noun(p=3)->増え続ける家畜の[AnimalGroup]に,さらに新しい動物を加えようとしている[HUMAN_nameDef]</li>
+    <li>tale_noun->[AnimalGroup]に追い回されている[HUMAN_nameDef]</li>
+    <li>tale_noun->[ANIMAL_nameDef]に対する[HUMAN_nameDef]の手懐け</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を手懐ける</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_phrase][ANIMAL_nameFull]を一口分の食べ物で釣ろうとする</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_phrase]臆病な[ANIMAL_nameFull]に囁くように声をかける</li>
@@ -367,7 +367,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Meditated.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の瞑想の</li>
+    <li>tale_noun->瞑想している[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[TreeType]の樹の根元に腰を下ろす</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],静かに腰を下ろす</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],遠くを眺める</li>
@@ -405,7 +405,7 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <MinedValuable.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[MATERIAL_label]の豊富な鉱脈を掘る</li>
+    <li>tale_noun->[MATERIAL_label]の豊富な鉱脈を掘っている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],掘削ツールを使い[MATERIAL_label]岩肌で作業する</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[MATERIAL_label]の鉱石を持ち上げる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[MATERIAL_label]岩肌の前で休憩する</li>
@@ -453,9 +453,9 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
   -->
   <PlayedGame.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]でくつろぐ</li>
-    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]を使って遊ぶ</li>
-    <li>tale_noun->[PAWN_nameDef]が[OBJECT_label]で楽しむ</li>
+    <li>tale_noun->[OBJECT_label]でくつろいでる[PAWN_nameDef]</li>
+    <li>tale_noun->[OBJECT_label]を使って遊んでいる[PAWN_nameDef]</li>
+    <li>tale_noun->[OBJECT_label]で楽しんでいる[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],椅子に座って待っている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[OBJECT_label]の上でバランスをとる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[OBJECT_label]の前に座る</li>
@@ -499,8 +499,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Prayed.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の祈りの</li>
-    <li>tale_noun->[PAWN_nameDef]の高い次元への祈りの</li>
+    <li>tale_noun->祈っている[PAWN_nameDef]</li>
+    <li>tale_noun->高い次元に向けて祈っている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],遠くをジッと見ている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],両目を閉じる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],両手を握りしめる</li>
@@ -536,7 +536,7 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <PutIntoCryptosleep.rulePack.rulesStrings>
-    <li>tale_noun->[CARRIER_nameDef]が[SLEEPER_nameDef]を冷凍睡眠装置に入れる</li>
+    <li>tale_noun->[SLEEPER_nameDef]を冷凍睡眠装置に入れている[CARRIER_nameDef]</li>
     <li>image-> [SLEEPER_nameFull]が [circumstance_group], [SLEEPER_nameFull]を 冷凍睡眠装置の中に横たえる</li>
     <li>image-> [SLEEPER_nameFull]が [circumstance_group], [SLEEPER_nameFull]を 支えながら,空の冷凍睡眠装置を開ける</li>
     <li>image-> [SLEEPER_nameFull]が [circumstance_group], [SLEEPER_nameFull]が 入っている冷凍睡眠装置の内部を密閉する</li>
@@ -573,9 +573,9 @@
     <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
   -->
   <Stripped.rulePack.rulesStrings>
-    <li>tale_noun->[TAKER_nameDef]が[STRIPPED_nameDef]の衣服を剥ぐ</li>
-    <li>image-> [TAKER_nameFull]が[circumstance_group],外で [STRIPPED_nameFull]の 衣服を脱がせる</li>
-    <li>image-> [TAKER_nameFull]が[circumstance_group], [STRIPPED_nameFull]の 衣服を脱がせる</li>
+    <li>tale_noun->[STRIPPED_nameDef]の衣服を剥いでいる[TAKER_nameDef]</li>
+    <li>image-> [TAKER_nameFull]が[circumstance_group],外で [STRIPPED_nameFull]の 衣服を剥ぐ</li>
+    <li>image-> [TAKER_nameFull]が[circumstance_group], [STRIPPED_nameFull]の 衣服を剥ぐ</li>
     <li>image-> [TAKER_nameFull]が[circumstance_group], [STRIPPED_nameFull]の 横に立ち,裸にさせて腕の中いっぱいに[Apparel]を持っている</li>
     <li>image-> [TAKER_nameFull]が[circumstance_group],辛抱強く [STRIPPED_nameFull]が 服を脱ぐのを待っている</li>
     <li>circumstance_phrase->目的意識をもちつつ</li>
@@ -613,8 +613,8 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
   <VisitedGrave.rulePack.rulesStrings>
-    <li>tale_noun->[CORPSE_nameDef]の墓参りをする[VISITOR_nameDef]の</li>
-    <li>tale_noun->[VISITOR_nameDef]が[CORPSE_nameDef]の墓所を訪れる</li>
+    <li>tale_noun->[CORPSE_nameDef]の墓参りをしている[VISITOR_nameDef]</li>
+    <li>tale_noun->[CORPSE_nameDef]の墓所を訪れている[VISITOR_nameDef]</li>
     <li>image-> [VISITOR_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓の前に立つ</li>
     <li>image-> [VISITOR_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓の前に座る</li>
     <li>image-> [VISITOR_nameFull]が [circumstance_group], [CORPSE_nameFull]の 墓にもたれかかる</li>

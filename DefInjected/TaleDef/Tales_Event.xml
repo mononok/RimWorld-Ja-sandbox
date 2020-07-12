@@ -19,8 +19,8 @@
     <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
   -->
   <CollapseDodged.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が崩落事故から身をかわす</li>
-    <li>tale_noun->[PAWN_nameDef]の周囲が崩落による落下物で粉々にされる</li>
+    <li>tale_noun->崩落事故から身をかわしている[PAWN_nameDef]</li>
+    <li>tale_noun->崩落による落下物で周囲が粉々にされた[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],崩落してきた岩のかけらを飛び跳ねて避けている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],かろうじて崩落事故を避けている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],落下してきた天井を避けている</li>
@@ -60,8 +60,8 @@
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
   <LaunchedShip.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が惑星から脱出する</li>
-    <li>tale_noun->[PAWN_nameDef]が宇宙船で旅立つ</li>
+    <li>tale_noun->惑星から脱出している[PAWN_nameDef]</li>
+    <li>tale_noun->宇宙船で旅立っている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],宇宙へと打ち上げられている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],天に向かっている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],重力圏離脱速度に向けて加速している</li>
@@ -119,7 +119,7 @@
     <li>target->[RESPONDER_nameDef]</li>
   -->
   <SocialFight.rulePack.rulesStrings>
-    <li>tale_noun->[INITIATOR_nameDef]が[RESPONDER_nameDef][fight_name_present]</li>
+    <li>tale_noun->[RESPONDER_nameDef][fight_name_present][INITIATOR_nameDef]</li>
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]侮辱している</li>
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]罵っている</li>
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]脅している</li>
@@ -129,9 +129,9 @@
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]殴っている</li>
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]蹴っている</li>
     <li>image-> [INITIATOR_nameFull]が [circumstance_group],[RESPONDER_objective]委縮させている</li>
-    <li>fight_name_present->に暴行を加える</li>
-    <li>fight_name_present->に攻撃する</li>
-    <li>fight_name_present->と闘う</li>
+    <li>fight_name_present->に暴行を加えている</li>
+    <li>fight_name_present->に攻撃している</li>
+    <li>fight_name_present->と闘っている</li>
     <li>circumstance_phrase->[RESPONDER_nameFull]に 侮辱されつつ</li>
     <li>circumstance_phrase->[RESPONDER_nameFull]に 罵られつつ</li>
     <li>circumstance_phrase->[RESPONDER_nameFull]に 脅されつつ</li>

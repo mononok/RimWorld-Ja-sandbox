@@ -30,7 +30,7 @@
     <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
   -->
   <AteRawHumanlikeMeat.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の人肉食についての</li>
+    <li>tale_noun->[PAWN_nameDef]の人肉食</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],同じヒューマノイドの肉を[eat_gerund]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],人の腕のような肉を[eat_gerund]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ヒューマノイドの新鮮な肉を[eat_gerund]</li>
@@ -89,7 +89,7 @@
     <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
   -->
   <CraftedArt.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を作った時間についての</li>
+    <li>tale_noun->[PAWN_nameDef]が[THING_indefinite]を作った時間</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]を製作している</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]の作業を完成させている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_indefinite]の作業をしている</li>
@@ -151,8 +151,8 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <Drunk.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の酒好きについての</li>
-    <li>tale_noun->大酒飲みの[PAWN_nameDef]の</li>
+    <li>tale_noun->[PAWN_nameDef]の泥酔</li>
+    <li>tale_noun->泥酔している[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],飲みすぎて千鳥足になっている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],頭を後ろにたおして大きな口を開けてリキュールをガブガブと飲んでいる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],貪欲にリキュールの瓶を集めている</li>
@@ -200,7 +200,7 @@
     <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
   -->
   <FinishedResearchProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[PROJECT_label]の研究を終える</li>
+    <li>tale_noun->[PROJECT_label]の研究を終えている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]研究プロジェクトの作業を続けている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]の秘訣を学習している</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[PROJECT_label]を研究している</li>
@@ -240,7 +240,7 @@
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
   <LandedInPod.rulePack.rulesStrings>
-    <li>tale_noun->ドロップポッドを使った[PAWN_nameDef]の着陸についての</li>
+    <li>tale_noun->ドロップポッドを使った[PAWN_nameDef]の着陸</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ドロップポッドで着陸しようとしている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ドロップポッドで地上に降り立たとうとしている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ドロップポッドごと地表に叩きつけられようとしている</li>
@@ -291,7 +291,7 @@
     <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
   -->
   <MentalStateBerserk.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の狂暴化についての</li>
+    <li>tale_noun->狂暴化している[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],烈火のごとく怒り凶暴になる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],気が狂ったように乱暴になる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],病的な顔つきでよろよろと前に進んでいる</li>
@@ -340,7 +340,7 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <MentalStateGaveUp.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の絶望と降参の</li>
+    <li>tale_noun->絶望の中,降参している[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],最終的にストレスに押しつぶされてあきらめる</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],抑えきれずにすすり泣いている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],完全に崩壊した表情であたりをよろめいている</li>
@@ -380,7 +380,7 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <StruckMineable.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が[THING_label]を掘り当てる</li>
+    <li>tale_noun->[THING_label]を掘り当てている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],[THING_label]を掘り当てる</li>
     <li>circumstance_phrase->採鉱している間に</li>
     <li>circumstance_phrase->掘っている間に</li>
@@ -418,7 +418,7 @@
     <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
   -->
   <Vomited.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]のゲロの</li>
+    <li>tale_noun->[PAWN_nameDef]のゲロ</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group]床に吐いている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],床一面を覆う乾いてカピカピになったゲロを見てうんざりしている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group]吐き気が二倍になっている</li>
@@ -465,7 +465,7 @@
     <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
   -->
   <WalkedNaked.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が裸で歩き回る</li>
+    <li>tale_noun->裸で歩き回っている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ありのままの姿で[nude_action]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],ヌードで[nude_action]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],裸で[nude_action]</li>
@@ -513,7 +513,7 @@
     <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
   -->
   <WasOnFire.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]が火だるまになる</li>
+    <li>tale_noun->火だるまになっている[PAWN_nameDef]</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],気も狂わんばかりに[PAWN_possessive]身体についた炎を叩き消している</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],炎に包まれている</li>
     <li>image-> [PAWN_nameFull]が [circumstance_group],膝をついて,両手で頭に降りかかった火の粉を消そうとしている</li>

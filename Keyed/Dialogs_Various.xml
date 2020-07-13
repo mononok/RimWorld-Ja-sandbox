@@ -403,43 +403,43 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>その他</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>Chemical</Chemical>
+  <Chemical>化学成分</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>High gain per dose</HighGain>
+  <HighGain>獲得できる効能量</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>High fall rate</HighFallRate>
+  <HighFallRate>効能の減少速度</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>High duration per dose</HighDuration>
+  <HighDuration>効能の継続期間</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>Tolerance gain per dose</ToleranceGain>
+  <ToleranceGain>耐性増加量</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>Tolerance fall rate</ToleranceFallRate>
+  <ToleranceFallRate>耐性の減少速度</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>依存症になる最低耐性値</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval -->
-  <SafeDoseInterval>Safe dose interval</SafeDoseInterval>
+  <SafeDoseInterval>安全な消費間隔</SafeDoseInterval>
   <!-- EN: New addiction chance -->
-  <Addictiveness>依存症</Addictiveness>
+  <Addictiveness>依存症になる確率</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
+  <AddictionSeverityInitial>依存症初期の深刻度</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>消費毎に増える深刻度</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>Addiction need fill per dose</AddictionNeedOffset>
+  <AddictionNeedOffset>依存欲求の回復量</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>Addiction need fall rate</AddictionNeedFallRate>
+  <AddictionNeedFallRate>依存欲求の減少速度</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>Addiction need dose interval</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>欲求維持の為の消費間隔</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>Addiction recovery time</AddictionRecoveryTime>
+  <AddictionRecoveryTime>依存回復までの期間</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>Addiction cost</AddictionCost>
+  <AddictionCost>常用コスト</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Random overdose chance</RandomODChance>
+  <RandomODChance>過剰摂取の確率</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>Always safe</AlwaysSafe>
+  <AlwaysSafe>常に安全</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>Never safe</NeverSafe>
+  <NeverSafe>なし</NeverSafe>
   <!-- EN: {0} / day -->
   <PerDay>{0}/日</PerDay>
   <!-- EN: Pack animal -->

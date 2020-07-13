@@ -289,39 +289,39 @@
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>このドラッグに含まれる化学成分の種類です.\n\n場合によっては,同じ化学成分が,異なるドラッグに含まれることもあります.これらの異なるドラッグは,異なる方法で同じ依存症を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
-  <Stat_Thing_Drug_HighGainPerDose_Desc>The intensity of high gained per dose of this drug.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>このドラッグを摂取したときに,得られる効能量です.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
-  <Stat_Thing_Drug_HighFallPerDay_Desc>How much this drug's high will decay each day.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>このドラッグの,一日毎に減少する効能量です.</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
-  <Stat_Thing_Drug_HighDurationPerDose_Desc>How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>このドラッグを摂取したときに効能が持続する期間です.\n\nこの値は,使用時に獲得できる効能量と,効能の減少速度から計算されています.</Stat_Thing_Drug_HighDurationPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>一回の消費毎の,このドラッグに含まれる化学成分に対する,使用者の耐性の増加量です.\n\n同じ化学成分を持つ異なる種類のドラッグは,この値が異なる可能性があります.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>How much a user's tolerance to the chemical will fall per day.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>この化学成分に対する,一日毎に減少する使用者の耐性の量です.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
-  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>このドラッグを摂取したときに,新たに依存症を引き起こすまでの最低耐性値です.\n\n使用者の耐性がこの値を下回っていれば,ドラッグの摂取によって新たに依存症が引き起こされることはありません.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>使用者がこの数値よりも頻繁にドラッグを摂取しない限り,決して依存症は引き起こされません.\n\nこの値は,依存症になる最低耐性値,耐性増加量,および耐性の減少速度から計算されています.\n\n一部のドラッグには,安全な使用間隔が存在しないことに注意してください.そのようなドラッグは,どのような使用機会でも,たとえそれが初めての摂取であっても依存症を引き起こす可能性があります.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
-  <Stat_Thing_Drug_RandomODChance_Desc>The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>このドラッグを摂取する際に,ランダムに過剰摂取する確率です. 過剰摂取は,初心者の初めての摂取でも,経験豊富な常用者の100回目の摂取あっても,あらゆる使用機会で発生する可能性があります.</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>このドラッグを摂取したときに依存症が引き起こされる確率です.\n\n依存症になる最低耐性値がこのドラッグに存在する場合,この確率が適用されるのは,使用者の耐性が最低耐性値を超えている場合のみに限られます.最低耐性値が存在しない場合,あらゆる使用機会で依存症を引き起こす可能性があります.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
-  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>このドラッグによって新たに引き起こされる依存症は,この深刻度レベルから始まります.\n\nドラッグを多く摂取する行為は依存症の深刻度を上昇させますが,深刻度は時間と共に減少します.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
   <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
-  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>このドラッグの初期の依存症から回復するために必要な時間です.\n\nこれは,依存症の深刻度を,依存症の回復速度で割ることによって計算されています.供給が続いている依存症は,回復するまでさらに時間がかかります.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
-  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100％を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>禁断症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症にエサを与えなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
-  <Stat_Thing_Drug_AddictionNeedOffset_Desc>How much each dose of this drug fills an addict's need for the chemical.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>このドラッグを摂取したときに,常用者の対応する化学成分に対する欲求を,どれだけ満たせるかです.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
-  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>How quickly an addict's need for the chemical will fall.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>常用者の化学成分に対する欲求値が,どれほど速く減少するかです.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>禁断症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- UNUSED -->
   <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>

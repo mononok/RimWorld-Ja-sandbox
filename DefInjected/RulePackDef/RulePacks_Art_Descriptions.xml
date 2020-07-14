@@ -13,9 +13,9 @@
     <li>r_art_description->[physical_description_root]\n[context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
     <li>desc_sentence_group->[desc_sentence][style_group]</li>
-    <li>context_sentence->この[depiction]は, 星暦[DATE], [tale_noun]の話について触れている.</li>
-    <li>context_sentence->この[depiction]は, 星暦[DATE], [tale_noun]の出来事に関連している.</li>
-    <li>context_sentence->この[depiction]は, 星暦[DATE]に起きた, [tale_noun]の物語を今に伝えている.</li>
+    <li>context_sentence->この[depiction]は, 星暦[DATE]に起きた, [tale_noun]話について触れている.</li>
+    <li>context_sentence->この[depiction]は, 星暦[DATE]に起きた, [tale_noun]出来事に関連している.</li>
+    <li>context_sentence->この[depiction]は, 星暦[DATE]に起きた, [tale_noun]物語を今に伝えている.</li>
   </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:

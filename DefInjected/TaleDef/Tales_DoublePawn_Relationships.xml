@@ -21,13 +21,13 @@
     <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
   -->
   <BecameLover.rulePack.rulesStrings>
-    <li>tale_noun->恋人同士になる[PURSUER_nameDef]と[ACCEPTER_nameDef]</li>
-    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 耳に甘い言葉を囁いている</li>
-    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 手を取りベッドの中に潜り込んでいる</li>
-    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ベッドの上で飛び跳ねている</li>
-    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ディープキスをしている</li>
+    <li>tale_noun->恋人同士になる[PURSUER_nameDef]と[ACCEPTER_nameDef]の</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 耳に甘い言葉を囁く</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 手を取りベッドの中に潜り込む</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ベッドの中で騒々しく遊ぶ</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ディープキスをする</li>
     <li>circumstance_phrase->非現実的な大きさのベッドの上で</li>
-    <li>circumstance_phrase->ベッドの中で</li>
+    <li>circumstance_phrase->ベッドに潜り込みながら</li>
     <li>circumstance_phrase->服をほとんど脱いだ状態で</li>
     <li>circumstance_phrase->共に汗をかきながら</li>
     <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]に向かって擦り寄っている.</li>
@@ -54,9 +54,9 @@
     <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
   -->
   <BondedWithAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[ANIMAL_nameDef]と[HUMAN_nameDef]の絆</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]との間に絆を生んでいる</li>
-    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]と深い絆を結んでいる</li>
+    <li>tale_noun->[ANIMAL_nameDef]と[HUMAN_nameDef]の絆の</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]との間に絆を生む</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]と深い絆を結ぶ</li>
     <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]を本当に愛していることに気付く</li>
     <li>circumstance_phrase->他の動物たちに見られているなか</li>
     <li>circumstance_phrase->[ANIMAL_nameDef]の目を覗き込みながら</li>
@@ -86,11 +86,11 @@
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
   <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->[DUMPER_nameDef]と[REJECTED_nameDef]の別れ</li>
-    <li>image-> [DUMPER_nameFull]が [circumstance_group],嫌な話をするために [REJECTED_nameFull]の そばに腰を下ろしている</li>
-    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]から 距離をおいて立っている</li>
-    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]を ベッドから突き飛ばしている</li>
-    <li>image-> [DUMPER_nameFull]が [circumstance_group],抱きつく [REJECTED_nameFull]を 振りほどいている</li>
+    <li>tale_noun->[DUMPER_nameDef]と[REJECTED_nameDef]の別れの</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group],嫌な話をするために [REJECTED_nameFull]の そばに腰を下ろす</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]から 距離をおいて立つ</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]を ベッドから突き飛ばす</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group],抱きつく [REJECTED_nameFull]を 振りほどく</li>
     <li>circumstance_phrase->大きな悲しみに暮れながら</li>
     <li>circumstance_phrase->変に視線を反らしながら</li>
     <li>circumstance_phrase->遠くをみながら</li>
@@ -121,11 +121,11 @@
     <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
   -->
   <Marriage.rulePack.rulesStrings>
-    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚</li>
-    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚している</li>
-    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚することを宣言している</li>
-    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 一緒にバージンロードを歩いている</li>
-    <li>image-> [SPOUSE1_nameFull]が [circumstance_group],結婚式のあいだ中ずっと [SPOUSE2_nameFull]の 手を握っている</li>
+    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚の</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚する</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚することを宣言する</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 一緒にバージンロードを歩く</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group],結婚式のあいだ中ずっと [SPOUSE2_nameFull]の 手を握る</li>
     <li>circumstance_phrase->品位のあるセレモニーの中で</li>
     <li>circumstance_phrase->共に陽気に笑いながら</li>
     <li>circumstance_phrase->厳粛な雰囲気の中で</li>

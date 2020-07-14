@@ -34,7 +34,7 @@
   <Priority3>通常</Priority3>
   <!-- EN: Low priority -->
   <Priority4>劣後</Priority4>
-  
+
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>服装を管理</ManageOutfits>
@@ -54,7 +54,7 @@
   <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
-  
+
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>コピー</Copy>
@@ -62,7 +62,7 @@
   <Paste>ペースト</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>制限ゾーン</AllowedArea>
-  
+
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>主人</Master>
@@ -70,13 +70,13 @@
   <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>絆</BondedTo>
-  
+
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
   <IsInMentalState>この生物の精神状態: {0}</IsInMentalState>
-  
+
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>敵対</Hostile>
@@ -97,10 +97,14 @@
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
   <CurrentGoodwillTip_Neutral>この派閥とは中立です.彼らは,あなたと自由に話し,貿易をするでしょう.もし関係性が{0}を下回ると,彼らとは敵対するでしょう.もし関係性が{1}を上回ると,彼らは同盟となって,あなたの為に積極的に力になってくれ始めます.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>この派閥と敵対です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.もし関係性が{0}を上回ると,かれらは中立となります.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>この派閥は,{0}から{1}の友好値の幅を持っています.友好値が{1}を超えると,一日毎に{3}下がっていきます.友好値が{0}を下回ると,一日毎に{2}上がっていきます.</CurrentGoodwillTip_NaturalGoodwill>
-  
+  <CurrentGoodwillTip_Hostile>この派閥と敵対です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.もし関係性が{0}を上回ると,彼らは中立となります.</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
+  <CurrentGoodwillTip_NaturalGoodwill>この派閥は,{0}から{1}の友好値の幅を持っています.</CurrentGoodwillTip_NaturalGoodwill>
+  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
+  <CurrentGoodwillTip_NaturalGoodwillRise>友好値が{0}を下回ると,一年毎に{1}上がっていきます.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
+  <CurrentGoodwillTip_NaturalGoodwillFall>友好値が{0}を超えると,一年毎に{1}下がっていきます.</CurrentGoodwillTip_NaturalGoodwillFall>
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>友人</Friend>
@@ -108,7 +112,7 @@
   <Rival>ライバル</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>知人</Acquaintance>
-  
+
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>グラフ</Graph>
@@ -224,26 +228,36 @@
   <QuestExpiresIn>期限切れまで あと{0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>期日：{0}</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>ゲストの平均心情({0}前): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>{0}にシャトルは着きます</ShuttleArrivesIn>
+  <ShuttleArrivesIn>{0}にシャトルが着きます</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>{0}にシャトルは着きます</ShuttleArrivesOn>
+  <ShuttleArrivesOn>{0}にシャトルが着きます</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>{0}にシャトルは発ちます</ShuttleDepartsIn>
+  <ShuttleDepartsIn>{0}にシャトルが発ちます</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>{0}にシャトルは発ちます</ShuttleDepartsOn>
+  <ShuttleDepartsOn>{0}にシャトルが発ちます</ShuttleDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0}前に完了</QuestFinishedAgo>
   <!-- EN: Accept quest -->
   <AcceptQuest>クエストを受領</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>{0_labelShort}を受領</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>報酬</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>クリックすることで,この報酬でクエストを受領します.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>期限切れ</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
   <QuestOutcomeInfo_UnknownOrSuccess>クエスト完了</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>クエスト失敗</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>このクエストは,受領される前に無効になりました.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>{0}をワールドマップ上で表示</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -258,13 +272,29 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>称号持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>報酬設定</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>他の派閥に,今後のクエストでどのような報酬が欲しいのかを伝えてください. 既に発生しているクエストには影響しません.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
-  <AcceptRoyalFavor>{FACTION_royalFavorLabel}を受諾.</AcceptRoyalFavor>
+  <AcceptRoyalFavor>{FACTION_royalFavorLabel}を受け取る</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>あなたが,{FACTION_name}の{FACTION_royalFavorLabel}に報いたいかどうか.\n\n無効なら,{FACTION_name}は代わりに別のタイプの報奨を提示します.\n\nこの設定は,設定後に起きたクエストから,そのクエストに影響します.</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>報酬として{FACTION_name}の{FACTION_royalFavorLabel}を受け取りたいかどうか.\n\n無効にした場合,{FACTION_name}は代わりに別のタイプの報酬を提示します.\n\nこの設定は,新たに発生したクエストにのみ影響を与えます.</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>友好値を受け取る</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>{FACTION_name}との派閥関係を改善することを報酬としたいかどうか.\n\n無効にした場合,{FACTION_name}は代わりに別のタイプの報酬を提示します.\n\nこの設定は,新たに発生したクエストにのみ影響を与えます.</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOn>現在,あなたは{FACTION_royalFavorLabel}に同意しています.</RoyalFavorOn>
+  <RoyalFavorOn>現在,あなたは{FACTION_royalFavorLabel}を受け取ることに同意しています.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOff>現在,あなたは{FACTION_royalFavorLabel}から脱退しています.</RoyalFavorOff>
-  
+  <RoyalFavorOff>現在,あなたは{FACTION_royalFavorLabel}を受け取らないことを選択しています.</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>{0_name}との友好値が{1}改善されます.\n\n現在の友好値: {4} ({5}).\n\n友好値は,その派閥との一般的な関係性を測るものです.{2}を下回ると,派閥は敵対的になり,入植地やキャラバン隊を襲撃するようになります. {3}を超えると,派閥は同盟を組み,可能な場合はあなたを助けるために援軍も送るようになります.それ以外の場合,派閥は中立のままであり,取引や会話を自由に行えます.</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort}が加わる</PawnQuestReward>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>追加欲求</CreatesNeed>
+
 </LanguageData>

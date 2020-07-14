@@ -18,4 +18,13 @@
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
   <MedicalQualityMax.description>医療看護の最大品質表します.良い看護品質は,スキルを持った医者により良い怪我の治療と確実性を可能にします.</MedicalQualityMax.description>
   
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>瞑想時のサイフォーカスボーナス</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>このオブジェクトに集中することで得られる追加のサイフォーカス量,及び,瞑想時に得られるサイフォーカスの基本レートです.\n\n一部のオブジェクトは,周囲や瞑想する人物によってこの数値が変動する場合があります.</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>{0}/日</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>{0}/日</MeditationFocusStrength.formatStringUnfinalized>
+  
 </LanguageData>

@@ -91,8 +91,8 @@
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-  <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました!やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また電源の入っていないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
@@ -167,14 +167,14 @@
   <!-- Journey-related -->
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
-  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Charlon Whitestoneが送ってきた座標に到着し,秘匿された宇宙船を発見した.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできない.コンピュータコアを使って操作すれば起動させることができる.\n\nCharlon Whitestoneは警告する.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうだろう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング共や,最悪なメカノイドの群れを惹きつけるだろう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想される.まずは最初に守りを確認すべきだ.</EscapeShipFound>
-  <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>あなたはCharlon Whitestoneが送ってきた座標に到着し,秘匿された宇宙船を発見した.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできません.コンピュータコアにアクセスして起動させることができます.\n\nCharlon Whitestoneはあなたに起動シーケンスは約15日かかると警告してきました.</EscapeShipFoundPeaceful>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことができません.コンピュータコアを使って操作すれば起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)は警告しています.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうでしょう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング達や,最悪なメカノイドの群れを惹きつけるでしょう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想されます.まずは最初に守りを確認しましょう.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>あなたは(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできません.コンピュータコアにアクセスして起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)はあなたに起動シーケンスは約15日かかると警告してきました.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
-  <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>Charlon Whitestoneがメッセージを送ってきた.\n彼は,貴方が着陸船での姿勢制御を失っているところを見ている.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引いた結果,船は今やクレーターとなった.\nこの惑星から出る,別の手段を見つける必要があるだろう.</EscapeShipLost>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
+  <EscapeShipLost>(*Name)Charlon Whitestone(/Name)がメッセージを送ってきました.\n彼は,あなたが着陸船で姿勢制御を失ったことを知っています.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引き,その結果,船は今やクレーターとなりました.\nこの惑星から出る,別の手段を見つける必要があります.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->

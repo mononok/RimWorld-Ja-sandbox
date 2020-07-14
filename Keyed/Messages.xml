@@ -45,9 +45,11 @@
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>商船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: Caller must have the title of {0_label} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>通信者は{0_label}以上の爵位の所有者である必要があります.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
-  <MessageConditionCauserDespawned>{0} は破壊された</MessageConditionCauserDespawned>
+  <MessageConditionCauserDespawned>{0}は 破壊された</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>作業終了：{0}</MessageBillComplete>
@@ -56,7 +58,7 @@
   <MessageFullyHealed>{1_label}の怪我が完治しました.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>囚人{1_labelShort} は逃げ出しています.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>囚人{1_labelShort}は 逃げ出しています.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort}は {GUN_label}に使う弾薬を見つけていません.</MessageOutOfNearbyShellsFor>
@@ -100,7 +102,7 @@
   <!-- EN: Must designate abandoned artificial structures. -->
   <MessageMustDesignateClaimable>放棄された 構造物を 指定してください.</MessageMustDesignateClaimable>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>あなたはそれを解体する前に,先にメッククラスターを倒さなければなりません.</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>あなたはそれを解体する前に,先にメカクラスターを倒さなければなりません.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>粗い岩の表面を 指定してください.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
@@ -158,14 +160,14 @@
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
   
-  <!-- EN: {PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} はサイキックアンプを使用できません.なぜなら精神感応性が0だからです.</MessagePsychicAmplifierNoSensitivity>
+  <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort}は 精神感応性が0であるため, サイリンクを使用できません.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
-  <MessageLostImplantLevelFromHediff>{2}のため,{PAWN_labelShort} は移植した {1}を失いました.</MessageLostImplantLevelFromHediff>
+  <MessageLostImplantLevelFromHediff>{2}のため,{PAWN_labelShort}は 移植した{1}を失いました.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
-  <MessageReceivedBrainDamageFromHediff>{2}のため,{PAWN_labelShort} は脳に {1}ポイントのダメージを負いました.</MessageReceivedBrainDamageFromHediff>
-  <!-- EN: {PAWN_labelShort} has exceeded the safe limit of psychic entropy. -->
-  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} はサイキックエントロピーの安全限界に達しました.</MessageWentOverPsychicEntropyLimit>
+  <MessageReceivedBrainDamageFromHediff>{2}のため,{PAWN_labelShort}は 脳に {1}ポイントのダメージを負いました.</MessageReceivedBrainDamageFromHediff>
+  <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}は ニューラルヒートの限界に達しました.</MessageWentOverPsychicEntropyLimit>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
   <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
@@ -371,8 +373,10 @@
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
-  <!-- EN: Mechanoids have been assembled and are attacking. -->
-  <MessageMechanoidsAssembled>メカノイドは組み立てられると攻撃してくる.</MessageMechanoidsAssembled>
+  <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
+  <MessageMechanoidsAssembled>メカノイドが組み立てられ,クラスターを防衛し始めます.</MessageMechanoidsAssembled>
+  <!-- EN: Remaining mechanoids to assemble -->
+  <MessageMechanoidsLeftToAssemble>生成されるメカノイドの残数</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>メカノイドの降下ポッドビーコンが増援部隊を要請しています.</MessageMechanoidsReinforcementsDrop>
 
@@ -404,7 +408,7 @@
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0}は 目を覚ました.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
-  <MessageMechClusterDefeated>メッククラスターは倒された.</MessageMechClusterDefeated>
+  <MessageMechClusterDefeated>メカクラスターは倒された.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>アイテムを生産しました：{0}</MessageCompSpawnerSpawnedItem>
@@ -481,6 +485,8 @@
   <GoodwillChangedReason_PawnCrushed>{1_labelShort}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
   <GoodwillChangedReason_PawnDied>{1_labelShort}は 死にました.</GoodwillChangedReason_PawnDied>
+  <!-- EN: {0_labelShort} stripped -->
+  <GoodwillChangedReason_PawnStripped>{0_labelShort}は 脱がされました.</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>売買されました.</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -572,7 +578,10 @@
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥である{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
+  <MessageStrippingWillAngerFaction>【警告】: {PAWN_nameDef}の装備品を剥ぎ取ると,{PAWN_factionName}の怒りを買うでしょう.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
@@ -606,5 +615,8 @@
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label}は現在非表示です.</MessageCannotSelectInvisibleStat>
+
+  <!-- UNUSED -->
+  <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} はサイキックアンプを使用できません.なぜなら精神感応性が0だからです.</MessagePsychicAmplifierNoSensitivity>
 
 </LanguageData>

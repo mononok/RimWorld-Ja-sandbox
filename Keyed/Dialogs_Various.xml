@@ -5,6 +5,8 @@
   <Confirm>了承</Confirm>
   <!-- EN: Go back -->
   <GoBack>戻る</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>続けますか?</WantToContinue>
   <!-- EN: OK -->
   <OK>[OK]</OK>
   <!-- EN: Close -->
@@ -400,8 +402,46 @@
   <TimeRecordsCategory>時間</TimeRecordsCategory>
   <!-- EN: Misc -->
   <MiscRecordsCategory>その他</MiscRecordsCategory>
-  <!-- EN: Addictiveness -->
-  <Addictiveness>依存症</Addictiveness>
+  <!-- EN: Chemical -->
+  <Chemical>化学成分</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>獲得できる効能量</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>効能の減少速度</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>効能の継続期間</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>耐性増加量</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>耐性の減少速度</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>依存症になる最低耐性値</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval -->
+  <SafeDoseInterval>安全な消費間隔</SafeDoseInterval>
+  <!-- EN: New addiction chance -->
+  <Addictiveness>依存症になる確率</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>依存症初期の深刻度</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>消費毎に増える深刻度</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>依存欲求の回復量</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>依存欲求の減少速度</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>欲求維持の為の消費間隔</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>依存回復までの期間</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>常用コスト</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>過剰摂取の確率</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>常に安全</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>なし</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>{0}/日</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -448,18 +488,44 @@
   <PowerConsumption>電力消費量</PowerConsumption>
   <!-- EN: Target -->
   <Target>ターゲット</Target>
-  <!-- EN: Human -->
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>この能力を使用できるターゲットのタイプです.</AbilityTargetDesc>
+  <!-- EN: human -->
   <TargetHuman>ヒト</TargetHuman>
-  <!-- EN: Animal -->
+  <!-- EN: animal -->
   <TargetAnimal>動物</TargetAnimal>
-  <!-- EN: Self -->
+  <!-- EN: self -->
   <TargetSelf>自分自身</TargetSelf>
-  <!-- EN: Ground -->
-  <TargetGround>土地</TargetGround>
+  <!-- EN: ground -->
+  <TargetGround>地面</TargetGround>
   <!-- EN: Click to learn more. -->
   <ClickToLearnMore>次を表示するにはクリック.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
   <ClickToViewFactions>派閥を表示するにはクリック.</ClickToViewFactions>
+  <!-- EN: meditation focus types -->
+  <MeditationFocuses>瞑想のフォーカスタイプ</MeditationFocuses>
+  <!-- EN: Unlocks meditation focus types -->
+  <MeditationFocusesUnlocked>解除される瞑想のフォーカスタイプ</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>この人物が使用できる瞑想のフォーカスタイプです.瞑想者は瞑想するとき,オブジェクトに集中することで,得られるサイフォーカスの量を増やすことができます.ただし,そのオブジェクトが瞑想者のフォーカスタイプである場合のみに限られます.瞑想できる種類は,その人物の略歴,特性,爵位などによって決定されます.</MeditationFocusesPawnDesc>
+  <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
+  <MeditationFocusesDesc>このオブジェクトのもたらす瞑想のフォーカスタイプです.瞑想者は,このオブジェクトに集中することで得られるサイフォーカスの量を増やすことができます.ただしそれは,これが瞑想者の使用できるフォーカスタイプと合致する場合のみに限られます.それぞれの人物は,略歴,特性,爵位などに応じて,異なるフォーカスタイプを獲得します.</MeditationFocusesDesc>
+  <!-- EN: Can use {0} focus type because -->
+  <MeditationFocusCanUse>次の要因により {0} のフォーカスタイプが使用可能</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>フォーカスタイプ {0} を持つオブジェクト</MeditationFocusObjects>
+  <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
+  <MeditationFocusEnabledByTitle>爵位: {TITLE} ({FACTION_name})</MeditationFocusEnabledByTitle>
+  <!-- EN: has childhood -->
+  <MeditationFocusEnabledByChildhood>幼年期</MeditationFocusEnabledByChildhood>
+  <!-- EN: has adulthood -->
+  <MeditationFocusEnabledByAdulthood>成年期</MeditationFocusEnabledByAdulthood>
+  <!-- EN: has trait -->
+  <MeditationFocusEnabledByTrait>特性・特徴</MeditationFocusEnabledByTrait>
+  <!-- EN: does not have trait -->
+  <MeditationFocusDisabledByTrait>特性・特徴がない</MeditationFocusDisabledByTrait>
+  <!-- EN: Enables meditation focus types -->
+  <EnablesMeditationFocusType>可能な瞑想のフォーカスタイプ</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -614,8 +680,12 @@
   <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
-  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1} -->
-  <NutritionEatenPerDayTip>一日に摂取する栄養素の数です. 参考までに簡単な食事は {0} 栄養素です.\n\n食性: {2}\n\n凡例:\n{1}</NutritionEatenPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
+  <NutritionEatenPerDayTip>一日に摂取する栄養素の数です. 参考までに簡単な食事は {0} 栄養素です.</NutritionEatenPerDayTip>
+  <!-- EN: Can eat -->
+  <CanEat>食性</CanEat>
+  <!-- EN: Legend -->
+  <Legend>凡例</Legend>
   <!-- EN: Mass carried -->
   <MassCarriedSimple>積載量</MassCarriedSimple>
   <!-- EN: Mass capacity -->
@@ -908,8 +978,10 @@
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>視線が通ることが必要です</AbilityRequiresLOS>
-  <!-- EN: Entropy gain  -->
-  <AbilityEntropyGain>エントロピー利得</AbilityEntropyGain>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>ニューラルヒート利得</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>サイフォーカスコスト</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
   <AbilityDuration>効果時間</AbilityDuration>
   <!-- EN: Effect radius -->
@@ -922,5 +994,9 @@
   <AbilityOccupiedCells>{0}は空きエリアをターゲットにしなければなりません.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0}は歩けるエリアをターゲットにしなければなりません.</AbilityUnwalkable>
+  <!-- EN: {0} must target an unroofed area. -->
+  <AbilityRoofed>{0}は屋根のないエリアをターゲットにしなければなりません.</AbilityRoofed>
+  <!-- EN: {0} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0}は精神崩壊しています.</AbilityCantApplyToMentallyBroken>
   
 </LanguageData>

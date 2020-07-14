@@ -7,7 +7,7 @@
     <li>favorRewardDetails-></li>
   -->
   <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
-    <li>questDescription->[faction_leader_nameFull],[faction_name]の[faction_leaderTitle]は, 我々にメッセージを送ってきた. [faction_leader_pronoun]は我々と近い場所で話をしたいようだ.\n\nお互いの関係改善が望め,贈り物も受け取れる絶好の機会ですが注意してください - 交渉力のない交渉者では良い結果どころか裏目にでしまい,彼らを怒らせるかもしれません.[favorRewardDetails]</li>
+    <li>questDescription->[faction_name]の[faction_leaderTitle]である [faction_leader_nameFull]は, 我々にメッセージを送ってきた. [faction_leader_pronoun]は我々と近い場所で話をしたいようだ.\n\nお互いの関係改善が望め,贈り物も受け取れる絶好の機会ですが注意してください - 交渉力のない交渉者では良い結果どころか裏目にでしまい,彼らを怒らせるかもしれません.[favorRewardDetails]</li>
     <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\n和平交渉の成功は  [faction_name]の[faction_royalFavorLabel]を少量得ることができます.</li>
     <li>favorRewardDetails-></li>
   </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
@@ -30,8 +30,8 @@
     <li>peaceTalks->会議</li>
   </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.label.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.label.slateRef>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.text.slateRef>[faction_name]との和平交渉の猶予期間が切れました.クエスト [resolvedQuestName]に失敗しました.</OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.text.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>[faction_name]との和平交渉の猶予期間が切れました.クエスト [resolvedQuestName]に失敗しました.</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

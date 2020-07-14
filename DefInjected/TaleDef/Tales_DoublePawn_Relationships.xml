@@ -21,21 +21,21 @@
     <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
   -->
   <BecameLover.rulePack.rulesStrings>
-    <li>tale_noun->[PURSUER_nameDef]と[ACCEPTER_nameDef]が恋人になる</li>
-    <li>image->[PURSUER_nameFull]は,[circumstance_group] [ACCEPTER_nameFull]の耳に甘い言葉を囁いた</li>
-    <li>image->[PURSUER_nameFull]は,[circumstance_group] [ACCEPTER_nameFull]の手を取りベッドの中に潜り込んだ</li>
-    <li>image->[PURSUER_nameFull]は,[circumstance_group] [ACCEPTER_nameFull]とベッドの上で飛び跳ねた</li>
-    <li>image->[PURSUER_nameFull]は,[circumstance_group] [ACCEPTER_nameFull]とディープキスをした</li>
-    <li>circumstance_phrase->非現実的な大きなベッドで</li>
-    <li>circumstance_phrase->アハハ,ウフフの中で</li>
-    <li>circumstance_phrase->あたり一面に服を脱ぎ散らかした中で</li>
-    <li>circumstance_phrase->二人共に汗にまみれて</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,[ACCEPTER_nameDef]に向かって擦り寄っていく.</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,[ACCEPTER_nameDef]の眼を見つめている.</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,[ACCEPTER_nameDef]に,息をフッと吹きかける.</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,文体的には[ACCEPTER_nameDef]と絆で結ばれる.</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,[ACCEPTER_nameDef]と一心同体になる.</li>
-    <li>desc_sentence->[PURSUER_nameFull]は,積極的に[ACCEPTER_nameDef]に触れている.</li>
+    <li>tale_noun->恋人同士になる[PURSUER_nameDef]と[ACCEPTER_nameDef]の</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 耳に甘い言葉を囁く</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]の 手を取りベッドの中に潜り込む</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ベッドの中で騒々しく遊ぶ</li>
+    <li>image-> [PURSUER_nameFull]が [circumstance_group], [ACCEPTER_nameFull]と ディープキスをする</li>
+    <li>circumstance_phrase->非現実的な大きさのベッドの上で</li>
+    <li>circumstance_phrase->ベッドに潜り込みながら</li>
+    <li>circumstance_phrase->服をほとんど脱いだ状態で</li>
+    <li>circumstance_phrase->共に汗をかきながら</li>
+    <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]に向かって擦り寄っている.</li>
+    <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]の目を見つめている.</li>
+    <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]に,息をフッと吹きかけている.</li>
+    <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]と強く結ばれている.</li>
+    <li>desc_sentence->[PURSUER_nameDef]は[ACCEPTER_nameDef]と一心同体のようだ.</li>
+    <li>desc_sentence->[PURSUER_nameDef]は積極的に[ACCEPTER_nameDef]に触れている.</li>
   </BecameLover.rulePack.rulesStrings>
   
   <!-- EN: bond developed -->
@@ -54,17 +54,17 @@
     <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
   -->
   <BondedWithAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[HUMAN_nameDef]と[ANIMAL_nameDef]間の絆</li>
-    <li>image->[HUMAN_nameFull]は,[circumstance_group] [ANIMAL_nameFull]との間に絆がうまれた</li>
-    <li>image->[HUMAN_nameFull]は,[circumstance_group] [ANIMAL_nameFull]と深い絆を結んだ</li>
-    <li>image->[HUMAN_nameFull]は,[circumstance_group]本当に[HUMAN_possessive]真実の愛を[ANIMAL_nameFull]と結んだ</li>
-    <li>circumstance_phrase->他の動物たちが見ているなか</li>
-    <li>circumstance_phrase->[ANIMAL_nameDef]の眼を覗き込みながら</li>
+    <li>tale_noun->[ANIMAL_nameDef]と[HUMAN_nameDef]の絆の</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]との間に絆を生む</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]と深い絆を結ぶ</li>
+    <li>image-> [HUMAN_nameFull]が [circumstance_group],[ANIMAL_nameFull]を本当に愛していることに気付く</li>
+    <li>circumstance_phrase->他の動物たちに見られているなか</li>
+    <li>circumstance_phrase->[ANIMAL_nameDef]の目を覗き込みながら</li>
     <li>circumstance_phrase->満足感と共に</li>
-    <li>desc_sentence->[ANIMAL_nameDef]が[HUMAN_nameDef]に向かって擦り寄ってくる.</li>
-    <li>desc_sentence->[ANIMAL_nameDef]は恋の美酒に酔いしれて眠そうにみえる.</li>
-    <li>desc_sentence->[ANIMAL_nameDef]は気高く,気をつけの姿勢をする.</li>
-    <li>desc_sentence->[ANIMAL_nameDef]は,積極的に反応する.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]は[HUMAN_nameDef]に向かって擦り寄っている.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]は恋の美酒に酔いしれ,眠たそうにしている.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]は気高く,気をつけの姿勢をしている.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]は積極的な反応を示している.</li>
   </BondedWithAnimal.rulePack.rulesStrings>
   
   <!-- EN: breakup -->
@@ -86,20 +86,20 @@
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
   <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->[DUMPER_nameFull]と[REJECTED_nameDef]の別れ</li>
-    <li>image->[DUMPER_nameFull]は,[circumstance_group] 嫌な話をするために[REJECTED_nameFull]のそばに腰を下ろす</li>
-    <li>image->[DUMPER_nameFull]は,[circumstance_group] [REJECTED_nameFull]から距離をおいて立っている</li>
-    <li>image->[DUMPER_nameFull]は,[circumstance_group] [REJECTED_nameFull]をベッドから突き飛ばす</li>
-    <li>image->[DUMPER_nameFull]は,[circumstance_group] 抱きつく[REJECTED_nameFull]を振りほどく</li>
-    <li>circumstance_phrase->たちまち大きな悲しみに暮れて</li>
-    <li>circumstance_phrase->変に他に視線を反らして</li>
+    <li>tale_noun->[DUMPER_nameDef]と[REJECTED_nameDef]の別れの</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group],嫌な話をするために [REJECTED_nameFull]の そばに腰を下ろす</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]から 距離をおいて立つ</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group], [REJECTED_nameFull]を ベッドから突き飛ばす</li>
+    <li>image-> [DUMPER_nameFull]が [circumstance_group],抱きつく [REJECTED_nameFull]を 振りほどく</li>
+    <li>circumstance_phrase->大きな悲しみに暮れながら</li>
+    <li>circumstance_phrase->変に視線を反らしながら</li>
     <li>circumstance_phrase->遠くをみながら</li>
-    <li>desc_sentence->[REJECTED_nameDef]は,気持ちを抑えきれずにすすり泣いている.</li>
-    <li>desc_sentence->[REJECTED_nameDef]は,あざ笑いながら,泣き叫んでいる.</li>
-    <li>desc_sentence->[REJECTED_nameDef]は,ショックのあまり無表情になっている.</li>
-    <li>desc_sentence->[DUMPER_nameFull]は,形式的に[REJECTED_nameDef]と別れる.</li>
-    <li>desc_sentence->[REJECTED_nameDef]は,わなわなと床に崩れ落ちた.</li>
-    <li>desc_sentence->[REJECTED_nameDef]は,怒りを[DUMPER_nameFull]に身振り手振りで怒りで伝えた.</li>
+    <li>desc_sentence->[REJECTED_nameDef]は気持ちを抑えきれずにすすり泣いている.</li>
+    <li>desc_sentence->[REJECTED_nameDef]はあざ笑いながら泣き叫んでいる.</li>
+    <li>desc_sentence->[REJECTED_nameDef]はショックのあまり無表情になっている.</li>
+    <li>desc_sentence->[DUMPER_nameDef]は形式的に[REJECTED_nameDef]と別れるようだ.</li>
+    <li>desc_sentence->[REJECTED_nameDef]はわなわなと床に崩れ落ちている.</li>
+    <li>desc_sentence->[REJECTED_nameDef]は[DUMPER_nameDef]に自分の怒りを身振り手振りで伝えている.</li>
   </Breakup.rulePack.rulesStrings>
   
   <!-- EN: marriage -->
@@ -121,20 +121,20 @@
     <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
   -->
   <Marriage.rulePack.rulesStrings>
-    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚</li>
-    <li>image->[SPOUSE1_nameFull]は,[circumstance_group] [SPOUSE2_nameFull]と結婚する</li>
-    <li>image->[SPOUSE1_nameFull]は,[circumstance_group] [SPOUSE2_nameFull]と結婚することを[SPOUSE1_possessive]宣言する</li>
-    <li>image->[SPOUSE1_nameFull]は,[circumstance_group] [SPOUSE2_nameFull]と一緒にバージンロードを歩いている</li>
-    <li>image->[SPOUSE1_nameFull]は,[circumstance_group] 結婚式のあいだ中[SPOUSE2_nameFull]を離さない</li>
+    <li>tale_noun->[SPOUSE1_nameDef]と[SPOUSE2_nameDef]の結婚の</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚する</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 結婚することを宣言する</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group], [SPOUSE2_nameFull]と 一緒にバージンロードを歩く</li>
+    <li>image-> [SPOUSE1_nameFull]が [circumstance_group],結婚式のあいだ中ずっと [SPOUSE2_nameFull]の 手を握る</li>
     <li>circumstance_phrase->品位のあるセレモニーの中で</li>
     <li>circumstance_phrase->共に陽気に笑いながら</li>
-    <li>circumstance_phrase->厳粛な雰囲気の中</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,[SPOUSE2_nameDef]に擦り寄ってくる.</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,[SPOUSE2_nameDef]に眼を奪われる.</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,[SPOUSE2_nameDef]に,息をフッと吹きかける.</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,形式的に[SPOUSE2_nameDef]と絆で結ばれる.</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,[SPOUSE2_nameDef]と一心同体になる.</li>
-    <li>desc_sentence->[SPOUSE1_nameDef]は,積極的に[SPOUSE2_nameDef]に触れている.</li>
+    <li>circumstance_phrase->厳粛な雰囲気の中で</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は[SPOUSE2_nameDef]に擦り寄っている.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は[SPOUSE2_nameDef]に目を奪われている.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は[SPOUSE2_nameDef]に,息をフッと吹きかけている.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は[SPOUSE2_nameDef]と強く結ばれている.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は[SPOUSE2_nameDef]と一心同体のようだ.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]は積極的に[SPOUSE2_nameDef]に触れている.</li>
   </Marriage.rulePack.rulesStrings>
   
 </LanguageData>

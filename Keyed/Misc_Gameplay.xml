@@ -362,6 +362,10 @@
   <CreatureWildness>{0} 野生</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} 訓練しやすさ</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>主人の徴兵時に追従する</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>主人のフィールドワーク時に追従する</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
@@ -402,8 +406,6 @@
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
   <PrisonersLower>囚人</PrisonersLower>
-  <!-- EN: Complete -->
-  <Complete>完了</Complete>
   <!-- EN: Click to view this quest in quests tab -->
   <ClickToViewInQuestsTab>このクエストをクエストタブ内でみるにはクリック</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
@@ -423,13 +425,15 @@
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>ダメージを受けると大きく爆発しますよ.</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>ダメージを受けた場合,大きく爆発します.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>メッククラスター</MechCluster>
+  <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
-  <!-- EN: {0} assembly completes in {1} -->
-  <MechAssemblyCompleteIn>{0} assembly completes in {1}</MechAssemblyCompleteIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>produced</ThingsProduced>
   <!-- EN: harvested -->
@@ -450,22 +454,36 @@
   <InitiatesIn>Initiates in</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
-  <!-- EN: Psychic entropy -->
-  <PsychicEntropy>サイキックエントロピー</PsychicEntropy>
-  <!-- EN: {0} pain focus -->
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>ニューラルヒート</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>ヒート</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>{0} pain focus</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>半径 {0}</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>low psyfocus</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>残 {0}</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>いずれかの</AnyOf>
+  <!-- EN: Goodwill -->
+  <Goodwill>友好値</Goodwill>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>{0_nameIndef}の抵抗を減らす</JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>スキャン速度</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>発見間隔</ScanAverageInterval>
+  <ScanAverageInterval>ランダムな鉱脈検出の間隔</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>Progress to guaranteed find</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>確実な鉱脈検出までの進捗</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>瞑想場所</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -927,7 +945,9 @@
   <!-- EN: Source unknown. -->
   <SourceUnknown>発生源不明.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>発生源にジャンプするはクリック</ClickToJumpToSource>
+  <ClickToJumpToSource>クリックして発生源にジャンプする</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>クリックしてフラッシュストームの場所にジャンプする</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
   <CausedByQuest>クエストにより発生: {0}</CausedByQuest>
 
@@ -990,12 +1010,12 @@
   <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
-  <!-- EN: <Name>Charlon Whitestone</Name> is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
-  <!-- EN: <Name>Charlon Whitestone</Name> is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
@@ -1216,12 +1236,16 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind. -->
-  <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
-  <!-- EN: Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy. -->
-  <PawnTooltipPsychicEntropyPainFocus>Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy.</PawnTooltipPsychicEntropyPainFocus>
-  <!-- EN: Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects. -->
-  <PawnTooltipPsychicEntropyLimit>Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>ニューラルヒート: {0} / {1}\n減少速度: {2}/秒 (0まで残り{3}秒)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>超能力を使用すると,ニューラルヒートが増加します.限界を超えると,長期的な神経衰弱を引き起こす可能性があります.\n\nニューラルヒートは時間の経過と共に,自然に放熱されます.このプロセスは,エルテック系の衣服の着用,もしくは痛みを感じることで加速させることができます.</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>痛みによるブースト効果\n\n痛みは精神を集中させ,ニューラルヒートの放熱力を上昇させます.\n\n痛みの強さ: {0}\nヒート回復ボーナス: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>ニューラルヒートの限界値を切り替えます.ヒートの限界を越えると,長期的な神経衰弱が起きる可能性があります.永続的なダメージは起こしません.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>サイフォーカス: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
@@ -1239,9 +1263,19 @@
   <Reward_Items>次の資源を積んだ輸送ポッドが到着します(総価値 {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>あなたは (総価値 {1}) を受け取るでしょう.:\n\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>あなたは (総価値 {1}) を受け取るでしょう:\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>あなたと {0_name} との関係は {1} 向上するでしょう.</Reward_Goodwill>
+  <Reward_Goodwill>あなたと {0_name} との関係は {1} 向上するでしょう</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>あなたは惑星に連れて行かれるでしょう</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>惑星外への脱出</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>あなたは野営地から全てを略奪できます</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
+  <!-- EN: value {0} -->
+  <TotalValue>価値 {0}</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
@@ -1261,16 +1295,24 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>Intercepts {0} every {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>迎撃 {0} {1}毎</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>Intercepts {0}</InterceptsProjectiles>
+  <InterceptsProjectiles>迎撃 {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>ground projectiles</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>地上の発射物</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>aerial projectiles</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>空中の発射物</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
   <AffectedGender>影響する性別</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>原因: {0}</CausedByHediff>
   
+  <!-- UNUSED -->
+  <Complete>完了</Complete>
+  <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
+
 </LanguageData>

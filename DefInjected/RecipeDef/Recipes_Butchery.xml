@@ -8,11 +8,11 @@
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>食肉に加工中</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
-  <ButcherCorpseMechanoid.label>メカノイドを分解する</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>機能停止したメカノイドを,部品毎に分解します.</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>メカノイドを分解中</ButcherCorpseMechanoid.jobString>
+  <!-- EN: shred mechanoid -->
+  <ButcherCorpseMechanoid.label>メカノイドを寸断する</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>機能停止したメカノイドを寸断し,使用可能な素材を回収します.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
+  <ButcherCorpseMechanoid.jobString>メカノイドを寸断中</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>

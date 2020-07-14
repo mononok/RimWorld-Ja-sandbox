@@ -42,6 +42,8 @@
   <DevelopmentMode>開発者モード</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>クラッシュ時に,MODをリセットする</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>Royaltyのない環境をシミュレートする</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <!-- EN: Open save data folder -->

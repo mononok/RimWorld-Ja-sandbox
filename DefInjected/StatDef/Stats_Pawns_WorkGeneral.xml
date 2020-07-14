@@ -21,25 +21,30 @@
   <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
   <ConstructSuccessChance.description>何か建造物を建てているときの成功率です.失敗は,時間と資源のムダを意味します.</ConstructSuccessChance.description>
   
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>深部採掘速度</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>この人が深部ドリルマシンで地下資源を抽出する速度です.</DeepDrillingSpeed.description>
+  
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>修理・成功率</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
   <FixBrokenDownBuildingSuccessChance.description>機能停止した建造物をコンポーネントを使って修理するときの成功率です.失敗は,時間と資源のムダを意味します.【注意】これは,機能停止した建造物にのみ影響を及ぼし,単にダメージを受けた物への修理とは違います.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
-  <HuntingStealth.label>狩り  </HuntingStealth.label>
+  <HuntingStealth.label>狩り</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
   <HuntingStealth.description>狩りの獲物がハンターに逆襲してくる確率への減衰率です.0%は減少無しを意味します.100%は,動物が決して攻撃してこない意味になります.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
   <MiningSpeed.label>掘削・速度</MiningSpeed.label>
-  <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
-  <MiningSpeed.description>この人が壁を掘削したり,深部にある資源をドリルで掘削する速度です.</MiningSpeed.description>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>この人が壁を掘削する速度です.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>掘削・収率</MiningYield.label>
-  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks. -->
-  <MiningYield.description>掘削した時に鉱物を得られる量のパーセンテージです.これは,採掘とボーリングの両方に影響します.掘削スラグの発生には影響を及ぼしません.</MiningYield.description>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>掘削した時に鉱物を得られる量のパーセンテージです.\n\nこれは,採掘と深部ドリルマシンの両方に影響します.\n深部ドリル使用時の岩塊の生成量には影響を与えません.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>栽培・収率</PlantHarvestYield.label>

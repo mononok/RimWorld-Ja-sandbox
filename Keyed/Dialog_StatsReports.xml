@@ -62,6 +62,8 @@
   <StatsReport_Facilities>設備</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
+  <!-- EN: Carefully slaughtered without wounds -->
+  <StatsReport_HasHediffExplanation>傷のない丁寧な屠殺</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -112,7 +114,30 @@
   <StatsReport_WildMan>野人</StatsReport_WildMan>
   <!-- EN: Attack -->
   <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
+  
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>可能なオフセット</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>部屋の印象</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>明るさ</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>{0}を含む</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>ヒトの死骸を含む</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>瞑想者は室内の死体と関係あります.</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>品質による影響</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>近くの人工建築物</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>使用者の爵位要件を満たしています</StatsReport_SatisfiesTitle>
 
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>異なる娯楽道具はそれぞれ異なる娯楽欲求を満たします.入植者は同じ種類の娯楽を繰り返すと飽きてしまうので,異なる娯楽欲求のために多様性のある娯楽を提供することが重要です.</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>娯楽種別</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>採掘物</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
@@ -209,8 +234,6 @@
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Performing this operation is safe for the patient.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
   <Stat_Thing_Surgery_DeathOnFailChance_Desc>The chance the patient will die upon failure of this surgery.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
-  <!-- EN: The addictiveness of this drug. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>The addictiveness of this drug.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
   <Stat_Hediff_TotalBleedFactor_Name>Total bleed factor</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
@@ -221,10 +244,10 @@
   <Stat_Hediff_NaturalHealingFactor_Desc>A multiplier applied to the overall rate of natural wound healing.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Food poisoning chance factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <!-- EN: A multiplier applied to the chance of accidentally cooking a meal with food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of accidentally cooking a meal with food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
-  <!-- EN: The rate at which this condition is drains blood. -->
-  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition is drains blood.</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of getting food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition causes blood loss.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
   <Stat_Hediff_Pain_Desc>The amount of pain caused by this condition.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
@@ -260,8 +283,48 @@
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>The overall efficiency of this body part.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>バイオコーディング</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>特定の人物だけしか扱えないように,このアイテムに固有の生体波紋を符号化して記録した.</Stat_Thing_Biocoded_Desc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>このドラッグに含まれる化学成分の種類です.\n\n場合によっては,同じ化学成分が,異なるドラッグに含まれることもあります.これらの異なるドラッグは,異なる方法で同じ依存症を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>このドラッグを摂取したときに,得られる効能量です.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>このドラッグの,一日毎に減少する効能量です.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>このドラッグを摂取したときに効能が持続する期間です.\n\nこの値は,使用時に獲得できる効能量と,効能の減少速度から計算されています.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>一回の消費毎の,このドラッグに含まれる化学成分に対する,使用者の耐性の増加量です.\n\n同じ化学成分を持つ異なる種類のドラッグは,この値が異なる可能性があります.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>この化学成分に対する,一日毎に減少する使用者の耐性の量です.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>このドラッグを摂取したときに,新たに依存症を引き起こすまでの最低耐性値です.\n\n使用者の耐性がこの値を下回っていれば,ドラッグの摂取によって新たに依存症が引き起こされることはありません.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>使用者がこの数値よりも頻繁にドラッグを摂取しない限り,決して依存症は引き起こされません.\n\nこの値は,依存症になる最低耐性値,耐性増加量,および耐性の減少速度から計算されています.\n\n一部のドラッグには,安全な使用間隔が存在しないことに注意してください.そのようなドラッグは,どのような使用機会でも,たとえそれが初めての摂取であっても依存症を引き起こす可能性があります.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>このドラッグを摂取する際に,ランダムに過剰摂取する確率です. 過剰摂取は,初心者の初めての摂取でも,経験豊富な常用者の100回目の摂取あっても,あらゆる使用機会で発生する可能性があります.</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>このドラッグを摂取したときに依存症が引き起こされる確率です.\n\n依存症になる最低耐性値がこのドラッグに存在する場合,この確率が適用されるのは,使用者の耐性が最低耐性値を超えている場合のみに限られます.最低耐性値が存在しない場合,あらゆる使用機会で依存症を引き起こす可能性があります.</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>このドラッグによって新たに引き起こされる依存症は,この深刻度レベルから始まります.\n\nドラッグを多く摂取する行為は依存症の深刻度を上昇させますが,深刻度は時間と共に減少します.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>このドラッグの初期の依存症から回復するために必要な時間です.\n\nこれは,依存症の深刻度を,依存症の回復速度で割ることによって計算されています.供給が続いている依存症は,回復するまでさらに時間がかかります.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを摂取したときに,既存の依存症の深刻度がどの程度増加するかを示す値です.\n\n依存症の深刻度は100％を超えません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>禁断症状の発生を防ぐために,常用者がこのドラッグを摂取して,依存症にエサを与えなければならない頻度です.\n\nこれは,依存欲求の減少速度と,満たされる依存欲求の量から計算されています.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>このドラッグを摂取したときに,常用者の対応する化学成分に対する欲求を,どれだけ満たせるかです.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>常用者の化学成分に対する欲求値が,どれほど速く減少するかです.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>禁断症状を発生させずに依存症を維持させる場合の,1日あたりに摂取しなければならないドラッグ量の市場価値です.\n\nこの値は,依存欲求の回復量,依存欲求の減少速度,およびこのドラッグの市場価値から計算されています.\n\nこれとは異なるコストで,同じ化学成分を入手する手段があるかもしれないことに注意してください.</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <!-- UNUSED -->
+  <Stat_Thing_Weapon_Biocoded_Name>バイオコーディング</Stat_Thing_Weapon_Biocoded_Name>
   <Stat_Thing_Weapon_Biocoded_Desc>特定の人物だけしか扱えないように,このアイテムに固有の生体波紋を符号化して記録した.</Stat_Thing_Weapon_Biocoded_Desc>
 
 </LanguageData>

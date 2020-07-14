@@ -73,27 +73,10 @@
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>痛みによって失神する値です.</PainShockThreshold.description>
   
-  <!-- EN: psychic entropy gain -->
-  <PsychicEntropyGain.label>サイキックエントロピー利得率</PsychicEntropyGain.label>
-  <!-- EN: A multiplier on psychic entropy gained from any source. -->
-  <PsychicEntropyGain.description>あらゆる資源からサイキックエントロピーを得る時の掛け率です.</PsychicEntropyGain.description>
-  
-  <!-- EN: psychic entropy limit -->
-  <PsychicEntropyMax.label>サイキックエントロピー限界量</PsychicEntropyMax.label>
-  <!-- EN: The maximum amount of psychic entropy individual can tolerate safely. -->
-  <PsychicEntropyMax.description>サイキックエントロピーを安全に使用できる最大量です.</PsychicEntropyMax.description>
-  
-  <!-- EN: psychic entropy recovery rate -->
-  <PsychicEntropyRecoveryRate.label>サイキックエントロピー回復速度</PsychicEntropyRecoveryRate.label>
-  <!-- EN: The rate at which this person reduces psychic entropy. -->
-  <PsychicEntropyRecoveryRate.description>サイキックエントロピーを還元する速度です.</PsychicEntropyRecoveryRate.description>
-  <!-- EN: {0}/30s -->
-  <PsychicEntropyRecoveryRate.formatString>{0}/30秒</PsychicEntropyRecoveryRate.formatString>
-  
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>精神感応性</PsychicSensitivity.label>
-  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases psychic entropy limit. -->
-  <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.</PsychicSensitivity.description>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>精神現象がこの人に与える影響度への倍率です.より敏感な人は,マイナスの精神影響はより苦しみますし,プラスの精神影響はより恩恵を受けます.高い精神感応性はニューラルヒートの限界も増加させます.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>休息しやすさ</RestRateMultiplier.label>

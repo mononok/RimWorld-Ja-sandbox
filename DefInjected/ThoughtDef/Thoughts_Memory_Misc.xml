@@ -39,6 +39,11 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>敵のリーダーをやっつけた</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>メカクラスターを倒した</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>血は金属に打ち勝つぞ,忌々しい機械共め!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0}の蘇生に失敗した</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
@@ -108,6 +113,11 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>腐乱死体を見た</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>私は地面の上に転がっている腐乱死体を見て気分が悪くなった.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>勤務中</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>私にはやるべき仕事がある.</OnDuty.stages.on_duty.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>囚人を見殺しにした</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

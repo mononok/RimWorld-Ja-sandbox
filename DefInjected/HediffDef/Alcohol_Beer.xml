@@ -4,9 +4,9 @@
   <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>アルコール依存症</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>アルコールへの薬物中毒.長期間アルコールを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nアルコールを定期的に摂らないと禁断症状が始まります.しかし長期間,禁酒を行うことで,脳を正常に機能させ依存症を解決できます.</AlcoholAddiction.description>
+  <AlcoholAddiction.description>アルコールへの薬物中毒.長期間アルコールを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります.\n\nアルコールを定期的に摂らないと禁断症状が始まります.しかし長期間,禁酒を行うことで,脳を正常に機能させ依存症を解決できます.</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>離脱症状</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholAddiction.stages.withdrawal.label>禁断症状</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>飲酒</AlcoholHigh.label>
@@ -30,13 +30,14 @@
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
   <AlcoholTolerance.description>アルコールに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのアルコールが必要です.</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>小</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>小</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>小</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>大</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>極大</AlcoholTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <AlcoholTolerance.stages.small-1.label>小</AlcoholTolerance.stages.small-1.label>
   
   <!-- EN: hangover -->
   <Hangover.label>二日酔い</Hangover.label>

@@ -46,8 +46,8 @@
     <li>adj->見つけた</li>
   </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエスト期限切れ: [resolvedQuestName]</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
-  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>他の者たちが [targetMineable_label]の塊を採掘しました.クエスト [resolvedQuestName] は期限が切れました.</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>他の者たちが [targetMineable_label]の塊を採掘しました.クエスト [resolvedQuestName] は期限が切れました.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

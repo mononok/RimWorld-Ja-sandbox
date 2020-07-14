@@ -108,6 +108,7 @@
   
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
@@ -147,7 +148,7 @@
   -->
   <Combat_MeleeIncludes.rulePack.rulesStrings>
     <li>r_logentry->[action], [result].</li>
-    <li>r_logentry(p=0.2)->[action].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]の [TOOL_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label]の [TOOL_label]</li>
@@ -253,7 +254,7 @@
   <Combat_SkillIncludes.rulePack.rulesStrings>
     <li>skillDescMelee->[skillAdv] [INITIATOR_possessive] [WEAPON_label] [wielding] </li>
     <!-- armed -->
-    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>skillDescMelee->[skillAdv] [implement] [using] </li>
     <!-- unarmed -->
     <li>wielding(p=4)->行使している</li>
     <li>wielding(p=3)->使っている</li>
@@ -261,30 +262,30 @@
     <li>wielding->振りかざしている</li>
     <li>wielding->立ち回っている</li>
     <li>using(p=4)->使っている</li>
-    <li>using->driving</li>
-    <li>using->thrusting</li>
-    <li>using->utilizing</li>
-    <li>using->moving</li>
-    <li>skillAdv(INITIATOR_skill&lt;=3)->役に立たずの</li>
-    <li>skillAdv(INITIATOR_skill&lt;=3)->下手な</li>
-    <li>skillAdv(INITIATOR_skill&lt;=3)->激しく</li>
-    <li>skillAdv(INITIATOR_skill&lt;=3)->手当たりしだいに</li>
-    <li>skillAdv(INITIATOR_skill&lt;=3)->壊れやすい</li>
-    <li>skillAdv(INITIATOR_skill&lt;=4)->ぎこちない手つきで</li>
-    <li>skillAdv(INITIATOR_skill&lt;=4)->不器用な</li>
-    <li>skillAdv(INITIATOR_skill&lt;=5)->おそるおそる</li>
-    <li>skillAdv(INITIATOR_skill&lt;=5)->ためらいながら</li>
-    <li>skillAdv(INITIATOR_skill&lt;=5)->愚かにも</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->躊躇しながら</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->仕方なく</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->ゆっくりと</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->試しに</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->不器用に</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->素人のように</li>
-    <li>skillAdv(INITIATOR_skill&lt;=6)->こわごわ</li>
-    <li>skillAdv(INITIATOR_skill&lt;=8)->熱狂的に</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->熟練した手つきで</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->うってつけの</li>
+    <li>using->叩き込んでいる</li>
+    <li>using->突き刺している</li>
+    <li>using->活用している</li>
+    <li>using->動かしている</li>
+    <li>skillAdv(INITIATOR_skill>=3)->役に立たずの</li>
+    <li>skillAdv(INITIATOR_skill>=3)->下手な</li>
+    <li>skillAdv(INITIATOR_skill>=3)->激しく</li>
+    <li>skillAdv(INITIATOR_skill>=3)->手当たりしだいに</li>
+    <li>skillAdv(INITIATOR_skill>=3)->壊れやすい</li>
+    <li>skillAdv(INITIATOR_skill>=4)->ぎこちない手つきで</li>
+    <li>skillAdv(INITIATOR_skill>=4)->不器用な</li>
+    <li>skillAdv(INITIATOR_skill>=5)->おそるおそる</li>
+    <li>skillAdv(INITIATOR_skill>=5)->ためらいながら</li>
+    <li>skillAdv(INITIATOR_skill>=5)->愚かにも</li>
+    <li>skillAdv(INITIATOR_skill>=6)->躊躇しながら</li>
+    <li>skillAdv(INITIATOR_skill>=6)->仕方なく</li>
+    <li>skillAdv(INITIATOR_skill>=6)->ゆっくりと</li>
+    <li>skillAdv(INITIATOR_skill>=6)->試しに</li>
+    <li>skillAdv(INITIATOR_skill>=6)->不器用に</li>
+    <li>skillAdv(INITIATOR_skill>=6)->素人のように</li>
+    <li>skillAdv(INITIATOR_skill>=6)->こわごわ</li>
+    <li>skillAdv(INITIATOR_skill>=8)->熱狂的に</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->熟練した手つきで</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->うってつけの</li>
     <li>skillAdv(INITIATOR_skill>=8)->専門的</li>
     <li>skillAdv(INITIATOR_skill>=8)->器用に</li>
     <li>skillAdv(INITIATOR_skill>=8)->うまく</li>

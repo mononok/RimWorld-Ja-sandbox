@@ -3,8 +3,9 @@
   
   <!-- EN: recovery -->
   <Adaptation.label>復興</Adaptation.label>
-  <!-- EN: Days -->
   <Adaptation.graphLabelY>日数</Adaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0}日数</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>入植者心情</ColonistMood.label>
@@ -18,13 +19,15 @@
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>復興(人)</PopAdaptation.label>
-  <!-- EN: Days -->
   <PopAdaptation.graphLabelY>日数</PopAdaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>{0}日数</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>pop intent x10 </PopIntent.label>
-  <!-- EN: Days -->
   <PopIntent.graphLabelY>日数</PopIntent.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>{0}日数</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>囚人</Prisoners.label>
@@ -33,8 +36,9 @@
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>fun ポイント /10</ThreatPoints.label>
-  <!-- EN: Points -->
   <ThreatPoints.graphLabelY>ポイント</ThreatPoints.graphLabelY>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>{0}ポイント</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>資産(建物)</Wealth_Buildings.label>

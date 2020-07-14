@@ -4,22 +4,23 @@
   <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>サイカイト依存症</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>サイカイトによる薬物中毒.長期間サイカイトを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nサイカイトを定期的に摂らないと禁断症状が始まります.しかし長期間,サイカイトを断つことで,脳を正常に機能させ依存症を解決できます.</PsychiteAddiction.description>
+  <PsychiteAddiction.description>サイカイトによる薬物中毒.長期間サイカイトを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります.\n\nサイカイトを定期的に摂らないと禁断症状が始まります.しかし長期間,サイカイトを断つことで,脳を正常に機能させ依存症を解決できます.</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
-  <PsychiteAddiction.stages.withdrawal.label>離脱症状</PsychiteAddiction.stages.withdrawal.label>
+  <PsychiteAddiction.stages.withdrawal.label>禁断症状</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
   <PsychiteTolerance.label>サイカイト耐性</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
   <PsychiteTolerance.description>サイカイトに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのサイカイト製剤が必要です.</PsychiteTolerance.description>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small-0.label>小</PsychiteTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <PsychiteTolerance.stages.small-1.label>小</PsychiteTolerance.stages.small-1.label>
+  <PsychiteTolerance.stages.small.label>小</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
   <PsychiteTolerance.stages.large.label>大</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
   <PsychiteTolerance.stages.massive.label>極大</PsychiteTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <PsychiteTolerance.stages.small-1.label>小</PsychiteTolerance.stages.small-1.label>
   
   <!-- EN: high on yayo -->
   <YayoHigh.label>イェイョによる興奮状態</YayoHigh.label>

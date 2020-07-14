@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>バイオコード化した衣服を許可</AllowBiocodedApparel.label>
+  
   <!-- EN: allow biocoded weapons -->
   <AllowBiocodedWeapons.label>バイオコード化した武器を許可</AllowBiocodedWeapons.label>
   
@@ -29,6 +32,9 @@
   <AllowFresh.label>新鮮を許可</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>腐敗していない,新鮮な有機物を許可します.</AllowFresh.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>非バイオコード化した衣服を許可</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
   <AllowNonBiocodedWeapons.label>非バイオコード化した武器を許可</AllowNonBiocodedWeapons.label>

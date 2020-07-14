@@ -19,26 +19,31 @@
   <!-- EN: IED EMP trap -->
   <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
+  <TrapIED_EMP.description>接触信管に接続された一対のEMP弾頭です.炸裂するとメカノイドを数秒間,麻痺させることができます.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
   <TrapIED_Firefoam.label>IED 消火剤トラップ</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>接触信管に接続された一対の消火剤弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
   <TrapIED_HighExplosive.label>IED トラップ</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>一対の高性能爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>接触信管に接続された一対の迫撃砲弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
   <TrapIED_Incendiary.label>IED 焼夷トラップ</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>一対の焼夷性爆薬が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>接触信管に接続された一対の焼夷弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED Smoke trap -->
+  <TrapIED_Smoke.label>IED 煙幕トラップ</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>接触信管に接続された一対の煙幕弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
   <TrapSpike.label>スパイクトラップ</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>張力のかかった5本の突起物が接触信管に接続されています.犠牲者が信管に触れると,バネが縮んで突起物が犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
+  <TrapSpike.description>接触信管に接続された張力のかかった5本のスパイクです.犠牲者が信管に触れると,スパイクが飛び出し犠牲者を襲います.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapSpike.description>
   
 </LanguageData>

@@ -3,8 +3,8 @@
   
   <!-- EN: Arrest success chance -->
   <ArrestSuccessChance.label>逮捕成功率</ArrestSuccessChance.label>
-  <!-- EN: How effective this person is in arresting people.\n\nThis affects the success chance of arresting tries. -->
-  <ArrestSuccessChance.description>この人が,逮捕しようとした時に,どれだけ効果的かを表します.\n\nこれは逮捕を試みた時の成功率に影響します.</ArrestSuccessChance.description>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>この人が,逮捕しようとした時に,どれだけ効果的かを表します.これは,この人が抵抗されることなく対象を逮捕できる確率に影響します.</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>外交力</NegotiationAbility.label>

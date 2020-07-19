@@ -214,14 +214,14 @@
   <InteractionSpotWillOverlap>作用空間が{1_labelShort}の作用空間と干渉しそうです.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>作用空間が{1_labelShort}の作用空間と干渉しています.</InteractionSpotOverlaps>
-  <!-- EN: Monuments cannot be placed over other buildings. -->
-  <MonumentOverlapsBuilding>他の建築物の上にはモニュメントを設置できません.</MonumentOverlapsBuilding>
-  <!-- EN: Monument cannot be placed adjacent to a building. -->
-  <MonumentAdjacentToBuilding>建築物の隣にはモニュメントを設置できません.</MonumentAdjacentToBuilding>
-  <!-- EN: Monuments cannot be placed on incompatible terrain. -->
-  <MonumentBadTerrain>不適切な地盤の上にはモニュメントを設置できません.</MonumentBadTerrain>
-  <!-- EN: Monuments cannot be placed over permanent obstructions. -->
-  <MonumentBlockedPermanently>永続的な障害物の上にはモニュメントを設置できません.</MonumentBlockedPermanently>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>モニュメントを設置できません: {0}</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>建築できません: {0}</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>モニュメントを設置できません: {0}</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>モニュメントは隣接して設置できません: {0}</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -242,5 +242,9 @@
   <NoColonistWithAllSkillsForConstructing>{0}はひとりも必要なスキルを持っていません.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- UNUSED -->
+  <MonumentBadTerrain>不適切な地盤の上にはモニュメントを設置できません.</MonumentBadTerrain>
+  <MonumentBlockedPermanently>永続的な障害物の上にはモニュメントを設置できません.</MonumentBlockedPermanently>
 
 </LanguageData>

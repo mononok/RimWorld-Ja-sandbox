@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Custom -->
+  <Custom.label><!--TODO-->Custom</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description><!--TODO-->This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different.<!--TODO--></Custom.description>
+  
   <!-- EN: community builder -->
-  <Easy.label>コミュニティビルダー(Easy)</Easy.label>
+  <Easy.label>コミュニティビルダー</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
   <Easy.description>脅威を味わいながらコミュニティを構築できます.脅威は発生しますが,弱体化されます.\n\n以下のような人にお勧め:\n\n・このような種類のゲームを初めて遊ぶ プレイヤー\n・理想的なコロニーを作りたい プレイヤー\n・リラックスしたいプレイヤー</Easy.description>
   
   <!-- EN: losing is fun -->
-  <Extreme.label>失うことは楽しい(Extreme)</Extreme.label>
+  <Extreme.label>勝ち目のない楽しさ</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
   <Extreme.description>この設定は不公平になるようにデザインされています.巨大な脅威が,あなたのコロニーを滅ぼすまで情け容赦なく襲いかかります.苦闘と死のドラマに喜びを感じる人のみ,この設定を選んでください.\n\n以下のような人にお勧め:\n\n・優れたスキルでも死を防ぐことができない,残虐で不公平なシチュエーションに直面したい経験豊富なプレイヤー\n・悲劇を愛するプレイヤー\n・デジタルマゾヒスト</Extreme.description>
   
   <!-- EN: blood and dust -->
-  <Hard.label>血と砂煙(Hard)</Hard.label>
+  <Hard.label>血と砂煙</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>むごい生存競争と向き合うことになります.例えあなたが上手にプレイしても,死人が出るでしょう.脅威が来る前に予測し,あらゆるアドバンテージを探し出す必要があります.\n\n以下のような人にお勧め:\n\n・生き残るために苦労したい経験豊富なプレイヤー</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>アドベンチャーストーリー(Medium)</Medium.label>
+  <Medium.label>アドベンチャーストーリー</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
   <Medium.description>成長と繁栄の余地はありますが,それでも危険な惑星であることは変わりません.\n\n以下のような人にお勧め:\n\n・初めてRimworldを遊ぶストラテジーゲームの経験者\n・面白さや奇抜さのある結末を迎えさせる余裕が欲しいRimworldの経験者</Medium.description>
   
   <!-- EN: peaceful -->
-  <Peaceful.label>ピースフル(Peaceful)</Peaceful.label>
+  <Peaceful.label>ピースフル</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
   <Peaceful.description>箱庭的環境で地域社会を作れます.大きな危機的イベントは無効化されていますが,疾病,精神崩壊,動物の反乱などは依然として発生する可能性があります.\n\n以下のような人にお勧め:\n\n・最小限の緊張感でゲームの仕組みを 学びたいプレイヤー\n・建築をメインに行いたいプレイヤー\n・ゆったりとくつろぎたいプレイヤー</Peaceful.description>
   
   <!-- EN: strive to survive -->
-  <Rough.label>生き抜くための努力(Rough)</Rough.label>
+  <Rough.label>生き抜くための努力</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\nRecommended for:\n\n- Experienced players who want a rough story requiring skill to survive. -->
   <Rough.description>手荒でタフな惑星上で生き抜くために奮闘してください.そこには勝利と悲劇があるでしょう.\n\n以下のような人にお勧め:\n\n・生き抜くためのスキルを必要とする, 熾烈なストーリーを求める経験豊富なプレイヤー</Rough.description>
   

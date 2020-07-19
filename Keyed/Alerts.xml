@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
@@ -226,6 +226,8 @@
   <QuestPartShuttleLeaveDelay>{0} シャトル出発</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>{1}にシャトルが出発します.{0}クエストではシャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>{0}にシャトルが出発します.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>遺跡は破壊されます</DisallowedBuildingInsideMonument>

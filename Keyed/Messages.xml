@@ -13,6 +13,9 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{1}の{0}は 何かを略奪することに決めました.</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived><!--TODO-->{0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}.</MessageCaravanDetectedRaidArrived>
+
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{1}の{0}は 離れました.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
@@ -76,6 +79,8 @@
   <MessageTameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}). そして {RECRUITEE_objective} {RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted><!--TODO-->{RECRUITEE} has joined your colony.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません.</MessageColonyCannotAfford>
@@ -140,15 +145,6 @@
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
-
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました ({RECIPE_label}).</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
@@ -453,9 +449,6 @@
   <!-- EN: Cannot build a roof over {0}. -->
   <MessageRoofIncompatibleWithPlant>{0}の上に 屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
 
-  <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
-
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
@@ -513,6 +506,18 @@
   <GoodwillChangedReason_RequestedMilitaryAid>援軍を求められました.</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>キャラバン隊を求められました.</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho><!--TODO-->caused neuroquake echo</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk><!--TODO-->caused berserk on {PAWN_labelShort}</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction><!--TODO-->attacked {0_name}</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed><!--TODO-->shuttle destroyed</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost><!--TODO-->civilians lost</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost><!--TODO-->commander lost</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
@@ -551,8 +556,8 @@
   <!-- EN: {0} couldn't reach its destination. -->
   <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
 
-  <!-- EN: You can't re-enter for another {0} days. -->
-  <MessageEnterCooldownBlocksEntering>あなたは,{0}日間,別の場所に再入場できません.</MessageEnterCooldownBlocksEntering>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <MessageEnterCooldownBlocksEntering>危険すぎるため,{0}日間,再侵入できません.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort}は やっと遠慮なく"{1}"を使うことができます.</MessagePermitCooldownFinished>
@@ -601,7 +606,7 @@
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>内部に禁じられた建物を建てたので遺跡は破壊されました.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
-  <MessageNoResearchBenchForTechprint>Cannot apply: No reachable, un-reserved research bench available.</MessageNoResearchBenchForTechprint>
+  <MessageNoResearchBenchForTechprint><!--TODO-->Cannot apply: No reachable, un-reserved research bench available.</MessageNoResearchBenchForTechprint>
 
   <!-- EN: No valid destination found for {0} -->
   <NoValidDestinationFound>{0}の正しい送り先が見つかりません.</NoValidDestinationFound>
@@ -617,6 +622,7 @@
   <MessageCannotSelectInvisibleStat>{0_label}は現在非表示です.</MessageCannotSelectInvisibleStat>
 
   <!-- UNUSED -->
+  <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
   <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} はサイキックアンプを使用できません.なぜなら精神感応性が0だからです.</MessagePsychicAmplifierNoSensitivity>
 
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -70,6 +70,8 @@
   <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>王座の所有者を割り当てます.</CommandThroneSetOwnerDesc>
+  <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
+  <CommandMeditationSpotSetOwnerDesc><!--TODO-->Assign this meditation spot to be owned by a specific colonist.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -252,6 +254,12 @@
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>もう攻撃しなくなります.</CommandHoldFireDesc>
   
+  <!-- reload -->
+  <!-- EN: No {CHARGENOUN_plural} left. -->
+  <CommandReload_NoCharges><!--TODO-->No {CHARGENOUN_plural} left.</CommandReload_NoCharges>
+  <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
+  <CommandReload_NoAmmo><!--TODO-->Needs to be reloaded with {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
+  
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
@@ -297,6 +305,8 @@
   <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します.キャラバン隊はそれぞれ接していなければなりません.</CommandMergeCaravansFailCaravansNotSelected>
+  <!-- EN: Join -->
+  <CommandJoinCaravan><!--TODO-->Join</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -397,7 +407,7 @@
   <CommandCancelLoadDesc>荷積みを中止して,既に積んであるものを下ろします.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
-  <!-- EN: Launch group -->
+  <!-- EN: Launch -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
   <CommandLaunchGroupDesc>輸送ポッドの目標座標設定プロセスを開始します.次のステップは目的地を選びます.輸送ポッドは飛翔し,きちんと着陸します.</CommandLaunchGroupDesc>
@@ -493,6 +503,12 @@
   <CommandSendShuttleFailUnderRoof>シャトルは屋根の下にあります.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>ある人か荷物が,積載されていません.</CommandSendShuttleFailMissingRequiredThing>
+  
+  <!-- Dismiss shuttle -->
+  <!-- EN: Dismiss -->
+  <CommandShuttleDismiss><!--TODO-->Dismiss</CommandShuttleDismiss>
+  <!-- EN: Unload all contents and send the shuttle away. -->
+  <CommandShuttleDismissDesc><!--TODO-->Unload all contents and send the shuttle away.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->

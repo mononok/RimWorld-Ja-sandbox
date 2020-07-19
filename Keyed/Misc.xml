@@ -144,6 +144,12 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom><!--TODO-->Important for this type of room.</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining><!--TODO-->{COUNT} {RESOURCE_label} underground here.</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
   <VariousLabel>(色々)</VariousLabel>
 
@@ -162,6 +168,6 @@
   <East>東</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint>
+  <ApplyingTechprint>テックプリントを適用中({0})</ApplyingTechprint>
   
 </LanguageData>

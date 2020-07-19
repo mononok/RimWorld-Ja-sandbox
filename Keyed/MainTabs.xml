@@ -34,7 +34,7 @@
   <Priority3>通常</Priority3>
   <!-- EN: Low priority -->
   <Priority4>劣後</Priority4>
-
+  
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>服装を管理</ManageOutfits>
@@ -54,7 +54,7 @@
   <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
-
+  
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>コピー</Copy>
@@ -62,7 +62,7 @@
   <Paste>ペースト</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>制限ゾーン</AllowedArea>
-
+  
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>主人</Master>
@@ -70,13 +70,13 @@
   <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>絆</BondedTo>
-
+  
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
   <IsInMentalState>この生物の精神状態: {0}</IsInMentalState>
-
+  
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>敵対</Hostile>
@@ -90,6 +90,8 @@
   <EnemyOf>敵対: </EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip><!--TODO-->Current relations with this faction.</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -104,7 +106,7 @@
   <CurrentGoodwillTip_NaturalGoodwillRise>友好値が{0}を下回ると,一年毎に{1}上がっていきます.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
   <CurrentGoodwillTip_NaturalGoodwillFall>友好値が{0}を超えると,一年毎に{1}下がっていきます.</CurrentGoodwillTip_NaturalGoodwillFall>
-
+  
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>友人</Friend>
@@ -112,7 +114,7 @@
   <Rival>ライバル</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>知人</Acquaintance>
-
+  
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>グラフ</Graph>
@@ -231,7 +233,7 @@
   <!-- EN: Average guest mood (previous {0}): {1} -->
   <QuestAveragePawnMood>ゲストの平均心情({0}前): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets><!--TODO-->The average mood of {0} over the previous {1}</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>{0}にシャトルが着きます</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -240,6 +242,10 @@
   <ShuttleDepartsIn>{0}にシャトルが発ちます</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>{0}にシャトルが発ちます</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn><!--TODO-->Guests depart in {0}</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn><!--TODO-->Guests depart on {0}</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0}前に完了</QuestFinishedAgo>
   <!-- EN: Accept quest -->
@@ -270,8 +276,14 @@
   <QuestBedroomRequirementsUnsatisfied>称号持ちが満足する予約されていない複数の寝室</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>称号持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied><!--TODO-->a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom><!--TODO-->a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} must be in home colony -->
+  <QuestPawnNotOnColonyMap><!--TODO-->{PAWN_definite} must be in home colony</QuestPawnNotOnColonyMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>報酬設定</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -292,7 +304,11 @@
   <GoodwillTip>{0_name}との友好値が{1}改善されます.\n\n現在の友好値: {4} ({5}).\n\n友好値は,その派閥との一般的な関係性を測るものです.{2}を下回ると,派閥は敵対的になり,入植地やキャラバン隊を襲撃するようになります. {3}を超えると,派閥は同盟を組み,可能な場合はあなたを助けるために援軍も送るようになります.それ以外の場合,派閥は中立のままであり,取引や会話を自由に行えます.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort}が加わる</PawnQuestReward>
-
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer><!--TODO-->Betrayal offer: {0} targets remain</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip><!--TODO-->{0} will grant you a reward for killing all members of the {1}.</QuestBetrayalOfferTip>
+  
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>追加欲求</CreatesNeed>

@@ -176,8 +176,8 @@
   <UsingBedrolls>寝袋を{0}個使う</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>到着予定時刻: {0}</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
-  <CaravanEstimatedDaysToDestination>到着予定日数: {0}</CaravanEstimatedDaysToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination><!--TODO-->到着予定日数: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>行動不能: 過積載</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -246,10 +246,10 @@
   <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>地図</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown><!--TODO-->{0} until enemies arrive</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip><!--TODO-->Enemy reinforcements will arrive in this area in {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -368,8 +368,8 @@
   <CreatureFollowFieldwork>主人のフィールドワーク時に追従する</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>{0}以内に再入村できません</EnterCooldown>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
@@ -378,8 +378,6 @@
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>タレット</Turret>
   <!-- EN: turrets -->
@@ -620,6 +618,8 @@
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>{0}を使う</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>ゾーン</AreaLower>
   <!-- EN: cowering. -->
@@ -722,8 +722,8 @@
   <Faction>派閥</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>{PAWN_labelShort}が現在所属している派閥です.</FactionDesc>
-  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
-  <ExtraFactionDesc>{PAWN_labelShort}が所属していた元の派閥です.{PAWN_pronoun}が現在の派閥から脱退すると,元いた派閥へ加わるでしょう.</ExtraFactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>{PAWN_labelShort}が所属していた元の派閥です.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>装備品</Equipped>
   <!-- EN: nothing -->
@@ -1020,14 +1020,14 @@
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: neurotrainer ({0}) -->
-  <SkillNeurotrainerLabel>ニューロトレイナー ({0})</SkillNeurotrainerLabel>
-  <!-- EN: Use skill neurotrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>{0}を 身につけるためニューロトレイナーを使う</SkillNeurotrainerUseLabel>
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>{0}を 身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>特定のスキルを身に付けられる使い捨てのメカナイト製剤です.\n\nこの製剤は眼窩を通して投与します.脳内に達すると,メカナイトは指示された特定の作業野を向上させるべく,急速に必要なニューラルネットワークに形を変えます.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort}は,{1}ニューロトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort}は,{1}スキルトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1163,6 +1163,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining><!--TODO-->Remaining charges</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>ラーニングヘルパー</LearningHelper>
@@ -1274,6 +1278,18 @@
   <Reward_CampLoot>あなたは野営地から全てを略奪できます</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp><!--TODO-->the visitors will work and fight for you</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label><!--TODO-->Visitors' help</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label><!--TODO-->New psylink level</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony><!--TODO-->{PAWNNAME} gains psylink</Reward_BestowingCeremony>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label><!--TODO-->{TITLE} title</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title><!--TODO-->{PAWNNAME} gains {TITLE} title from {FACTION}</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>価値 {0}</TotalValue>
   
@@ -1284,6 +1300,12 @@
   <NotBonded>誰とも絆は無い</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>他の誰かと絆を結んだ</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded><!--TODO-->(existing bond)</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog><!--TODO-->A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed.</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage><!--TODO-->{PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1312,6 +1334,9 @@
   <CausedByHediff>原因: {0}</CausedByHediff>
   
   <!-- UNUSED -->
+  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
+  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
   <Complete>完了</Complete>
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
 

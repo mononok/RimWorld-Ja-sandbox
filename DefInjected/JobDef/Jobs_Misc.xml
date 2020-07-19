@@ -16,6 +16,15 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>行動中</CastAbilityOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>行動中</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>行動中</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>行動中</CastAbilityOnWorldTile.reportString>
+  
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>雪かき中</ClearSnow.reportString>
   
@@ -112,6 +121,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>TargetA に給油中</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TargetA に補充している</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA を脱いでいる</RemoveApparel.reportString>
   
@@ -149,10 +161,13 @@
   <UseItem.reportString>TargetA を使用中</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>ニューロトレイナー で学習中</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>スキルトレイナー で学習中</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Verb を使用中</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>行動中</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>行動中</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>吐いている</Vomit.reportString>

@@ -284,13 +284,166 @@
   <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
   <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
-  <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルは,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
   <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
   <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel><!--TODO-->Custom playstyle settings</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset><!--TODO-->Set to standard playstyle...</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection><!--TODO-->Threats</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label><!--TODO-->Threat scale</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info><!--TODO-->Adjust the size of threats like raids and infestations, and the difficulty of quests.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label><!--TODO-->Major threats</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info><!--TODO-->Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label><!--TODO-->Quest threats</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info><!--TODO-->Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label><!--TODO-->Intro threats</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info><!--TODO-->Enable the fixed intro threats that appear near game start.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label><!--TODO-->Predators hunt humans</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info><!--TODO-->Allow wild predators to hunt humans.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label><!--TODO-->Extreme weather</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info><!--TODO-->Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection><!--TODO-->Economy</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label><!--TODO-->Trade price disadvantage</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info><!--TODO-->When trading, buy prices are increased by this amount while sell prices are reduced by this amount.</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label><!--TODO-->Harvest yield</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label><!--TODO-->Mining yield</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when mining.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label><!--TODO-->Butchering yield</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label><!--TODO-->Research speed</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info><!--TODO-->Adjust the speed of research.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label><!--TODO-->Quest rewards</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info><!--TODO-->Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label><!--TODO-->Raid loot</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info><!--TODO-->Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label><!--TODO-->Turret rearm cost</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info><!--TODO-->Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label><!--TODO-->Scaria rot chance</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info><!--TODO-->The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards.</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label><!--TODO-->Enemy death on downed</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info><!--TODO-->Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection><!--TODO-->General</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label><!--TODO-->Colonist mood</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info><!--TODO-->A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label><!--TODO-->Food poison chance</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info><!--TODO-->Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label><!--TODO-->Animal revenge chance</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info><!--TODO-->Adjust the chance that injuring a wild animal will cause it to attack.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label><!--TODO-->Friendly fire</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info><!--TODO-->Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant-kill prevention -->
+  <Difficulty_AvoidInstantKillChance_Label><!--TODO-->Colonist instant-kill prevention</Difficulty_AvoidInstantKillChance_Label>
+  <!-- EN: Add a special chance to prevent colonists from dying instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AvoidInstantKillChance_Info><!--TODO-->Add a special chance to prevent colonists from dying instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on.</Difficulty_AvoidInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label><!--TODO-->Infection chance</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info><!--TODO-->Adjust the chance that a wound will become infected.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label><!--TODO-->Disease frequency</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info><!--TODO-->Adjust the frequency of random disease events.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label><!--TODO-->Insect spawning rate</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info><!--TODO-->Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label><!--TODO-->Deep drilling infestations</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info><!--TODO-->Adjust the chance that deep drilling will trigger an infestation.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label><!--TODO-->Map generation ancient threats</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info><!--TODO-->Ancient structures may contain dangerous threats.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label><!--TODO-->Map generation natural hives</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info><!--TODO-->Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play.</Difficulty_AllowCaveHives_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection><!--TODO-->Player tools</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label><!--TODO-->Player can build traps</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info><!--TODO-->Player can build traps like spike traps and IED traps.</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label><!--TODO-->Player can build turrets</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info><!--TODO-->Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label><!--TODO-->Player can build mortars</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info><!--TODO-->Player can build mortars.\n\nYou can still use captured mortars even if this is disabled.</Difficulty_AllowMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection><!--TODO-->Adaptation</DifficultyAdaptationSection>
+  <!-- EN: Damage adaptation growth -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label><!--TODO-->Damage adaptation growth</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info><!--TODO-->Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Damage adaptation effect -->
+  <Difficulty_AdaptationEffectFactor_Label><!--TODO-->Damage adaptation effect</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
+  <Difficulty_AdaptationEffectFactor_Info><!--TODO-->Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Fixed wealth progress mode -->
+  <Difficulty_FixedWealthMode_Label><!--TODO-->Fixed wealth progress mode</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist, count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info><!--TODO-->Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist, count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy.</Difficulty_FixedWealthMode_Info>
+  
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>開始位置を選択</SelectStartingSite>
@@ -440,8 +593,8 @@
   <Next>次</Next>
   <!-- EN: Back -->
   <Back>戻る</Back>
-  <!-- EN: Show Materials -->
-  <ShowMaterials>材料表示</ShowMaterials>
+  <!-- EN: Change material... -->
+  <ShowMaterials>材料を変更...</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>ゲームの設定</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->

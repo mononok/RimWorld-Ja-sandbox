@@ -16,14 +16,25 @@
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>夏が来た！でも直ぐに,冬もやってきます.\n\n作物は寒い冬の間は育ちません.食料を保存する準備をしましょう.\n\n冷凍庫となる部屋を造り,食料の腐敗を防ぐのです.\n\nパーカーを買うか,盗むか,作るかしておかないと,外に出た時に凍えてしまいます.</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です.\n\n彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({1})が{2}以下の時に起きます.中立の関係に戻す目的なら,友好値を再び{3}に到達させなければなりません.</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.\n\nこれは友好値({1})が{2}を超えれば発生します.もし友好値が{3}を下回れば,{0}は再び敵対します.もし友好値が{4}を上回れば,彼らはあなたと同盟を組み,あなたの為に戦うでしょう.</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました.いまや彼らは,あなたを同盟ではなく中立とみなしています.\n\nあなたと円満な関係を続けますが,彼らは,貴方が脅威に晒されても援軍を送ってくることはありません.\n\nこれは友好値({1})が{2}を下回れば起きます.もし{3}を下回ると,{0}は敵対するでしょう.もし{4}を上回れば,彼らは再び,あなたと同盟を組むでしょう.</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました.彼らは,あなたと同盟とみなしています.\n\n同盟を結ぶと,あなたが戦時下にあると,あなたの敵と戦う援軍が到着することがあります.あなたは,対価として友好値を費やすことで,いつでも彼らを呼び出すこともできます.\n\n友好値({1})が{2}を超えれば同盟となります.もし{3}を下回ると,関係は中立へと戻ります.</LetterRelationsChange_Ally>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です./LetterRelationsChange_Hostile>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({0})が{1}以下の時に起きます.中立の関係に戻す目的なら,友好値を再び{2}に到達させなければなりません.<</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>\n\nこれは友好値({1})が{2}を超えれば発生します.もし友好値が{3}を下回れば,{0}は再び敵対します.もし友好値が{4}を上回れば,彼らはあなたと同盟を組み,あなたの為に戦うでしょう.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました.いまや彼らは,あなたを同盟ではなく中立とみなしています.</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>あなたと円満な関係を続けますが,彼らは,貴方が脅威に晒されても援軍を送ってくることはありません.\n\nこれは友好値({1})が{2}を下回れば起きます.もし{3}を下回ると,{0}は敵対するでしょう.もし{4}を上回れば,彼らは再び,あなたと同盟を組むでしょう.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました.彼らは,あなたと同盟とみなしています.</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>同盟を結ぶと,あなたが戦時下にあると,あなたの敵と戦う援軍が到着することがあります.あなたは,対価として友好値を費やすことで,いつでも彼らを呼び出すこともできます.\n\n友好値({0})が{1}を超えれば同盟となります.もし{2}を下回ると,関係は中立へと戻ります.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>友好</goodwill>
@@ -118,13 +129,16 @@
 
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1}が死亡: {0}</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeadersDeath>{1}の{3} {OLDLEADER_nameFull}が死に\n\n新しい{3}は {NEWLEADER_nameFull}になった.</LetterLeadersDeath>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>{0}の{1}である{OLDLEADER_nameFull}が死んだ.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>新{1}: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{1}の{3}は,もう{OLDLEADER_nameFull}ではなく\n\n新しい{3}は {NEWLEADER_nameFull}になった.</LetterLeaderChanged>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull}は,もう{0}の{1}ではなくなった.</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>新しい{0}は{NEWLEADER_nameFull}になった.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>不幸な出来事: {0}</FinalStraw>
@@ -267,14 +281,16 @@
   <LetterLabelTransportPodsLandedInEnemyBase>戦闘開始</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>あなたの輸送ポッドが{0}に着きました.</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>シャトルが{0}に着きました.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>拠点破壊</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
-  <LetterFactionBaseDefeated>敵の拠点"{0}"を破壊しました.\n\n{1}で,キャラバン隊は自動的に再編成されます.あなたはワールドマップから,敵拠点の破壊と,"キャラバン隊の再編成"を選ぶこともできます.</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>ここが{0}の最後の砦でした.それはつまり,この派閥がもう何処にもいないことを意味します.</LetterFactionBaseDefeated_FactionDestroyed>
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterFactionBaseDefeated>敵の入植地"{0}"を破壊しました.\n\n{1}で,奴らはキャラバン隊を攻撃します.キャラバン隊の再編成と定住をしない限り,奴らはキャラバン隊を攻撃するために軍勢を送り始めます.</LetterFactionBaseDefeated>
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>この場所が奴らの最後の入植地だったため,{0}は敗北しました.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
@@ -408,6 +424,18 @@
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドとドクターを確保してください. {PAWN_pronoun}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
 
+  <!-- Surgery -->
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <LetterLabelSurgeryFailed><!--TODO-->Surgery failed on {PATIENT_labelShort}</LetterLabelSurgeryFailed>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に わずかなミスを犯しました ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の手術中に 致命的なミスを犯しました ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に とんでもない失敗をしました ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>新しいクエスト {0} が入手可能になりました.</LetterQuestBecameAvailable>
@@ -511,5 +539,10 @@
   <LetterLabelMechClusterArrived>メカノイド到着</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>メカノイドが到着した.</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted><!--TODO-->Caravan detected</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted><!--TODO-->Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible.</LetterTextSiteCountdownStarted>
 
 </LanguageData>

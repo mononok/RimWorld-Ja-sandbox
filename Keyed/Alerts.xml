@@ -225,12 +225,12 @@
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>{0} シャトル出発</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>{1}にシャトルが出発します.{0}クエストではシャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>{1}後にシャトルが出発します. クエスト'{0}'では,シャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
-  <QuestPartShuttleLeaveDelayDescHidden>{0}にシャトルが出発します.</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelayDescHidden>{0}後にシャトルが出発します.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>遺跡は破壊されます</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>遺跡が破壊されます</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
   <DisallowedBuildingInsideMonumentDesc>あなたは不許可の建造物を遺跡内に建てました.この遺跡は{0}に破壊されたと見なされます.</DisallowedBuildingInsideMonumentDesc>
 
@@ -244,7 +244,7 @@
   <ActivatorCountdownDescMultiple>{0}の秒読みが開始されます.近くのメカノイドが覚醒することを覚悟してください.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>{0} クエスト期限切れ</QuestExpiresSoon>
+  <QuestExpiresSoon>{0} 依頼期限切れ</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>'{0}'クエストが {1}に期限切れとなります.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>クエスト'{0}'が {1}後に 期限切れとなります.</QuestExpiresSoonDesc>
 </LanguageData>

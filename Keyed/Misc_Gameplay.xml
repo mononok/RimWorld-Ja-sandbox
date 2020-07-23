@@ -176,8 +176,8 @@
   <UsingBedrolls>寝袋を{0}個使う</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>到着予定時刻: {0}</CaravanEstimatedTimeToDestination>
-  <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination><!--TODO-->到着予定日数: {0}</CaravanEstimatedDaysToDestination>
+  <!-- EN: Route travel time: {0} days --><!--TODO--><!--再翻訳: "Estimated days to arrive: {0}" -> "Route travel time: {0} days"-->
+  <CaravanEstimatedDaysToDestination>到着予定日数: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>行動不能: 過積載</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -247,9 +247,9 @@
   <!-- EN: Map -->
   <Map>地図</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown><!--TODO-->{0} until enemies arrive</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>敵が到着するまで残り{0}</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip><!--TODO-->Enemy reinforcements will arrive in this area in {0}.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>敵の増援は{0}後にこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -291,9 +291,9 @@
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>{0}は,これの破壊を求めている.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>{0}にシャトルで出発する.</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>{0}後にシャトルで出発</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>{0}に出発する.</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0}後に出発します</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
   <ShouldDepartOnShuttleInspectString>シャトルで出発しなければならない</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
@@ -1165,7 +1165,7 @@
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining><!--TODO-->Remaining charges</ChargesRemaining>
+  <ChargesRemaining>残りの使用可能数</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1279,17 +1279,17 @@
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp><!--TODO-->the visitors will work and fight for you</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>訪問者はあなたのために働き,戦います</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label><!--TODO-->Visitors' help</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>訪問者の手助け</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label><!--TODO-->New psylink level</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>新しいサイリンクレベル</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony><!--TODO-->{PAWNNAME} gains psylink</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME}がサイリンクを獲得</Reward_BestowingCeremony>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label><!--TODO-->{TITLE} title</Reward_Title_Label>
+  <Reward_Title_Label>{TITLE}の爵位</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title><!--TODO-->{PAWNNAME} gains {TITLE} title from {FACTION}</Reward_Title>
+  <Reward_Title>{PAWNNAME}が{FACTION}から,{TITLE}の爵位を授かります</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>価値 {0}</TotalValue>
   
@@ -1301,11 +1301,11 @@
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>他の誰かと絆を結んだ</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded><!--TODO-->(existing bond)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(現在の絆)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog><!--TODO-->A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには,その前に今{PAWN_nameDef}が絆を結んでいる武器である,{BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage><!--TODO-->{PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef}は既に{BONDEDWEAPON_labelShort}と絆で結ばれている</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->

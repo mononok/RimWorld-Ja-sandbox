@@ -44,13 +44,13 @@
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
   <RandomDrop.textEnemy>{1}から来た{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸している!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>{1}からの友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラになって,このエリア一体に散在して着陸している!</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>{1}から来た友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸している!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef}は輸送ポットで到着します.</RandomDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textEnemy><!--TODO-->A group of {0} from {1} have arrived in a shuttle.</Shuttle.textEnemy>
+  <Shuttle.textEnemy>{1}から来た{0}が,シャトルで到着しました.</Shuttle.textEnemy>
   <!-- EN: A friendly group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textFriendly><!--TODO-->A friendly group of {0} from {1} have arrived in a shuttle.</Shuttle.textFriendly>
+  <Shuttle.textFriendly>{1}から来た友好的な{0}が,シャトルで到着しました.</Shuttle.textFriendly>
   
 </LanguageData>

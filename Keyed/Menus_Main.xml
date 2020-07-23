@@ -293,156 +293,156 @@
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel><!--TODO-->Custom playstyle settings</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>カスタムプレイスタイルの設定</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset><!--TODO-->Set to standard playstyle...</DifficultyReset>
+  <DifficultyReset>標準のプレイスタイルを出力...</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection><!--TODO-->Threats</DifficultyThreatSection>
+  <DifficultyThreatSection>脅威</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label><!--TODO-->Threat scale</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>脅威の規模</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info><!--TODO-->Adjust the size of threats like raids and infestations, and the difficulty of quests.</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>襲撃や感染症の脅威の大きさ,およびクエストの難易度を調整します.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label><!--TODO-->Major threats</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>主要な脅威</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info><!--TODO-->Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>襲撃,感染症,人狩り集団,メカノイド船の墜落などの主要な脅威を許可します.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label><!--TODO-->Quest threats</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>クエスト脅威</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info><!--TODO-->Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>クエストが暴力的な脅威や課題を提示できるようにします.これが無効にされた場合,クエストは非暴力的なものに変更されます.</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label><!--TODO-->Intro threats</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>導入用の脅威</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info><!--TODO-->Enable the fixed intro threats that appear near game start.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>ゲーム開始後付近で発生する,導入用に調整された脅威を有効にします.</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label><!--TODO-->Predators hunt humans</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>捕食者がヒトを狩る</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info><!--TODO-->Allow wild predators to hunt humans.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>野生の捕食者がヒトを狩ることを許可します.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label><!--TODO-->Extreme weather</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>異常気象</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info><!--TODO-->Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>死の灰,火山の冬,暴風雨などの異常気象を許可します.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection><!--TODO-->Economy</DifficultyEconomySection>
+  <DifficultyEconomySection>資源</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label><!--TODO-->Trade price disadvantage</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>売買価格の不利率</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info><!--TODO-->When trading, buy prices are increased by this amount while sell prices are reduced by this amount.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>この数値分,取引時の買値が増加し,売値が減少します.</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label><!--TODO-->Harvest yield</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>収穫収率</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>植物や農作物の収穫時に手に入る,資源の量を調整します.この項目は,植物の刈り取りや木の伐採にも,影響を与えます.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label><!--TODO-->Mining yield</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>採掘収率</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when mining.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>採掘時に手に入る資源の量を調整します.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label><!--TODO-->Butchering yield</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>食肉加工収率</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info><!--TODO-->Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>食肉加工時に手に入る資源の量を調整します.この項目は,肉や皮,メカノイドの寸断にも,影響を与えます.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label><!--TODO-->Research speed</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>研究速度</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info><!--TODO-->Adjust the speed of research.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>研究の進む速度を調整します.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label><!--TODO-->Quest rewards</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>クエスト報酬</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info><!--TODO-->Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>クエストから受け取る報酬の価値を調整します.\n\n注意：クエスト報酬の価値は,脅威の規模にも合わせて自動的に調整されています.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label><!--TODO-->Raid loot</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>戦利品</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info><!--TODO-->Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>襲撃者から手に入る戦利品の価値を調整します.\n\n注意：襲撃の戦利品の価値は,脅威の規模にも合わせて自動的に調整されています.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label><!--TODO-->Turret rearm cost</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>タレット再装填コスト</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info><!--TODO-->Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>タレットを再装填するコストを調整します.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label><!--TODO-->Scaria rot chance</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>スカリア病による腐敗率</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info><!--TODO-->The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>スカリア症に感染している生物が,死亡時にすぐに腐敗する確率です.\n\n注意：デフォルトの設定では,難易度の高さによる動物の増加数と,正確にバランスを取るように設計されているため,全てのプレイヤーが同量の肉の報酬を入手するようになっています.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label><!--TODO-->Enemy death on downed</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>敵ダウン時の死亡率補正</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info><!--TODO-->Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>敵がダウンしたときに,即座に死亡する確率を調整します.これは囚人を捕獲する機会に影響を与えるため,コロニーの人口増加率にも影響を与えます.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection><!--TODO-->General</DifficultyGeneralSection>
+  <DifficultyGeneralSection>全般</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label><!--TODO-->Colonist mood</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>入植者の心情</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info><!--TODO-->A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>全ての入植者と囚人に適用される,心情の永続的な増減量です.入植者の基本心情は50％です.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label><!--TODO-->Food poison chance</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>食中毒の確率補正</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info><!--TODO-->Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>中毒になる可能性のある食事を食べた人間が,食中毒になる可能性を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label><!--TODO-->Animal revenge chance</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>野生動物の反撃率補正</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info><!--TODO-->Adjust the chance that injuring a wild animal will cause it to attack.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>危害を加えられた野生動物が,加害者を攻撃し始める確率を調整します.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label><!--TODO-->Friendly fire</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>味方への誤射</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info><!--TODO-->Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>味方へ誤射する確率を調整します.\n\n注意：この設定は,味方に直接当たる誤射にのみ影響します.爆発によるダメージや,標的の周囲への誤射は防げません.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant-kill prevention -->
-  <Difficulty_AvoidInstantKillChance_Label><!--TODO-->Colonist instant-kill prevention</Difficulty_AvoidInstantKillChance_Label>
+  <Difficulty_AvoidInstantKillChance_Label>入植者の即死を防止</Difficulty_AvoidInstantKillChance_Label>
   <!-- EN: Add a special chance to prevent colonists from dying instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AvoidInstantKillChance_Info><!--TODO-->Add a special chance to prevent colonists from dying instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on.</Difficulty_AvoidInstantKillChance_Info>
+  <Difficulty_AvoidInstantKillChance_Info>入植者が攻撃によって即座に死ぬことを防ぐ,特殊措置を追加します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AvoidInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label><!--TODO-->Infection chance</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>感染症確率</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info><!--TODO-->Adjust the chance that a wound will become infected.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>傷から感染症が発生する確率を調整します.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label><!--TODO-->Disease frequency</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>病気の頻度</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info><!--TODO-->Adjust the frequency of random disease events.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>ランダムな病気イベントの頻度を調整します.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label><!--TODO-->Insect spawning rate</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>虫の産出頻度</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info><!--TODO-->Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>虫の巣が,新たに虫を生み出す頻度を調整します.値が小さいほど,スポーンイベントの間隔が長くなります.\n\nこの設定は,虫の襲来が発生するかどうかには影響しません.活動中の巣が虫を生み出す速度にのみ影響します.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label><!--TODO-->Deep drilling infestations</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>深部ドリルによる襲来</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info><!--TODO-->Adjust the chance that deep drilling will trigger an infestation.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>深部ドリルマシンが,虫の襲来を引き起こす確率を調整します.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label><!--TODO-->Map generation ancient threats</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>マップ生成時の太古の脅威</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info><!--TODO-->Ancient structures may contain dangerous threats.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>太古の建造物には,危険な脅威が含まれている可能性があります.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label><!--TODO-->Map generation natural hives</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>マップ生成時の自然の巣</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info><!--TODO-->Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>自然の洞窟には,休止状態の虫の巣が出現することがあります.\n\nこの設定はマップ生成時にのみ適用され,プレイ中にトンネルを掘ってくる可能性のある活発な虫には影響しません.</Difficulty_AllowCaveHives_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection><!--TODO-->Player tools</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>プレイヤーツール</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label><!--TODO-->Player can build traps</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>建築可能：トラップ</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info><!--TODO-->Player can build traps like spike traps and IED traps.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>入植者に,スパイクトラップやIED系トラップのようなトラップの建築を許可します.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label><!--TODO-->Player can build turrets</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>建築可能：タレット</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info><!--TODO-->Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>入植者に,ミニタレットやオートキャノンタレット,ウランスラグタレットのような,静的タレットの建築を許可します.\n\nこれが無効になっていても,鹵獲したタレットは引き続き使用できます.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label><!--TODO-->Player can build mortars</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>建築可能：迫撃砲</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info><!--TODO-->Player can build mortars.\n\nYou can still use captured mortars even if this is disabled.</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>入植者に,迫撃砲の建築を許可します.\n\nこれが無効になっていても,鹵獲した迫撃砲は引き続き使用できます.</Difficulty_AllowMortars_Info>
   
-  <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection><!--TODO-->Adaptation</DifficultyAdaptationSection>
+  <!-- EN: Adaptation --><!--TODO--><!--仮翻訳: この項目全体が雑な仮翻訳状態です-->
+  <DifficultyAdaptationSection>適応</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label><!--TODO-->Damage adaptation growth</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ダメージ適応増加</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info><!--TODO-->Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応とは,あなたが負けていない限り,ストーリーテラーが時間の経過と共にゲームをより挑戦的にすることを意味します.これは,資産と人口のストーリーエフェクトとは別のものです.\n\nこの設定は,挑戦増加のレートを調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Damage adaptation effect -->
-  <Difficulty_AdaptationEffectFactor_Label><!--TODO-->Damage adaptation effect</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>ダメージ適応影響</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
-  <Difficulty_AdaptationEffectFactor_Info><!--TODO-->Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが負けていない限り,ストーリーテラーが時間の経過と共にゲームをより挑戦的にすることを意味します.これは,資産と人口のストーリーエフェクトとは別のものです.\n\nこの設定は,実際の脅威の適応値の影響を調整します.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Fixed wealth progress mode -->
-  <Difficulty_FixedWealthMode_Label><!--TODO-->Fixed wealth progress mode</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>資産進行度固定モード</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist, count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info><!--TODO-->Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist, count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者,数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい植民地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
   
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -522,7 +522,7 @@
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>キャラクターの 姓です.\n\n\これは 特定のメニューで 表示されます.</LastNameDesc>
+  <LastNameDesc>キャラクターの 姓です.\n\nこれは 特定のメニューで 表示されます.</LastNameDesc>
   <!-- EN: Randomize -->
   <Randomize>ランダム</Randomize>
   <!-- EN: age {0} -->

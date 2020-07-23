@@ -42,7 +42,7 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember><!--TODO-->cannot attack faction ally</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>同盟派閥は攻撃できない</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort}に配置</OrderManThing>
@@ -139,7 +139,7 @@
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0}をレベル{1}にアップグレードする</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember><!--TODO-->violation of faction ally</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>同盟派閥の妨害</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
@@ -195,7 +195,7 @@
   <!-- EN: Too heavy -->
   <TooHeavy>重すぎる</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction><!--TODO-->{0_labelShort} is in the same faction.</SameFaction>
+  <SameFaction>{0_labelShort}は同じ派閥に所属しています.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>能力が無い</Incapable>
@@ -222,11 +222,11 @@
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload><!--TODO-->Reload {GEAR_labelShort} with {AMMO_label}</Reload>
+  <Reload>{GEAR_labelShort}に{AMMO_label}を充填する</Reload>
   <!-- EN: Full -->
-  <ReloadFull><!--TODO-->Full</ReloadFull>
+  <ReloadFull>満タン</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough><!--TODO-->Too few</ReloadNotEnough>
+  <ReloadNotEnough>少なすぎる</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>{1_label}を 拾えない </CannotPickUp>
@@ -437,6 +437,6 @@
   <ApplyTechprint>{0}を 適用する</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering><!--TODO-->Too dangerous</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>危険すぎる</EnterCooldownBlocksEntering>
   
 </LanguageData>

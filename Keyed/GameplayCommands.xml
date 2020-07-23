@@ -71,7 +71,7 @@
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>王座の所有者を割り当てます.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc><!--TODO-->Assign this meditation spot to be owned by a specific colonist.</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>瞑想スポットの所有者を割り当てます.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -256,9 +256,9 @@
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges><!--TODO-->No {CHARGENOUN_plural} left.</CommandReload_NoCharges>
+  <CommandReload_NoCharges>{CHARGENOUN_plural}が残っていません.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo><!--TODO-->Needs to be reloaded with {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>{COUNT}個の{AMMO_label}で充填する必要があります.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
@@ -306,7 +306,7 @@
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します.キャラバン隊はそれぞれ接していなければなりません.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan><!--TODO-->Join</CommandJoinCaravan>
+  <CommandJoinCaravan>参加</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -506,13 +506,13 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss><!--TODO-->Dismiss</CommandShuttleDismiss>
+  <CommandShuttleDismiss>解散</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc><!--TODO-->Unload all contents and send the shuttle away.</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>積載物を全て降ろし,シャトルを送り返します.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>設計図を設置します.</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>設計図を設置</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>可能な全ての設計図を設置します.</CommandPlaceBlueprintsDesc>
 

@@ -453,11 +453,11 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>失敗時の致死率</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>失敗時の死亡率</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>作業速度:</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>作業個数:</EfficiencyStat>
+  <EfficiencyStat>生産品質:</EfficiencyStat>
   <!-- EN: {0} skill required -->
   <SkillRequiredToBuild>必須{0}スキルのレベル</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
@@ -617,7 +617,7 @@
   <!-- EN: Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
   <!-- EN: Send -->
-  <Send>寄贈品</Send>
+  <Send>出発する</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
@@ -1013,47 +1013,47 @@
   <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>{0_labelShort}は精神崩壊しています.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken><!--TODO-->{0_labelShort} is not mentally broken.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}は精神崩壊していません.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState><!--TODO-->{0} doesn't work on the '{1}' mental state.</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>{0}は'{1}'の精神状態では機能しません.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance><!--TODO-->{0_labelShort} has zero resistance.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>{0_labelShort}の抵抗値は0です.</AbilityCantApplyNoResistance>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual><!--TODO-->Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>使用できない: {0}には性別がありません.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender><!--TODO-->{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort}は{0_labelShort}の正しくない性別です.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: Psyfocus cost per mental break intensity -->
-  <PsyfocusCostPerMentalBreakIntensity><!--TODO-->Psyfocus cost per mental break intensity</PsyfocusCostPerMentalBreakIntensity>
+  <PsyfocusCostPerMentalBreakIntensity>精神崩壊の強さあたりのサイフォーカスコスト</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired><!--TODO-->{0_labelShort} is already inspired.</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>{0_labelShort}は既に鼓舞されています.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow><!--TODO-->{0_labelShort} can't get an inspiration right now.</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>{0_labelShort}は現在,鼓舞を受けられません.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious><!--TODO-->{0_labelShort} is unconscious.</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep><!--TODO-->{0_labelShort} is asleep.</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>{0_labelShort}は眠っています.</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
-  <AbilityWorldTileImpassable><!--TODO-->This tile is impassable.</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>このタイルは通れません.</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
-  <AbilitySkipToRandomAlly><!--TODO-->Skip to random ally</AbilitySkipToRandomAlly>
+  <AbilitySkipToRandomAlly>ランダムな味方にスキップ</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan><!--TODO-->Skip to join caravan</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>スキップしてキャラバンに参加する</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip><!--TODO-->Need ally at target for navigation</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>目標地点には味方が必要</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip><!--TODO-->No chunks to skip.</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>スキップする塊がありません.</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
-  <PsychicLoveInduceIn><!--TODO-->Induce psychic love in</PsychicLoveInduceIn>
+  <PsychicLoveInduceIn>精神的な愛へ誘導する</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
-  <PsychicLoveFor><!--TODO-->Psychic love for</PsychicLoveFor>
-  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger><!--TODO-->If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
+  <PsychicLoveFor>精神的な愛</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? --><!--TODO--><!--固有名詞: farskip(新規超能力名)-->
+  <FarskipConfirmTeleportingLodger>{PAWN_labelShort}を別のマップやキャラバンに移動させると,関連するクエストは失敗し,すぐに立ち去るでしょう.\n\n本当に{PAWN_labelShort}をfarskipしますか?</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor><!--TODO-->minor</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>軽度</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor><!--TODO-->major</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>重度</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme><!--TODO-->extreme</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>極度</MentalBreakIntensityExtreme>
   
 </LanguageData>

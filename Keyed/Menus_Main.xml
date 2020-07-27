@@ -429,7 +429,8 @@
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
   <Difficulty_AllowMortars_Info>入植者に,迫撃砲の建築を許可します.\n\nこれが無効になっていても,鹵獲した迫撃砲は引き続き使用できます.</Difficulty_AllowMortars_Info>
   
-  <!-- EN: Adaptation --><!--TODO--><!--仮翻訳: この項目全体が雑な仮翻訳状態です-->
+  <!-- EN: Adaptation -->
+  <!--TODO--><!--仮翻訳: この項目全体が雑な仮翻訳状態です。再翻訳をお願いします。-->
   <DifficultyAdaptationSection>適応</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
   <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ダメージ適応増加</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
@@ -538,17 +539,17 @@
   <!-- EN: Abilities -->
   <Abilities>才能</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>生い立ち {0}が原因</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>原因となる生い立ち: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>称号 {0}が原因</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>原因となる爵位: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>正確 {0}が原因</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>原因となる特性: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>{0}が原因</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>原因: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>無効な職業:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>原因となるクエスト: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>才能・性格</Traits>
   <!-- EN: Permanent mood effect -->
@@ -621,6 +622,6 @@
   <!-- EN: Click for more info -->
   <ClickForMoreInfo>更に知りたい時はクリック</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
 
 </LanguageData>

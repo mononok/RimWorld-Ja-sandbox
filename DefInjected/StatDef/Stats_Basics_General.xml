@@ -61,10 +61,10 @@
   <!-- EN: How nutritious this food is. -->
   <Nutrition.description>この食べ物の栄養価です.</Nutrition.description>
   
-  <!-- EN: honor value --><!--TODO--><!-- 固有名詞: royal favor(寵愛) -> honor -->
-  <RoyalFavorValue.label>寵愛値</RoyalFavorValue.label>
-  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. --><!--TODO--><!-- 固有名詞: royal favor(寵愛) -> honor -->
-  <RoyalFavorValue.description>これを徴税官に差し出すことで得られる寵愛の量です.</RoyalFavorValue.description>
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>名誉値</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>これを徴税官に差し出すことで得られる名誉の量です.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>売値掛け率</SellPriceFactor.label>

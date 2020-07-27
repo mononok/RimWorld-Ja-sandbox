@@ -409,8 +409,8 @@
   <!-- Launch group -->
   <!-- EN: Launch -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
-  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>輸送ポッドの目標座標設定プロセスを開始します.次のステップは目的地を選びます.輸送ポッドは飛翔し,きちんと着陸します.</CommandLaunchGroupDesc>
+  <!-- EN: Take off and fly to a destination. -->
+  <CommandLaunchGroupDesc>離陸して目的地へ飛ばします.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドは,給油口に接続されていません.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->

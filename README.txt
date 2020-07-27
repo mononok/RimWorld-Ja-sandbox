@@ -1,7 +1,7 @@
 RimWorld-Ja-sandbox
 ===========
 Ver: 1.1
-Original:1.1.2698
+Original:1.1.2706
 Release: https://github.com/mononok/RimWorld-Ja-sandbox/releases
 Description: 【確認済】Ver 1.1に向けての作業をしています。
 ToDo:

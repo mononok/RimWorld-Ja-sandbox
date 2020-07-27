@@ -763,7 +763,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃するのですか？\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!.</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃しますか？\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -788,6 +788,8 @@
   <TransporterItemIsUnreachableMulti>{0}x {1}を,輸送ポッドまで運ぶ道順がありません.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>{0}x {1}を,シャトルまで運ぶ道順がありません.</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>入植者は最大{0}人までしか乗せられません.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -1046,8 +1048,8 @@
   <PsychicLoveInduceIn>精神的な愛へ誘導する</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
   <PsychicLoveFor>精神的な愛</PsychicLoveFor>
-  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? --><!--TODO--><!--固有名詞: farskip(新規超能力名)-->
-  <FarskipConfirmTeleportingLodger>{PAWN_labelShort}を別のマップやキャラバンに移動させると,関連するクエストは失敗し,すぐに立ち去るでしょう.\n\n本当に{PAWN_labelShort}をfarskipしますか?</FarskipConfirmTeleportingLodger>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>{PAWN_labelShort}を別のマップやキャラバンに移動させると,関連するクエストは失敗し,すぐに立ち去るでしょう.\n\n本当に{PAWN_labelShort}をファースキップしますか?</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
   <MentalBreakIntensityMinor>軽度</MentalBreakIntensityMinor>

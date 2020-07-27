@@ -190,7 +190,7 @@
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort}は {PAWN2_labelShort}とケンカを始めました.</MessageSocialFight>
   
-  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>入植者たちは,{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式を祝うために集いました.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort}と {PAWN2_labelShort}の 結婚式が始まりました!</MessageMarriageCeremonyStarts>
@@ -620,6 +620,9 @@
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label}は現在非表示です.</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef}は囚人です.</MessagePrisonerCannotEquipWeapon>
 
   <!-- UNUSED -->
   <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>

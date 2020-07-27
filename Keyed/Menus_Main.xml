@@ -110,7 +110,7 @@
   <WorldSeed>シード値</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>ランダムシード</RandomizeSeed>
-  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>派閥</WorldFactionsTab>
@@ -286,10 +286,6 @@
   <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルは,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
-  <!-- EN: Merciless mode -->
-  <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
-  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
@@ -385,10 +381,10 @@
   <Difficulty_FriendlyFireChanceFactor_Label>味方への誤射</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
   <Difficulty_FriendlyFireChanceFactor_Info>味方へ誤射する確率を調整します.\n\n注意：この設定は,味方に直接当たる誤射にのみ影響します.爆発によるダメージや,標的の周囲への誤射は防げません.</Difficulty_FriendlyFireChanceFactor_Info>
-  <!-- EN: Colonist instant-kill prevention -->
-  <Difficulty_AvoidInstantKillChance_Label>入植者の即死を防止</Difficulty_AvoidInstantKillChance_Label>
-  <!-- EN: Add a special chance to prevent colonists from dying instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AvoidInstantKillChance_Info>入植者が攻撃によって即座に死ぬことを防ぐ,特殊措置を追加します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AvoidInstantKillChance_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>入植者の即死</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>入植者が攻撃によって即死する確率を調整します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
   <Difficulty_PlayerPawnInfectionChanceFactor_Label>感染症確率</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
@@ -430,7 +426,7 @@
   <Difficulty_AllowMortars_Info>入植者に,迫撃砲の建築を許可します.\n\nこれが無効になっていても,鹵獲した迫撃砲は引き続き使用できます.</Difficulty_AllowMortars_Info>
   
   <!-- EN: Adaptation -->
-  <!--TODO--><!--仮翻訳: この項目全体が雑な仮翻訳状態です。再翻訳をお願いします。-->
+  <!--TODO--><!--仮翻訳: 和訳知識不足により、この項目全体が雑な仮翻訳状態です。再翻訳をお願いします。-->
   <DifficultyAdaptationSection>適応</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
   <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ダメージ適応増加</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
@@ -442,8 +438,8 @@
   <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが負けていない限り,ストーリーテラーが時間の経過と共にゲームをより挑戦的にすることを意味します.これは,資産と人口のストーリーエフェクトとは別のものです.\n\nこの設定は,実際の脅威の適応値の影響を調整します.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Fixed wealth progress mode -->
   <Difficulty_FixedWealthMode_Label>資産進行度固定モード</Difficulty_FixedWealthMode_Label>
-  <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist, count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者,数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい植民地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい植民地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
   
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -623,5 +619,11 @@
   <ClickForMoreInfo>更に知りたい時はクリック</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
+
+  <!-- UNUSED -->
+  <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
+  <Difficulty_AvoidInstantKillChance_Label>入植者の即死を防止</Difficulty_AvoidInstantKillChance_Label>
+  <Difficulty_AvoidInstantKillChance_Info>入植者が攻撃によって即座に死ぬことを防ぐ,特殊措置を追加します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AvoidInstantKillChance_Info>
 
 </LanguageData>

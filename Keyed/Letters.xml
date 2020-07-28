@@ -438,13 +438,13 @@
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>新しいクエスト'{0}'が受領可能になりました.</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>新しいクエスト'{0}'が受諾可能になりました.</LetterQuestBecameAvailable>
   <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>このクエストは, {0}以内に受領しないと, 期限切れになります.</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>このクエストは, {0}以内に受諾しないと, 期限切れになります.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>新しいクエスト {0} を受領しました.</LetterQuestBecameActive>
+  <LetterQuestBecameActive>新しいクエスト'{0}'を受諾しました.</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>クエスト受領: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>クエスト受諾: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>有効期限 {0}.</LetterQuestActiveNowTime>
 

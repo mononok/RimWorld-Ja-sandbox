@@ -209,7 +209,7 @@
   <!-- EN: Available -->
   <AvailableQuests>保留</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>受領</ActiveQuests>
+  <ActiveQuests>受諾</ActiveQuests>
   <!-- EN: Historical -->
   <HistoricalQuests>却下</HistoricalQuests>
   <!-- EN: no quest selected -->
@@ -219,13 +219,13 @@
   <!-- EN: Appeared on {0} -->
   <AppearedOn>{0} 開始</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>受領後 {0}経過</AcceptedAgo>
+  <AcceptedAgo>受諾後 {0}経過</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>{0} 受領</AcceptedOn>
+  <AcceptedOn>{0} 受諾</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>{1}によって受領後 {0}経過</AcceptedAgoBy>
+  <AcceptedAgoBy>{1}によって受諾後 {0}経過</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>{1}によって {0}受領</AcceptedOnBy>
+  <AcceptedOnBy>{1}によって {0}受諾</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
   <QuestExpiresIn>期限切れまで あと{0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
@@ -249,13 +249,13 @@
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0}前に完了</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>クエストを受領</AcceptQuest>
+  <AcceptQuest>クエストを受諾</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>{0_labelShort}を受領</AcceptWith>
+  <AcceptWith>{0_labelShort}が受諾する</AcceptWith>
   <!-- EN: Accept for -->
   <AcceptQuestFor>報酬</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
-  <AcceptQuestForTip>クリックすることで,この報酬でクエストを受領します.</AcceptQuestForTip>
+  <AcceptQuestForTip>クリックすることで,この報酬でクエストを受諾します.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>期限切れ</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
@@ -263,7 +263,7 @@
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>クエスト失敗</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
-  <QuestOutcomeInfo_Invalid>このクエストは,受領される前に無効になりました.</QuestOutcomeInfo_Invalid>
+  <QuestOutcomeInfo_Invalid>このクエストは,受諾される前に無効になりました.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>{0}をワールドマップ上で表示</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -271,7 +271,7 @@
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
   <QuestChallengeRatingTip>これは難易度を表します. このクエストが あなたの今の能力と比べて, どれくらい難しいかを表したものです. より挑戦的であれば, より報酬も多くなります.\n\n1: 普通\n2: 難しい\n3: とても難しい\n4: 最高に難しい</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,あなたの力が必要です.</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,以下の条件を満たす必要があります</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
   <QuestBedroomRequirementsUnsatisfied>爵位の必要品を揃えた複数の空き寝室</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->

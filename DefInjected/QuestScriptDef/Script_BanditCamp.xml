@@ -5,7 +5,7 @@
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
   -->
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, 私達にメッセージを送ってきました.\n野営地に拠点を置く[siteFaction_pawnsPlural]が[asker_pronoun]らのキャラバン隊を襲撃しているようです. この野営地は[siteFaction_name]に支配されています.\n\n[asker_nameDef]は野営地の敵全員とタレットを破壊するよう依頼しています.[asker_label]はまた,[sitePart0_description] とも言っています.</li>
+    <li>questDescription->[asker_faction_name]の[asker_faction_leaderTitle]である [asker_nameFull]が, 私達にメッセージを送ってきました.\n野営地に拠点を置く[siteFaction_pawnsPlural]が[asker_pronoun]らのキャラバン隊を襲撃しているようです.この野営地は[siteFaction_name]に支配されています.\n\n[asker_nameDef]は野営地の敵全員とタレットを破壊するよう依頼しています.\nまた,[asker_label]の話によると,[sitePart0_description].</li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>

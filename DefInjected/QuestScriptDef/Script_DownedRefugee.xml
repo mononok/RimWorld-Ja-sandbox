@@ -9,9 +9,9 @@
   -->
   <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
     <!-- No asker -->
-    <li>questDescription(askerIsNull==true)->[refugee_nameDef]は助けを求めています. [refugee_pronoun]がケガをして動けません.\n\n[refugee_nameDef]は [refugee_age]歳の [refugee_title]です. もし[refugee_objective]助けてくれれば,[refugee_pronoun]はあなたに加わると約束しています.\n\n[refugee_nameDef]は [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo] とも言っています.</li>
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef]が助けを求めています.[refugee_pronoun]がケガをして動けません.\n\n[refugee_nameDef]は[refugee_age]歳の[refugee_title]です.もし[refugee_objective]助けてくれれば,[refugee_pronoun]はあなたに加わると約束しています.\n\nまた,[refugee_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo].</li>
     <!-- Faction leader asker -->
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle], [asker_nameDef]は, [asker_possessive]友人が旅行中にケガをしたと言っています. ケガを負ったのは[refugee_nameIndef]で,[refugee_age]歳の [refugee_title]です.\n\n[asker_nameDef]には[refugee_nameDef]を救う余裕が無く,もしあなたが[refugee_nameDef]の所まで行って,[refugee_objective]助ければ,きっと[refugee_pronoun]は,あなたに加わるだろうと言っています.\n\n[asker_nameDef]は, [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo] とも言っています.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が,[asker_possessive]友人が旅行中にケガをしたと言っています.ケガを負ったのは[refugee_nameIndef]で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]には[refugee_nameDef]を救う余裕が無く,もしあなたが[refugee_nameDef]の所まで行って,[refugee_objective]助ければ,きっと[refugee_pronoun]は,あなたに加わるだろうと言っています.\n\nまた,[asker_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo].</li>
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>

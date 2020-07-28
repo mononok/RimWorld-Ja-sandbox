@@ -275,7 +275,7 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <SettlementTrader>{1}の{0}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>部屋:手術成功率への掛け率</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
@@ -417,51 +417,51 @@
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>枯病 殺傷範囲</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
+  <RadiusExpandRate>範囲拡張速度</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>{0}を表示</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>ダメージを受けた場合,大きく爆発します.</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>被ダメージ時に大きく爆発</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>{0}後にスポーン</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{1}後に{0}の組み立てが完了します.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
+  <MechAssemblyNextType>組み立てるでしょう</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>produced</ThingsProduced>
+  <ThingsProduced>生産された量</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>harvested</PlantsHarvested>
+  <PlantsHarvested>収穫された量</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} killed</PawnsKilled>
+  <PawnsKilled>殺した{0}の数</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>Sent {0}, will return in {1}</PawnsLent>
+  <PawnsLent>{0}を送ると,{1}後に返却されます</PawnsLent>
   <!-- EN: Dormant -->
   <DormantCompInactive>休眠</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>封印</DormantCompSealed>
+  <DormantCompSealed>閉じられている</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>メカノイド降下準備完了</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>満了</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>Initiates in</InitiatesIn>
+  <InitiatesIn>引き起こす</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>{0}後に起動</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>ニューラルヒート</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>ヒート</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>{0} pain focus</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0}苦痛ボーナス</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>半径 {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>low psyfocus</LowPsyfocus>
+  <LowPsyfocus>サイフォーカスが低い</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>残 {0}</DurationLeft>
   <!-- EN: Any of -->
@@ -711,11 +711,11 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{1}の{0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{1}の下の{0}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{1}の下の{0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
@@ -917,7 +917,7 @@
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
   <ShowFertilityOverlayToggleButton>肥沃度の可視 切り替え\n\nこれは,この土地で,どの植物が良く早く育つかどうかを表示します.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられ,重い建物は建てられない.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられますが,重い建物は建てられません.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
@@ -1271,7 +1271,7 @@
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>あなたと {0_name} との関係は {1} 向上するでしょう</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>あなたは惑星に連れて行かれるでしょう</Reward_PassageOffworld>
+  <Reward_PassageOffworld>星に連れ出してもらいます</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>惑星外への脱出</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
@@ -1287,13 +1287,13 @@
   <!-- EN: {PAWNNAME} gains psylink -->
   <Reward_BestowingCeremony>{PAWNNAME}がサイリンクを獲得</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>船を略奪</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>シャトルを略奪</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
   <Reward_ShuttleLoot>シャトルを解体して略奪することができます</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>可能性のある報酬</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>将来的な報酬の可能性</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>将来的に送られる可能性のある報酬</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>後に,報酬が送られる可能性があります</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
   <Reward_Title_Label>{TITLE}の爵位</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->

@@ -7,9 +7,9 @@
   -->
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
     <!-- No asker -->
-    <li>questDescription(askerIsNull==true)->[map_definite]からそう遠くない場所にある,貴重な収集品(価値 [itemStashContentsValue])についてのメッセージを傍受しました.この収集品とは:\n\n[itemStashContents]\n\n[allSitePartsDescriptionsExceptFirst] のようです.</li>
+    <li>questDescription(askerIsNull==true)->[map_definite]からそう遠くない場所にある,[itemStashContentsValue]相当の価値を持つ貴重な収集物についてのメッセージを傍受しました.この収集物の内容は以下の通りです:\n\n[itemStashContents]\n\n得られた情報よると,[allSitePartsDescriptionsExceptFirst]</li>
     <!-- Faction leader asker -->
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]は, 私達の所からそう遠くない場所にある,貴重な収集品(価値 [itemStashContentsValue])についての情報を与えてくれました.この収集品とは:\n\n[itemStashContents]\n\n[asker_label]は,[allSitePartsDescriptionsExceptFirst]と言っています.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]は,私達の所からそう遠くない場所にある,[itemStashContentsValue]相当の価値を持つ貴重な収集物についての情報を与えてくれました.この収集物の内容は以下の通りです:\n\n[itemStashContents]\n\n[asker_label]の話によると,[allSitePartsDescriptionsExceptFirst]</li>
   </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
@@ -40,6 +40,6 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>傍受した通信によると,埋蔵物は他の者たちによって回収されてしまったようです.クエスト [resolvedQuestName] は期限が切れました.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>傍受した通信によると,埋蔵物は他の者たちによって回収されてしまったようです.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

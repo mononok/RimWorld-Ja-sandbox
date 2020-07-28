@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -9,7 +9,7 @@
     <li>underArmedGuard-></li>
   -->
   <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
-    <li>questDescription->[siteFaction_name]に捕らえられていた囚人が, なんとか無線機を手に入れ, あなたを呼んでいる!\n\n[prisoner_nameDef]は [map_definite]近くの [underArmedGuard]キャンプに 捕らえられています. [prisoner_objective]助けだすと, [prisoner_pronoun]は 仲間になるでしょう. [prisoner_pronoun]は [prisoner_age]歳の [prisoner_title]です. [prisoner_pronoun]は [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo] とも言っています.\n\nもしこの機会を逃すと, 再び[prisoner_nameDef]の声を 聞くことは無いでしょう.</li>
+    <li>questDescription->[siteFaction_name]に捕らえられていた囚人が,なんとか無線機を手に入れ,助けを求めています!\n\n[prisoner_nameDef]は,[map_definite]の近くにある[underArmedGuard]キャンプに捕らえられています.[prisoner_objective]助けだすと,[prisoner_pronoun]は仲間になるでしょう.[prisoner_pronoun]は[prisoner_age]歳の[prisoner_title]です.[prisoner_pronoun]の話によると,[allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo].\n\nもしこの機会を逃すと,再び[prisoner_nameDef]の声を聞くことは無いでしょう.</li>
     <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
     <li>formerColonistInfo-></li>
     <li>underArmedGuard(allowViolentQuests==true,priority=1)->武装が整った</li>

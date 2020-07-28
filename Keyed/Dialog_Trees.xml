@@ -11,7 +11,7 @@
   <FactionGreetingWarm>{0}は 暖かく{NEGOTIATOR_labelShort}を歓迎し, {LEADER_pronoun}は,あなたの力となれる事は何か？,と尋ねてきました.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>won't do {0}</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>{0}を行わない</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>切断</Disconnect>
 
@@ -27,7 +27,7 @@
   <!-- EN: not enough silver -->
   <NotEnoughSilver>シルバーが 足りない.</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
-  <SilverForGoodwill>{0}シルバーで 友好度 +{1}</SilverForGoodwill>
+  <SilverForGoodwill>{0}シルバーで 友好値 +{1}</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
   <SilverGiftSent>ありがとう {0}\n\n({1}により友好値上昇)</SilverGiftSent>
 

@@ -956,7 +956,7 @@
     <!-- EN: carver -->
     <titleShort>彫刻家</titleShort>
     <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
-    <desc>[PAWN_nameDef]は,木材,石,そして時折,よりエキゾチックな素材から[PAWN_possessive]族のアートワークを刻みました. 作品は販売されることもあれば,入植地を美化し,儀式に焦点を合わせるために維持されることもありました.</desc>
+    <desc>[PAWN_nameDef]は,木材,石,そして時折,よりエキゾチックな素材から[PAWN_possessive]部族のためにアートワークを彫刻しました. 作品は販売されることもあれば,入植地を美化し,儀式に焦点を合わせるために維持されることもありました.</desc>
   </Carver1>
   
   <CasketBuilder52>
@@ -1015,7 +1015,7 @@
   
   <CaveworldIlluminator23>
     <!-- EN: caveworld illuminator -->
-    <title>caveworld 導き手</title>
+    <title>caveworldの導き手</title>
     <!-- EN: illuminator -->
     <titleShort>導き手</titleShort>
     <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]’s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
@@ -2674,7 +2674,7 @@
     <!-- EN: guardian -->
     <titleShort>ボディガード</titleShort>
     <!-- EN: After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian. -->
-    <desc>[PAWN_pronoun]は,本当に人生に必要なことを学んだあと,[PAWN_nameDef]は心を入れ替えました.[PAWN_pronoun]はコツコツ働き,大事な物を大切にする事を憶えました - お金や品物ではなく,友達や愛する者たちを\n\n[PAWN_pronoun]はプロのボディガードになりました.</desc>
+    <desc>[PAWN_nameDef]は本当に人生に必要なことを学んだあと,心を入れ替えました.[PAWN_pronoun]はコツコツ働き,大事な物を大切にする事を憶えました-お金や品物ではなく,友達や愛する者たちを.\n\n[PAWN_pronoun]はプロのボディガードになりました.</desc>
   </Guardian55>
   
   <GunDealer14>
@@ -3321,7 +3321,7 @@
     <!-- EN: logger -->
     <titleShort>木こり</titleShort>
     <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-    <desc>[PAWN_nameDef]は木を切り刻み,その木材を部族に運びました. [PAWN_pronoun]は[PAWN_possessive]の斧を,芸術家の技とチャージングマッファローの力で振り回しました.</desc>
+    <desc>[PAWN_nameDef]は木を切り刻み,その木材を部族に運びました. [PAWN_pronoun]は[PAWN_possessive]斧を,芸術家の技とチャージングマッファローの力で振り回しました.</desc>
   </Logger16>
   
   <LogicalChild2>
@@ -3586,7 +3586,7 @@
     <!-- EN: medic -->
     <titleShort>看護師</titleShort>
     <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
-    <desc>[PAWN_nameDef]は,両軍共に広範囲にナパーム弾を使用した,破滅的な戦争のさなかに産まれました.[PAWN_pronoun]は,親が開院している診療所で,戦場で負ったゾッとする火傷の治療を手伝いながら育ちました.[PAWN_pronoun]を,一生涯,火を怖がっていました.</desc>
+    <desc>[PAWN_nameDef]は,両軍共に広範囲にナパーム弾を使用した,破滅的な戦争のさなかに産まれました.[PAWN_pronoun]は,親が開院している診療所で,戦場で負ったゾッとする火傷の治療を手伝いながら育ちました.[PAWN_pronoun]は一生涯,火を怖がっていました.</desc>
   </MedicalAssistant12>
   
   <MedicalHelper27>
@@ -3674,11 +3674,11 @@
     <!-- EN: medieval lordling -->
     <title>中世の小君主</title>
     <!-- EN: medieval lady -->
-    <titleFemale>medieval lady</titleFemale>
+    <titleFemale>中世の貴族令嬢</titleFemale>
     <!-- EN: lordling -->
     <titleShort>小君主</titleShort>
     <!-- EN: lady -->
-    <titleShortFemale>lady</titleShortFemale>
+    <titleShortFemale>貴族令嬢</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
     <desc>[PAWN_nameDef]は,Medieval世界の古い王国で二流の貴族でした.[PAWN_pronoun]は,石造りの邸宅で下層階級の召使いの世話を受けて育ちました.\n\nこのような生活では何も専門的なスキルを学ぶことも無く,生涯,手作業などを嫌がることが染み付いています - いっぽう,[PAWN_nameDef]は早いうちから人を操る術を学びました.</desc>
   </MedievalLordling19>
@@ -4730,7 +4730,7 @@
     <!-- EN: privileged -->
     <titleShort>特権階級</titleShort>
     <!-- EN: Born to an upper-class family, [PAWN_nameDef] grew up with all the best things - the best education, the best social contacts, and of course the best technology money could buy.\n\nUnfortunately, living in such decadence left [PAWN_nameDef] rather spoiled when it came to labor. -->
-    <desc>上流階級の家庭に生まれ,[PAWN_nameDef]は,最高の環境で育ちました - 最高の教育,最高の人間関係,そして最高のテクノロジーを手に入れられる財産\n\nあいにく,このような退廃的な生活は[PAWN_nameDef]を,いざ労働者になったときに役立たずな人間にさせました.</desc>
+    <desc>上流階級の家庭に生まれた[PAWN_nameDef]は,最高の教育,最高の人間関係,そして最高のテクノロジーを手に入れられる財産のような,最高の環境で育ちました.\n\nあいにく,このような退廃的な生活は[PAWN_nameDef]を,いざ労働者になったときに役立たずな人間にさせました.</desc>
   </PrivilegedChild86>
   
   <PrivilegedProdigy70>
@@ -5216,7 +5216,7 @@
     <!-- EN: scout -->
     <titleShort>スカウト</titleShort>
     <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
-    <desc>[PAWN_possessive]部族は地元のアウトランダーと接触し,[PAWN_nameDef]はガイドとして[PAWN_possessive]サービスを契約しました. 古代の技術と頻繁に接触することで,[PAWN_objective]は失われたマシンに快適になりました.</desc>
+    <desc>[PAWN_possessive]部族は地元のアウトランダーと接触し,[PAWN_nameDef]はガイドとして[PAWN_possessive]サービスを請け負いました. [PAWN_pronoun]は古代の技術と頻繁に接触することで,失われた機械について基本的な知識を身に付けました.</desc>
   </Scout59>
   
   <Scout6>

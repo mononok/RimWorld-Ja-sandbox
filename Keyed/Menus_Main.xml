@@ -139,9 +139,9 @@
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Steamワークショップを開く</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <GetModsFromForum>フォーラムからMODを入手する</GetModsFromForum>
   <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
@@ -235,9 +235,9 @@
   <!-- EN: Custom -->
   <ScenariosCustom>カスタム</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Steamワークショップ</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>シナリオ・エディター</ScenarioEditor>
+  <ScenarioEditor>シナリオエディター</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>削除</Delete>
   
@@ -382,7 +382,7 @@
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
   <Difficulty_FriendlyFireChanceFactor_Info>味方へ誤射する確率を調整します.\n\n注意：この設定は,味方に直接当たる誤射にのみ影響します.爆発によるダメージや,標的の周囲への誤射は防げません.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>入植者の即死</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>入植者の即死率補正</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
   <Difficulty_AllowInstantKillChance_Info>入植者が攻撃によって即死する確率を調整します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
@@ -439,7 +439,7 @@
   <!-- EN: Fixed wealth progress mode -->
   <Difficulty_FixedWealthMode_Label>資産進行度固定モード</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい植民地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
   
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -616,7 +616,7 @@
   <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>更に知りたい時はクリック</ClickForMoreInfo>
+  <ClickForMoreInfo>クリックで詳細を見る</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
 

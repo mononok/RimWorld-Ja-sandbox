@@ -54,9 +54,9 @@
   -->
   <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
     <li>pawnKindsParagraph(raidCount==1)->[enemyFaction_pawnsPlural]グループの編成は次のとおりです: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
-    <li>pawnKindsParagraph(raidCount==2)->[enemyFaction_pawnsPlural]グループ第一波の編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模の第二波がすぐに続いてきます.</li>
-    <li>pawnKindsParagraph(raidCount==3)->[enemyFaction_pawnsPlural]グループ第一波の編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模の2グループが続いてやってきます.</li>
-    <li>pawnKindsParagraph(raidCount>=4)->[enemyFaction_pawnsPlural]グループ第一波の編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模の[raidCountMinusOne]グループが続いてやってきます.</li>
+    <li>pawnKindsParagraph(raidCount==2)->最初にやって来る[enemyFaction_pawnsPlural]グループの編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模のグループがすぐに続いてやって来ます.</li>
+    <li>pawnKindsParagraph(raidCount==3)->最初にやって来る[enemyFaction_pawnsPlural]グループの編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模のグループが2つ,すぐに続いてやって来ます.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->最初にやって来る[enemyFaction_pawnsPlural]グループの編成は次のとおりです：\n\n[raid0/raidPawnKinds]\n\n同規模のグループが[raidCountMinusOne]つ,すぐに続いてやって来ます.</li>
     <li>numGroupsOf(raidCount==1)-></li>
     <li>numGroupsOf(raidCount==2)->2グループの</li>
     <li>numGroupsOf(raidCount==3)->3グループの</li>

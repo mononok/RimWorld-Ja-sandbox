@@ -227,7 +227,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>バージョン順序が不正です：'default'は最初に定義されてなければなりません.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>ロードフォルダで'default'を使用する事は非推奨です. <v...>タグを使用し,各バージョンのフォルダを定義してください.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>ロードフォルダで'default'を使用する事は非推奨です. &lt;v...&gt;タグを使用し,各バージョンのフォルダを定義してください.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>ロードフォルダーにバージョン{0}が定義されています,しかしMODのAbout.xmlにある'supportedVersions'にはありません.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->

@@ -223,11 +223,18 @@
   <QuestPartMoodBelowThresholdDesc>{0}クエストでは,この人の心情を良くし続けていることが求められているのに,かれらの心情は良くありません.心情を良くするためにも行動を起こします:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>{0} シャトル出発</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>{0}後に船が出発</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>{1}後にシャトルが出発します. クエスト'{0}'では,シャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
   <QuestPartShuttleLeaveDelayDescHidden>{0}後にシャトルが出発します.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>{0}後に船が到着</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>{1}後にシャトルが到着します. クエスト'{0}'では,シャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>{0}後にシャトルが到着します.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>遺跡が破壊されます</DisallowedBuildingInsideMonument>

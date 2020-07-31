@@ -10,8 +10,8 @@
   
   <!-- EN: detection chance -->
   <Ability_DetectChancePerEntropy.label>被探知率</Ability_DetectChancePerEntropy.label>
-  <!-- EN: The likelihood of this psycast being detected when it is performed.\n\nSome factions try to enforce laws which restrict some psycasts to those holding specific titles. When you use a psycast, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
-  <Ability_DetectChancePerEntropy.description>これを行使したときに詠唱者が検出される可能性です.\n\n一部の派閥では詠唱は特定の称号を持つものだけに制限する法律を施行しようとしています.詠唱すると遠くからでも探知される可能性がある心紋が放出されます.もし違法に使用され探知されると,外交的な結果をもたらします.</Ability_DetectChancePerEntropy.description>
+  <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
+  <Ability_DetectChancePerEntropy.description>これを使用したときに超能力が検出される可能性です.\n\n一部の派閥では,特定の称号を持つものだけが超能力を使用できるよう制限する法律を施行しようとしています.超能力を使用すると,遠くからでも探知される可能性のある心紋が放出されます.もし違法に使用され探知されると,外交的な結果をもたらします.</Ability_DetectChancePerEntropy.description>
   
   <!-- EN: duration -->
   <Ability_Duration.label>効果時間</Ability_Duration.label>
@@ -51,7 +51,7 @@
   
   <!-- EN: psylink level -->
   <Ability_RequiredPsylink.label>サイリンクレベル</Ability_RequiredPsylink.label>
-  <!-- EN: The minimum psylink level required to perform this psycast. -->
-  <Ability_RequiredPsylink.description>この超能力を発動するために必要な,サイリンクの最小レベルです.</Ability_RequiredPsylink.description>
+  <!-- EN: The minimum psylink level required to use this ability. -->
+  <Ability_RequiredPsylink.description>この能力を使用するために必要な,サイリンクの最小レベルです.</Ability_RequiredPsylink.description>
   
 </LanguageData>

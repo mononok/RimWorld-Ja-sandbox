@@ -401,8 +401,8 @@
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>キャラバン隊勝利</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
-  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました.\n\nあなたはワールドマップから,拠点の選択と,"キャラバン隊の再編成"を選ぶことができます.\n\nアイテム収集を手動で行う必要はありません,キャラバン隊再編成コマンドで簡単にできます.\n\n{0}で,キャラバン隊は自動的に再編成されます.</LetterCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました.\n\nあなたはワールドマップから,拠点の選択と,"キャラバン隊の再編成"を選ぶことができます.\n\nアイテム収集を手動で行う必要はありません,キャラバン隊再編成コマンドで簡単にできます.\n\n{0}後に,キャラバン隊は敵対者に襲撃されます.キャラバン隊を再編成して立ち去らない限り,敵対者はキャラバン隊を攻撃するために,襲撃部隊を送り始めるでしょう.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
@@ -439,7 +439,7 @@
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>新しいクエスト'{0}'が受諾可能になりました.</LetterQuestBecameAvailable>
-  <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>このクエストは, {0}以内に受諾しないと, 期限切れになります.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>新しいクエスト'{0}'を受諾しました.</LetterQuestBecameActive>

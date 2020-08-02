@@ -1242,7 +1242,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>ニューラルヒート: {0} / {1}\n減少速度: {2}/秒 (0まで残り{3}秒)</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>超能力を使用すると,ニューラルヒートが増加します.限界を超えると,長期的な神経衰弱を引き起こす可能性があります.\n\nニューラルヒートは時間の経過と共に,自然に放熱されます.このプロセスは,エルテック系の衣服の着用,もしくは痛みを感じることで加速させることができます.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>痛みによるブースト効果\n\n痛みは精神を集中させ,ニューラルヒートの放熱力を上昇させます.\n\n痛みの強さ: {0}\nヒート回復ボーナス: {1}</PawnTooltipPsychicEntropyPainFocus>

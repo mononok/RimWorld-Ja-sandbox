@@ -111,7 +111,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
+  <ConsideredGuilty>有罪とする(有効期限切れまで残り{0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -322,11 +322,11 @@
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>このクエストを却下して却下タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報酬と有効期限は普通通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
+  <DismissQuest>このクエストを却下して処理済タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報酬と有効期限は通常通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
   <UnDismissQuest>このクエストの却下を取り消します.\n\nクエストは保留か受諾タブへ戻り,通知は再び有効となります.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>このクエストは却下されたので,ここにあります.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
+  <QuestDismissed>このクエストは却下されたので,このタブに移動されました.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>このクエストを削除して,クエストリストから完全に消去します.</DeleteQuest>
 

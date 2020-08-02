@@ -399,7 +399,7 @@
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!.\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
@@ -439,7 +439,7 @@
   <!-- EN: {0} killed -->
   <PawnsKilled>殺した{0}の数</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>{0}を送ると,{1}後に返却されます</PawnsLent>
+  <PawnsLent>{0}を送ると,{1}後に返却されます.</PawnsLent>
   <!-- EN: Dormant -->
   <DormantCompInactive>休眠</DormantCompInactive>
   <!-- EN: Sealed -->
@@ -849,7 +849,7 @@
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>十分成長した</Mature>
+  <Mature>十分成長しました</Mature>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>成長期間</OutdoorGrowingPeriod>
   <!-- EN: Never -->

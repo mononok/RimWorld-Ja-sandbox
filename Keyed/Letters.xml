@@ -73,7 +73,7 @@
   <!-- EN: Birthday -->
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>今日は,{0}の誕生日です!,生物学的には {1}は {3}才になります.\n\n暦上では,{1}は,{2}になりました.\n\nノート:冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
+  <BirthdayChronological>今日は,{0}の誕生日です!生物学的には {1}は {3}才になります.\n\n暦上では,{1}は,{2}になりました.\n\nノート:冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
   <BirthdayBiologicalAgeInjuries>今日は,{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました.</BirthdayBiologicalAgeInjuries>
 
@@ -98,7 +98,7 @@
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>{PAWN_nameDef}が太古の壁に近寄った時,悪い予感が{PAWN_objective}を襲いました.なぜだか解りませんが,この塵と埃にまみれた廃墟は,大きな危険をはらんでいると{PAWN_pronoun}は感じています.</AncientShrineWarning>
+  <AncientShrineWarning>{PAWN_nameDef}が太古の壁に近寄った時,悪い予感が{PAWN_objective}襲いました.なぜだか解りませんが,この塵と埃にまみれた廃墟は,大きな危険をはらんでいると{PAWN_pronoun}は感じています.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
   <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
@@ -202,9 +202,9 @@
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>新しい恋人達</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は 互いに寄り添って眠りたがっています.彼らにダブルベッドはどうでしょう.</LetterNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort}と{PAWN2_labelShort}は互いに寄り添って眠りたがっています.二人にダブルベッドはどうでしょう.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{PAWN1_labelShort}と {PAWN2_labelShort}は その関係を断ちました.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort}と{PAWN2_labelShort}はその関係を断ちました.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
   <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort}の名字は旧姓に戻ります.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
@@ -244,7 +244,7 @@
   <!-- EN: Prison break -->
   <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>囚人たちが脱走しました!.どうやったかは知らないが,彼らは,ドアのロックを壊して逃げ出しました.彼らは武器を探し,戦ってでも逃げようとします.\n\n指名手配：\n\n{0}\n\n囚人たちを,多数ひとまとめにして,不満を放っておいたり,不健康のままにしておくと,より脱走を試みるようになります.</LetterPrisonBreak>
+  <LetterPrisonBreak>囚人たちが脱走しました!どうやったかは分かりませんが,彼らは,ドアのロックを壊して逃げ出しました.彼らは武器を探し,戦ってでも逃げようとします.\n\n指名手配：\n\n{0}\n\n囚人たちを,多数ひとまとめにして,不満を放っておいたり,不健康のままにしておくと,より脱走を試みるようになります.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
@@ -308,7 +308,7 @@
   <!-- EN: Scanned underground -->
   <LetterLabelDeepScannerFoundLump>地質を走査した</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>地質貫通型スキャナーを使用して,{FINDER_nameDef}は{0}鉱床を発見した!.</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef}は地殻深部スキャナーを使用して,{0}鉱床を発見した!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->

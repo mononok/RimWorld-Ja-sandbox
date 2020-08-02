@@ -14,7 +14,7 @@
   <LetterLabelCropBlight>枯病: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>枯病が{PLANTDEF_labelPlural}がに冒されています!\nあなたは,枯病が蔓延する前に伐採するか燃やすかしなければなりません.</LetterCropBlight>
+  <LetterCropBlight>{PLANTDEF_labelPlural}が枯病に冒されています!\nあなたは,枯病が蔓延する前に伐採するか燃やすかしなければなりません.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>奇跡</LetterLabelMiracleHeal>

@@ -9,9 +9,9 @@
   -->
   <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
     <!-- No asker -->
-    <li>questDescription(askerIsNull==true)->[refugee_nameDef]が助けを求めています.[refugee_pronoun]がケガをして動けません.\n\n[refugee_nameDef]は[refugee_age]歳の[refugee_title]です.もし[refugee_objective]助けてくれれば,[refugee_pronoun]はあなたに加わると約束しています.\n\nまた,[refugee_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo].</li>
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef]が助けを求めています.[refugee_pronoun]はケガをしていて動けません.\n\n[refugee_nameDef]は[refugee_age]歳の[refugee_title]です.もし[refugee_objective]助けてくれれば,[refugee_pronoun]はあなたに加わると約束しています.\n\nまた,[refugee_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
     <!-- Faction leader asker -->
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が,[asker_possessive]友人が旅行中にケガをしたと言っています.ケガを負ったのは[refugee_nameIndef]で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]には[refugee_nameDef]を救う余裕が無く,もしあなたが[refugee_nameDef]の所まで行って,[refugee_objective]助ければ,きっと[refugee_pronoun]は,あなたに加わるだろうと言っています.\n\nまた,[asker_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo].</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]の[asker_faction_leaderTitle]である[asker_nameDef]が,[asker_possessive]友人が旅行中にケガをしたと言っています.ケガを負ったのは[refugee_nameIndef]で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]には[refugee_nameDef]を救う余裕が無く,もしあなたが[refugee_nameDef]の所まで行って[refugee_objective]助ければ,きっと[refugee_pronoun]はあなたに加わるだろうと言っています.\n\nまた,[asker_nameDef]からの話によると,[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
@@ -30,6 +30,6 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>クエスト期限切れ: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>[refugee_nameDef]のシグナルが消え, もう[refugee_pronoun]を救うことが出来なくなった. クエスト [resolvedQuestName] は期限が切れた.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>[refugee_nameDef]のシグナルが消え,もう[refugee_pronoun]を救うことが出来なくなりました.クエスト'[resolvedQuestName]'は期限が切れました.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

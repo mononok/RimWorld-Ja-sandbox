@@ -24,7 +24,7 @@
       <li>root(priority=1,sitePart==AmbushHidden)->(*Threat)敵部隊(/Threat)が獲物が近くに来るのを待ち伏せしています</li>
       <li>root(priority=1,sitePart==MechCluster)->(*Threat)敵対的なメカノイドで構成されたクラスター(/Threat)があります</li>
       <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->(*Threat)未知の脅威(/Threat)があると思われます</li>
-      <li>root->[label]</li>
+      <li>root->[label]が存在します</li>
     </rulesStrings>
   </Util_GenerateSite.root.singleSitePartRules.slateRef>
   

@@ -76,11 +76,11 @@
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
   <MessageRecruitSuccess>{RECRUITER_nameFull}は 囚人{RECRUITEE_nameFull}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort}は{1}を手なずけました(成功率 {2}).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}). そして {RECRUITEE_objective} {RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort}は{1}を手なずけました(成功率 {2}).そして{RECRUITEE_objective}{RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>{RECRUITEE}は コロニーに参加しました.</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE}はコロニーに参加しました.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません.</MessageColonyCannotAfford>
@@ -88,7 +88,7 @@
   <MessageColonyNotEnoughSilver>取引するのに十分な量のシルバーを準備できていません.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>クリティカル・アラート： {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>クリティカル・アラート: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>食材として 十分に育った 農作物を 指定してください.</MessageMustDesignateHarvestable>
@@ -546,9 +546,9 @@
   <MessageBillValidationStoreZoneInsufficient>{1}の"{0}"は 全ての製品を備蓄ゾーン{2}へ運びません.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので {1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>定期的に飼い慣らしていなかったので,{1_labelShort}は野生に戻りました.</MessageAnimalReturnedWild>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>定期的に訓練していなかったので {ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>定期的に訓練していなかったので,{ANIMAL_labelShort}はスキルを忘れました：{1}</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
   <MessageTranslationReportSaved>翻訳ファイルの検証結果を{0}に出力しました.</MessageTranslationReportSaved>

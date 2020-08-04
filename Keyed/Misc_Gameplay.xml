@@ -369,7 +369,7 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません</EnterCooldown>
+  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
@@ -449,7 +449,7 @@
   <!-- EN: Expired -->
   <DormantCompExpired>満了</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>引き起こす</InitiatesIn>
+  <InitiatesIn>開始まで残り</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>{0}後に起動</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->

@@ -189,13 +189,13 @@
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0}が {1}の作用空間を ブロックするでしょう.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>すでに ここの地形は {0} です.</TerrainIsAlready>
+  <TerrainIsAlready>すでにここの地形は {0} です.</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>この表面は すでに磨くよう指示されています.</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>すでにこの表面は磨くよう指示されています.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>すでに 同じ物があります.</IdenticalThingExists>
+  <IdenticalThingExists>すでに同じ物があります.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>すでに 同じ設計図があります.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>すでに同じ設計図があります.</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
   <TerrainCannotSupport>この地形の上には {0_label}を 建てることが できません.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
@@ -203,9 +203,9 @@
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordanceFromStuff>{2_label}製{0_label}の支持地盤が必要です: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
-  <SpaceAlreadyOccupied>すでに この場所は塞がっています.</SpaceAlreadyOccupied>
+  <SpaceAlreadyOccupied>すでにこの場所は塞がっています.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>すでに 磨くように指示されてます.</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>すでに磨くように指示されてます.</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
   <TerrainMustBeRemovable>剥がせるフロアを指定してください.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->

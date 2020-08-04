@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Autosaving -->
@@ -27,7 +27,7 @@
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>{0} and {1}</ToCommaListAnd>
+  <ToCommaListAnd>{0}と{1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -97,12 +97,12 @@
   <MeatHumanDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel>
+  <TechprintLabel>テックプリント({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>This is a techprint for the research project '{PROJECT_label}'. \n\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.\n\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.\n\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc>
+  <TechprintDesc>研究プロジェクト'{PROJECT_label}'のテックプリントです. \n\nテックプリントの形態は,図式の記された紙の切れ端に近い物から,高度な内蔵型教育マシンまで様々な物があります.それらは形態に関係なく,同じ役割を果たします.研究者はこのテックプリントから,この研究に着手できるという確信と,今ある共同体で広く使用されるに適した設計の大まかなアイデアを受け取ります.\n\n研究者は,与えられたテクノロジーにどこから着手すべきかを知るために,テックプリントから得られる基礎知識を必要とします.テックプリントを十分に適用した後でのみ,特定の状況でテクノロジーを利用する手段の詳細を把握できます.\n\n研究の可能になったプロジェクトにテックプリントを適用すると,残りの進行度が半分になります.さらに,既に研究が完了したテクノロジーのテックプリントでも,適用すると研究者の知力スキルが上昇します.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>アンロック</Unlocks>
 
@@ -144,6 +144,12 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>このタイプの部屋にとって重要な項目です.</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>この場所の地下に{COUNT}の{RESOURCE_label}があります.</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
   <VariousLabel>(色々)</VariousLabel>
 
@@ -162,6 +168,6 @@
   <East>東</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint>
+  <ApplyingTechprint>テックプリントを適用中({0})</ApplyingTechprint>
   
 </LanguageData>

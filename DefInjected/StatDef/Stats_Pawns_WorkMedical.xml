@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: medical operation speed -->
@@ -13,8 +13,8 @@
   
   <!-- EN: medical tend quality -->
   <MedicalTendQuality.label>看護・品質</MedicalTendQuality.label>
-  <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
-  <MedicalTendQuality.description>怪我や病気の看護をするときの基本的な品質です.実際の看護品質は,医薬品の使用,設備,部屋の清潔度,運などの影響も受けます.</MedicalTendQuality.description>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
+  <MedicalTendQuality.description>怪我や病気の看護をするときの基本的な品質です.実際の看護品質は,医薬品の使用,設備,運などの影響も受けます.</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
   <MedicalTendSpeed.label>看護・速度</MedicalTendSpeed.label>

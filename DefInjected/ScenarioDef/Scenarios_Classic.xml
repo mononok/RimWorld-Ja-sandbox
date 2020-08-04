@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Crashlanded -->
@@ -15,20 +15,20 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.label>ロスト トライブ</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.description>あなたの部族は,破壊神によって滅ぼされましたが,5人だけが生き残りました.今まさに,新しい家を立て直すときなのです.</LostTribe.description>
+  <LostTribe.description>あなたの部族は,破壊神によって滅ぼされましたが,5人だけが生き残りました.今まさに,新しい家を立て直すときなのです.\n\n注意:開始時の資源と技術が乏しいため,難しいシナリオです.</LostTribe.description>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.scenario.description>あなたの部族は,破壊神によって滅ぼされましたが,5人だけが生き残りました.今まさに,新しい家を立て直すときなのです.</LostTribe.scenario.description>
+  <LostTribe.scenario.description>あなたの部族は,破壊神によって滅ぼされましたが,5人だけが生き残りました.今まさに,新しい家を立て直すときなのです.\n\n注意:開始時の資源と技術が乏しいため,難しいシナリオです.</LostTribe.scenario.description>
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>ロスト トライブ</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>神々は非常に怒っていた.血まみれの殺戮マシーンは夜にやってきた.\n彼らは,あなたの村を襲い,地獄の業火と刃で,住民を切り刻んで焼き払った.\n\nあなたを含めた数人だけが脱出した.\nその後,悲惨な徒歩での旅をし,親友を頼みにもできずに,今,あなたは荒野に新しい住処を作らねばならない,祖先も,そうやって来たように</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>神々は非常に怒っていた.血まみれの殺戮マシーンは夜にやってきた.\n彼らは,あなたの村を襲い,地獄の業火と刃で,住民を切り刻んで焼き払った.\n\nあなたを含めた数人だけが脱出した.\n\nその後,悲惨な徒歩での旅をし,親友を頼みにもできずに,今,あなたは荒野に新しい住処を作らねばならない,祖先も,そうやって来たように</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>5人の原住民で復活を試みます.</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>ネイキッド</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>あなたは簡単な手術をするために,麻酔による深い眠りに落ちました.今,あなたは遠く離れた惑星大気圏に,突入する脱出ポッドの中で目を覚ましました.あなたは全裸で,単身,全く所持品は持っていません.生き残ることができますか？\n\n【警告】:このシナリオには,全く見込みがありません - 極めて非常に難しく,どんな事でも死に直結します.</NakedBrutality.description>
+  <NakedBrutality.description>あなたは簡単な手術をするために,麻酔によって深い眠りに落ちました.今,あなたは遠く離れた惑星大気圏に突入する,脱出ポッドの中で目を覚ましました.あなたは全裸で,単身で,所持品は全く持っていません.生き残ることができますか？\n\n【警告】:このシナリオには,全く見込みがありません - 極めて非常に難しく,どんな事でも死に直結します.</NakedBrutality.description>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
   <NakedBrutality.scenario.description>あなたは簡単な手術をするため,麻酔によって深い眠りへと落ちていました.あなたは今,遠く離れた惑星の,大気圏に突入している脱出ポッドの中で目を覚ましました.あなたは全裸で,単身,何も所持品を持っていません.生き残ることができますか？\n\n【警告】:このシナリオには,全く見込みがありません - 極めて,非常に難しく どんな些細な事でも死に直結します.</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
@@ -49,7 +49,7 @@
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
   <TheRichExplorer.scenario.parts.GameStartDialog.text>ニューロシミュレーション,ホロ・ゲーム,などでは,あなたを満足させません.あなたはもっと－勇気や人生の帰結点,歴史書で語られているようなもの,を求めています.\n\n今,10年にも渡る冷凍冬眠の旅が終わり,この良く分からないRimworldに降り立ちました.本当の歴史が貴方を待っているのです.</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>装備に恵まれた,ひとりの冒険者が,この世界に降り立ちます.</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>装備に恵まれたひとりの冒険者が,この世界に降り立ちます.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
   <Tutorial.label>tutorial</Tutorial.label>

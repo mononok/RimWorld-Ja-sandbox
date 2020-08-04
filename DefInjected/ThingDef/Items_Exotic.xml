@@ -1,10 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: persona core -->
   <AIPersonaCore.label>AI人格コア</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
   <AIPersonaCore.description>天才と同等な高度な人工知能を納めた,非常に進んだコンピュータコア.本体より分離されて休止状態にありますが,しかるべき所へインストールされれば驚くべき力を発揮します.</AIPersonaCore.description>
+  
+  <!-- UNUSED -->
+  <BroadshieldUnit.label>ブロードシールドユニット</BroadshieldUnit.label>
+  <BroadshieldUnit.description>運動量相殺シールドを生成できる、最先端技術の一部です。これだけでは何もできませんが、他の便利なシールドアイテムを作成するのに必要です。\n\nブロードシールドユニットは、メカノイドシールドジェネレーターを分解することで入手できます。</BroadshieldUnit.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>象の牙</ElephantTusk.label>

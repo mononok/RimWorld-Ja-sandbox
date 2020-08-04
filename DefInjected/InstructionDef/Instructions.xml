@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!.\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>これを選択します</AddBillSimpleMeal.onMapInstruction>
@@ -23,7 +23,7 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>部屋の中に木製のベッドを作ってみましょう.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>あなたの入植者達の部屋が作られました!.\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.</BuildBeds.text>
+  <BuildBeds.text>入植者達の部屋が作られました!\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>部屋の中にカマドを作ります</BuildFueledStove.onMapInstruction>
@@ -51,7 +51,7 @@
   <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
   <BuildRoomWalls.rejectInputMessage>ハイライト表示されている矩形の縁に沿って木造の壁を作ってみましょう.</BuildRoomWalls.rejectInputMessage>
   <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
-  <BuildRoomWalls.text>最高!,次は部屋を作ってみましょう.\n\n1.「アーキテクト」タブをクリックします.\n2.「建築」メニューをクリックします.\n3.「壁」をクリックします.\n4. 素材は"木製"を選択します.\n5.マップ上に表示された四角の,各辺ごとにドラッグして壁を作ります.</BuildRoomWalls.text>
+  <BuildRoomWalls.text>最高です!次は部屋を作ってみましょう.\n\n1.「アーキテクト」タブをクリックします.\n2.「建築」メニューをクリックします.\n3.「壁」をクリックします.\n4. 素材は"木製"を選択します.\n5.マップ上に表示された四角の,各辺ごとにドラッグして壁を作ります.</BuildRoomWalls.text>
   
   <!-- EN: Build sandbags here -->
   <BuildSandbags.onMapInstruction>ここに土のうを作ります.</BuildSandbags.onMapInstruction>
@@ -86,8 +86,8 @@
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>オプションメニューから,ストーリーテラーを選択して,このチュートリアルを終了します.</ChooseStoryteller.rejectInputMessage>
-  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
-  <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと,学ぶことがあります,囚人の扱い方,狩猟のしかた,トレード,野生動物,他にもたくさんあります.しかし基本は習得しました.\n\nこのチュートリアルでは,ランダムに起きる,事件事故は禁止してあります.本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します.\n3.「脚本家」をクリックします.\n4.脚本家と,難易度が表示されます.\n\nGood luck, and have fun.</ChooseStoryteller.text>
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
+  <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと,学ぶことがあります,囚人の扱い方,狩猟のしかた,トレード,野生動物,他にもたくさんあります.しかし基本は習得しました.\n\nこのチュートリアルでは,ランダムに起きる,事件事故は禁止してあります.本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します.\n3.「脚本家」をクリックします.\n4.脚本家と,プレイスタイルが表示されます.\n\n幸運を,そして楽しんでください.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>いくつかの木をまとめてドラッグして,"伐採"を指示してみましょう.</ChopTrees.rejectInputMessage>
@@ -134,7 +134,7 @@
   <!-- EN: Please make a growing zone on the indicated area. -->
   <MakeGrowingZone.rejectInputMessage>表示された場所に農業ゾーンを作ってみましょう.</MakeGrowingZone.rejectInputMessage>
   <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
-  <MakeGrowingZone.text>これで家が建ちました!.\n\nあなたの入植者達は,何か食べ物が必要となります,マップ上に表示された場所に"農業ゾーン"を配置します.\n\n入植者達は,ここに種を蒔くようになります.</MakeGrowingZone.text>
+  <MakeGrowingZone.text>これで家が建ちました!\n\nあなたの入植者達は,何か食べ物が必要となります,マップ上に表示された場所に"農業ゾーン"を配置します.\n\n入植者達は,ここに種を蒔くようになります.</MakeGrowingZone.text>
   
   <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
   <MakeStockpile.onMapInstruction>備蓄ゾーンをここに作ってみましょう\n(対角線にドラッグします)</MakeStockpile.onMapInstruction>

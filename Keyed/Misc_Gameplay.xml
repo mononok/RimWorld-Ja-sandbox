@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
@@ -176,8 +176,8 @@
   <UsingBedrolls>寝袋を{0}個使う</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>到着予定時刻: {0}</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
-  <CaravanEstimatedDaysToDestination>到着予定日数: {0}</CaravanEstimatedDaysToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>経路移動時間: {0}日</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>行動不能: 過積載</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -246,10 +246,10 @@
   <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>地図</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>敵が到着するまで残り{0}</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>敵の増援は{0}後にこのエリアに到着します.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>部屋</Room>
   <!-- EN: Beauty here -->
@@ -275,7 +275,7 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <SettlementTrader>{1}の{0}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>部屋:手術成功率への掛け率</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
@@ -291,9 +291,9 @@
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>{0}は,これの破壊を求めている.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>{0}にシャトルで出発する.</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>{0}後にシャトルで出発</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>{0}に出発する.</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0}後に出発します</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
   <ShouldDepartOnShuttleInspectString>シャトルで出発しなければならない</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
@@ -368,8 +368,8 @@
   <CreatureFollowFieldwork>主人のフィールドワーク時に追従する</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>{0}以内に再入村できません</EnterCooldown>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>危険すぎるため,{0}日間,再侵入できません</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>キャラバン隊</Caravan>
   <!-- EN: there may be danger there. -->
@@ -378,8 +378,6 @@
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>タレット</Turret>
   <!-- EN: turrets -->
@@ -401,7 +399,7 @@
   <!-- EN: Required -->
   <Required>必須</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!.\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告:あなたは輸送ポッドを使ったトレード要求を完了することはできません.\nたとえ,あなたが品物を送り,その集落が,それを贈り物として受け入れたとしても,彼らは,何ひとつとして,あなたに報酬を渡さないでしょう.\n\n 取引するにはキャラバン隊を送ってアプローチしてください!\n\n本当に積み込んだ荷物を,この派閥へ贈りたいのですか？</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>囚人</PrisonerLower>
   <!-- EN: prisoners -->
@@ -419,51 +417,51 @@
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>枯病 殺傷範囲</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Radius expand rate</RadiusExpandRate>
+  <RadiusExpandRate>範囲拡張速度</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>{0}を表示</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>爆発まで{0}日</DetonationCountdown>
   <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>ダメージを受けた場合,大きく爆発します.</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>被ダメージ時に大きく爆発</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>メカクラスター</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Spawning in {0}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>{0}後にスポーン</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} assembly completes in {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{1}後に{0}の組み立てが完了します.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>Will assemble</MechAssemblyNextType>
+  <MechAssemblyNextType>組み立てるでしょう</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>produced</ThingsProduced>
+  <ThingsProduced>生産された量</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>harvested</PlantsHarvested>
+  <PlantsHarvested>収穫された量</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} killed</PawnsKilled>
+  <PawnsKilled>殺した{0}の数</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>Sent {0}, will return in {1}</PawnsLent>
+  <PawnsLent>{0}を送ると,{1}後に返却されます.</PawnsLent>
   <!-- EN: Dormant -->
   <DormantCompInactive>休眠</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>封印</DormantCompSealed>
+  <DormantCompSealed>閉じられている</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>メカノイド降下準備完了</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>満了</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>Initiates in</InitiatesIn>
+  <InitiatesIn>引き起こす</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Activates in {0}</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>{0}後に起動</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
   <PsychicEntropy>ニューラルヒート</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>ヒート</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>{0} pain focus</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0}苦痛ボーナス</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>半径 {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>low psyfocus</LowPsyfocus>
+  <LowPsyfocus>サイフォーカスが低い</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>残 {0}</DurationLeft>
   <!-- EN: Any of -->
@@ -620,6 +618,8 @@
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>{0}を使う</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>ゾーン</AreaLower>
   <!-- EN: cowering. -->
@@ -711,19 +711,19 @@
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{1}の{0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} under {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{1}の下の{0}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{0} under {1}\nHome faction: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{1}の下の{0}\n所属派閥: {2}</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>派閥</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>{PAWN_labelShort}が現在所属している派閥です.</FactionDesc>
-  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
-  <ExtraFactionDesc>{PAWN_labelShort}が所属していた元の派閥です.{PAWN_pronoun}が現在の派閥から脱退すると,元いた派閥へ加わるでしょう.</ExtraFactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>{PAWN_labelShort}が所属していた元の派閥です.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>装備品</Equipped>
   <!-- EN: nothing -->
@@ -849,7 +849,7 @@
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>十分成長した</Mature>
+  <Mature>十分成長しました</Mature>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>成長期間</OutdoorGrowingPeriod>
   <!-- EN: Never -->
@@ -917,7 +917,7 @@
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
   <ShowFertilityOverlayToggleButton>肥沃度の可視 切り替え\n\nこれは,この土地で,どの植物が良く早く育つかどうかを表示します.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられ,重い建物は建てられない.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>支持地盤の可視 切り替え\n\nこれは個々の場所に,どのような種類の建物を建設できるかに関係しています.\n\n例えば,ある種の地盤は,小型,中型の建物だけを建てられますが,重い建物は建てられません.橋は水上にしか建てられません.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
@@ -1020,14 +1020,14 @@
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: neurotrainer ({0}) -->
-  <SkillNeurotrainerLabel>ニューロトレイナー ({0})</SkillNeurotrainerLabel>
-  <!-- EN: Use skill neurotrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>{0}を 身につけるためニューロトレイナーを使う</SkillNeurotrainerUseLabel>
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>{0}を 身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>特定のスキルを身に付けられる使い捨てのメカナイト製剤です.\n\nこの製剤は眼窩を通して投与します.脳内に達すると,メカナイトは指示された特定の作業野を向上させるべく,急速に必要なニューラルネットワークに形を変えます.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort}は,{1}ニューロトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort}は,{1}スキルトレイナーを使って,スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1163,6 +1163,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>残りの使用可能数</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>ラーニングヘルパー</LearningHelper>
@@ -1238,7 +1242,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>ニューラルヒート: {0} / {1}\n減少速度: {2}/秒 (0まで残り{3}秒)</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>超能力を使用すると,ニューラルヒートが増加します.限界を超えると,長期的な神経衰弱を引き起こす可能性があります.\n\nニューラルヒートは時間の経過と共に,自然に放熱されます.このプロセスは,エルテック系の衣服の着用,もしくは痛みを感じることで加速させることができます.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>痛みによるブースト効果\n\n痛みは精神を集中させ,ニューラルヒートの放熱力を上昇させます.\n\n痛みの強さ: {0}\nヒート回復ボーナス: {1}</PawnTooltipPsychicEntropyPainFocus>
@@ -1267,13 +1271,33 @@
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>あなたと {0_name} との関係は {1} 向上するでしょう</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>あなたは惑星に連れて行かれるでしょう</Reward_PassageOffworld>
+  <Reward_PassageOffworld>星に連れ出してもらいます</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>惑星外への脱出</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
   <Reward_CampLoot>あなたは野営地から全てを略奪できます</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>訪問者はあなたのために働き,戦います</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>訪問者の手助け</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>新しいサイリンクレベル</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>{PAWNNAME}がサイリンクを獲得</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>シャトルを略奪</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>シャトルを解体して略奪することができます</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>将来的な報酬の可能性</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>後に,報酬が送られる可能性があります</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>{TITLE}の爵位</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>{PAWNNAME}が{FACTION}から,{TITLE}の爵位を授かります</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>価値 {0}</TotalValue>
   
@@ -1284,6 +1308,12 @@
   <NotBonded>誰とも絆は無い</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>他の誰かと絆を結んだ</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>(現在の絆)</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>ペルソナ武器と絆を結べるのは一人につき1個までです.\n\n{WEAPON_labelShort}を装備して絆を結ぶには,その前に今{PAWN_nameDef}が絆を結んでいる武器である,{BONDEDWEAPON_labelShort}を破壊する必要があります.</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef}は既に{BONDEDWEAPON_labelShort}と絆で結ばれている</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1312,6 +1342,9 @@
   <CausedByHediff>原因: {0}</CausedByHediff>
   
   <!-- UNUSED -->
+  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
+  <CannotResearchNoBench>研究できない: 研究卓が無い</CannotResearchNoBench>
   <Complete>完了</Complete>
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind.</PawnTooltipPsychicEntropy>
 

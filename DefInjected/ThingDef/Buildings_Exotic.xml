@@ -1,10 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- UNUSED -->
+  <Broadshield.label>ブロードシールド</Broadshield.label>
+  <Broadshield.description>一時的なバレットシールド投射器です。弾丸は内からは通しますが、外からは通しません。数秒使用すると焼損します。</Broadshield.description>
+  <Broadshield.comps.CompDestroyAfterDelay.countdownLabel>焼損まで残り</Broadshield.comps.CompDestroyAfterDelay.countdownLabel>
+  
   <!-- EN: ship part (defoliator) -->
-  <DefoliatorShipPart.label>宇宙船の残骸(ブライト)</DefoliatorShipPart.label>
-  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests during land, to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれには生物には影響を与えること無く,近くの植物を全滅させる装置が組み込まれています.この種類の兵器は,敵の食料供給と,領地を荒廃させること無く隠れた敵を排除するために.たまに農地や森で散見します.通常は軌道降下型メカノイドと共に一体で運用されます.</DefoliatorShipPart.description>
+  <DefoliatorShipPart.label>宇宙船の残骸(汚染装置)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>製造元不明な古代船の一部です.おそらく千年は経過していると思われます.\n\nこれには生物には影響を与えること無く,近くの植物を全滅させる装置が組み込まれています.この種類の兵器は,領土を荒廃させること無く,敵の食料供給や隠れ場所を排除するために,たまに農地や森に散らばる事があります.通常は軌道降下型メカノイドと共に一体で運用されます.</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
   <PsychicDronerShipPart.label>宇宙船の残骸(サイコドローン)</PsychicDronerShipPart.label>

@@ -1,137 +1,137 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>You can dismiss letters by right-clicking on them.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>レターは右クリックで消すことが出来ます.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>You can hold the shift key to queue orders on your colonists.</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Shiftキーを押し続けることで,入植者の行動予約を行うことが出来ます.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>You can right-click and drag to reorder colonists on the colonist bar.</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>右クリックしながらドラッグすることで,入植者アイコンを並べ替えられます.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>You can select previous/next colonist with the , and . keys.</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>「,」や「.」キーで前/次の入植者を選択できます.</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>Many menus allow you to click and drag a setting topaint' it over many entries. This even works for things like outfits or food restrictions.</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>多くのメニューでは,設定をクリックしてドラッグすることで,多くの設定に「貼り付け」ができます.これは衣服設定や食事制限などでも機能します.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority.</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>優先順位タブの手動選択モードでは,1が一番高い優先度で,4が一番低い優先度です.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen.</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>入植者の心情の高さは,画面上部の入植者バーのアイコンの背景に表示されます.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once.</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>優先順位タブで,Shiftキーを押しながら作業タイプの名前をクリックすると,すべての入植者の設定が一度に変更されます.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it.</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>優先順位タブの手動選択モードで数値を右クリックすると,優先度を上げる代わりに優先度を下げます.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! -->
-  <GameplayTips.GunfightCover>In a gunfight, always be behind cover!</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>銃撃戦では常にカバーに隠れてください!</GameplayTips.GunfightCover>
   <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
-  <GameplayTips.GunfightSpread>In a gunfight, spread your colonists out! Bunched-up targets are easy to hit.</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>銃撃戦では入植者をばらけさせてください！1ヶ所に集まったターゲットは被弾しやすいです.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy.</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>煙幕はタレットがターゲットを検出することを完全に防げますが,人間は精度を落としつつ撃つことができます.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions.</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>防衛ゾーンを設計するときは,敵がドロップポッドやトンネルを使用することも想定してください.内部の防衛ゾーンも構築しましょう.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>Foggy or rainy weather reduces the accuracy of ranged weapons.</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>霧や雨の天候は,遠距離武器の精度を低下させます.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target.</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>射撃者を選択し,ターゲットにマウスオーバーすると,射撃が命中する可能性を見ることが出来ます.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them.</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>タレットはダメージを多く受けると爆発します.タレット同士を近づけすぎないでください.また,入植者たちを近寄らせすぎないようにしてください.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it.</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>一部の動物は死亡時に爆発します.また,輸送ポッドを使用して敵の頭上に動物を落とすこともできます.これについても考えに入れてください.</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>If you need help in a fight, call your allies using the comms console.</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>戦闘で助けが必要な場合は,通信機を使用して援軍を要請できます.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>Maddened animals will attack any human, including your enemies. You can use this.</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>狂った動物は,入植者の敵を含むあらゆる人間を攻撃します.これを利用することも出来ます.</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets, mortar shields, and bullet shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets, mortar shields, and bullet shields.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>EMPバーストは,タレット,迫撃砲シールド,およびバレットシールドを一時的に無効にします.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>EMP bursts instantly break personal shields.</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>EMPバーストはパーソナルシールドを即座に破壊します.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills.</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>狩猟者の隠密性は,動物から反撃される確率を減らします.この値は狩猟者の動物スキルと射撃スキルから計算されます.</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting.</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange>動物は近距離から攻撃すると,反撃される確率が高くなります.射程が長く,発砲の遅い武器が狩猟に最も安全です.</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey.</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>動物を狩る場合,動物の群れ全体に反撃される可能性があります.狩猟前にこのリスクを受け入れるか,より弱い獲物を選んでください.</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires.</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain>雨が降っているときにボムネズミとボマロープを狩猟すれば,それらの死による森林火災を防げます.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>Place a caravan packing spot to designate where you want your caravans to form up.</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>丁寧に屠殺された家畜からは,手荒に殺された動物よりも多くの肉と皮を入手できます.</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>Single-person caravans can be very useful in certain situations.</GameplayTips.CaravanPackingSpot>
+  <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定したい場合,キャラバン隊物流拠点を設置してください.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>Faster animals make faster caravans.</GameplayTips.CaravanSinglePerson>
+  <GameplayTips.CaravanSinglePerson>一人のキャラバン隊は,特定の状況で非常に役立ちます.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>Smaller caravans will be attacked less often because they're less visible.</GameplayTips.CaravanFasterAnimals>
+  <GameplayTips.CaravanFasterAnimals>脚の速い家畜は,キャラバン隊の移動速度をより速めます.</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster.</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanSmallerLessVisible>小規模のキャラバン隊は発見されにくいため,襲撃される頻度が低くなります.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>キャラバンを編成する前に,キャラバンの積荷場所の近くに積荷アイテムを集めましょう.これにより,積荷作業がはるかに速くなります.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure.</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>キャラバンに訓練されていない家畜がいる場合,敵を襲撃する前にそれらを別のキャラバンに分割して,戦闘から遠ざけることができます.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>Some colonists are worse than useless. Bad allies are part of the challenge.</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>RimWorldは物語を紡ぐものであり,プレイスキルの試験ではありません.廃墟となったコロニーは劇的な悲劇であり,失敗ではありません.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue.</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies>一部の入植者は役に立たないよりも悪い存在になります.悪い味方を取り入れることは挑戦の一部です.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>Avoid using stone for doors. They open very slowly, which wastes your colonists' time.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>脅威から防衛しきれない場合は,キャラバンを作って逃げてください.家を失うかもしれませんが,あなたの物語は続けることができます.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>Put chairs in front of workbenches so workers can sit comfortably while working.</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>ドアに石材を使うのは避けてください.それらの開閉速度は非常にゆっくりで,入植者の時間が浪費されてしまいます.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>Mechanical structures break down and require replacement components. Don't build things you don't need.</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>作業台の前に椅子を置き,作業中も快適に座れるようにしましょう.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them.</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>機械の構造物は故障し,交換部品が必要になります.不要なものは建築しないようにしてください.</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean.</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>橋の上に建築するものには注意してください.橋は爆発で簡単に崩壊し,その上の建築物は橋と共に崩落します.</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>Building your whole colony in one structure saves resources, but also makes it difficult to contain fires.</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>清潔な部屋は研究速度を上げ,医療結果を改善し,食中毒を減らします.無菌タイルは部屋をより清潔にします.</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>Terrain affects movement speed. Build floors to help your colonists get around quicker.</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>コロニー全体を1つの建物にすると資源を節約できますが,火事を封じ込めることも難しくなります.</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty.</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>地形は移動速度に影響します.入植者がより速く移動できるように床を敷きましょう.</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated.</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>地形が異なれば,固有の清浄度も異なります.タイルは基本的に清潔で,土は不潔です.</GameplayTips.TerrainCleanliness>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>You can request specific types of trade caravans using the comms console.</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.PrisonersAsGifts>囚人は贈り物として贈ることができます.囚人を本人の派閥に贈ることは高く評価されます.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations.</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>通信機を使用することで,特定の種類の貿易キャラバンの派遣要請を送ることができます.</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>Keeping prisoners together saves space. However, prisoners kept together will try to break out together.</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>輸送ポッドを使用することで,他の派閥の拠点に直接贈り物を渡すことができます.これにより,派閥関係が改善されます.</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try.</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>囚人を1ヶ所にまとめておくと,スペースを節約できます.しかし,同じ場所にいる囚人は一緒に脱走を試みます.</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>Cute tame animals will nuzzle your colonists, improving their mood.</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses>敵の拠点は非常によく防衛されています.それらを攻撃する必要はありませんが,試すことを選択した場合は十分に準備してください.</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them.</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>かわいい家畜は入植者にすり寄り,彼らの心情を改善します.</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>If someone has a serious infection in a limb, you can remove the limb to save their life.</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>草食動物は草の多い地域に配備しましょう.彼らは雑草を食べるので,エサを用意する労力を抑えられます.</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>Sloshing through water makes people unhappy. Build a bridge when you can.</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection>誰かが手足に深刻な感染症を起こしている場合,手足を切除して命を救うことができます.</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment.</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>水をかぶることを,入植者たちは不快に感じます.できれば橋を作ってください.</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>Work and movement speed are affected by lighting. Everything is slower in the dark.</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>ルシフェリウムは,例え目や脳にあるものでも,傷跡を治すことができますが,永久的な中毒を引き起こします.</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside.</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>作業速度や移動速度は明るさの影響を受けます.暗闇の中では全てが遅くなります.</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects.</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>例え外が非常に高温,もしくは低温であっても,深い地下の洞窟は自然に安定した温度を保ちます.</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood.</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>山岳地帯の拠点は防衛しやすいです.欠点は,あまりにも長い時間地下に留まることで人々の気が狂うこと,それと巨大な虫です.</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>You can have multiple researchers working simultaneously at multiple research tables.</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>囚人の心情が高ければ,より早くコロニーに加わり,脱走の機会を減らせます.</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>Geysers heat up rooms if enclosed. This can be dangerous, or useful.</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>複数の研究卓で複数の研究者に同時に研究させることができます.</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice.</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>間欠泉の周囲を囲むと,部屋を暖めることができます.これは危険な場合もあれば,役に立つ場合もあります.</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations.</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery>爆発は爆発範囲内の炎を消し飛ばします.他に選択肢がない場合,砲弾が消火に役立ちます.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>Clean labs with sterile tile give research speed bonuses.</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>深刻な頓挫でさえ,ゲームの終了を意味しません.負け戦を楽しんでみてください.多くの場合,最高のストーリーは最も暗い状況から発生します.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>You can change storyteller and difficulty at any time through the options menu.</GameplayTips.CleanLabs>
-  <!-- EN: You can change storyteller and difficulty at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
+  <GameplayTips.CleanLabs>無菌タイルを敷かれた清潔な研究室は,研究速度へボーナスを与えます.</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>オプションメニューを使用して,いつでもストーリーテラーとプレイスタイルを変更できます.</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>同盟派閥が多ければ多いほど,よりランダムなトレーダーや援軍を受けることができます.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>ドラッグ適用方針から,戦闘者にゴージュースのような戦闘ドラッグを所持させることが出来ます.戦闘時に素早く摂取して戦闘を有利に進められます.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>移動時間を最小限に抑えるために,1つの活動を長くまとめるスケジュールを設定しましょう.</GameplayTips.SchedulesSetLong>
   
 </LanguageData>

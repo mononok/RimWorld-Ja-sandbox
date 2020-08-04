@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
@@ -76,7 +76,7 @@
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない衣服を,なにか手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
@@ -223,12 +223,21 @@
   <QuestPartMoodBelowThresholdDesc>{0}クエストでは,この人の心情を良くし続けていることが求められているのに,かれらの心情は良くありません.心情を良くするためにも行動を起こします:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>{0} シャトル出発</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>{0}後に船が出発</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>{1}にシャトルが出発します.{0}クエストではシャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>{1}後にシャトルが出発します. クエスト'{0}'では,シャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>{0}後にシャトルが出発します.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>{0}後に船が到着</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>{1}後にシャトルが到着します. クエスト'{0}'では,シャトルが出発する前に,次のヒトとアイテムをシャトルに載せることが要求されています.\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>{0}後にシャトルが到着します.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>遺跡は破壊されます</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>遺跡が破壊されます</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
   <DisallowedBuildingInsideMonumentDesc>あなたは不許可の建造物を遺跡内に建てました.この遺跡は{0}に破壊されたと見なされます.</DisallowedBuildingInsideMonumentDesc>
 
@@ -242,7 +251,7 @@
   <ActivatorCountdownDescMultiple>{0}の秒読みが開始されます.近くのメカノイドが覚醒することを覚悟してください.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>{0} クエスト期限切れ</QuestExpiresSoon>
+  <QuestExpiresSoon>{0} 依頼期限切れ</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>'{0}'クエストが {1}に期限切れとなります.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>クエスト'{0}'が {1}後に 期限切れとなります.</QuestExpiresSoonDesc>
 </LanguageData>

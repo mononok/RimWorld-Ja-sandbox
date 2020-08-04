@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Call {0} -->
@@ -41,6 +41,8 @@
   <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>同盟派閥は攻撃できない</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort}に配置</OrderManThing>
@@ -136,6 +138,8 @@
   <InstallImplantAlreadyMaxLevel>最高レベル</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0}をレベル{1}にアップグレードする</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>同盟派閥の妨害</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
@@ -190,6 +194,8 @@
   <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>重すぎる</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort}は同じ派閥に所属しています.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>能力が無い</Incapable>
@@ -214,6 +220,13 @@
   <CannotWear>{1_label}を 着用できない</CannotWear>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>{GEAR_labelShort}に{AMMO_label}を充填する</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>満タン</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>少なすぎる</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>{1_label}を 拾えない </CannotPickUp>
@@ -374,6 +387,8 @@
   <DropAtEdge>端に落とす</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>真ん中に落とす</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>{0} 攻撃</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>{0} 攻撃: 端に落とす</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +435,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>{0}を 適用する</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>危険すぎる</EnterCooldownBlocksEntering>
   
 </LanguageData>

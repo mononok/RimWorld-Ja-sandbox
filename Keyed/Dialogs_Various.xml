@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Confirm -->
@@ -11,6 +11,8 @@
   <OK>[OK]</OK>
   <!-- EN: Close -->
   <Close>閉じる</Close>
+  <!-- EN: Accept -->
+  <Accept>受諾</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -305,7 +307,7 @@
   <!-- EN: Charging -->
   <ChargingTime>チャージ時間</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>Next recharge (for {1}) in: {0}\nCharge cycle: {2}</ChargingNext>
+  <ChargingNext>次の再チャージ({1})まで: {0}\nチャージサイクル: {2}</ChargingNext>
   <!-- EN: Shut down -->
   <ShutDown>シャットダウン</ShutDown>
   <!-- EN: Fire rate -->
@@ -451,11 +453,11 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>成功率への掛率</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>失敗時の致死率</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>失敗時の死亡率</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>作業速度:</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>作業個数:</EfficiencyStat>
+  <EfficiencyStat>生産品質:</EfficiencyStat>
   <!-- EN: {0} skill required -->
   <SkillRequiredToBuild>必須{0}スキルのレベル</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
@@ -614,12 +616,16 @@
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
+  <!-- EN: Send -->
+  <Send>出発する</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>メンバー</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>物資</ItemsTab>
+  <!-- EN: Food and medicine -->
+  <FoodAndMedicineTab>食糧と薬品</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -712,6 +718,8 @@
   <AnimalsSection>動物</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>ルート選択</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>ルート変更</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>放棄</AbandonButton>
   <!-- EN: Movement speed -->
@@ -742,6 +750,8 @@
   <FactionType>派閥種別</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>体格の合計</TotalBodySize>
+  <!-- EN: Automatically select food and medicine -->
+  <AutomaticallySelectFoodAndMedicine>食糧と薬品を自動的に選択する</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -753,7 +763,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃するのですか？\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!.</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃しますか？\n\n{1}はあなたを敵とみなし,最終的にはあなたのコロニーを襲い始めるでしょう!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -778,6 +788,8 @@
   <TransporterItemIsUnreachableMulti>{0}x {1}を,輸送ポッドまで運ぶ道順がありません.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>{0}x {1}を,シャトルまで運ぶ道順がありません.</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>入植者は最大{0}人までしか乗せられません.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -963,13 +975,13 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します。本当によろしいですか？\n\n次のことが実行されます：\n　- 翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　- それぞれの翻訳文の前に、未翻訳の原文(英語)がコメント文として挿入されます\n　- 全ての翻訳文が適切なXMLファイル内に再配置されます\n　- 全てのXMLファイルについて書式が自動的に整えられます\n　- 旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　- 既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません。\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください。最新の翻訳データを読み込んでおく必要があります。\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう。</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか？\n\n次のことが実行されます：\n　- 翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　- それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　- 全ての翻訳文が適切なXMLファイル内に再配置されます\n　- 全てのXMLファイルについて書式が自動的に整えられます\n　- 旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　- 既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>はい、バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>何も無いタイルにポッドを送り込むと,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>何も無いタイルにポッドを発射すると,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
@@ -979,7 +991,7 @@
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>視線が通ることが必要です</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>ニューラルヒート利得</AbilityEntropyGain>
+  <AbilityEntropyGain>ニューラルヒート上昇量</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>サイフォーカスコスト</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
@@ -990,13 +1002,60 @@
   <AbilityCastingTime>詠唱時間</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>ターゲットまでの視線が通りません.</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>ターゲットまで到達できません.</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>十分な空間がありません.</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
   <AbilityOccupiedCells>{0}は空きエリアをターゲットにしなければなりません.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0}は歩けるエリアをターゲットにしなければなりません.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>{0}は屋根のないエリアをターゲットにしなければなりません.</AbilityRoofed>
-  <!-- EN: {0} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0}は精神崩壊しています.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0_labelShort}は精神崩壊しています.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}は精神崩壊していません.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>{0}は'{1}'の精神状態では機能しません.</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>{0_labelShort}の抵抗値は0です.</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>使用できない: {0}には性別がありません.</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort}は{0_labelShort}の正しくない性別です.</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>精神崩壊の強さあたりのサイフォーカスコスト</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>{0_labelShort}は既に鼓舞されています.</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>{0_labelShort}は現在,鼓舞を受けられません.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>{0_labelShort}は眠っています.</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>このタイルは通れません.</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>ランダムな味方にスキップ</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>スキップしてキャラバンに参加する</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>目標地点には味方が必要</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>スキップする塊がありません.</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>精神的な愛へ誘導する</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>精神的な愛</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>{PAWN_labelShort}を別のマップやキャラバンに移動させると,関連するクエストは失敗し,すぐに立ち去るでしょう.\n\n本当に{PAWN_labelShort}をファースキップしますか?</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>軽度</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>重度</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>極度</MentalBreakIntensityExtreme>
   
 </LanguageData>

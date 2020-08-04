@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Work tab -->
@@ -34,7 +34,7 @@
   <Priority3>通常</Priority3>
   <!-- EN: Low priority -->
   <Priority4>劣後</Priority4>
-
+  
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>服装を管理</ManageOutfits>
@@ -54,7 +54,7 @@
   <ManageDrugPolicies>薬物適用方針の管理</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>食事制限の管理</ManageFoodRestrictions>
-
+  
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>コピー</Copy>
@@ -62,7 +62,7 @@
   <Paste>ペースト</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>制限ゾーン</AllowedArea>
-
+  
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>主人</Master>
@@ -70,13 +70,13 @@
   <PregnantIconDesc>受胎 ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>絆</BondedTo>
-
+  
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>この生物は肉食動物です.腹を空かせていると,小さな生物を狩るでしょう - ことによると,人も含めて</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
   <IsInMentalState>この生物の精神状態: {0}</IsInMentalState>
-
+  
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>敵対</Hostile>
@@ -89,7 +89,9 @@
   <!-- EN: Enemy of:  -->
   <EnemyOf>敵対: </EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
+  <CurrentGoodwillTip>この派閥との,現在の友好値と関係性です.</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip>この派閥との現在の関係です.</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -104,7 +106,7 @@
   <CurrentGoodwillTip_NaturalGoodwillRise>友好値が{0}を下回ると,一年毎に{1}上がっていきます.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
   <CurrentGoodwillTip_NaturalGoodwillFall>友好値が{0}を超えると,一年毎に{1}下がっていきます.</CurrentGoodwillTip_NaturalGoodwillFall>
-
+  
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>友人</Friend>
@@ -112,7 +114,7 @@
   <Rival>ライバル</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>知人</Acquaintance>
-
+  
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>グラフ</Graph>
@@ -199,17 +201,19 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>あなたのテックレベルを考慮した結果,プロジェクトにかかる費用 {0} は最終的に {1} になりました.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>Techprints are available from these factions via trade and quests:</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>テックプリントは,貿易とクエストを介して以下の派閥から入手できます:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>あなたの派閥のテックレベルは{0}ですが,この研究のテックレベルは{1}です.研究速度は本来の{2}となります.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>次のものでアンロック</UnlockedWith>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
   <AvailableQuests>保留</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>受領</ActiveQuests>
+  <ActiveQuests>受諾</ActiveQuests>
   <!-- EN: Historical -->
-  <HistoricalQuests>却下</HistoricalQuests>
+  <HistoricalQuests>処理済</HistoricalQuests>
   <!-- EN: no quest selected -->
   <NoQuestSelected>クエストはありません</NoQuestSelected>
   <!-- EN: Appeared {0} days ago -->
@@ -217,39 +221,43 @@
   <!-- EN: Appeared on {0} -->
   <AppearedOn>{0} 開始</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>受領後 {0}経過</AcceptedAgo>
+  <AcceptedAgo>受諾後 {0}経過</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>{0} 受領</AcceptedOn>
+  <AcceptedOn>{0} 受諾</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>{1}によって受領後 {0}経過</AcceptedAgoBy>
+  <AcceptedAgoBy>{1}によって受諾後 {0}経過</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>{1}によって {0}受領</AcceptedOnBy>
+  <AcceptedOnBy>{1}によって {0}受諾</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
   <QuestExpiresIn>期限切れまで あと{0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>期日：{0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
-  <QuestAveragePawnMood>ゲストの平均心情({0}前): {1}</QuestAveragePawnMood>
+  <QuestAveragePawnMood>ゲストの平均心情値({0}前): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>TODO</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets>前回の{1}と比較した{0}の平均心情値です</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>{0}にシャトルが着きます</ShuttleArrivesIn>
+  <ShuttleArrivesIn>{0}後にシャトルが到着します</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>{0}にシャトルが着きます</ShuttleArrivesOn>
+  <ShuttleArrivesOn>{0}に シャトルが到着します</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>{0}にシャトルが発ちます</ShuttleDepartsIn>
+  <ShuttleDepartsIn>{0}後にシャトルが出発します</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>{0}にシャトルが発ちます</ShuttleDepartsOn>
+  <ShuttleDepartsOn>{0}に シャトルが出発します</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>{0}後にゲストが出発します</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>{0}に ゲストが出発します</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0}前に完了</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>クエストを受領</AcceptQuest>
+  <AcceptQuest>クエストを受諾</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>{0_labelShort}を受領</AcceptWith>
+  <AcceptWith>{0_labelShort}が受諾する</AcceptWith>
   <!-- EN: Accept for -->
   <AcceptQuestFor>報酬</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
-  <AcceptQuestForTip>クリックすることで,この報酬でクエストを受領します.</AcceptQuestForTip>
+  <AcceptQuestForTip>クリックすることで,この報酬でクエストを受諾します.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>期限切れ</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
@@ -257,21 +265,27 @@
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>クエスト失敗</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
-  <QuestOutcomeInfo_Invalid>このクエストは,受領される前に無効になりました.</QuestOutcomeInfo_Invalid>
+  <QuestOutcomeInfo_Invalid>このクエストは,受諾される前に無効になりました.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>{0}をワールドマップ上で表示</JumpToTargetCustom>
   <!-- EN: Select hives -->
-  <SelectHiveTargets>Select hives</SelectHiveTargets>
+  <SelectHiveTargets>巣を選択</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
   <QuestChallengeRatingTip>これは難易度を表します. このクエストが あなたの今の能力と比べて, どれくらい難しいかを表したものです. より挑戦的であれば, より報酬も多くなります.\n\n1: 普通\n2: 難しい\n3: とても難しい\n4: 最高に難しい</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,あなたの力が必要です.</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,以下の条件を満たす必要があります</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>称号持ちが満足する予約されていない複数の寝室</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>爵位の必要品を揃えた複数の空き寝室</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>称号持ちが満足する予約されていない寝室</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>爵位の必要品を揃えた空き寝室</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>{TITLE}である{PAWN_definite}の,爵位の必要品を揃えた玉座</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom>{TITLE}である{PAWN_definite}の,爵位の必要品を揃えた玉座</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>{0}の称号を持つ入植者</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} must be in home colony -->
+  <QuestPawnNotOnColonyMap>{PAWN_definite}はこのコロニーに居なければならない</QuestPawnNotOnColonyMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>報酬設定</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -292,7 +306,11 @@
   <GoodwillTip>{0_name}との友好値が{1}改善されます.\n\n現在の友好値: {4} ({5}).\n\n友好値は,その派閥との一般的な関係性を測るものです.{2}を下回ると,派閥は敵対的になり,入植地やキャラバン隊を襲撃するようになります. {3}を超えると,派閥は同盟を組み,可能な場合はあなたを助けるために援軍も送るようになります.それ以外の場合,派閥は中立のままであり,取引や会話を自由に行えます.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort}が加わる</PawnQuestReward>
-
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>裏切りの申し出: {0} ターゲットが残る</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>{0}は,{1}の仲間を全員殺害することに対して,報酬を与えるでしょう.</QuestBetrayalOfferTip>
+  
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>追加欲求</CreatesNeed>

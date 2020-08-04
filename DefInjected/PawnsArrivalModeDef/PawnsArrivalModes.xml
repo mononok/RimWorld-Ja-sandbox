@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
@@ -37,15 +37,20 @@
   <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef}は一度に複数の角度から,歩いて到着します.</EdgeWalkInGroups.textWillArrive>
   
   <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
-  <MechClusterDrop.textEnemy>{0}のクラスターが,近くに輸送ポッドで降下してきた.</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textEnemy>{0}のクラスターが,近くに輸送ポッドで降下してきました.</MechClusterDrop.textEnemy>
   <!-- EN: The mech cluster will arrive in drop pods. -->
   <MechClusterDrop.textWillArrive>メカクラスターは輸送ポッドで到着します.</MechClusterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>{1}から来た{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸している!</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>{1}から来た{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸しています!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>{1}からの友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラになって,このエリア一体に散在して着陸している!</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>{1}から来た友好的な{0}が,輸送ポッドで到着しました.それらの輸送ポッドは,てんでバラバラに,このエリア一体に散在して着陸しています!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef}は輸送ポットで到着します.</RandomDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in a shuttle. -->
+  <Shuttle.textEnemy>{1}から来た{0}が,シャトルで到着しました.</Shuttle.textEnemy>
+  <!-- EN: A friendly group of {0} from {1} have arrived in a shuttle. -->
+  <Shuttle.textFriendly>{1}から来た友好的な{0}が,シャトルで到着しました.</Shuttle.textFriendly>
   
 </LanguageData>

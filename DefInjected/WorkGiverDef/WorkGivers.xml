@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: release prisoners -->
@@ -490,6 +490,11 @@
   <ReleasePrisoner.gerund>釈放</ReleasePrisoner.gerund>
   <!-- EN: release -->
   <ReleasePrisoner.verb>釈放</ReleasePrisoner.verb>
+  
+  <!-- UNUSED -->
+  <Reload.label>装置を再装填</Reload.label>
+  <Reload.gerund>再装填</Reload.gerund>
+  <Reload.verb>再装填</Reload.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>屋根を除去</RemoveRoofs.label>

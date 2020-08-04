@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
@@ -87,7 +87,7 @@
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
   <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\n前回の勧誘試み\n勧誘者：{3}\n交渉能力要因：{4}\n評価要因：{5} ({6})\n最終的な確率 {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nResistance reduction: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\n抵抗値の減少量: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
   <PrisonerReleasePotentialRelationGains>囚人解放時の関係改善値</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
@@ -111,7 +111,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
+  <ConsideredGuilty>有罪とする(有効期限切れまで残り{0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -303,10 +303,10 @@
   <CaravanMembers>メンバー</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>家畜</CaravanAnimals>
-  <!-- EN: Items to load -->
-  <ItemsToLoad>積載するアイテム</ItemsToLoad>
-  <!-- EN: Loaded items -->
-  <LoadedItems>積載済みアイテム</LoadedItems>
+  <!-- EN: To load -->
+  <ItemsToLoad>積載する</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>積載済み</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>家畜の群れ</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
@@ -322,11 +322,11 @@
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>このクエストを却下して却下タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報酬と有効期限は普通通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
+  <DismissQuest>このクエストを却下して処理済タブへ移動します.\n\nクエストはいつでも却下を取り消せます.報酬と有効期限は通常通りに進みます.却下したクエストに関する通知は受け取らなくなります.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>このクエストの却下を取り消します.\n\nクエストは保留か受領タブへ戻り,通知は再び有効となります.</UnDismissQuest>
+  <UnDismissQuest>このクエストの却下を取り消します.\n\nクエストは保留か受諾タブへ戻り,通知は再び有効となります.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>このクエストは却下されたので,ここにあります.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
+  <QuestDismissed>このクエストは却下されたので,このタブに移動されました.\n\n有効期限内なら却下を取り消すことができます.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>このクエストを削除して,クエストリストから完全に消去します.</DeleteQuest>
 

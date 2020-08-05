@@ -73,18 +73,18 @@
   <!-- EN: Birthday -->
   <LetterLabelBirthday>誕生日</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>今日は,{0}の誕生日です!生物学的には {1}は {3}才になります.\n\n暦上では,{1}は,{2}になりました.\n\nノート:冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
+  <BirthdayChronological>今日は,{0}の誕生日です!生物学的には{1}は{3}歳になります.\n\n暦上では,{1}は,{2}になりました.\n\n注意：冷凍睡眠中は老化しないので,暦上の年齢は,生物学的年齢とは別になります.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>今日は,{0}の 生物学的な {1}才の誕生日\n\nですが不幸にも 年齢からくる持病({2}) を悪くさせてしまいました.</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>今日は,{0}の生物学的な{1}歳の誕生日です.\n\nですが不幸にも{0_nameFull}は, 老化によって次の病気を患いました:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN}は {1}の病に倒れました.\n\n医療用ベッドとドクターを確保してください.{PAWN_definite}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
+  <NewDisease>{PAWN}は{1}の病に倒れました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN}は {3}の病に倒れました.感染元は {PAWN_possessive} {1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
+  <NewPartDisease>{PAWN}は{3}の病に倒れました.感染元は{PAWN_possessive}{1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>{PAWN_labelShort}は 病気を発症しました: {1}</NewDiseaseAnimal>
+  <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
   <NewPartDiseaseAnimal>{PAWN_possessive} {1}の{PAWN_labelShort}は 病気を発症しました: {3}</NewPartDiseaseAnimal>
 
@@ -214,9 +214,9 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>ごめんなさい</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>来るべき日がくれば,彼らは結婚式を執り行い,すべての入植者を招待します.どこで結婚式を行うかを思い通りにしたければ,結婚を誓う場の検討をします.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>来るべき日がくれば,二人は結婚式を執り行い,全ての入植者を招待します.どこで結婚式を行うかを思い通りにしたければ,結婚を誓う場の検討をします.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>{PAWN_label}の名字は {1}に変わります.</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label}の名字は{1}に変わります.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull}は,このことで不幸になるでしょう.</LetterRejectedProposal>
 

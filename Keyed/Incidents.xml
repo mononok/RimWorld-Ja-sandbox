@@ -73,7 +73,7 @@
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{1}の {PAWN_titleIndef}が 村を 訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>{1}の{PAWN_titleIndef}が村を訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています. {3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
@@ -81,13 +81,13 @@
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArrive>{0}の旅行者グループが村を訪問しています. {1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
   <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {1_labelShort}は 派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり,{1_labelShort}は,派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
-  <VisitorsLeaving>訪問中の {0}は 去りました.</VisitorsLeaving>
+  <VisitorsLeaving>訪問中の{0}は去りました.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
@@ -150,9 +150,9 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました.彼らは {1}です.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0}から来たトレーダーキャラバンが接触してきました.彼らは{1}です.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>彼らは,ここを離れるまでの間,コロニーの周りをウロウロするでしょう.あなたは彼らを攻撃できます - しかし,それは彼らの派閥を怒らせます!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>彼らは,ここを離れるまでの間,コロニーの周りをウロウロします.あなたは彼らを攻撃できますが,しかし,彼らの派閥を怒らせるでしょう!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->

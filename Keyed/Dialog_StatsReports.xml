@@ -53,7 +53,7 @@
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
   <StatsReport_ReloadMarketValue>再充填にかかるコストです ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>残りの{CHARGENOUN_plural}の掛け率です({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>{CHARGENOUN_plural}残数の掛け率です({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>"心情" {0}による掛け率</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -299,7 +299,7 @@
   <!-- EN: Reload cost per {CHARGENOUN} -->
   <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}1回分の再充填コスト</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分再充填するために必要なアイテムの量です.複数の{CHARGENOUN_plural}をまとめて充填できます.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}を1回分再充填するために必要なアイテムの量です.{CHARGENOUN_plural}を複数回分,まとめて充填できます.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
   <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切り時に消滅する</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->

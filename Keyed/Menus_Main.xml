@@ -61,7 +61,7 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
+  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
   <!-- EN: Learn more -->
@@ -302,11 +302,11 @@
   <!-- EN: Threat scale -->
   <Difficulty_ThreatScale_Label>脅威の規模</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>襲撃や感染症の脅威の大きさ,およびクエストの難易度を調整します.</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>襲撃や虫の襲来の脅威の大きさ,およびクエストの難易度を調整します.</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
   <Difficulty_AllowBigThreats_Label>主要な脅威</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>襲撃,感染症,人狩り集団,メカノイド船の墜落などの主要な脅威を許可します.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>襲撃,虫の襲来,人狩り集団,メカノイド船の墜落などの主要な脅威を許可します.</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
   <Difficulty_AllowViolentQuests_Label>クエスト脅威</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
@@ -322,7 +322,7 @@
   <!-- EN: Extreme weather -->
   <Difficulty_AllowExtremeWeatherIncidents_Label>異常気象</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>死の灰,火山の冬,暴風雨などの異常気象を許可します.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>死の灰,火山の冬,ゲリラ雷雨などの異常気象を許可します.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
   <DifficultyEconomySection>資源</DifficultyEconomySection>
@@ -349,11 +349,11 @@
   <!-- EN: Quest rewards -->
   <Difficulty_QuestRewardValueFactor_Label>クエスト報酬</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>クエストから受け取る報酬の価値を調整します.\n\n注意：クエスト報酬の価値は,脅威の規模にも合わせて自動的に調整されています.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>クエストから受け取る報酬の価値を調整します.\n\n注意：クエスト報酬の価値は,脅威の規模と釣り合うように自動的に調整されます.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
   <Difficulty_RaidLootPointsFactor_Label>戦利品</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>襲撃者から手に入る戦利品の価値を調整します.\n\n注意：襲撃の戦利品の価値は,脅威の規模にも合わせて自動的に調整されています.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>襲撃者から手に入る戦利品の価値を調整します.\n\n注意：襲撃の戦利品の価値は,脅威の規模と釣り合うように自動的に調整されます.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
   <Difficulty_MaintenanceCostFactor_Label>タレット再装填コスト</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
@@ -361,9 +361,9 @@
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>スカリア病による腐敗率</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>スカリア症に感染している生物が,死亡時にすぐに腐敗する確率です.\n\n注意：デフォルトの設定では,難易度の高さによる動物の増加数と,正確にバランスを取るように設計されているため,全てのプレイヤーが同量の肉の報酬を入手するようになっています.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>スカリア症に感染している生物が,死亡時に即座に腐敗する確率です.\n\n注意：デフォルトの設定では,難易度の高さによる動物の増加数と,正確にバランスを取るように設計されているため,全てのプレイヤーが同量の肉の報酬を入手するようになっています.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>敵ダウン時の死亡率補正</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>敵ダウン時の死亡率</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>敵がダウンしたときに,即座に死亡する確率を調整します.これは囚人を捕獲する機会に影響を与えるため,コロニーの人口増加率にも影響を与えます.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
@@ -376,9 +376,9 @@
   <!-- EN: Food poison chance -->
   <Difficulty_FoodPoisonChanceFactor_Label>食中毒の確率補正</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>中毒になる可能性のある食事を食べた人間が,食中毒になる可能性を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>中毒になる可能性のある食事を食べた人間が,食中毒になる確率を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>野生動物の反撃率補正</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>野生動物の反撃率</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
   <Difficulty_ManhunterChanceOnDamageFactor_Info>危害を加えられた野生動物が,加害者を攻撃し始める確率を調整します.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
@@ -386,7 +386,7 @@
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
   <Difficulty_FriendlyFireChanceFactor_Info>味方へ誤射する確率を調整します.\n\n注意：この設定は,味方に直接当たる誤射にのみ影響します.爆発によるダメージや,標的の周囲への誤射は防げません.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>入植者の即死率補正</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>入植者の即死率</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
   <Difficulty_AllowInstantKillChance_Info>入植者が攻撃によって即死する確率を調整します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
@@ -412,7 +412,7 @@
   <!-- EN: Map generation natural hives -->
   <Difficulty_AllowCaveHives_Label>マップ生成時の自然の巣</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>自然の洞窟には,休止状態の虫の巣が出現することがあります.\n\nこの設定はマップ生成時にのみ適用され,プレイ中にトンネルを掘ってくる可能性のある活発な虫には影響しません.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>自然の洞窟には,休止状態の虫の巣が出現することがあります.\n\nこの設定はマップ生成時にのみ適用され,プレイ中にトンネルを掘る可能性のある活発な虫には影響しません.</Difficulty_AllowCaveHives_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>プレイヤーツール</DifficultyPlayerToolsSection>
@@ -423,27 +423,26 @@
   <!-- EN: Player can build turrets -->
   <Difficulty_AllowTurrets_Label>建築可能：タレット</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>入植者に,ミニタレットやオートキャノンタレット,ウランスラグタレットのような,静的タレットの建築を許可します.\n\nこれが無効になっていても,鹵獲したタレットは引き続き使用できます.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>入植者に,タレットやオートキャノンタレット,ウランスラグタレットのような,静的タレットの建築を許可します.\n\nこれが無効になっていても,鹵獲したタレットは引き続き使用できます.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
   <Difficulty_AllowMortars_Label>建築可能：迫撃砲</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
   <Difficulty_AllowMortars_Info>入植者に,迫撃砲の建築を許可します.\n\nこれが無効になっていても,鹵獲した迫撃砲は引き続き使用できます.</Difficulty_AllowMortars_Info>
   
   <!-- EN: Adaptation -->
-  <!--TODO--><!--仮翻訳: 和訳知識不足により、この項目全体が雑な仮翻訳状態です。再翻訳をお願いします。-->
   <DifficultyAdaptationSection>適応</DifficultyAdaptationSection>
   <!-- EN: Damage adaptation growth -->
   <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ダメージ適応増加</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応とは,あなたが負けていない限り,ストーリーテラーが時間の経過と共にゲームをより挑戦的にすることを意味します.これは,資産と人口のストーリーエフェクトとは別のものです.\n\nこの設定は,挑戦増加のレートを調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応とは,あなたが損失を出さない限り,時間の経過と共にストーリーテラーがゲームをより挑戦的にすることを意味します.これは,資産や人口が物語に与える影響とは別のものです.\n\nこの設定は,挑戦の増加量を調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Damage adaptation effect -->
   <Difficulty_AdaptationEffectFactor_Label>ダメージ適応影響</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
-  <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが負けていない限り,ストーリーテラーが時間の経過と共にゲームをより挑戦的にすることを意味します.これは,資産と人口のストーリーエフェクトとは別のものです.\n\nこの設定は,実際の脅威の適応値の影響を調整します.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが損失を出さない限り,時間の経過と共にストーリーテラーがゲームをより挑戦的にすることを意味します.これは,資産や人口が物語に与える影響とは別のものです.\n\nこの設定は,実際の脅威に影響を与える適応値の割合を調整します.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Fixed wealth progress mode -->
   <Difficulty_FixedWealthMode_Label>資産進行度固定モード</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in fixed wealth progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Fixed wealth progress mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In fixed progression mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに超えて,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>資産進行度固定モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.資産進行度固定モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.資産進行度固定モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに上回り,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
   
   <!-- Site select -->
   <!-- EN: Select starting site -->
